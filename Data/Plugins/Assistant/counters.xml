@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<counters>
+	<counter>
+		<name>Bandages</name>
+		<format>aids</format>
+		<itemid>3617</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Black Pearl</name>
+		<format>bp</format>
+		<itemid>3962</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Blood Moss</name>
+		<format>bm</format>
+		<itemid>3963</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Cure Potions</name>
+		<format>cure</format>
+		<itemid>3847</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Garlic</name>
+		<format>gl</format>
+		<itemid>3972</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Ginseng</name>
+		<format>gs</format>
+		<itemid>3973</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Heal Potions</name>
+		<format>heal</format>
+		<itemid>3852</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Mandrake Root</name>
+		<format>mr</format>
+		<itemid>3974</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Nightshade</name>
+		<format>ns</format>
+		<itemid>3976</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Spider's Silk</name>
+		<format>ss</format>
+		<itemid>3981</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Sulfurous Ash</name>
+		<format>sa</format>
+		<itemid>3980</itemid>
+		<hue>0</hue>
+	</counter>
+	<counter>
+		<name>Arrows</name>
+		<format>arw</format>
+		<itemid>3903</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Bolts</name>
+		<format>blt</format>
+		<itemid>7163</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Platinum</name>
+		<format>plat</format>
+		<itemid>3821</itemid>
+		<hue>1154</hue>
+	</counter>
+	<counter>
+		<name>Folded Cloth</name>
+		<format>fcloth</format>
+		<itemid>5990</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Cloth Bolts</name>
+		<format>bcloth</format>
+		<itemid>3989</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Logs</name>
+		<format>logs</format>
+		<itemid>7133</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Thread</name>
+		<format>thread</format>
+		<itemid>4000</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Yarn</name>
+		<format>yarn</format>
+		<itemid>3613</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Sewing Kit</name>
+		<format>sewing</format>
+		<itemid>3997</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Cotton Bale</name>
+		<format>bale</format>
+		<itemid>3577</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Lockpicks</name>
+		<format>lp</format>
+		<itemid>5372</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Explosion Potions</name>
+		<format>explo</format>
+		<itemid>3853</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Agility Potions</name>
+		<format>agility</format>
+		<itemid>3848</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Total Refresh Potion</name>
+		<format>refresh</format>
+		<itemid>3851</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>Strength Potion</name>
+		<format>strength</format>
+		<itemid>3849</itemid>
+		<hue>-1</hue>
+	</counter>
+</counters>
