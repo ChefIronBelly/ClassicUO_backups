@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
-	<gump type="20" x="100" y="100" serial="0" minimized="False" />
+	<gump type="20" x="1439" y="781" serial="0" minimized="False" />
 	<gump type="9" x="1589" y="-5" serial="1777366" isminimized="False" />
 	<gump type="2" x="1510" y="315" serial="1201048940" graphic="60" isminimized="False" />
-	<gump type="2" x="1694" y="505" serial="1201048942" graphic="61" isminimized="False" />
-	<gump type="2" x="1666" y="315" serial="1201048946" graphic="60" isminimized="False" />
+	<gump type="2" x="1683" y="496" serial="1201048942" graphic="61" isminimized="False" />
+	<gump type="2" x="1657" y="317" serial="1201048946" graphic="60" isminimized="False" />
 	<gump type="12" x="1439" y="846" serial="0" />
 </gumps>

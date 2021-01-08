@@ -6,14 +6,14 @@
 		<gump type="16" x="1333" y="808" serial="0" id="22" matrix_x="0" matrix_y="1" />
 		<gump type="16" x="1333" y="808" serial="0" id="22" matrix_x="1" matrix_y="1" />
 	</anchored_group_gump>
-	<gump type="20" x="100" y="100" serial="0" minimized="False" />
+	<gump type="20" x="1452" y="652" serial="0" minimized="False" />
 	<gump type="9" x="1556" y="1" serial="2301189" isminimized="False" />
 	<gump type="2" x="1455" y="325" serial="1243716144" graphic="60" isminimized="False" />
 	<gump type="2" x="1656" y="517" serial="1243716146" graphic="61" isminimized="False" />
 	<gump type="2" x="1624" y="324" serial="1243716150" graphic="60" isminimized="False" />
-	<gump type="16" x="1332" y="719" serial="0" id="9" />
 	<gump type="12" x="1447" y="714" serial="0" />
-	<gump type="15" x="1248" y="770" serial="0" id="30" />
-	<gump type="15" x="1249" y="722" serial="0" id="29" />
+	<gump type="16" x="1332" y="719" serial="0" id="9" />
 	<gump type="1" x="100" y="100" serial="0" graphic="30080" direction="1" />
+	<gump type="15" x="1249" y="722" serial="0" id="29" />
+	<gump type="15" x="1248" y="770" serial="0" id="30" />
 </gumps>
