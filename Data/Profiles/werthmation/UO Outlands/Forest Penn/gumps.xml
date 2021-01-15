@@ -1,8 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
-	<gump type="20" x="100" y="100" serial="0" minimized="False" />
+	<gump type="20" x="1429" y="502" serial="0" minimized="False" />
 	<gump type="9" x="1592" y="-19" serial="1762386" isminimized="False" />
-	<gump type="2" x="1495" y="302" serial="1207390463" graphic="60" isminimized="False" />
-	<gump type="16" x="1242" y="725" serial="0" id="38" />
-	<gump type="12" x="1451" y="800" serial="0" />
+	<gump type="16" x="1325" y="612" serial="0" id="38" />
+	<gump type="8" x="0" y="0" serial="0" isminimized="True" />
+	<gump type="3" x="1429" y="561" serial="0" rows="1" columns="5" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" />
+			<control graphic="3852" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="12" x="1420" y="611" serial="0" />
 </gumps>

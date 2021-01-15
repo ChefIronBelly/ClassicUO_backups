@@ -86,15 +86,15 @@
 		"Y" : 24
 	},
 	"game_window_position" : {
-		"X" : 10,
-		"Y" : 10
+		"X" : -2,
+		"Y" : 25
 	},
 	"game_window_lock" : false,
 	"game_window_full_size" : false,
 	"window_borderless" : false,
 	"game_window_size" : {
-		"X" : 600,
-		"Y" : 480
+		"X" : 1538,
+		"Y" : 977
 	},
 	"topbar_gump_position" : {
 		"X" : 0,
@@ -162,6 +162,7 @@
 	"show_stats_changed_message" : true,
 	"filter_type" : 0,
 	"shadows_enabled" : true,
+	"shadows_statics" : true,
 	"aura_under_feet_type" : 0,
 	"aura_on_mouse" : true,
 	"party_aura" : false,

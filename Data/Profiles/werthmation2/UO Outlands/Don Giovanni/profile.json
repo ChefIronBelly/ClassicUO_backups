@@ -129,7 +129,7 @@
 	"disable_tab_btn" : false,
 	"disable_ctrl_q_w_btn" : false,
 	"disable_auto_move" : false,
-	"enable_drag_select" : false,
+	"enable_drag_select" : true,
 	"drag_select_modifier_key" : 0,
 	"override_container_location" : false,
 	"override_container_location_setting" : 0,

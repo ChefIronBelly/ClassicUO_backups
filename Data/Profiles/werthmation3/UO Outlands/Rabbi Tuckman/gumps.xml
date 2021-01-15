@@ -1,4 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
-	<gump type="9" x="1258" y="65" serial="1115667" isminimized="False" />
+	<gump type="20" x="1453" y="569" serial="0" minimized="False" />
+	<gump type="9" x="1579" y="-20" serial="1115667" isminimized="False" />
+	<gump type="16" x="1251" y="645" serial="0" id="38" />
+	<gump type="2" x="1559" y="305" serial="1146748181" graphic="60" isminimized="False" />
+	<gump type="2" x="1665" y="486" serial="1146748183" graphic="61" isminimized="False" />
+	<gump type="12" x="1443" y="681" serial="0" />
+	<gump type="8" x="1249" y="760" serial="0" isminimized="False" />
+	<gump type="3" x="1451" y="628" serial="0" rows="1" columns="5" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="3851" hue="0" />
+			<control graphic="2429" hue="0" />
+		</controls>
+	</gump>
 </gumps>

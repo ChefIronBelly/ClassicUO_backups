@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1053</property>
-	<property name="WindowY" type="System.Int32">73</property>
+	<property name="WindowX" type="System.Int32">1026</property>
+	<property name="WindowY" type="System.Int32">99</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -52,7 +52,7 @@
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="OldStatBar" type="System.Boolean">False</property>
-	<property name="SmartLastTarget" type="System.Boolean">False</property>
+	<property name="SmartLastTarget" type="System.Boolean">True</property>
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
 	<property name="LTHilight" type="System.Int32">0</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
@@ -63,7 +63,7 @@
 	<property name="ForceSizeEnabled" type="System.Boolean">False</property>
 	<property name="ForceSizeX" type="System.Int32">1000</property>
 	<property name="ForceSizeY" type="System.Int32">800</property>
-	<property name="PotionEquip" type="System.Boolean">False</property>
+	<property name="PotionEquip" type="System.Boolean">True</property>
 	<property name="BlockHealPoison" type="System.Boolean">True</property>
 	<property name="SmoothWalk" type="System.Boolean">False</property>
 	<property name="Negotiate" type="System.Boolean">True</property>
@@ -264,12 +264,16 @@
 	<dresslists />
 	<hotkeys>
 		<key mod="1" key="70" send="False">L:3002012</key>
+		<key mod="1" key="80" send="False">L:3002030</key>
 		<key mod="1" key="72" send="False">L:3002039</key>
+		<key mod="1" key="76" send="False">L:3002040</key>
+		<key mod="1" key="66" send="False">Play: Say</key>
+		<key mod="1" key="82" send="False">Play: recall</key>
 		<key mod="1" key="69" send="False">L:1010</key>
 		<key mod="4" key="66" send="False">L:1025</key>
-		<key mod="1" key="49" send="False">L:1028</key>
-		<key mod="1" key="50" send="False">L:1029</key>
-		<key mod="1" key="51" send="False">L:1030</key>
+		<key mod="0" key="49" send="False">L:1028</key>
+		<key mod="0" key="50" send="False">L:1029</key>
+		<key mod="0" key="51" send="False">L:1030</key>
 		<key mod="1" key="52" send="False">L:1509</key>
 	</hotkeys>
 	<passwords />
