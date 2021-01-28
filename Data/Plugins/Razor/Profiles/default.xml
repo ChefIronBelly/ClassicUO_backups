@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1026</property>
-	<property name="WindowY" type="System.Int32">99</property>
+	<property name="WindowX" type="System.Int32">949</property>
+	<property name="WindowY" type="System.Int32">115</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -32,7 +32,7 @@
 	<property name="Opacity" type="System.Int32">100</property>
 	<property name="AutoOpenCorpses" type="System.Boolean">False</property>
 	<property name="CorpseRange" type="System.Int32">2</property>
-	<property name="BlockDismount" type="System.Boolean">False</property>
+	<property name="BlockDismount" type="System.Boolean">True</property>
 	<property name="CapFullScreen" type="System.Boolean">False</property>
 	<property name="CapPath" type="System.String">/home/chef/Pictures/RazorScreenShots</property>
 	<property name="CapTimeStamp" type="System.Boolean">True</property>
@@ -165,7 +165,7 @@
 	<property name="ShowPlayingSoundInfo" type="System.Boolean">False</property>
 	<property name="ShowMusicInfo" type="System.Boolean">False</property>
 	<property name="AutoSaveScript" type="System.Boolean">False</property>
-	<property name="AutoSaveScriptPlay" type="System.Boolean">False</property>
+	<property name="AutoSaveScriptPlay" type="System.Boolean">True</property>
 	<property name="HighlightFriend" type="System.Boolean">False</property>
 	<property name="ScriptTargetTypeRange" type="System.Boolean">False</property>
 	<property name="ScriptDClickTypeRange" type="System.Boolean">False</property>
@@ -269,6 +269,7 @@
 		<key mod="1" key="76" send="False">L:3002040</key>
 		<key mod="1" key="66" send="False">Play: Say</key>
 		<key mod="1" key="82" send="False">Play: recall</key>
+		<key mod="2" key="83" send="False">Play Script: Stealth</key>
 		<key mod="1" key="69" send="False">L:1010</key>
 		<key mod="4" key="66" send="False">L:1025</key>
 		<key mod="0" key="49" send="False">L:1028</key>

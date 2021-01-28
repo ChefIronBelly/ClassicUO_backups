@@ -46,10 +46,10 @@
 	"show_mobiles_h_p" : false,
 	"mobile_h_p_type" : 0,
 	"mobile_h_p_show_when" : 0,
-	"draw_roofs" : true,
-	"tree_to_stumps" : false,
+	"draw_roofs" : false,
+	"tree_to_stumps" : true,
 	"enable_cave_border" : false,
-	"hide_vegetation" : false,
+	"hide_vegetation" : true,
 	"fields_type" : 0,
 	"no_color_objects_out_of_range" : false,
 	"use_circle_of_transparency" : false,
@@ -87,14 +87,14 @@
 	},
 	"game_window_position" : {
 		"X" : -5,
-		"Y" : -5
+		"Y" : 22
 	},
 	"game_window_lock" : false,
-	"game_window_full_size" : true,
+	"game_window_full_size" : false,
 	"window_borderless" : false,
 	"game_window_size" : {
-		"X" : 1848,
-		"Y" : 1016
+		"X" : 1446,
+		"Y" : 983
 	},
 	"topbar_gump_position" : {
 		"X" : 0,
@@ -161,8 +161,8 @@
 	"show_skills_changed_delta_value" : 1,
 	"show_stats_changed_message" : true,
 	"filter_type" : 0,
-	"shadows_enabled" : true,
-	"shadows_statics" : true,
+	"shadows_enabled" : false,
+	"shadows_statics" : false,
 	"aura_under_feet_type" : 1,
 	"aura_on_mouse" : true,
 	"party_aura" : false,
@@ -178,7 +178,7 @@
 	"override_all_fonts_is_unicode" : true,
 	"sallos_easy_grab" : false,
 	"journal_dark_mode" : false,
-	"containers_scale" : 100,
+	"containers_scale" : 140,
 	"scale_items_inside_containers" : false,
 	"double_click_to_loot_inside_containers" : false,
 	"use_large_container_gumps" : false,

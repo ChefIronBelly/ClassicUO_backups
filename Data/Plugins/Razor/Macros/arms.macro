@@ -1,0 +1,13 @@
+!Loop
+Assistant.Macros.PauseAction|00:00:02.1000000
+Assistant.Macros.UseSkillAction|4
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1243552147|59|122|0|3922
+Assistant.Macros.WaitForGumpAction|3983935725|False|300
+Assistant.Macros.GumpResponseAction|0|0|0
+Assistant.Macros.PauseAction|00:00:02.1000000
+Assistant.Macros.UseSkillAction|4
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.AbsoluteTargetAction|0|0|1139788947|63|105|0|11552
+Assistant.Macros.WaitForGumpAction|3983935725|False|300
+Assistant.Macros.GumpResponseAction|0|0|0
