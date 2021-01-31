@@ -9,7 +9,7 @@
 		<gump type="16" x="1327" y="759" serial="0" id="47" matrix_x="1" matrix_y="2" />
 	</anchored_group_gump>
 	<gump type="20" x="1277" y="544" serial="0" minimized="False" />
-	<gump type="9" x="1440" y="-10" serial="749829" isminimized="False" />
+	<gump type="9" x="1432" y="-2" serial="749829" isminimized="False" />
 	<gump type="2" x="1401" y="317" serial="1134357879" graphic="60" isminimized="False" />
 	<gump type="3" x="1181" y="496" serial="0" rows="1" columns="6" rectsize="40">
 		<controls>
@@ -22,7 +22,7 @@
 		</controls>
 	</gump>
 	<gump type="5" x="957" y="19" serial="0" />
-	<gump type="18" x="1441" y="599" serial="0" />
-	<gump type="4" x="1301" y="597" serial="749829" />
+	<gump type="4" x="1299" y="598" serial="749829" />
 	<gump type="19" x="1206" y="602" serial="0" minimized="False" />
+	<gump type="18" x="1441" y="599" serial="0" />
 </gumps>

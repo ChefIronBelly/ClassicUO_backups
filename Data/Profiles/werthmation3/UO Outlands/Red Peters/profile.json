@@ -200,7 +200,7 @@
 	"world_map_top_most" : false,
 	"world_map_free_view" : false,
 	"world_map_show_party" : true,
-	"world_map_zoom_index" : 8,
+	"world_map_zoom_index" : 9,
 	"world_map_show_coordinates" : true,
 	"world_map_show_mobiles" : true,
 	"world_map_show_player_name" : true,
