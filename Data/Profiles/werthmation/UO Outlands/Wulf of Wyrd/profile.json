@@ -56,7 +56,7 @@
 	"circle_of_transparency_radius" : 85,
 	"circle_of_transparency_type" : 0,
 	"vendor_gump_height" : 60,
-	"default_scale" : 0.9,
+	"default_scale" : 0.5,
 	"enable_mousewheel_scale_zoom" : false,
 	"save_scale_after_close" : false,
 	"restore_scale_after_unpress_ctrl" : false,
@@ -86,21 +86,21 @@
 		"Y" : 24
 	},
 	"game_window_position" : {
-		"X" : -5,
-		"Y" : -5
+		"X" : 20,
+		"Y" : 20
 	},
 	"game_window_lock" : false,
-	"game_window_full_size" : true,
+	"game_window_full_size" : false,
 	"window_borderless" : false,
 	"game_window_size" : {
-		"X" : 1848,
-		"Y" : 1016
+		"X" : 1396,
+		"Y" : 972
 	},
 	"topbar_gump_position" : {
 		"X" : 0,
 		"Y" : 0
 	},
-	"topbar_gump_is_minimized" : false,
+	"topbar_gump_is_minimized" : true,
 	"topbar_gump_is_disabled" : false,
 	"use_alternative_lights" : true,
 	"use_custom_light_level" : false,
@@ -178,7 +178,7 @@
 	"override_all_fonts_is_unicode" : true,
 	"sallos_easy_grab" : false,
 	"journal_dark_mode" : false,
-	"containers_scale" : 100,
+	"containers_scale" : 140,
 	"scale_items_inside_containers" : false,
 	"double_click_to_loot_inside_containers" : false,
 	"use_large_container_gumps" : false,

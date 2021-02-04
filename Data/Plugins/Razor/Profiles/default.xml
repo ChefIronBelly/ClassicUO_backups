@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">961</property>
-	<property name="WindowY" type="System.Int32">96</property>
+	<property name="WindowX" type="System.Int32">804</property>
+	<property name="WindowY" type="System.Int32">136</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -52,7 +52,7 @@
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="OldStatBar" type="System.Boolean">False</property>
-	<property name="SmartLastTarget" type="System.Boolean">True</property>
+	<property name="SmartLastTarget" type="System.Boolean">False</property>
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
 	<property name="LTHilight" type="System.Int32">0</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
@@ -80,7 +80,7 @@
 	<property name="DiffTargetByType" type="System.Boolean">False</property>
 	<property name="StepThroughMacro" type="System.Boolean">False</property>
 	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">True</property>
-	<property name="ShowOverheadMessages" type="System.Boolean">False</property>
+	<property name="ShowOverheadMessages" type="System.Boolean">True</property>
 	<property name="CaptureMibs" type="System.Boolean">False</property>
 	<property name="OverheadFormat" type="System.String">[{msg}]</property>
 	<property name="OverheadStyle" type="System.Int32">1</property>
@@ -263,6 +263,7 @@
 	</agents>
 	<dresslists />
 	<hotkeys>
+		<key mod="1" key="18" send="False">L:1058</key>
 		<key mod="1" key="70" send="False">L:3002012</key>
 		<key mod="1" key="80" send="False">L:3002030</key>
 		<key mod="1" key="72" send="False">L:3002039</key>
@@ -272,9 +273,9 @@
 		<key mod="2" key="83" send="False">Play Script: Stealth</key>
 		<key mod="1" key="69" send="False">L:1010</key>
 		<key mod="4" key="66" send="False">L:1025</key>
-		<key mod="0" key="49" send="False">L:1028</key>
-		<key mod="0" key="50" send="False">L:1029</key>
-		<key mod="0" key="51" send="False">L:1030</key>
+		<key mod="4" key="49" send="False">L:1028</key>
+		<key mod="4" key="50" send="False">L:1029</key>
+		<key mod="4" key="51" send="False">L:1030</key>
 		<key mod="1" key="52" send="False">L:1509</key>
 	</hotkeys>
 	<passwords />

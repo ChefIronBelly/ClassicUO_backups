@@ -1,3 +1,11 @@
 !Loop
 Assistant.Macros.UseSkillAction|21
-Assistant.Macros.PauseAction|00:00:12
+Assistant.Macros.PauseAction|00:00:10.5000000
+Assistant.Macros.WalkAction|0
+Assistant.Macros.WalkAction|0
+Assistant.Macros.WalkAction|0
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.WalkAction|4
+Assistant.Macros.WalkAction|4
+Assistant.Macros.WalkAction|4
+Assistant.Macros.PauseAction|00:00:01

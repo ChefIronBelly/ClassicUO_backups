@@ -78,7 +78,7 @@
 	"hold_shift_for_context" : false,
 	"hold_shift_to_split_stack" : false,
 	"window_client_bounds" : {
-		"X" : 600,
+		"X" : 640,
 		"Y" : 480
 	},
 	"container_default_position" : {
@@ -90,17 +90,17 @@
 		"Y" : -5
 	},
 	"game_window_lock" : false,
-	"game_window_full_size" : true,
+	"game_window_full_size" : false,
 	"window_borderless" : false,
 	"game_window_size" : {
-		"X" : 1848,
-		"Y" : 1016
+		"X" : 1431,
+		"Y" : 1011
 	},
 	"topbar_gump_position" : {
 		"X" : 0,
 		"Y" : 0
 	},
-	"topbar_gump_is_minimized" : false,
+	"topbar_gump_is_minimized" : true,
 	"topbar_gump_is_disabled" : false,
 	"use_alternative_lights" : true,
 	"use_custom_light_level" : false,
@@ -200,7 +200,7 @@
 	"world_map_top_most" : false,
 	"world_map_free_view" : false,
 	"world_map_show_party" : true,
-	"world_map_zoom_index" : 4,
+	"world_map_zoom_index" : 5,
 	"world_map_show_coordinates" : true,
 	"world_map_show_mobiles" : true,
 	"world_map_show_player_name" : true,

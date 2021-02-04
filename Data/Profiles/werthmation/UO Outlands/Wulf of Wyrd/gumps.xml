@@ -6,15 +6,13 @@
 		<gump type="15" x="1283" y="611" serial="0" id="32" matrix_x="0" matrix_y="2" />
 		<gump type="15" x="1283" y="655" serial="0" id="45" matrix_x="0" matrix_y="3" />
 	</anchored_group_gump>
-	<anchored_group_gump matrix_w="2" matrix_h="2">
-		<gump type="16" x="1339" y="607" serial="0" id="30" matrix_x="0" matrix_y="0" />
-		<gump type="16" x="1339" y="607" serial="0" id="30" matrix_x="1" matrix_y="0" />
-		<gump type="16" x="1339" y="651" serial="0" id="38" matrix_x="0" matrix_y="1" />
-		<gump type="16" x="1339" y="651" serial="0" id="38" matrix_x="1" matrix_y="1" />
-	</anchored_group_gump>
-	<gump type="2" x="1402" y="316" serial="1097399304" graphic="60" isminimized="False" />
 	<gump type="20" x="1434" y="551" serial="0" minimized="False" />
 	<gump type="9" x="1420" y="-5" serial="418352" isminimized="False" />
+	<gump type="4" x="885" y="617" serial="418352" />
+	<gump type="2" x="1394" y="316" serial="1097399304" graphic="60" isminimized="False" />
+	<gump type="4" x="888" y="554" serial="749829" />
+	<gump type="16" x="1334" y="759" serial="0" id="38" />
+	<gump type="16" x="1339" y="607" serial="0" id="30" />
 	<gump type="3" x="1434" y="605" serial="0" rows="2" columns="8" rectsize="40">
 		<controls>
 			<control graphic="3617" hue="0" />
@@ -35,6 +33,5 @@
 			<control graphic="3980" hue="0" />
 		</controls>
 	</gump>
-	<gump type="12" x="1434" y="693" serial="0" />
-	<gump type="1" x="100" y="100" serial="0" graphic="30080" direction="1" />
+	<gump type="19" x="1338" y="480" serial="0" minimized="False" />
 </gumps>

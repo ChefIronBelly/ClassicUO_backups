@@ -1,6 +1,6 @@
 !Loop
 Assistant.Macros.UseSkillAction|47
-Assistant.Macros.PauseAction|00:00:00.1500000
+Assistant.Macros.PauseAction|00:00:00.5000000
 Assistant.Macros.IfAction|4|0|you must hide first
 Assistant.Macros.PauseAction|00:00:10.1000000
 Assistant.Macros.HotKeyAction|1044081|
