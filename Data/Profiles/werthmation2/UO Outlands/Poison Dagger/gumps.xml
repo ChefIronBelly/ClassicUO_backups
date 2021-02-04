@@ -8,12 +8,12 @@
 		<gump type="16" x="1324" y="586" serial="0" id="47" matrix_x="0" matrix_y="2" />
 		<gump type="16" x="1324" y="586" serial="0" id="47" matrix_x="1" matrix_y="2" />
 	</anchored_group_gump>
+	<gump type="18" x="1443" y="615" serial="0" />
 	<gump type="9" x="1434" y="-32" serial="2327175" isminimized="False" />
 	<gump type="2" x="1406" y="267" serial="1245828811" graphic="60" isminimized="False" />
 	<gump type="5" x="611" y="29" serial="0" />
-	<gump type="12" x="1035" y="835" serial="0" />
 	<gump type="19" x="1300" y="407" serial="0" minimized="False" />
 	<gump type="1" x="1204" y="86" serial="0" graphic="30080" direction="1" />
 	<gump type="20" x="1256" y="447" serial="0" minimized="False" />
-	<gump type="18" x="1443" y="615" serial="0" />
+	<gump type="12" x="1040" y="839" serial="0" />
 </gumps>

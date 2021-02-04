@@ -9,7 +9,7 @@
 	<property name="NoSearchPouches" type="System.Boolean">True</property>
 	<property name="CounterWarnAmount" type="System.Int32">5</property>
 	<property name="CounterWarn" type="System.Boolean">True</property>
-	<property name="ObjectDelay" type="System.Int32">600</property>
+	<property name="ObjectDelay" type="System.Int32">2000</property>
 	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
 	<property name="AlwaysOnTop" type="System.Boolean">False</property>
 	<property name="SortCounters" type="System.Boolean">True</property>
@@ -47,7 +47,7 @@
 	<property name="AutoStack" type="System.Boolean">False</property>
 	<property name="ActionStatusMsg" type="System.Boolean">True</property>
 	<property name="RememberPwds" type="System.Boolean">False</property>
-	<property name="SpellUnequip" type="System.Boolean">True</property>
+	<property name="SpellUnequip" type="System.Boolean">False</property>
 	<property name="RangeCheckLT" type="System.Boolean">True</property>
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
@@ -63,8 +63,8 @@
 	<property name="ForceSizeEnabled" type="System.Boolean">False</property>
 	<property name="ForceSizeX" type="System.Int32">1000</property>
 	<property name="ForceSizeY" type="System.Int32">800</property>
-	<property name="PotionEquip" type="System.Boolean">True</property>
-	<property name="BlockHealPoison" type="System.Boolean">True</property>
+	<property name="PotionEquip" type="System.Boolean">False</property>
+	<property name="BlockHealPoison" type="System.Boolean">False</property>
 	<property name="SmoothWalk" type="System.Boolean">False</property>
 	<property name="Negotiate" type="System.Boolean">True</property>
 	<property name="MapX" type="System.Int32">200</property>
@@ -87,7 +87,7 @@
 	<property name="GoldPerDisplay" type="System.Boolean">False</property>
 	<property name="LightLevel" type="System.Int32">31</property>
 	<property name="LogSkillChanges" type="System.Boolean">False</property>
-	<property name="StealthOverhead" type="System.Boolean">False</property>
+	<property name="StealthOverhead" type="System.Boolean">True</property>
 	<property name="ShowBuffDebuffOverhead" type="System.Boolean">True</property>
 	<property name="BuffDebuffFormat" type="System.String">[{action}{name} ({duration}s)]</property>
 	<property name="BlockOpenCorpsesTwice" type="System.Boolean">False</property>
@@ -113,10 +113,10 @@
 	<property name="FilterDrakeGraphics" type="System.Boolean">False</property>
 	<property name="DragonGraphic" type="System.Int32">0</property>
 	<property name="DrakeGraphic" type="System.Int32">0</property>
-	<property name="ShowDamageDealt" type="System.Boolean">False</property>
-	<property name="ShowDamageDealtOverhead" type="System.Boolean">False</property>
-	<property name="ShowDamageTaken" type="System.Boolean">False</property>
-	<property name="ShowDamageTakenOverhead" type="System.Boolean">False</property>
+	<property name="ShowDamageDealt" type="System.Boolean">True</property>
+	<property name="ShowDamageDealtOverhead" type="System.Boolean">True</property>
+	<property name="ShowDamageTaken" type="System.Boolean">True</property>
+	<property name="ShowDamageTakenOverhead" type="System.Boolean">True</property>
 	<property name="ShowInRazorTitleBar" type="System.Boolean">False</property>
 	<property name="RazorTitleBarText" type="System.String">{name} on {account} ({profile} - {shard}) - Razor v{version}</property>
 	<property name="EnableUOAAPI" type="System.Boolean">True</property>
@@ -264,12 +264,10 @@
 	<dresslists />
 	<hotkeys>
 		<key mod="0" key="-2" send="False">L:1058</key>
-		<key mod="0" key="-1" send="False">L:1059</key>
+		<key mod="0" key="112" send="False">L:1059</key>
 		<key mod="0" key="123" send="False">L:1311</key>
-		<key mod="1" key="87" send="False">L:1477</key>
 		<key mod="1" key="70" send="False">L:3002012</key>
 		<key mod="1" key="80" send="False">L:3002030</key>
-		<key mod="1" key="72" send="False">L:3002039</key>
 		<key mod="1" key="76" send="False">L:3002040</key>
 		<key mod="1" key="66" send="False">Play: Say</key>
 		<key mod="1" key="81" send="False">Play: Bomb Bag</key>
@@ -281,9 +279,15 @@
 		<key mod="4" key="50" send="False">L:1029</key>
 		<key mod="4" key="51" send="False">L:1030</key>
 		<key mod="1" key="52" send="False">L:1033</key>
+		<key mod="1" key="72" send="False">L:1044081</key>
+		<key mod="1" key="83" send="False">L:1044107</key>
 	</hotkeys>
 	<passwords />
-	<overheadmessages />
+		<overheadmessages>
+		<overheadmessage searchtext="You feel comfortable enough to begin stealthing" message="Stealth ON" hue="68" />
+		<overheadmessage searchtext="You feel ready to continue stealthing" message="Stealth MORE" hue="68" />
+		<overheadmessage searchtext="Now tracking:" message="Enemy Nearby" hue="48" />
+	</overheadmessages>
 	<containerlabels />
 	<macrovariables />
 	<scriptvariables />

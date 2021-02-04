@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
 	<gump type="9" x="1435" y="-28" serial="2299296" isminimized="False" />
-	<gump type="2" x="1542" y="259" serial="1243552140" graphic="60" isminimized="False" />
 	<gump type="16" x="1332" y="650" serial="0" id="38" />
-	<gump type="4" x="1456" y="497" serial="2299296" />
-	<gump type="20" x="1330" y="502" serial="0" minimized="False" />
-	<gump type="3" x="1334" y="554" serial="0" rows="1" columns="6" rectsize="40">
+	<gump type="2" x="1379" y="295" serial="1243552140" graphic="60" isminimized="False" />
+	<gump type="12" x="1002" y="776" serial="0" />
+	<gump type="1" x="1179" y="81" serial="0" graphic="30080" direction="1" />
+	<gump type="20" x="1107" y="491" serial="0" minimized="False" />
+	<gump type="3" x="1182" y="550" serial="0" rows="1" columns="6" rectsize="40">
 		<controls>
 			<control graphic="3617" hue="0" />
 			<control graphic="3852" hue="0" />
