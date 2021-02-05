@@ -283,7 +283,7 @@
 		<key mod="1" key="83" send="False">L:1044107</key>
 	</hotkeys>
 	<passwords />
-		<overheadmessages>
+	<overheadmessages>
 		<overheadmessage searchtext="You feel comfortable enough to begin stealthing" message="Stealth ON" hue="68" />
 		<overheadmessage searchtext="You feel ready to continue stealthing" message="Stealth MORE" hue="68" />
 		<overheadmessage searchtext="Now tracking:" message="Enemy Nearby" hue="48" />

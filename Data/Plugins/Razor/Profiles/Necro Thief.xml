@@ -2,7 +2,7 @@
 <profile>
 	<property name="ShowMobNames" type="System.Boolean">False</property>
 	<property name="ShowCorpseNames" type="System.Boolean">False</property>
-	<property name="DisplaySkillChanges" type="System.Boolean">False</property>
+	<property name="DisplaySkillChanges" type="System.Boolean">True</property>
 	<property name="TitleBarText" type="System.String">UO - {char}</property>
 	<property name="TitleBarDisplay" type="System.Boolean">True</property>
 	<property name="AutoSearch" type="System.Boolean">True</property>
@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">951</property>
-	<property name="WindowY" type="System.Int32">108</property>
+	<property name="WindowX" type="System.Int32">944</property>
+	<property name="WindowY" type="System.Int32">486</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -124,7 +124,7 @@
 	<property name="NextPrevTargetIgnoresFriends" type="System.Boolean">False</property>
 	<property name="StealthStepsFormat" type="System.String">Steps: {step}</property>
 	<property name="ShowFriendOverhead" type="System.Boolean">False</property>
-	<property name="DisplaySkillChangesOverhead" type="System.Boolean">False</property>
+	<property name="DisplaySkillChangesOverhead" type="System.Boolean">True</property>
 	<property name="GrabHotBag" type="System.String">0</property>
 	<property name="MacroActionDelay" type="System.Boolean">False</property>
 	<property name="AutoOpenDoorWhenHidden" type="System.Boolean">False</property>
@@ -261,16 +261,27 @@
 		<UseOnce />
 		<Scavenger enabled="False" />
 	</agents>
-	<dresslists />
+	<dresslists>
+		<list name="archer">
+			<item id="5042" />
+		</list>
+	</dresslists>
 	<hotkeys>
 		<key mod="0" key="-2" send="False">L:1058</key>
 		<key mod="0" key="112" send="False">L:1059</key>
 		<key mod="0" key="123" send="False">L:1311</key>
-		<key mod="1" key="70" send="False">L:3002012</key>
-		<key mod="1" key="80" send="False">L:3002030</key>
-		<key mod="1" key="76" send="False">L:3002040</key>
+		<key mod="0" key="113" send="False">L:3002014</key>
+		<key mod="0" key="117" send="False">L:3002018</key>
+		<key mod="0" key="114" send="False">L:3002021</key>
+		<key mod="0" key="120" send="False">L:3002030</key>
+		<key mod="0" key="115" send="False">L:3002039</key>
+		<key mod="0" key="121" send="False">L:3002040</key>
+		<key mod="0" key="122" send="False">L:3002048</key>
+		<key mod="0" key="119" send="False">L:3002052</key>
+		<key mod="0" key="118" send="False">L:3002053</key>
 		<key mod="1" key="66" send="False">Play: Say</key>
 		<key mod="1" key="81" send="False">Play: Bomb Bag</key>
+		<key mod="1" key="87" send="False">Play: Adventurers Rope</key>
 		<key mod="2" key="67" send="False">Play: Rune Escape</key>
 		<key mod="2" key="83" send="False">Play Script: Stealth</key>
 		<key mod="1" key="69" send="False">L:1010</key>
@@ -281,6 +292,7 @@
 		<key mod="1" key="52" send="False">L:1033</key>
 		<key mod="1" key="72" send="False">L:1044081</key>
 		<key mod="1" key="83" send="False">L:1044107</key>
+		<key mod="1" key="65" send="False">Toggle: archer</key>
 	</hotkeys>
 	<passwords />
 	<overheadmessages>

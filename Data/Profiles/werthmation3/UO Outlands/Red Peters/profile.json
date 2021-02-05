@@ -100,7 +100,7 @@
 		"X" : 0,
 		"Y" : 0
 	},
-	"topbar_gump_is_minimized" : true,
+	"topbar_gump_is_minimized" : false,
 	"topbar_gump_is_disabled" : false,
 	"use_alternative_lights" : true,
 	"use_custom_light_level" : false,

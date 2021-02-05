@@ -1,0 +1,21 @@
+//100 hiding 100 stealth
+//Lots of Bolts
+//Extra Heavy Crossbows
+if lhandempty
+    dclicktype 0x13FD
+    wait 600
+endif
+skill 'hiding'
+//Add another 100ms if you -
+//get must wait system message
+wait 10100
+skill 'stealth'
+hotkey 'Toggle War/Peace'
+wait 500
+//Create Script Variable
+//add Zoo mobile, name monster
+attack 'monster'
+wait 100
+hotkey 'Toggle War/Peace'
+wait 9500
+loop
