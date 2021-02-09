@@ -18,9 +18,9 @@
 		<gump type="15" x="1219" y="736" serial="0" id="44" matrix_x="0" matrix_y="1" />
 	</anchored_group_gump>
 	<gump type="9" x="1426" y="-28" serial="749829" isminimized="False" />
-	<gump type="2" x="1387" y="247" serial="1134357879" graphic="60" isminimized="False" />
+	<gump type="12" x="1022" y="833" serial="0" />
+	<gump type="2" x="1379" y="234" serial="1134357879" graphic="60" isminimized="False" />
 	<gump type="19" x="1206" y="602" serial="0" minimized="False" />
-	<gump type="4" x="1300" y="597" serial="749829" />
 	<gump type="3" x="1434" y="523" serial="0" rows="2" columns="8" rectsize="40">
 		<controls>
 			<control graphic="3617" hue="0" />

@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">944</property>
-	<property name="WindowY" type="System.Int32">486</property>
+	<property name="WindowX" type="System.Int32">938</property>
+	<property name="WindowY" type="System.Int32">225</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -182,7 +182,9 @@
 	<property name="PotionReequip" type="System.Boolean">True</property>
 	<property name="EnableTextFilter" type="System.Boolean">False</property>
 	<property name="DisableScriptTooltips" type="System.Boolean">False</property>
-	<filters />
+	<filters>
+		<filter name="1002" enable="True" />
+	</filters>
 	<counters>
 		<counter name="Bandages" enabled="True" image="True" />
 		<counter name="Black Pearl" enabled="True" image="True" />
@@ -283,7 +285,6 @@
 		<key mod="1" key="81" send="False">Play: Bomb Bag</key>
 		<key mod="1" key="87" send="False">Play: Adventurers Rope</key>
 		<key mod="2" key="67" send="False">Play: Rune Escape</key>
-		<key mod="2" key="83" send="False">Play Script: Stealth</key>
 		<key mod="1" key="69" send="False">L:1010</key>
 		<key mod="4" key="66" send="False">L:1025</key>
 		<key mod="1" key="49" send="False">L:1028</key>
@@ -292,6 +293,7 @@
 		<key mod="1" key="52" send="False">L:1033</key>
 		<key mod="1" key="72" send="False">L:1044081</key>
 		<key mod="1" key="83" send="False">L:1044107</key>
+		<key mod="2" key="65" send="False">L:1308</key>
 		<key mod="1" key="65" send="False">Toggle: archer</key>
 	</hotkeys>
 	<passwords />
@@ -299,6 +301,10 @@
 		<overheadmessage searchtext="You feel comfortable enough to begin stealthing" message="Stealth ON" hue="68" />
 		<overheadmessage searchtext="You feel ready to continue stealthing" message="Stealth MORE" hue="68" />
 		<overheadmessage searchtext="Now tracking:" message="Enemy Nearby" hue="48" />
+		<overheadmessage searchtext=": Attempting to heal you." message="Cross Healing" hue="68" />
+		<overheadmessage searchtext="hamstring" message="Hamstring!" hue="68" />
+		<overheadmessage searchtext="hinder" message="Hinder!" hue="68" />
+		<overheadmessage searchtext="backstab" message="Backstab!" hue="68" />
 	</overheadmessages>
 	<containerlabels />
 	<macrovariables />

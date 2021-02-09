@@ -274,7 +274,6 @@
 		<key mod="1" key="66" send="False">Play: Say</key>
 		<key mod="1" key="81" send="False">Play: Bomb Bag</key>
 		<key mod="2" key="67" send="False">Play: Rune Escape</key>
-		<key mod="2" key="83" send="False">Play Script: Stealth</key>
 		<key mod="1" key="69" send="False">L:1010</key>
 		<key mod="4" key="66" send="False">L:1025</key>
 		<key mod="4" key="49" send="False">L:1028</key>
