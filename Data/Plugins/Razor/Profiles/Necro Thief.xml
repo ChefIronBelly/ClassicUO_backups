@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">938</property>
-	<property name="WindowY" type="System.Int32">225</property>
+	<property name="WindowX" type="System.Int32">972</property>
+	<property name="WindowY" type="System.Int32">106</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -50,7 +50,7 @@
 	<property name="SpellUnequip" type="System.Boolean">False</property>
 	<property name="RangeCheckLT" type="System.Boolean">True</property>
 	<property name="LTRange" type="System.Int32">12</property>
-	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
+	<property name="FilterSnoopMsg" type="System.Boolean">False</property>
 	<property name="OldStatBar" type="System.Boolean">False</property>
 	<property name="SmartLastTarget" type="System.Boolean">False</property>
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
@@ -184,6 +184,11 @@
 	<property name="DisableScriptTooltips" type="System.Boolean">False</property>
 	<filters>
 		<filter name="1002" enable="True" />
+		<filter name="1003" enable="True" />
+		<filter name="1004" enable="True" />
+		<filter name="1007" enable="True" />
+		<filter name="1008" enable="True" />
+		<filter name="1952" enable="True" />
 	</filters>
 	<counters>
 		<counter name="Bandages" enabled="True" image="True" />

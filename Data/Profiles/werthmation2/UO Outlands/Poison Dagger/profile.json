@@ -100,7 +100,7 @@
 		"X" : 0,
 		"Y" : 0
 	},
-	"topbar_gump_is_minimized" : true,
+	"topbar_gump_is_minimized" : false,
 	"topbar_gump_is_disabled" : false,
 	"use_alternative_lights" : true,
 	"use_custom_light_level" : false,
@@ -156,7 +156,7 @@
 	"counter_bar_highlight_amount" : 5,
 	"counter_bar_cell_size" : 40,
 	"counter_bar_rows" : 1,
-	"counter_bar_columns" : 7,
+	"counter_bar_columns" : 8,
 	"show_skills_changed_message" : true,
 	"show_skills_changed_delta_value" : 5,
 	"show_stats_changed_message" : true,
