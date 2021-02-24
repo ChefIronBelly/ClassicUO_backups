@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Subterranean" Revision="0">
+
+<Marker Name="Cambrian Excavation" Facet="0" Icon="TERRAINX" X="1412" Y="2752"/>
+
+<Marker Name="Forsaken Keep" Facet="0" Icon="TERRAINX" X="1909" Y="1910"/>
+
+<Marker Name="Necromancers Lair" Facet="0" Icon="TERRAINX" X="1874" Y="777"/>
+
+<Marker Name="Prevalian Cemetary Crypt" Facet="0" Icon="TERRAINX" X="1895" Y="1788"/>
+
+<Marker Name="Prevalian Quarry" Facet="0" Icon="TERRAINX" X="1148" Y="1080"/>
+
+<Marker Name="Ratman Hovel" Facet="0" Icon="TERRAINX" X="1298" Y="1421"/>
+
+</Pack>

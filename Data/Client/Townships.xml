@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Townships" Revision="0">
+
+<Marker Name="Andaria" Facet="0" Icon="TOWNX" X="2188" Y="659"/>
+
+<Marker Name="Cambria" Facet="0" Icon="TOWNX" X="1765" Y="2995"/>
+
+<Marker Name="Corpse Creek" Facet="0" Icon="TOWNX" X="836" Y="689"/>
+
+<Marker Name="Horseshoe Bay" Facet="0" Icon="TOWNX" X="2043" Y="2238"/>
+
+<Marker Name="Outpost" Facet="0" Icon="TOWNX" X="3050" Y="558"/>
+
+<Marker Name="Prevalia" Facet="0" Icon="TOWNX" X="1604" Y="1524"/>
+
+<Marker Name="Shelter Island" Facet="0" Icon="TOWNX" X="1955" Y="2619"/>
+
+<Marker Name="Terran" Facet="0" Icon="TOWNX" X="735" Y="1507"/>
+
+</Pack>

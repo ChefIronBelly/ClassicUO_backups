@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Healer Caravans" Revision="0">
+
+<Marker Name="Andaria Gate Caravan " X="1990" Y="925" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Burnt Cove Caravan " X="1126" Y="1962" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Cambria Gate Caravan " X="1473" Y="2854" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Desert Quarry Caravan " X="1379" Y="2854" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Farmlands Caravan " X="1866" Y="1206" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Horseshoe Bay Swamps Caravan " X="2225" Y="2250" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Lizardmen Caravan " X="1406" Y="2091" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Midlands Caravan " X="1634" Y="1996" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="New Buccaneers Den Caravan " X="2130" Y="3231" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Nomad Outpost Caravan " X="1158" Y="2618" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Northwest Caravan " X="1451" Y="715" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Nusero Island Caravan " X="307" Y="1767" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Ogre Valley Caravan " X="1717" Y="2312" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Prevalia Bog Caravan " X="1477" Y="1754" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Prevalia Gate Caravan " X="1201" Y="2368" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Prevalia Quarry Caravan " X="1176" Y="992" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Prevalia Signal Ridge Caravan " X="1495" Y="1905" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Ruined Lycaeum Caravan " X="1266" Y="1624" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Shelter Haven Caravan " X="1598" Y="2576" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Snow Northeast 1 Caravan " X="2884" Y="436" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Snow Northeast 2 Caravan " X="2468" Y="369" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Snow Northwest Caravan " X="1524" Y="559" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Western Ruins Caravan " X="709" Y="1191" Icon="CARAVAN" Facet="0"/>
+
+<Marker Name="Wildside Caravan " X="1238" Y="1322" Icon="CARAVAN" Facet="0"/>
+
+
+</Pack>
