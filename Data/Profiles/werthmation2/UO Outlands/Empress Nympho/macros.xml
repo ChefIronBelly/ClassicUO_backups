@@ -35,4 +35,9 @@
 			<action code="19" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
+	<macro name="ALL NAMES" key="0" alt="False" ctrl="False" shift="False">
+		<actions>
+			<action code="66" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
 </macros>

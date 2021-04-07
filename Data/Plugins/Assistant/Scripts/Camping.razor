@@ -1,0 +1,15 @@
+if findtype 'campfire'
+    overhead 'Already camping'
+    else 
+        if findtype 'kindling' backpack
+            dclicktype 'kindling'
+            wait 100
+                if insysmsg 'You fail to ignite the campfire.'
+                wait 3000
+                loop
+                elseif insysmsg 'You extinguish your existing campfire.'
+                overhead 'Fire started'
+                endif
+        endif   
+endif
+loop

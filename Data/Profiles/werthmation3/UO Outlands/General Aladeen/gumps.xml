@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="16" x="1405" y="608" serial="0" id="21" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="1405" y="608" serial="0" id="21" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="1405" y="652" serial="0" id="38" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="1405" y="652" serial="0" id="38" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="5" y="915" serial="1000" name="Paperdoll" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="5" y="915" serial="1000" name="Paperdoll" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="93" y="915" serial="1005" name="Bow" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="93" y="915" serial="1005" name="Bow" matrix_x="3" matrix_y="0" />
+		<gump type="7" x="93" y="959" serial="1006" name="Salute" matrix_x="2" matrix_y="1" />
+		<gump type="7" x="93" y="959" serial="1006" name="Salute" matrix_x="3" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="20" x="1364" y="558" serial="0" minimized="False" />
+	<gump type="9" x="1509" y="-28" serial="932995" isminimized="False" />
+	<gump type="2" x="1454" y="284" serial="1146340611" graphic="60" isminimized="False" />
+	<gump type="12" x="1116" y="849" serial="0" />
+	<gump type="18" x="1518" y="610" serial="0" />
+	<gump type="5" x="598" y="28" serial="0" />
+	<gump type="3" x="535" y="47" serial="0" rows="1" columns="16" rectsize="40">
+		<controls>
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="1" x="1180" y="117" serial="0" graphic="30080" direction="1" />
+	<gump type="7" x="1414" y="10" serial="1007" name="ALL NAMES" />
+	<gump type="19" x="1437" y="511" serial="0" minimized="False" />
+</gumps>

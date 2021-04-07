@@ -1,0 +1,15 @@
+UODataDir, D:\Games\UO
+UOClient, D:\Games\UO\client.exe
+LastPort, 2593
+LastProfile, necro thief
+LastServer, 127.0.0.1
+LastServerId, 0
+ClientEncrypted, 1
+ServerEncrypted, 0
+ShowWelcome, 0
+UId, 21613fcd
+MaxOrganizerAgents, 20
+MaxBuyAgents, 10
+MaxRestockAgents, 10
+ImportProfilesAndMacros, true
+BackupPath, .\Backup

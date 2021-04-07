@@ -1,9 +1,0 @@
-!Loop
-Assistant.Macros.UseSkillAction|47
-Assistant.Macros.PauseAction|00:00:00.5000000
-Assistant.Macros.IfAction|4|0|you begin to move quitly
-Assistant.Macros.PauseAction|00:00:10.5000000
-Assistant.Macros.ElseAction
-Assistant.Macros.PauseAction|00:00:10.5000000
-Assistant.Macros.UseSkillAction|21
-Assistant.Macros.PauseAction|00:00:10.5000000

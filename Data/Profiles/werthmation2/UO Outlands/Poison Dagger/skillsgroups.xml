@@ -66,6 +66,7 @@
 			<skill id="48" />
 			<skill id="28" />
 			<skill id="33" />
+			<skill id="47" />
 		</skillids>
 	</group>
 	<group name="Bard">
@@ -74,7 +75,6 @@
 			<skill id="29" />
 			<skill id="9" />
 			<skill id="22" />
-			<skill id="47" />
 		</skillids>
 	</group>
 </skillsgroups>

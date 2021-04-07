@@ -35,9 +35,9 @@
 			<action code="19" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
-	<macro name="Bandaid" key="98" alt="False" ctrl="False" shift="True">
+	<macro name="ALL NAMES" key="0" alt="False" ctrl="False" shift="False">
 		<actions>
-			<action code="56" subcode="0" submenutype="0" />
+			<action code="66" subcode="0" submenutype="0" />
 		</actions>
 	</macro>
 </macros>

@@ -4,5 +4,6 @@
 	<info text="Hits" var="0" hue="438" />
 	<info text="Mana" var="1" hue="493" />
 	<info text="Stam" var="2" hue="558" />
-	<info text="Weight" var="3" hue="978" />
+	<info text="Weight" var="3" hue="38" />
+	<info text="Crime" var="10" hue="953" />
 </infos>

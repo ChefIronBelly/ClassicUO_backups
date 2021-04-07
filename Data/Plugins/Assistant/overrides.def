@@ -6,5 +6,5 @@
 
 # twohanded id true/false
 # Example: Crossbow
-#twohanded 0xF4F false
-#twohanded 0xF50 false
+twohanded 0xF4F false
+twohanded 0xF50 false
