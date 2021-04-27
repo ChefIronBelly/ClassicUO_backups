@@ -8,13 +8,17 @@
 		<gump type="7" x="94" y="966" serial="1006" name="Salute" matrix_x="2" matrix_y="1" />
 		<gump type="7" x="94" y="966" serial="1006" name="Salute" matrix_x="3" matrix_y="1" />
 	</anchored_group_gump>
-	<gump type="9" x="1513" y="-42" serial="418352" isminimized="False" />
-	<gump type="15" x="132" y="107" serial="0" id="60" />
-	<gump type="2" x="1461" y="272" serial="1097399304" graphic="60" isminimized="False" />
-	<gump type="11" x="64" y="64" serial="1097399314" isminimized="False" />
 	<gump type="18" x="1518" y="610" serial="0" />
-	<gump type="7" x="1419" y="12" serial="1007" name="ALL NAMES" />
+	<gump type="9" x="1513" y="-42" serial="418352" isminimized="False" />
+	<gump type="2" x="1462" y="275" serial="1097399304" graphic="60" isminimized="False" />
+	<gump type="2" x="1670" y="414" serial="1159194989" graphic="60" isminimized="False" />
+	<gump type="16" x="1390" y="352" serial="0" id="21" />
+	<gump type="15" x="1027" y="494" serial="0" id="5" />
+	<gump type="15" x="1157" y="413" serial="0" id="64" />
+	<gump type="15" x="1106" y="462" serial="0" id="19" />
+	<gump type="15" x="1166" y="603" serial="0" id="32" />
 	<gump type="1" x="1255" y="181" serial="0" graphic="30080" direction="1" />
+	<gump type="7" x="1419" y="12" serial="1007" name="ALL NAMES" />
 	<gump type="16" x="1317" y="699" serial="0" id="3" />
 	<gump type="3" x="558" y="51" serial="0" rows="1" columns="16" rectsize="40">
 		<controls>
@@ -37,11 +41,16 @@
 		</controls>
 	</gump>
 	<gump type="5" x="635" y="31" serial="0" />
-	<gump type="16" x="1407" y="606" serial="0" id="38" />
 	<gump type="20" x="1520" y="565" serial="0" minimized="False" />
-	<gump type="19" x="1446" y="550" serial="0" minimized="False" />
 	<gump type="15" x="1261" y="449" serial="0" id="51" />
-	<gump type="12" x="1116" y="848" serial="0" />
+	<gump type="15" x="1160" y="465" serial="0" id="60" />
+	<gump type="15" x="1189" y="704" serial="0" id="7" />
+	<gump type="15" x="1291" y="522" serial="0" id="22" />
+	<gump type="15" x="1084" y="561" serial="0" id="13" />
+	<gump type="15" x="1370" y="470" serial="0" id="2" />
+	<gump type="16" x="1407" y="606" serial="0" id="38" />
 	<gump type="16" x="1252" y="608" serial="0" id="46" />
-	<gump type="15" x="1166" y="603" serial="0" id="32" />
+	<gump type="16" x="1254" y="654" serial="0" id="32" />
+	<gump type="12" x="1121" y="854" serial="0" />
+	<gump type="19" x="1446" y="550" serial="0" minimized="False" />
 </gumps>

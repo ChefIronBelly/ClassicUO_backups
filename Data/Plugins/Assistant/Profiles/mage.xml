@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">962</property>
-	<property name="WindowY" type="System.Int32">145</property>
+	<property name="WindowX" type="System.Int32">59</property>
+	<property name="WindowY" type="System.Int32">131</property>
 	<property name="CountStealthSteps" type="System.Boolean">True</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -52,7 +52,7 @@
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="OldStatBar" type="System.Boolean">False</property>
-	<property name="SmartLastTarget" type="System.Boolean">False</property>
+	<property name="SmartLastTarget" type="System.Boolean">True</property>
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
 	<property name="LTHilight" type="System.Int32">0</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
@@ -136,7 +136,7 @@
 	<property name="OnlyShowBandageTimerSeconds" type="System.Int32">1</property>
 	<property name="ShowBandageTimerHue" type="System.Int32">88</property>
 	<property name="TargetIndicatorHue" type="System.Int32">10</property>
-	<property name="FilterSystemMessages" type="System.Boolean">False</property>
+	<property name="FilterSystemMessages" type="System.Boolean">True</property>
 	<property name="FilterRazorMessages" type="System.Boolean">False</property>
 	<property name="FilterDelay" type="System.Double">3.5</property>
 	<property name="FilterOverheadMessages" type="System.Boolean">False</property>
@@ -182,7 +182,9 @@
 	<property name="PotionReequip" type="System.Boolean">True</property>
 	<property name="EnableTextFilter" type="System.Boolean">False</property>
 	<property name="DisableScriptTooltips" type="System.Boolean">False</property>
-	<filters />
+	<filters>
+		<filter name="1002" enable="True" />
+	</filters>
 	<counters>
 		<counter name="Bandages" enabled="True" image="True" />
 		<counter name="Black Pearl" enabled="True" image="True" />
@@ -250,29 +252,48 @@
 		<Sell enabled="False" />
 		<UseOnce />
 	</agents>
-	<dresslists />
+	<dresslists>
+		<list name="Wulf">
+			<item serial="1129153306" />
+			<item serial="1097399335" />
+			<item serial="1097399333" />
+			<item serial="1104305485" />
+			<item serial="1105394231" />
+			<item serial="1084397932" />
+			<item serial="1161311385" />
+			<item serial="1078445765" />
+			<item serial="1092748404" />
+		</list>
+	</dresslists>
 	<hotkeys>
 		<key mod="0" key="113" send="False">L:3002014</key>
-		<key mod="0" key="82" send="False">L:3002017</key>
-		<key mod="0" key="117" send="False">L:3002018</key>
+		<key mod="0" key="117" send="False">L:3002015</key>
+		<key mod="1" key="53" send="False">L:3002017</key>
 		<key mod="0" key="114" send="False">L:3002021</key>
-		<key mod="0" key="118" send="False">L:3002028</key>
 		<key mod="0" key="80" send="False">L:3002030</key>
 		<key mod="0" key="84" send="False">L:3002032</key>
 		<key mod="0" key="87" send="False">L:3002034</key>
 		<key mod="0" key="115" send="False">L:3002039</key>
-		<key mod="0" key="119" send="False">L:3002040</key>
 		<key mod="2" key="82" send="False">L:3002042</key>
 		<key mod="1" key="82" send="False">L:3002046</key>
 		<key mod="1" key="80" send="False">L:3002048</key>
-		<key mod="0" key="121" send="False">L:3002052</key>
-		<key mod="0" key="120" send="False">L:3002053</key>
+		<key mod="0" key="119" send="False">L:3002052</key>
+		<key mod="0" key="118" send="False">L:3002053</key>
 		<key mod="0" key="77" send="False">L:3002055</key>
 		<key mod="0" key="122" send="False">L:3002061</key>
-		<key mod="0" key="38" send="False">L:1994</key>
+		<key mod="1" key="65" send="False">L:3002070</key>
+		<key mod="1" key="87" send="False">L:3002074</key>
+		<key mod="4" key="-2" send="False">L:1058</key>
 		<key mod="0" key="112" send="False">L:1059</key>
 		<key mod="0" key="123" send="False">L:1311</key>
+		<key mod="0" key="38" send="False">L:2101</key>
+		<key mod="0" key="49" send="False">Play Script: Gate Escape</key>
 		<key mod="1" key="66" send="False">Play: say</key>
+		<key mod="2" key="66" send="False">L:1025</key>
+		<key mod="1" key="49" send="False">L:1028</key>
+		<key mod="1" key="50" send="False">L:1029</key>
+		<key mod="1" key="52" send="False">L:1033</key>
+		<key mod="1" key="51" send="False">L:1034</key>
 	</hotkeys>
 	<passwords />
 	<overheadmessages />

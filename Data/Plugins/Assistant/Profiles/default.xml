@@ -42,8 +42,8 @@
 	<property name="Systray" type="System.Boolean">False</property>
 	<property name="TitlebarImages" type="System.Boolean">False</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
-	<property name="SkillListCol" type="System.Int32">-1</property>
-	<property name="SkillListAsc" type="System.Boolean">False</property>
+	<property name="SkillListCol" type="System.Int32">2</property>
+	<property name="SkillListAsc" type="System.Boolean">True</property>
 	<property name="AutoStack" type="System.Boolean">False</property>
 	<property name="ActionStatusMsg" type="System.Boolean">True</property>
 	<property name="RememberPwds" type="System.Boolean">False</property>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<skillsgroups>
+	<group name="Miscellaneous">
+		<skillids>
+			<skill id="4" />
+			<skill id="6" />
+			<skill id="8" />
+			<skill id="10" />
+			<skill id="12" />
+			<skill id="19" />
+			<skill id="3" />
+			<skill id="36" />
+		</skillids>
+	</group>
+	<group name="Combat">
+		<skillids>
+			<skill id="1" />
+			<skill id="31" />
+			<skill id="42" />
+			<skill id="17" />
+			<skill id="41" />
+			<skill id="5" />
+			<skill id="40" />
+			<skill id="27" />
+			<skill id="43" />
+		</skillids>
+	</group>
+	<group name="Trade Skills">
+		<skillids>
+			<skill id="0" />
+			<skill id="7" />
+			<skill id="11" />
+			<skill id="13" />
+			<skill id="23" />
+			<skill id="44" />
+			<skill id="45" />
+			<skill id="34" />
+			<skill id="37" />
+		</skillids>
+	</group>
+	<group name="Magic">
+		<skillids>
+			<skill id="16" />
+			<skill id="25" />
+			<skill id="46" />
+			<skill id="26" />
+			<skill id="32" />
+		</skillids>
+	</group>
+	<group name="Wilderness">
+		<skillids>
+			<skill id="2" />
+			<skill id="35" />
+			<skill id="18" />
+			<skill id="20" />
+			<skill id="38" />
+			<skill id="39" />
+		</skillids>
+	</group>
+	<group name="Thieving">
+		<skillids>
+			<skill id="14" />
+			<skill id="21" />
+			<skill id="24" />
+			<skill id="30" />
+			<skill id="48" />
+			<skill id="28" />
+			<skill id="33" />
+			<skill id="47" />
+		</skillids>
+	</group>
+	<group name="Bard">
+		<skillids>
+			<skill id="15" />
+			<skill id="29" />
+			<skill id="9" />
+			<skill id="22" />
+		</skillids>
+	</group>
+</skillsgroups>

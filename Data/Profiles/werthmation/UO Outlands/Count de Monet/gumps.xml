@@ -14,12 +14,14 @@
 		<gump type="16" x="1378" y="658" serial="0" id="38" matrix_x="0" matrix_y="1" />
 		<gump type="16" x="1378" y="658" serial="0" id="38" matrix_x="1" matrix_y="1" />
 	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="15" x="1247" y="625" serial="0" id="7" matrix_x="0" matrix_y="0" />
+		<gump type="15" x="1291" y="625" serial="0" id="15" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
 	<gump type="20" x="1366" y="546" serial="0" minimized="False" />
 	<gump type="9" x="1506" y="-31" serial="55549" isminimized="False" />
-	<gump type="2" x="1459" y="283" serial="1076423850" graphic="60" isminimized="False" />
-	<gump type="12" x="1116" y="849" serial="0" />
-	<gump type="7" x="1361" y="19" serial="1007" name="ALL NAMES" />
-	<gump type="5" x="635" y="27" serial="0" />
+	<gump type="2" x="1466" y="268" serial="1076423850" graphic="60" isminimized="False" />
+	<gump type="12" x="1118" y="850" serial="0" />
 	<gump type="3" x="567" y="46" serial="0" rows="1" columns="16" rectsize="40">
 		<controls>
 			<control graphic="0" hue="0" />
@@ -36,10 +38,14 @@
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
 			<control graphic="0" hue="0" />
-			<control graphic="0" hue="0" />
-			<control graphic="0" hue="0" />
+			<control graphic="3617" hue="0" />
+			<control graphic="3553" hue="0" />
 		</controls>
 	</gump>
-	<gump type="19" x="1437" y="511" serial="0" minimized="False" />
+	<gump type="15" x="1255" y="702" serial="0" id="32" />
+	<gump type="1" x="1318" y="117" serial="0" graphic="30080" direction="1" />
+	<gump type="7" x="1361" y="19" serial="1007" name="ALL NAMES" />
+	<gump type="5" x="635" y="27" serial="0" />
+	<gump type="19" x="1423" y="505" serial="0" minimized="False" />
 	<gump type="18" x="1518" y="610" serial="0" />
 </gumps>

@@ -2,10 +2,10 @@
 <profile>
 	<property name="ShowMobNames" type="System.Boolean">False</property>
 	<property name="ShowCorpseNames" type="System.Boolean">False</property>
-	<property name="DisplaySkillChanges" type="System.Boolean">False</property>
+	<property name="DisplaySkillChanges" type="System.Boolean">True</property>
 	<property name="TitleBarText" type="System.String">UO - {char}</property>
 	<property name="TitleBarDisplay" type="System.Boolean">True</property>
-	<property name="AutoSearch" type="System.Boolean">True</property>
+	<property name="AutoSearch" type="System.Boolean">False</property>
 	<property name="NoSearchPouches" type="System.Boolean">True</property>
 	<property name="CounterWarnAmount" type="System.Int32">5</property>
 	<property name="CounterWarn" type="System.Boolean">True</property>
@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">927</property>
-	<property name="WindowY" type="System.Int32">126</property>
+	<property name="WindowX" type="System.Int32">904</property>
+	<property name="WindowY" type="System.Int32">124</property>
 	<property name="CountStealthSteps" type="System.Boolean">False</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -63,7 +63,7 @@
 	<property name="ForceSizeEnabled" type="System.Boolean">False</property>
 	<property name="ForceSizeX" type="System.Int32">1000</property>
 	<property name="ForceSizeY" type="System.Int32">800</property>
-	<property name="PotionEquip" type="System.Boolean">False</property>
+	<property name="PotionEquip" type="System.Boolean">True</property>
 	<property name="BlockHealPoison" type="System.Boolean">True</property>
 	<property name="SmoothWalk" type="System.Boolean">False</property>
 	<property name="Negotiate" type="System.Boolean">True</property>
@@ -124,7 +124,7 @@
 	<property name="NextPrevTargetIgnoresFriends" type="System.Boolean">False</property>
 	<property name="StealthStepsFormat" type="System.String">Steps: {step}</property>
 	<property name="ShowFriendOverhead" type="System.Boolean">False</property>
-	<property name="DisplaySkillChangesOverhead" type="System.Boolean">False</property>
+	<property name="DisplaySkillChangesOverhead" type="System.Boolean">True</property>
 	<property name="GrabHotBag" type="System.String">0</property>
 	<property name="MacroActionDelay" type="System.Boolean">False</property>
 	<property name="AutoOpenDoorWhenHidden" type="System.Boolean">False</property>
@@ -136,7 +136,7 @@
 	<property name="OnlyShowBandageTimerSeconds" type="System.Int32">1</property>
 	<property name="ShowBandageTimerHue" type="System.Int32">88</property>
 	<property name="TargetIndicatorHue" type="System.Int32">10</property>
-	<property name="FilterSystemMessages" type="System.Boolean">False</property>
+	<property name="FilterSystemMessages" type="System.Boolean">True</property>
 	<property name="FilterRazorMessages" type="System.Boolean">False</property>
 	<property name="FilterDelay" type="System.Double">3.5</property>
 	<property name="FilterOverheadMessages" type="System.Boolean">False</property>
@@ -182,7 +182,9 @@
 	<property name="PotionReequip" type="System.Boolean">True</property>
 	<property name="EnableTextFilter" type="System.Boolean">False</property>
 	<property name="DisableScriptTooltips" type="System.Boolean">False</property>
-	<filters />
+	<filters>
+		<filter name="1002" enable="True" />
+	</filters>
 	<counters>
 		<counter name="Bandages" enabled="True" image="True" />
 		<counter name="Black Pearl" enabled="True" image="True" />
@@ -243,11 +245,14 @@
 	</agents>
 	<dresslists />
 	<hotkeys>
+		<key mod="0" key="112" send="False">L:1059</key>
+		<key mod="0" key="116" send="False">L:2052</key>
 		<key mod="0" key="123" send="False">L:1311</key>
 		<key mod="2" key="88" send="False">Play Script: Skinner</key>
-		<key mod="1" key="66" send="False">Play: bank</key>
 		<key mod="0" key="192" send="False">Play: Healing</key>
+		<key mod="1" key="66" send="False">Play: say</key>
 		<key mod="4" key="66" send="False">L:1025</key>
+		<key mod="0" key="80" send="False">L:1044069</key>
 		<key mod="0" key="72" send="False">L:1044081</key>
 		<key mod="0" key="84" send="False">L:1044098</key>
 	</hotkeys>

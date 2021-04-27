@@ -156,4 +156,10 @@
 		<itemid>3849</itemid>
 		<hue>-1</hue>
 	</counter>
+	<counter>
+		<name />
+		<format />
+		<itemid>0</itemid>
+		<hue>0</hue>
+	</counter>
 </counters>

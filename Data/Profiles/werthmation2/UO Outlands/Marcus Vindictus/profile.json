@@ -1,7 +1,7 @@
 {
 	"enable_sound" : true,
-	"sound_volume" : 100,
-	"enable_music" : true,
+	"sound_volume" : 51,
+	"enable_music" : false,
 	"music_volume" : 100,
 	"enable_footsteps_sound" : true,
 	"enable_combat_music" : true,
