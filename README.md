@@ -2,8 +2,8 @@
 
 ClassicUO & Razor backups
 
-Razor v1.6.9.0
+Razor v1.7.1.0
 
-ClassicUO - 0.1.8.5
+ClassicUO - 0.1.9.74
 
 ClassicUO/Data
