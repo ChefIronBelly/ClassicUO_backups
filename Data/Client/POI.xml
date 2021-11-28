@@ -164,7 +164,7 @@
 
 <Marker Name="Prevalia Castle" Facet="0" Icon="LANDMARKX" X="1759" Y="1448"/>
 
-<Marker Name="Prevalia Cemetary" Facet="0" Icon="LANDMARKX" X="1819" Y="1763"/>
+<Marker Name="Prevalia Cemetary" Facet="0" Icon="LANDMARKX" X="1918" Y="1763"/>
 
 <Marker Name="Prevalia Dam" Facet="0" Icon="LANDMARKX" X="1232" Y="1529"/>
 
@@ -210,7 +210,7 @@
 
 <Marker Name="Savage Fort" Facet="0" Icon="LANDMARKX" X="2358" Y="3097"/>
 
-<Marker Name="Savannah and Wattering Hole" Facet="0" Icon="LANDMARKX" X="1289" Y="2906"/>
+<Marker Name="Savannah and Watering Hole" Facet="0" Icon="LANDMARKX" X="1289" Y="2906"/>
 
 <Marker Name="Ship in Bay" Facet="0" Icon="LANDMARKX" X="2330" Y="3318"/>
 
@@ -259,5 +259,100 @@
 <Marker Name="Daemon Keep" Facet="0" Icon="LANDMARKX" X="1261" Y="1744"/>
 
 <Marker Name="Bludchok Orc Fort" Facet="0" Icon="LANDMARKX" X="1092" Y="1005"/>
+
+
+<Marker Name="Abandoned Trading Post" Facet="0" Icon="LANDMARKX" X="3940" Y="1146"/>
+
+<Marker Name="Blood Cult Abbey" Facet="0" Icon="LANDMARKX" X="3716" Y="1460"/>
+
+<Marker Name="Botanical Disaster" Facet="0" Icon="LANDMARKX" X="4036" Y="1615"/>
+
+<Marker Name="Brigand Blind" Facet="0" Icon="LANDMARKX" X="3542" Y="1013"/>
+
+<Marker Name="Camp Betrayal" Facet="0" Icon="LANDMARKX" X="4101" Y="690"/>
+
+<Marker Name="Cedar Forest" Facet="0" Icon="LANDMARKX" X="3244" Y="583"/>
+
+<Marker Name="Cedar Lookout" Facet="0" Icon="LANDMARKX" X="4149" Y="266"/>
+
+<Marker Name="Chaos Viewpoint" Facet="0" Icon="LANDMARKX" X="3909" Y="1360"/>
+
+<Marker Name="Dammed Bog" Facet="0" Icon="LANDMARKX" X="4150" Y="968"/>
+
+<Marker Name="Haunted Manor" Facet="0" Icon="LANDMARKX" X="4005" Y="1148"/>
+
+<Marker Name="Fortune Teller" Facet="0" Icon="LANDMARKX" X="4309" Y="476"/>
+
+<Marker Name="Fresh Catch" Facet="0" Icon="LANDMARKX" X="4150" Y="775"/>
+
+<Marker Name="Frost Forest" Facet="0" Icon="LANDMARKX" X="3616" Y="383"/>
+
+<Marker Name="Frozen Excavation" Facet="0" Icon="LANDMARKX" X="3621" Y="126"/>
+
+<Marker Name="Frozen Nests" Facet="0" Icon="LANDMARKX" X="3742" Y="78"/>
+
+<Marker Name="Frozen Settlement" Facet="0" Icon="LANDMARKX" X="3610" Y="311"/>
+
+<Marker Name="Granite Docks" Facet="0" Icon="LANDMARKX" X="3402" Y="919"/>
+
+<Marker Name="Granite Quarry" Facet="0" Icon="LANDMARKX" X="3423" Y="1008"/>
+
+<Marker Name="Heartland Bog" Facet="0" Icon="LANDMARKX" X="3684" Y="871"/>
+
+<Marker Name="Ice Bridge" Facet="0" Icon="LANDMARKX" X="3380" Y="128"/>
+
+<Marker Name="Ice Prison" Facet="0" Icon="LANDMARKX" X="3936" Y="213"/>
+
+<Marker Name="Illuminated Spring" Facet="0" Icon="LANDMARKX" X="3946" Y="744"/>
+
+<Marker Name="Ivory Citadel" Facet="0" Icon="LANDMARKX" X="4120" Y="93"/>
+
+<Marker Name="Kudzu Tower" Facet="0" Icon="LANDMARKX" X="3543" Y="1756"/>
+
+<Marker Name="Leodcyning's Burial Mound" Facet="0" Icon="LANDMARKX" X="3719" Y="422"/>
+
+<Marker Name="Lightning Strike" Facet="0" Icon="LANDMARKX" X="3373" Y="536"/>
+
+<Marker Name="Lily Bridge" Facet="0" Icon="LANDMARKX" X="3907" Y="347"/>
+
+<Marker Name="Mellow Retreat" Facet="0" Icon="LANDMARKX" X="4333" Y="1119"/>
+
+<Marker Name="Mount Minotaur" Facet="0" Icon="LANDMARKX" X="3910" Y="1551"/>
+
+<Marker Name="Orc Rock" Facet="0" Icon="LANDMARKX" X="4018" Y="1855"/>
+
+<Marker Name="Outpost East Gate" Facet="0" Icon="LANDMARKX" X="3161" Y="480"/>
+
+<Marker Name="Picnic Blanket" Facet="0" Icon="LANDMARKX" X="4264" Y="939"/>
+
+<Marker Name="Pinecone Grove" Facet="0" Icon="LANDMARKX" X="3685" Y="1225"/>
+
+<Marker Name="Rickety Bridge" Facet="0" Icon="LANDMARKX" X="4187" Y="783"/>
+
+<Marker Name="Secret Beach" Facet="0" Icon="LANDMARKX" X="3606" Y="673"/>
+
+<Marker Name="Shanty Shack" Facet="0" Icon="LANDMARKX" X="3763" Y="1716"/>
+
+<Marker Name="Smoking Pyre" Facet="0" Icon="LANDMARKX" X="3226" Y="228"/>
+
+<Marker Name="Smugglers Dock" Facet="0" Icon="LANDMARKX" X="3171" Y="307"/>
+
+<Marker Name="Southreach Inn" Facet="0" Icon="LANDMARKX" X="4030" Y="1364"/>
+
+<Marker Name="Standing Stones" Facet="0" Icon="LANDMARKX" X="4134" Y="1321"/>
+
+<Marker Name="Unmarked Grave" Facet="0" Icon="LANDMARKX" X="3320" Y="685"/>
+
+<Marker Name="Vurte Tul Rru" Facet="0" Icon="LANDMARKX" X="3883" Y="1032"/>
+
+<Marker Name="Western Camps" Facet="0" Icon="LANDMARKX" X="3452" Y="1444"/>
+
+<Marker Name="Winter Harbor" Facet="0" Icon="LANDMARKX" X="4294" Y="129"/>
+
+<Marker Name="Winterspire" Facet="0" Icon="LANDMARKX" X="3534" Y="143"/>
+
+<Marker Name="Wintertop" Facet="0" Icon="LANDMARKX" X="3535" Y="526"/>
+
+
 
 </Pack>

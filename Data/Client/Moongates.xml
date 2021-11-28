@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Moongates" Revision="0">
 
+<Marker Name="Anchor's Rest Moongate" Facet="0" Icon="MOONGATEX" Y="524" X="3993"/>
+
 <Marker Name="Andaria Moongate" Facet="0" Icon="MOONGATEX" Y="647" X="2331"/>
 
 <Marker Name="Cambria Moongate" Facet="0" Icon="MOONGATEX" Y="3154" X="1705"/>

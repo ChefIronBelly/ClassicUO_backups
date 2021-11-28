@@ -16,4 +16,6 @@
 
 <Marker Name="Valor Shrine" Facet="0" Icon="SHRINEX" X="1162" Y="1514"/>
 
+<Marker Name="Chaos Shrine" Facet="0" Icon="SHRINEX" X="3856" Y="1401"/>
+
 </Pack>

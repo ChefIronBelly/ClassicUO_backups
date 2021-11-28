@@ -1,0 +1,2846 @@
+[11/13/2021 19:25]  System: WorldMap loading...
+[11/13/2021 19:25]  System: Loading WorldMap markers..
+[11/13/2021 19:25]  System: ..Banks_and_Healers.xml (20)
+[11/13/2021 19:25]  System: ..Dungeons.xml (12)
+[11/13/2021 19:25]  System: ..Dungeon_Gates.xml (335)
+[11/13/2021 19:25]  System: ..Healer_Caravans.xml (32)
+[11/13/2021 19:25]  System: ..Moongates.xml (9)
+[11/13/2021 19:25]  System: ..POI.xml (176)
+[11/13/2021 19:25]  System: ..Shrines.xml (9)
+[11/13/2021 19:25]  System: ..Subterranean.xml (6)
+[11/13/2021 19:25]  System: ..Townships.xml (9)
+[11/13/2021 19:25]  System: WorldMap markers loaded (608)
+[11/13/2021 19:25]  System: Welcome Stink Fist!
+[11/13/2021 19:25]  Razor: [- (s)]
+[11/13/2021 19:25]  Razor: [+Campfire Visit (7236s)]
+[11/13/2021 19:25]  Razor: [- (s)]
+[11/13/2021 19:25]  Razor: [+Forensic Eval Bonus (10710s)]
+[11/13/2021 19:25]  Razor: [- (s)]
+[11/13/2021 19:25]  Razor: [+Food Satisfaction (436s)]
+[11/13/2021 19:25]  Stink Fist: Stink Fist
+[11/13/2021 19:25]  a cave bear: *released*
+[11/13/2021 19:25]  a cave bear: a cave bear
+[11/13/2021 19:25]  a rock guar: a rock guar
+[11/13/2021 19:25]  Membro Um: Membro Um (Young)
+[11/13/2021 19:25]  a colossal frog: (tame)
+[11/13/2021 19:25]  a colossal frog: a colossal frog
+[11/13/2021 19:25]  Urso: (tame)
+[11/13/2021 19:25]  Urso: Urso
+[11/13/2021 19:25]  an ettin: an ettin
+[11/13/2021 19:25]  a giant frog: a giant frog
+[11/13/2021 19:25]  You see: a cave bear corpse
+[11/13/2021 19:25]  You see: an ogre corpse
+[11/13/2021 19:25]  You see: an ettin corpse
+[11/13/2021 19:25]  You see: an ogre corpse
+[11/13/2021 19:25]  You see: an ogre corpse
+[11/13/2021 19:25]  You see: an ogre corpse
+[11/13/2021 19:25]  You see: an ettin corpse
+[11/13/2021 19:25]  a colossal frog: *regens*
+[11/13/2021 19:25]  System: WorldMap loaded!
+[11/13/2021 19:25]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:25]  Razor: Target: Stink Fist
+[11/13/2021 19:25]  System: You carve materials from the corpse.
+[11/13/2021 19:25]  System: You will receive +14.6% damage to creatures, +5.8% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:25]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:25]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:25]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:25]  You see: a troll corpse
+[11/13/2021 19:25]  You see: a troll corpse
+[11/13/2021 19:25]  an ogre: an ogre
+[11/13/2021 19:25]  a rock guar: a rock guar
+[11/13/2021 19:25]  Razor: Attack: an ogre
+[11/13/2021 19:25]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 58.4.
+[11/13/2021 19:25]  System: Your skill in Chivalry has increased by 0.1.  It is now 65.6.
+[11/13/2021 19:25]  Razor: [MagicResist] -0.1 58.4 (-0.1)
+[11/13/2021 19:25]  Razor: [Chivalry] +0.1 65.6 (+0.1)
+[11/13/2021 19:25]  Stink Fist: -1
+[11/13/2021 19:25]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 58.3.
+[11/13/2021 19:25]  System: Your skill in Chivalry has increased by 0.1.  It is now 65.7.
+[11/13/2021 19:25]  Razor: [MagicResist] -0.1 58.3 (-0.2)
+[11/13/2021 19:25]  Razor: [Chivalry] +0.1 65.7 (+0.2)
+[11/13/2021 19:25]  Razor: Attack: an ogre
+[11/13/2021 19:25]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:25]  an ogre: -117
+[11/13/2021 19:25]  Stink Fist: -9
+[11/13/2021 19:25]  an ogre: -70
+[11/13/2021 19:25]  Stink Fist: -5
+[11/13/2021 19:25]  Stink Fist: -7
+[11/13/2021 19:25]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 58.2.
+[11/13/2021 19:25]  System: Your skill in Chivalry has increased by 0.1.  It is now 65.8.
+[11/13/2021 19:25]  an ogre: -59
+[11/13/2021 19:25]  Razor: [MagicResist] -0.1 58.2 (-0.3)
+[11/13/2021 19:25]  Razor: [Chivalry] +0.1 65.8 (+0.3)
+[11/13/2021 19:25]  Razor: Attack: an ogre
+[11/13/2021 19:25]  System: Eyeless Elephant has completed the achievement: Guardian of Shadowspire (Basic).
+[11/13/2021 19:25]  an ogre: -70
+[11/13/2021 19:25]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:25]  an ogre: -139
+[11/13/2021 19:25]  System: You have gained a little fame.
+[11/13/2021 19:25]  System: You have gained a little karma.
+[11/13/2021 19:25]  System: -45
+[11/13/2021 19:25]  You see: an ogre corpse
+[11/13/2021 19:25]  Stink Fist: -2
+[11/13/2021 19:25]  Stink Fist: -12
+[11/13/2021 19:25]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:25]  Stink Fist: -11
+[11/13/2021 19:25]  Razor: Attack: a rock guar
+[11/13/2021 19:25]  a rock guar: -49
+[11/13/2021 19:25]  a rock guar: -54
+[11/13/2021 19:25]  Razor: Attack: a rock guar
+[11/13/2021 19:25]  Stink Fist: -2
+[11/13/2021 19:25]  Razor: Attack: a rock guar
+[11/13/2021 19:25]  a rock guar: -35
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  System: Your attack crushes their armor!
+[11/13/2021 19:26]  a rock guar: -70
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  Aneckdotin: Aneckdotin
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  a rock guar: -57
+[11/13/2021 19:26]  Stink Fist: -9
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  System: You have gained a little fame.
+[11/13/2021 19:26]  System: You have gained a little karma.
+[11/13/2021 19:26]  System: -16
+[11/13/2021 19:26]  You see: a rock guar corpse
+[11/13/2021 19:26]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:26]  Stink Fist: -3
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 58.1.
+[11/13/2021 19:26]  System: Your skill in Chivalry has increased by 0.1.  It is now 65.9.
+[11/13/2021 19:26]  Razor: [MagicResist] -0.1 58.1 (-0.4)
+[11/13/2021 19:26]  Razor: [Chivalry] +0.1 65.9 (+0.4)
+[11/13/2021 19:26]  a rock guar: -34
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  a rock guar: -41
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  System: Your attack crushes their armor!
+[11/13/2021 19:26]  a rock guar: -90
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  Razor: Attack: a rock guar
+[11/13/2021 19:26]  a rock guar: -62
+[11/13/2021 19:26]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:26]  System: You carve materials from the corpse.
+[11/13/2021 19:26]  System: You will receive +14.6% damage to creatures, +5.8% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:26]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 58.0.
+[11/13/2021 19:26]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.3.
+[11/13/2021 19:26]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:26]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:26]  Razor: [MagicResist] -0.1 58.0 (-0.5)
+[11/13/2021 19:26]  Razor: [Forensics] +0.1 58.3 (+0.1)
+[11/13/2021 19:26]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:26]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:26]  a rock guar: -46
+[11/13/2021 19:26]  System: Playing Macro 'Healing'...
+[11/13/2021 19:26]  System: Who will you use the bandages on?
+[11/13/2021 19:26]  Razor: Healing Started
+[11/13/2021 19:26]  System: You begin applying the bandages.
+[11/13/2021 19:26]  System: You have gained a little fame.
+[11/13/2021 19:26]  System: You have gained a little karma.
+[11/13/2021 19:26]  System: -8
+[11/13/2021 19:26]  You see: a rock guar corpse
+[11/13/2021 19:26]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:26]  Razor: Bandage: 1s
+[11/13/2021 19:26]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:26]  System: You carve materials from the corpse.
+[11/13/2021 19:26]  Razor: Bandage: 2s
+[11/13/2021 19:26]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:26]  Razor: Bandage: 3s
+[11/13/2021 19:26]  Razor: Bandage: 4s
+[11/13/2021 19:26]  Razor: Bandage: 5s
+[11/13/2021 19:26]  Razor: Bandage: 6s
+[11/13/2021 19:26]  Razor: Bandage: 7s
+[11/13/2021 19:26]  Razor: Bandage: 8s
+[11/13/2021 19:26]  System: You will receive +14.6% damage to creatures, +5.8% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:26]  Razor: Bandage: 9s
+[11/13/2021 19:26]  Razor: Bandage: 10s
+[11/13/2021 19:26]  System: You finish applying the bandages.
+[11/13/2021 19:26]  Stink Fist: +36
+[11/13/2021 19:26]  Sonya Dusk: Sonya Dusk
+[11/13/2021 19:26]  Shining: (bonded)
+[11/13/2021 19:26]  Shining: Shining
+[11/13/2021 19:26]  Cockroachy: (tame)
+[11/13/2021 19:26]  Cockroachy: Cockroachy
+[11/13/2021 19:26]  Aneckdotin: Aneckdotin
+[11/13/2021 19:26]  System: Who will you use the bandages on?
+[11/13/2021 19:26]  a monitor hatchling: a monitor hatchling
+[11/13/2021 19:26]  Razor: Healing Started
+[11/13/2021 19:26]  System: You begin applying the bandages.
+[11/13/2021 19:26]  an ogre: an ogre
+[11/13/2021 19:26]  You see: an ogre corpse
+[11/13/2021 19:26]  You see: a troll corpse
+[11/13/2021 19:26]  You see: an ogre corpse
+[11/13/2021 19:26]  You see: a troll corpse
+[11/13/2021 19:26]  You see: a monitor hatchling corpse
+[11/13/2021 19:26]  a giant frog: a giant frog
+[11/13/2021 19:26]  Razor: Bandage: 1s
+[11/13/2021 19:26]  Razor: Bandage: 2s
+[11/13/2021 19:26]  Razor: Bandage: 3s
+[11/13/2021 19:26]  You see: a corpse eater corpse
+[11/13/2021 19:26]  Razor: Bandage: 4s
+[11/13/2021 19:26]  a corpse eater: a corpse eater
+[11/13/2021 19:26]  Razor: Bandage: 5s
+[11/13/2021 19:26]  System: Players cannot commit aggressive actions in that location.
+[11/13/2021 19:26]  Razor: Bandage: 6s
+[11/13/2021 19:26]  System: You may not loot this corpse.
+[11/13/2021 19:26]  Razor: Bandage: 7s
+[11/13/2021 19:26]  You see: a troll corpse
+[11/13/2021 19:26]  You see: a troll corpse
+[11/13/2021 19:26]  a troll: a troll
+[11/13/2021 19:26]  a troll: a troll
+[11/13/2021 19:26]  Razor: Bandage: 8s
+[11/13/2021 19:26]  Sonya Dusk: *focuses aggression*
+[11/13/2021 19:26]  Razor: Bandage: 9s
+[11/13/2021 19:26]  Razor: Attack: a corpse eater
+[11/13/2021 19:26]  Razor: Bandage: 10s
+[11/13/2021 19:26]  System: You finish applying the bandages.
+[11/13/2021 19:26]  Stink Fist: +9
+[11/13/2021 19:26]  a corpse eater: -45
+[11/13/2021 19:26]  You see: a corpse eater corpse
+[11/13/2021 19:26]  a corpse eater: a corpse eater
+[11/13/2021 19:26]  You see: a corpse eater corpse
+[11/13/2021 19:26]  System: You may not loot this corpse.
+[11/13/2021 19:26]  Razor: Attack: a troll
+[11/13/2021 19:26]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.9.
+[11/13/2021 19:26]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.0.
+[11/13/2021 19:26]  a troll: -60
+[11/13/2021 19:26]  Razor: [MagicResist] -0.1 57.9 (-0.6)
+[11/13/2021 19:26]  Razor: [Chivalry] +0.1 66.0 (+0.5)
+[11/13/2021 19:26]  a troll: *regenerates*
+[11/13/2021 19:26]  Stink Fist: -9
+[11/13/2021 19:26]  System: Who will you use the bandages on?
+[11/13/2021 19:26]  Razor: Healing Started
+[11/13/2021 19:26]  System: You begin applying the bandages.
+[11/13/2021 19:26]  Razor: Bandage: 1s
+[11/13/2021 19:26]  System: You may not loot this corpse.
+[11/13/2021 19:26]  Razor: Bandage: 2s
+[11/13/2021 19:26]  Razor: Attack: a corpse eater
+[11/13/2021 19:26]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.8.
+[11/13/2021 19:26]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.1.
+[11/13/2021 19:26]  a corpse eater: -52
+[11/13/2021 19:26]  Razor: [MagicResist] -0.1 57.8 (-0.7)
+[11/13/2021 19:26]  Razor: [Chivalry] +0.1 66.1 (+0.6)
+[11/13/2021 19:26]  Razor: Bandage: 3s
+[11/13/2021 19:26]  Stink Fist: -6
+[11/13/2021 19:26]  System: Your fingers slip!
+[11/13/2021 19:26]  System: You have contracted a foul disease!
+[11/13/2021 19:26]  Stink Fist: *looks violently ill*
+[11/13/2021 19:26]  Razor: [+Diseased (30s)]
+[11/13/2021 19:26]  Razor: Bandage: 4s
+[11/13/2021 19:26]  a corpse eater: -48
+[11/13/2021 19:26]  System: Your dexterity has changed by 20.  It is now 120
+[11/13/2021 19:26]  Razor: [+Agility (216s)]
+[11/13/2021 19:26]  Razor: Dex: +20 - 120
+[11/13/2021 19:26]  Razor: [-Agility (s)]
+[11/13/2021 19:26]  Razor: [+Agility (216s)]
+[11/13/2021 19:26]  System: Finished 3 queued actions in 1.2 seconds.
+[11/13/2021 19:26]  Razor: Bandage: 5s
+[11/13/2021 19:26]  a corpse eater: -30
+[11/13/2021 19:26]  Razor: Bandage: 6s
+[11/13/2021 19:27]  Razor: Bandage: 7s
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.7.
+[11/13/2021 19:27]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.2.
+[11/13/2021 19:27]  System: You have gained a little fame.
+[11/13/2021 19:27]  System: You have gained a little karma.
+[11/13/2021 19:27]  System: -44
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.7 (-0.8)
+[11/13/2021 19:27]  Razor: [Chivalry] +0.1 66.2 (+0.7)
+[11/13/2021 19:27]  You see: a corpse eater corpse
+[11/13/2021 19:27]  Razor: Bandage: 8s
+[11/13/2021 19:27]  Stink Fist: -4
+[11/13/2021 19:27]  System: Your fingers slip!
+[11/13/2021 19:27]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:27]  Razor: Bandage: 9s
+[11/13/2021 19:27]  Razor: Attack: a troll
+[11/13/2021 19:27]  a troll: -56
+[11/13/2021 19:27]  Razor: Bandage: 10s
+[11/13/2021 19:27]  System: You finish applying the bandages.
+[11/13/2021 19:27]  Stink Fist: +17
+[11/13/2021 19:27]  a troll: -46
+[11/13/2021 19:27]  Razor: Attack: a troll
+[11/13/2021 19:27]  a troll: -50
+[11/13/2021 19:27]  Stink Fist: -4
+[11/13/2021 19:27]  System: Who will you use the bandages on?
+[11/13/2021 19:27]  Razor: Healing Started
+[11/13/2021 19:27]  System: You begin applying the bandages.
+[11/13/2021 19:27]  Stink Fist: The food is paltry and is barely satisfying.
+[11/13/2021 19:27]  System: You are still slightly hungry.
+[11/13/2021 19:27]  Razor: [-Food Satisfaction (s)]
+[11/13/2021 19:27]  Razor: [+Food Satisfaction (3600s)]
+[11/13/2021 19:27]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:27]  a troll: -102
+[11/13/2021 19:27]  Stink Fist: -8
+[11/13/2021 19:27]  System: Your fingers slip!
+[11/13/2021 19:27]  Razor: Bandage: 1s
+[11/13/2021 19:27]  Razor: Bandage: 2s
+[11/13/2021 19:27]  Stink Fist: The food is paltry and is barely satisfying.
+[11/13/2021 19:27]  System: You are somewhat full.
+[11/13/2021 19:27]  Razor: [-Food Satisfaction (s)]
+[11/13/2021 19:27]  Razor: [+Food Satisfaction (3600s)]
+[11/13/2021 19:27]  Razor: Bandage: 3s
+[11/13/2021 19:27]  Razor: Bandage: 4s
+[11/13/2021 19:27]  a troll: -51
+[11/13/2021 19:27]  Razor: Attack: a troll
+[11/13/2021 19:27]  Stink Fist: -4
+[11/13/2021 19:27]  System: Your fingers slip!
+[11/13/2021 19:27]  Razor: Bandage: 5s
+[11/13/2021 19:27]  a troll: *regenerates*
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  a troll: -58
+[11/13/2021 19:27]  Razor: Bandage: 6s
+[11/13/2021 19:27]  Razor: Bandage: 7s
+[11/13/2021 19:27]  Razor: Attack: a troll
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.6.
+[11/13/2021 19:27]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.3.
+[11/13/2021 19:27]  a troll: -51
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.6 (-0.9)
+[11/13/2021 19:27]  Razor: [Chivalry] +0.1 66.3 (+0.8)
+[11/13/2021 19:27]  Razor: Bandage: 8s
+[11/13/2021 19:27]  a troll: -51
+[11/13/2021 19:27]  Razor: Bandage: 9s
+[11/13/2021 19:27]  Stink Fist: -4
+[11/13/2021 19:27]  System: Your fingers slip!
+[11/13/2021 19:27]  Razor: Bandage: 10s
+[11/13/2021 19:27]  System: You finish applying the bandages.
+[11/13/2021 19:27]  Stink Fist: +18
+[11/13/2021 19:27]  Stink Fist: -5
+[11/13/2021 19:27]  System: Who will you use the bandages on?
+[11/13/2021 19:27]  Razor: Healing Started
+[11/13/2021 19:27]  System: You begin applying the bandages.
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.5.
+[11/13/2021 19:27]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.4.
+[11/13/2021 19:27]  a troll: -46
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.5 (-1.0)
+[11/13/2021 19:27]  Razor: [Chivalry] +0.1 66.4 (+0.9)
+[11/13/2021 19:27]  Jynjer: Jynjer (Young)
+[11/13/2021 19:27]  Razor: Bandage: 1s
+[11/13/2021 19:27]  Razor: Bandage: 2s
+[11/13/2021 19:27]  a troll: -44
+[11/13/2021 19:27]  Stink Fist: -2
+[11/13/2021 19:27]  System: Your fingers slip!
+[11/13/2021 19:27]  Razor: Bandage: 3s
+[11/13/2021 19:27]  Stink Fist: -4
+[11/13/2021 19:27]  Razor: Bandage: 4s
+[11/13/2021 19:27]  a troll: -45
+[11/13/2021 19:27]  Razor: Bandage: 5s
+[11/13/2021 19:27]  System: You have gained a little fame.
+[11/13/2021 19:27]  System: You have gained a little karma.
+[11/13/2021 19:27]  System: -14
+[11/13/2021 19:27]  You see: a troll corpse
+[11/13/2021 19:27]  [Guild][Looney Tunes]: anyone selling 12 water core and 6 extract/distll
+[11/13/2021 19:27]  Razor: Bandage: 6s
+[11/13/2021 19:27]  Razor: Attack: a corpse eater
+[11/13/2021 19:27]  System: Your fingers slip!
+[11/13/2021 19:27]  Razor: Bandage: 7s
+[11/13/2021 19:27]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:27]  Razor: Attack: a corpse eater
+[11/13/2021 19:27]  Razor: Bandage: 8s
+[11/13/2021 19:27]  Stink Fist: -4
+[11/13/2021 19:27]  System: You are no longer diseased.
+[11/13/2021 19:27]  Razor: [-Diseased (s)]
+[11/13/2021 19:27]  a corpse eater: -47
+[11/13/2021 19:27]  Razor: Bandage: 9s
+[11/13/2021 19:27]  Stink Fist: -5
+[11/13/2021 19:27]  Razor: Bandage: 10s
+[11/13/2021 19:27]  System: You finish applying the bandages.
+[11/13/2021 19:27]  Stink Fist: +18
+[11/13/2021 19:27]  System: Your fingers slip! [2]
+[11/13/2021 19:27]  a corpse eater: -36
+[11/13/2021 19:27]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.4.
+[11/13/2021 19:27]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.4.
+[11/13/2021 19:27]  System: You carve materials from the corpse.
+[11/13/2021 19:27]  System: You will receive +14.6% damage to creatures, +5.8% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.4 (-1.1)
+[11/13/2021 19:27]  Razor: [Forensics] +0.1 58.4 (+0.2)
+[11/13/2021 19:27]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:27]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:27]  System: Your attack crushes their armor!
+[11/13/2021 19:27]  a corpse eater: -77
+[11/13/2021 19:27]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:27]  a corpse eater: -44
+[11/13/2021 19:27]  Razor: Attack: a corpse eater
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.3.
+[11/13/2021 19:27]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.5.
+[11/13/2021 19:27]  System: You have gained a little fame.
+[11/13/2021 19:27]  System: You have gained a little karma.
+[11/13/2021 19:27]  System: -15
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.3 (-1.2)
+[11/13/2021 19:27]  Razor: [Chivalry] +0.1 66.5 (+1.0)
+[11/13/2021 19:27]  You see: a corpse eater corpse
+[11/13/2021 19:27]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:27]  System: Suede has completed the achievement: Transmutation (Basic).
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:27]  shandy there: shandy there
+[11/13/2021 19:27]  System: You carve materials from the corpse.
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.2.
+[11/13/2021 19:27]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.5.
+[11/13/2021 19:27]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:27]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.2 (-1.3)
+[11/13/2021 19:27]  Razor: [Forensics] +0.1 58.5 (+0.3)
+[11/13/2021 19:27]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:27]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:27]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:27]  System: You will receive +14.6% damage to creatures, +5.8% damage to players, and +5.8 to barding skills (expires in 3h). [2]
+[11/13/2021 19:27]  System: You carve materials from the corpse.
+[11/13/2021 19:27]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a ghoul corpse
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  Jynjer: Jynjer (Young)
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  a necromancer: a necromancer
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a ghoul corpse
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  a ghoul: a ghoul
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  a skeletal archer: a skeletal archer
+[11/13/2021 19:27]  System: You may not loot this corpse.
+[11/13/2021 19:27]  You see: a skeletal archer corpse
+[11/13/2021 19:27]  You see: a ghoul corpse
+[11/13/2021 19:27]  a ghoul: a ghoul
+[11/13/2021 19:27]  System: Players cannot commit aggressive actions in that location.
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  Aneckdotin: Aneckdotin
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  System: That is too far away.
+[11/13/2021 19:27]  You see: a ghoul corpse
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  You see: a headless corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  a mongbat: a mongbat
+[11/13/2021 19:27]  a ghoul: a ghoul
+[11/13/2021 19:27]  You see: a skeletal mage corpse
+[11/13/2021 19:27]  You see: a headless corpse
+[11/13/2021 19:27]  a giant frog: a giant frog
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  You see: a headless corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a ghoul corpse
+[11/13/2021 19:27]  You see: a necromancer corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  You see: a skeletal corpse
+[11/13/2021 19:27]  System: That is too far away.
+[11/13/2021 19:27]  System: Opening door...
+[11/13/2021 19:27]  a necromancer: a necromancer
+[11/13/2021 19:27]  a necromancer: a necromancer
+[11/13/2021 19:27]  System: Players cannot commit aggressive actions in that location. [2]
+[11/13/2021 19:27]  a skeletal mage: a skeletal mage
+[11/13/2021 19:27]  Razor: Attack: a ghoul
+[11/13/2021 19:27]  a ghoul: -46
+[11/13/2021 19:27]  You see: a headless corpse
+[11/13/2021 19:27]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.1.
+[11/13/2021 19:27]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.6.
+[11/13/2021 19:27]  a ghoul: -52
+[11/13/2021 19:27]  Razor: [MagicResist] -0.1 57.1 (-1.4)
+[11/13/2021 19:27]  Razor: [Chivalry] +0.1 66.6 (+1.1)
+[11/13/2021 19:27]  a ghoul: -46
+[11/13/2021 19:28]  Stink Fist: -8
+[11/13/2021 19:28]  Stink Fist: -2
+[11/13/2021 19:28]  System: Who will you use the bandages on?
+[11/13/2021 19:28]  Razor: Healing Started
+[11/13/2021 19:28]  System: You begin applying the bandages.
+[11/13/2021 19:28]  Razor: Bandage: 1s
+[11/13/2021 19:28]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 57.0.
+[11/13/2021 19:28]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.7.
+[11/13/2021 19:28]  Razor: [MagicResist] -0.1 57.0 (-1.5)
+[11/13/2021 19:28]  Razor: [Chivalry] +0.1 66.7 (+1.2)
+[11/13/2021 19:28]  Razor: Bandage: 2s
+[11/13/2021 19:28]  Razor: Bandage: 3s
+[11/13/2021 19:28]  Razor: Bandage: 4s
+[11/13/2021 19:28]  Stink Fist: -3
+[11/13/2021 19:28]  Razor: Bandage: 5s
+[11/13/2021 19:28]  Razor: Bandage: 6s
+[11/13/2021 19:28]  a ghoul: -47
+[11/13/2021 19:28]  Stink Fist: -5
+[11/13/2021 19:28]  System: Your fingers slip!
+[11/13/2021 19:28]  You see: a necromancer corpse
+[11/13/2021 19:28]  Razor: Bandage: 7s
+[11/13/2021 19:28]  You see: a necromancer corpse
+[11/13/2021 19:28]  a necromancer: a necromancer
+[11/13/2021 19:28]  You see: a necromancer corpse
+[11/13/2021 19:28]  You see: a skeletal corpse
+[11/13/2021 19:28]  a necromancer: a necromancer
+[11/13/2021 19:28]  Jynjer: Jynjer (Young)
+[11/13/2021 19:28]  Razor: Bandage: 8s
+[11/13/2021 19:28]  You see: a ghoul corpse
+[11/13/2021 19:28]  Nof: Nof
+[11/13/2021 19:28]  Razor: Bandage: 9s
+[11/13/2021 19:28]  You see: a necromancer corpse
+[11/13/2021 19:28]  Stink Fist: -1
+[11/13/2021 19:28]  Razor: Bandage: 10s
+[11/13/2021 19:28]  System: You finish applying the bandages.
+[11/13/2021 19:28]  Stink Fist: +17
+[11/13/2021 19:28]  System: Your fingers slip!
+[11/13/2021 19:28]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.9.
+[11/13/2021 19:28]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.8.
+[11/13/2021 19:28]  a ghoul: -62
+[11/13/2021 19:28]  Razor: [MagicResist] -0.1 56.9 (-1.6)
+[11/13/2021 19:28]  Razor: [Chivalry] +0.1 66.8 (+1.3)
+[11/13/2021 19:28]  System: You parry the spell.
+[11/13/2021 19:28]  Stink Fist: -1
+[11/13/2021 19:28]  a ghoul: -46
+[11/13/2021 19:28]  System: Who will you use the bandages on?
+[11/13/2021 19:28]  System: Opening door...
+[11/13/2021 19:28]  Razor: Healing Started
+[11/13/2021 19:28]  You see: a necromancer corpse
+[11/13/2021 19:28]  System: You begin applying the bandages.
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  Razor: Bandage: 1s
+[11/13/2021 19:28]  Stink Fist: -2
+[11/13/2021 19:28]  System: Your fingers slip!
+[11/13/2021 19:28]  Razor: Attack: a skeletal archer
+[11/13/2021 19:28]  a skeletal archer: -67
+[11/13/2021 19:28]  System: ADiscoDuck has completed the achievement: Monstrous Slayer (Basic).
+[11/13/2021 19:28]  Stink Fist: -2
+[11/13/2021 19:28]  Razor: Bandage: 2s
+[11/13/2021 19:28]  System: Opening door...
+[11/13/2021 19:28]  Razor: Bandage: 3s
+[11/13/2021 19:28]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.8.
+[11/13/2021 19:28]  System: Your skill in Chivalry has increased by 0.1.  It is now 66.9.
+[11/13/2021 19:28]  a skeletal archer: -69
+[11/13/2021 19:28]  Razor: [MagicResist] -0.1 56.8 (-1.7)
+[11/13/2021 19:28]  Razor: [Chivalry] +0.1 66.9 (+1.4)
+[11/13/2021 19:28]  Razor: Attack: a skeletal archer
+[11/13/2021 19:28]  Razor: Bandage: 4s
+[11/13/2021 19:28]  Razor: Attack: a skeletal archer
+[11/13/2021 19:28]  System: The Armorer has completed the achievement: Order of Armorers Dignitary.
+[11/13/2021 19:28]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:28]  System: You have gained a little fame.
+[11/13/2021 19:28]  System: You have gained a little karma.
+[11/13/2021 19:28]  System: -52
+[11/13/2021 19:28]  You see: a skeletal archer corpse
+[11/13/2021 19:28]  Razor: Bandage: 5s
+[11/13/2021 19:28]  Razor: Bandage: 6s
+[11/13/2021 19:28]  Razor: Attack: a ghoul
+[11/13/2021 19:28]  System: -13
+[11/13/2021 19:28]  You see: a ghoul corpse
+[11/13/2021 19:28]  Razor: Bandage: 7s
+[11/13/2021 19:28]  Razor: Bandage: 8s
+[11/13/2021 19:28]  System: You have gained a little karma.
+[11/13/2021 19:28]  System: You have gained a little fame.
+[11/13/2021 19:28]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:28]  Razor: Bandage: 9s
+[11/13/2021 19:28]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:28]  Razor: Bandage: 10s
+[11/13/2021 19:28]  System: You finish applying the bandages.
+[11/13/2021 19:28]  Stink Fist: +3
+[11/13/2021 19:28]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:28]  System: You carve materials from the corpse.
+[11/13/2021 19:28]  System: You will receive +14.6% damage to creatures, +5.8% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:28]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.7.
+[11/13/2021 19:28]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.6.
+[11/13/2021 19:28]  System: You will receive +14.6% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:28]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:28]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:28]  Razor: [MagicResist] -0.1 56.7 (-1.8)
+[11/13/2021 19:28]  Razor: [Forensics] +0.1 58.6 (+0.4)
+[11/13/2021 19:28]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:28]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:28]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:28]  System: You carve materials from the corpse.
+[11/13/2021 19:28]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:28]  System: Opening door...
+[11/13/2021 19:28]  Razor: Attack: a ghoul
+[11/13/2021 19:28]  Stink Fist: -2
+[11/13/2021 19:28]  a ghoul: -43
+[11/13/2021 19:28]  System: Who will you use the bandages on?
+[11/13/2021 19:28]  Razor: Healing Started
+[11/13/2021 19:28]  System: You begin applying the bandages.
+[11/13/2021 19:28]  System: Opening door...
+[11/13/2021 19:28]  Razor: Bandage: 1s
+[11/13/2021 19:28]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.6.
+[11/13/2021 19:28]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.0.
+[11/13/2021 19:28]  a ghoul: -44
+[11/13/2021 19:28]  Razor: [MagicResist] -0.1 56.6 (-1.9)
+[11/13/2021 19:28]  Razor: [Chivalry] +0.1 67.0 (+1.5)
+[11/13/2021 19:28]  Razor: Attack: a ghoul
+[11/13/2021 19:28]  Razor: Bandage: 2s
+[11/13/2021 19:28]  Razor: Bandage: 3s
+[11/13/2021 19:28]  a ghoul: -44
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  Razor: Bandage: 4s
+[11/13/2021 19:28]  Stink Fist: -2
+[11/13/2021 19:28]  System: Your fingers slip!
+[11/13/2021 19:28]  a giant frog: a giant frog
+[11/13/2021 19:28]  Razor: Bandage: 5s
+[11/13/2021 19:28]  a giant frog: a giant frog
+[11/13/2021 19:28]  an evil mage: an evil mage
+[11/13/2021 19:28]  a giant frog: a giant frog
+[11/13/2021 19:28]  an imp: an imp
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  Razor: Bandage: 6s
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  a colossal frog: *released*
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  System: Opening door...
+[11/13/2021 19:28]  Razor: Bandage: 7s
+[11/13/2021 19:28]  Stink Fist: That is out of my line of sight.
+[11/13/2021 19:28]  Razor: Bandage: 8s
+[11/13/2021 19:28]  You see: a monitor hatchling corpse
+[11/13/2021 19:28]  You see: a monitor hatchling corpse
+[11/13/2021 19:28]  Razor: Bandage: 9s
+[11/13/2021 19:28]  Stink Fist: -3
+[11/13/2021 19:28]  Razor: Bandage: 10s
+[11/13/2021 19:28]  System: You finish applying the bandages.
+[11/13/2021 19:28]  Stink Fist: +5
+[11/13/2021 19:28]  Razor: Attack: a necromancer
+[11/13/2021 19:28]  Razor: Attack: a skeletal mage
+[11/13/2021 19:28]  a skeletal mage: -53
+[11/13/2021 19:28]  System: You absorb their spell (4.5% current damage bonus).
+[11/13/2021 19:28]  Stink Fist: -1
+[11/13/2021 19:28]  System: Who will you use the bandages on?
+[11/13/2021 19:28]  Razor: Healing Started
+[11/13/2021 19:28]  System: You begin applying the bandages.
+[11/13/2021 19:28]  System: You parry the spell.
+[11/13/2021 19:28]  Stink Fist: -1
+[11/13/2021 19:28]  System: Your fingers slip!
+[11/13/2021 19:28]  Razor: Bandage: 1s
+[11/13/2021 19:28]  Stink Fist: -4
+[11/13/2021 19:28]  Razor: Bandage: 2s
+[11/13/2021 19:28]  Stink Fist: -1
+[11/13/2021 19:28]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:28]  a skeletal mage: -80
+[11/13/2021 19:28]  Razor: Bandage: 3s
+[11/13/2021 19:28]  Razor: Bandage: 4s
+[11/13/2021 19:28]  a skeletal mage: -61
+[11/13/2021 19:28]  System: Your fingers slip! [2]
+[11/13/2021 19:28]  Razor: Attack: a skeletal mage
+[11/13/2021 19:28]  Stink Fist: -3
+[11/13/2021 19:28]  a colossal frog: a colossal frog
+[11/13/2021 19:28]  Razor: Bandage: 5s
+[11/13/2021 19:28]  Stink Fist: -8
+[11/13/2021 19:28]  System: You have gained a little fame.
+[11/13/2021 19:28]  System: You have gained a little karma.
+[11/13/2021 19:28]  System: -50
+[11/13/2021 19:28]  You see: a skeletal mage corpse
+[11/13/2021 19:28]  Razor: Bandage: 6s
+[11/13/2021 19:28]  Razor: Bandage: 7s
+[11/13/2021 19:28]  Stink Fist: -2
+[11/13/2021 19:28]  System: You may now use an agility potion.
+[11/13/2021 19:28]  System: Your fingers slip! [3]
+[11/13/2021 19:28]  Razor: Bandage: 8s
+[11/13/2021 19:28]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:28]  Razor: Bandage: 9s
+[11/13/2021 19:28]  Razor: Attack: a ghoul
+[11/13/2021 19:28]  a ghoul: -54
+[11/13/2021 19:29]  Razor: Bandage: 10s
+[11/13/2021 19:29]  System: You finish applying the bandages.
+[11/13/2021 19:29]  Stink Fist: +18
+[11/13/2021 19:29]  Stink Fist: -2
+[11/13/2021 19:29]  Razor: Attack: a ghoul
+[11/13/2021 19:29]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.5.
+[11/13/2021 19:29]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.1.
+[11/13/2021 19:29]  a ghoul: -58
+[11/13/2021 19:29]  Razor: [MagicResist] -0.1 56.5 (-2.0)
+[11/13/2021 19:29]  Razor: [Chivalry] +0.1 67.1 (+1.6)
+[11/13/2021 19:29]  System: Who will you use the bandages on?
+[11/13/2021 19:29]  Razor: Healing Started
+[11/13/2021 19:29]  System: You begin applying the bandages.
+[11/13/2021 19:29]  Razor: Bandage: 1s
+[11/13/2021 19:29]  a ghoul: -58
+[11/13/2021 19:29]  Stink Fist: -1
+[11/13/2021 19:29]  System: Your fingers slip!
+[11/13/2021 19:29]  Razor: Attack: a ghoul
+[11/13/2021 19:29]  Stink Fist: -2
+[11/13/2021 19:29]  Razor: Bandage: 2s
+[11/13/2021 19:29]  Razor: Attack: a ghoul
+[11/13/2021 19:29]  Razor: Bandage: 3s
+[11/13/2021 19:29]  System: You have gained a little fame.
+[11/13/2021 19:29]  System: You have gained a little karma.
+[11/13/2021 19:29]  System: -11
+[11/13/2021 19:29]  You see: a ghoul corpse
+[11/13/2021 19:29]  Razor: Bandage: 4s
+[11/13/2021 19:29]  System: You must wait another moment before you may pick up an item from here.
+[11/13/2021 19:29]  Razor: Bandage: 5s
+[11/13/2021 19:29]  Razor: Bandage: 6s
+[11/13/2021 19:29]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:29]  Stink Fist: -3
+[11/13/2021 19:29]  System: Your fingers slip!
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  a necromancer: -52
+[11/13/2021 19:29]  Razor: Bandage: 7s
+[11/13/2021 19:29]  Razor: Bandage: 8s
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  Stink Fist: -1
+[11/13/2021 19:29]  Razor: Bandage: 9s
+[11/13/2021 19:29]  Razor: Bandage: 10s
+[11/13/2021 19:29]  System: You finish applying the bandages.
+[11/13/2021 19:29]  Stink Fist: +7
+[11/13/2021 19:29]  a necromancer: -62
+[11/13/2021 19:29]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:29]  a necromancer: -110
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  Stink Fist: -2
+[11/13/2021 19:29]  System: Who will you use the bandages on?
+[11/13/2021 19:29]  Razor: Healing Started
+[11/13/2021 19:29]  System: You begin applying the bandages.
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.4.
+[11/13/2021 19:29]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.2.
+[11/13/2021 19:29]  a necromancer: -61
+[11/13/2021 19:29]  Razor: [MagicResist] -0.1 56.4 (-2.1)
+[11/13/2021 19:29]  Razor: [Chivalry] +0.1 67.2 (+1.7)
+[11/13/2021 19:29]  Razor: Bandage: 1s
+[11/13/2021 19:29]  Razor: Bandage: 2s
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  Razor: Bandage: 3s
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  Stink Fist: -3
+[11/13/2021 19:29]  System: Your fingers slip!
+[11/13/2021 19:29]  a necromancer: -57
+[11/13/2021 19:29]  Razor: Bandage: 4s
+[11/13/2021 19:29]  Razor: Bandage: 5s
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  a necromancer: -64
+[11/13/2021 19:29]  Stink Fist: -1
+[11/13/2021 19:29]  Razor: Bandage: 6s
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  Razor: Bandage: 7s
+[11/13/2021 19:29]  System: You have gained a little fame.
+[11/13/2021 19:29]  System: You have gained a little karma.
+[11/13/2021 19:29]  System: -32
+[11/13/2021 19:29]  You see: a necromancer corpse
+[11/13/2021 19:29]  System: Your fingers slip!
+[11/13/2021 19:29]  Razor: Bandage: 8s
+[11/13/2021 19:29]  Razor: Bandage: 9s
+[11/13/2021 19:29]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:29]  Razor: Bandage: 10s
+[11/13/2021 19:29]  System: You finish applying the bandages.
+[11/13/2021 19:29]  Stink Fist: +4
+[11/13/2021 19:29]  a giant frog: a giant frog
+[11/13/2021 19:29]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:29]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.3.
+[11/13/2021 19:29]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.7.
+[11/13/2021 19:29]  System: You carve materials from the corpse.
+[11/13/2021 19:29]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:29]  Razor: [MagicResist] -0.1 56.3 (-2.2)
+[11/13/2021 19:29]  Razor: [Forensics] +0.1 58.7 (+0.5)
+[11/13/2021 19:29]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:29]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:29]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:29]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:29]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:29]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:29]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:29]  a colossal frog: a colossal frog
+[11/13/2021 19:29]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:29]  System: You carve materials from the corpse. [2]
+[11/13/2021 19:29]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:29]  System: Opening door...
+[11/13/2021 19:29]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h). [2]
+[11/13/2021 19:29]  Razor: Attack: a necromancer
+[11/13/2021 19:29]  You see: a ghoul corpse
+[11/13/2021 19:29]  You see: a skeletal archer corpse
+[11/13/2021 19:29]  a necromancer: -34
+[11/13/2021 19:29]  System: You absorb their spell (9.0% current damage bonus).
+[11/13/2021 19:29]  Stink Fist: -1
+[11/13/2021 19:29]  System: Who will you use the bandages on?
+[11/13/2021 19:29]  Razor: Healing Started
+[11/13/2021 19:29]  System: You begin applying the bandages.
+[11/13/2021 19:29]  Razor: Bandage: 1s
+[11/13/2021 19:29]  Razor: Bandage: 2s
+[11/13/2021 19:29]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.2.
+[11/13/2021 19:29]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.3.
+[11/13/2021 19:29]  a necromancer: -55
+[11/13/2021 19:29]  Razor: [MagicResist] -0.1 56.2 (-2.3)
+[11/13/2021 19:29]  Razor: [Chivalry] +0.1 67.3 (+1.8)
+[11/13/2021 19:29]  Stink Fist: -2
+[11/13/2021 19:29]  System: Your fingers slip!
+[11/13/2021 19:29]  Razor: Bandage: 3s
+[11/13/2021 19:29]  Razor: Bandage: 4s
+[11/13/2021 19:29]  Razor: Bandage: 5s
+[11/13/2021 19:29]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.1.
+[11/13/2021 19:29]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.4.
+[11/13/2021 19:29]  Razor: [MagicResist] -0.1 56.1 (-2.4)
+[11/13/2021 19:29]  Razor: [Chivalry] +0.1 67.4 (+1.9)
+[11/13/2021 19:29]  You see: a troll corpse
+[11/13/2021 19:29]  System: You absorb their spell (13.5% current damage bonus).
+[11/13/2021 19:29]  Razor: Bandage: 6s
+[11/13/2021 19:29]  Stink Fist: -1
+[11/13/2021 19:29]  System: Your fingers slip!
+[11/13/2021 19:29]  Razor: Bandage: 7s
+[11/13/2021 19:29]  Razor: Bandage: 8s
+[11/13/2021 19:29]  Razor: Bandage: 9s
+[11/13/2021 19:29]  You see: a ghoul corpse
+[11/13/2021 19:29]  You see: a skeletal archer corpse
+[11/13/2021 19:29]  a colossal frog: a colossal frog
+[11/13/2021 19:29]  a giant frog: a giant frog
+[11/13/2021 19:29]  System: You finish applying the bandages.
+[11/13/2021 19:29]  Stink Fist: +2
+[11/13/2021 19:29]  Stink Fist: -2
+[11/13/2021 19:29]  a necromancer: -57
+[11/13/2021 19:29]  System: Who will you use the bandages on?
+[11/13/2021 19:29]  Razor: Healing Started
+[11/13/2021 19:29]  System: You begin applying the bandages.
+[11/13/2021 19:29]  Razor: Bandage: 1s
+[11/13/2021 19:29]  Stink Fist: -1
+[11/13/2021 19:29]  a necromancer: -36
+[11/13/2021 19:29]  System: You absorb their spell (13.5% current damage bonus).
+[11/13/2021 19:29]  Razor: Bandage: 2s
+[11/13/2021 19:29]  a necromancer: -73
+[11/13/2021 19:29]  Razor: Bandage: 3s
+[11/13/2021 19:29]  Razor: Bandage: 4s
+[11/13/2021 19:29]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:29]  a necromancer: -90
+[11/13/2021 19:29]  Razor: Bandage: 5s
+[11/13/2021 19:29]  Stink Fist: -2
+[11/13/2021 19:29]  Razor: Bandage: 6s
+[11/13/2021 19:29]  a necromancer: -50
+[11/13/2021 19:29]  System: A contested boss has spawned in Nusero!
+[11/13/2021 19:30]  Razor: Bandage: 7s
+[11/13/2021 19:30]  System: You have gained a little fame.
+[11/13/2021 19:30]  System: You have gained a little karma.
+[11/13/2021 19:30]  System: -43
+[11/13/2021 19:30]  You see: a necromancer corpse
+[11/13/2021 19:30]  Razor: Bandage: 8s
+[11/13/2021 19:30]  Razor: Bandage: 9s
+[11/13/2021 19:30]  System: You finish applying the bandages.
+[11/13/2021 19:30]  Stink Fist: +3
+[11/13/2021 19:30]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:30]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:30]  System: You carve materials from the corpse.
+[11/13/2021 19:30]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:30]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:30]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:30]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:30]  You see: a ghoul corpse
+[11/13/2021 19:30]  You see: a skeletal archer corpse
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  a giant frog: a giant frog
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  a giant frog: a giant frog
+[11/13/2021 19:30]  a colossal frog: *released*
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  System: Opening door...
+[11/13/2021 19:30]  You see: a skeletal archer corpse
+[11/13/2021 19:30]  You see: a ghoul corpse
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  a giant frog: a giant frog
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  a giant frog: a giant frog
+[11/13/2021 19:30]  You see: a skeletal corpse
+[11/13/2021 19:30]  a skeleton: a skeleton
+[11/13/2021 19:30]  Stink Fist: That is out of my line of sight.
+[11/13/2021 19:30]  You see: a headless corpse
+[11/13/2021 19:30]  You see: a headless corpse
+[11/13/2021 19:30]  a headless: a headless
+[11/13/2021 19:30]  a headless: a headless
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  You see: a skeletal corpse
+[11/13/2021 19:30]  a skeleton: a skeleton
+[11/13/2021 19:30]  System: Opening door... [2]
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  You see: a headless corpse
+[11/13/2021 19:30]  You see: a skeletal corpse
+[11/13/2021 19:30]  a giant rat: a giant rat
+[11/13/2021 19:30]  a familiar: a familiar
+[11/13/2021 19:30]  an orc: an orc
+[11/13/2021 19:30]  You see: a skeletal corpse
+[11/13/2021 19:30]  You see: a skeletal corpse
+[11/13/2021 19:30]  a skeleton: a skeleton
+[11/13/2021 19:30]  You see: a giant rat corpse
+[11/13/2021 19:30]  an orc: an orc
+[11/13/2021 19:30]  You see: a familiar corpse
+[11/13/2021 19:30]  You see: a corpser corpse
+[11/13/2021 19:30]  You see: a ghoul corpse
+[11/13/2021 19:30]  an orc: an orc
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  an orc: an orc
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  an evil mage: an evil mage
+[11/13/2021 19:30]  You see: an orc corpse
+[11/13/2021 19:30]  You see: a headless corpse
+[11/13/2021 19:30]  a colossal frog: (tame)
+[11/13/2021 19:30]  a colossal frog: a colossal frog
+[11/13/2021 19:30]  The Blessed: The Blessed
+[11/13/2021 19:30]  You see: a corpser corpse
+[11/13/2021 19:30]  a corpser: a corpser
+[11/13/2021 19:30]  an evil mage: an evil mage
+[11/13/2021 19:30]  You see: a necromancer corpse
+[11/13/2021 19:30]  System: Opening door...
+[11/13/2021 19:30]  Nof: Nof
+[11/13/2021 19:30]  You see: a necromancer corpse
+[11/13/2021 19:30]  Razor: Attack: an imp
+[11/13/2021 19:30]  Stink Fist: -7
+[11/13/2021 19:30]  System: Who will you use the bandages on?
+[11/13/2021 19:30]  Razor: Healing Started
+[11/13/2021 19:30]  System: You begin applying the bandages.
+[11/13/2021 19:30]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 56.0.
+[11/13/2021 19:30]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.5.
+[11/13/2021 19:30]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:30]  an imp: -129
+[11/13/2021 19:30]  Razor: [MagicResist] -0.1 56.0 (-2.5)
+[11/13/2021 19:30]  Razor: [Chivalry] +0.1 67.5 (+2.0)
+[11/13/2021 19:30]  You see: a necromancer corpse
+[11/13/2021 19:30]  You see: a ghoul corpse
+[11/13/2021 19:30]  Razor: Bandage: 1s
+[11/13/2021 19:30]  Razor: Bandage: 2s
+[11/13/2021 19:30]  an imp: -62
+[11/13/2021 19:30]  Stink Fist: -4
+[11/13/2021 19:30]  System: Your fingers slip!
+[11/13/2021 19:30]  Razor: Bandage: 3s
+[11/13/2021 19:30]  an imp: -43
+[11/13/2021 19:30]  Razor: Bandage: 4s
+[11/13/2021 19:30]  System: Your dexterity has changed by -20.  It is now 100
+[11/13/2021 19:30]  Razor: [-Agility (s)]
+[11/13/2021 19:30]  Razor: Dex: -20 - 100
+[11/13/2021 19:30]  Razor: Bandage: 5s
+[11/13/2021 19:30]  an imp: -54
+[11/13/2021 19:30]  Stink Fist: -4
+[11/13/2021 19:30]  Razor: Bandage: 6s
+[11/13/2021 19:30]  System: Your fingers slip!
+[11/13/2021 19:30]  Razor: Bandage: 7s
+[11/13/2021 19:30]  Razor: Bandage: 8s
+[11/13/2021 19:30]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:30]  System: You have gained a little fame.
+[11/13/2021 19:30]  System: You have gained a little karma.
+[11/13/2021 19:30]  System: -24
+[11/13/2021 19:30]  You see: an imp corpse
+[11/13/2021 19:30]  Razor: Bandage: 9s
+[11/13/2021 19:30]  Razor: Bandage: 10s
+[11/13/2021 19:30]  System: You finish applying the bandages.
+[11/13/2021 19:30]  Stink Fist: +13
+[11/13/2021 19:30]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:30]  System: Owl has completed the achievement: Daemonic Slayer (Advanced).
+[11/13/2021 19:30]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:30]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.9.
+[11/13/2021 19:30]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.8.
+[11/13/2021 19:30]  System: You carve materials from the corpse.
+[11/13/2021 19:30]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:30]  Razor: [MagicResist] -0.1 55.9 (-2.6)
+[11/13/2021 19:30]  Razor: [Forensics] +0.1 58.8 (+0.6)
+[11/13/2021 19:30]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:30]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:30]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:30]  You see: a ratman's corpse
+[11/13/2021 19:30]  System: Opening door...
+[11/13/2021 19:30]  a ratman: a ratman
+[11/13/2021 19:30]  a ratman: a ratman
+[11/13/2021 19:30]  a giant rat: a giant rat
+[11/13/2021 19:30]  Razor: Attack: a familiar
+[11/13/2021 19:30]  a familiar: -62
+[11/13/2021 19:30]  System: You parry the spell.
+[11/13/2021 19:30]  Stink Fist: -1
+[11/13/2021 19:30]  System: Who will you use the bandages on?
+[11/13/2021 19:30]  Razor: Healing Started
+[11/13/2021 19:30]  System: You begin applying the bandages.
+[11/13/2021 19:30]  Razor: Bandage: 1s
+[11/13/2021 19:30]  a familiar: -64
+[11/13/2021 19:30]  Razor: Bandage: 2s
+[11/13/2021 19:30]  Razor: Bandage: 3s
+[11/13/2021 19:30]  System: You absorb their spell (13.4% current damage bonus).
+[11/13/2021 19:30]  Razor: Bandage: 4s
+[11/13/2021 19:30]  Stink Fist: -1
+[11/13/2021 19:30]  System: Your fingers slip!
+[11/13/2021 19:30]  a familiar: -57
+[11/13/2021 19:30]  Razor: Bandage: 5s
+[11/13/2021 19:30]  Razor: Bandage: 6s
+[11/13/2021 19:31]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:31]  System: You have gained a little fame.
+[11/13/2021 19:31]  System: You have gained a little karma.
+[11/13/2021 19:31]  System: -67
+[11/13/2021 19:31]  You see: a familiar corpse
+[11/13/2021 19:31]  Razor: Bandage: 7s
+[11/13/2021 19:31]  Razor: Bandage: 8s
+[11/13/2021 19:31]  [Guild][Aliester Crowley]: anyone have a air elemental scroll they want to sell?
+[11/13/2021 19:31]  Razor: Bandage: 9s
+[11/13/2021 19:31]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:31]  System: You heal what little damage you had.
+[11/13/2021 19:31]  Razor: Attack: a giant rat
+[11/13/2021 19:31]  Stink Fist: -1
+[11/13/2021 19:31]  System: Who will you use the bandages on?
+[11/13/2021 19:31]  Razor: Healing Started
+[11/13/2021 19:31]  System: You begin applying the bandages.
+[11/13/2021 19:31]  Razor: Attack: a giant rat
+[11/13/2021 19:31]  Razor: Bandage: 1s
+[11/13/2021 19:31]  Razor: Attack: a giant rat
+[11/13/2021 19:31]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.8.
+[11/13/2021 19:31]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.6.
+[11/13/2021 19:31]  a giant rat: -64
+[11/13/2021 19:31]  Razor: [MagicResist] -0.1 55.8 (-2.7)
+[11/13/2021 19:31]  Razor: [Chivalry] +0.1 67.6 (+2.1)
+[11/13/2021 19:31]  Razor: Bandage: 2s
+[11/13/2021 19:31]  Razor: Bandage: 3s
+[11/13/2021 19:31]  Razor: Attack: a giant rat
+[11/13/2021 19:31]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:31]  System: You have gained a little fame.
+[11/13/2021 19:31]  System: You have gained a little karma.
+[11/13/2021 19:31]  System: -61
+[11/13/2021 19:31]  You see: a giant rat corpse
+[11/13/2021 19:31]  Razor: Bandage: 4s
+[11/13/2021 19:31]  Razor: Bandage: 5s
+[11/13/2021 19:31]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:31]  System: You carve materials from the corpse.
+[11/13/2021 19:31]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:31]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.7.
+[11/13/2021 19:31]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 58.9.
+[11/13/2021 19:31]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:31]  Razor: [MagicResist] -0.1 55.7 (-2.8)
+[11/13/2021 19:31]  Razor: [Forensics] +0.1 58.9 (+0.7)
+[11/13/2021 19:31]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:31]  Razor: Bandage: 6s
+[11/13/2021 19:31]  Razor: Bandage: 7s
+[11/13/2021 19:31]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:31]  Razor: Bandage: 8s
+[11/13/2021 19:31]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:31]  Razor: Bandage: 9s
+[11/13/2021 19:31]  System: You carve materials from the corpse.
+[11/13/2021 19:31]  Razor: Bandage: 10s
+[11/13/2021 19:31]  System: You heal what little damage you had.
+[11/13/2021 19:31]  System: Your dexterity has changed by 20.  It is now 120
+[11/13/2021 19:31]  Razor: [+Agility (216s)]
+[11/13/2021 19:31]  Razor: Dex: +20 - 120
+[11/13/2021 19:31]  Razor: [-Agility (s)]
+[11/13/2021 19:31]  Razor: [+Agility (216s)]
+[11/13/2021 19:31]  System: Finished 3 queued actions in 1.2 seconds.
+[11/13/2021 19:31]  You see: a monitor hatchling corpse
+[11/13/2021 19:31]  You see: a necromancer corpse
+[11/13/2021 19:31]  You see: a necromancer corpse
+[11/13/2021 19:31]  a monitor hatchling: a monitor hatchling
+[11/13/2021 19:31]  a giant frog: a giant frog
+[11/13/2021 19:31]  System: Opening door...
+[11/13/2021 19:31]  You see: a skeletal mage corpse
+[11/13/2021 19:31]  You see: a skeletal mage corpse
+[11/13/2021 19:31]  Nof: Nof
+[11/13/2021 19:31]  You see: a ghoul corpse
+[11/13/2021 19:31]  You see: a monitor hatchling corpse
+[11/13/2021 19:31]  You see: a monitor hatchling corpse
+[11/13/2021 19:31]  a giant frog: a giant frog
+[11/13/2021 19:31]  You see: a necromancer corpse
+[11/13/2021 19:31]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:31]  You see: a ghoul corpse
+[11/13/2021 19:31]  You see: a necromancer corpse
+[11/13/2021 19:31]  System: Opening door... [4]
+[11/13/2021 19:31]  Razor: Attack: an evil mage
+[11/13/2021 19:31]  an evil mage: -49
+[11/13/2021 19:31]  an evil mage: -49
+[11/13/2021 19:31]  Stink Fist: -23
+[11/13/2021 19:31]  System: Who will you use the bandages on?
+[11/13/2021 19:31]  Razor: Healing Started
+[11/13/2021 19:31]  System: You begin applying the bandages.
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  Razor: Bandage: 1s
+[11/13/2021 19:31]  Razor: Bandage: 2s
+[11/13/2021 19:31]  Stink Fist: -18
+[11/13/2021 19:31]  System: Your fingers slip!
+[11/13/2021 19:31]  an evil mage: -37
+[11/13/2021 19:31]  Razor: Bandage: 3s
+[11/13/2021 19:31]  Razor: Bandage: 4s
+[11/13/2021 19:31]  Razor: Bandage: 5s
+[11/13/2021 19:31]  Razor: Bandage: 6s
+[11/13/2021 19:31]  an evil mage: -58
+[11/13/2021 19:31]  Razor: Bandage: 7s
+[11/13/2021 19:31]  an evil mage: -66
+[11/13/2021 19:31]  Razor: Bandage: 8s
+[11/13/2021 19:31]  System: You parry the spell.
+[11/13/2021 19:31]  Stink Fist: -5
+[11/13/2021 19:31]  Stink Fist: -8
+[11/13/2021 19:31]  System: Your fingers slip!
+[11/13/2021 19:31]  Razor: Bandage: 9s
+[11/13/2021 19:31]  an evil mage: -56
+[11/13/2021 19:31]  Stink Fist: +24
+[11/13/2021 19:31]  System: some damage has been healed : 24
+[11/13/2021 19:31]  Razor: Bandage: 10s
+[11/13/2021 19:31]  System: You finish applying the bandages.
+[11/13/2021 19:31]  Stink Fist: +28
+[11/13/2021 19:31]  System: Finished 3 queued actions in 1.2 seconds.
+[11/13/2021 19:31]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.6.
+[11/13/2021 19:31]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.7.
+[11/13/2021 19:31]  System: You have gained a little fame.
+[11/13/2021 19:31]  System: You have gained a little karma.
+[11/13/2021 19:31]  System: -32
+[11/13/2021 19:31]  Razor: [MagicResist] -0.1 55.6 (-2.9)
+[11/13/2021 19:31]  Razor: [Chivalry] +0.1 67.7 (+2.2)
+[11/13/2021 19:31]  You see: an evil mage corpse
+[11/13/2021 19:31]  an orc: an orc
+[11/13/2021 19:31]  a skeletal mage: a skeletal mage
+[11/13/2021 19:31]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:31]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:31]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.5.
+[11/13/2021 19:31]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.0.
+[11/13/2021 19:31]  System: You carve materials from the corpse.
+[11/13/2021 19:31]  System: You will receive +14.7% damage to creatures, +5.9% damage to players, and +5.8 to barding skills (expires in 3h).
+[11/13/2021 19:31]  Razor: [MagicResist] -0.1 55.5 (-3.0)
+[11/13/2021 19:31]  Razor: [Forensics] +0.1 59.0 (+0.8)
+[11/13/2021 19:31]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:31]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:31]  You see: an orc corpse
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  a giant frog: a giant frog
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  You see: a ratman's corpse
+[11/13/2021 19:31]  a colossal frog: *released*
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  System: Opening door...
+[11/13/2021 19:31]  an orc: an orc
+[11/13/2021 19:31]  a giant frog: a giant frog
+[11/13/2021 19:31]  a giant frog: a giant frog
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  You see: an orc corpse
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  a colossal frog: a colossal frog
+[11/13/2021 19:31]  You see: an orc corpse
+[11/13/2021 19:31]  You see: an orc corpse
+[11/13/2021 19:31]  a giant frog: a giant frog
+[11/13/2021 19:31]  an orc: an orc
+[11/13/2021 19:31]  System: Opening door...
+[11/13/2021 19:31]  a ratman: a ratman
+[11/13/2021 19:31]  a ratman: a ratman
+[11/13/2021 19:31]  a giant rat: a giant rat
+[11/13/2021 19:31]  an orc: an orc
+[11/13/2021 19:31]  You see: a corpser corpse
+[11/13/2021 19:31]  System: Opening door... [2]
+[11/13/2021 19:31]  Razor: Attack: an orc
+[11/13/2021 19:31]  You see: a corpser corpse
+[11/13/2021 19:31]  You see: a corpser corpse
+[11/13/2021 19:31]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.4.
+[11/13/2021 19:31]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.8.
+[11/13/2021 19:31]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:31]  an orc: Ogh ewkguk.
+[11/13/2021 19:31]  an orc: Oof! That hurt!
+[11/13/2021 19:31]  an orc: -109
+[11/13/2021 19:31]  Razor: [MagicResist] -0.1 55.4 (-3.1)
+[11/13/2021 19:31]  Razor: [Chivalry] +0.1 67.8 (+2.3)
+[11/13/2021 19:32]  You see: an orc corpse
+[11/13/2021 19:32]  a headless: a headless
+[11/13/2021 19:32]  You see: an orc corpse
+[11/13/2021 19:32]  an orc: -58
+[11/13/2021 19:32]  Stink Fist: -11
+[11/13/2021 19:32]  System: Who will you use the bandages on?
+[11/13/2021 19:32]  Razor: Healing Started
+[11/13/2021 19:32]  System: You begin applying the bandages.
+[11/13/2021 19:32]  a ratman: a ratman
+[11/13/2021 19:32]  Razor: Bandage: 1s
+[11/13/2021 19:32]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.3.
+[11/13/2021 19:32]  System: Your skill in Chivalry has increased by 0.1.  It is now 67.9.
+[11/13/2021 19:32]  an orc: -70
+[11/13/2021 19:32]  Razor: [MagicResist] -0.1 55.3 (-3.2)
+[11/13/2021 19:32]  Razor: [Chivalry] +0.1 67.9 (+2.4)
+[11/13/2021 19:32]  Razor: Bandage: 2s
+[11/13/2021 19:32]  Razor: Bandage: 3s
+[11/13/2021 19:32]  Razor: Bandage: 4s
+[11/13/2021 19:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:32]  System: You have gained a little fame.
+[11/13/2021 19:32]  System: You have gained a little karma.
+[11/13/2021 19:32]  System: -13
+[11/13/2021 19:32]  You see: an orc corpse
+[11/13/2021 19:32]  Razor: Bandage: 5s
+[11/13/2021 19:32]  Razor: Bandage: 6s
+[11/13/2021 19:32]  Razor: Bandage: 7s
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:32]  Razor: Bandage: 8s
+[11/13/2021 19:32]  Razor: Bandage: 9s
+[11/13/2021 19:32]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:32]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.2.
+[11/13/2021 19:32]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.1.
+[11/13/2021 19:32]  System: You carve materials from the corpse.
+[11/13/2021 19:32]  System: You will receive +14.8% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:32]  Razor: [MagicResist] -0.1 55.2 (-3.3)
+[11/13/2021 19:32]  Razor: [Forensics] +0.1 59.1 (+0.9)
+[11/13/2021 19:32]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:32]  Razor: Bandage: 10s
+[11/13/2021 19:32]  System: You finish applying the bandages.
+[11/13/2021 19:32]  Stink Fist: +9
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:32]  System: Opening door...
+[11/13/2021 19:32]  You see: a corpser corpse
+[11/13/2021 19:32]  You see: a corpser corpse
+[11/13/2021 19:32]  You see: a headless corpse
+[11/13/2021 19:32]  a colossal frog: (tame)
+[11/13/2021 19:32]  a colossal frog: a colossal frog
+[11/13/2021 19:32]  The Blessed: The Blessed
+[11/13/2021 19:32]  You see: a corpser corpse
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  an orc: -39
+[11/13/2021 19:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:32]  an orc: -90
+[11/13/2021 19:32]  System: Opening door...
+[11/13/2021 19:32]  an orc: -70
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  Stink Fist: -2
+[11/13/2021 19:32]  System: Who will you use the bandages on?
+[11/13/2021 19:32]  Razor: Healing Started
+[11/13/2021 19:32]  System: You begin applying the bandages.
+[11/13/2021 19:32]  Stink Fist: -1
+[11/13/2021 19:32]  System: Your fingers slip!
+[11/13/2021 19:32]  System: You have gained a little fame.
+[11/13/2021 19:32]  System: You have gained a little karma.
+[11/13/2021 19:32]  System: -51
+[11/13/2021 19:32]  You see: an orc corpse
+[11/13/2021 19:32]  Razor: Bandage: 1s
+[11/13/2021 19:32]  Razor: Bandage: 2s
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:32]  a colossal frog: a colossal frog
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  an orc: -59
+[11/13/2021 19:32]  Razor: Bandage: 3s
+[11/13/2021 19:32]  Razor: Bandage: 4s
+[11/13/2021 19:32]  Razor: Bandage: 5s
+[11/13/2021 19:32]  Stink Fist: -2
+[11/13/2021 19:32]  System: Your fingers slip!
+[11/13/2021 19:32]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:32]  System: You carve materials from the corpse.
+[11/13/2021 19:32]  System: You will receive +14.8% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:32]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:32]  an orc: -116
+[11/13/2021 19:32]  Razor: Bandage: 6s
+[11/13/2021 19:32]  Razor: Bandage: 7s
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:32]  an orc: -66
+[11/13/2021 19:32]  Razor: Bandage: 8s
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  Razor: Bandage: 9s
+[11/13/2021 19:32]  System: You finish applying the bandages.
+[11/13/2021 19:32]  Stink Fist: +3
+[11/13/2021 19:32]  Razor: Bandage: 10s
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  System: You have gained a little fame.
+[11/13/2021 19:32]  System: You have gained a little karma.
+[11/13/2021 19:32]  System: -9
+[11/13/2021 19:32]  You see: an orc corpse
+[11/13/2021 19:32]  a harpy: a harpy
+[11/13/2021 19:32]  Stink Fist: -2
+[11/13/2021 19:32]  System: Who will you use the bandages on?
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:32]  Razor: Healing Started
+[11/13/2021 19:32]  System: You must wait to perform another action.
+[11/13/2021 19:32]  System: You begin applying the bandages.
+[11/13/2021 19:32]  System: Knoz has completed the achievement: Tinker (Advanced).
+[11/13/2021 19:32]  Razor: Bandage: 1s
+[11/13/2021 19:32]  Razor: Bandage: 2s
+[11/13/2021 19:32]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:32]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.1.
+[11/13/2021 19:32]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.2.
+[11/13/2021 19:32]  System: You carve materials from the corpse.
+[11/13/2021 19:32]  Razor: [MagicResist] -0.1 55.1 (-3.4)
+[11/13/2021 19:32]  Razor: [Forensics] +0.1 59.2 (+1.0)
+[11/13/2021 19:32]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:32]  Razor: Bandage: 3s
+[11/13/2021 19:32]  Stink Fist: -8
+[11/13/2021 19:32]  System: Your fingers slip!
+[11/13/2021 19:32]  Razor: Bandage: 4s
+[11/13/2021 19:32]  System: You will receive +14.8% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:32]  a giant frog: a giant frog
+[11/13/2021 19:32]  Razor: Bandage: 5s
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:32]  Razor: Bandage: 6s
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  an orc: -59
+[11/13/2021 19:32]  Stink Fist: -2
+[11/13/2021 19:32]  System: Your fingers slip!
+[11/13/2021 19:32]  Razor: Bandage: 7s
+[11/13/2021 19:32]  You see: a headless corpse
+[11/13/2021 19:32]  Razor: Bandage: 8s
+[11/13/2021 19:32]  Razor: Bandage: 9s
+[11/13/2021 19:32]  an orc: Duhrol jakcro.
+[11/13/2021 19:32]  an orc: Oof! That hurt!
+[11/13/2021 19:32]  an orc: -42
+[11/13/2021 19:32]  Stink Fist: -7
+[11/13/2021 19:32]  Razor: Bandage: 10s
+[11/13/2021 19:32]  System: You finish applying the bandages.
+[11/13/2021 19:32]  Stink Fist: +17
+[11/13/2021 19:32]  System: Your fingers slip!
+[11/13/2021 19:32]  Razor: Attack: an orc
+[11/13/2021 19:32]  an orc: -42
+[11/13/2021 19:32]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 55.0.
+[11/13/2021 19:32]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.0.
+[11/13/2021 19:32]  Razor: [MagicResist] -0.1 55.0 (-3.5)
+[11/13/2021 19:32]  Razor: [Chivalry] +0.1 68.0 (+2.5)
+[11/13/2021 19:32]  Stink Fist: -8
+[11/13/2021 19:32]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:32]  Razor: Healing Started
+[11/13/2021 19:32]  System: You must wait to perform another action.
+[11/13/2021 19:32]  System: You dont see anything nearby worth carving or investigating.
+[11/13/2021 19:32]  an orc: -58
+[11/13/2021 19:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:32]  System: You have gained a little fame.
+[11/13/2021 19:32]  System: You have gained a little karma.
+[11/13/2021 19:32]  System: -49
+[11/13/2021 19:32]  You see: an orc corpse
+[11/13/2021 19:32]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:32]  Razor: Target: Stink Fist
+[11/13/2021 19:32]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.9.
+[11/13/2021 19:32]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.3.
+[11/13/2021 19:32]  System: You carve materials from the corpse.
+[11/13/2021 19:32]  System: You will receive +14.8% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:32]  Razor: [MagicResist] -0.1 54.9 (-3.6)
+[11/13/2021 19:32]  Razor: [Forensics] +0.1 59.3 (+1.1)
+[11/13/2021 19:32]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:32]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  You see: a mongbat corpse
+[11/13/2021 19:33]  System: Opening door...
+[11/13/2021 19:33]  You see: a mongbat corpse
+[11/13/2021 19:33]  You see: a mongbat corpse
+[11/13/2021 19:33]  System: You may not loot this corpse.
+[11/13/2021 19:33]  You see: a giant rat corpse
+[11/13/2021 19:33]  You see: a mongbat corpse
+[11/13/2021 19:33]  a headless: a headless
+[11/13/2021 19:33]  You see: a mongbat corpse
+[11/13/2021 19:33]  a giant rat: a giant rat
+[11/13/2021 19:33]  a giant frog: a giant frog
+[11/13/2021 19:33]  a colossal frog: a colossal frog
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  a colossal frog: a colossal frog
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  a giant frog: a giant frog
+[11/13/2021 19:33]  a mongbat: a mongbat
+[11/13/2021 19:33]  System: Who will you use the bandages on?
+[11/13/2021 19:33]  Razor: Healing Started
+[11/13/2021 19:33]  System: You begin applying the bandages.
+[11/13/2021 19:33]  System: You must wait to perform another action.
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  a headless: a headless
+[11/13/2021 19:33]  You see: a mongbat corpse
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  a skeleton: a skeleton
+[11/13/2021 19:33]  Razor: Bandage: 1s
+[11/13/2021 19:33]  System: Opening door...
+[11/13/2021 19:33]  Snake Griffin: Snake Griffin
+[11/13/2021 19:33]  Razor: Bandage: 2s
+[11/13/2021 19:33]  Razor: Attack: a headless
+[11/13/2021 19:33]  Razor: Bandage: 3s
+[11/13/2021 19:33]  Razor: Bandage: 4s
+[11/13/2021 19:33]  Stink Fist: -1
+[11/13/2021 19:33]  a headless: -56
+[11/13/2021 19:33]  Razor: Bandage: 5s
+[11/13/2021 19:33]  Razor: Attack: a headless
+[11/13/2021 19:33]  Razor: Bandage: 6s
+[11/13/2021 19:33]  Razor: Attack: a headless
+[11/13/2021 19:33]  a headless: -50
+[11/13/2021 19:33]  a mongbat: a mongbat
+[11/13/2021 19:33]  Razor: Bandage: 7s
+[11/13/2021 19:33]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.8.
+[11/13/2021 19:33]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.1.
+[11/13/2021 19:33]  System: You have gained a little fame.
+[11/13/2021 19:33]  System: You have gained a little karma.
+[11/13/2021 19:33]  System: -19
+[11/13/2021 19:33]  Razor: [MagicResist] -0.1 54.8 (-3.7)
+[11/13/2021 19:33]  Razor: [Chivalry] +0.1 68.1 (+2.6)
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  Razor: Bandage: 8s
+[11/13/2021 19:33]  Razor: Bandage: 9s
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  System: You finish applying the bandages.
+[11/13/2021 19:33]  Stink Fist: +4
+[11/13/2021 19:33]  Razor: Bandage: 10s
+[11/13/2021 19:33]  Razor: Attack: a headless
+[11/13/2021 19:33]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:33]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.7.
+[11/13/2021 19:33]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.4.
+[11/13/2021 19:33]  System: You carve materials from the corpse.
+[11/13/2021 19:33]  System: You will receive +14.8% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:33]  Razor: [MagicResist] -0.1 54.7 (-3.8)
+[11/13/2021 19:33]  Razor: [Forensics] +0.1 59.4 (+1.2)
+[11/13/2021 19:33]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:33]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:33]  a mongbat: a mongbat
+[11/13/2021 19:33]  a mongbat: a mongbat
+[11/13/2021 19:33]  a giant frog: a giant frog
+[11/13/2021 19:33]  a mongbat: a mongbat
+[11/13/2021 19:33]  Stink Fist: -6
+[11/13/2021 19:33]  System: Who will you use the bandages on?
+[11/13/2021 19:33]  Razor: Healing Started
+[11/13/2021 19:33]  System: You begin applying the bandages.
+[11/13/2021 19:33]  System: You must wait to perform another action.
+[11/13/2021 19:33]  a headless: -57
+[11/13/2021 19:33]  Razor: Bandage: 1s
+[11/13/2021 19:33]  System: You may now use an agility potion.
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  Razor: Bandage: 2s
+[11/13/2021 19:33]  a headless: -48
+[11/13/2021 19:33]  Razor: Bandage: 3s
+[11/13/2021 19:33]  System: You have gained a little fame.
+[11/13/2021 19:33]  System: You have gained a little karma.
+[11/13/2021 19:33]  System: -20
+[11/13/2021 19:33]  Razor: Bandage: 4s
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  Razor: Bandage: 5s
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  Razor: Bandage: 6s
+[11/13/2021 19:33]  Razor: Bandage: 7s
+[11/13/2021 19:33]  Razor: Bandage: 8s
+[11/13/2021 19:33]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:33]  Razor: Bandage: 9s
+[11/13/2021 19:33]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.6.
+[11/13/2021 19:33]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.5.
+[11/13/2021 19:33]  System: You carve materials from the corpse.
+[11/13/2021 19:33]  System: You will receive +14.9% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:33]  Razor: [MagicResist] -0.1 54.6 (-3.9)
+[11/13/2021 19:33]  Razor: [Forensics] +0.1 59.5 (+1.3)
+[11/13/2021 19:33]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:33]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:33]  Razor: Bandage: 10s
+[11/13/2021 19:33]  System: You finish applying the bandages.
+[11/13/2021 19:33]  Stink Fist: +4
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  a giant rat: a giant rat
+[11/13/2021 19:33]  a giant rat: a giant rat
+[11/13/2021 19:33]  You see: a ghoul corpse
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  a skeleton: a skeleton
+[11/13/2021 19:33]  You see: a skeletal archer corpse
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  a ghoul: a ghoul
+[11/13/2021 19:33]  a skeleton: a skeleton
+[11/13/2021 19:33]  System: That is too far away.
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  a skeleton: a skeleton
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  System: Opening door...
+[11/13/2021 19:33]  You see: a headless corpse
+[11/13/2021 19:33]  a headless: a headless
+[11/13/2021 19:33]  a colossal frog: a colossal frog
+[11/13/2021 19:33]  a skeletal archer: a skeletal archer
+[11/13/2021 19:33]  a skeleton: a skeleton
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  System: That is too far away. [3]
+[11/13/2021 19:33]  Nof: Nof
+[11/13/2021 19:33]  Stink Fist: -6
+[11/13/2021 19:33]  System: Who will you use the bandages on?
+[11/13/2021 19:33]  Razor: Healing Started
+[11/13/2021 19:33]  System: You begin applying the bandages.
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  a skeleton: -66
+[11/13/2021 19:33]  Stink Fist: -2
+[11/13/2021 19:33]  System: Your fingers slip!
+[11/13/2021 19:33]  Razor: Bandage: 1s
+[11/13/2021 19:33]  System: You have gained a little fame.
+[11/13/2021 19:33]  System: You have gained a little karma.
+[11/13/2021 19:33]  System: -59
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  Razor: Bandage: 2s
+[11/13/2021 19:33]  Stink Fist: -7
+[11/13/2021 19:33]  Razor: Bandage: 3s
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  System: You must wait to perform another action.
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  a skeleton: -64
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  System: Your fingers slip!
+[11/13/2021 19:33]  Razor: Bandage: 4s
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  Razor: Bandage: 5s
+[11/13/2021 19:33]  a skeleton: -41
+[11/13/2021 19:33]  Razor: Bandage: 6s
+[11/13/2021 19:33]  System: You have gained a little fame.
+[11/13/2021 19:33]  System: You have gained a little karma.
+[11/13/2021 19:33]  System: -20
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  Razor: Bandage: 7s
+[11/13/2021 19:33]  Razor: Bandage: 8s
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  Razor: Bandage: 9s
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  Stink Fist: -6
+[11/13/2021 19:33]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:33]  a skeleton: -84
+[11/13/2021 19:33]  Razor: Bandage: 10s
+[11/13/2021 19:33]  System: You finish applying the bandages.
+[11/13/2021 19:33]  Stink Fist: +19
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  System: You have gained a little fame.
+[11/13/2021 19:33]  System: You have gained a little karma.
+[11/13/2021 19:33]  System: -41
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  Stink Fist: -4
+[11/13/2021 19:33]  System: You must wait to perform another action.
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  System: Who will you use the bandages on?
+[11/13/2021 19:33]  Razor: Healing Started
+[11/13/2021 19:33]  System: You begin applying the bandages.
+[11/13/2021 19:33]  Razor: Bandage: 1s
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  Razor: Bandage: 2s
+[11/13/2021 19:33]  Stink Fist: -5
+[11/13/2021 19:33]  System: Your fingers slip!
+[11/13/2021 19:33]  a skeleton: -54
+[11/13/2021 19:33]  Razor: Bandage: 3s
+[11/13/2021 19:33]  Razor: Attack: a skeleton
+[11/13/2021 19:33]  Razor: Bandage: 4s
+[11/13/2021 19:33]  a skeleton: -47
+[11/13/2021 19:33]  Razor: Bandage: 5s
+[11/13/2021 19:33]  System: You have gained a little fame.
+[11/13/2021 19:33]  System: You have gained a little karma.
+[11/13/2021 19:33]  System: -24
+[11/13/2021 19:33]  Razor: Bandage: 6s
+[11/13/2021 19:33]  You see: a skeletal corpse
+[11/13/2021 19:33]  a giant frog: a giant frog
+[11/13/2021 19:33]  Razor: Bandage: 7s
+[11/13/2021 19:33]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:33]  Razor: Bandage: 8s
+[11/13/2021 19:33]  Razor: Bandage: 9s
+[11/13/2021 19:33]  Razor: Bandage: 10s
+[11/13/2021 19:33]  System: You finish applying the bandages.
+[11/13/2021 19:33]  Stink Fist: +7
+[11/13/2021 19:33]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:34]  System: You carve materials from the corpse.
+[11/13/2021 19:34]  System: You will receive +14.9% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:34]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:34]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:34]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:34]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:34]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:34]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:34]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:34]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:34]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:34]  System: You carve materials from the corpse. [3]
+[11/13/2021 19:34]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:34]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:34]  System: You will receive +14.9% damage to creatures, +5.9% damage to players, and +5.9 to barding skills (expires in 3h). [3]
+[11/13/2021 19:34]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:34]  System: You must wait another moment before you may pick up an item from here.
+[11/13/2021 19:34]  a skeleton: a skeleton
+[11/13/2021 19:34]  a skeletal mage: a skeletal mage
+[11/13/2021 19:34]  a necromancer: a necromancer
+[11/13/2021 19:34]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  System: You must wait another moment before you may pick up an item from here. [4]
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  a colossal frog: a colossal frog
+[11/13/2021 19:34]  a colossal frog: a colossal frog
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  You see: a ghoul corpse
+[11/13/2021 19:34]  You see: a skeletal archer corpse
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  a skeleton: -61
+[11/13/2021 19:34]  a skeleton: -59
+[11/13/2021 19:34]  a colossal frog: a colossal frog
+[11/13/2021 19:34]  You see: a mongbat corpse
+[11/13/2021 19:34]  You see: a mongbat corpse
+[11/13/2021 19:34]  System: You have gained a little fame.
+[11/13/2021 19:34]  System: You have gained a little karma.
+[11/13/2021 19:34]  System: -5
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  Stink Fist: -1
+[11/13/2021 19:34]  System: Who will you use the bandages on?
+[11/13/2021 19:34]  Razor: Healing Started
+[11/13/2021 19:34]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:34]  System: You begin applying the bandages.
+[11/13/2021 19:34]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.5.
+[11/13/2021 19:34]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.2.
+[11/13/2021 19:34]  a skeleton: -51
+[11/13/2021 19:34]  Razor: [MagicResist] -0.1 54.5 (-4.0)
+[11/13/2021 19:34]  Razor: [Chivalry] +0.1 68.2 (+2.7)
+[11/13/2021 19:34]  Razor: Bandage: 1s
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  a skeleton: -43
+[11/13/2021 19:34]  Razor: Bandage: 2s
+[11/13/2021 19:34]  Razor: Attack: a skeleton
+[11/13/2021 19:34]  Razor: Bandage: 3s
+[11/13/2021 19:34]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:34]  System: You have gained a little fame.
+[11/13/2021 19:34]  System: You have gained a little karma.
+[11/13/2021 19:34]  System: -31
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  Razor: Bandage: 4s
+[11/13/2021 19:34]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:34]  Razor: Bandage: 5s
+[11/13/2021 19:34]  Razor: Bandage: 6s
+[11/13/2021 19:34]  You see: a ghoul corpse
+[11/13/2021 19:34]  You see: a skeletal archer corpse
+[11/13/2021 19:34]  Nof: Nof
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  Razor: Bandage: 7s
+[11/13/2021 19:34]  Razor: Bandage: 8s
+[11/13/2021 19:34]  Razor: Bandage: 9s
+[11/13/2021 19:34]  You see: a headless corpse
+[11/13/2021 19:34]  a mongbat: a mongbat
+[11/13/2021 19:34]  You see: a headless corpse
+[11/13/2021 19:34]  a giant frog: a giant frog
+[11/13/2021 19:34]  You see: a headless corpse
+[11/13/2021 19:34]  a giant rat: a giant rat
+[11/13/2021 19:34]  Razor: Bandage: 10s
+[11/13/2021 19:34]  System: You heal what little damage you had.
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  System: Your dexterity has changed by -20.  It is now 100
+[11/13/2021 19:34]  Razor: [-Agility (s)]
+[11/13/2021 19:34]  Razor: Dex: -20 - 100
+[11/13/2021 19:34]  You see: a ghoul corpse
+[11/13/2021 19:34]  You see: a necromancer corpse
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  You see: a skeletal corpse
+[11/13/2021 19:34]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:34]  a ghoul: a ghoul
+[11/13/2021 19:34]  You see: a necromancer corpse
+[11/13/2021 19:34]  Stink Fist: -1
+[11/13/2021 19:34]  System: Who will you use the bandages on?
+[11/13/2021 19:34]  Razor: Healing Started
+[11/13/2021 19:34]  System: You begin applying the bandages.
+[11/13/2021 19:34]  You see: a necromancer corpse
+[11/13/2021 19:34]  Razor: Bandage: 1s
+[11/13/2021 19:34]  Razor: Attack: a necromancer
+[11/13/2021 19:34]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.4.
+[11/13/2021 19:34]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.3.
+[11/13/2021 19:34]  Razor: [MagicResist] -0.1 54.4 (-4.1)
+[11/13/2021 19:34]  Razor: [Chivalry] +0.1 68.3 (+2.8)
+[11/13/2021 19:34]  Razor: Bandage: 2s
+[11/13/2021 19:34]  Razor: Bandage: 3s
+[11/13/2021 19:34]  a necromancer: -44
+[11/13/2021 19:34]  Stink Fist: -2
+[11/13/2021 19:34]  Razor: Bandage: 4s
+[11/13/2021 19:34]  a necromancer: -59
+[11/13/2021 19:34]  Razor: Bandage: 5s
+[11/13/2021 19:35]  Razor: Bandage: 6s
+[11/13/2021 19:35]  a necromancer: -49
+[11/13/2021 19:35]  System: You parry the spell.
+[11/13/2021 19:35]  Razor: Bandage: 7s
+[11/13/2021 19:35]  Stink Fist: -1
+[11/13/2021 19:35]  System: Your fingers slip!
+[11/13/2021 19:35]  Razor: Bandage: 8s
+[11/13/2021 19:35]  Razor: Bandage: 9s
+[11/13/2021 19:35]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:35]  Razor: Bandage: 10s
+[11/13/2021 19:35]  System: You finish applying the bandages.
+[11/13/2021 19:35]  Stink Fist: +2
+[11/13/2021 19:35]  System: You dont see anything nearby worth carving or investigating.
+[11/13/2021 19:35]  System: You parry the spell.
+[11/13/2021 19:35]  Stink Fist: -1
+[11/13/2021 19:35]  System: Who will you use the bandages on?
+[11/13/2021 19:35]  Razor: Healing Started
+[11/13/2021 19:35]  System: You begin applying the bandages.
+[11/13/2021 19:35]  Razor: Attack: a necromancer
+[11/13/2021 19:35]  Razor: Bandage: 1s
+[11/13/2021 19:35]  Razor: Bandage: 2s
+[11/13/2021 19:35]  Stink Fist: -2
+[11/13/2021 19:35]  System: Your fingers slip!
+[11/13/2021 19:35]  Razor: Bandage: 3s
+[11/13/2021 19:35]  Razor: Bandage: 4s
+[11/13/2021 19:35]  You see: a necromancer corpse
+[11/13/2021 19:35]  a necromancer: -53
+[11/13/2021 19:35]  Razor: Bandage: 5s
+[11/13/2021 19:35]  Razor: Bandage: 6s
+[11/13/2021 19:35]  Stink Fist: -2
+[11/13/2021 19:35]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.3.
+[11/13/2021 19:35]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.4.
+[11/13/2021 19:35]  Razor: [MagicResist] -0.1 54.3 (-4.2)
+[11/13/2021 19:35]  Razor: [Chivalry] +0.1 68.4 (+2.9)
+[11/13/2021 19:35]  Razor: Bandage: 7s
+[11/13/2021 19:35]  You see: a necromancer corpse
+[11/13/2021 19:35]  Razor: Bandage: 8s
+[11/13/2021 19:35]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.2.
+[11/13/2021 19:35]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.5.
+[11/13/2021 19:35]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:35]  a necromancer: -92
+[11/13/2021 19:35]  Razor: [MagicResist] -0.1 54.2 (-4.3)
+[11/13/2021 19:35]  Razor: [Chivalry] +0.1 68.5 (+3.0)
+[11/13/2021 19:35]  Stink Fist: -2
+[11/13/2021 19:35]  Razor: Bandage: 9s
+[11/13/2021 19:35]  a necromancer: -112
+[11/13/2021 19:35]  Razor: Bandage: 10s
+[11/13/2021 19:35]  System: You finish applying the bandages.
+[11/13/2021 19:35]  Stink Fist: +5
+[11/13/2021 19:35]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.1.
+[11/13/2021 19:35]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.6.
+[11/13/2021 19:35]  System: You have gained a little fame.
+[11/13/2021 19:35]  System: You have gained a little karma.
+[11/13/2021 19:35]  System: -29
+[11/13/2021 19:35]  Razor: [MagicResist] -0.1 54.1 (-4.4)
+[11/13/2021 19:35]  Razor: [Chivalry] +0.1 68.6 (+3.1)
+[11/13/2021 19:35]  You see: a necromancer corpse
+[11/13/2021 19:35]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:35]  System: Ahelissa has completed the achievement: Savant (Basic).
+[11/13/2021 19:35]  System: You smash through the remainder of their armor, dealing grevious damage! [2]
+[11/13/2021 19:35]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:35]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 54.0.
+[11/13/2021 19:35]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.6.
+[11/13/2021 19:35]  System: You carve materials from the corpse.
+[11/13/2021 19:35]  System: You will receive +14.9% damage to creatures, +6.0% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:35]  Razor: [MagicResist] -0.1 54.0 (-4.5)
+[11/13/2021 19:35]  Razor: [Forensics] +0.1 59.6 (+1.4)
+[11/13/2021 19:35]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:35]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:35]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:35]  You see: a headless corpse
+[11/13/2021 19:35]  You see: a skeletal corpse
+[11/13/2021 19:35]  You see: a skeletal corpse
+[11/13/2021 19:35]  a headless: a headless
+[11/13/2021 19:35]  a giant frog: a giant frog
+[11/13/2021 19:35]  a mongbat: a mongbat
+[11/13/2021 19:35]  a giant rat: a giant rat
+[11/13/2021 19:35]  a giant rat: a giant rat
+[11/13/2021 19:35]  You see: a headless corpse
+[11/13/2021 19:35]  You see: a headless corpse
+[11/13/2021 19:35]  a giant frog: a giant frog
+[11/13/2021 19:35]  a giant frog: a giant frog
+[11/13/2021 19:35]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:35]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.9.
+[11/13/2021 19:35]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.7.
+[11/13/2021 19:35]  System: You carve materials from the corpse.
+[11/13/2021 19:35]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.8.
+[11/13/2021 19:35]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.8.
+[11/13/2021 19:35]  Razor: [MagicResist] -0.1 53.9 (-4.6)
+[11/13/2021 19:35]  Razor: [Forensics] +0.1 59.7 (+1.5)
+[11/13/2021 19:35]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:35]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:35]  Razor: [MagicResist] -0.1 53.8 (-4.7)
+[11/13/2021 19:35]  Razor: [Forensics] +0.1 59.8 (+1.6)
+[11/13/2021 19:35]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:35]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:35]  System: You will receive +14.9% damage to creatures, +6.0% damage to players, and +5.9 to barding skills (expires in 3h). [2]
+[11/13/2021 19:35]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:35]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:35]  System: You carve materials from the corpse.
+[11/13/2021 19:35]  System: That is too far away.
+[11/13/2021 19:35]  You see: a rotting corpse
+[11/13/2021 19:35]  a zombie: a zombie
+[11/13/2021 19:35]  System: You may not loot this corpse.
+[11/13/2021 19:35]  System: Opening door...
+[11/13/2021 19:35]  You see: a rotting corpse
+[11/13/2021 19:35]  You see: a rotting corpse
+[11/13/2021 19:35]  a zombie: a zombie
+[11/13/2021 19:35]  Razor: Attack: a headless
+[11/13/2021 19:35]  a headless: -49
+[11/13/2021 19:35]  System: Opening door...
+[11/13/2021 19:35]  System: You may not loot this corpse.
+[11/13/2021 19:35]  a headless: -55
+[11/13/2021 19:35]  You see: a rotting corpse
+[11/13/2021 19:35]  a zombie: a zombie
+[11/13/2021 19:35]  You see: a scorpion corpse
+[11/13/2021 19:35]  System: You have gained a little fame.
+[11/13/2021 19:35]  System: You have gained a little karma.
+[11/13/2021 19:35]  System: -21
+[11/13/2021 19:35]  You see: a headless corpse
+[11/13/2021 19:35]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:35]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:35]  System: You carve materials from the corpse.
+[11/13/2021 19:35]  System: You will receive +14.9% damage to creatures, +6.0% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:35]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:35]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:35]  a mongbat: a mongbat
+[11/13/2021 19:35]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:35]  [Guild][w.o.o.o.o.o.o.o.]: mark, i got most of your stuff
+[11/13/2021 19:35]  a zombie: a zombie
+[11/13/2021 19:35]  System: Opening door...
+[11/13/2021 19:35]  a scorpion: a scorpion
+[11/13/2021 19:36]  a zombie: a zombie
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  [Guild][w.o.o.o.o.o.o.o.]: meet you at your place
+[11/13/2021 19:36]  a zombie: -58
+[11/13/2021 19:36]  a zombie: -57
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  a zombie: -40
+[11/13/2021 19:36]  Stink Fist: -5
+[11/13/2021 19:36]  System: Who will you use the bandages on?
+[11/13/2021 19:36]  Razor: Healing Started
+[11/13/2021 19:36]  System: You begin applying the bandages.
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.7.
+[11/13/2021 19:36]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.7.
+[11/13/2021 19:36]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:36]  a zombie: -90
+[11/13/2021 19:36]  Razor: [MagicResist] -0.1 53.7 (-4.8)
+[11/13/2021 19:36]  Razor: [Chivalry] +0.1 68.7 (+3.2)
+[11/13/2021 19:36]  [Guild][Beldiz]: anyone with a necro scroll?
+[11/13/2021 19:36]  Stink Fist: -1
+[11/13/2021 19:36]  System: Your fingers slip!
+[11/13/2021 19:36]  Razor: Bandage: 1s
+[11/13/2021 19:36]  a zombie: -58
+[11/13/2021 19:36]  Stink Fist: -4
+[11/13/2021 19:36]  Razor: Bandage: 2s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Razor: Bandage: 3s
+[11/13/2021 19:36]  System: You have gained a little fame.
+[11/13/2021 19:36]  System: You have gained a little karma.
+[11/13/2021 19:36]  System: -9
+[11/13/2021 19:36]  You see: a rotting corpse
+[11/13/2021 19:36]  Razor: Bandage: 4s
+[11/13/2021 19:36]  System: Your fingers slip!
+[11/13/2021 19:36]  Razor: Bandage: 5s
+[11/13/2021 19:36]  Luis II: Affluent
+[11/13/2021 19:36]  Luis II: [Knight, Sir.]
+[11/13/2021 19:36]  Luis II: Luis II
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  Razor: Bandage: 6s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  a zombie: -52
+[11/13/2021 19:36]  Razor: Bandage: 7s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:36]  a zombie: -102
+[11/13/2021 19:36]  Razor: Bandage: 8s
+[11/13/2021 19:36]  Razor: Bandage: 9s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  a zombie: -68
+[11/13/2021 19:36]  System: You finish applying the bandages.
+[11/13/2021 19:36]  Stink Fist: +8
+[11/13/2021 19:36]  Stink Fist: -5
+[11/13/2021 19:36]  System: Who will you use the bandages on?
+[11/13/2021 19:36]  Razor: Healing Started
+[11/13/2021 19:36]  System: You begin applying the bandages.
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.6.
+[11/13/2021 19:36]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.8.
+[11/13/2021 19:36]  a zombie: -51
+[11/13/2021 19:36]  Razor: [MagicResist] -0.1 53.6 (-4.9)
+[11/13/2021 19:36]  Razor: [Chivalry] +0.1 68.8 (+3.3)
+[11/13/2021 19:36]  Stink Fist: -4
+[11/13/2021 19:36]  Razor: Bandage: 1s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Razor: Bandage: 2s
+[11/13/2021 19:36]  a mongbat: a mongbat
+[11/13/2021 19:36]  System: You have gained a little fame.
+[11/13/2021 19:36]  System: You have gained a little karma.
+[11/13/2021 19:36]  System: -39
+[11/13/2021 19:36]  You see: a rotting corpse
+[11/13/2021 19:36]  Razor: Bandage: 3s
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  Razor: Bandage: 4s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:36]  a zombie: -72
+[11/13/2021 19:36]  Razor: Bandage: 5s
+[11/13/2021 19:36]  Stink Fist: -6
+[11/13/2021 19:36]  a zombie: -41
+[11/13/2021 19:36]  Razor: Bandage: 6s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Stink Fist: -6
+[11/13/2021 19:36]  Razor: Bandage: 7s
+[11/13/2021 19:36]  a zombie: -72
+[11/13/2021 19:36]  Razor: Bandage: 8s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Razor: Bandage: 9s
+[11/13/2021 19:36]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.5.
+[11/13/2021 19:36]  System: Your skill in Chivalry has increased by 0.1.  It is now 68.9.
+[11/13/2021 19:36]  a zombie: -58
+[11/13/2021 19:36]  Razor: [MagicResist] -0.1 53.5 (-5.0)
+[11/13/2021 19:36]  Razor: [Chivalry] +0.1 68.9 (+3.4)
+[11/13/2021 19:36]  a mongbat: a mongbat
+[11/13/2021 19:36]  System: You finish applying the bandages.
+[11/13/2021 19:36]  Stink Fist: +19
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  a zombie: -58
+[11/13/2021 19:36]  Stink Fist: -4
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.4.
+[11/13/2021 19:36]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.0.
+[11/13/2021 19:36]  System: You have gained a little fame.
+[11/13/2021 19:36]  System: You have gained a little karma.
+[11/13/2021 19:36]  System: -11
+[11/13/2021 19:36]  Razor: [MagicResist] -0.1 53.4 (-5.1)
+[11/13/2021 19:36]  Razor: [Chivalry] +0.1 69.0 (+3.5)
+[11/13/2021 19:36]  System: Who will you use the bandages on?
+[11/13/2021 19:36]  Razor: Healing Started
+[11/13/2021 19:36]  You see: a rotting corpse
+[11/13/2021 19:36]  System: You begin applying the bandages.
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  Razor: Bandage: 1s
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  a zombie: -53
+[11/13/2021 19:36]  Razor: Bandage: 2s
+[11/13/2021 19:36]  Razor: Bandage: 3s
+[11/13/2021 19:36]  a zombie: -45
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Razor: Bandage: 4s
+[11/13/2021 19:36]  System: Hrofalix has completed the achievement: Scientist (Basic).
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Razor: Bandage: 5s
+[11/13/2021 19:36]  Razor: Bandage: 6s
+[11/13/2021 19:36]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:36]  a zombie: -90
+[11/13/2021 19:36]  Razor: Bandage: 7s
+[11/13/2021 19:36]  Razor: Bandage: 8s
+[11/13/2021 19:36]  a zombie: -123
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  Razor: Bandage: 9s
+[11/13/2021 19:36]  System: You have gained a little fame.
+[11/13/2021 19:36]  System: You have gained a little karma.
+[11/13/2021 19:36]  System: -1
+[11/13/2021 19:36]  You see: a rotting corpse
+[11/13/2021 19:36]  Razor: Bandage: 10s
+[11/13/2021 19:36]  System: You finish applying the bandages.
+[11/13/2021 19:36]  Stink Fist: +2
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  System: You smash through the remainder of their armor, dealing grevious damage! [2]
+[11/13/2021 19:36]  Razor: Attack: a zombie
+[11/13/2021 19:36]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:36]  System: You carve materials from the corpse.
+[11/13/2021 19:36]  System: You will receive +14.9% damage to creatures, +6.0% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:36]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.3.
+[11/13/2021 19:36]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 59.9.
+[11/13/2021 19:36]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +5.9 to barding skills (expires in 3h).
+[11/13/2021 19:36]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:36]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:36]  Razor: [MagicResist] -0.1 53.3 (-5.2)
+[11/13/2021 19:36]  Razor: [Forensics] +0.1 59.9 (+1.7)
+[11/13/2021 19:36]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:36]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:36]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:36]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:36]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:36]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  System: You carve materials from the corpse. [3]
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  Stink Fist: -8
+[11/13/2021 19:36]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:36]  a zombie: -120
+[11/13/2021 19:36]  System: Who will you use the bandages on?
+[11/13/2021 19:36]  Razor: Healing Started
+[11/13/2021 19:36]  System: You begin applying the bandages.
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  System: You must wait to perform another action.
+[11/13/2021 19:36]  Razor: Bandage: 1s
+[11/13/2021 19:36]  a zombie: -65
+[11/13/2021 19:36]  Razor: Bandage: 2s
+[11/13/2021 19:36]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:36]  Razor: Bandage: 3s
+[11/13/2021 19:36]  a zombie: -51
+[11/13/2021 19:36]  Stink Fist: -7
+[11/13/2021 19:36]  Razor: Bandage: 4s
+[11/13/2021 19:37]  System: You have gained a little fame.
+[11/13/2021 19:37]  System: You have gained a little karma.
+[11/13/2021 19:37]  System: -76
+[11/13/2021 19:37]  You see: a rotting corpse
+[11/13/2021 19:37]  Razor: Bandage: 5s
+[11/13/2021 19:37]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +5.9 to barding skills (expires in 3h). [2]
+[11/13/2021 19:37]  Razor: Bandage: 6s
+[11/13/2021 19:37]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:37]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:37]  Razor: Bandage: 7s
+[11/13/2021 19:37]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:37]  Razor: Bandage: 8s
+[11/13/2021 19:37]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.2.
+[11/13/2021 19:37]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 60.0.
+[11/13/2021 19:37]  System: You carve materials from the corpse.
+[11/13/2021 19:37]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:37]  Razor: [MagicResist] -0.1 53.2 (-5.3)
+[11/13/2021 19:37]  Razor: [Forensics] +0.1 60.0 (+1.8)
+[11/13/2021 19:37]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:37]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:37]  Razor: Bandage: 9s
+[11/13/2021 19:37]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:37]  Razor: Bandage: 10s
+[11/13/2021 19:37]  System: You finish applying the bandages.
+[11/13/2021 19:37]  Stink Fist: +13
+[11/13/2021 19:37]  System: You may not loot this corpse.
+[11/13/2021 19:37]  Razor: Attack: a scorpion
+[11/13/2021 19:37]  a scorpion: -37
+[11/13/2021 19:37]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.1.
+[11/13/2021 19:37]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.1.
+[11/13/2021 19:37]  System: Your attack crushes their armor!
+[11/13/2021 19:37]  a scorpion: -76
+[11/13/2021 19:37]  Razor: [MagicResist] -0.1 53.1 (-5.4)
+[11/13/2021 19:37]  Razor: [Chivalry] +0.1 69.1 (+3.6)
+[11/13/2021 19:37]  a scorpion: -51
+[11/13/2021 19:37]  Razor: Attack: a scorpion
+[11/13/2021 19:37]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:37]  a scorpion: -60
+[11/13/2021 19:37]  a giant rat: a giant rat
+[11/13/2021 19:37]  a giant rat: a giant rat
+[11/13/2021 19:37]  System: You have gained a little fame.
+[11/13/2021 19:37]  System: You have gained a little karma.
+[11/13/2021 19:37]  System: -26
+[11/13/2021 19:37]  You see: a scorpion corpse
+[11/13/2021 19:37]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:37]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:37]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 53.0.
+[11/13/2021 19:37]  System: Your skill in Forensic Evaluation has increased by 0.1.  It is now 60.1.
+[11/13/2021 19:37]  System: You carve materials from the corpse.
+[11/13/2021 19:37]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:37]  Razor: [MagicResist] -0.1 53.0 (-5.5)
+[11/13/2021 19:37]  Razor: [Forensics] +0.1 60.1 (+1.9)
+[11/13/2021 19:37]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:37]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:37]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:37]  You see: a headless corpse
+[11/13/2021 19:37]  [Guild][w.o.o.o.o.o.o.o.]: mark you hear me?
+[11/13/2021 19:37]  [Guild][Mark The Bad]: no
+[11/13/2021 19:37]  a giant rat: a giant rat
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  You see: a headless corpse
+[11/13/2021 19:37]  a mongbat: a mongbat
+[11/13/2021 19:37]  Luis II: Affluent
+[11/13/2021 19:37]  Luis II: [Knight, Sir.]
+[11/13/2021 19:37]  Luis II: Luis II
+[11/13/2021 19:37]  [Guild][w.o.o.o.o.o.o.o.]: i got your stuff and i'm at your house
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  a skeleton: a skeleton
+[11/13/2021 19:37]  System: Opening door...
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  a skeleton: a skeleton
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  You see: a skeletal corpse
+[11/13/2021 19:37]  a mongbat: a mongbat
+[11/13/2021 19:37]  [Guild][Mark The Bad]: okay brt
+[11/13/2021 19:38]  Madmortimer: Madmortimer (Young)
+[11/13/2021 19:38]  You see: a headless corpse
+[11/13/2021 19:38]  You see: a headless corpse
+[11/13/2021 19:38]  You see: a mongbat corpse
+[11/13/2021 19:38]  System: Opening door...
+[11/13/2021 19:38]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:38]  [Guild][w.o.o.o.o.o.o.o.]: k
+[11/13/2021 19:38]  Razor: Attack: a giant rat
+[11/13/2021 19:38]  a giant rat: -43
+[11/13/2021 19:38]  a giant rat: -48
+[11/13/2021 19:38]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:38]  Stink Fist: -7
+[11/13/2021 19:38]  System: Who will you use the bandages on?
+[11/13/2021 19:38]  Razor: Healing Started
+[11/13/2021 19:38]  System: You begin applying the bandages.
+[11/13/2021 19:38]  Razor: Attack: a giant rat
+[11/13/2021 19:38]  Razor: Bandage: 1s
+[11/13/2021 19:38]  Razor: Attack: a giant rat
+[11/13/2021 19:38]  Razor: Bandage: 2s
+[11/13/2021 19:38]  System: You have gained a little fame.
+[11/13/2021 19:38]  System: You have gained a little karma.
+[11/13/2021 19:38]  System: -34
+[11/13/2021 19:38]  You see: a giant rat corpse
+[11/13/2021 19:38]  Razor: Bandage: 3s
+[11/13/2021 19:38]  Razor: Attack: a giant rat
+[11/13/2021 19:38]  a giant rat: -44
+[11/13/2021 19:38]  Razor: Bandage: 4s
+[11/13/2021 19:38]  Razor: Bandage: 5s
+[11/13/2021 19:38]  Razor: Attack: a giant rat
+[11/13/2021 19:38]  a giant rat: -44
+[11/13/2021 19:38]  Razor: Bandage: 6s
+[11/13/2021 19:38]  Razor: Bandage: 7s
+[11/13/2021 19:38]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:38]  System: You have gained a little fame.
+[11/13/2021 19:38]  System: You have gained a little karma.
+[11/13/2021 19:38]  System: -37
+[11/13/2021 19:38]  You see: a giant rat corpse
+[11/13/2021 19:38]  Razor: Bandage: 8s
+[11/13/2021 19:38]  Razor: Bandage: 9s
+[11/13/2021 19:38]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:38]  System: You carve materials from the corpse.
+[11/13/2021 19:38]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:38]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:38]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:38]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:38]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:38]  Razor: Bandage: 10s
+[11/13/2021 19:38]  System: You finish applying the bandages.
+[11/13/2021 19:38]  Stink Fist: +5
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:38]  System: You carve materials from the corpse.
+[11/13/2021 19:38]  System: Opening door...
+[11/13/2021 19:38]  You see: a skeletal corpse
+[11/13/2021 19:38]  System: The world will save in 15 seconds.
+[11/13/2021 19:38]  Madmortimer: Madmortimer (Young)
+[11/13/2021 19:38]  a mongbat: a mongbat
+[11/13/2021 19:38]  a giant frog: a giant frog
+[11/13/2021 19:38]  You see: a headless corpse
+[11/13/2021 19:38]  You see: a headless corpse
+[11/13/2021 19:38]  You see: a necromancer corpse
+[11/13/2021 19:38]  System: Opening door...
+[11/13/2021 19:38]  a ghoul: a ghoul
+[11/13/2021 19:38]  a colossal frog: a colossal frog
+[11/13/2021 19:38]  a colossal frog: a colossal frog
+[11/13/2021 19:38]  a skeletal archer: a skeletal archer
+[11/13/2021 19:38]  You see: a mongbat corpse
+[11/13/2021 19:38]  You see: a ghoul corpse
+[11/13/2021 19:38]  You see: a skeletal archer corpse
+[11/13/2021 19:38]  a giant frog: a giant frog
+[11/13/2021 19:38]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:38]  a skeleton: -102
+[11/13/2021 19:38]  an orc: an orc
+[11/13/2021 19:38]  System: Glitter Goon has completed the achievement: Elemental Slayer (Advanced).
+[11/13/2021 19:38]  an orc: an orc
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  Stink Fist: -1
+[11/13/2021 19:38]  [Guild][w.o.o.o.o.o.o.o.]: i know you roll in good stuff, so gotta get it 
+[11/13/2021 19:38]  System: Who will you use the bandages on?
+[11/13/2021 19:38]  Razor: Healing Started
+[11/13/2021 19:38]  System: You begin applying the bandages.
+[11/13/2021 19:38]  Razor: Bandage: 1s
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  Razor: Bandage: 2s
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  System: You have gained a little fame.
+[11/13/2021 19:38]  System: You have gained a little karma.
+[11/13/2021 19:38]  System: -23
+[11/13/2021 19:38]  You see: a skeletal corpse
+[11/13/2021 19:38]  Razor: Bandage: 3s
+[11/13/2021 19:38]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:38]  Razor: Bandage: 4s
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  Razor: Bandage: 5s
+[11/13/2021 19:38]  a skeleton: -65
+[11/13/2021 19:38]  Razor: Bandage: 6s
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.9.
+[11/13/2021 19:38]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.2.
+[11/13/2021 19:38]  Razor: [MagicResist] -0.1 52.9 (-5.6)
+[11/13/2021 19:38]  Razor: [Chivalry] +0.1 69.2 (+3.7)
+[11/13/2021 19:38]  an orc: an orc
+[11/13/2021 19:38]  Razor: Bandage: 7s
+[11/13/2021 19:38]  You see: a mongbat corpse
+[11/13/2021 19:38]  System: The world is saving, please wait.
+[11/13/2021 19:38]  Razor: Bandage: 8s
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  Razor: Bandage: 9s
+[11/13/2021 19:38]  Razor: Bandage: 10s
+[11/13/2021 19:38]  Razor: Bandage: 11s
+[11/13/2021 19:38]  System: World save complete. The entire process took 4.0 seconds.
+[11/13/2021 19:38]  Razor: Bandage: 12s
+[11/13/2021 19:38]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:38]  System: You have gained a little fame.
+[11/13/2021 19:38]  System: You have gained a little karma.
+[11/13/2021 19:38]  System: -60
+[11/13/2021 19:38]  System: You heal what little damage you had.
+[11/13/2021 19:38]  You see: a skeletal corpse
+[11/13/2021 19:38]  a headless: a headless
+[11/13/2021 19:38]  a mongbat: a mongbat
+[11/13/2021 19:38]  a skeleton: a skeleton
+[11/13/2021 19:38]  a skeleton: a skeleton
+[11/13/2021 19:38]  a skeleton: a skeleton
+[11/13/2021 19:38]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:38]  System: You carve materials from the corpse.
+[11/13/2021 19:38]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:38]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:38]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:38]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:38]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:38]  Stink Fist: -1
+[11/13/2021 19:38]  System: Who will you use the bandages on?
+[11/13/2021 19:38]  Razor: Healing Started
+[11/13/2021 19:38]  System: You begin applying the bandages.
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  a skeleton: -45
+[11/13/2021 19:38]  Razor: Bandage: 1s
+[11/13/2021 19:38]  System: You carve materials from the corpse.
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:38]  Razor: Bandage: 2s
+[11/13/2021 19:38]  shandy there: shandy there
+[11/13/2021 19:38]  a skeleton: -53
+[11/13/2021 19:38]  Razor: Bandage: 3s
+[11/13/2021 19:38]  You see: a mongbat corpse
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:38]  System: You have gained a little fame.
+[11/13/2021 19:38]  System: You have gained a little karma.
+[11/13/2021 19:38]  System: -27
+[11/13/2021 19:38]  You see: a skeletal corpse
+[11/13/2021 19:38]  Razor: Bandage: 4s
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:38]  Razor: Bandage: 5s
+[11/13/2021 19:38]  You see: a mongbat corpse
+[11/13/2021 19:38]  Razor: Attack: a skeleton
+[11/13/2021 19:38]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:38]  a skeleton: -90
+[11/13/2021 19:38]  Razor: Bandage: 6s
+[11/13/2021 19:38]  a skeleton: a skeleton
+[11/13/2021 19:38]  Razor: Bandage: 7s
+[11/13/2021 19:38]  Stink Fist: -1
+[11/13/2021 19:38]  System: Your fingers slip!
+[11/13/2021 19:38]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.8.
+[11/13/2021 19:38]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.3.
+[11/13/2021 19:38]  System: You have gained a little fame.
+[11/13/2021 19:38]  System: You have gained a little karma.
+[11/13/2021 19:38]  System: -35
+[11/13/2021 19:38]  Razor: [MagicResist] -0.1 52.8 (-5.7)
+[11/13/2021 19:38]  Razor: [Chivalry] +0.1 69.3 (+3.8)
+[11/13/2021 19:38]  You see: a skeletal corpse
+[11/13/2021 19:38]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:38]  Razor: Bandage: 8s
+[11/13/2021 19:38]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:38]  System: You carve materials from the corpse.
+[11/13/2021 19:38]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:38]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:38]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:38]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:38]  Razor: Bandage: 9s
+[11/13/2021 19:38]  Razor: Bandage: 10s
+[11/13/2021 19:38]  System: You finish applying the bandages.
+[11/13/2021 19:38]  Stink Fist: +1
+[11/13/2021 19:38]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  System: You carve materials from the corpse.
+[11/13/2021 19:39]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  You see: the remains of Dan Defiant
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  a ghoul: a ghoul
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  a skeleton: a skeleton
+[11/13/2021 19:39]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h). [2]
+[11/13/2021 19:39]  Razor: Attack: a skeleton
+[11/13/2021 19:39]  Stink Fist: -1
+[11/13/2021 19:39]  a skeleton: -50
+[11/13/2021 19:39]  System: Who will you use the bandages on?
+[11/13/2021 19:39]  Razor: Healing Started
+[11/13/2021 19:39]  System: You begin applying the bandages.
+[11/13/2021 19:39]  Razor: Bandage: 1s
+[11/13/2021 19:39]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:39]  System: You have gained a little fame.
+[11/13/2021 19:39]  System: You have gained a little karma.
+[11/13/2021 19:39]  System: -75
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  Razor: Bandage: 2s
+[11/13/2021 19:39]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  Razor: Bandage: 3s
+[11/13/2021 19:39]  Razor: Bandage: 4s
+[11/13/2021 19:39]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:39]  Razor: Bandage: 5s
+[11/13/2021 19:39]  System: You carve materials from the corpse.
+[11/13/2021 19:39]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:39]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:39]  Razor: Bandage: 6s
+[11/13/2021 19:39]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  Razor: Bandage: 7s
+[11/13/2021 19:39]  Razor: Bandage: 8s
+[11/13/2021 19:39]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:39]  You see: a necromancer corpse
+[11/13/2021 19:39]  Razor: Bandage: 9s
+[11/13/2021 19:39]  a necromancer: a necromancer
+[11/13/2021 19:39]  Razor: Bandage: 10s
+[11/13/2021 19:39]  System: You heal what little damage you had.
+[11/13/2021 19:39]  Razor: Attack: a skeleton
+[11/13/2021 19:39]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:39]  a skeleton: -114
+[11/13/2021 19:39]  System: You have gained a little fame.
+[11/13/2021 19:39]  System: You have gained a little karma.
+[11/13/2021 19:39]  System: -11
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:39]  System: You carve materials from the corpse.
+[11/13/2021 19:39]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:39]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:39]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:39]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a headless corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  You see: the remains of Dan Defiant
+[11/13/2021 19:39]  a giant frog: a giant frog
+[11/13/2021 19:39]  You see: a headless corpse
+[11/13/2021 19:39]  You see: a headless corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  a necromancer: a necromancer
+[11/13/2021 19:39]  a colossal frog: a colossal frog
+[11/13/2021 19:39]  a ghoul: a ghoul
+[11/13/2021 19:39]  System: Opening door...
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  a skeletal mage: a skeletal mage
+[11/13/2021 19:39]  You see: a skeletal mage corpse
+[11/13/2021 19:39]  You see: a ghoul corpse
+[11/13/2021 19:39]  You see: a necromancer corpse
+[11/13/2021 19:39]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:39]  You see: a necromancer corpse
+[11/13/2021 19:39]  You see: a skeletal corpse
+[11/13/2021 19:39]  Razor: Attack: a ghoul
+[11/13/2021 19:39]  a ghoul: -52
+[11/13/2021 19:39]  Stink Fist: -4
+[11/13/2021 19:39]  System: Who will you use the bandages on?
+[11/13/2021 19:39]  Razor: Healing Started
+[11/13/2021 19:39]  System: You begin applying the bandages.
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  Razor: Bandage: 1s
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  Stink Fist: -4
+[11/13/2021 19:39]  Razor: Bandage: 2s
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.7.
+[11/13/2021 19:39]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.4.
+[11/13/2021 19:39]  Razor: [MagicResist] -0.1 52.7 (-5.8)
+[11/13/2021 19:39]  Razor: [Chivalry] +0.1 69.4 (+3.9)
+[11/13/2021 19:39]  Razor: Bandage: 3s
+[11/13/2021 19:39]  Razor: Bandage: 4s
+[11/13/2021 19:39]  You see: a headless corpse
+[11/13/2021 19:39]  System: You absorb their spell (4.2% current damage bonus).
+[11/13/2021 19:39]  a necromancer: a necromancer
+[11/13/2021 19:39]  Stink Fist: -4
+[11/13/2021 19:39]  Stink Fist: -1
+[11/13/2021 19:39]  Razor: Bandage: 5s
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  Razor: Bandage: 6s
+[11/13/2021 19:39]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.6.
+[11/13/2021 19:39]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.5.
+[11/13/2021 19:39]  Razor: [MagicResist] -0.1 52.6 (-5.9)
+[11/13/2021 19:39]  Razor: [Chivalry] +0.1 69.5 (+4.0)
+[11/13/2021 19:39]  System: You absorb their spell (8.4% current damage bonus).
+[11/13/2021 19:39]  Stink Fist: -1
+[11/13/2021 19:39]  System: Your fingers slip!
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  Razor: Bandage: 7s
+[11/13/2021 19:39]  Knut Bondi: Knut Bondi (Young)
+[11/13/2021 19:39]  a skeletal archer: -56
+[11/13/2021 19:39]  Razor: Bandage: 8s
+[11/13/2021 19:39]  a colossal frog: a colossal frog
+[11/13/2021 19:39]  Razor: Bandage: 9s
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  a skeletal archer: -67
+[11/13/2021 19:39]  Razor: Bandage: 10s
+[11/13/2021 19:39]  System: You finish applying the bandages.
+[11/13/2021 19:39]  Stink Fist: +12
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  System: You absorb their spell (12.6% current damage bonus).
+[11/13/2021 19:39]  Stink Fist: -1
+[11/13/2021 19:39]  System: Who will you use the bandages on?
+[11/13/2021 19:39]  Razor: Healing Started
+[11/13/2021 19:39]  System: You begin applying the bandages.
+[11/13/2021 19:39]  Stink Fist: -5
+[11/13/2021 19:39]  System: Your fingers slip!
+[11/13/2021 19:39]  Razor: Bandage: 1s
+[11/13/2021 19:39]  Razor: Attack: a skeletal archer
+[11/13/2021 19:39]  Razor: Bandage: 2s
+[11/13/2021 19:39]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.5.
+[11/13/2021 19:39]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.6.
+[11/13/2021 19:39]  a skeletal archer: -49
+[11/13/2021 19:39]  Razor: [MagicResist] -0.1 52.5 (-6.0)
+[11/13/2021 19:39]  Razor: [Chivalry] +0.1 69.6 (+4.1)
+[11/13/2021 19:39]  Razor: Bandage: 3s
+[11/13/2021 19:39]  Stink Fist: -6
+[11/13/2021 19:39]  Razor: Bandage: 4s
+[11/13/2021 19:39]  System: You have gained a little fame.
+[11/13/2021 19:39]  System: You have gained a little karma.
+[11/13/2021 19:39]  System: -16
+[11/13/2021 19:39]  You see: a skeletal archer corpse
+[11/13/2021 19:39]  : dungeon wall
+[11/13/2021 19:39]  Razor: Bandage: 5s
+[11/13/2021 19:39]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:39]  Razor: Bandage: 6s
+[11/13/2021 19:39]  Razor: Attack: a ghoul
+[11/13/2021 19:39]  a ghoul: -56
+[11/13/2021 19:39]  [Guild][Neal]: I have 4 water cores
+[11/13/2021 19:40]  Razor: Bandage: 7s
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  a ghoul: -53
+[11/13/2021 19:40]  Razor: Bandage: 8s
+[11/13/2021 19:40]  Stink Fist: -2
+[11/13/2021 19:40]  System: Your fingers slip!
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  Razor: Bandage: 9s
+[11/13/2021 19:40]  Razor: Bandage: 10s
+[11/13/2021 19:40]  System: You finish applying the bandages.
+[11/13/2021 19:40]  Stink Fist: +12
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  Stink Fist: -1
+[11/13/2021 19:40]  System: Who will you use the bandages on?
+[11/13/2021 19:40]  Razor: Healing Started
+[11/13/2021 19:40]  System: You begin applying the bandages.
+[11/13/2021 19:40]  Razor: Bandage: 1s
+[11/13/2021 19:40]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:40]  a ghoul: -128
+[11/13/2021 19:40]  Razor: Bandage: 2s
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  System: You have gained a little fame.
+[11/13/2021 19:40]  System: You have gained a little karma.
+[11/13/2021 19:40]  System: -23
+[11/13/2021 19:40]  You see: a ghoul corpse
+[11/13/2021 19:40]  Razor: Bandage: 3s
+[11/13/2021 19:40]  [Guild][Looney Tunes]: how much :D
+[11/13/2021 19:40]  Razor: Bandage: 4s
+[11/13/2021 19:40]  a necromancer: a necromancer
+[11/13/2021 19:40]  Razor: Bandage: 5s
+[11/13/2021 19:40]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:40]  Razor: Bandage: 6s
+[11/13/2021 19:40]  Razor: Bandage: 7s
+[11/13/2021 19:40]  System: Opening door...
+[11/13/2021 19:40]  Razor: Bandage: 8s
+[11/13/2021 19:40]  Dan Defiant: Dan Defiant (Young)
+[11/13/2021 19:40]  a necromancer: a necromancer
+[11/13/2021 19:40]  You see: a necromancer corpse
+[11/13/2021 19:40]  Razor: Bandage: 9s
+[11/13/2021 19:40]  Razor: Bandage: 10s
+[11/13/2021 19:40]  System: You heal what little damage you had.
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  System: Opening door...
+[11/13/2021 19:40]  Stink Fist: -2
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:40]  a ghoul: -109
+[11/13/2021 19:40]  System: Who will you use the bandages on?
+[11/13/2021 19:40]  System: You must wait to perform another action.
+[11/13/2021 19:40]  Razor: Healing Started
+[11/13/2021 19:40]  System: You begin applying the bandages.
+[11/13/2021 19:40]  a ghoul: -42
+[11/13/2021 19:40]  Razor: Attack: a ghoul
+[11/13/2021 19:40]  Stink Fist: -1
+[11/13/2021 19:40]  Razor: Bandage: 1s
+[11/13/2021 19:40]  Razor: Bandage: 2s
+[11/13/2021 19:40]  Razor: Bandage: 3s
+[11/13/2021 19:40]  Razor: Bandage: 4s
+[11/13/2021 19:40]  Razor: Bandage: 5s
+[11/13/2021 19:40]  a ghoul: -58
+[11/13/2021 19:40]  Razor: Bandage: 6s
+[11/13/2021 19:40]  Razor: Bandage: 7s
+[11/13/2021 19:40]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.4.
+[11/13/2021 19:40]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.7.
+[11/13/2021 19:40]  a ghoul: -73
+[11/13/2021 19:40]  Razor: [MagicResist] -0.1 52.4 (-6.1)
+[11/13/2021 19:40]  Razor: [Chivalry] +0.1 69.7 (+4.2)
+[11/13/2021 19:40]  Razor: Bandage: 8s
+[11/13/2021 19:40]  You see: a headless corpse
+[11/13/2021 19:40]  Razor: Bandage: 9s
+[11/13/2021 19:40]  You see: a headless corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  System: You heal what little damage you had.
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  You see: a skeletal corpse
+[11/13/2021 19:40]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:40]  System: You carve materials from the corpse.
+[11/13/2021 19:40]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:40]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:40]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:40]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:40]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:40]  System: You absorb their spell (12.6% current damage bonus).
+[11/13/2021 19:40]  System: You parry the spell.
+[11/13/2021 19:40]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:40]  System: You have gained a little fame.
+[11/13/2021 19:40]  System: You have gained a little karma.
+[11/13/2021 19:40]  System: -30
+[11/13/2021 19:40]  You see: a ghoul corpse
+[11/13/2021 19:40]  Stink Fist: -1
+[11/13/2021 19:40]  System: Who will you use the bandages on?
+[11/13/2021 19:40]  Razor: Healing Started
+[11/13/2021 19:40]  System: You begin applying the bandages.
+[11/13/2021 19:40]  System: You must wait to perform another action.
+[11/13/2021 19:40]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:40]  Razor: Bandage: 1s
+[11/13/2021 19:40]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:40]  Razor: Bandage: 2s
+[11/13/2021 19:40]  System: You carve materials from the corpse.
+[11/13/2021 19:40]  Razor: Bandage: 3s
+[11/13/2021 19:40]  Razor: Bandage: 4s
+[11/13/2021 19:40]  Razor: Bandage: 5s
+[11/13/2021 19:40]  Razor: Bandage: 6s
+[11/13/2021 19:40]  a skeletal mage: a skeletal mage
+[11/13/2021 19:40]  a necromancer: a necromancer
+[11/13/2021 19:40]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:40]  Razor: Bandage: 7s
+[11/13/2021 19:40]  System: You carve materials from the corpse.
+[11/13/2021 19:40]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:40]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:40]  Razor: Bandage: 8s
+[11/13/2021 19:40]  a necromancer: a necromancer
+[11/13/2021 19:40]  Razor: Bandage: 9s
+[11/13/2021 19:40]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h). [2]
+[11/13/2021 19:40]  a skeletal mage: a skeletal mage
+[11/13/2021 19:40]  Razor: Bandage: 10s
+[11/13/2021 19:40]  System: You heal what little damage you had.
+[11/13/2021 19:40]  a skeletal mage: a skeletal mage
+[11/13/2021 19:40]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:40]  a skeletal mage: a skeletal mage
+[11/13/2021 19:40]  You see: a necromancer corpse
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  a giant frog: a giant frog
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  You see: an imp corpse
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  a giant frog: a giant frog
+[11/13/2021 19:40]  You see: an imp corpse
+[11/13/2021 19:40]  You see: a colossal frog corpse
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  a giant frog: a giant frog
+[11/13/2021 19:40]  You see: an evil mage corpse
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  a colossal frog: *released*
+[11/13/2021 19:40]  a colossal frog: a colossal frog
+[11/13/2021 19:40]  System: Opening door...
+[11/13/2021 19:40]  a giant frog: a giant frog
+[11/13/2021 19:40]  an evil mage: an evil mage
+[11/13/2021 19:40]  an imp: an imp
+[11/13/2021 19:40]  Razor: Attack: a necromancer
+[11/13/2021 19:40]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.3.
+[11/13/2021 19:40]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.8.
+[11/13/2021 19:40]  a necromancer: -60
+[11/13/2021 19:40]  Razor: [MagicResist] -0.1 52.3 (-6.2)
+[11/13/2021 19:40]  Razor: [Chivalry] +0.1 69.8 (+4.3)
+[11/13/2021 19:40]  Stink Fist: -1
+[11/13/2021 19:40]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:40]  a monitor hatchling: a monitor hatchling
+[11/13/2021 19:40]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.2.
+[11/13/2021 19:40]  System: Your skill in Chivalry has increased by 0.1.  It is now 69.9.
+[11/13/2021 19:40]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:40]  a necromancer: -96
+[11/13/2021 19:40]  Razor: [MagicResist] -0.1 52.2 (-6.3)
+[11/13/2021 19:40]  Razor: [Chivalry] +0.1 69.9 (+4.4)
+[11/13/2021 19:40]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:40]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:40]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:40]  a necromancer: -46
+[11/13/2021 19:40]  System: You absorb their spell (12.6% current damage bonus).
+[11/13/2021 19:41]  Stink Fist: -1
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  a necromancer: -85
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  [Guild][Neal]: 15k for the 4
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  Stink Fist: -3
+[11/13/2021 19:41]  a necromancer: -50
+[11/13/2021 19:41]  System: Opening door...
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  a necromancer: -58
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: You parry the spell.
+[11/13/2021 19:41]  Stink Fist: -1
+[11/13/2021 19:41]  System: Your skill in Resisting Spells has decreased by 0.1.  It is now 52.1.
+[11/13/2021 19:41]  System: Your skill in Chivalry has increased by 0.1.  It is now 70.0.
+[11/13/2021 19:41]  Razor: [MagicResist] -0.1 52.1 (-6.4)
+[11/13/2021 19:41]  Razor: [Chivalry] +0.1 70.0 (+4.5)
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  [Guild][Looney Tunes]: deal omw to gh!!
+[11/13/2021 19:41]  a monitor hatchling: a monitor hatchling
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/13/2021 19:41]  System: You have gained a little fame.
+[11/13/2021 19:41]  System: You have gained a little karma.
+[11/13/2021 19:41]  System: -43
+[11/13/2021 19:41]  Stink Fist: -1
+[11/13/2021 19:41]  You see: a necromancer corpse
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: Max holy symbols earned (7/7)
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:41]  System: No item of type clean bandage%s% (0E21) found!
+[11/13/2021 19:41]  System: What corpse or location do you wish to carve?
+[11/13/2021 19:41]  Razor: Healing Started
+[11/13/2021 19:41]  System: You carve materials from the corpse.
+[11/13/2021 19:41]  System: You will receive +15.0% damage to creatures, +6.0% damage to players, and +6.0 to barding skills (expires in 3h).
+[11/13/2021 19:41]  Razor: [-Forensic Eval Bonus (s)]
+[11/13/2021 19:41]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/13/2021 19:41]  System: [GridLoot]: Corpse is empty!
+[11/13/2021 19:41]  [Guild][Aliester Crowley]: anyone have a use for a keg of poison?
+[11/13/2021 19:41]  You see: a necromancer corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  System: Opening door...
+[11/13/2021 19:41]  You see: a headless corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  System: Opening door... [2]
+[11/13/2021 19:41]  You see: a headless corpse
+[11/13/2021 19:41]  a colossal frog: a colossal frog
+[11/13/2021 19:41]  a headless: a headless
+[11/13/2021 19:41]  You see: a headless corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  a colossal frog: a colossal frog
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a giant rat corpse
+[11/13/2021 19:41]  You see: a headless corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a giant rat corpse
+[11/13/2021 19:41]  a giant frog: a giant frog
+[11/13/2021 19:41]  a colossal frog: a colossal frog
+[11/13/2021 19:41]  a giant frog: a giant frog
+[11/13/2021 19:41]  You see: a headless corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  a giant frog: a giant frog
+[11/13/2021 19:41]  You see: a headless corpse
+[11/13/2021 19:41]  a giant frog: a giant frog
+[11/13/2021 19:41]  a colossal frog: a colossal frog
+[11/13/2021 19:41]  a colossal frog: *released*
+[11/13/2021 19:41]  a colossal frog: a colossal frog
+[11/13/2021 19:41]  a colossal frog: a colossal frog
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  a giant frog: a giant frog
+[11/13/2021 19:41]  You see: a colossal frog corpse
+[11/13/2021 19:41]  a mongbat: a mongbat
+[11/13/2021 19:41]  You see: a colossal frog corpse
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a colossal frog corpse
+[11/13/2021 19:41]  a giant rat: a giant rat
+[11/13/2021 19:41]  System: Opening door...
+[11/13/2021 19:41]  You see: a giant rat corpse
+[11/13/2021 19:41]  an orc: an orc
+[11/13/2021 19:41]  Shrugging Sam: [CFC]
+[11/13/2021 19:41]  Shrugging Sam: Shrugging Sam
+[11/13/2021 19:41]  You see: an orc corpse
+[11/13/2021 19:41]  You see: an orc corpse
+[11/13/2021 19:41]  System: Players cannot commit aggressive actions in that location.
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  You see: a skeletal corpse
+[11/13/2021 19:41]  System: Opening door... [2]
+[11/13/2021 19:41]  a zombie: a zombie
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  Madmortimer: Madmortimer (Young)
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  System: That is too far away.
+[11/13/2021 19:41]  XaxoX: [Recruit, AOG]
+[11/13/2021 19:41]  XaxoX: XaxoX
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  Jenova Project: [Henchman, Syn]
+[11/13/2021 19:41]  Jenova Project: Jenova Project
+[11/13/2021 19:41]  Glavos the Guard: [Knight Guard, Sir.]
+[11/13/2021 19:41]  Glavos the Guard: Glavos the Guard
+[11/13/2021 19:41]  a zombie: a zombie
+[11/13/2021 19:41]  You see: a mongbat corpse
+[11/13/2021 19:41]  Ackwild: Ackwild
+[11/13/2021 19:41]  Villian: Legendary Savant
+[11/13/2021 19:41]  Villian: [CFC]
+[11/13/2021 19:41]  Villian: Villian
+[11/13/2021 19:41]  Zylem: [Junior Phoenix, OFP]
+[11/13/2021 19:41]  Zylem: Zylem
+[11/13/2021 19:41]  Simnae: Simnae (Young)
+[11/13/2021 19:41]  Otto Van Shnautz: Otto Van Shnautz
+[11/13/2021 19:41]  Legendary Az: Legendary Az (Young)
+[11/13/2021 19:41]  Luis II: Affluent
+[11/13/2021 19:41]  Luis II: [Knight, Sir.]
+[11/13/2021 19:41]  Luis II: Luis II
+[11/13/2021 19:41]  System: Players cannot commit aggressive actions in that location. [3]
+[11/13/2021 19:41]  System: You are now under the protection of the town guards.
+[11/13/2021 19:41]  Razor: [+Hidden/Stealthing (0s)]
+[11/13/2021 19:41]  Stink Fist: Your mount returns.
+[11/13/2021 19:41]  a dog: a dog
+[11/13/2021 19:41]  a cat: a cat
+[11/13/2021 19:41]  Slevin: Slevin the scribe
+[11/13/2021 19:41]  Kelli: Kelli the mage
+[11/13/2021 19:41]  Shani: Shani the mage
+[11/13/2021 19:41]  Ines: Ines the alchemist
+[11/13/2021 19:41]  Mae: Mae the herbalist
+[11/13/2021 19:41]  System: (tame)
+[11/13/2021 19:41]  : a horse
+[11/13/2021 19:41]  wylwrk: [i am, DTF]
+[11/13/2021 19:41]  wylwrk: wylwrk
+[11/13/2021 19:42]  wylwrk: [i am, DTF]
+[11/13/2021 19:42]  wylwrk: wylwrk
+[11/13/2021 19:42]  Ines: Ines the alchemist
+[11/13/2021 19:42]  [Guild][Looney Tunes]: how do I get an aspect kit activation 
+[11/13/2021 19:42]  System: Mimosa has completed the achievement: Order of Armorers Initiate.
+[11/13/2021 19:42]  wylwrk: [i am, DTF]
+[11/13/2021 19:42]  wylwrk: wylwrk
+[11/13/2021 19:43]  Salvadori: Salvadori
+[11/13/2021 19:43]  Ines: Ines the alchemist
+[11/13/2021 19:43]  Razor: [-Hidden/Stealthing (s)]
+[11/13/2021 19:43]  Leiko: Leiko the tinker
+[11/13/2021 19:43]  an andarian mage: an andarian mage
+[11/13/2021 19:43]  Candida: Candida the cobbler
+[11/13/2021 19:43]  Killian: Killian the jeweler
+[11/13/2021 19:43]  EZRub: EZRub
+[11/13/2021 19:43]  Stoyan: Stoyan the tinker
+[11/13/2021 19:43]  b: (bonded)
+[11/13/2021 19:43]  b: b
+[11/13/2021 19:43]  Loshe: (bonded)
+[11/13/2021 19:43]  Loshe: Loshe
+[11/13/2021 19:43]  an aegis whelp: (bonded)
+[11/13/2021 19:43]  an aegis whelp: an aegis whelp
+[11/13/2021 19:43]  beasty: (bonded)
+[11/13/2021 19:43]  beasty: beasty
+[11/13/2021 19:43]  a searing lizard: (bonded)
+[11/13/2021 19:43]  a searing lizard: a searing lizard
+[11/13/2021 19:43]  IrishMist: IrishMist
+[11/13/2021 19:43]  Bart: Bart the Town Crier
+[11/13/2021 19:43]  ChoppityChop: ChoppityChop
+[11/13/2021 19:43]  Ghost Rider x: (*dishonored 3m 14s*)
+[11/13/2021 19:43]  Ghost Rider x: [Hotelsdating, app]
+[11/13/2021 19:43]  Ghost Rider x: Ghost Rider x
+[11/13/2021 19:43]  Roi: Roi the banker
+[11/13/2021 19:43]  Mamut: [Star, ***]
+[11/13/2021 19:43]  Mamut: Mamut
+[11/13/2021 19:43]  a cat: a cat
+[11/13/2021 19:43]  Britta: Britta the banker
+[11/13/2021 19:43]  Salvadori: Salvadori
+[11/13/2021 19:43]  Leiko: Leiko the tinker
+[11/13/2021 19:43]  an andarian mage: an andarian mage
+[11/13/2021 19:43]  a cat: a cat
+[11/13/2021 19:43]  System: Opening door...
+[11/13/2021 19:43]  Killian: Killian the jeweler
+[11/13/2021 19:43]  System: Opening door...
+[11/13/2021 19:43]  Leiko: Leiko the tinker
+[11/13/2021 19:43]  Ghost Rider x: (*dishonored 3m 1s*)
+[11/13/2021 19:43]  Ghost Rider x: [Hotelsdating, app]
+[11/13/2021 19:43]  Ghost Rider x: Ghost Rider x
+[11/13/2021 19:43]  an andarian mage: an andarian mage
+[11/13/2021 19:43]  ChoppityChop: ChoppityChop
+[11/13/2021 19:43]  EZRub: EZRub
+[11/13/2021 19:43]  b: (bonded)
+[11/13/2021 19:43]  b: b
+[11/13/2021 19:43]  Loshe: (bonded)
+[11/13/2021 19:43]  Loshe: Loshe
+[11/13/2021 19:43]  an aegis whelp: (bonded)
+[11/13/2021 19:43]  an aegis whelp: an aegis whelp
+[11/13/2021 19:43]  beasty: (bonded)
+[11/13/2021 19:43]  beasty: beasty
+[11/13/2021 19:43]  a searing lizard: (bonded)
+[11/13/2021 19:43]  a searing lizard: a searing lizard
+[11/13/2021 19:43]  IrishMist: IrishMist
+[11/13/2021 19:43]  Bart: Bart the Town Crier
+[11/13/2021 19:43]  Roi: Roi the banker
+[11/13/2021 19:43]  Mamut: [Star, ***]
+[11/13/2021 19:43]  Mamut: Mamut
+[11/13/2021 19:43]  a cat: a cat
+[11/13/2021 19:43]  Britta: Britta the banker
+[11/13/2021 19:43]  Salvadori: Salvadori
+[11/13/2021 19:43]  Orlantha: Orlantha the banker
+[11/13/2021 19:43]  stumpbandaid: stumpbandaid
+[11/13/2021 19:43]  System: Playing Macro 'say'...
+[11/13/2021 19:43]  System: Macro 'say' finished.
+[11/13/2021 19:43]  Stink Fist: bank guards i ban thee
+[11/13/2021 19:43]  Stink Fist: Items: 11/125
+[11/13/2021 19:43]  Stink Fist: Total Weight: 188
+[11/13/2021 19:43]  You see: gold coin : 11223
+[11/13/2021 19:43]  System: That rune tome is out of recall charges.
+[11/13/2021 19:43]  Killian: Killian the jeweler
+[11/13/2021 19:43]  Leiko: Leiko the tinker
+[11/13/2021 19:43]  an andarian mage: an andarian mage
+[11/13/2021 19:43]  Candida: Candida the cobbler
+[11/13/2021 19:43]  Greger: Greger the cook
+[11/13/2021 19:43]  Nelson: Nelson the baker
+[11/13/2021 19:43]  Animall: (bonded)
+[11/13/2021 19:43]  Animall: Animall
+[11/13/2021 19:43]  Budo: Budo the stablemaster
+[11/13/2021 19:43]  Pilsapetz: Renowned Beastmaster
+[11/13/2021 19:43]  Pilsapetz: [Officer, NEW!]
+[11/13/2021 19:43]  Pilsapetz: Pilsapetz
+[11/13/2021 19:43]  an andarian marksman: an andarian marksman
+[11/13/2021 19:43]  Iain: Iain the innkeeper
+[11/13/2021 19:44]  a dog: a dog
+[11/13/2021 19:44]  a cat: a cat
+[11/13/2021 19:44]  a cat: a cat
+[11/13/2021 19:44]  a dog: a dog
+[11/13/2021 19:44]  Flow Cloud: Distinguished Beastmaster
+[11/13/2021 19:44]  Flow Cloud: Lord Flow Cloud
+[11/13/2021 19:44]  Candida: Candida the cobbler
+[11/13/2021 19:44]  an andarian mage: an andarian mage
+[11/13/2021 19:44]  Redbull: Redbull
+[11/13/2021 19:44]  an eldritch drake: (bonded)
+[11/13/2021 19:44]  an eldritch drake: an eldritch drake
+[11/13/2021 19:44]  an eldritch dragon: (bonded)
+[11/13/2021 19:44]  an eldritch dragon: an eldritch dragon
+[11/13/2021 19:44]  Leiko: Leiko the tinker
+[11/13/2021 19:44]  [Guild][Neal]: with 1 mcd and 500 blank scrolls I can do you one
+[11/13/2021 19:44]  Kelli: Kelli the mage
+[11/13/2021 19:44]  Shani: Shani the mage
+[11/13/2021 19:44]  a dog: a dog
+[11/13/2021 19:44]  an andarian mage: an andarian mage
+[11/13/2021 19:44]  [Guild][Looney Tunes]: ok ill bring you them :D
+[11/13/2021 19:44]  Kelli: Kelli the mage
+[11/13/2021 19:44]  Shani: Shani the mage
+[11/13/2021 19:44]  Mae: Mae the herbalist
+[11/13/2021 19:44]  Ines: Ines the alchemist
+[11/13/2021 19:44]  a cow: a cow
+[11/13/2021 19:44]  Ravi: Ravi the farmer
+[11/13/2021 19:44]  a sheep: a sheep
+[11/13/2021 19:44]  Ines: Ines the alchemist
+[11/13/2021 19:44]  Mae: Mae the herbalist
+[11/13/2021 19:44]  Shani: Shani the mage
+[11/13/2021 19:44]  Kelli: Kelli the mage
+[11/13/2021 19:44]  Slevin: Slevin the scribe
+[11/13/2021 19:44]  an andarian mage: an andarian mage
+[11/13/2021 19:44]  Salvadori: Salvadori
+[11/13/2021 19:44]  System: Sassenach has completed the achievement: Scribe (Basic).
+[11/13/2021 19:44]  Googles: (bonded)
+[11/13/2021 19:44]  Googles: Googles
+[11/13/2021 19:44]  Firefoxes: (bonded)
+[11/13/2021 19:44]  Firefoxes: Firefoxes
+[11/13/2021 19:44]  Lemmingwinx: (bonded)
+[11/13/2021 19:44]  Lemmingwinx: Lemmingwinx
+[11/13/2021 19:44]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/13/2021 19:45]  Mae: Mae the herbalist
+[11/13/2021 19:45]  Shani: Shani the mage
+[11/13/2021 19:45]  Kelli: Kelli the mage
+[11/13/2021 19:45]  Ines: Ines the alchemist
+[11/13/2021 19:45]  a cat: a cat
+[11/13/2021 19:45]  a dog: a dog
+[11/13/2021 19:45]  Slevin: Slevin the scribe
+[11/13/2021 19:45]  Nova Estrella: Kal Ort Por [Recall]
+[11/13/2021 19:45]  Nova Estrella: Hardened Beastmaster
+[11/13/2021 19:45]  Nova Estrella: [Protester, HR]
+[11/13/2021 19:45]  Nova Estrella: Nova Estrella
+[11/13/2021 19:45]  Leiko: Leiko the tinker
+[11/13/2021 19:45]  an andarian mage: an andarian mage
+[11/13/2021 19:45]  Candida: Candida the cobbler
+[11/13/2021 19:45]  a cat: a cat
+[11/13/2021 19:45]  a dog: a dog
+[11/13/2021 19:45]  a dog: a dog
+[11/13/2021 19:45]  Animall: (bonded)
+[11/13/2021 19:45]  Animall: Animall
+[11/13/2021 19:45]  Budo: Budo the stablemaster
+[11/13/2021 19:45]  Pilsapetz: Renowned Beastmaster
+[11/13/2021 19:45]  Pilsapetz: [Officer, NEW!]
+[11/13/2021 19:45]  Pilsapetz: Pilsapetz
+[11/13/2021 19:45]  an andarian marksman: an andarian marksman
+[11/13/2021 19:45]  Iain: Iain the innkeeper
+[11/13/2021 19:45]  Greger: Greger the cook
+[11/13/2021 19:45]  Nelson: Nelson the baker
+[11/13/2021 19:45]  System: Opening door...
+[11/13/2021 19:45]  System: Opening door... [3]

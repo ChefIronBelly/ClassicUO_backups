@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<gump type="9" x="1511" y="-23" serial="228841" isminimized="False" />
+	<gump type="2" x="1511" y="306" serial="1086747551" graphic="60" isminimized="False" />
+	<gump type="2" x="1656" y="297" serial="1086747557" graphic="60" isminimized="False" />
+</gumps>

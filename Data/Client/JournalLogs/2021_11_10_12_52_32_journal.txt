@@ -1,0 +1,2623 @@
+[11/10/2021 12:52]  System: WorldMap loading...
+[11/10/2021 12:52]  System: Loading WorldMap markers..
+[11/10/2021 12:52]  System: ..Banks_and_Healers.xml (20)
+[11/10/2021 12:52]  System: ..Dungeons.xml (12)
+[11/10/2021 12:52]  System: ..Dungeon_Gates.xml (335)
+[11/10/2021 12:52]  System: ..Healer_Caravans.xml (32)
+[11/10/2021 12:52]  System: ..Moongates.xml (9)
+[11/10/2021 12:52]  System: ..POI.xml (176)
+[11/10/2021 12:52]  System: ..Shrines.xml (9)
+[11/10/2021 12:52]  System: ..Subterranean.xml (6)
+[11/10/2021 12:52]  System: ..Townships.xml (9)
+[11/10/2021 12:52]  System: WorldMap markers loaded (608)
+[11/10/2021 12:52]  System: Welcome Stink Fist!
+[11/10/2021 12:52]  Stink Fist: Stink Fist
+[11/10/2021 12:52]  an eagle: an eagle
+[11/10/2021 12:52]  a brown bear: a brown bear
+[11/10/2021 12:52]  System: WorldMap loaded!
+[11/10/2021 12:53]  Empress Nympho: Empress Nympho
+[11/10/2021 12:54]  : stone stairs
+[11/10/2021 12:54]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.0.
+[11/10/2021 12:54]  Stink Fist: Flam Sanct [Reactive Armor]
+[11/10/2021 12:54]  Stink Fist: The spell fizzles.
+[11/10/2021 12:54]  Stink Fist: Flam Sanct [Reactive Armor]
+[11/10/2021 12:54]  Stink Fist: The spell fizzles.
+[11/10/2021 12:54]  System: You are still very hungry.
+[11/10/2021 12:54]  Razor: [+Food Satisfaction (3600s)]
+[11/10/2021 12:55]  System: Your campfire is now secure.
+[11/10/2021 12:55]  System: You feel rested and comforted by the camp. (+17.9% damage to creatures and +7.2% damage to players).
+[11/10/2021 12:55]  Razor: [+Campfire Visit (10800s)]
+[11/10/2021 12:55]  Stink Fist: Flam Sanct [Reactive Armor]
+[11/10/2021 12:55]  Razor: [+Reactive Armor (0s)]
+[11/10/2021 12:55]  System: 2 item(s) queued to be equipped.
+[11/10/2021 12:55]  System: Your skill in Tactics has increased by 10.0.  It is now 81.0.
+[11/10/2021 12:55]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 12:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/10/2021 12:55]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.0.
+[11/10/2021 12:55]  Stink Fist: Kal Ort Por [Recall]
+[11/10/2021 12:55]  System: You are now under the protection of the town guards.
+[11/10/2021 12:55]  a book wyrm: a book wyrm
+[11/10/2021 12:55]  Alula: Alula the Necromancer
+[11/10/2021 12:55]  a scarab: (bonded)
+[11/10/2021 12:55]  a scarab: a scarab
+[11/10/2021 12:55]  Suni: Suni
+[11/10/2021 12:55]  Sukatai: Sukatai the animal wrangler
+[11/10/2021 12:55]  Sivan: Sivan the stablemaster
+[11/10/2021 12:55]  Bobvilla: Bobvilla
+[11/10/2021 12:55]  a carrion beetle: (bonded)
+[11/10/2021 12:55]  a carrion beetle: a carrion beetle
+[11/10/2021 12:55]  Irrina: Irrina
+[11/10/2021 12:55]  Pichac: (bonded)
+[11/10/2021 12:55]  Pichac: Pichac
+[11/10/2021 12:55]  a searing imp: (bonded)
+[11/10/2021 12:55]  a searing imp: a searing imp
+[11/10/2021 12:55]  a fire minion: (bonded)
+[11/10/2021 12:55]  a fire minion: a fire minion
+[11/10/2021 12:55]  a searing imp: (bonded)
+[11/10/2021 12:55]  a searing imp: a searing imp
+[11/10/2021 12:55]  a fire minion: (bonded)
+[11/10/2021 12:55]  a fire minion: a fire minion
+[11/10/2021 12:55]  Chovatel: Chovatel
+[11/10/2021 12:55]  Honey Jack: Legendary Scribe
+[11/10/2021 12:55]  Honey Jack: [Junior Phoenix, OFP]
+[11/10/2021 12:55]  Honey Jack: Honey Jack
+[11/10/2021 12:55]  an imp: (bonded)
+[11/10/2021 12:55]  an imp: an imp
+[11/10/2021 12:55]  a grizzly bear: (bonded)
+[11/10/2021 12:55]  a grizzly bear: a grizzly bear
+[11/10/2021 12:55]  Brownyz: (bonded)
+[11/10/2021 12:55]  Brownyz: Brownyz
+[11/10/2021 12:55]  a sphinx: (bonded)
+[11/10/2021 12:55]  a sphinx: a sphinx
+[11/10/2021 12:55]  Mony: (bonded)
+[11/10/2021 12:55]  Mony: Mony
+[11/10/2021 12:55]  JordeX: Legend of Ossuary
+[11/10/2021 12:55]  JordeX: [Private, RED]
+[11/10/2021 12:55]  JordeX: Lord JordeX
+[11/10/2021 12:55]  a cat: a cat
+[11/10/2021 12:55]  Nice Butt Bro: Savant
+[11/10/2021 12:55]  Nice Butt Bro: [Recruit, G.G]
+[11/10/2021 12:55]  Nice Butt Bro: Nice Butt Bro
+[11/10/2021 12:55]  System: 2 item(s) queued to be equipped.
+[11/10/2021 12:55]  System: Your skill in Tactics has increased by 10.0.  It is now 81.0.
+[11/10/2021 12:55]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 12:55]  a water elemental: (summoned)
+[11/10/2021 12:55]  a water elemental: a water elemental
+[11/10/2021 12:55]  a rock guar: (bonded)
+[11/10/2021 12:55]  a rock guar: a rock guar
+[11/10/2021 12:55]  a monitor hatchling: (bonded)
+[11/10/2021 12:55]  a monitor hatchling: a monitor hatchling
+[11/10/2021 12:55]  a horse: (bonded)
+[11/10/2021 12:55]  a horse: a horse
+[11/10/2021 12:55]  Randivious Marsh: Legendary Domesticator
+[11/10/2021 12:55]  Randivious Marsh: [hood]
+[11/10/2021 12:55]  Randivious Marsh: Randivious Marsh
+[11/10/2021 12:55]  Aurelia: Aurelia the Town Crier
+[11/10/2021 12:55]  Anahh: [Knight, Sir.]
+[11/10/2021 12:55]  Anahh: Anahh
+[11/10/2021 12:55]  Stone Henge: [Rookie, NKB]
+[11/10/2021 12:55]  Stone Henge: Stone Henge
+[11/10/2021 12:55]  a horse: (tame)
+[11/10/2021 12:55]  a horse: a horse
+[11/10/2021 12:55]  a dusk drake: (bonded)
+[11/10/2021 12:55]  a dusk drake: a dusk drake
+[11/10/2021 12:55]  a white wyrmling: (bonded)
+[11/10/2021 12:55]  a white wyrmling: a white wyrmling
+[11/10/2021 12:55]  a sphinx: (bonded)
+[11/10/2021 12:55]  a sphinx: a sphinx
+[11/10/2021 12:55]  Ollivander: Legendarily Triggered
+[11/10/2021 12:55]  Ollivander: [Veteran, -_-]
+[11/10/2021 12:55]  Ollivander: Lord Ollivander
+[11/10/2021 12:55]  Jakesh: Jakesh the Prevalian merchant
+[11/10/2021 12:55]  Tawnie: Tawnie the bowyer
+[11/10/2021 12:55]  Margaret: Margaret the baker
+[11/10/2021 12:55]  Gabe: Gabe
+[11/10/2021 12:55]  Cornwell: Cornwell
+[11/10/2021 12:55]  a pack horse: (tame)
+[11/10/2021 12:55]  a pack horse: [0/2000 stones]
+[11/10/2021 12:55]  a pack horse: a pack horse
+[11/10/2021 12:55]  Martha: Martha the cook
+[11/10/2021 12:55]  Dreavlin: Dreavlin
+[11/10/2021 12:55]  Aponi: Aponi the cobbler
+[11/10/2021 12:55]  Nevada: Nevada the architect
+[11/10/2021 12:55]  a carrion beetle: (tame)
+[11/10/2021 12:55]  a carrion beetle: a carrion beetle
+[11/10/2021 12:55]  Natasha: Natasha the tinker
+[11/10/2021 12:55]  Evan the Crier: Evan the Crier
+[11/10/2021 12:55]  Danimal: Triggered
+[11/10/2021 12:55]  Danimal: [Henchman, Syn]
+[11/10/2021 12:55]  Danimal: Danimal
+[11/10/2021 12:55]  Standford: Standford the provisioner
+[11/10/2021 12:55]  Givon: Givon the tailor
+[11/10/2021 12:55]  a pack llama: (tame)
+[11/10/2021 12:55]  a pack llama: [0/2000 stones]
+[11/10/2021 12:55]  a pack llama: a pack llama
+[11/10/2021 12:55]  Astrid: Astrid the tailor
+[11/10/2021 12:55]  Nyssa: Nyssa the tanner
+[11/10/2021 12:55]  a horse: (tame)
+[11/10/2021 12:55]  a horse: a horse
+[11/10/2021 12:55]  Kurt: Kurt the real estate broker
+[11/10/2021 12:55]  Anahh: [Knight, Sir.]
+[11/10/2021 12:55]  Anahh: Anahh
+[11/10/2021 12:55]  Stone Henge: [Rookie, NKB]
+[11/10/2021 12:55]  Stone Henge: Stone Henge
+[11/10/2021 12:55]  a pack horse: (tame)
+[11/10/2021 12:55]  a pack horse: [0/2000 stones]
+[11/10/2021 12:55]  a pack horse: a pack horse
+[11/10/2021 12:55]  Ablizmo: Ablizmo
+[11/10/2021 12:55]  Xandriela: Xandriela
+[11/10/2021 12:55]  a dog: a dog
+[11/10/2021 12:55]  Randivious Marsh: Legendary Domesticator
+[11/10/2021 12:55]  Randivious Marsh: [hood]
+[11/10/2021 12:55]  Randivious Marsh: Randivious Marsh
+[11/10/2021 12:55]  Cornwell: Cornwell
+[11/10/2021 12:55]  Gabe: Gabe
+[11/10/2021 12:55]  Aurelia: Aurelia the Town Crier
+[11/10/2021 12:55]  Echose: Echose
+[11/10/2021 12:55]  Besiktas: Besiktas
+[11/10/2021 12:55]  a water elemental: (summoned)
+[11/10/2021 12:55]  a water elemental: a water elemental
+[11/10/2021 12:55]  a rock guar: (bonded)
+[11/10/2021 12:55]  a rock guar: a rock guar
+[11/10/2021 12:55]  a monitor hatchling: (bonded)
+[11/10/2021 12:55]  a monitor hatchling: a monitor hatchling
+[11/10/2021 12:55]  a horse: (bonded)
+[11/10/2021 12:55]  a horse: a horse
+[11/10/2021 12:55]  Klaus: Klaus
+[11/10/2021 12:55]  Margaret: Margaret the baker
+[11/10/2021 12:55]  System: Follow the arrow to your destination.
+[11/10/2021 12:55]  Ingmar: Ingmar the banker
+[11/10/2021 12:55]  Alodie: Alodie the banker
+[11/10/2021 12:55]  Alodie: Alodie the banker
+[11/10/2021 12:55]  Evan the Crier: If ye choose Steel over Fire, and choose the path of virtue over evil
+[11/10/2021 12:55]  System: Alexxxx has completed the achievement: Domestication (Advanced).
+[11/10/2021 12:55]  System: Distance to destination: 3 steps.
+[11/10/2021 12:55]  Razor: [RED - 3 steps away]
+[11/10/2021 12:55]  Evan the Crier: Then contact Redeye#7106 on Discord, and join in the adventure!
+[11/10/2021 12:56]  System: Distance to destination: 3 steps.
+[11/10/2021 12:56]  Razor: [RED - 3 steps away]
+[11/10/2021 12:56]  System: Distance to destination: 3 steps.
+[11/10/2021 12:56]  Razor: [RED - 3 steps away]
+[11/10/2021 12:56]  System: Distance to destination: 3 steps.
+[11/10/2021 12:56]  Razor: [RED - 3 steps away]
+[11/10/2021 12:56]  System: Distance to destination: 3 steps.
+[11/10/2021 12:56]  Razor: [RED - 3 steps away]
+[11/10/2021 12:56]  Evan the Crier: Hear ye hear ye!
+[11/10/2021 12:56]  Evan the Crier: The Knights Guild is recruiting!
+[11/10/2021 12:56]  System: Your campfire is now secure.
+[11/10/2021 12:56]  Stink Fist: Hiking location unlocked: Prevalia
+[11/10/2021 12:56]  System: Distance to destination: 3 steps.
+[11/10/2021 12:56]  Razor: [RED - 3 steps away]
+[11/10/2021 12:56]  Evan the Crier: If ye choose Steel over Fire, and choose the path of virtue over evil
+[11/10/2021 12:56]  Ingmar: Ingmar the banker
+[11/10/2021 12:56]  Evan the Crier: Then contact Redeye#7106 on Discord, and join in the adventure!
+[11/10/2021 12:56]  System: Nameerf has completed the achievement: Versatility (Advanced).
+[11/10/2021 12:56]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.0.
+[11/10/2021 12:56]  Stink Fist: Kal Ort Por [Recall]
+[11/10/2021 12:56]  System: You have left the protection of the town guards.
+[11/10/2021 12:56]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:56]  Ramon: Ramon the wandering healer
+[11/10/2021 12:56]  System: 2 item(s) queued to be equipped.
+[11/10/2021 12:56]  System: You must wait another moment before you may pick up an item from here.
+[11/10/2021 12:56]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 12:56]  System: Playing Macro 'Healing'...
+[11/10/2021 12:56]  a snowdrift: a snowdrift
+[11/10/2021 12:56]  a snow elemental: a snow elemental
+[11/10/2021 12:56]  a snow elemental: a snow elemental
+[11/10/2021 12:56]  a snow elemental: a snow elemental
+[11/10/2021 12:56]  a snowdrift: a snowdrift
+[11/10/2021 12:56]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:56]  System: Your reactive armor spell has expired.
+[11/10/2021 12:56]  Stink Fist: -3
+[11/10/2021 12:56]  Razor: [-Reactive Armor (s)]
+[11/10/2021 12:56]  System: Who will you use the bandages on?
+[11/10/2021 12:56]  Razor: Healing Started
+[11/10/2021 12:56]  System: You begin applying the bandages.
+[11/10/2021 12:56]  Razor: Attack: a snow elemental
+[11/10/2021 12:56]  Razor: Bandage: 1s
+[11/10/2021 12:56]  Razor: Bandage: 2s
+[11/10/2021 12:56]  System: 1 item(s) queued to be equipped.
+[11/10/2021 12:56]  System: 1 item(s) already equipped.
+[11/10/2021 12:56]  System: Your skill in Tactics has increased by 10.0.  It is now 81.0.
+[11/10/2021 12:56]  a snow elemental: -34
+[11/10/2021 12:56]  Razor: Bandage: 3s
+[11/10/2021 12:56]  Stink Fist: -11
+[11/10/2021 12:56]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:56]  a snow elemental: -35
+[11/10/2021 12:56]  Razor: Bandage: 4s
+[11/10/2021 12:56]  You see: a snowdrift corpse
+[11/10/2021 12:56]  a snowdrift: a snowdrift
+[11/10/2021 12:56]  Razor: Bandage: 5s
+[11/10/2021 12:56]  a snow elemental: -49
+[11/10/2021 12:56]  Razor: Bandage: 6s
+[11/10/2021 12:56]  Stink Fist: -14
+[11/10/2021 12:56]  System: Your fingers slip!
+[11/10/2021 12:56]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:56]  Stink Fist: -15
+[11/10/2021 12:56]  a snow elemental: -53
+[11/10/2021 12:56]  Stink Fist: -11
+[11/10/2021 12:56]  Razor: Bandage: 7s
+[11/10/2021 12:56]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:56]  Stink Fist: +13
+[11/10/2021 12:56]  System: some damage has been healed : 13
+[11/10/2021 12:56]  Razor: Bandage: 8s
+[11/10/2021 12:56]  a snow elemental: -18
+[11/10/2021 12:56]  System: Finished 3 queued actions in 1.2 seconds.
+[11/10/2021 12:56]  Razor: Bandage: 9s
+[11/10/2021 12:56]  Razor: Bandage: 10s
+[11/10/2021 12:56]  System: You finish applying the bandages.
+[11/10/2021 12:56]  Stink Fist: +39
+[11/10/2021 12:56]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:56]  System: Your skill in Camping has decreased by 0.1.  It is now 71.7.
+[11/10/2021 12:56]  System: Your skill in Fencing has increased by 0.1.  It is now 71.0.
+[11/10/2021 12:56]  Razor: [Camping] -0.1 71.7 (-0.1)
+[11/10/2021 12:56]  Razor: [Fencing] +0.1 71.0 (+0.1)
+[11/10/2021 12:56]  System: Your attack cripples your target, lowering their defense! [2]
+[11/10/2021 12:56]  a snow elemental: -33
+[11/10/2021 12:57]  System: Your strength has changed by 10.  It is now 110
+[11/10/2021 12:57]  Razor: [+Strength (120s)]
+[11/10/2021 12:57]  Razor: Str: +10 - 110
+[11/10/2021 12:57]  Razor: [-Strength (s)]
+[11/10/2021 12:57]  Razor: [+Strength (120s)]
+[11/10/2021 12:57]  System: Who will you use the bandages on?
+[11/10/2021 12:57]  Razor: Healing Started
+[11/10/2021 12:57]  System: You begin applying the bandages.
+[11/10/2021 12:57]  Stink Fist: -3
+[11/10/2021 12:57]  System: Your fingers slip!
+[11/10/2021 12:57]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:57]  Stink Fist: -16
+[11/10/2021 12:57]  Razor: Bandage: 1s
+[11/10/2021 12:57]  System: Finished 4 queued actions in 1.8 seconds.
+[11/10/2021 12:57]  Stink Fist: -13
+[11/10/2021 12:57]  a snow elemental: -29
+[11/10/2021 12:57]  Razor: Bandage: 2s
+[11/10/2021 12:57]  Razor: Attack: a snow elemental
+[11/10/2021 12:57]  a snow elemental: -35
+[11/10/2021 12:57]  Stink Fist: -12
+[11/10/2021 12:57]  Stink Fist: -2
+[11/10/2021 12:57]  Razor: Bandage: 3s
+[11/10/2021 12:57]  Razor: Bandage: 4s
+[11/10/2021 12:57]  a snow elemental: -14
+[11/10/2021 12:57]  System: You feel chilled and your metabolism slowed! [2]
+[11/10/2021 12:57]  System: Your fingers slip! [3]
+[11/10/2021 12:57]  Razor: Bandage: 5s
+[11/10/2021 12:57]  a snow elemental: -32
+[11/10/2021 12:57]  Stink Fist: -12
+[11/10/2021 12:57]  Razor: Bandage: 6s
+[11/10/2021 12:57]  Stink Fist: -10
+[11/10/2021 12:57]  System: Your skill in Camping has decreased by 0.1.  It is now 71.6.
+[11/10/2021 12:57]  System: Your skill in Fencing has increased by 0.1.  It is now 71.1.
+[11/10/2021 12:57]  System: Your skill in Camping has decreased by 0.1.  It is now 71.5.
+[11/10/2021 12:57]  System: Your skill in Arms Lore has increased by 0.1.  It is now 71.7.
+[11/10/2021 12:57]  Stink Fist: +12
+[11/10/2021 12:57]  System: some damage has been healed : 12
+[11/10/2021 12:57]  Razor: [Camping] -0.1 71.6 (-0.2)
+[11/10/2021 12:57]  Razor: [Fencing] +0.1 71.1 (+0.2)
+[11/10/2021 12:57]  Razor: [Camping] -0.1 71.5 (-0.3)
+[11/10/2021 12:57]  Razor: [ArmsLore] +0.1 71.7 (+0.1)
+[11/10/2021 12:57]  Razor: Bandage: 7s
+[11/10/2021 12:57]  Stink Fist: You must wait 9 seconds before using another healing potion.
+[11/10/2021 12:57]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:57]  System: Your fingers slip!
+[11/10/2021 12:57]  Razor: Bandage: 8s
+[11/10/2021 12:57]  Razor: Bandage: 9s
+[11/10/2021 12:57]  You see: a snow elemental corpse
+[11/10/2021 12:57]  You see: a snow flurry corpse
+[11/10/2021 12:57]  a snow flurry: a snow flurry
+[11/10/2021 12:57]  System: You must wait another moment before you may pick up an item from here.
+[11/10/2021 12:57]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:57]  a snow elemental: -39
+[11/10/2021 12:57]  Stink Fist: -12
+[11/10/2021 12:57]  Razor: Bandage: 10s
+[11/10/2021 12:57]  System: You finish applying the bandages.
+[11/10/2021 12:57]  Stink Fist: +40
+[11/10/2021 12:57]  System: Finished 8 queued actions in 4.2 seconds.
+[11/10/2021 12:57]  Stink Fist: -1
+[11/10/2021 12:57]  System: Who will you use the bandages on?
+[11/10/2021 12:57]  Razor: Healing Started
+[11/10/2021 12:57]  System: You begin applying the bandages.
+[11/10/2021 12:57]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:57]  a snow elemental: -26
+[11/10/2021 12:57]  Razor: Bandage: 1s
+[11/10/2021 12:57]  a snow elemental: a snow elemental
+[11/10/2021 12:57]  Razor: Bandage: 2s
+[11/10/2021 12:57]  Stink Fist: -9
+[11/10/2021 12:57]  System: Your fingers slip!
+[11/10/2021 12:57]  Razor: Bandage: 3s
+[11/10/2021 12:57]  Razor: Bandage: 4s
+[11/10/2021 12:57]  a snow elemental: -32
+[11/10/2021 12:57]  Razor: Bandage: 5s
+[11/10/2021 12:57]  Razor: Attack: a snow elemental
+[11/10/2021 12:57]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:57]  Stink Fist: -13
+[11/10/2021 12:57]  System: Your fingers slip!
+[11/10/2021 12:57]  Razor: Bandage: 6s
+[11/10/2021 12:57]  System: You have gained a little fame.
+[11/10/2021 12:57]  System: You have gained a little karma.
+[11/10/2021 12:57]  System: -9
+[11/10/2021 12:57]  You see: a snow elemental corpse
+[11/10/2021 12:57]  Razor: Bandage: 7s
+[11/10/2021 12:57]  Razor: Bandage: 8s
+[11/10/2021 12:57]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:57]  Razor: Bandage: 9s
+[11/10/2021 12:57]  Razor: Attack: a snowdrift
+[11/10/2021 12:57]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:57]  a snowdrift: -82
+[11/10/2021 12:57]  System: You finish applying the bandages.
+[11/10/2021 12:57]  Stink Fist: +35
+[11/10/2021 12:57]  a snowdrift: -37
+[11/10/2021 12:57]  System: Who will you use the bandages on?
+[11/10/2021 12:57]  Razor: Healing Started
+[11/10/2021 12:57]  System: You begin applying the bandages.
+[11/10/2021 12:57]  a snowdrift: *regens*
+[11/10/2021 12:57]  System: Your skill in Camping has decreased by 0.1.  It is now 71.4.
+[11/10/2021 12:57]  System: Your skill in Anatomy has increased by 0.1.  It is now 71.9.
+[11/10/2021 12:57]  System: Your skill in Camping has decreased by 0.1.  It is now 71.3.
+[11/10/2021 12:57]  System: Your skill in Arms Lore has increased by 0.1.  It is now 71.8.
+[11/10/2021 12:57]  a snowdrift: -34
+[11/10/2021 12:57]  Razor: [Camping] -0.1 71.4 (-0.4)
+[11/10/2021 12:57]  Razor: [Anatomy] +0.1 71.9 (+0.1)
+[11/10/2021 12:57]  Razor: [Camping] -0.1 71.3 (-0.5)
+[11/10/2021 12:57]  Razor: [ArmsLore] +0.1 71.8 (+0.2)
+[11/10/2021 12:57]  Razor: Bandage: 1s
+[11/10/2021 12:57]  a snowdrift: -31
+[11/10/2021 12:57]  Razor: Bandage: 2s
+[11/10/2021 12:57]  Razor: Bandage: 3s
+[11/10/2021 12:57]  Stink Fist: -11
+[11/10/2021 12:57]  System: Your fingers slip!
+[11/10/2021 12:57]  a snowdrift: -18
+[11/10/2021 12:57]  Razor: Attack: a snowdrift
+[11/10/2021 12:57]  Razor: Bandage: 4s
+[11/10/2021 12:57]  Razor: Bandage: 5s
+[11/10/2021 12:57]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:57]  Razor: Attack: a snowdrift
+[11/10/2021 12:57]  a snowdrift: -40
+[11/10/2021 12:57]  Razor: Bandage: 6s
+[11/10/2021 12:57]  Razor: Attack: a snowdrift
+[11/10/2021 12:57]  Razor: Bandage: 7s
+[11/10/2021 12:57]  System: Your skill in Camping has decreased by 0.1.  It is now 71.2.
+[11/10/2021 12:57]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.0.
+[11/10/2021 12:57]  Razor: [Camping] -0.1 71.2 (-0.6)
+[11/10/2021 12:57]  Razor: [Anatomy] +0.1 72.0 (+0.2)
+[11/10/2021 12:57]  Razor: Bandage: 8s
+[11/10/2021 12:57]  Razor: Bandage: 9s
+[11/10/2021 12:57]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:57]  Stink Fist: -12
+[11/10/2021 12:57]  a snowdrift: -34
+[11/10/2021 12:57]  Razor: Bandage: 10s
+[11/10/2021 12:57]  System: You finish applying the bandages.
+[11/10/2021 12:57]  Stink Fist: +41
+[11/10/2021 12:57]  System: Your skill in Camping has decreased by 0.1.  It is now 71.1.
+[11/10/2021 12:57]  System: Your skill in Arms Lore has increased by 0.1.  It is now 71.9.
+[11/10/2021 12:57]  Razor: [Camping] -0.1 71.1 (-0.7)
+[11/10/2021 12:57]  Razor: [ArmsLore] +0.1 71.9 (+0.3)
+[11/10/2021 12:57]  a snowdrift: -32
+[11/10/2021 12:57]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:57]  System: You have gained a little fame.
+[11/10/2021 12:57]  System: You have gained a little karma.
+[11/10/2021 12:57]  System: -20
+[11/10/2021 12:57]  You see: a snowdrift corpse
+[11/10/2021 12:57]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:57]  System: What corpse or location do you wish to carve?
+[11/10/2021 12:57]  Razor: Target: Stink Fist
+[11/10/2021 12:57]  a snow flurry: a snow flurry
+[11/10/2021 12:57]  System: Captcha successful.
+[11/10/2021 12:57]  System: You carve materials from the corpse.
+[11/10/2021 12:57]  System: You will receive +5.3% damage to creatures, +2.1% damage to players, and +2.1 to barding skills (expires in 3h).
+[11/10/2021 12:57]  System: You will receive +10.3% damage to creatures, +4.1% damage to players, and +4.1 to barding skills (expires in 3h).
+[11/10/2021 12:57]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 12:57]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 12:57]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 12:57]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:57]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:57]  System: You carve materials from the corpse.
+[11/10/2021 12:57]  You see: a snow elemental corpse
+[11/10/2021 12:57]  a snow elemental: a snow elemental
+[11/10/2021 12:57]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:57]  You see: a skeletal corpse
+[11/10/2021 12:57]  You see: a frostbane acolyte corpse
+[11/10/2021 12:57]  You see: a rotting corpse
+[11/10/2021 12:57]  You see: a frostbane acolyte corpse
+[11/10/2021 12:57]  a snowdrift: a snowdrift
+[11/10/2021 12:57]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:57]  an ice elemental: an ice elemental
+[11/10/2021 12:57]  a snow elemental: a snow elemental
+[11/10/2021 12:57]  System: The world will save in 15 seconds.
+[11/10/2021 12:57]  Stink Fist: -2
+[11/10/2021 12:57]  System: Who will you use the bandages on?
+[11/10/2021 12:57]  Razor: Healing Started
+[11/10/2021 12:57]  System: You begin applying the bandages.
+[11/10/2021 12:57]  Razor: Bandage: 1s
+[11/10/2021 12:57]  Razor: Attack: a snow elemental
+[11/10/2021 12:58]  Razor: Bandage: 2s
+[11/10/2021 12:58]  a snow elemental: -15
+[11/10/2021 12:58]  Razor: Bandage: 3s
+[11/10/2021 12:58]  Stink Fist: -3
+[11/10/2021 12:58]  System: Your fingers slip!
+[11/10/2021 12:58]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:58]  Stink Fist: -15
+[11/10/2021 12:58]  Razor: Bandage: 4s
+[11/10/2021 12:58]  Razor: Bandage: 5s
+[11/10/2021 12:58]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:58]  a snow elemental: -43
+[11/10/2021 12:58]  Razor: Bandage: 6s
+[11/10/2021 12:58]  a snow elemental: -42
+[11/10/2021 12:58]  System: Your fingers slip!
+[11/10/2021 12:58]  Razor: Bandage: 7s
+[11/10/2021 12:58]  a snow elemental: -36
+[11/10/2021 12:58]  a snow elemental: a snow elemental
+[11/10/2021 12:58]  Razor: Bandage: 8s
+[11/10/2021 12:58]  a snow elemental: -19
+[11/10/2021 12:58]  Razor: Bandage: 9s
+[11/10/2021 12:58]  an ice elemental: an ice elemental
+[11/10/2021 12:58]  Razor: Bandage: 10s
+[11/10/2021 12:58]  System: You finish applying the bandages.
+[11/10/2021 12:58]  Stink Fist: +18
+[11/10/2021 12:58]  a snow elemental: -35
+[11/10/2021 12:58]  a snow elemental: -41
+[11/10/2021 12:58]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:58]  a snow elemental: -31
+[11/10/2021 12:58]  System: Your skill in Camping has decreased by 0.1.  It is now 71.0.
+[11/10/2021 12:58]  System: Your skill in Parrying has increased by 0.1.  It is now 70.6.
+[11/10/2021 12:58]  Stink Fist: -13
+[11/10/2021 12:58]  Razor: [Camping] -0.1 71.0 (-0.8)
+[11/10/2021 12:58]  Razor: [Parry] +0.1 70.6 (+0.1)
+[11/10/2021 12:58]  System: Who will you use the bandages on?
+[11/10/2021 12:58]  Razor: Healing Started
+[11/10/2021 12:58]  System: You begin applying the bandages.
+[11/10/2021 12:58]  System: The world is saving, please wait.
+[11/10/2021 12:58]  Razor: Bandage: 1s
+[11/10/2021 12:58]  Razor: Bandage: 2s
+[11/10/2021 12:58]  Razor: Bandage: 3s
+[11/10/2021 12:58]  Razor: Bandage: 4s
+[11/10/2021 12:58]  System: World save complete. The entire process took 3.2 seconds.
+[11/10/2021 12:58]  Stink Fist: -3
+[11/10/2021 12:58]  System: Your fingers slip!
+[11/10/2021 12:58]  Razor: Bandage: 5s
+[11/10/2021 12:58]  a snow elemental: -25
+[11/10/2021 12:58]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:58]  Razor: Bandage: 6s
+[11/10/2021 12:58]  Razor: Bandage: 7s
+[11/10/2021 12:58]  a snow elemental: -31
+[11/10/2021 12:58]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:58]  Stink Fist: -12
+[11/10/2021 12:58]  System: Your fingers slip!
+[11/10/2021 12:58]  Razor: Bandage: 8s
+[11/10/2021 12:58]  Razor: Bandage: 9s
+[11/10/2021 12:58]  System: You finish applying the bandages.
+[11/10/2021 12:58]  Stink Fist: +26
+[11/10/2021 12:58]  Razor: Bandage: 10s
+[11/10/2021 12:58]  a snow elemental: -23
+[11/10/2021 12:58]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:58]  Stink Fist: -12
+[11/10/2021 12:58]  System: Who will you use the bandages on?
+[11/10/2021 12:58]  Razor: Healing Started
+[11/10/2021 12:58]  System: You begin applying the bandages.
+[11/10/2021 12:58]  Razor: Bandage: 1s
+[11/10/2021 12:58]  Razor: Bandage: 2s
+[11/10/2021 12:58]  Razor: Bandage: 3s
+[11/10/2021 12:58]  Razor: Bandage: 4s
+[11/10/2021 12:58]  Stink Fist: -10
+[11/10/2021 12:58]  Razor: Bandage: 5s
+[11/10/2021 12:58]  Razor: Bandage: 6s
+[11/10/2021 12:58]  Razor: Bandage: 7s
+[11/10/2021 12:58]  Razor: Bandage: 8s
+[11/10/2021 12:58]  Razor: Bandage: 9s
+[11/10/2021 12:58]  Razor: Bandage: 10s
+[11/10/2021 12:58]  System: You finish applying the bandages.
+[11/10/2021 12:58]  Stink Fist: +21
+[11/10/2021 12:58]  a snow elemental: -30
+[11/10/2021 12:58]  System: Your skill in Camping has decreased by 0.1.  It is now 70.9.
+[11/10/2021 12:58]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.0.
+[11/10/2021 12:58]  a snow elemental: -21
+[11/10/2021 12:58]  Razor: [Camping] -0.1 70.9 (-0.9)
+[11/10/2021 12:58]  Razor: [ArmsLore] +0.1 72.0 (+0.4)
+[11/10/2021 12:58]  a snow elemental: -29
+[11/10/2021 12:58]  System: You have gained a little fame.
+[11/10/2021 12:58]  System: You have gained a little karma.
+[11/10/2021 12:58]  System: -17
+[11/10/2021 12:58]  You see: a snow elemental corpse
+[11/10/2021 12:58]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:58]  System: What corpse or location do you wish to carve?
+[11/10/2021 12:58]  System: You carve materials from the corpse.
+[11/10/2021 12:58]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 12:58]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 12:58]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 12:58]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:58]  a snowdrift: a snowdrift
+[11/10/2021 12:58]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:58]  a snow elemental: a snow elemental
+[11/10/2021 12:58]  a snowdrift: a snowdrift
+[11/10/2021 12:58]  Stink Fist: -7
+[11/10/2021 12:58]  System: Who will you use the bandages on?
+[11/10/2021 12:58]  Razor: Healing Started
+[11/10/2021 12:58]  System: You begin applying the bandages.
+[11/10/2021 12:58]  Razor: Attack: a snowdrift
+[11/10/2021 12:58]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:58]  a snowdrift: -86
+[11/10/2021 12:58]  Razor: Bandage: 1s
+[11/10/2021 12:58]  a snowdrift: -27
+[11/10/2021 12:58]  a snowdrift: *regens*
+[11/10/2021 12:58]  Razor: Bandage: 2s
+[11/10/2021 12:58]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:58]  Stink Fist: -11
+[11/10/2021 12:58]  System: Your fingers slip!
+[11/10/2021 12:58]  Razor: Bandage: 3s
+[11/10/2021 12:59]  Razor: Bandage: 4s
+[11/10/2021 12:59]  a snowdrift: -37
+[11/10/2021 12:59]  Stink Fist: -8
+[11/10/2021 12:59]  Razor: Bandage: 5s
+[11/10/2021 12:59]  Razor: Bandage: 6s
+[11/10/2021 12:59]  Razor: [-Strength (s)]
+[11/10/2021 12:59]  System: Your fingers slip!
+[11/10/2021 12:59]  a snowdrift: -51
+[11/10/2021 12:59]  System: You may now use a strength potion.
+[11/10/2021 12:59]  System: Your strength has changed by -10.  It is now 100
+[11/10/2021 12:59]  Razor: Str: -10 - 100
+[11/10/2021 12:59]  Razor: Bandage: 7s
+[11/10/2021 12:59]  Razor: Bandage: 8s
+[11/10/2021 12:59]  Stink Fist: -10
+[11/10/2021 12:59]  Razor: Bandage: 9s
+[11/10/2021 12:59]  a snowdrift: -31
+[11/10/2021 12:59]  System: You finish applying the bandages.
+[11/10/2021 12:59]  Stink Fist: +24
+[11/10/2021 12:59]  System: Your fingers slip!
+[11/10/2021 12:59]  Stink Fist: -8
+[11/10/2021 12:59]  System: Who will you use the bandages on?
+[11/10/2021 12:59]  Razor: Healing Started
+[11/10/2021 12:59]  System: You begin applying the bandages.
+[11/10/2021 12:59]  a snowdrift: -47
+[11/10/2021 12:59]  Razor: Bandage: 1s
+[11/10/2021 12:59]  a snowdrift: -47
+[11/10/2021 12:59]  System: What do you wish to track?
+[11/10/2021 12:59]  Razor: Bandage: 2s
+[11/10/2021 12:59]  System: You will receive +19.0% damage to creatures, +7.6% damage to players, and +7.5 to barding skill while hunting.
+[11/10/2021 12:59]  Stink Fist: You begin hunting.
+[11/10/2021 12:59]  Razor: Bandage: 3s
+[11/10/2021 12:59]  Razor: Bandage: 4s
+[11/10/2021 12:59]  Stink Fist: -3
+[11/10/2021 12:59]  System: Your fingers slip!
+[11/10/2021 12:59]  a snowdrift: *regens*
+[11/10/2021 12:59]  Razor: Bandage: 5s
+[11/10/2021 12:59]  Razor: Attack: a snowdrift
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.8.
+[11/10/2021 12:59]  System: Your skill in Fencing has increased by 0.1.  It is now 71.2.
+[11/10/2021 12:59]  System: You have gained a little fame.
+[11/10/2021 12:59]  System: You have gained a little karma.
+[11/10/2021 12:59]  System: -18
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.8 (-1.0)
+[11/10/2021 12:59]  Razor: [Fencing] +0.1 71.2 (+0.3)
+[11/10/2021 12:59]  You see: a snowdrift corpse
+[11/10/2021 12:59]  Razor: Bandage: 6s
+[11/10/2021 12:59]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:59]  Razor: Attack: a snow elemental
+[11/10/2021 12:59]  Razor: Bandage: 7s
+[11/10/2021 12:59]  Stink Fist: -4
+[11/10/2021 12:59]  Razor: Bandage: 8s
+[11/10/2021 12:59]  Razor: Attack: a snow elemental
+[11/10/2021 12:59]  Razor: Bandage: 9s
+[11/10/2021 12:59]  Razor: Bandage: 10s
+[11/10/2021 12:59]  System: You finish applying the bandages.
+[11/10/2021 12:59]  Stink Fist: +13
+[11/10/2021 12:59]  System: What corpse or location do you wish to carve?
+[11/10/2021 12:59]  System: You carve materials from the corpse.
+[11/10/2021 12:59]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 12:59]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 12:59]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 12:59]  a snow elemental: -16
+[11/10/2021 12:59]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:59]  Stink Fist: -9
+[11/10/2021 12:59]  System: Who will you use the bandages on?
+[11/10/2021 12:59]  Razor: Healing Started
+[11/10/2021 12:59]  System: You begin applying the bandages.
+[11/10/2021 12:59]  Razor: Bandage: 1s
+[11/10/2021 12:59]  Razor: Attack: a snow elemental
+[11/10/2021 12:59]  Razor: Bandage: 2s
+[11/10/2021 12:59]  Razor: Bandage: 3s
+[11/10/2021 12:59]  Razor: Bandage: 4s
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.7.
+[11/10/2021 12:59]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.1.
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.7 (-1.1)
+[11/10/2021 12:59]  Razor: [ArmsLore] +0.1 72.1 (+0.5)
+[11/10/2021 12:59]  Razor: Bandage: 5s
+[11/10/2021 12:59]  Razor: Bandage: 6s
+[11/10/2021 12:59]  an ice elemental: an ice elemental
+[11/10/2021 12:59]  Stink Fist: -2
+[11/10/2021 12:59]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:59]  Stink Fist: -15
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.6.
+[11/10/2021 12:59]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.2.
+[11/10/2021 12:59]  a snow elemental: -32
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.6 (-1.2)
+[11/10/2021 12:59]  Razor: [ArmsLore] +0.1 72.2 (+0.6)
+[11/10/2021 12:59]  Razor: Bandage: 7s
+[11/10/2021 12:59]  System: Your dexterity has changed by 10.  It is now 110
+[11/10/2021 12:59]  Razor: [+Agility (120s)]
+[11/10/2021 12:59]  Razor: Dex: +10 - 110
+[11/10/2021 12:59]  Razor: [-Agility (s)]
+[11/10/2021 12:59]  Razor: [+Agility (120s)]
+[11/10/2021 12:59]  Razor: Bandage: 8s
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.5.
+[11/10/2021 12:59]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.3.
+[11/10/2021 12:59]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:59]  a snow elemental: -90
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.5 (-1.3)
+[11/10/2021 12:59]  Razor: [ArmsLore] +0.1 72.3 (+0.7)
+[11/10/2021 12:59]  System: Finished 3 queued actions in 1.2 seconds.
+[11/10/2021 12:59]  Razor: Bandage: 9s
+[11/10/2021 12:59]  a snow elemental: -25
+[11/10/2021 12:59]  Stink Fist: -13
+[11/10/2021 12:59]  System: Your fingers slip!
+[11/10/2021 12:59]  Stink Fist: -14
+[11/10/2021 12:59]  Razor: Bandage: 10s
+[11/10/2021 12:59]  System: You finish applying the bandages.
+[11/10/2021 12:59]  Stink Fist: +46
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.4.
+[11/10/2021 12:59]  System: Your skill in Healing has increased by 0.1.  It is now 71.2.
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.4 (-1.4)
+[11/10/2021 12:59]  Razor: [Healing] +0.1 71.2 (+0.1)
+[11/10/2021 12:59]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 12:59]  an ice elemental: an ice elemental
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.3.
+[11/10/2021 12:59]  System: Your skill in Tactics has increased by 0.1.  It is now 81.1.
+[11/10/2021 12:59]  a snow elemental: -44
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.3 (-1.5)
+[11/10/2021 12:59]  Razor: [Tactics] +0.1 81.1 (+0.1)
+[11/10/2021 12:59]  System: Who will you use the bandages on?
+[11/10/2021 12:59]  Razor: Healing Started
+[11/10/2021 12:59]  System: You begin applying the bandages.
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.2.
+[11/10/2021 12:59]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.4.
+[11/10/2021 12:59]  a snow elemental: -31
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.2 (-1.6)
+[11/10/2021 12:59]  Razor: [ArmsLore] +0.1 72.4 (+0.8)
+[11/10/2021 12:59]  Razor: Bandage: 1s
+[11/10/2021 12:59]  Stink Fist: -3
+[11/10/2021 12:59]  a snow elemental: -38
+[11/10/2021 12:59]  Razor: Bandage: 2s
+[11/10/2021 12:59]  System: Your fingers slip! [2]
+[11/10/2021 12:59]  an ice elemental: an ice elemental
+[11/10/2021 12:59]  Razor: Bandage: 3s
+[11/10/2021 12:59]  a snow elemental: -35
+[11/10/2021 12:59]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:59]  Razor: Bandage: 4s
+[11/10/2021 12:59]  a snow elemental: -33
+[11/10/2021 12:59]  Razor: Bandage: 5s
+[11/10/2021 12:59]  Stink Fist: -2
+[11/10/2021 12:59]  a snow elemental: -56
+[11/10/2021 12:59]  Razor: Bandage: 6s
+[11/10/2021 12:59]  an ice elemental: an ice elemental
+[11/10/2021 12:59]  Razor: Bandage: 7s
+[11/10/2021 12:59]  System: Your skill in Camping has decreased by 0.1.  It is now 70.1.
+[11/10/2021 12:59]  System: Your skill in Tactics has increased by 0.1.  It is now 81.2.
+[11/10/2021 12:59]  System: You have gained a little fame.
+[11/10/2021 12:59]  System: You have gained a little karma.
+[11/10/2021 12:59]  System: -38
+[11/10/2021 12:59]  Razor: [Camping] -0.1 70.1 (-1.7)
+[11/10/2021 12:59]  Razor: [Tactics] +0.1 81.2 (+0.2)
+[11/10/2021 12:59]  You see: a snow elemental corpse
+[11/10/2021 12:59]  Razor: Bandage: 8s
+[11/10/2021 12:59]  Razor: Bandage: 9s
+[11/10/2021 12:59]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:59]  System: You finish applying the bandages.
+[11/10/2021 12:59]  Stink Fist: +7
+[11/10/2021 12:59]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 12:59]  System: What corpse or location do you wish to carve?
+[11/10/2021 12:59]  System: You carve materials from the corpse.
+[11/10/2021 12:59]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 12:59]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 12:59]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 12:59]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 12:59]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:59]  a snow flurry: a snow flurry
+[11/10/2021 12:59]  a snow elemental: a snow elemental
+[11/10/2021 12:59]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 12:59]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:00]  Razor: Attack: a snow flurry
+[11/10/2021 13:00]  Stink Fist: -3
+[11/10/2021 13:00]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:00]  Stink Fist: -13
+[11/10/2021 13:00]  a snow flurry: -38
+[11/10/2021 13:00]  System: Who will you use the bandages on?
+[11/10/2021 13:00]  Razor: Healing Started
+[11/10/2021 13:00]  System: You begin applying the bandages.
+[11/10/2021 13:00]  Razor: Bandage: 1s
+[11/10/2021 13:00]  Razor: Bandage: 2s
+[11/10/2021 13:00]  Razor: Bandage: 3s
+[11/10/2021 13:00]  Razor: Bandage: 4s
+[11/10/2021 13:00]  Razor: Bandage: 5s
+[11/10/2021 13:00]  Razor: Bandage: 6s
+[11/10/2021 13:00]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:00]  a snow flurry: -63
+[11/10/2021 13:00]  Razor: Bandage: 7s
+[11/10/2021 13:00]  Stink Fist: -16
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  Razor: Bandage: 8s
+[11/10/2021 13:00]  System: Your skill in Camping has decreased by 0.1.  It is now 70.0.
+[11/10/2021 13:00]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 70.5.
+[11/10/2021 13:00]  Razor: [Camping] -0.1 70.0 (-1.8)
+[11/10/2021 13:00]  Razor: [MagicResist] +0.1 70.5 (+0.1)
+[11/10/2021 13:00]  Stink Fist: -9
+[11/10/2021 13:00]  a snow flurry: -34
+[11/10/2021 13:00]  Razor: Bandage: 9s
+[11/10/2021 13:00]  Stink Fist: -8
+[11/10/2021 13:00]  System: Your skill in Camping has decreased by 0.1.  It is now 69.9.
+[11/10/2021 13:00]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.1.
+[11/10/2021 13:00]  a snow flurry: -33
+[11/10/2021 13:00]  Razor: [Camping] -0.1 69.9 (-1.9)
+[11/10/2021 13:00]  Razor: [Anatomy] +0.1 72.1 (+0.3)
+[11/10/2021 13:00]  Razor: Bandage: 10s
+[11/10/2021 13:00]  System: You finish applying the bandages.
+[11/10/2021 13:00]  Stink Fist: +46
+[11/10/2021 13:00]  System: Who will you use the bandages on?
+[11/10/2021 13:00]  Razor: Healing Started
+[11/10/2021 13:00]  System: You begin applying the bandages.
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  Razor: Bandage: 1s
+[11/10/2021 13:00]  Stink Fist: -15
+[11/10/2021 13:00]  Razor: Bandage: 2s
+[11/10/2021 13:00]  Razor: Bandage: 3s
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  a snow flurry: -51
+[11/10/2021 13:00]  Razor: Bandage: 4s
+[11/10/2021 13:00]  System: [DF] A Dungeon Flashpoint for Nusero has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/10/2021 13:00]  Razor: Bandage: 5s
+[11/10/2021 13:00]  Razor: Bandage: 6s
+[11/10/2021 13:00]  a snow flurry: -28
+[11/10/2021 13:00]  Razor: Bandage: 7s
+[11/10/2021 13:00]  Razor: Bandage: 8s
+[11/10/2021 13:00]  Stink Fist: -11
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:00]  Stink Fist: -13
+[11/10/2021 13:00]  a snow flurry: -45
+[11/10/2021 13:00]  Razor: Bandage: 9s
+[11/10/2021 13:00]  System: You finish applying the bandages.
+[11/10/2021 13:00]  Stink Fist: +37
+[11/10/2021 13:00]  System: Your skill in Camping has decreased by 0.1.  It is now 69.8.
+[11/10/2021 13:00]  System: Your skill in Tactics has increased by 0.1.  It is now 81.3.
+[11/10/2021 13:00]  a snow flurry: -17
+[11/10/2021 13:00]  Razor: [Camping] -0.1 69.8 (-2.0)
+[11/10/2021 13:00]  Razor: [Tactics] +0.1 81.3 (+0.3)
+[11/10/2021 13:00]  a snow flurry: -53
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  System: Your skill in Camping has decreased by 0.1.  It is now 69.7.
+[11/10/2021 13:00]  System: Your skill in Fencing has increased by 0.1.  It is now 71.3.
+[11/10/2021 13:00]  a snow flurry: -24
+[11/10/2021 13:00]  Razor: [Camping] -0.1 69.7 (-2.1)
+[11/10/2021 13:00]  Razor: [Fencing] +0.1 71.3 (+0.4)
+[11/10/2021 13:00]  a snow flurry: -51
+[11/10/2021 13:00]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:00]  Stink Fist: -12
+[11/10/2021 13:00]  System: Who will you use the bandages on?
+[11/10/2021 13:00]  Razor: Healing Started
+[11/10/2021 13:00]  System: You begin applying the bandages.
+[11/10/2021 13:00]  Razor: Bandage: 1s
+[11/10/2021 13:00]  System: You have gained some fame.
+[11/10/2021 13:00]  System: You have gained some karma.
+[11/10/2021 13:00]  System: -1
+[11/10/2021 13:00]  You see: a snow flurry corpse
+[11/10/2021 13:00]  Razor: Bandage: 2s
+[11/10/2021 13:00]  Razor: Bandage: 3s
+[11/10/2021 13:00]  Razor: Bandage: 4s
+[11/10/2021 13:00]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:00]  Razor: Bandage: 5s
+[11/10/2021 13:00]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:00]  Razor: Bandage: 6s
+[11/10/2021 13:00]  System: You carve materials from the corpse.
+[11/10/2021 13:00]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:00]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:00]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:00]  Razor: Bandage: 7s
+[11/10/2021 13:00]  Razor: Bandage: 8s
+[11/10/2021 13:00]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:00]  Razor: Bandage: 9s
+[11/10/2021 13:00]  System: You finish applying the bandages.
+[11/10/2021 13:00]  Stink Fist: +10
+[11/10/2021 13:00]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:00]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:00]  Razor: Attack: a snow elemental
+[11/10/2021 13:00]  a snow elemental: -42
+[11/10/2021 13:00]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:00]  Stink Fist: -10
+[11/10/2021 13:00]  System: Who will you use the bandages on?
+[11/10/2021 13:00]  Razor: Healing Started
+[11/10/2021 13:00]  System: You begin applying the bandages.
+[11/10/2021 13:00]  Razor: Bandage: 1s
+[11/10/2021 13:00]  Razor: Bandage: 2s
+[11/10/2021 13:00]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:00]  a snow elemental: -56
+[11/10/2021 13:00]  Razor: Bandage: 3s
+[11/10/2021 13:00]  Stink Fist: -3
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  Razor: Bandage: 4s
+[11/10/2021 13:00]  Razor: Bandage: 5s
+[11/10/2021 13:00]  a snow elemental: -32
+[11/10/2021 13:00]  Razor: Bandage: 6s
+[11/10/2021 13:00]  a snow elemental: -29
+[11/10/2021 13:00]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:00]  Stink Fist: -10
+[11/10/2021 13:00]  Stink Fist: -11
+[11/10/2021 13:00]  Stink Fist: -14
+[11/10/2021 13:00]  System: Your fingers slip! [2]
+[11/10/2021 13:00]  Razor: Bandage: 7s
+[11/10/2021 13:00]  Razor: Bandage: 8s
+[11/10/2021 13:00]  a snow elemental: -71
+[11/10/2021 13:00]  Razor: Bandage: 9s
+[11/10/2021 13:00]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:00]  Razor: Bandage: 10s
+[11/10/2021 13:00]  System: You finish applying the bandages.
+[11/10/2021 13:00]  Stink Fist: +40
+[11/10/2021 13:00]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:00]  a snow elemental: -35
+[11/10/2021 13:00]  System: Who will you use the bandages on?
+[11/10/2021 13:00]  Razor: Healing Started
+[11/10/2021 13:00]  System: You begin applying the bandages.
+[11/10/2021 13:00]  System: Your skill in Camping has decreased by 0.1.  It is now 69.6.
+[11/10/2021 13:00]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.2.
+[11/10/2021 13:00]  a snow elemental: -42
+[11/10/2021 13:00]  Razor: [Camping] -0.1 69.6 (-2.2)
+[11/10/2021 13:00]  Razor: [Anatomy] +0.1 72.2 (+0.4)
+[11/10/2021 13:00]  Razor: Bandage: 1s
+[11/10/2021 13:00]  a snow elemental: -41
+[11/10/2021 13:00]  Stink Fist: -2
+[11/10/2021 13:00]  System: Your fingers slip!
+[11/10/2021 13:00]  Razor: Bandage: 2s
+[11/10/2021 13:00]  Razor: Bandage: 3s
+[11/10/2021 13:00]  Razor: Bandage: 4s
+[11/10/2021 13:00]  a snow elemental: -32
+[11/10/2021 13:00]  Razor: Bandage: 5s
+[11/10/2021 13:00]  Stink Fist: -8
+[11/10/2021 13:00]  a snow elemental: -34
+[11/10/2021 13:01]  Razor: Bandage: 6s
+[11/10/2021 13:01]  System: Your skill in Camping has decreased by 0.1.  It is now 69.5.
+[11/10/2021 13:01]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.5.
+[11/10/2021 13:01]  System: You have gained a little fame.
+[11/10/2021 13:01]  System: You have gained a little karma.
+[11/10/2021 13:01]  System: -24
+[11/10/2021 13:01]  Razor: [Camping] -0.1 69.5 (-2.3)
+[11/10/2021 13:01]  Razor: [ArmsLore] +0.1 72.5 (+0.9)
+[11/10/2021 13:01]  You see: a snow elemental corpse
+[11/10/2021 13:01]  Razor: Bandage: 7s
+[11/10/2021 13:01]  Razor: Bandage: 8s
+[11/10/2021 13:01]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:01]  Razor: Bandage: 9s
+[11/10/2021 13:01]  Razor: Bandage: 10s
+[11/10/2021 13:01]  System: You finish applying the bandages.
+[11/10/2021 13:01]  Stink Fist: +13
+[11/10/2021 13:01]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:01]  System: You carve materials from the corpse.
+[11/10/2021 13:01]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:01]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:01]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:01]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:01]  a snow elemental: a snow elemental
+[11/10/2021 13:01]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:01]  Razor: Attack: a frostbane acolyte
+[11/10/2021 13:01]  System: Being perfectly rested, you shove them out of the way.
+[11/10/2021 13:01]  Stink Fist: -5
+[11/10/2021 13:01]  System: Who will you use the bandages on?
+[11/10/2021 13:01]  Razor: Healing Started
+[11/10/2021 13:01]  Razor: Attack: a frostbane acolyte
+[11/10/2021 13:01]  System: Your skill in Camping has decreased by 0.1.  It is now 69.4.
+[11/10/2021 13:01]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.3.
+[11/10/2021 13:01]  Razor: [Camping] -0.1 69.4 (-2.4)
+[11/10/2021 13:01]  Razor: [Anatomy] +0.1 72.3 (+0.5)
+[11/10/2021 13:01]  System: You begin applying the bandages.
+[11/10/2021 13:01]  Razor: Bandage: 1s
+[11/10/2021 13:01]  a frostbane acolyte: -35
+[11/10/2021 13:01]  Razor: Bandage: 2s
+[11/10/2021 13:01]  System: You absorb their spell (5.6% current damage bonus).
+[11/10/2021 13:01]  a frostbane acolyte: -28
+[11/10/2021 13:01]  Stink Fist: -2
+[11/10/2021 13:01]  Razor: Bandage: 3s
+[11/10/2021 13:01]  System: Your skill in Camping has decreased by 0.1.  It is now 69.3.
+[11/10/2021 13:01]  System: Your skill in Fencing has increased by 0.1.  It is now 71.4.
+[11/10/2021 13:01]  Razor: [Camping] -0.1 69.3 (-2.5)
+[11/10/2021 13:01]  Razor: [Fencing] +0.1 71.4 (+0.5)
+[11/10/2021 13:01]  Razor: Bandage: 4s
+[11/10/2021 13:01]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:01]  a frostbane acolyte: -84
+[11/10/2021 13:01]  Razor: Bandage: 5s
+[11/10/2021 13:01]  Stink Fist: -4
+[11/10/2021 13:01]  System: Your fingers slip!
+[11/10/2021 13:01]  Razor: Bandage: 6s
+[11/10/2021 13:01]  a frostbane acolyte: -38
+[11/10/2021 13:01]  a frostbane acolyte: *raises the frozen dead*
+[11/10/2021 13:01]  Razor: Bandage: 7s
+[11/10/2021 13:01]  Razor: Bandage: 8s
+[11/10/2021 13:01]  a ghoul: a ghoul
+[11/10/2021 13:01]  Razor: Bandage: 9s
+[11/10/2021 13:01]  Razor: Bandage: 10s
+[11/10/2021 13:01]  System: You finish applying the bandages.
+[11/10/2021 13:01]  Stink Fist: +9
+[11/10/2021 13:01]  a frostbane acolyte: -39
+[11/10/2021 13:01]  a frostbane acolyte: -43
+[11/10/2021 13:01]  System: You absorb their spell (11.3% current damage bonus).
+[11/10/2021 13:01]  Stink Fist: -3
+[11/10/2021 13:01]  System: Who will you use the bandages on?
+[11/10/2021 13:01]  Razor: Healing Started
+[11/10/2021 13:01]  System: You begin applying the bandages.
+[11/10/2021 13:01]  Razor: Bandage: 1s
+[11/10/2021 13:01]  a frostbane acolyte: -36
+[11/10/2021 13:01]  System: Your skill in Camping has decreased by 0.1.  It is now 69.2.
+[11/10/2021 13:01]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 70.6.
+[11/10/2021 13:01]  Razor: [Camping] -0.1 69.2 (-2.6)
+[11/10/2021 13:01]  Razor: [MagicResist] +0.1 70.6 (+0.2)
+[11/10/2021 13:01]  Razor: Bandage: 2s
+[11/10/2021 13:01]  Stink Fist: -6
+[11/10/2021 13:01]  Stink Fist: -10
+[11/10/2021 13:01]  System: Your strength has changed by 10.  It is now 110
+[11/10/2021 13:01]  Razor: [+Strength (120s)]
+[11/10/2021 13:01]  Razor: Str: +10 - 110
+[11/10/2021 13:01]  Razor: [-Strength (s)]
+[11/10/2021 13:01]  Razor: [+Strength (120s)]
+[11/10/2021 13:01]  System: You may now use an agility potion.
+[11/10/2021 13:01]  System: Your dexterity has changed by -10.  It is now 100
+[11/10/2021 13:01]  Razor: [-Agility (s)]
+[11/10/2021 13:01]  Razor: Dex: -10 - 100
+[11/10/2021 13:01]  Razor: Bandage: 3s
+[11/10/2021 13:01]  System: You must wait to perform another action.
+[11/10/2021 13:01]  System: Finished 3 queued actions in 1.2 seconds.
+[11/10/2021 13:01]  Razor: Bandage: 4s
+[11/10/2021 13:01]  a frostbane acolyte: -24
+[11/10/2021 13:01]  Stink Fist: -3
+[11/10/2021 13:01]  System: Your fingers slip!
+[11/10/2021 13:01]  Razor: Bandage: 5s
+[11/10/2021 13:01]  Stink Fist: -5
+[11/10/2021 13:01]  Razor: Bandage: 6s
+[11/10/2021 13:01]  Razor: Bandage: 7s
+[11/10/2021 13:01]  Razor: Attack: a frostbane acolyte
+[11/10/2021 13:01]  Razor: Bandage: 8s
+[11/10/2021 13:01]  Razor: Bandage: 9s
+[11/10/2021 13:01]  Stink Fist: -12
+[11/10/2021 13:01]  a frostbane acolyte: -49
+[11/10/2021 13:01]  Razor: Bandage: 10s
+[11/10/2021 13:01]  System: You finish applying the bandages.
+[11/10/2021 13:01]  Stink Fist: +34
+[11/10/2021 13:01]  a frostbane acolyte: -43
+[11/10/2021 13:01]  Stink Fist: -2
+[11/10/2021 13:01]  System: Who will you use the bandages on?
+[11/10/2021 13:01]  Razor: Healing Started
+[11/10/2021 13:01]  System: You begin applying the bandages.
+[11/10/2021 13:01]  System: Your skill in Camping has decreased by 0.1.  It is now 69.1.
+[11/10/2021 13:01]  System: Your skill in Fencing has increased by 0.1.  It is now 71.5.
+[11/10/2021 13:01]  a frostbane acolyte: -40
+[11/10/2021 13:01]  Razor: [Camping] -0.1 69.1 (-2.7)
+[11/10/2021 13:01]  Razor: [Fencing] +0.1 71.5 (+0.6)
+[11/10/2021 13:01]  Razor: Bandage: 1s
+[11/10/2021 13:01]  Stink Fist: -12
+[11/10/2021 13:01]  System: Your fingers slip!
+[11/10/2021 13:01]  System: You absorb their spell (16.9% current damage bonus).
+[11/10/2021 13:01]  Stink Fist: -1
+[11/10/2021 13:01]  Razor: Bandage: 2s
+[11/10/2021 13:01]  Stink Fist: -4
+[11/10/2021 13:01]  Razor: Bandage: 3s
+[11/10/2021 13:01]  Razor: Bandage: 4s
+[11/10/2021 13:01]  System: Your fingers slip! [2]
+[11/10/2021 13:01]  Razor: Bandage: 5s
+[11/10/2021 13:01]  Razor: Bandage: 6s
+[11/10/2021 13:01]  Stink Fist: -1
+[11/10/2021 13:01]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:01]  System: You have gained some fame.
+[11/10/2021 13:01]  System: You have gained some karma.
+[11/10/2021 13:01]  System: -41
+[11/10/2021 13:01]  You see: a frostbane acolyte corpse
+[11/10/2021 13:01]  You see: a ghoul corpse
+[11/10/2021 13:01]  Razor: Bandage: 7s
+[11/10/2021 13:01]  System: You must wait to perform another action.
+[11/10/2021 13:01]  Razor: Bandage: 8s
+[11/10/2021 13:01]  Razor: Bandage: 9s
+[11/10/2021 13:01]  System: You finish applying the bandages.
+[11/10/2021 13:01]  Stink Fist: +30
+[11/10/2021 13:01]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:01]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:01]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:01]  System: You carve materials from the corpse.
+[11/10/2021 13:01]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:01]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:01]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:01]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:01]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:01]  a snowdrift: a snowdrift
+[11/10/2021 13:01]  a snow elemental: a snow elemental
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:02]  You see: a snow flurry corpse
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  You see: a snowdrift corpse
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a snowdrift: a snowdrift
+[11/10/2021 13:02]  an ice elemental: an ice elemental
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a snowdrift: a snowdrift
+[11/10/2021 13:02]  You see: a snow flurry corpse
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  Razor: Attack: a frostbane acolyte
+[11/10/2021 13:02]  a frostbane acolyte: -24
+[11/10/2021 13:02]  a snowdrift: a snowdrift
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  Stink Fist: -8
+[11/10/2021 13:02]  System: Who will you use the bandages on?
+[11/10/2021 13:02]  Razor: Healing Started
+[11/10/2021 13:02]  System: You begin applying the bandages.
+[11/10/2021 13:02]  Razor: Bandage: 1s
+[11/10/2021 13:02]  a frostbane acolyte: -34
+[11/10/2021 13:02]  Razor: Bandage: 2s
+[11/10/2021 13:02]  Stink Fist: -6
+[11/10/2021 13:02]  System: Your fingers slip!
+[11/10/2021 13:02]  a frostbane acolyte: -36
+[11/10/2021 13:02]  Razor: Bandage: 3s
+[11/10/2021 13:02]  a frostbane acolyte: -33
+[11/10/2021 13:02]  Razor: Bandage: 4s
+[11/10/2021 13:02]  Razor: Bandage: 5s
+[11/10/2021 13:02]  Razor: Bandage: 6s
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  Stink Fist: -8
+[11/10/2021 13:02]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:02]  a frostbane acolyte: -64
+[11/10/2021 13:02]  a frostbane acolyte: *raises the frozen dead*
+[11/10/2021 13:02]  Razor: Bandage: 7s
+[11/10/2021 13:02]  a frostbane acolyte: -41
+[11/10/2021 13:02]  Razor: Bandage: 8s
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  Razor: Bandage: 9s
+[11/10/2021 13:02]  a frostbane acolyte: -54
+[11/10/2021 13:02]  a ghoul: a ghoul
+[11/10/2021 13:02]  Razor: Bandage: 10s
+[11/10/2021 13:02]  System: You finish applying the bandages.
+[11/10/2021 13:02]  Stink Fist: +20
+[11/10/2021 13:02]  a frostbane acolyte: -33
+[11/10/2021 13:02]  a frostbane acolyte: -26
+[11/10/2021 13:02]  System: Your skill in Camping has decreased by 0.1.  It is now 69.0.
+[11/10/2021 13:02]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 70.7.
+[11/10/2021 13:02]  Razor: [Camping] -0.1 69.0 (-2.8)
+[11/10/2021 13:02]  Razor: [MagicResist] +0.1 70.7 (+0.3)
+[11/10/2021 13:02]  Stink Fist: -11
+[11/10/2021 13:02]  System: Who will you use the bandages on?
+[11/10/2021 13:02]  Razor: Healing Started
+[11/10/2021 13:02]  System: You begin applying the bandages.
+[11/10/2021 13:02]  System: Your attack cripples your target, lowering their defense! [2]
+[11/10/2021 13:02]  Stink Fist: -1
+[11/10/2021 13:02]  System: Your fingers slip!
+[11/10/2021 13:02]  Razor: Bandage: 1s
+[11/10/2021 13:02]  a frostbane acolyte: -52
+[11/10/2021 13:02]  Razor: Bandage: 2s
+[11/10/2021 13:02]  System: Being perfectly rested, you shove them out of the way.
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  a frostbane acolyte: -34
+[11/10/2021 13:02]  System: You parry the spell.
+[11/10/2021 13:02]  Stink Fist: -2
+[11/10/2021 13:02]  Razor: Bandage: 3s
+[11/10/2021 13:02]  a frostbane acolyte: -34
+[11/10/2021 13:02]  Razor: Bandage: 4s
+[11/10/2021 13:02]  System: Your fingers slip!
+[11/10/2021 13:02]  Stink Fist: -1
+[11/10/2021 13:02]  Razor: Bandage: 5s
+[11/10/2021 13:02]  System: Your skill in Camping has decreased by 0.1.  It is now 68.9.
+[11/10/2021 13:02]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.6.
+[11/10/2021 13:02]  Razor: [Camping] -0.1 68.9 (-2.9)
+[11/10/2021 13:02]  Razor: [ArmsLore] +0.1 72.6 (+1.0)
+[11/10/2021 13:02]  System: You parry the spell.
+[11/10/2021 13:02]  Razor: Bandage: 6s
+[11/10/2021 13:02]  Stink Fist: -6
+[11/10/2021 13:02]  System: You have gained some fame.
+[11/10/2021 13:02]  System: You have gained some karma.
+[11/10/2021 13:02]  System: -35
+[11/10/2021 13:02]  You see: a frostbane acolyte corpse
+[11/10/2021 13:02]  You see: a ghoul corpse
+[11/10/2021 13:02]  Razor: Bandage: 7s
+[11/10/2021 13:02]  System: Your fingers slip! [2]
+[11/10/2021 13:02]  Razor: Bandage: 8s
+[11/10/2021 13:02]  Razor: Bandage: 9s
+[11/10/2021 13:02]  Razor: Bandage: 10s
+[11/10/2021 13:02]  System: You finish applying the bandages.
+[11/10/2021 13:02]  Stink Fist: +19
+[11/10/2021 13:02]  System: Your skill in Camping has decreased by 0.1.  It is now 68.8.
+[11/10/2021 13:02]  System: Your skill in Healing has increased by 0.1.  It is now 71.3.
+[11/10/2021 13:02]  Razor: [Camping] -0.1 68.8 (-3.0)
+[11/10/2021 13:02]  Razor: [Healing] +0.1 71.3 (+0.2)
+[11/10/2021 13:02]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:02]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:02]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:02]  System: You carve materials from the corpse.
+[11/10/2021 13:02]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:02]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:02]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:02]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:02]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  an ice elemental: an ice elemental
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a snowdrift: a snowdrift
+[11/10/2021 13:02]  an ice elemental: an ice elemental
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  a snowdrift: a snowdrift
+[11/10/2021 13:02]  You see: a snow elemental corpse
+[11/10/2021 13:02]  You see: a snow flurry corpse
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:02]  a snowdrift: a snowdrift
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:02]  Razor: Attack: a snowdrift
+[11/10/2021 13:02]  Stink Fist: -12
+[11/10/2021 13:02]  System: Who will you use the bandages on?
+[11/10/2021 13:02]  Razor: Healing Started
+[11/10/2021 13:02]  System: You begin applying the bandages.
+[11/10/2021 13:02]  Razor: Bandage: 1s
+[11/10/2021 13:02]  a snowdrift: -36
+[11/10/2021 13:02]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:02]  Stink Fist: -11
+[11/10/2021 13:02]  Razor: Bandage: 2s
+[11/10/2021 13:02]  a snowdrift: *regens*
+[11/10/2021 13:02]  Razor: Bandage: 3s
+[11/10/2021 13:02]  Stink Fist: -7
+[11/10/2021 13:02]  System: Your fingers slip!
+[11/10/2021 13:02]  Razor: Bandage: 4s
+[11/10/2021 13:02]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:02]  a snowdrift: -71
+[11/10/2021 13:02]  Razor: Bandage: 5s
+[11/10/2021 13:02]  Razor: Bandage: 6s
+[11/10/2021 13:03]  Stink Fist: -13
+[11/10/2021 13:03]  System: Your fingers slip!
+[11/10/2021 13:03]  Razor: Bandage: 7s
+[11/10/2021 13:03]  Razor: Bandage: 8s
+[11/10/2021 13:03]  Razor: Bandage: 9s
+[11/10/2021 13:03]  System: You finish applying the bandages.
+[11/10/2021 13:03]  Stink Fist: +38
+[11/10/2021 13:03]  a snowdrift: -59
+[11/10/2021 13:03]  System: Who will you use the bandages on?
+[11/10/2021 13:03]  Razor: Healing Started
+[11/10/2021 13:03]  System: You begin applying the bandages.
+[11/10/2021 13:03]  Razor: Bandage: 1s
+[11/10/2021 13:03]  Razor: Bandage: 2s
+[11/10/2021 13:03]  a snowdrift: -27
+[11/10/2021 13:03]  Razor: Bandage: 3s
+[11/10/2021 13:03]  System: You have gained a little fame.
+[11/10/2021 13:03]  System: You have gained a little karma.
+[11/10/2021 13:03]  System: -32
+[11/10/2021 13:03]  You see: a snowdrift corpse
+[11/10/2021 13:03]  Razor: Bandage: 4s
+[11/10/2021 13:03]  Razor: Bandage: 5s
+[11/10/2021 13:03]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:03]  Razor: Bandage: 6s
+[11/10/2021 13:03]  Razor: Bandage: 7s
+[11/10/2021 13:03]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:03]  Razor: Bandage: 8s
+[11/10/2021 13:03]  System: You carve materials from the corpse.
+[11/10/2021 13:03]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:03]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:03]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:03]  Razor: Bandage: 9s
+[11/10/2021 13:03]  Razor: Bandage: 10s
+[11/10/2021 13:03]  System: You heal what little damage you had.
+[11/10/2021 13:03]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:03]  Razor: Attack: a frostbane acolyte
+[11/10/2021 13:03]  a frostbane acolyte: -56
+[11/10/2021 13:03]  a frostbane acolyte: *raises the frozen dead*
+[11/10/2021 13:03]  System: You may now use a strength potion.
+[11/10/2021 13:03]  System: Your strength has changed by -10.  It is now 100
+[11/10/2021 13:03]  Razor: [-Strength (s)]
+[11/10/2021 13:03]  Razor: Str: -10 - 100
+[11/10/2021 13:03]  Stink Fist: -5
+[11/10/2021 13:03]  System: Who will you use the bandages on?
+[11/10/2021 13:03]  Razor: Healing Started
+[11/10/2021 13:03]  System: You begin applying the bandages.
+[11/10/2021 13:03]  a frostbane acolyte: -38
+[11/10/2021 13:03]  a zombie: a zombie
+[11/10/2021 13:03]  Razor: Bandage: 1s
+[11/10/2021 13:03]  System: Your skill in Camping has decreased by 0.1.  It is now 68.7.
+[11/10/2021 13:03]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.7.
+[11/10/2021 13:03]  a frostbane acolyte: -37
+[11/10/2021 13:03]  Razor: [Camping] -0.1 68.7 (-3.1)
+[11/10/2021 13:03]  Razor: [ArmsLore] +0.1 72.7 (+1.1)
+[11/10/2021 13:03]  Razor: Bandage: 2s
+[11/10/2021 13:03]  System: You absorb their spell (16.9% current damage bonus).
+[11/10/2021 13:03]  Razor: Bandage: 3s
+[11/10/2021 13:03]  Stink Fist: -1
+[11/10/2021 13:03]  Razor: Bandage: 4s
+[11/10/2021 13:03]  Stink Fist: -2
+[11/10/2021 13:03]  System: Your skill in Camping has decreased by 0.1.  It is now 68.6.
+[11/10/2021 13:03]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.8.
+[11/10/2021 13:03]  Razor: [Camping] -0.1 68.6 (-3.2)
+[11/10/2021 13:03]  Razor: [ArmsLore] +0.1 72.8 (+1.2)
+[11/10/2021 13:03]  Razor: Bandage: 5s
+[11/10/2021 13:03]  Razor: Bandage: 6s
+[11/10/2021 13:03]  Stink Fist: -6
+[11/10/2021 13:03]  System: Your fingers slip!
+[11/10/2021 13:03]  a frostbane acolyte: -45
+[11/10/2021 13:03]  Razor: Bandage: 7s
+[11/10/2021 13:03]  Razor: Bandage: 8s
+[11/10/2021 13:03]  a frostbane acolyte: -42
+[11/10/2021 13:03]  Razor: Bandage: 9s
+[11/10/2021 13:03]  Stink Fist: -2
+[11/10/2021 13:03]  a frostbane acolyte: -42
+[11/10/2021 13:03]  Razor: Bandage: 10s
+[11/10/2021 13:03]  System: You finish applying the bandages.
+[11/10/2021 13:03]  Stink Fist: +14
+[11/10/2021 13:03]  System: Your fingers slip!
+[11/10/2021 13:03]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:03]  a frostbane acolyte: -72
+[11/10/2021 13:03]  System: Your skill in Camping has decreased by 0.1.  It is now 68.5.
+[11/10/2021 13:03]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 70.8.
+[11/10/2021 13:03]  Razor: [Camping] -0.1 68.5 (-3.3)
+[11/10/2021 13:03]  Razor: [MagicResist] +0.1 70.8 (+0.4)
+[11/10/2021 13:03]  Stink Fist: -8
+[11/10/2021 13:03]  Stink Fist: -2
+[11/10/2021 13:03]  System: Who will you use the bandages on?
+[11/10/2021 13:03]  Razor: Healing Started
+[11/10/2021 13:03]  System: You begin applying the bandages.
+[11/10/2021 13:03]  a frostbane acolyte: -32
+[11/10/2021 13:03]  Razor: Bandage: 1s
+[11/10/2021 13:03]  a frostbane acolyte: -54
+[11/10/2021 13:03]  Razor: Bandage: 2s
+[11/10/2021 13:03]  Stink Fist: -5
+[11/10/2021 13:03]  System: Your fingers slip!
+[11/10/2021 13:03]  a frostbane acolyte: -46
+[11/10/2021 13:03]  Razor: Bandage: 3s
+[11/10/2021 13:03]  Stink Fist: -3
+[11/10/2021 13:03]  System: Your attack cripples your target, lowering their defense! [2]
+[11/10/2021 13:03]  Razor: Bandage: 4s
+[11/10/2021 13:03]  a frostbane acolyte: -32
+[11/10/2021 13:03]  Razor: Bandage: 5s
+[11/10/2021 13:03]  Stink Fist: -4
+[11/10/2021 13:03]  Razor: Bandage: 6s
+[11/10/2021 13:03]  System: Your fingers slip! [2]
+[11/10/2021 13:03]  Stink Fist: -5
+[11/10/2021 13:03]  Razor: Bandage: 7s
+[11/10/2021 13:03]  Razor: Bandage: 8s
+[11/10/2021 13:03]  System: You have gained some fame.
+[11/10/2021 13:03]  System: You have gained some karma.
+[11/10/2021 13:03]  System: -4
+[11/10/2021 13:03]  You see: a frostbane acolyte corpse
+[11/10/2021 13:03]  You see: a rotting corpse
+[11/10/2021 13:03]  Razor: Bandage: 9s
+[11/10/2021 13:03]  System: You must wait to perform another action.
+[11/10/2021 13:03]  Razor: Bandage: 10s
+[11/10/2021 13:03]  System: You finish applying the bandages.
+[11/10/2021 13:03]  Stink Fist: +25
+[11/10/2021 13:03]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:03]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:04]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:04]  System: You carve materials from the corpse.
+[11/10/2021 13:04]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:04]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:04]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:04]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:04]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:04]  a snowdrift: a snowdrift
+[11/10/2021 13:04]  Razor: Attack: a frostbane acolyte
+[11/10/2021 13:04]  a frostbane acolyte: -43
+[11/10/2021 13:04]  Stink Fist: -3
+[11/10/2021 13:04]  System: Who will you use the bandages on?
+[11/10/2021 13:04]  Razor: Healing Started
+[11/10/2021 13:04]  System: You begin applying the bandages.
+[11/10/2021 13:04]  a frostbane acolyte: -51
+[11/10/2021 13:04]  Razor: Bandage: 1s
+[11/10/2021 13:04]  a frostbane acolyte: -30
+[11/10/2021 13:04]  Razor: Bandage: 2s
+[11/10/2021 13:04]  a frostbane acolyte: -33
+[11/10/2021 13:04]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:04]  Razor: Bandage: 3s
+[11/10/2021 13:04]  Stink Fist: -4
+[11/10/2021 13:04]  System: Your fingers slip!
+[11/10/2021 13:04]  a frostbane acolyte: -47
+[11/10/2021 13:04]  Razor: Bandage: 4s
+[11/10/2021 13:04]  a frostbane acolyte: *raises the frozen dead*
+[11/10/2021 13:04]  Razor: Bandage: 5s
+[11/10/2021 13:04]  a frostbane acolyte: -50
+[11/10/2021 13:04]  Razor: Bandage: 6s
+[11/10/2021 13:04]  a frostbane acolyte: -26
+[11/10/2021 13:04]  a ghoul: a ghoul
+[11/10/2021 13:04]  Razor: Bandage: 7s
+[11/10/2021 13:04]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:04]  a frostbane acolyte: -78
+[11/10/2021 13:04]  Razor: Bandage: 8s
+[11/10/2021 13:04]  Razor: Bandage: 9s
+[11/10/2021 13:04]  System: Being perfectly rested, you shove them out of the way.
+[11/10/2021 13:04]  Stink Fist: -5
+[11/10/2021 13:04]  Razor: Bandage: 10s
+[11/10/2021 13:04]  System: You finish applying the bandages.
+[11/10/2021 13:04]  Stink Fist: +10
+[11/10/2021 13:04]  System: Your skill in Camping has decreased by 0.1.  It is now 68.4.
+[11/10/2021 13:04]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.4.
+[11/10/2021 13:04]  Razor: [Camping] -0.1 68.4 (-3.4)
+[11/10/2021 13:04]  Razor: [Anatomy] +0.1 72.4 (+0.6)
+[11/10/2021 13:04]  a frostbane acolyte: -65
+[11/10/2021 13:04]  a frostbane acolyte: -70
+[11/10/2021 13:04]  Stink Fist: -9
+[11/10/2021 13:04]  System: Who will you use the bandages on?
+[11/10/2021 13:04]  Razor: Healing Started
+[11/10/2021 13:04]  System: You begin applying the bandages.
+[11/10/2021 13:04]  System: You have gained some fame.
+[11/10/2021 13:04]  System: You have gained some karma.
+[11/10/2021 13:04]  System: -7
+[11/10/2021 13:04]  You see: a frostbane acolyte corpse
+[11/10/2021 13:04]  You see: a ghoul corpse
+[11/10/2021 13:04]  Razor: Bandage: 1s
+[11/10/2021 13:04]  System: Your attack cripples your target, lowering their defense! [2]
+[11/10/2021 13:04]  Razor: Bandage: 2s
+[11/10/2021 13:04]  Razor: Bandage: 3s
+[11/10/2021 13:04]  Razor: Bandage: 4s
+[11/10/2021 13:04]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:04]  Razor: Bandage: 5s
+[11/10/2021 13:04]  Razor: Bandage: 6s
+[11/10/2021 13:04]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:04]  Razor: Bandage: 7s
+[11/10/2021 13:04]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:04]  System: You carve materials from the corpse.
+[11/10/2021 13:04]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:04]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:04]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:04]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:04]  Razor: Bandage: 8s
+[11/10/2021 13:04]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:04]  Razor: Bandage: 9s
+[11/10/2021 13:04]  System: You finish applying the bandages.
+[11/10/2021 13:04]  Stink Fist: +7
+[11/10/2021 13:04]  Razor: Bandage: 10s
+[11/10/2021 13:04]  a snowdrift: a snowdrift
+[11/10/2021 13:04]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:04]  You see: a snow elemental corpse
+[11/10/2021 13:04]  You see: a ghoul corpse
+[11/10/2021 13:04]  a frostbane acolyte: a frostbane acolyte
+[11/10/2021 13:04]  You see: a frostbane acolyte corpse
+[11/10/2021 13:04]  a snow elemental: a snow elemental
+[11/10/2021 13:04]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:04]  a snowdrift: a snowdrift
+[11/10/2021 13:04]  Razor: Attack: a snow elemental
+[11/10/2021 13:04]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:04]  a snow elemental: -39
+[11/10/2021 13:04]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:04]  Stink Fist: -12
+[11/10/2021 13:04]  System: Who will you use the bandages on?
+[11/10/2021 13:04]  Razor: Healing Started
+[11/10/2021 13:04]  System: You begin applying the bandages.
+[11/10/2021 13:04]  Razor: Bandage: 1s
+[11/10/2021 13:04]  Razor: Bandage: 2s
+[11/10/2021 13:04]  a snow elemental: -39
+[11/10/2021 13:04]  Razor: Bandage: 3s
+[11/10/2021 13:04]  a snow elemental: -46
+[11/10/2021 13:04]  Stink Fist: -11
+[11/10/2021 13:04]  Razor: Bandage: 4s
+[11/10/2021 13:04]  You see: a snow elemental corpse
+[11/10/2021 13:04]  Razor: Bandage: 5s
+[11/10/2021 13:04]  Razor: Bandage: 6s
+[11/10/2021 13:04]  a snow elemental: -36
+[11/10/2021 13:04]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:04]  Razor: Bandage: 7s
+[11/10/2021 13:04]  You see: a ghoul corpse
+[11/10/2021 13:04]  You see: a frostbane acolyte corpse
+[11/10/2021 13:04]  Razor: Bandage: 8s
+[11/10/2021 13:04]  a snow elemental: -44
+[11/10/2021 13:04]  System: You feel chilled and your metabolism slowed!
+[11/10/2021 13:04]  Stink Fist: -11
+[11/10/2021 13:04]  System: Your fingers slip!
+[11/10/2021 13:04]  Razor: Bandage: 9s
+[11/10/2021 13:04]  Razor: Bandage: 10s
+[11/10/2021 13:04]  System: You finish applying the bandages.
+[11/10/2021 13:04]  Stink Fist: +32
+[11/10/2021 13:04]  a snow elemental: -31
+[11/10/2021 13:04]  Stink Fist: -15
+[11/10/2021 13:04]  System: Who will you use the bandages on?
+[11/10/2021 13:04]  Razor: Healing Started
+[11/10/2021 13:04]  System: You begin applying the bandages.
+[11/10/2021 13:04]  a snow elemental: -46
+[11/10/2021 13:04]  Razor: Bandage: 1s
+[11/10/2021 13:04]  Razor: Bandage: 2s
+[11/10/2021 13:05]  Stink Fist: -3
+[11/10/2021 13:05]  System: Your fingers slip!
+[11/10/2021 13:05]  Razor: Bandage: 3s
+[11/10/2021 13:05]  Razor: Bandage: 4s
+[11/10/2021 13:05]  Razor: Bandage: 5s
+[11/10/2021 13:05]  a snow elemental: -37
+[11/10/2021 13:05]  Razor: Bandage: 6s
+[11/10/2021 13:05]  a snow elemental: -34
+[11/10/2021 13:05]  Razor: Bandage: 7s
+[11/10/2021 13:05]  a snow elemental: -29
+[11/10/2021 13:05]  Razor: Bandage: 8s
+[11/10/2021 13:05]  Razor: Bandage: 9s
+[11/10/2021 13:05]  Stink Fist: -7
+[11/10/2021 13:05]  System: Your fingers slip!
+[11/10/2021 13:05]  Razor: Bandage: 10s
+[11/10/2021 13:05]  System: You finish applying the bandages.
+[11/10/2021 13:05]  Stink Fist: +23
+[11/10/2021 13:05]  System: You have gained a little fame.
+[11/10/2021 13:05]  System: You have gained a little karma.
+[11/10/2021 13:05]  System: -57
+[11/10/2021 13:05]  You see: a snow elemental corpse
+[11/10/2021 13:05]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:05]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:05]  System: You carve materials from the corpse.
+[11/10/2021 13:05]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:05]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:05]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:05]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:05]  System: Playing Macro 'Escape'...
+[11/10/2021 13:05]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.3.
+[11/10/2021 13:05]  Stink Fist: Kal Ort Por [Recall]
+[11/10/2021 13:05]  System: You are now under the protection of the town guards.
+[11/10/2021 13:05]  an andarian mage: an andarian mage
+[11/10/2021 13:05]  Candida: Candida the cobbler
+[11/10/2021 13:05]  Leiko: Leiko the tinker
+[11/10/2021 13:05]  System: No item of type halberd (143E) found!
+[11/10/2021 13:05]  System: Macro 'Escape' finished.
+[11/10/2021 13:05]  System: 2 item(s) queued to be equipped.
+[11/10/2021 13:05]  System: Your skill in Tactics has increased by 10.0.  It is now 81.3.
+[11/10/2021 13:05]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 13:05]  mr lumber: [Recruit, CFC]
+[11/10/2021 13:05]  mr lumber: mr lumber
+[11/10/2021 13:05]  Stoyan: Stoyan the tinker
+[11/10/2021 13:05]  Bart: Bart the Town Crier
+[11/10/2021 13:05]  ZhuYukWing: ZhuYukWing
+[11/10/2021 13:05]  TankTank: (bonded)
+[11/10/2021 13:05]  TankTank: TankTank
+[11/10/2021 13:05]  BirdBB: (bonded)
+[11/10/2021 13:05]  BirdBB: BirdBB
+[11/10/2021 13:05]  Hocus Pocus: Hocus Pocus
+[11/10/2021 13:05]  Tolmet: Tolmet
+[11/10/2021 13:05]  Killian: Killian the jeweler
+[11/10/2021 13:05]  Hello Fresh: Domesticator
+[11/10/2021 13:05]  Hello Fresh: [Loyal, NKB]
+[11/10/2021 13:05]  Hello Fresh: Hello Fresh
+[11/10/2021 13:05]  Daytime: (bonded)
+[11/10/2021 13:05]  Daytime: Daytime
+[11/10/2021 13:05]  a dog: a dog
+[11/10/2021 13:05]  a cat: a cat
+[11/10/2021 13:05]  System: Opening door...
+[11/10/2021 13:05]  Killian: Killian the jeweler
+[11/10/2021 13:05]  Killian: You have nothing I would be interested in.
+[11/10/2021 13:05]  Hello Fresh: vendor sell
+[11/10/2021 13:05]  ZhuYukWing: ZhuYukWing
+[11/10/2021 13:05]  TankTank: (bonded)
+[11/10/2021 13:05]  TankTank: TankTank
+[11/10/2021 13:05]  BirdBB: (bonded)
+[11/10/2021 13:05]  BirdBB: BirdBB
+[11/10/2021 13:05]  Hocus Pocus: Hocus Pocus
+[11/10/2021 13:05]  an andarian mage: an andarian mage
+[11/10/2021 13:05]  mr lumber: [Recruit, CFC]
+[11/10/2021 13:05]  mr lumber: mr lumber
+[11/10/2021 13:05]  Tolmet: Tolmet
+[11/10/2021 13:05]  Bart: Bart the Town Crier
+[11/10/2021 13:05]  Roi: Roi the banker
+[11/10/2021 13:05]  Britta: Britta the banker
+[11/10/2021 13:05]  Orlantha: Orlantha the banker
+[11/10/2021 13:05]  Lupisregina: (bonded)
+[11/10/2021 13:05]  Lupisregina: Lupisregina
+[11/10/2021 13:05]  Ossuary Oracle: Guardian of Ossuary
+[11/10/2021 13:05]  Ossuary Oracle: [Golden Sun, ***]
+[11/10/2021 13:05]  Ossuary Oracle: Ossuary Oracle
+[11/10/2021 13:05]  System: Playing Macro 'say'...
+[11/10/2021 13:05]  System: Macro 'say' finished.
+[11/10/2021 13:05]  Stink Fist: bank guards i ban thee
+[11/10/2021 13:05]  Stink Fist: Items: 11/125
+[11/10/2021 13:05]  Stink Fist: Total Weight: 87
+[11/10/2021 13:05]  You see: gold coin : 4834
+[11/10/2021 13:05]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.3.
+[11/10/2021 13:05]  Stink Fist: Kal Ort Por [Recall]
+[11/10/2021 13:05]  System: You have left the protection of the town guards.
+[11/10/2021 13:05]  a giant rat: a giant rat
+[11/10/2021 13:05]  an eagle: an eagle
+[11/10/2021 13:05]  System: 2 item(s) queued to be equipped.
+[11/10/2021 13:06]  System: Your skill in Tactics has increased by 10.0.  It is now 81.3.
+[11/10/2021 13:06]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 13:06]  System: Opening door...
+[11/10/2021 13:06]  System: Your house and its contents have been refreshed. 29 days 20 hours 9 minutes remaining until owner refresh required.
+[11/10/2021 13:06]  : flagstones
+[11/10/2021 13:06]  System: Where will you search?
+[11/10/2021 13:06]  System: You search the home and find no one hiding within.
+[11/10/2021 13:06]  an eagle: an eagle
+[11/10/2021 13:06]  a giant rat: a giant rat
+[11/10/2021 13:06]  an eagle: an eagle
+[11/10/2021 13:06]  System: Organize Agent queued 4 item(s) to be moved. (This may take a few moments)
+[11/10/2021 13:06]  System: Finished 4 queued actions in 1.8 seconds.
+[11/10/2021 13:06]  System: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[11/10/2021 13:06]  System: Finished 3 queued actions in 1.2 seconds.
+[11/10/2021 13:06]  System: Warning: ribs amount is now 0!
+[11/10/2021 13:06]  You see: bottle : 5
+[11/10/2021 13:06]  System: You pour some of the keg's contents into an empty bottle...
+[11/10/2021 13:06]  System: ...and place it into your backpack.
+[11/10/2021 13:06]  System: ...and place it into your backpack. [2]
+[11/10/2021 13:06]  System: ...and place it into your backpack. [2]
+[11/10/2021 13:06]  System: You pour some of the keg's contents into an empty bottle... [4]
+[11/10/2021 13:07]  System: Playing Macro 'Escape'...
+[11/10/2021 13:07]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.3.
+[11/10/2021 13:07]  Stink Fist: Kal Ort Por [Recall]
+[11/10/2021 13:07]  System: You are now under the protection of the town guards.
+[11/10/2021 13:07]  an andarian mage: an andarian mage
+[11/10/2021 13:07]  Candida: Candida the cobbler
+[11/10/2021 13:07]  Leiko: Leiko the tinker
+[11/10/2021 13:07]  System: No item of type halberd (143E) found!
+[11/10/2021 13:07]  System: Macro 'Escape' finished.
+[11/10/2021 13:07]  System: 2 item(s) queued to be equipped.
+[11/10/2021 13:07]  System: Your skill in Tactics has increased by 10.0.  It is now 81.3.
+[11/10/2021 13:07]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 13:07]  Greger: Greger the cook
+[11/10/2021 13:07]  Nelson: Nelson the baker
+[11/10/2021 13:07]  Budo: Budo the stablemaster
+[11/10/2021 13:07]  an andarian marksman: an andarian marksman
+[11/10/2021 13:07]  Iain: Iain the innkeeper
+[11/10/2021 13:07]  a dog: a dog
+[11/10/2021 13:07]  Mercer: Mercer the blacksmith
+[11/10/2021 13:07]  Bethany: Bethany the weaponsmith
+[11/10/2021 13:07]  a cat: a cat
+[11/10/2021 13:07]  a dog: a dog
+[11/10/2021 13:07]  Gunther: Gunther the tailor
+[11/10/2021 13:07]  Bane: Bane the tanner
+[11/10/2021 13:07]  Cole Locke: [Veteran, MR]
+[11/10/2021 13:07]  Cole Locke: Cole Locke
+[11/10/2021 13:07]  Kelvin: Kelvin the tinker
+[11/10/2021 13:07]  Anna: Anna the tanner
+[11/10/2021 13:07]  Ammon: Ammon the tanner
+[11/10/2021 13:07]  Morgan: Morgan the farmer
+[11/10/2021 13:07]  Standford: Standford the cook
+[11/10/2021 13:07]  Roxanne: Roxanne the cobbler
+[11/10/2021 13:07]  Elad: Elad the beekeeper
+[11/10/2021 13:07]  a dog: a dog
+[11/10/2021 13:07]  Prescot: Prescot the tailor
+[11/10/2021 13:07]  Ama: Ama the provisioner
+[11/10/2021 13:07]  an andarian footman: an andarian footman
+[11/10/2021 13:07]  a dog: a dog
+[11/10/2021 13:07]  an andarian footman: an andarian footman
+[11/10/2021 13:07]  Rhodanthe: Rhodanthe the cook
+[11/10/2021 13:07]  an andarian marksman: an andarian marksman
+[11/10/2021 13:07]  Shen: Shen the mapmaker
+[11/10/2021 13:07]  Alden: Alden the stablemaster
+[11/10/2021 13:07]  a cat: a cat
+[11/10/2021 13:07]  Caroline: Caroline the fisherman
+[11/10/2021 13:07]  Aristotle: Aristotle the stablemaster
+[11/10/2021 13:07]  Rendor: Rendor the fisherman
+[11/10/2021 13:07]  System: You have left the protection of the town guards.
+[11/10/2021 13:07]  a giant rat: a giant rat
+[11/10/2021 13:07]  a horse: a horse
+[11/10/2021 13:07]  a nuthatch: a nuthatch
+[11/10/2021 13:07]  a magpie: a magpie
+[11/10/2021 13:07]  System: Playing Macro 'Healing'...
+[11/10/2021 13:07]  an eagle: an eagle
+[11/10/2021 13:07]  a giant rat: a giant rat
+[11/10/2021 13:07]  AnswerNet: AnswerNet
+[11/10/2021 13:07]  a magpie: a magpie
+[11/10/2021 13:07]  a giant rat: a giant rat
+[11/10/2021 13:07]  an eagle: an eagle
+[11/10/2021 13:07]  Razor: Attack: a giant rat
+[11/10/2021 13:07]  a giant rat: -43
+[11/10/2021 13:07]  a giant rat: -38
+[11/10/2021 13:07]  System: You have gained a little fame.
+[11/10/2021 13:07]  System: You have gained a little karma.
+[11/10/2021 13:07]  System: -38
+[11/10/2021 13:07]  You see: a giant rat corpse
+[11/10/2021 13:08]  AnswerNet: AnswerNet
+[11/10/2021 13:08]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:08]  Razor: Target: Stink Fist
+[11/10/2021 13:08]  System: You carve materials from the corpse.
+[11/10/2021 13:08]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:08]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:08]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:08]  System: Azazel Ra'kar has completed the achievement: Construct Slayer (Basic).
+[11/10/2021 13:08]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:08]  a magpie: a magpie
+[11/10/2021 13:08]  a frenzied gladiator: a frenzied gladiator
+[11/10/2021 13:08]  a black bear: a black bear
+[11/10/2021 13:08]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:08]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:08]  Bardinio: Envoy
+[11/10/2021 13:08]  Bardinio: Lord Bardinio
+[11/10/2021 13:08]  a gargoyle: a gargoyle
+[11/10/2021 13:08]  a ghostly lumberjack: a ghostly lumberjack
+[11/10/2021 13:08]  a skeletal woodsman: *looks calmed*
+[11/10/2021 13:08]  a skeletal woodsman: *chops*
+[11/10/2021 13:08]  a ghostly foreman: a ghostly foreman
+[11/10/2021 13:08]  a gargoyle: a gargoyle
+[11/10/2021 13:08]  Razor: Attack: a ghostly lumberjack
+[11/10/2021 13:08]  Stink Fist: -3
+[11/10/2021 13:08]  System: Your skill in Camping has decreased by 0.1.  It is now 68.3.
+[11/10/2021 13:08]  System: Your skill in Arms Lore has increased by 0.1.  It is now 72.9.
+[11/10/2021 13:08]  a ghostly lumberjack: -41
+[11/10/2021 13:08]  Razor: [Camping] -0.1 68.3 (-3.5)
+[11/10/2021 13:08]  Razor: [ArmsLore] +0.1 72.9 (+1.3)
+[11/10/2021 13:08]  System: Who will you use the bandages on?
+[11/10/2021 13:08]  Razor: Healing Started
+[11/10/2021 13:08]  System: You begin applying the bandages.
+[11/10/2021 13:08]  a ghostly lumberjack: a ghostly lumberjack
+[11/10/2021 13:08]  Razor: Bandage: 1s
+[11/10/2021 13:08]  a ghostly lumberjack: -37
+[11/10/2021 13:08]  Razor: Bandage: 2s
+[11/10/2021 13:08]  Razor: Bandage: 3s
+[11/10/2021 13:08]  Razor: Bandage: 4s
+[11/10/2021 13:08]  a ghostly lumberjack: -49
+[11/10/2021 13:08]  Razor: Bandage: 5s
+[11/10/2021 13:08]  Razor: Bandage: 6s
+[11/10/2021 13:08]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:08]  a ghostly lumberjack: -66
+[11/10/2021 13:08]  a ghostly lumberjack: *looks calmed*
+[11/10/2021 13:08]  Razor: Bandage: 7s
+[11/10/2021 13:08]  a ghostly lumberjack: *chops*
+[11/10/2021 13:08]  a skeletal woodsman: *chops*
+[11/10/2021 13:08]  Razor: Bandage: 8s
+[11/10/2021 13:08]  Razor: Bandage: 9s
+[11/10/2021 13:08]  a ghostly lumberjack: -8
+[11/10/2021 13:08]  a hind: a hind
+[11/10/2021 13:08]  Stink Fist: -3
+[11/10/2021 13:08]  Razor: Bandage: 10s
+[11/10/2021 13:08]  System: You finish applying the bandages.
+[11/10/2021 13:08]  Stink Fist: +4
+[11/10/2021 13:08]  a ghostly lumberjack: -11
+[11/10/2021 13:08]  a black bear: a black bear
+[11/10/2021 13:08]  a ghostly lumberjack: -11
+[11/10/2021 13:08]  Stink Fist: -16
+[11/10/2021 13:08]  System: Who will you use the bandages on?
+[11/10/2021 13:08]  Razor: Healing Started
+[11/10/2021 13:08]  System: You begin applying the bandages.
+[11/10/2021 13:08]  Razor: Bandage: 1s
+[11/10/2021 13:08]  Razor: Bandage: 2s
+[11/10/2021 13:08]  a ghostly lumberjack: -23
+[11/10/2021 13:08]  Razor: Bandage: 3s
+[11/10/2021 13:08]  Stink Fist: -4
+[11/10/2021 13:08]  System: Your fingers slip!
+[11/10/2021 13:08]  Razor: Bandage: 4s
+[11/10/2021 13:08]  Razor: Bandage: 5s
+[11/10/2021 13:08]  a ghostly lumberjack: -39
+[11/10/2021 13:08]  Razor: Bandage: 6s
+[11/10/2021 13:08]  Stink Fist: -18
+[11/10/2021 13:08]  System: Your fingers slip!
+[11/10/2021 13:08]  Razor: Bandage: 7s
+[11/10/2021 13:08]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:08]  a ghostly lumberjack: -25
+[11/10/2021 13:08]  Razor: Bandage: 8s
+[11/10/2021 13:08]  a ghostly lumberjack: -35
+[11/10/2021 13:08]  a skeletal woodsman: *chops*
+[11/10/2021 13:08]  Razor: Bandage: 9s
+[11/10/2021 13:08]  Razor: Bandage: 10s
+[11/10/2021 13:08]  Stink Fist: -4
+[11/10/2021 13:08]  System: You finish applying the bandages.
+[11/10/2021 13:08]  Stink Fist: +40
+[11/10/2021 13:08]  a ghostly lumberjack: *chops*
+[11/10/2021 13:08]  a ghostly lumberjack: -42
+[11/10/2021 13:08]  System: You have gained a little fame.
+[11/10/2021 13:08]  System: You have gained a little karma.
+[11/10/2021 13:08]  System: -24
+[11/10/2021 13:08]  You see: a ghostly lumberjack corpse
+[11/10/2021 13:08]  System: Your attack cripples your target, lowering their defense! [2]
+[11/10/2021 13:08]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:08]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:08]  System: You carve materials from the corpse.
+[11/10/2021 13:08]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:08]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:08]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:08]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:08]  an andarian gladiator: an andarian gladiator
+[11/10/2021 13:08]  a frenzied gladiator: a frenzied gladiator
+[11/10/2021 13:08]  a frenzied gladiator: a frenzied gladiator
+[11/10/2021 13:08]  You see: a gladiator corpse
+[11/10/2021 13:08]  Bardinio: Envoy
+[11/10/2021 13:08]  Bardinio: Lord Bardinio
+[11/10/2021 13:08]  an andarian gladiator: Long live the Regent!
+[11/10/2021 13:08]  Razor: Attack: a gargoyle
+[11/10/2021 13:08]  Stink Fist: -3
+[11/10/2021 13:08]  a gargoyle: -29
+[11/10/2021 13:08]  System: Who will you use the bandages on?
+[11/10/2021 13:08]  Razor: Healing Started
+[11/10/2021 13:08]  System: You begin applying the bandages.
+[11/10/2021 13:09]  Bardinio: Envoy
+[11/10/2021 13:09]  Bardinio: Lord Bardinio
+[11/10/2021 13:09]  Razor: Bandage: 1s
+[11/10/2021 13:09]  a gargoyle: -17
+[11/10/2021 13:09]  Razor: Bandage: 2s
+[11/10/2021 13:09]  a gargoyle: -23
+[11/10/2021 13:09]  Razor: Bandage: 3s
+[11/10/2021 13:09]  a gargoyle: -26
+[11/10/2021 13:09]  Razor: Bandage: 4s
+[11/10/2021 13:09]  a frenzied gladiator: *frenzies*
+[11/10/2021 13:09]  Razor: Bandage: 5s
+[11/10/2021 13:09]  a gargoyle: -40
+[11/10/2021 13:09]  Razor: Bandage: 6s
+[11/10/2021 13:09]  Stink Fist: -22
+[11/10/2021 13:09]  Stink Fist: -15
+[11/10/2021 13:09]  Razor: Bandage: 7s
+[11/10/2021 13:09]  a gargoyle: -37
+[11/10/2021 13:09]  Razor: Bandage: 8s
+[11/10/2021 13:09]  Razor: Bandage: 9s
+[11/10/2021 13:09]  a gargoyle: -19
+[11/10/2021 13:09]  a frenzied gladiator: *frenzies*
+[11/10/2021 13:09]  System: You finish applying the bandages.
+[11/10/2021 13:09]  Stink Fist: +38
+[11/10/2021 13:09]  System: What do you wish to track?
+[11/10/2021 13:09]  System: You must wait a few moments to use another skill.
+[11/10/2021 13:09]  Bardinio: take care
+[11/10/2021 13:09]  System: Hot Keys Disabled (Press F12 to enable)
+[11/10/2021 13:09]  a gargoyle: -26
+[11/10/2021 13:09]  Stink Fist: xthx
+[11/10/2021 13:09]  Stink Fist: -10
+[11/10/2021 13:09]  System: Who will you use the bandages on?
+[11/10/2021 13:09]  Razor: Healing Started
+[11/10/2021 13:09]  System: You begin applying the bandages.
+[11/10/2021 13:09]  System: Hot Keys Enabled (Press F12 to disable)
+[11/10/2021 13:09]  Razor: Bandage: 1s
+[11/10/2021 13:09]  a gargoyle: -28
+[11/10/2021 13:09]  Razor: Bandage: 2s
+[11/10/2021 13:09]  Razor: Bandage: 3s
+[11/10/2021 13:09]  Razor: Bandage: 4s
+[11/10/2021 13:09]  Razor: Attack: a gargoyle
+[11/10/2021 13:09]  Bardinio: Kal Ort Por [Recall]
+[11/10/2021 13:09]  Stink Fist: -7
+[11/10/2021 13:09]  System: Your fingers slip!
+[11/10/2021 13:09]  Razor: Bandage: 5s
+[11/10/2021 13:09]  Razor: Bandage: 6s
+[11/10/2021 13:09]  a frenzied gladiator: *frenzies*
+[11/10/2021 13:09]  Stink Fist: -13
+[11/10/2021 13:09]  Razor: Bandage: 7s
+[11/10/2021 13:09]  Razor: Bandage: 8s
+[11/10/2021 13:09]  System: Your fingers slip!
+[11/10/2021 13:09]  a gargoyle: -22
+[11/10/2021 13:09]  Razor: Bandage: 9s
+[11/10/2021 13:09]  Razor: Bandage: 10s
+[11/10/2021 13:09]  System: You finish applying the bandages.
+[11/10/2021 13:09]  Stink Fist: +28
+[11/10/2021 13:09]  a frenzied gladiator: *frenzies*
+[11/10/2021 13:09]  Stink Fist: -14
+[11/10/2021 13:09]  System: Who will you use the bandages on?
+[11/10/2021 13:09]  Razor: Healing Started
+[11/10/2021 13:09]  System: You begin applying the bandages.
+[11/10/2021 13:09]  Razor: Bandage: 1s
+[11/10/2021 13:09]  Razor: Bandage: 2s
+[11/10/2021 13:09]  Razor: Attack: a gargoyle
+[11/10/2021 13:09]  Razor: Bandage: 3s
+[11/10/2021 13:09]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:09]  a gargoyle: -43
+[11/10/2021 13:09]  Stink Fist: -20
+[11/10/2021 13:09]  System: Your fingers slip!
+[11/10/2021 13:09]  Razor: Bandage: 4s
+[11/10/2021 13:09]  a gargoyle: -26
+[11/10/2021 13:09]  Razor: Bandage: 5s
+[11/10/2021 13:09]  Razor: Attack: a gargoyle
+[11/10/2021 13:09]  a gargoyle: -35
+[11/10/2021 13:09]  Razor: Bandage: 6s
+[11/10/2021 13:09]  a gargoyle: -41
+[11/10/2021 13:09]  Razor: Bandage: 7s
+[11/10/2021 13:09]  Razor: Bandage: 8s
+[11/10/2021 13:09]  a gargoyle: -33
+[11/10/2021 13:09]  Razor: Bandage: 9s
+[11/10/2021 13:09]  Stink Fist: -8
+[11/10/2021 13:09]  System: Your skill in Camping has decreased by 0.1.  It is now 68.2.
+[11/10/2021 13:09]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.5.
+[11/10/2021 13:09]  Razor: [Camping] -0.1 68.2 (-3.6)
+[11/10/2021 13:09]  Razor: [Anatomy] +0.1 72.5 (+0.7)
+[11/10/2021 13:09]  Razor: Bandage: 10s
+[11/10/2021 13:09]  System: You finish applying the bandages.
+[11/10/2021 13:09]  Stink Fist: +40
+[11/10/2021 13:09]  a black bear: a black bear
+[11/10/2021 13:09]  a gargoyle: -27
+[11/10/2021 13:09]  Stink Fist: -18
+[11/10/2021 13:09]  System: Who will you use the bandages on?
+[11/10/2021 13:09]  Razor: Healing Started
+[11/10/2021 13:09]  System: You begin applying the bandages.
+[11/10/2021 13:09]  a gargoyle: -32
+[11/10/2021 13:09]  Razor: Bandage: 1s
+[11/10/2021 13:09]  Razor: Bandage: 2s
+[11/10/2021 13:09]  Razor: Bandage: 3s
+[11/10/2021 13:09]  System: Your skill in Camping has decreased by 0.1.  It is now 68.1.
+[11/10/2021 13:09]  System: Your skill in Parrying has increased by 0.1.  It is now 70.7.
+[11/10/2021 13:09]  Stink Fist: -4
+[11/10/2021 13:09]  System: Your fingers slip!
+[11/10/2021 13:09]  Razor: [Camping] -0.1 68.1 (-3.7)
+[11/10/2021 13:09]  Razor: [Parry] +0.1 70.7 (+0.2)
+[11/10/2021 13:09]  Razor: Bandage: 4s
+[11/10/2021 13:09]  Razor: Bandage: 5s
+[11/10/2021 13:09]  a gargoyle: -31
+[11/10/2021 13:09]  Razor: Bandage: 6s
+[11/10/2021 13:09]  a frenzied gladiator: *enraged*
+[11/10/2021 13:09]  Stink Fist: -12
+[11/10/2021 13:09]  Razor: Bandage: 7s
+[11/10/2021 13:09]  System: Your fingers slip!
+[11/10/2021 13:09]  System: Your skill in Camping has decreased by 0.1.  It is now 68.0.
+[11/10/2021 13:09]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.6.
+[11/10/2021 13:09]  Razor: [Camping] -0.1 68.0 (-3.8)
+[11/10/2021 13:09]  Razor: [Anatomy] +0.1 72.6 (+0.8)
+[11/10/2021 13:09]  Razor: Bandage: 8s
+[11/10/2021 13:09]  a gargoyle: -32
+[11/10/2021 13:09]  Razor: Bandage: 9s
+[11/10/2021 13:09]  System: You finish applying the bandages.
+[11/10/2021 13:09]  Stink Fist: +32
+[11/10/2021 13:09]  a gargoyle: -25
+[11/10/2021 13:09]  a gargoyle: -18
+[11/10/2021 13:09]  Stink Fist: -8
+[11/10/2021 13:09]  System: Who will you use the bandages on?
+[11/10/2021 13:09]  Razor: Healing Started
+[11/10/2021 13:09]  System: You begin applying the bandages.
+[11/10/2021 13:09]  Razor: Bandage: 1s
+[11/10/2021 13:09]  Razor: Bandage: 2s
+[11/10/2021 13:09]  System: Your skill in Camping has decreased by 0.1.  It is now 67.9.
+[11/10/2021 13:09]  System: Your skill in Fencing has increased by 0.1.  It is now 71.6.
+[11/10/2021 13:09]  System: You have gained some fame.
+[11/10/2021 13:09]  System: You have gained some karma.
+[11/10/2021 13:09]  System: -15
+[11/10/2021 13:09]  Razor: [Camping] -0.1 67.9 (-3.9)
+[11/10/2021 13:09]  Razor: [Fencing] +0.1 71.6 (+0.7)
+[11/10/2021 13:09]  You see: a gargoyle corpse
+[11/10/2021 13:09]  Razor: Bandage: 3s
+[11/10/2021 13:09]  Razor: Bandage: 4s
+[11/10/2021 13:10]  Razor: Bandage: 5s
+[11/10/2021 13:10]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:10]  Razor: Bandage: 6s
+[11/10/2021 13:10]  Razor: Bandage: 7s
+[11/10/2021 13:10]  Razor: Bandage: 8s
+[11/10/2021 13:10]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:10]  Razor: Bandage: 9s
+[11/10/2021 13:10]  System: You carve materials from the corpse.
+[11/10/2021 13:10]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:10]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:10]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:10]  Razor: Bandage: 10s
+[11/10/2021 13:10]  System: You finish applying the bandages.
+[11/10/2021 13:10]  Stink Fist: +6
+[11/10/2021 13:10]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:10]  a black bear: a black bear
+[11/10/2021 13:10]  a frenzied gladiator: *enraged*
+[11/10/2021 13:10]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:10]  an andarian gladiator: an andarian gladiator
+[11/10/2021 13:10]  a frenzied gladiator: a frenzied gladiator
+[11/10/2021 13:10]  a frenzied gladiator: a frenzied gladiator
+[11/10/2021 13:10]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:10]  System: You dont see anything nearby worth carving or investigating.
+[11/10/2021 13:10]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:10]  a hind: a hind
+[11/10/2021 13:10]  a ghostly foreman: a ghostly foreman
+[11/10/2021 13:10]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:10]  a ghostly lumberjack: a ghostly lumberjack
+[11/10/2021 13:10]  Razor: Attack: a skeletal woodsman
+[11/10/2021 13:10]  a skeletal woodsman: -24
+[11/10/2021 13:10]  a ghostly lumberjack: a ghostly lumberjack
+[11/10/2021 13:10]  a skeletal woodsman: *chops*
+[11/10/2021 13:10]  Stink Fist: -11
+[11/10/2021 13:10]  System: Who will you use the bandages on?
+[11/10/2021 13:10]  Razor: Healing Started
+[11/10/2021 13:10]  System: You begin applying the bandages.
+[11/10/2021 13:10]  a skeletal woodsman: -39
+[11/10/2021 13:10]  Razor: Bandage: 1s
+[11/10/2021 13:10]  a skeletal woodsman: -44
+[11/10/2021 13:10]  Razor: Bandage: 2s
+[11/10/2021 13:10]  Razor: Bandage: 3s
+[11/10/2021 13:10]  Razor: Bandage: 4s
+[11/10/2021 13:10]  Razor: Bandage: 5s
+[11/10/2021 13:10]  a skeletal woodsman: -26
+[11/10/2021 13:10]  Razor: Bandage: 6s
+[11/10/2021 13:10]  a skeletal woodsman: -58
+[11/10/2021 13:10]  Razor: Bandage: 7s
+[11/10/2021 13:10]  Razor: Bandage: 8s
+[11/10/2021 13:10]  Razor: Bandage: 9s
+[11/10/2021 13:10]  Stink Fist: -3
+[11/10/2021 13:10]  System: Your fingers slip!
+[11/10/2021 13:10]  Razor: Bandage: 10s
+[11/10/2021 13:10]  System: You finish applying the bandages.
+[11/10/2021 13:10]  Stink Fist: +12
+[11/10/2021 13:10]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:10]  a skeletal woodsman: -42
+[11/10/2021 13:10]  a skeletal woodsman: -48
+[11/10/2021 13:10]  a black bear: a black bear
+[11/10/2021 13:10]  Stink Fist: -11
+[11/10/2021 13:10]  System: Who will you use the bandages on?
+[11/10/2021 13:10]  Razor: Healing Started
+[11/10/2021 13:10]  System: You begin applying the bandages.
+[11/10/2021 13:10]  System: You have gained a little fame.
+[11/10/2021 13:10]  System: You have gained a little karma.
+[11/10/2021 13:10]  System: -31
+[11/10/2021 13:10]  You see: a skeletal woodsman corpse
+[11/10/2021 13:10]  Razor: Bandage: 1s
+[11/10/2021 13:10]  Razor: Bandage: 2s
+[11/10/2021 13:10]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:10]  Razor: Bandage: 3s
+[11/10/2021 13:10]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:10]  Razor: Bandage: 4s
+[11/10/2021 13:10]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:10]  Razor: Bandage: 5s
+[11/10/2021 13:10]  System: You carve materials from the corpse.
+[11/10/2021 13:10]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:10]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:10]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:10]  Razor: Bandage: 6s
+[11/10/2021 13:10]  Razor: Bandage: 7s
+[11/10/2021 13:10]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:10]  Razor: Bandage: 8s
+[11/10/2021 13:10]  Razor: Bandage: 9s
+[11/10/2021 13:10]  Razor: Bandage: 10s
+[11/10/2021 13:10]  System: You finish applying the bandages.
+[11/10/2021 13:10]  Stink Fist: +9
+[11/10/2021 13:10]  a ghostly lumberjack: a ghostly lumberjack
+[11/10/2021 13:10]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:10]  a black bear: a black bear
+[11/10/2021 13:11]  You see: a gargoyle corpse
+[11/10/2021 13:11]  a hind: a hind
+[11/10/2021 13:11]  a mongbat: a mongbat
+[11/10/2021 13:11]  a mongbat: a mongbat
+[11/10/2021 13:11]  a black bear: a black bear
+[11/10/2021 13:11]  Razor: Attack: a mongbat
+[11/10/2021 13:11]  Stink Fist: -3
+[11/10/2021 13:11]  System: Who will you use the bandages on?
+[11/10/2021 13:11]  Razor: Healing Started
+[11/10/2021 13:11]  System: You begin applying the bandages.
+[11/10/2021 13:11]  Razor: Bandage: 1s
+[11/10/2021 13:11]  a mongbat: -36
+[11/10/2021 13:11]  Razor: Bandage: 2s
+[11/10/2021 13:11]  System: You have gained a little fame.
+[11/10/2021 13:11]  System: You have gained a little karma.
+[11/10/2021 13:11]  System: -52
+[11/10/2021 13:11]  You see: a mongbat corpse
+[11/10/2021 13:11]  Razor: Bandage: 3s
+[11/10/2021 13:11]  Razor: Bandage: 4s
+[11/10/2021 13:11]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:11]  Razor: Bandage: 5s
+[11/10/2021 13:11]  Razor: Bandage: 6s
+[11/10/2021 13:11]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:11]  Razor: Bandage: 7s
+[11/10/2021 13:11]  System: You carve materials from the corpse.
+[11/10/2021 13:11]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:11]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:11]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:11]  Razor: Bandage: 8s
+[11/10/2021 13:11]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:11]  Razor: Bandage: 9s
+[11/10/2021 13:11]  Razor: Bandage: 10s
+[11/10/2021 13:11]  System: You finish applying the bandages.
+[11/10/2021 13:11]  Stink Fist: +1
+[11/10/2021 13:11]  a wren: a wren
+[11/10/2021 13:11]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:11]  Razor: Attack: a skeletal woodsman
+[11/10/2021 13:11]  a skeletal woodsman: a skeletal woodsman
+[11/10/2021 13:11]  You see: a skeletal woodsman corpse
+[11/10/2021 13:11]  You see: a ghostly lumberjack corpse
+[11/10/2021 13:11]  Razor: Attack: a skeletal woodsman
+[11/10/2021 13:11]  Stink Fist: -8
+[11/10/2021 13:11]  System: Who will you use the bandages on?
+[11/10/2021 13:11]  Razor: Healing Started
+[11/10/2021 13:11]  System: You begin applying the bandages.
+[11/10/2021 13:11]  Razor: Attack: a skeletal woodsman
+[11/10/2021 13:11]  a skeletal woodsman: -33
+[11/10/2021 13:11]  Razor: Bandage: 1s
+[11/10/2021 13:11]  You see: a mongbat corpse
+[11/10/2021 13:11]  a skeletal woodsman: -26
+[11/10/2021 13:11]  Razor: Bandage: 2s
+[11/10/2021 13:11]  a ghostly lumberjack: a ghostly lumberjack
+[11/10/2021 13:11]  Razor: Bandage: 3s
+[11/10/2021 13:11]  Razor: Bandage: 4s
+[11/10/2021 13:11]  a skeletal woodsman: -35
+[11/10/2021 13:11]  Stink Fist: -3
+[11/10/2021 13:11]  System: Your fingers slip!
+[11/10/2021 13:11]  Razor: Bandage: 5s
+[11/10/2021 13:11]  Razor: Bandage: 6s
+[11/10/2021 13:11]  System: Your skill in Camping has decreased by 0.1.  It is now 67.8.
+[11/10/2021 13:11]  System: Your skill in Parrying has increased by 0.1.  It is now 70.8.
+[11/10/2021 13:11]  Stink Fist: -1
+[11/10/2021 13:11]  Razor: [Camping] -0.1 67.8 (-4.0)
+[11/10/2021 13:11]  Razor: [Parry] +0.1 70.8 (+0.3)
+[11/10/2021 13:11]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:11]  a skeletal woodsman: -69
+[11/10/2021 13:11]  Razor: Bandage: 7s
+[11/10/2021 13:11]  a ghostly lumberjack: *chops*
+[11/10/2021 13:11]  Razor: Bandage: 8s
+[11/10/2021 13:11]  a skeletal woodsman: -28
+[11/10/2021 13:11]  System: Your fingers slip!
+[11/10/2021 13:11]  Razor: Bandage: 9s
+[11/10/2021 13:11]  a skeletal woodsman: -45
+[11/10/2021 13:11]  Stink Fist: -3
+[11/10/2021 13:11]  Razor: Bandage: 10s
+[11/10/2021 13:11]  System: You finish applying the bandages.
+[11/10/2021 13:11]  Stink Fist: +13
+[11/10/2021 13:11]  a skeletal woodsman: -56
+[11/10/2021 13:11]  Stink Fist: -2
+[11/10/2021 13:11]  System: Who will you use the bandages on?
+[11/10/2021 13:11]  Razor: Healing Started
+[11/10/2021 13:11]  System: You begin applying the bandages.
+[11/10/2021 13:11]  System: Your fingers slip!
+[11/10/2021 13:11]  System: You have gained a little fame.
+[11/10/2021 13:11]  System: You have gained a little karma.
+[11/10/2021 13:11]  System: -20
+[11/10/2021 13:11]  You see: a skeletal woodsman corpse
+[11/10/2021 13:11]  Razor: Bandage: 1s
+[11/10/2021 13:11]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:11]  Razor: Bandage: 2s
+[11/10/2021 13:11]  Razor: Attack: a skeletal woodsman
+[11/10/2021 13:11]  a skeletal woodsman: -20
+[11/10/2021 13:11]  Razor: Bandage: 3s
+[11/10/2021 13:11]  a skeletal woodsman: -46
+[11/10/2021 13:11]  Razor: Bandage: 4s
+[11/10/2021 13:11]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:11]  System: You carve materials from the corpse.
+[11/10/2021 13:11]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:11]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:11]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:11]  Razor: Bandage: 5s
+[11/10/2021 13:11]  Razor: Bandage: 6s
+[11/10/2021 13:11]  a skeletal woodsman: -45
+[11/10/2021 13:11]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:11]  Stink Fist: -8
+[11/10/2021 13:11]  Razor: Bandage: 7s
+[11/10/2021 13:11]  a ghostly lumberjack: *chops*
+[11/10/2021 13:11]  Razor: Bandage: 8s
+[11/10/2021 13:11]  Razor: Bandage: 9s
+[11/10/2021 13:12]  a skeletal woodsman: -42
+[11/10/2021 13:12]  Stink Fist: -6
+[11/10/2021 13:12]  System: Your fingers slip!
+[11/10/2021 13:12]  Razor: Bandage: 10s
+[11/10/2021 13:12]  System: You finish applying the bandages.
+[11/10/2021 13:12]  Stink Fist: +14
+[11/10/2021 13:12]  System: Your skill in Camping has decreased by 0.1.  It is now 67.7.
+[11/10/2021 13:12]  System: Your skill in Healing has increased by 0.1.  It is now 71.4.
+[11/10/2021 13:12]  Razor: [Camping] -0.1 67.7 (-4.1)
+[11/10/2021 13:12]  Razor: [Healing] +0.1 71.4 (+0.3)
+[11/10/2021 13:12]  You see: a mongbat corpse
+[11/10/2021 13:12]  a black bear: a black bear
+[11/10/2021 13:12]  a skeletal woodsman: -47
+[11/10/2021 13:12]  Stink Fist: -2
+[11/10/2021 13:12]  System: Who will you use the bandages on?
+[11/10/2021 13:12]  Razor: Healing Started
+[11/10/2021 13:12]  System: You begin applying the bandages.
+[11/10/2021 13:12]  Razor: Bandage: 1s
+[11/10/2021 13:12]  a skeletal woodsman: -28
+[11/10/2021 13:12]  Razor: Bandage: 2s
+[11/10/2021 13:12]  a skeletal woodsman: -33
+[11/10/2021 13:12]  Razor: Bandage: 3s
+[11/10/2021 13:12]  System: Your skill in Camping has decreased by 0.1.  It is now 67.6.
+[11/10/2021 13:12]  System: Your skill in Anatomy has increased by 0.1.  It is now 72.7.
+[11/10/2021 13:12]  a skeletal woodsman: -42
+[11/10/2021 13:12]  Razor: [Camping] -0.1 67.6 (-4.2)
+[11/10/2021 13:12]  Razor: [Anatomy] +0.1 72.7 (+0.9)
+[11/10/2021 13:12]  Razor: Bandage: 4s
+[11/10/2021 13:12]  Razor: Bandage: 5s
+[11/10/2021 13:12]  Razor: Bandage: 6s
+[11/10/2021 13:12]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:12]  System: You have gained a little fame.
+[11/10/2021 13:12]  System: You have gained a little karma.
+[11/10/2021 13:12]  System: -9
+[11/10/2021 13:12]  You see: a skeletal woodsman corpse
+[11/10/2021 13:12]  You see: Lesser Cure potion : 4
+[11/10/2021 13:12]  Razor: Bandage: 7s
+[11/10/2021 13:12]  Razor: Bandage: 8s
+[11/10/2021 13:12]  Razor: Bandage: 9s
+[11/10/2021 13:12]  System: You heal what little damage you had.
+[11/10/2021 13:12]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:12]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:12]  System: You carve materials from the corpse.
+[11/10/2021 13:12]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:12]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:12]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:12]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:12]  You see: a gargoyle corpse
+[11/10/2021 13:12]  a frenzied gladiator: a frenzied gladiator
+[11/10/2021 13:12]  You see: a giant rat corpse
+[11/10/2021 13:12]  an eagle: an eagle
+[11/10/2021 13:12]  a magpie: a magpie
+[11/10/2021 13:12]  an eagle: an eagle
+[11/10/2021 13:12]  a nuthatch: a nuthatch
+[11/10/2021 13:12]  a horse: a horse
+[11/10/2021 13:12]  a giant rat: a giant rat
+[11/10/2021 13:12]  System: The world will save in 15 seconds.
+[11/10/2021 13:12]  powerful tamer: [Corp, Por]
+[11/10/2021 13:12]  powerful tamer: powerful tamer
+[11/10/2021 13:12]  Bueno: Bueno
+[11/10/2021 13:12]  Kira: Kira the Necromancer
+[11/10/2021 13:12]  Recalls,Mark,TrapScr: Recalls,Mark,TrapScr
+[11/10/2021 13:12]  kegs and potions: kegs and potions
+[11/10/2021 13:12]  Maps/Runes/BulkResou: Maps/Runes/BulkResou
+[11/10/2021 13:12]  Ship Shop: Ship Shop
+[11/10/2021 13:12]  New2outlands?: New2outlands?
+[11/10/2021 13:12]  an angry ghost: an angry ghost
+[11/10/2021 13:12]  a tern: a tern
+[11/10/2021 13:12]  a brown bear: a brown bear
+[11/10/2021 13:12]  Razor: Attack: an angry ghost
+[11/10/2021 13:13]  System: The world is saving, please wait.
+[11/10/2021 13:13]  System: World save complete. The entire process took 4.0 seconds.
+[11/10/2021 13:13]  an angry ghost: -62
+[11/10/2021 13:13]  System: You absorb their spell (5.7% current damage bonus).
+[11/10/2021 13:13]  System: You parry the spell.
+[11/10/2021 13:13]  an angry ghost: -17
+[11/10/2021 13:13]  Stink Fist: -1
+[11/10/2021 13:13]  System: Who will you use the bandages on?
+[11/10/2021 13:13]  Razor: Healing Started
+[11/10/2021 13:13]  System: You begin applying the bandages.
+[11/10/2021 13:13]  System: Your skill in Camping has decreased by 0.1.  It is now 67.5.
+[11/10/2021 13:13]  System: Your skill in Arms Lore has increased by 0.1.  It is now 73.0.
+[11/10/2021 13:13]  an angry ghost: -18
+[11/10/2021 13:13]  Razor: [Camping] -0.1 67.5 (-4.3)
+[11/10/2021 13:13]  Razor: [ArmsLore] +0.1 73.0 (+1.4)
+[11/10/2021 13:13]  Razor: Bandage: 1s
+[11/10/2021 13:13]  Stink Fist: -1
+[11/10/2021 13:13]  System: Your fingers slip!
+[11/10/2021 13:13]  Razor: Bandage: 2s
+[11/10/2021 13:13]  an angry ghost: -14
+[11/10/2021 13:13]  System: You parry the spell.
+[11/10/2021 13:13]  Razor: Bandage: 3s
+[11/10/2021 13:13]  Razor: Bandage: 4s
+[11/10/2021 13:13]  an angry ghost: -33
+[11/10/2021 13:13]  Razor: Bandage: 5s
+[11/10/2021 13:13]  Razor: Bandage: 6s
+[11/10/2021 13:13]  an angry ghost: -10
+[11/10/2021 13:13]  Razor: Bandage: 7s
+[11/10/2021 13:13]  Stink Fist: -13
+[11/10/2021 13:13]  System: Your fingers slip!
+[11/10/2021 13:13]  an angry ghost: -15
+[11/10/2021 13:13]  Razor: Bandage: 8s
+[11/10/2021 13:13]  an angry ghost: -11
+[11/10/2021 13:13]  Razor: Bandage: 9s
+[11/10/2021 13:13]  Razor: Bandage: 10s
+[11/10/2021 13:13]  System: You finish applying the bandages.
+[11/10/2021 13:13]  Stink Fist: +13
+[11/10/2021 13:13]  Stink Fist: -12
+[11/10/2021 13:13]  System: Who will you use the bandages on?
+[11/10/2021 13:13]  Razor: Healing Started
+[11/10/2021 13:13]  System: You begin applying the bandages.
+[11/10/2021 13:13]  Razor: Bandage: 1s
+[11/10/2021 13:13]  an angry ghost: -37
+[11/10/2021 13:13]  Razor: Bandage: 2s
+[11/10/2021 13:13]  an angry ghost: -10
+[11/10/2021 13:13]  Razor: Bandage: 3s
+[11/10/2021 13:13]  Stink Fist: -1
+[11/10/2021 13:13]  Razor: Bandage: 4s
+[11/10/2021 13:13]  Razor: Bandage: 5s
+[11/10/2021 13:13]  System: Your attack cripples your target, lowering their defense!
+[11/10/2021 13:13]  an angry ghost: -30
+[11/10/2021 13:13]  Razor: Bandage: 6s
+[11/10/2021 13:13]  Razor: Bandage: 7s
+[11/10/2021 13:13]  an angry ghost: -29
+[11/10/2021 13:13]  Razor: Bandage: 8s
+[11/10/2021 13:13]  an angry ghost: -37
+[11/10/2021 13:13]  Razor: Bandage: 9s
+[11/10/2021 13:13]  Razor: Bandage: 10s
+[11/10/2021 13:13]  System: You finish applying the bandages.
+[11/10/2021 13:13]  Stink Fist: +11
+[11/10/2021 13:13]  System: Your skill in Camping has decreased by 0.1.  It is now 67.4.
+[11/10/2021 13:13]  System: Your skill in Arms Lore has increased by 0.1.  It is now 73.1.
+[11/10/2021 13:13]  System: You have gained a little fame.
+[11/10/2021 13:13]  System: You have gained a little karma.
+[11/10/2021 13:13]  System: -52
+[11/10/2021 13:13]  Stink Fist: -1
+[11/10/2021 13:13]  System: Misumi has completed the achievement: Tailor (Basic).
+[11/10/2021 13:13]  Razor: [Camping] -0.1 67.4 (-4.4)
+[11/10/2021 13:13]  Razor: [ArmsLore] +0.1 73.1 (+1.5)
+[11/10/2021 13:13]  You see: an angry ghost corpse
+[11/10/2021 13:13]  System: You must wait to perform another action.
+[11/10/2021 13:13]  System: JuggerrNaut has completed the achievement: Affluent (Basic).
+[11/10/2021 13:13]  System: Who will you use the bandages on?
+[11/10/2021 13:13]  Razor: Healing Started
+[11/10/2021 13:13]  System: You begin applying the bandages.
+[11/10/2021 13:13]  Razor: Bandage: 1s
+[11/10/2021 13:13]  Razor: Bandage: 2s
+[11/10/2021 13:13]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:13]  Razor: Bandage: 3s
+[11/10/2021 13:13]  Razor: Bandage: 4s
+[11/10/2021 13:13]  System: What corpse or location do you wish to carve?
+[11/10/2021 13:13]  System: You carve materials from the corpse.
+[11/10/2021 13:13]  System: You will receive +13.8% damage to creatures, +5.5% damage to players, and +5.5 to barding skills (expires in 3h).
+[11/10/2021 13:13]  Razor: [-Forensic Eval Bonus (s)]
+[11/10/2021 13:13]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/10/2021 13:13]  Razor: Bandage: 5s
+[11/10/2021 13:13]  Razor: Bandage: 6s
+[11/10/2021 13:13]  System: [GridLoot]: Corpse is empty!
+[11/10/2021 13:13]  Razor: Bandage: 7s
+[11/10/2021 13:13]  Razor: Bandage: 8s
+[11/10/2021 13:13]  Razor: Bandage: 9s
+[11/10/2021 13:13]  Kira: Kira the Necromancer
+[11/10/2021 13:13]  Bueno: Bueno
+[11/10/2021 13:13]  System: You heal what little damage you had.
+[11/10/2021 13:13]  powerful tamer: [Corp, Por]
+[11/10/2021 13:13]  powerful tamer: powerful tamer
+[11/10/2021 13:13]  an eldritch drake: (bonded)
+[11/10/2021 13:13]  an eldritch drake: an eldritch drake
+[11/10/2021 13:13]  T: (bonded)
+[11/10/2021 13:13]  T: T
+[11/10/2021 13:13]  an eldritch drake: (bonded)
+[11/10/2021 13:13]  an eldritch drake: an eldritch drake
+[11/10/2021 13:13]  System: You are now under the protection of the town guards.
+[11/10/2021 13:13]  Rendor: Rendor the fisherman
+[11/10/2021 13:13]  an andarian footman: an andarian footman
+[11/10/2021 13:13]  Caroline: Caroline the fisherman
+[11/10/2021 13:13]  an andarian marksman: an andarian marksman
+[11/10/2021 13:13]  Aristotle: Aristotle the stablemaster
+[11/10/2021 13:13]  a dog: a dog
+[11/10/2021 13:13]  Alden: Alden the stablemaster
+[11/10/2021 13:13]  an andarian footman: an andarian footman
+[11/10/2021 13:13]  Shen: Shen the mapmaker
+[11/10/2021 13:13]  Rhodanthe: Rhodanthe the cook
+[11/10/2021 13:13]  Ama: Ama the provisioner
+[11/10/2021 13:13]  Raizel: Raizel the farmer
+[11/10/2021 13:13]  Elad: Elad the beekeeper
+[11/10/2021 13:13]  Morgan: Morgan the farmer
+[11/10/2021 13:13]  Standford: Standford the cook
+[11/10/2021 13:13]  Roxanne: Roxanne the cobbler
+[11/10/2021 13:13]  Ammon: Ammon the tanner
+[11/10/2021 13:13]  Anna: Anna the tanner
+[11/10/2021 13:13]  Kelvin: Kelvin the tinker
+[11/10/2021 13:13]  Cole Locke: [Veteran, MR]
+[11/10/2021 13:13]  Cole Locke: Cole Locke
+[11/10/2021 13:13]  Bane: Bane the tanner
+[11/10/2021 13:13]  Gunther: Gunther the tailor
+[11/10/2021 13:13]  a dog: a dog
+[11/10/2021 13:13]  Prescot: Prescot the tailor
+[11/10/2021 13:13]  Bethany: Bethany the weaponsmith
+[11/10/2021 13:13]  a cat: a cat
+[11/10/2021 13:13]  Mercer: Mercer the blacksmith
+[11/10/2021 13:13]  Serilda: Serilda the armorer
+[11/10/2021 13:13]  Serilda: Serilda the armorer
+[11/10/2021 13:13]  a dog: a dog
+[11/10/2021 13:13]  an andarian marksman: an andarian marksman
+[11/10/2021 13:14]  Iain: Iain the innkeeper
+[11/10/2021 13:14]  Budo: Budo the stablemaster
+[11/10/2021 13:14]  Serilda: Serilda the armorer
+[11/10/2021 13:14]  a dog: a dog
+[11/10/2021 13:14]  a cat: a cat
+[11/10/2021 13:14]  a cat: a cat
+[11/10/2021 13:14]  a cat: a cat
+[11/10/2021 13:14]  Candida: Candida the cobbler
+[11/10/2021 13:14]  an andarian mage: an andarian mage
+[11/10/2021 13:14]  Greger: Greger the cook
+[11/10/2021 13:14]  Nelson: Nelson the baker
+[11/10/2021 13:14]  Jamie: Jamie the butcher
+[11/10/2021 13:14]  mr lumber: [Recruit, CFC]
+[11/10/2021 13:14]  mr lumber: mr lumber
+[11/10/2021 13:14]  Bart: Bart the Town Crier
+[11/10/2021 13:14]  ZhuYukWing: ZhuYukWing
+[11/10/2021 13:14]  TankTank: (bonded)
+[11/10/2021 13:14]  TankTank: TankTank
+[11/10/2021 13:14]  BirdBB: (bonded)
+[11/10/2021 13:14]  BirdBB: BirdBB
+[11/10/2021 13:14]  Hocus Pocus: Hocus Pocus
+[11/10/2021 13:14]  Tolmet: Tolmet
+[11/10/2021 13:14]  Roi: Roi the banker
+[11/10/2021 13:14]  Wilfred Baster: [Knight, NEW!]
+[11/10/2021 13:14]  Wilfred Baster: Wilfred Baster
+[11/10/2021 13:14]  Orlantha: Orlantha the banker
+[11/10/2021 13:14]  Britta: Britta the banker
+[11/10/2021 13:14]  Lupisregina: (bonded)
+[11/10/2021 13:14]  Lupisregina: Lupisregina
+[11/10/2021 13:14]  System: Playing Macro 'say'...
+[11/10/2021 13:14]  System: Macro 'say' finished.
+[11/10/2021 13:14]  Stink Fist: bank guards i ban thee
+[11/10/2021 13:14]  Stink Fist: Items: 11/125
+[11/10/2021 13:14]  Stink Fist: Total Weight: 107
+[11/10/2021 13:14]  a lemura: (bonded)
+[11/10/2021 13:14]  a lemura: a lemura
+[11/10/2021 13:14]  Drakes: (bonded)
+[11/10/2021 13:14]  Drakes: Drakes
+[11/10/2021 13:14]  an eldritch drake: (bonded)
+[11/10/2021 13:14]  an eldritch drake: an eldritch drake
+[11/10/2021 13:14]  Your wife: Legendary Domesticator
+[11/10/2021 13:14]  Your wife: [Beard Brother, BB]
+[11/10/2021 13:14]  Your wife: Your wife
+[11/10/2021 13:14]  You see: strength scroll
+[11/10/2021 13:14]  You see: weaken scroll
+[11/10/2021 13:14]  You see: Strength potion
+[11/10/2021 13:14]  Budo: Budo the stablemaster
+[11/10/2021 13:14]  an andarian mage: an andarian mage
+[11/10/2021 13:14]  Candida: Candida the cobbler
+[11/10/2021 13:14]  Leiko: Leiko the tinker
+[11/10/2021 13:15]  a dog: a dog
+[11/10/2021 13:15]  a cat: a cat
+[11/10/2021 13:15]  a cat: a cat
+[11/10/2021 13:15]  Moros Absconding: [Wild Caledonian Wood Mage, TWC]
+[11/10/2021 13:15]  Moros Absconding: Moros Absconding
+[11/10/2021 13:15]  a dog: a dog
+[11/10/2021 13:15]  Slevin: Slevin the scribe
+[11/10/2021 13:15]  Kelli: Kelli the mage
+[11/10/2021 13:15]  Shani: Shani the mage
+[11/10/2021 13:15]  Mae: Mae the herbalist
+[11/10/2021 13:15]  Ines: Ines the alchemist
+[11/10/2021 13:15]  OvErDeViL: OvErDeViL
+[11/10/2021 13:15]  a sheep: a sheep
+[11/10/2021 13:15]  a sheep: a sheep
+[11/10/2021 13:15]  Cheaky Bardwell: [Ripe, SQzD]
+[11/10/2021 13:15]  Cheaky Bardwell: Cheaky Bardwell
+[11/10/2021 13:15]  a sheep: a sheep
+[11/10/2021 13:15]  a cow: a cow
+[11/10/2021 13:15]  Ravi: Ravi the farmer
+[11/10/2021 13:15]  Anissa: Anissa the farmer
+[11/10/2021 13:15]  System: You have left the protection of the town guards.
+[11/10/2021 13:15]  a goat: a goat
+[11/10/2021 13:15]  Kenton: Kenton the lumberjack
+[11/10/2021 13:15]  BEST WEPS TRAIN RARE: BEST WEPS TRAIN RARE
+[11/10/2021 13:15]  Ashur: Ashur
+[11/10/2021 13:15]  Cores/Distills: Cores/Distills
+[11/10/2021 13:15]  Amazing Leather: Amazing Leather
+[11/10/2021 13:15]  CHEAPEST ON SHARD!: CHEAPEST ON SHARD!
+[11/10/2021 13:15]  Toxic Exotics: Toxic Exotics
+[11/10/2021 13:15]  CHEAP CHEAP: CHEAP CHEAP
+[11/10/2021 13:15]  Blacksmith!: Blacksmith!
+[11/10/2021 13:15]  TOM CRUISE SHOP: TOM CRUISE SHOP
+[11/10/2021 13:15]  Ish's Goodies: Ish's Goodies
+[11/10/2021 13:15]  Bearded Lumberjack: Bearded Lumberjack
+[11/10/2021 13:15]  Nigel: Nigel
+[11/10/2021 13:15]  Gavin: Gavin
+[11/10/2021 13:15]  Viking Skill Balls: Viking Skill Balls
+[11/10/2021 13:15]  CORES N STUFF: CORES N STUFF
+[11/10/2021 13:15]  Mimio: Mimio
+[11/10/2021 13:15]  SPPOOKY DECORATION: SPPOOKY DECORATION
+[11/10/2021 13:15]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[11/10/2021 13:15]  SS, Weapons, Cloth: SS, Weapons, Cloth
+[11/10/2021 13:15]  120 TINKERING: 120 TINKERING
+[11/10/2021 13:15]  Cores: Cores
+[11/10/2021 13:15]  Potions and more!: Potions and more!
+[11/10/2021 13:15]  CHEAPSTUFF PREVCOINS: CHEAPSTUFF PREVCOINS
+[11/10/2021 13:15]  CHEAPO STUFF: CHEAPO STUFF
+[11/10/2021 13:15]  Extracts, Oils etc: Extracts, Oils etc
+[11/10/2021 13:15]  More Plate: More Plate
+[11/10/2021 13:15]  Master Weaponsmith: Master Weaponsmith
+[11/10/2021 13:15]  SLAVA UKRAINE!: SLAVA UKRAINE!
+[11/10/2021 13:15]  Coloured Chain/Plate: Coloured Chain/Plate
+[11/10/2021 13:15]  Master Armoursmith: Master Armoursmith
+[11/10/2021 13:15]  Leather & Ropes: Leather & Ropes
+[11/10/2021 13:15]  books weapons food: books weapons food
+[11/10/2021 13:15]  CONTAINER WAND: CONTAINER WAND
+[11/10/2021 13:15]  FOOD/ARMORS/WEAPON: FOOD/ARMORS/WEAPON
+[11/10/2021 13:15]  Crossbow&Quiver: Crossbow&Quiver
+[11/10/2021 13:15]  J4PA: J4PA
+[11/10/2021 13:15]  11/5 SkillScrollAsp: 11/5 SkillScrollAsp
+[11/10/2021 13:15]  ARTISAN CORE&SKILLB: ARTISAN CORE&SKILLB
+[11/10/2021 13:15]  T-Maps, Rares, Misc: T-Maps, Rares, Misc
+[11/10/2021 13:15]  Rares: Rares
+[11/10/2021 13:15]  Bindy: Bindy
+[11/10/2021 13:15]  SS, Cores 10-31-21: SS, Cores 10-31-21
+[11/10/2021 13:15]  Prev Coins @ 11k: Prev Coins @ 11k
+[11/10/2021 13:15]  Priced to Move: Priced to Move
+[11/10/2021 13:15]  Rootin for ya, hon!: Rootin for ya, hon!
+[11/10/2021 13:15]  Hella Sick Armorz: Hella Sick Armorz
+[11/10/2021 13:15]  120 SCRIBE: 120 SCRIBE
+[11/10/2021 13:15]  Hella Sick Weaponz: Hella Sick Weaponz
+[11/10/2021 13:15]  RECALL SCROLL: RECALL SCROLL
+[11/10/2021 13:15]  Danett: Danett the innkeeper
+[11/10/2021 13:15]  A N K H: A N K H
+[11/10/2021 13:15]  RARE/SS/CORE/TMAP: RARE/SS/CORE/TMAP
+[11/10/2021 13:15]  Cheap Alch/Scribe: Cheap Alch/Scribe
+[11/10/2021 13:15]  System: You are now under the protection of the town guards.
+[11/10/2021 13:15]  Razor: [+Hidden/Stealthing (0s)]
+[11/10/2021 13:15]  Skrap's Mats!: Skrap's Mats!
+[11/10/2021 13:15]  ARCANE/CORES/SS: ARCANE/CORES/SS
+[11/10/2021 13:15]  Rares SS Cores: Rares SS Cores
+[11/10/2021 13:15]  Gold Spell Proc Link: Gold Spell Proc Link
+[11/10/2021 13:15]  Mogar: [Veteran, MR]
+[11/10/2021 13:15]  Mogar: Mogar
+[11/10/2021 13:15]  Lizbet: [Hang Around, A^T]
+[11/10/2021 13:15]  Lizbet: Lizbet
+[11/10/2021 13:15]  Dark Reality: [Most Wanted], [MW]
+[11/10/2021 13:15]  Dark Reality: Dark Reality
+[11/10/2021 13:15]  Obrero: Obrero
+[11/10/2021 13:15]  Lags: Lags
+[11/10/2021 13:15]  Bucknasty: Bucknasty
+[11/10/2021 13:15]  Operative: Operative
+[11/10/2021 13:15]  Palon: Palon
+[11/10/2021 13:15]  BlindSided: BlindSided
+[11/10/2021 13:15]  Ironwill: [Ripe, SQzD]
+[11/10/2021 13:15]  Ironwill: Ironwill
+[11/10/2021 13:15]  Korack: Korack
+[11/10/2021 13:15]  Atom Ant: Atom Ant
+[11/10/2021 13:15]  King of Limbs: King of Limbs
+[11/10/2021 13:15]  Shini Gami: [Squire, C-C]
+[11/10/2021 13:15]  Shini Gami: Shini Gami
+[11/10/2021 13:15]  Zetzik: [II, VOX]
+[11/10/2021 13:15]  Zetzik: Zetzik
+[11/10/2021 13:15]  Bletzik: Bletzik
+[11/10/2021 13:15]  Kretzik: [II, VOX]
+[11/10/2021 13:15]  Kretzik: Kretzik
+[11/10/2021 13:15]  Ashurai: [Ripe, SQzD]
+[11/10/2021 13:15]  Ashurai: Ashurai
+[11/10/2021 13:15]  Arbor's Shop: Arbor's Shop
+[11/10/2021 13:15]  Kirby: *pacified 12s discord 5s*
+[11/10/2021 13:15]  Kirby: Kirby the battle trainer
+[11/10/2021 13:15]  FULLY RESTOCKED: FULLY RESTOCKED
+[11/10/2021 13:15]  TOTAL RESTOCKED: TOTAL RESTOCKED
+[11/10/2021 13:15]  120 Adventurers Rope: 120 Adventurers Rope
+[11/10/2021 13:15]  Food 150g 16/05/2021: Food 150g 16/05/2021
+[11/10/2021 13:15]  bits and pieces: bits and pieces
+[11/10/2021 13:15]  120 Leather ARMOR: 120 Leather ARMOR
+[11/10/2021 13:15]  120 Leather ARMOR: 120 Leather ARMOR
+[11/10/2021 13:15]  Schulgixxerman: Schulgixxerman
+[11/10/2021 13:15]  EXCELLENT CRATES!: EXCELLENT CRATES!
+[11/10/2021 13:15]  120 Smith and REPAIR: 120 Smith and REPAIR
+[11/10/2021 13:15]  System: Follow the arrow to your destination.
+[11/10/2021 13:15]  Razor: [-Hidden/Stealthing (s)]
+[11/10/2021 13:15]  Civata: Civata
+[11/10/2021 13:15]  System: You fail to ignite the campfire.
+[11/10/2021 13:15]  System: Distance to destination: 1 steps.
+[11/10/2021 13:15]  Razor: [RED - 1 steps away]
+[11/10/2021 13:15]  System: You fail to ignite the campfire.
+[11/10/2021 13:15]  System: Distance to destination: 1 steps.
+[11/10/2021 13:15]  Razor: [RED - 1 steps away]
+[11/10/2021 13:15]  System: You fail to ignite the campfire.
+[11/10/2021 13:15]  System: You must wait a few moments before attempting to create another campfire.
+[11/10/2021 13:15]  System: Distance to destination: 1 steps.
+[11/10/2021 13:15]  Razor: [RED - 1 steps away]
+[11/10/2021 13:15]  System: Distance to destination: 1 steps.
+[11/10/2021 13:15]  Razor: [RED - 1 steps away]
+[11/10/2021 13:15]  System: Magehand has completed the achievement: Transmutation (Basic).
+[11/10/2021 13:15]  System: Distance to destination: 1 steps.
+[11/10/2021 13:15]  Razor: [RED - 1 steps away]
+[11/10/2021 13:16]  System: Distance to destination: 1 steps.
+[11/10/2021 13:16]  Razor: [RED - 1 steps away]
+[11/10/2021 13:16]  System: Distance to destination: 1 steps.
+[11/10/2021 13:16]  Razor: [RED - 1 steps away]
+[11/10/2021 13:16]  System: Distance to destination: 1 steps.
+[11/10/2021 13:16]  Razor: [RED - 1 steps away]
+[11/10/2021 13:16]  System: Your campfire is now secure.
+[11/10/2021 13:16]  Stink Fist: Hiking location unlocked: Outpost Moongate
+[11/10/2021 13:16]  System: Distance to destination: 1 steps.
+[11/10/2021 13:16]  Razor: [RED - 1 steps away]
+[11/10/2021 13:16]  Schulgixxerman: Schulgixxerman
+[11/10/2021 13:16]  EXCELLENT CRATES!: EXCELLENT CRATES!
+[11/10/2021 13:16]  Mogar: [Veteran, MR]
+[11/10/2021 13:16]  Mogar: Mogar
+[11/10/2021 13:16]  Lags: Lags
+[11/10/2021 13:16]  Operative: Operative
+[11/10/2021 13:16]  Ironwill: [Ripe, SQzD]
+[11/10/2021 13:16]  Ironwill: Ironwill
+[11/10/2021 13:16]  Korack: Korack
+[11/10/2021 13:16]  Shini Gami: [Squire, C-C]
+[11/10/2021 13:16]  Shini Gami: Shini Gami
+[11/10/2021 13:16]  Zetzik: [II, VOX]
+[11/10/2021 13:16]  Zetzik: Zetzik
+[11/10/2021 13:16]  Kretzik: [II, VOX]
+[11/10/2021 13:16]  Kretzik: Kretzik
+[11/10/2021 13:16]  Ashurai: [Ripe, SQzD]
+[11/10/2021 13:16]  Ashurai: Ashurai
+[11/10/2021 13:16]  Arbor's Shop: Arbor's Shop
+[11/10/2021 13:16]  Kirby: *pacified 17s discord 4s*
+[11/10/2021 13:16]  Kirby: Kirby the battle trainer
+[11/10/2021 13:16]  FULLY RESTOCKED: FULLY RESTOCKED
+[11/10/2021 13:16]  120 Adventurers Rope: 120 Adventurers Rope
+[11/10/2021 13:16]  bits and pieces: bits and pieces
+[11/10/2021 13:16]  120 Leather ARMOR: 120 Leather ARMOR
+[11/10/2021 13:16]  120 Smith and REPAIR: 120 Smith and REPAIR
+[11/10/2021 13:16]  Lizbet: [Hang Around, A^T]
+[11/10/2021 13:16]  Lizbet: Lizbet
+[11/10/2021 13:16]  Dark Reality: [Most Wanted], [MW]
+[11/10/2021 13:16]  Dark Reality: Dark Reality
+[11/10/2021 13:16]  Obrero: Obrero
+[11/10/2021 13:16]  Bucknasty: Bucknasty
+[11/10/2021 13:16]  Palon: Palon
+[11/10/2021 13:16]  Atom Ant: Atom Ant
+[11/10/2021 13:16]  King of Limbs: King of Limbs
+[11/10/2021 13:16]  Bletzik: Bletzik
+[11/10/2021 13:16]  Food 150g 16/05/2021: Food 150g 16/05/2021
+[11/10/2021 13:16]  120 Leather ARMOR: 120 Leather ARMOR
+[11/10/2021 13:16]  ARCANE/CORES/SS: ARCANE/CORES/SS
+[11/10/2021 13:16]  Rares SS Cores: Rares SS Cores
+[11/10/2021 13:16]  Gold Spell Proc Link: Gold Spell Proc Link
+[11/10/2021 13:16]  BlindSided: BlindSided
+[11/10/2021 13:16]  TOTAL RESTOCKED: TOTAL RESTOCKED
+[11/10/2021 13:16]  Skrap's Mats!: Skrap's Mats!
+[11/10/2021 13:16]  Almost Rare Loot: Almost Rare Loot
+[11/10/2021 13:16]  Homes: Homes the house steward
+[11/10/2021 13:16]  McD Skill Scrolls: McD Skill Scrolls
+[11/10/2021 13:16]  Pick These Axes!: Pick These Axes!
+[11/10/2021 13:16]  Pick These Axes!: Pick These Axes!
+[11/10/2021 13:16]  120 Alchemist, KEGS: 120 Alchemist, KEGS
+[11/10/2021 13:16]  GreaterHealKegs: GreaterHealKegs
+[11/10/2021 13:16]  SS / Aspect / Magics: SS / Aspect / Magics
+[11/10/2021 13:16]  2/20 PIXEL CANDY: 2/20 PIXEL CANDY
+[11/10/2021 13:16]  3/1 DECO RARES Etc: 3/1 DECO RARES Etc
+[11/10/2021 13:16]  Hella Bows Batman: Hella Bows Batman
+[11/10/2021 13:16]  Hella Bulk Weaponz: Hella Bulk Weaponz
+[11/10/2021 13:16]  System: Repaired 8 items.
+[11/10/2021 13:16]  Skrap's Mats!: Skrap's Mats!
+[11/10/2021 13:16]  Razor: [+Hidden/Stealthing (0s)]
+[11/10/2021 13:16]  Danett: Danett the innkeeper
+[11/10/2021 13:16]  11/5 SkillScrollAsp: 11/5 SkillScrollAsp
+[11/10/2021 13:16]  ARTISAN CORE&SKILLB: ARTISAN CORE&SKILLB
+[11/10/2021 13:16]  T-Maps, Rares, Misc: T-Maps, Rares, Misc
+[11/10/2021 13:16]  Prev Coins @ 11k: Prev Coins @ 11k
+[11/10/2021 13:16]  Rares: Rares
+[11/10/2021 13:16]  RARE/SS/CORE/TMAP: RARE/SS/CORE/TMAP
+[11/10/2021 13:16]  Cheap Alch/Scribe: Cheap Alch/Scribe
+[11/10/2021 13:16]  Bindy: Bindy
+[11/10/2021 13:16]  Priced to Move: Priced to Move
+[11/10/2021 13:16]  SS, Cores 10-31-21: SS, Cores 10-31-21
+[11/10/2021 13:16]  RECALL SCROLL: RECALL SCROLL
+[11/10/2021 13:16]  Rootin for ya, hon!: Rootin for ya, hon!
+[11/10/2021 13:16]  Hella Sick Armorz: Hella Sick Armorz
+[11/10/2021 13:16]  120 SCRIBE: 120 SCRIBE
+[11/10/2021 13:16]  Hella Sick Weaponz: Hella Sick Weaponz
+[11/10/2021 13:16]  Ashur: Ashur
+[11/10/2021 13:16]  TOM CRUISE SHOP: TOM CRUISE SHOP
+[11/10/2021 13:16]  Gavin: Gavin
+[11/10/2021 13:16]  Ish's Goodies: Ish's Goodies
+[11/10/2021 13:16]  Bearded Lumberjack: Bearded Lumberjack
+[11/10/2021 13:16]  Nigel: Nigel
+[11/10/2021 13:16]  Viking Skill Balls: Viking Skill Balls
+[11/10/2021 13:16]  Toxic Exotics: Toxic Exotics
+[11/10/2021 13:16]  CORES N STUFF: CORES N STUFF
+[11/10/2021 13:16]  Mimio: Mimio
+[11/10/2021 13:16]  CHEAP CHEAP: CHEAP CHEAP
+[11/10/2021 13:16]  Blacksmith!: Blacksmith!
+[11/10/2021 13:16]  A N K H: A N K H
+[11/10/2021 13:16]  Razor: [-Hidden/Stealthing (s)]
+[11/10/2021 13:16]  CHEAPO STUFF: CHEAPO STUFF
+[11/10/2021 13:16]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[11/10/2021 13:16]  FOOD/ARMORS/WEAPON: FOOD/ARMORS/WEAPON
+[11/10/2021 13:16]  SLAVA UKRAINE!: SLAVA UKRAINE!
+[11/10/2021 13:16]  SPPOOKY DECORATION: SPPOOKY DECORATION
+[11/10/2021 13:16]  Cores/Distills: Cores/Distills
+[11/10/2021 13:16]  BEST WEPS TRAIN RARE: BEST WEPS TRAIN RARE
+[11/10/2021 13:16]  Crossbow&Quiver: Crossbow&Quiver
+[11/10/2021 13:16]  Master Weaponsmith: Master Weaponsmith
+[11/10/2021 13:16]  Cores: Cores
+[11/10/2021 13:16]  Extracts, Oils etc: Extracts, Oils etc
+[11/10/2021 13:16]  Master Armoursmith: Master Armoursmith
+[11/10/2021 13:16]  Amazing Leather: Amazing Leather
+[11/10/2021 13:16]  J4PA: J4PA
+[11/10/2021 13:16]  Leather & Ropes: Leather & Ropes
+[11/10/2021 13:16]  CHEAPSTUFF PREVCOINS: CHEAPSTUFF PREVCOINS
+[11/10/2021 13:16]  SS, Weapons, Cloth: SS, Weapons, Cloth
+[11/10/2021 13:16]  CONTAINER WAND: CONTAINER WAND
+[11/10/2021 13:16]  Coloured Chain/Plate: Coloured Chain/Plate
+[11/10/2021 13:16]  120 TINKERING: 120 TINKERING
+[11/10/2021 13:16]  books weapons food: books weapons food
+[11/10/2021 13:16]  More Plate: More Plate
+[11/10/2021 13:16]  CHEAPEST ON SHARD!: CHEAPEST ON SHARD!
+[11/10/2021 13:16]  Potions and more!: Potions and more!
+[11/10/2021 13:16]  Anissa: Anissa the farmer
+[11/10/2021 13:16]  a goat: a goat
+[11/10/2021 13:16]  System: You have left the protection of the town guards.
+[11/10/2021 13:16]  Kenton: Kenton the lumberjack
+[11/10/2021 13:16]  Ravi: Ravi the farmer
+[11/10/2021 13:16]  a sheep: a sheep
+[11/10/2021 13:16]  a sheep: a sheep
+[11/10/2021 13:16]  a sheep: a sheep
+[11/10/2021 13:16]  Cheaky Bardwell: [Ripe, SQzD]
+[11/10/2021 13:16]  Cheaky Bardwell: Cheaky Bardwell
+[11/10/2021 13:16]  a cow: a cow
+[11/10/2021 13:16]  System: You are now under the protection of the town guards.
+[11/10/2021 13:16]  Cheaky Bardwell: [Ripe, SQzD]
+[11/10/2021 13:16]  Cheaky Bardwell: Cheaky Bardwell
+[11/10/2021 13:16]  Ines: Ines the alchemist
+[11/10/2021 13:16]  Mae: Mae the herbalist
+[11/10/2021 13:16]  Shani: Shani the mage
+[11/10/2021 13:16]  Kelli: Kelli the mage
+[11/10/2021 13:16]  a cat: a cat
+[11/10/2021 13:16]  OvErDeViL: OvErDeViL
+[11/10/2021 13:16]  a pack horse: (tame)
+[11/10/2021 13:16]  a pack horse: [1599/2000 stones]
+[11/10/2021 13:16]  a pack horse: a pack horse
+[11/10/2021 13:16]  Leiko: Leiko the tinker
+[11/10/2021 13:16]  James Goodall: Legendary Domesticator
+[11/10/2021 13:16]  James Goodall: [Wanderer, CFC]
+[11/10/2021 13:16]  James Goodall: James Goodall
+[11/10/2021 13:16]  a pack horse: (tame)
+[11/10/2021 13:16]  a pack horse: [1599/2000 stones]
+[11/10/2021 13:16]  a pack horse: a pack horse
+[11/10/2021 13:17]  James Goodall: whats your taming?
+[11/10/2021 13:17]  OvErDeViL: i am newbie
+[11/10/2021 13:17]  OvErDeViL: no
+[11/10/2021 13:17]  OvErDeViL: yes
+[11/10/2021 13:17]  OvErDeViL: taming for me
+[11/10/2021 13:17]  OvErDeViL: please
+[11/10/2021 13:17]  OvErDeViL: oh
+[11/10/2021 13:17]  James Goodall: that's a good start
+[11/10/2021 13:17]  James Goodall: enjoy
+[11/10/2021 13:17]  OvErDeViL: thanks
+[11/10/2021 13:17]  System: What do you wish to track?
+[11/10/2021 13:17]  OvErDeViL: my friend
+[11/10/2021 13:17]  a dog: a dog
+[11/10/2021 13:17]  a cat: a cat
+[11/10/2021 13:17]  System: Your skill in Camping has decreased by 0.1.  It is now 67.3.
+[11/10/2021 13:17]  System: Your skill in Tracking has increased by 0.1.  It is now 75.9.
+[11/10/2021 13:17]  Razor: [Camping] -0.1 67.3 (-4.5)
+[11/10/2021 13:17]  Razor: [Tracking] +0.1 75.9 (+0.1)
+[11/10/2021 13:17]  System: Your skill in Tactics has decreased by 10.0.  It is now 71.3.
+[11/10/2021 13:17]  Stink Fist: Kal Ort Por [Recall]
+[11/10/2021 13:18]  System: You have left the protection of the town guards.
+[11/10/2021 13:18]  a giant rat: a giant rat
+[11/10/2021 13:18]  an eagle: an eagle
+[11/10/2021 13:18]  System: 2 item(s) queued to be equipped.
+[11/10/2021 13:18]  System: Your skill in Tactics has increased by 10.0.  It is now 81.3.
+[11/10/2021 13:18]  System: Finished 2 queued actions in 0.6 seconds.
+[11/10/2021 13:18]  System: Opening door...
+[11/10/2021 13:18]  System: Your house and its contents have been refreshed. 29 days 19 hours 57 minutes remaining until owner refresh required.
+[11/10/2021 13:18]  System: Where will you search?
+[11/10/2021 13:18]  System: You search the home and find no one hiding within.
+[11/10/2021 13:18]  an eagle: an eagle
+[11/10/2021 13:18]  a giant rat: a giant rat
+[11/10/2021 13:18]  an eagle: an eagle
+[11/10/2021 13:18]  System: Warning: ribs amount is now 0!

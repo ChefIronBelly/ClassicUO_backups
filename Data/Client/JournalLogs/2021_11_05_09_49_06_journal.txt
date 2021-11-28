@@ -1,0 +1,1638 @@
+[11/05/2021 09:49]  System: WorldMap loading...
+[11/05/2021 09:49]  System: Loading WorldMap markers..
+[11/05/2021 09:49]  System: ..Banks_and_Healers.xml (20)
+[11/05/2021 09:49]  System: ..Dungeons.xml (12)
+[11/05/2021 09:49]  System: ..Dungeon_Gates.xml (335)
+[11/05/2021 09:49]  System: ..Healer_Caravans.xml (32)
+[11/05/2021 09:49]  System: ..Moongates.xml (9)
+[11/05/2021 09:49]  System: ..POI.xml (176)
+[11/05/2021 09:49]  System: ..Shrines.xml (9)
+[11/05/2021 09:49]  System: ..Subterranean.xml (6)
+[11/05/2021 09:49]  System: ..Townships.xml (9)
+[11/05/2021 09:49]  System: WorldMap markers loaded (608)
+[11/05/2021 09:49]  System: Welcome Empress Nympho!
+[11/05/2021 09:49]  Razor: [- (s)]
+[11/05/2021 09:49]  Razor: [+Campfire Visit (6533s)]
+[11/05/2021 09:49]  Razor: [- (s)]
+[11/05/2021 09:49]  Razor: [+Strength (17s)]
+[11/05/2021 09:49]  Razor: [- (s)]
+[11/05/2021 09:49]  Razor: [+Agility (19s)]
+[11/05/2021 09:49]  Razor: [- (s)]
+[11/05/2021 09:49]  Razor: [+Forensic Eval Bonus (10757s)]
+[11/05/2021 09:49]  Empress Nympho: Empress Nympho
+[11/05/2021 09:49]  a frostbane priest: a frostbane priest
+[11/05/2021 09:49]  a snowdrift: a snowdrift
+[11/05/2021 09:49]  a snow elemental: a snow elemental
+[11/05/2021 09:49]  You see: a snow elemental corpse
+[11/05/2021 09:49]  You see: a snowdrift corpse
+[11/05/2021 09:49]  You see: an ice elemental corpse
+[11/05/2021 09:49]  System: You have rejoined the party.
+[11/05/2021 09:49]  System: WorldMap loaded!
+[11/05/2021 09:49]  You see: a ghoul corpse
+[11/05/2021 09:49]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:49]  You see: a frostbane acolyte corpse
+[11/05/2021 09:49]  System: Where do you wish to traverse to?
+[11/05/2021 09:49]  Razor: [+Paralyze (0s)]
+[11/05/2021 09:49]  Razor: [-Paralyze (s)]
+[11/05/2021 09:49]  System: You are no longer hindered.
+[11/05/2021 09:49]  You see: a snowdrift corpse
+[11/05/2021 09:49]  a snowdrift: a snowdrift
+[11/05/2021 09:49]  System: Playing Macro 'Healing'...
+[11/05/2021 09:49]  Razor: Attack: a snow elemental
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:49]  System: Your attack crushes their armor!
+[11/05/2021 09:49]  a snow elemental: -101
+[11/05/2021 09:49]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:49]  Empress Nympho: -7
+[11/05/2021 09:49]  System: Who will you use the bandages on?
+[11/05/2021 09:49]  Razor: Healing Started
+[11/05/2021 09:49]  System: You begin applying the bandages.
+[11/05/2021 09:49]  Razor: Bandage: 1s
+[11/05/2021 09:49]  a snow elemental: -84
+[11/05/2021 09:49]  Razor: Bandage: 2s
+[11/05/2021 09:49]  System: Parry skillgain: 3.768%
+[11/05/2021 09:49]  Empress Nympho: -5
+[11/05/2021 09:49]  Empress Nympho: -11
+[11/05/2021 09:49]  System: Your fingers slip!
+[11/05/2021 09:49]  Razor: Bandage: 3s
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.803%
+[11/05/2021 09:49]  a snow elemental: -61
+[11/05/2021 09:49]  Empress Nympho: -9
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:49]  System: You feel chilled and your metabolism slowed! [2]
+[11/05/2021 09:49]  Razor: Bandage: 4s
+[11/05/2021 09:49]  Empress Nympho: -5
+[11/05/2021 09:49]  System: Your strength has changed by -20.  It is now 100
+[11/05/2021 09:49]  Razor: [-Strength (s)]
+[11/05/2021 09:49]  Razor: Str: -20 - 100
+[11/05/2021 09:49]  a snow elemental: -84
+[11/05/2021 09:49]  a snowdrift: -13
+[11/05/2021 09:49]  Razor: Bandage: 5s
+[11/05/2021 09:49]  Razor: Attack: a snowdrift
+[11/05/2021 09:49]  Empress Nympho: -2
+[11/05/2021 09:49]  Razor: Attack: a snowdrift
+[11/05/2021 09:49]  System: Parry skillgain: 3.768% [2]
+[11/05/2021 09:49]  Razor: Bandage: 6s
+[11/05/2021 09:49]  System: Your fingers slip!
+[11/05/2021 09:49]  a snowdrift: -84
+[11/05/2021 09:49]  a snow elemental: -13
+[11/05/2021 09:49]  Razor: Attack: a snowdrift
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.803% [2]
+[11/05/2021 09:49]  Razor: Bandage: 7s
+[11/05/2021 09:49]  System: Your dexterity has changed by -20.  It is now 100
+[11/05/2021 09:49]  Razor: [-Agility (s)]
+[11/05/2021 09:49]  Razor: Dex: -20 - 100
+[11/05/2021 09:49]  Empress Nympho: -6
+[11/05/2021 09:49]  Razor: Attack: a snow elemental
+[11/05/2021 09:49]  Razor: Bandage: 8s
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:49]  a snowdrift: -84
+[11/05/2021 09:49]  a snow elemental: -13
+[11/05/2021 09:49]  a snowdrift: *regens*
+[11/05/2021 09:49]  Razor: Bandage: 9s
+[11/05/2021 09:49]  Empress Nympho: -2
+[11/05/2021 09:49]  Razor: Attack: a snow elemental
+[11/05/2021 09:49]  System: Parry skillgain: 3.768% [2]
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.985%
+[11/05/2021 09:49]  a snow elemental: -75
+[11/05/2021 09:49]  a snowdrift: -12
+[11/05/2021 09:49]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:49]  Empress Nympho: -9
+[11/05/2021 09:49]  System: Your fingers slip! [3]
+[11/05/2021 09:49]  System: You finish applying the bandages.
+[11/05/2021 09:49]  Empress Nympho: +34
+[11/05/2021 09:49]  System: Healing skillgain: 7.533%
+[11/05/2021 09:49]  Razor: Bandage: 10s
+[11/05/2021 09:49]  Empress Nympho: -8
+[11/05/2021 09:49]  System: You have gained a little fame.
+[11/05/2021 09:49]  System: You have gained a little karma.
+[11/05/2021 09:49]  Empress Nympho: (Water Aspect 907.0/2500 xp)
+[11/05/2021 09:49]  System: -7
+[11/05/2021 09:49]  a snowdrift: -1
+[11/05/2021 09:49]  System: Who will you use the bandages on?
+[11/05/2021 09:49]  Razor: Healing Started
+[11/05/2021 09:49]  You see: a snow elemental corpse
+[11/05/2021 09:49]  System: You begin applying the bandages.
+[11/05/2021 09:49]  Razor: Bandage: 1s
+[11/05/2021 09:49]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:49]  System: Parry skillgain: 3.768%
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.985%
+[11/05/2021 09:49]  Razor: Attack: a snowdrift
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:49]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:49]  Empress Nympho: (Water Aspect 908.0/2500 xp)
+[11/05/2021 09:49]  System: -134
+[11/05/2021 09:49]  You see: a snowdrift corpse
+[11/05/2021 09:49]  Razor: Bandage: 2s
+[11/05/2021 09:49]  Razor: Bandage: 3s
+[11/05/2021 09:49]  System: You have gained a little karma.
+[11/05/2021 09:49]  System: You have gained a little fame.
+[11/05/2021 09:49]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:49]  Razor: Bandage: 4s
+[11/05/2021 09:49]  Razor: Bandage: 5s
+[11/05/2021 09:49]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:49]  Razor: Bandage: 6s
+[11/05/2021 09:49]  Razor: Target: Empress Nympho
+[11/05/2021 09:49]  System: You carve materials from the corpse.
+[11/05/2021 09:49]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:49]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:49]  Razor: Bandage: 7s
+[11/05/2021 09:49]  Razor: Bandage: 8s
+[11/05/2021 09:49]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:49]  Razor: Bandage: 9s
+[11/05/2021 09:49]  Razor: Bandage: 10s
+[11/05/2021 09:49]  System: You finish applying the bandages.
+[11/05/2021 09:49]  Empress Nympho: +6
+[11/05/2021 09:49]  System: Healing skillgain: 7.533%
+[11/05/2021 09:49]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:49]  System: You carve materials from the corpse.
+[11/05/2021 09:49]  an ice elemental: an ice elemental
+[11/05/2021 09:49]  Razor: Attack: a snowdrift
+[11/05/2021 09:49]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:49]  Empress Nympho: -8
+[11/05/2021 09:49]  System: Who will you use the bandages on?
+[11/05/2021 09:49]  Razor: Healing Started
+[11/05/2021 09:49]  System: You begin applying the bandages.
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:49]  a snowdrift: -79
+[11/05/2021 09:49]  Razor: Bandage: 1s
+[11/05/2021 09:49]  Razor: Bandage: 2s
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:49]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:49]  a snowdrift: -159
+[11/05/2021 09:49]  a snowdrift: *regens*
+[11/05/2021 09:49]  Razor: Bandage: 3s
+[11/05/2021 09:49]  System: You have gained a little fame.
+[11/05/2021 09:49]  System: You have gained a little karma.
+[11/05/2021 09:49]  Empress Nympho: (Water Aspect 909.1/2500 xp)
+[11/05/2021 09:49]  System: -90
+[11/05/2021 09:49]  You see: a snowdrift corpse
+[11/05/2021 09:49]  Razor: Bandage: 4s
+[11/05/2021 09:49]  Razor: Bandage: 5s
+[11/05/2021 09:49]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:49]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:49]  Razor: Bandage: 6s
+[11/05/2021 09:49]  Razor: Bandage: 7s
+[11/05/2021 09:49]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:49]  System: You carve materials from the corpse.
+[11/05/2021 09:49]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:49]  Razor: Bandage: 8s
+[11/05/2021 09:49]  Razor: Bandage: 9s
+[11/05/2021 09:49]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:49]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:49]  System: You finish applying the bandages.
+[11/05/2021 09:49]  Empress Nympho: +6
+[11/05/2021 09:49]  System: Healing skillgain: 7.533%
+[11/05/2021 09:49]  You see: a frostbane acolyte corpse
+[11/05/2021 09:49]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  a snow elemental: a snow elemental
+[11/05/2021 09:50]  an ice elemental: an ice elemental
+[11/05/2021 09:50]  You see: a rotting corpse
+[11/05/2021 09:50]  You see: a frostbane acolyte corpse
+[11/05/2021 09:50]  You see: a rotting corpse
+[11/05/2021 09:50]  You see: a frostbane acolyte corpse
+[11/05/2021 09:50]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:50]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:50]  Razor: Attack: a snow elemental
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:50]  a snow elemental: -59
+[11/05/2021 09:50]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:50]  a snow elemental: -40
+[11/05/2021 09:50]  a snow elemental: -62
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:50]  Razor: Attack: a snow elemental
+[11/05/2021 09:50]  System: Your attack crushes their armor!
+[11/05/2021 09:50]  a snow elemental: -128
+[11/05/2021 09:50]  System: Parry skillgain: 3.768%
+[11/05/2021 09:50]  Empress Nympho: -7
+[11/05/2021 09:50]  System: Who will you use the bandages on?
+[11/05/2021 09:50]  Razor: Healing Started
+[11/05/2021 09:50]  System: You begin applying the bandages.
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:50]  Razor: Attack: a snow elemental
+[11/05/2021 09:50]  Razor: Bandage: 1s
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:50]  Razor: Bandage: 2s
+[11/05/2021 09:50]  a snow elemental: -70
+[11/05/2021 09:50]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:50]  Empress Nympho: -8
+[11/05/2021 09:50]  System: Your fingers slip!
+[11/05/2021 09:50]  Empress Nympho: -4
+[11/05/2021 09:50]  Empress Nympho: -13
+[11/05/2021 09:50]  Razor: Bandage: 3s
+[11/05/2021 09:50]  System: Parry skillgain: 3.768%
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:50]  Razor: Bandage: 4s
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.985%
+[11/05/2021 09:50]  Razor: Bandage: 5s
+[11/05/2021 09:50]  Razor: Bandage: 6s
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:50]  System: You have gained a little fame.
+[11/05/2021 09:50]  System: You have gained a little karma.
+[11/05/2021 09:50]  Empress Nympho: (Water Aspect 910.0/2500 xp)
+[11/05/2021 09:50]  System: -79
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:50]  System: Your fingers slip!
+[11/05/2021 09:50]  Razor: Bandage: 7s
+[11/05/2021 09:50]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:50]  Razor: Bandage: 8s
+[11/05/2021 09:50]  Razor: Bandage: 9s
+[11/05/2021 09:50]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:50]  System: You carve materials from the corpse.
+[11/05/2021 09:50]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:50]  System: You finish applying the bandages.
+[11/05/2021 09:50]  Empress Nympho: +30
+[11/05/2021 09:50]  System: Healing skillgain: 7.533%
+[11/05/2021 09:50]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:50]  Empress Nympho: The food is paltry and is barely satisfying.
+[11/05/2021 09:50]  System: You are still slightly hungry.
+[11/05/2021 09:50]  Razor: [+Food Satisfaction (3600s)]
+[11/05/2021 09:50]  You see: a snowdrift corpse
+[11/05/2021 09:50]  You see: a snowdrift corpse
+[11/05/2021 09:50]  You see: a ghoul corpse
+[11/05/2021 09:50]  You see: a frostbane acolyte corpse
+[11/05/2021 09:50]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:50]  You see: a snowdrift corpse
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  You see: a snowdrift corpse
+[11/05/2021 09:50]  You see: an ice elemental corpse
+[11/05/2021 09:50]  a snow flurry: a snow flurry
+[11/05/2021 09:50]  You see: a snow flurry corpse
+[11/05/2021 09:50]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  You see: a ghoul corpse
+[11/05/2021 09:50]  You see: a frostbane acolyte corpse
+[11/05/2021 09:50]  You see: a snow elemental corpse
+[11/05/2021 09:50]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:50]  System: You absorb their spell (19.2% current damage bonus).
+[11/05/2021 09:50]  a frostbane acolyte: -52
+[11/05/2021 09:50]  Empress Nympho: -1
+[11/05/2021 09:50]  System: Who will you use the bandages on?
+[11/05/2021 09:50]  Razor: Healing Started
+[11/05/2021 09:50]  System: You begin applying the bandages.
+[11/05/2021 09:50]  Razor: Bandage: 1s
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:50]  a frostbane acolyte: -55
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:50]  Razor: Bandage: 2s
+[11/05/2021 09:50]  a frostbane acolyte: -78
+[11/05/2021 09:50]  Razor: Bandage: 3s
+[11/05/2021 09:50]  Empress Nympho: -4
+[11/05/2021 09:50]  System: Your fingers slip!
+[11/05/2021 09:50]  Razor: Bandage: 4s
+[11/05/2021 09:50]  a frostbane acolyte: -62
+[11/05/2021 09:50]  a frostbane acolyte: *raises the frozen dead*
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:50]  Razor: Bandage: 5s
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:50]  Razor: Bandage: 6s
+[11/05/2021 09:50]  a frostbane acolyte: -56
+[11/05/2021 09:50]  Razor: Bandage: 7s
+[11/05/2021 09:50]  a zombie: a zombie
+[11/05/2021 09:50]  System: Your attack crushes their armor!
+[11/05/2021 09:50]  a frostbane acolyte: -98
+[11/05/2021 09:50]  a zombie: -14
+[11/05/2021 09:50]  Razor: Bandage: 8s
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:50]  Razor: Bandage: 9s
+[11/05/2021 09:50]  a frostbane acolyte: -94
+[11/05/2021 09:50]  a zombie: -13
+[11/05/2021 09:50]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:50]  System: You absorb their spell (19.2% current damage bonus).
+[11/05/2021 09:50]  System: You finish applying the bandages.
+[11/05/2021 09:50]  Empress Nympho: +3
+[11/05/2021 09:50]  System: Healing skillgain: 7.533%
+[11/05/2021 09:50]  Empress Nympho: -1
+[11/05/2021 09:50]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:50]  System: You have gained a little fame.
+[11/05/2021 09:50]  System: You have gained a little karma.
+[11/05/2021 09:50]  Empress Nympho: (Water Aspect 911.8/2500 xp)
+[11/05/2021 09:50]  System: -5
+[11/05/2021 09:50]  You see: a frostbane acolyte corpse
+[11/05/2021 09:50]  You see: a rotting corpse
+[11/05/2021 09:50]  System: You must wait to perform another action.
+[11/05/2021 09:50]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:50]  System: Who will you use the bandages on?
+[11/05/2021 09:50]  Razor: Healing Started
+[11/05/2021 09:50]  System: You begin applying the bandages.
+[11/05/2021 09:50]  System: You must wait to perform another action. [3]
+[11/05/2021 09:50]  Razor: Bandage: 1s
+[11/05/2021 09:50]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:51]  Razor: Bandage: 2s
+[11/05/2021 09:51]  a snow elemental: a snow elemental
+[11/05/2021 09:51]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:51]  Razor: Bandage: 3s
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  You see: a rotting corpse
+[11/05/2021 09:51]  Razor: Bandage: 4s
+[11/05/2021 09:51]  Razor: Bandage: 5s
+[11/05/2021 09:51]  Razor: Bandage: 6s
+[11/05/2021 09:51]  Razor: Attack: a snow flurry
+[11/05/2021 09:51]  System: Parry skillgain: 3.768%
+[11/05/2021 09:51]  Empress Nympho: -7
+[11/05/2021 09:51]  System: Your fingers slip!
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:51]  a snow flurry: -88
+[11/05/2021 09:51]  Razor: Bandage: 7s
+[11/05/2021 09:51]  Razor: Bandage: 8s
+[11/05/2021 09:51]  Razor: Bandage: 9s
+[11/05/2021 09:51]  Razor: Bandage: 10s
+[11/05/2021 09:51]  System: You finish applying the bandages.
+[11/05/2021 09:51]  Empress Nympho: +7
+[11/05/2021 09:51]  System: Healing skillgain: 7.533%
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  a snow flurry: -58
+[11/05/2021 09:51]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:51]  a snow flurry: -121
+[11/05/2021 09:51]  System: Parry skillgain: 3.768%
+[11/05/2021 09:51]  Empress Nympho: -9
+[11/05/2021 09:51]  System: Who will you use the bandages on?
+[11/05/2021 09:51]  Razor: Healing Started
+[11/05/2021 09:51]  System: You begin applying the bandages.
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  Razor: Bandage: 1s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:51]  a snow flurry: -74
+[11/05/2021 09:51]  Razor: Bandage: 2s
+[11/05/2021 09:51]  a snow flurry: -89
+[11/05/2021 09:51]  Razor: Bandage: 3s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:51]  Razor: Bandage: 4s
+[11/05/2021 09:51]  System: You have gained a little fame.
+[11/05/2021 09:51]  System: You have gained a little karma.
+[11/05/2021 09:51]  Empress Nympho: (Water Aspect 913.7/2500 xp)
+[11/05/2021 09:51]  System: -8
+[11/05/2021 09:51]  You see: a snow flurry corpse
+[11/05/2021 09:51]  Razor: Bandage: 5s
+[11/05/2021 09:51]  Razor: Bandage: 6s
+[11/05/2021 09:51]  Razor: Bandage: 7s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:51]  Razor: Bandage: 8s
+[11/05/2021 09:51]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:51]  Razor: Bandage: 9s
+[11/05/2021 09:51]  Razor: Bandage: 10s
+[11/05/2021 09:51]  System: You finish applying the bandages.
+[11/05/2021 09:51]  Empress Nympho: +7
+[11/05/2021 09:51]  System: Healing skillgain: 7.533%
+[11/05/2021 09:51]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:51]  System: You carve materials from the corpse.
+[11/05/2021 09:51]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:51]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:51]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:51]  You see: a snow elemental corpse
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  You see: a snow elemental corpse
+[11/05/2021 09:51]  You see: a rotting corpse
+[11/05/2021 09:51]  You see: a ghoul corpse
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  a snow elemental: a snow elemental
+[11/05/2021 09:51]  You see: a ghoul corpse
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  You see: a snowdrift corpse
+[11/05/2021 09:51]  Empress Nympho: That is out of my line of sight.
+[11/05/2021 09:51]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:51]  a frostbane acolyte: -33
+[11/05/2021 09:51]  System: Parry skillgain: 3.768%
+[11/05/2021 09:51]  Empress Nympho: -2
+[11/05/2021 09:51]  System: You must wait to perform another action.
+[11/05/2021 09:51]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:51]  System: Who will you use the bandages on?
+[11/05/2021 09:51]  Razor: Healing Started
+[11/05/2021 09:51]  System: You begin applying the bandages.
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  Razor: Bandage: 1s
+[11/05/2021 09:51]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:51]  System: Your attack crushes their armor!
+[11/05/2021 09:51]  a frostbane acolyte: -133
+[11/05/2021 09:51]  a snow elemental: -15
+[11/05/2021 09:51]  Empress Nympho: -10
+[11/05/2021 09:51]  System: Your fingers slip!
+[11/05/2021 09:51]  Razor: Bandage: 2s
+[11/05/2021 09:51]  a frostbane acolyte: *raises the frozen dead*
+[11/05/2021 09:51]  Razor: Bandage: 3s
+[11/05/2021 09:51]  Razor: Bandage: 4s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  a zombie: a zombie
+[11/05/2021 09:51]  Razor: Attack: a snow elemental
+[11/05/2021 09:51]  Razor: Bandage: 5s
+[11/05/2021 09:51]  a frostbane acolyte: -89
+[11/05/2021 09:51]  a zombie: -12
+[11/05/2021 09:51]  System: Parry skillgain: 3.768%
+[11/05/2021 09:51]  Empress Nympho: -6
+[11/05/2021 09:51]  Razor: Bandage: 6s
+[11/05/2021 09:51]  System: You absorb their spell (19.2% current damage bonus).
+[11/05/2021 09:51]  Empress Nympho: -1
+[11/05/2021 09:51]  a snow elemental: -60
+[11/05/2021 09:51]  a zombie: -9
+[11/05/2021 09:51]  Razor: Bandage: 7s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:51]  Empress Nympho: -1
+[11/05/2021 09:51]  Razor: Bandage: 8s
+[11/05/2021 09:51]  a frostbane acolyte: -49
+[11/05/2021 09:51]  a zombie: -7
+[11/05/2021 09:51]  Empress Nympho: -2
+[11/05/2021 09:51]  System: Your fingers slip!
+[11/05/2021 09:51]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:51]  Empress Nympho: -9
+[11/05/2021 09:51]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:51]  System: Parry skillgain: 3.768% [2]
+[11/05/2021 09:51]  Razor: Bandage: 9s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:51]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:51]  a frostbane acolyte: -145
+[11/05/2021 09:51]  a zombie: -21
+[11/05/2021 09:51]  System: You finish applying the bandages.
+[11/05/2021 09:51]  Empress Nympho: +29
+[11/05/2021 09:51]  System: Healing skillgain: 7.533%
+[11/05/2021 09:51]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:51]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:51]  System: You parry the spell.
+[11/05/2021 09:51]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:51]  System: You have gained a little fame.
+[11/05/2021 09:51]  System: You have gained a little karma.
+[11/05/2021 09:51]  Empress Nympho: (Water Aspect 915.7/2500 xp)
+[11/05/2021 09:51]  System: -51
+[11/05/2021 09:51]  a snow elemental: -6
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  You see: a rotting corpse
+[11/05/2021 09:51]  Empress Nympho: -3
+[11/05/2021 09:51]  System: Who will you use the bandages on?
+[11/05/2021 09:51]  Razor: Healing Started
+[11/05/2021 09:51]  System: You begin applying the bandages.
+[11/05/2021 09:51]  System: You must wait to perform another action.
+[11/05/2021 09:51]  Razor: Attack: a snow elemental
+[11/05/2021 09:51]  Razor: Bandage: 1s
+[11/05/2021 09:51]  Razor: Bandage: 2s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  Razor: Attack: a snow elemental
+[11/05/2021 09:51]  Razor: Bandage: 3s
+[11/05/2021 09:51]  System: Parry skillgain: 3.768%
+[11/05/2021 09:51]  Empress Nympho: -2
+[11/05/2021 09:51]  You see: a rotting corpse
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  You see: a ghoul corpse
+[11/05/2021 09:51]  Razor: Bandage: 4s
+[11/05/2021 09:51]  a snow elemental: -52
+[11/05/2021 09:51]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:51]  Razor: Bandage: 5s
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:51]  Razor: Bandage: 6s
+[11/05/2021 09:51]  Razor: Bandage: 7s
+[11/05/2021 09:51]  a snow elemental: -60
+[11/05/2021 09:51]  Razor: Bandage: 8s
+[11/05/2021 09:51]  Razor: Bandage: 9s
+[11/05/2021 09:51]  You see: a frostbane acolyte corpse
+[11/05/2021 09:51]  a snow elemental: -43
+[11/05/2021 09:51]  System: ArmsLore skillgain: 1.966% [3]
+[11/05/2021 09:51]  System: You finish applying the bandages.
+[11/05/2021 09:51]  Empress Nympho: +3
+[11/05/2021 09:51]  System: Healing skillgain: 7.533%
+[11/05/2021 09:51]  a snow elemental: -59
+[11/05/2021 09:51]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:52]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:52]  System: Parry skillgain: 3.768%
+[11/05/2021 09:52]  Empress Nympho: -5
+[11/05/2021 09:52]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:52]  Empress Nympho: -8
+[11/05/2021 09:52]  Razor: Healing Started
+[11/05/2021 09:52]  System: Who will you use the bandages on?
+[11/05/2021 09:52]  Razor: Target: Empress Nympho
+[11/05/2021 09:52]  System: You begin applying the bandages.
+[11/05/2021 09:52]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:52]  a snow elemental: -59
+[11/05/2021 09:52]  Razor: Bandage: 1s
+[11/05/2021 09:52]  Razor: Attack: a snow elemental
+[11/05/2021 09:52]  Razor: Bandage: 2s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:52]  Razor: Bandage: 3s
+[11/05/2021 09:52]  Razor: Bandage: 4s
+[11/05/2021 09:52]  Razor: Bandage: 5s
+[11/05/2021 09:52]  System: Your attack crushes their armor!
+[11/05/2021 09:52]  System: You have gained a little fame.
+[11/05/2021 09:52]  System: You have gained a little karma.
+[11/05/2021 09:52]  Empress Nympho: (Water Aspect 916.7/2500 xp)
+[11/05/2021 09:52]  System: -84
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  Razor: Bandage: 6s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:52]  Razor: Bandage: 7s
+[11/05/2021 09:52]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:52]  Razor: Bandage: 8s
+[11/05/2021 09:52]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:52]  Razor: Bandage: 9s
+[11/05/2021 09:52]  System: You carve materials from the corpse.
+[11/05/2021 09:52]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:52]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:52]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:52]  Razor: Bandage: 10s
+[11/05/2021 09:52]  System: You finish applying the bandages.
+[11/05/2021 09:52]  Empress Nympho: +11
+[11/05/2021 09:52]  System: Healing skillgain: 7.533%
+[11/05/2021 09:52]  System: You carve materials from the corpse.
+[11/05/2021 09:52]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:52]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  a snowdrift: a snowdrift
+[11/05/2021 09:52]  Empress Nympho: That is out of my line of sight.
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  You see: a rotting corpse
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  You see: a ghoul corpse
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:52]  Empress Nympho: That is out of my line of sight.
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:52]  You see: an ice elemental corpse
+[11/05/2021 09:52]  an ice elemental: an ice elemental
+[11/05/2021 09:52]  Empress Nympho: That is out of my line of sight.
+[11/05/2021 09:52]  You see: an ice elemental corpse
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  You see: a snow flurry corpse
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  You see: a ghoul corpse
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  You see: a snow flurry corpse
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  You see: a rotting corpse
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  You see: a rotting corpse
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:52]  a snowdrift: a snowdrift
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  Razor: Attack: a snowdrift
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  System: That is too far away.
+[11/05/2021 09:52]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:52]  System: Being perfectly rested, you shove them out of the way.
+[11/05/2021 09:52]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:52]  Empress Nympho: -6
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.080%
+[11/05/2021 09:52]  a snowdrift: -79
+[11/05/2021 09:52]  System: Who will you use the bandages on?
+[11/05/2021 09:52]  Razor: Healing Started
+[11/05/2021 09:52]  System: You begin applying the bandages.
+[11/05/2021 09:52]  Razor: Bandage: 1s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.069%
+[11/05/2021 09:52]  You see: a ghoul corpse
+[11/05/2021 09:52]  You see: a frostbane acolyte corpse
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  Razor: Bandage: 2s
+[11/05/2021 09:52]  Razor: Bandage: 3s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.058%
+[11/05/2021 09:52]  a snowdrift: -84
+[11/05/2021 09:52]  a snowdrift: *regens*
+[11/05/2021 09:52]  Razor: Bandage: 4s
+[11/05/2021 09:52]  You see: a snow elemental corpse
+[11/05/2021 09:52]  Razor: Bandage: 5s
+[11/05/2021 09:52]  System: Parry skillgain: 3.768%
+[11/05/2021 09:52]  Empress Nympho: -5
+[11/05/2021 09:52]  System: Your fingers slip!
+[11/05/2021 09:52]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:52]  Razor: Bandage: 6s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.058% [2]
+[11/05/2021 09:52]  Razor: Bandage: 7s
+[11/05/2021 09:52]  Razor: Bandage: 8s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.047%
+[11/05/2021 09:52]  Razor: Bandage: 9s
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.037%
+[11/05/2021 09:52]  a snowdrift: -84
+[11/05/2021 09:52]  Razor: Bandage: 10s
+[11/05/2021 09:52]  System: You finish applying the bandages.
+[11/05/2021 09:52]  Empress Nympho: +9
+[11/05/2021 09:52]  System: Healing skillgain: 7.533%
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.026%
+[11/05/2021 09:52]  a snowdrift: -64
+[11/05/2021 09:52]  System: Your dexterity has changed by 20.  It is now 120
+[11/05/2021 09:52]  Razor: [+Agility (187s)]
+[11/05/2021 09:52]  Razor: Dex: +20 - 120
+[11/05/2021 09:52]  Razor: [-Agility (s)]
+[11/05/2021 09:52]  Razor: [+Agility (187s)]
+[11/05/2021 09:52]  System: ArmsLore skillgain: 2.016%
+[11/05/2021 09:52]  System: You have gained a little fame.
+[11/05/2021 09:52]  System: You have gained a little karma.
+[11/05/2021 09:52]  Empress Nympho: (Water Aspect 917.8/2500 xp)
+[11/05/2021 09:52]  System: -17
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:52]  System: Finished 3 queued actions in 1.2 seconds.
+[11/05/2021 09:52]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:52]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:52]  System: You carve materials from the corpse.
+[11/05/2021 09:52]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:52]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:52]  a snowdrift: a snowdrift
+[11/05/2021 09:52]  bangbo: (bonded)
+[11/05/2021 09:52]  bangbo: bangbo
+[11/05/2021 09:52]  Hello Fresh: Domesticator
+[11/05/2021 09:52]  Hello Fresh: [Rookie, NKB]
+[11/05/2021 09:52]  Hello Fresh: Hello Fresh
+[11/05/2021 09:52]  a snowdrift: a snowdrift
+[11/05/2021 09:52]  Hello Fresh: *begins taming a creature.*
+[11/05/2021 09:52]  You see: a snowdrift corpse
+[11/05/2021 09:53]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:53]  bangbo: *chilled*
+[11/05/2021 09:53]  System: You absorb their spell (19.2% current damage bonus).
+[11/05/2021 09:53]  Empress Nympho: -1
+[11/05/2021 09:53]  System: Who will you use the bandages on?
+[11/05/2021 09:53]  Razor: Healing Started
+[11/05/2021 09:53]  Hello Fresh: I won't hurt you.
+[11/05/2021 09:53]  System: You begin applying the bandages.
+[11/05/2021 09:53]  Razor: Bandage: 1s
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.956%
+[11/05/2021 09:53]  System: Your attack crushes their armor!
+[11/05/2021 09:53]  a frostbane acolyte: -119
+[11/05/2021 09:53]  Razor: Bandage: 2s
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.946%
+[11/05/2021 09:53]  Razor: Bandage: 3s
+[11/05/2021 09:53]  Hello Fresh: Good...
+[11/05/2021 09:53]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:53]  Razor: Bandage: 4s
+[11/05/2021 09:53]  Empress Nympho: -5
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.937%
+[11/05/2021 09:53]  Razor: Bandage: 5s
+[11/05/2021 09:53]  Razor: Bandage: 6s
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.927%
+[11/05/2021 09:53]  a frostbane acolyte: -89
+[11/05/2021 09:53]  a frostbane acolyte: *raises the frozen dead*
+[11/05/2021 09:53]  Razor: Bandage: 7s
+[11/05/2021 09:53]  a frostbane acolyte: -69
+[11/05/2021 09:53]  Razor: Bandage: 8s
+[11/05/2021 09:53]  a skeleton: a skeleton
+[11/05/2021 09:53]  Razor: Bandage: 9s
+[11/05/2021 09:53]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.918%
+[11/05/2021 09:53]  a frostbane acolyte: -89
+[11/05/2021 09:53]  a skeleton: -13
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.927%
+[11/05/2021 09:53]  Razor: Bandage: 10s
+[11/05/2021 09:53]  System: You finish applying the bandages.
+[11/05/2021 09:53]  Empress Nympho: +4
+[11/05/2021 09:53]  System: Healing skillgain: 7.533%
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.908%
+[11/05/2021 09:53]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:53]  System: You absorb their spell (19.2% current damage bonus).
+[11/05/2021 09:53]  Empress Nympho: -2
+[11/05/2021 09:53]  System: Who will you use the bandages on?
+[11/05/2021 09:53]  Razor: Healing Started
+[11/05/2021 09:53]  System: You begin applying the bandages.
+[11/05/2021 09:53]  a snowdrift: *regens*
+[11/05/2021 09:53]  System: Your attack crushes their armor!
+[11/05/2021 09:53]  a frostbane acolyte: -133
+[11/05/2021 09:53]  a skeleton: -19
+[11/05/2021 09:53]  Razor: Bandage: 1s
+[11/05/2021 09:53]  Razor: Bandage: 2s
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.908%
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.899%
+[11/05/2021 09:53]  System: You have gained some fame.
+[11/05/2021 09:53]  System: You have gained some karma.
+[11/05/2021 09:53]  Empress Nympho: (Water Aspect 921.5/2500 xp)
+[11/05/2021 09:53]  System: -1
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  You see: a skeletal corpse
+[11/05/2021 09:53]  Razor: Bandage: 3s
+[11/05/2021 09:53]  Razor: Bandage: 4s
+[11/05/2021 09:53]  Razor: Bandage: 5s
+[11/05/2021 09:53]  Razor: Bandage: 6s
+[11/05/2021 09:53]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:53]  Razor: Bandage: 7s
+[11/05/2021 09:53]  Razor: Bandage: 8s
+[11/05/2021 09:53]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:53]  System: You carve materials from the corpse.
+[11/05/2021 09:53]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:53]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:53]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:53]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:53]  Razor: Bandage: 9s
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  Razor: Bandage: 10s
+[11/05/2021 09:53]  System: You heal what little damage you had.
+[11/05/2021 09:53]  System: Healing skillgain: 7.533%
+[11/05/2021 09:53]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:53]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:53]  You see: a skeletal corpse
+[11/05/2021 09:53]  a snowdrift: a snowdrift
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  You see: a snow elemental corpse
+[11/05/2021 09:53]  You see: a rotting corpse
+[11/05/2021 09:53]  You see: a ghoul corpse
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  You see: a snow elemental corpse
+[11/05/2021 09:53]  You see: a ghoul corpse
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  You see: a snow elemental corpse
+[11/05/2021 09:53]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:53]  You see: a snow flurry corpse
+[11/05/2021 09:53]  You see: a snow flurry corpse
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  You see: a rotting corpse
+[11/05/2021 09:53]  You see: a frostbane acolyte corpse
+[11/05/2021 09:53]  You see: a ghoul corpse
+[11/05/2021 09:53]  You see: a snow flurry corpse
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  You see: a snow elemental corpse
+[11/05/2021 09:53]  You see: a snow elemental corpse
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  You see: an ice elemental corpse
+[11/05/2021 09:53]  a snowdrift: a snowdrift
+[11/05/2021 09:53]  Razor: Attack: a snowdrift
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:53]  a snowdrift: -89
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:53]  a snowdrift: -84
+[11/05/2021 09:53]  a snowdrift: *regens*
+[11/05/2021 09:53]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:53]  Empress Nympho: -7
+[11/05/2021 09:53]  System: Who will you use the bandages on?
+[11/05/2021 09:53]  Razor: Healing Started
+[11/05/2021 09:53]  System: You begin applying the bandages.
+[11/05/2021 09:53]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:53]  a snowdrift: -127
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:53]  Razor: Bandage: 1s
+[11/05/2021 09:53]  System: You have gained a little fame.
+[11/05/2021 09:53]  System: You have gained a little karma.
+[11/05/2021 09:53]  Empress Nympho: (Water Aspect 922.6/2500 xp)
+[11/05/2021 09:53]  System: -28
+[11/05/2021 09:53]  You see: a snowdrift corpse
+[11/05/2021 09:53]  Razor: Bandage: 2s
+[11/05/2021 09:53]  Razor: Bandage: 3s
+[11/05/2021 09:53]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:53]  Razor: Bandage: 4s
+[11/05/2021 09:53]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:54]  Razor: Bandage: 5s
+[11/05/2021 09:54]  Razor: Bandage: 6s
+[11/05/2021 09:54]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:54]  Razor: Bandage: 7s
+[11/05/2021 09:54]  System: You carve materials from the corpse.
+[11/05/2021 09:54]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:54]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:54]  Razor: Bandage: 8s
+[11/05/2021 09:54]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:54]  Razor: Bandage: 9s
+[11/05/2021 09:54]  an ice elemental: an ice elemental
+[11/05/2021 09:54]  Razor: Bandage: 10s
+[11/05/2021 09:54]  System: You finish applying the bandages.
+[11/05/2021 09:54]  Empress Nympho: +5
+[11/05/2021 09:54]  System: Healing skillgain: 7.533%
+[11/05/2021 09:54]  You see: a frostbane acolyte corpse
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  an ice elemental: an ice elemental
+[11/05/2021 09:54]  You see: a rotting corpse
+[11/05/2021 09:54]  You see: a frostbane acolyte corpse
+[11/05/2021 09:54]  You see: a rotting corpse
+[11/05/2021 09:54]  You see: a frostbane acolyte corpse
+[11/05/2021 09:54]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  a snow elemental: a snow elemental
+[11/05/2021 09:54]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:54]  You see: a snowdrift corpse
+[11/05/2021 09:54]  You see: a snow flurry corpse
+[11/05/2021 09:54]  a snow elemental: a snow elemental
+[11/05/2021 09:54]  a snow flurry: a snow flurry
+[11/05/2021 09:54]  You see: a snowdrift corpse
+[11/05/2021 09:54]  a snowdrift: a snowdrift
+[11/05/2021 09:54]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:54]  System: That is too far away.
+[11/05/2021 09:54]  Razor: Attack: a snow elemental
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:54]  a snow elemental: -61
+[11/05/2021 09:54]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:54]  Empress Nympho: -12
+[11/05/2021 09:54]  System: Who will you use the bandages on?
+[11/05/2021 09:54]  Razor: Healing Started
+[11/05/2021 09:54]  System: You begin applying the bandages.
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:54]  System: Parry skillgain: 3.768%
+[11/05/2021 09:54]  Empress Nympho: -8
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:54]  Razor: Bandage: 1s
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.803%
+[11/05/2021 09:54]  Razor: Bandage: 2s
+[11/05/2021 09:54]  an ice elemental: an ice elemental
+[11/05/2021 09:54]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:54]  Razor: Bandage: 3s
+[11/05/2021 09:54]  a snow elemental: -41
+[11/05/2021 09:54]  Empress Nympho: -6
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:54]  System: Parry skillgain: 3.768%
+[11/05/2021 09:54]  Razor: Bandage: 4s
+[11/05/2021 09:54]  a snow elemental: -65
+[11/05/2021 09:54]  Razor: Bandage: 5s
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  Empress Nympho: -17
+[11/05/2021 09:54]  System: Your fingers slip!
+[11/05/2021 09:54]  Razor: Bandage: 6s
+[11/05/2021 09:54]  a snow elemental: -74
+[11/05/2021 09:54]  Razor: Bandage: 7s
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.795% [2]
+[11/05/2021 09:54]  Razor: Bandage: 8s
+[11/05/2021 09:54]  Razor: Bandage: 9s
+[11/05/2021 09:54]  Razor: Bandage: 10s
+[11/05/2021 09:54]  System: You finish applying the bandages.
+[11/05/2021 09:54]  Empress Nympho: +41
+[11/05/2021 09:54]  System: Healing skillgain: 7.533%
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:54]  a snow elemental: -63
+[11/05/2021 09:54]  a snow elemental: -62
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787% [2]
+[11/05/2021 09:54]  a snow elemental: -66
+[11/05/2021 09:54]  System: You have gained a little fame.
+[11/05/2021 09:54]  System: You have gained a little karma.
+[11/05/2021 09:54]  Empress Nympho: (Water Aspect 923.6/2500 xp)
+[11/05/2021 09:54]  System: -6
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787% [2]
+[11/05/2021 09:54]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:54]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:54]  a snow elemental: a snow elemental
+[11/05/2021 09:54]  System: You carve materials from the corpse.
+[11/05/2021 09:54]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:54]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:54]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:54]  Razor: Attack: a snow elemental
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:54]  a snow elemental: -79
+[11/05/2021 09:54]  System: You may now use an agility potion.
+[11/05/2021 09:54]  a snow elemental: -59
+[11/05/2021 09:54]  a snow elemental: -65
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787% [2]
+[11/05/2021 09:54]  System: Parry skillgain: 3.768%
+[11/05/2021 09:54]  Empress Nympho: -9
+[11/05/2021 09:54]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:54]  Empress Nympho: -9
+[11/05/2021 09:54]  System: Who will you use the bandages on?
+[11/05/2021 09:54]  Razor: Healing Started
+[11/05/2021 09:54]  System: You begin applying the bandages.
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.787% [2]
+[11/05/2021 09:54]  Razor: Bandage: 1s
+[11/05/2021 09:54]  Razor: Attack: a snow elemental
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.803%
+[11/05/2021 09:54]  Razor: Bandage: 2s
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:54]  System: Your attack crushes their armor!
+[11/05/2021 09:54]  a snow elemental: -105
+[11/05/2021 09:54]  Empress Nympho: -7
+[11/05/2021 09:54]  Razor: Bandage: 3s
+[11/05/2021 09:54]  Empress Nympho: -2
+[11/05/2021 09:54]  System: Your fingers slip!
+[11/05/2021 09:54]  Empress Nympho: -10
+[11/05/2021 09:54]  System: You feel chilled and your metabolism slowed! [2]
+[11/05/2021 09:54]  System: Parry skillgain: 3.768%
+[11/05/2021 09:54]  Razor: Bandage: 4s
+[11/05/2021 09:54]  a snow elemental: -79
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.803%
+[11/05/2021 09:54]  Razor: Bandage: 5s
+[11/05/2021 09:54]  You see: a snow flurry corpse
+[11/05/2021 09:54]  Razor: Bandage: 6s
+[11/05/2021 09:54]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:54]  System: You have gained a little fame.
+[11/05/2021 09:54]  System: You have gained a little karma.
+[11/05/2021 09:54]  Empress Nympho: (Water Aspect 924.6/2500 xp)
+[11/05/2021 09:54]  System: -51
+[11/05/2021 09:54]  You see: a snow elemental corpse
+[11/05/2021 09:54]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:54]  System: Your fingers slip!
+[11/05/2021 09:54]  Razor: Bandage: 7s
+[11/05/2021 09:54]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/05/2021 09:55]  Razor: Bandage: 8s
+[11/05/2021 09:55]  Razor: Bandage: 9s
+[11/05/2021 09:55]  System: What corpse or location do you wish to carve?
+[11/05/2021 09:55]  System: You carve materials from the corpse.
+[11/05/2021 09:55]  System: You have worn out your tool.
+[11/05/2021 09:55]  Razor: [-Forensic Eval Bonus (s)]
+[11/05/2021 09:55]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/05/2021 09:55]  Razor: Bandage: 10s
+[11/05/2021 09:55]  System: You finish applying the bandages.
+[11/05/2021 09:55]  Empress Nympho: +35
+[11/05/2021 09:55]  System: Healing skillgain: 7.533%
+[11/05/2021 09:55]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:55]  a snow flurry: a snow flurry
+[11/05/2021 09:55]  You see: a snowdrift corpse
+[11/05/2021 09:55]  a snowdrift: a snowdrift
+[11/05/2021 09:55]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:55]  [Guild][Himmel]: all good
+[11/05/2021 09:55]  System: That is too far away.
+[11/05/2021 09:55]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:55]  a frostbane acolyte: -54
+[11/05/2021 09:55]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:55]  Empress Nympho: -10
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:55]  System: Your attack crushes their armor!
+[11/05/2021 09:55]  a frostbane acolyte: -112
+[11/05/2021 09:55]  System: Who will you use the bandages on?
+[11/05/2021 09:55]  Razor: Healing Started
+[11/05/2021 09:55]  System: You begin applying the bandages.
+[11/05/2021 09:55]  Razor: Bandage: 1s
+[11/05/2021 09:55]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:55]  a frostbane acolyte: -118
+[11/05/2021 09:55]  a frostbane acolyte: *raises the frozen dead*
+[11/05/2021 09:55]  Razor: Bandage: 2s
+[11/05/2021 09:55]  Razor: Bandage: 3s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:55]  a frostbane acolyte: -64
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:55]  Razor: Bandage: 4s
+[11/05/2021 09:55]  a zombie: a zombie
+[11/05/2021 09:55]  System: Being perfectly rested, you shove them out of the way.
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.872%
+[11/05/2021 09:55]  a frostbane acolyte: -89
+[11/05/2021 09:55]  a zombie: -12
+[11/05/2021 09:55]  Razor: Bandage: 5s
+[11/05/2021 09:55]  Razor: Bandage: 6s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.863%
+[11/05/2021 09:55]  System: You have gained a little fame.
+[11/05/2021 09:55]  System: You have gained a little karma.
+[11/05/2021 09:55]  Empress Nympho: (Water Aspect 926.6/2500 xp)
+[11/05/2021 09:55]  System: -63
+[11/05/2021 09:55]  You see: a frostbane acolyte corpse
+[11/05/2021 09:55]  You see: a rotting corpse
+[11/05/2021 09:55]  Razor: Bandage: 7s
+[11/05/2021 09:55]  Razor: Bandage: 8s
+[11/05/2021 09:55]  System: You must wait to perform another action.
+[11/05/2021 09:55]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:55]  Razor: Bandage: 9s
+[11/05/2021 09:55]  Razor: Bandage: 10s
+[11/05/2021 09:55]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:55]  System: You finish applying the bandages.
+[11/05/2021 09:55]  Empress Nympho: +8
+[11/05/2021 09:55]  System: Healing skillgain: 7.533%
+[11/05/2021 09:55]  Empress Nympho: That is out of my line of sight.
+[11/05/2021 09:55]  an ice elemental: an ice elemental
+[11/05/2021 09:55]  Razor: Attack: a frostbane acolyte
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.828%
+[11/05/2021 09:55]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:55]  Empress Nympho: -5
+[11/05/2021 09:55]  System: Who will you use the bandages on?
+[11/05/2021 09:55]  Razor: Healing Started
+[11/05/2021 09:55]  System: You begin applying the bandages.
+[11/05/2021 09:55]  a frostbane acolyte: -53
+[11/05/2021 09:55]  Razor: Bandage: 1s
+[11/05/2021 09:55]  a snow flurry: a snow flurry
+[11/05/2021 09:55]  Razor: Bandage: 2s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.820%
+[11/05/2021 09:55]  System: Your attack crushes their armor!
+[11/05/2021 09:55]  a frostbane acolyte: -91
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.828%
+[11/05/2021 09:55]  Razor: Bandage: 3s
+[11/05/2021 09:55]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:55]  System: You parry the spell.
+[11/05/2021 09:55]  a snow flurry: a snow flurry
+[11/05/2021 09:55]  Empress Nympho: -2
+[11/05/2021 09:55]  Razor: Bandage: 4s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.812%
+[11/05/2021 09:55]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:55]  a frostbane acolyte: -181
+[11/05/2021 09:55]  a frostbane acolyte: *raises the frozen dead*
+[11/05/2021 09:55]  Razor: Bandage: 5s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.803%
+[11/05/2021 09:55]  a frostbane acolyte: -118
+[11/05/2021 09:55]  Razor: Bandage: 6s
+[11/05/2021 09:55]  a snow flurry: a snow flurry
+[11/05/2021 09:55]  a ghoul: a ghoul
+[11/05/2021 09:55]  Razor: Bandage: 7s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.795%
+[11/05/2021 09:55]  System: You have gained some fame.
+[11/05/2021 09:55]  System: You have gained some karma.
+[11/05/2021 09:55]  Empress Nympho: (Water Aspect 928.8/2500 xp)
+[11/05/2021 09:55]  System: -57
+[11/05/2021 09:55]  an ice elemental: an ice elemental
+[11/05/2021 09:55]  You see: a frostbane acolyte corpse
+[11/05/2021 09:55]  You see: a ghoul corpse
+[11/05/2021 09:55]  Razor: Bandage: 8s
+[11/05/2021 09:55]  Razor: Bandage: 9s
+[11/05/2021 09:55]  Razor: Bandage: 10s
+[11/05/2021 09:55]  System: You finish applying the bandages.
+[11/05/2021 09:55]  Empress Nympho: +5
+[11/05/2021 09:55]  System: Healing skillgain: 7.533%
+[11/05/2021 09:55]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:55]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:55]  [Guild][Himmel]: hey bunnz take that gold
+[11/05/2021 09:55]  You see: a snow elemental corpse
+[11/05/2021 09:55]  System: That is too far away.
+[11/05/2021 09:55]  You see: a snowdrift corpse
+[11/05/2021 09:55]  a snowdrift: a snowdrift
+[11/05/2021 09:55]  Empress Nympho: That is out of my line of sight.
+[11/05/2021 09:55]  Razor: Attack: a snow elemental
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:55]  a snow elemental: -57
+[11/05/2021 09:55]  a snow elemental: -48
+[11/05/2021 09:55]  System: Parry skillgain: 3.768%
+[11/05/2021 09:55]  Empress Nympho: -2
+[11/05/2021 09:55]  System: Who will you use the bandages on?
+[11/05/2021 09:55]  Razor: Healing Started
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.787% [2]
+[11/05/2021 09:55]  System: You begin applying the bandages.
+[11/05/2021 09:55]  Razor: Bandage: 1s
+[11/05/2021 09:55]  System: Your attack crushes their armor!
+[11/05/2021 09:55]  a snow elemental: -126
+[11/05/2021 09:55]  System: Your dexterity has changed by -20.  It is now 100
+[11/05/2021 09:55]  Razor: [-Agility (s)]
+[11/05/2021 09:55]  Razor: Dex: -20 - 100
+[11/05/2021 09:55]  Razor: Bandage: 2s
+[11/05/2021 09:55]  You see: very common seed
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:55]  a snow elemental: -54
+[11/05/2021 09:55]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:55]  Empress Nympho: -8
+[11/05/2021 09:55]  Razor: Bandage: 3s
+[11/05/2021 09:55]  Empress Nympho: -2
+[11/05/2021 09:55]  System: Parry skillgain: 3.768%
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.787%
+[11/05/2021 09:55]  Razor: Bandage: 4s
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:55]  a snow elemental: -89
+[11/05/2021 09:55]  Razor: Attack: a snow elemental
+[11/05/2021 09:55]  Razor: Bandage: 5s
+[11/05/2021 09:55]  Razor: Bandage: 6s
+[11/05/2021 09:55]  Razor: Attack: a snow elemental
+[11/05/2021 09:55]  System: You have gained a little fame.
+[11/05/2021 09:55]  System: You have gained a little karma.
+[11/05/2021 09:55]  Empress Nympho: (Water Aspect 929.9/2500 xp)
+[11/05/2021 09:55]  System: -64
+[11/05/2021 09:55]  You see: a snow elemental corpse
+[11/05/2021 09:55]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:55]  Razor: Bandage: 7s
+[11/05/2021 09:56]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:56]  Razor: Bandage: 8s
+[11/05/2021 09:56]  Razor: Bandage: 9s
+[11/05/2021 09:56]  Razor: Bandage: 10s
+[11/05/2021 09:56]  System: You finish applying the bandages.
+[11/05/2021 09:56]  Empress Nympho: +10
+[11/05/2021 09:56]  System: Healing skillgain: 7.533%
+[11/05/2021 09:56]  System: Where do you wish to traverse to?
+[11/05/2021 09:56]  Razor: [+Paralyze (0s)]
+[11/05/2021 09:56]  Razor: [-Paralyze (s)]
+[11/05/2021 09:56]  System: You are no longer hindered.
+[11/05/2021 09:56]  Razor: Attack: a snowdrift
+[11/05/2021 09:56]  System: Parry skillgain: 3.768%
+[11/05/2021 09:56]  Empress Nympho: -1
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:56]  System: Who will you use the bandages on?
+[11/05/2021 09:56]  Razor: Healing Started
+[11/05/2021 09:56]  System: You begin applying the bandages.
+[11/05/2021 09:56]  a snow flurry: a snow flurry
+[11/05/2021 09:56]  Razor: Bandage: 1s
+[11/05/2021 09:56]  Razor: Bandage: 2s
+[11/05/2021 09:56]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:56]  Empress Nympho: -7
+[11/05/2021 09:56]  a snowdrift: -69
+[11/05/2021 09:56]  Razor: Bandage: 3s
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:56]  System: Parry skillgain: 3.768%
+[11/05/2021 09:56]  Empress Nympho: -1
+[11/05/2021 09:56]  Razor: Bandage: 4s
+[11/05/2021 09:56]  a snowdrift: -84
+[11/05/2021 09:56]  Razor: Bandage: 5s
+[11/05/2021 09:56]  a snowdrift: *regens*
+[11/05/2021 09:56]  a snowdrift: -94
+[11/05/2021 09:56]  Razor: Bandage: 6s
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:56]  Razor: Bandage: 7s
+[11/05/2021 09:56]  Empress Nympho: -1
+[11/05/2021 09:56]  System: Parry skillgain: 3.768%
+[11/05/2021 09:56]  Razor: Bandage: 8s
+[11/05/2021 09:56]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:56]  Razor: Bandage: 9s
+[11/05/2021 09:56]  [Guild][Himmel]: bunnz u need more gold?
+[11/05/2021 09:56]  Razor: Bandage: 10s
+[11/05/2021 09:56]  System: You finish applying the bandages.
+[11/05/2021 09:56]  Empress Nympho: +8
+[11/05/2021 09:56]  System: Healing skillgain: 7.533%
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.966% [2]
+[11/05/2021 09:56]  Empress Nympho: -6
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:56]  a snowdrift: -74
+[11/05/2021 09:56]  System: Parry skillgain: 3.768%
+[11/05/2021 09:56]  System: Who will you use the bandages on?
+[11/05/2021 09:56]  Razor: Healing Started
+[11/05/2021 09:56]  System: You begin applying the bandages.
+[11/05/2021 09:56]  Razor: Bandage: 1s
+[11/05/2021 09:56]  System: You have gained a little fame.
+[11/05/2021 09:56]  System: You have gained a little karma.
+[11/05/2021 09:56]  Empress Nympho: (Water Aspect 930.8/2500 xp)
+[11/05/2021 09:56]  System: -7
+[11/05/2021 09:56]  You see: a snowdrift corpse
+[11/05/2021 09:56]  Razor: Bandage: 2s
+[11/05/2021 09:56]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:56]  Razor: Bandage: 3s
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:56]  Razor: Attack: a snow flurry
+[11/05/2021 09:56]  Razor: Bandage: 4s
+[11/05/2021 09:56]  You see: a snowdrift corpse
+[11/05/2021 09:56]  You see: a snow flurry corpse
+[11/05/2021 09:56]  Razor: Bandage: 5s
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:56]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:56]  a snow flurry: -137
+[11/05/2021 09:56]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:56]  Empress Nympho: -7
+[11/05/2021 09:56]  System: Being perfectly rested, you shove them out of the way.
+[11/05/2021 09:56]  a snowdrift: a snowdrift
+[11/05/2021 09:56]  Razor: Bandage: 6s
+[11/05/2021 09:56]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:56]  [Guild][Bunnz]: lol no im full
+[11/05/2021 09:56]  Razor: Bandage: 7s
+[11/05/2021 09:56]  Empress Nympho: -18
+[11/05/2021 09:56]  System: Your fingers slip!
+[11/05/2021 09:56]  You see: a snow elemental corpse
+[11/05/2021 09:56]  You see: a ghoul corpse
+[11/05/2021 09:56]  You see: a snow elemental corpse
+[11/05/2021 09:56]  [Guild][Himmel]: I am loaded and so are these corpses...
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.080%
+[11/05/2021 09:56]  a snow flurry: -145
+[11/05/2021 09:56]  Razor: Bandage: 8s
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.069%
+[11/05/2021 09:56]  a snow flurry: -104
+[11/05/2021 09:56]  Razor: Bandage: 9s
+[11/05/2021 09:56]  Razor: Bandage: 10s
+[11/05/2021 09:56]  System: You finish applying the bandages.
+[11/05/2021 09:56]  Empress Nympho: +29
+[11/05/2021 09:56]  System: Healing skillgain: 7.533%
+[11/05/2021 09:56]  System: MagicResist skillgain: 17.857%
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.058%
+[11/05/2021 09:56]  Empress Nympho: -6
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.069%
+[11/05/2021 09:56]  System: Who will you use the bandages on?
+[11/05/2021 09:56]  Razor: Healing Started
+[11/05/2021 09:56]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 09:56]  System: You begin applying the bandages.
+[11/05/2021 09:56]  Razor: Bandage: 1s
+[11/05/2021 09:56]  System: Parry skillgain: 3.768%
+[11/05/2021 09:56]  Empress Nympho: -7
+[11/05/2021 09:56]  System: Your fingers slip!
+[11/05/2021 09:56]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:56]  Empress Nympho: -11
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.080%
+[11/05/2021 09:56]  System: You have gained a little fame.
+[11/05/2021 09:56]  System: You have gained a little karma.
+[11/05/2021 09:56]  Empress Nympho: (Water Aspect 932.5/2500 xp)
+[11/05/2021 09:56]  System: -52
+[11/05/2021 09:56]  You see: a snow flurry corpse
+[11/05/2021 09:56]  Razor: Bandage: 2s
+[11/05/2021 09:56]  Razor: Bandage: 3s
+[11/05/2021 09:56]  Razor: Bandage: 4s
+[11/05/2021 09:56]  Razor: Bandage: 5s
+[11/05/2021 09:56]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:56]  Razor: Bandage: 6s
+[11/05/2021 09:56]  Razor: Bandage: 7s
+[11/05/2021 09:56]  Razor: Bandage: 8s
+[11/05/2021 09:56]  Razor: Bandage: 9s
+[11/05/2021 09:56]  Razor: Bandage: 10s
+[11/05/2021 09:56]  System: You finish applying the bandages.
+[11/05/2021 09:56]  Empress Nympho: +22
+[11/05/2021 09:56]  System: Healing skillgain: 7.533%
+[11/05/2021 09:56]  [Guild][Bunnz]: about to bank
+[11/05/2021 09:56]  a snowdrift: a snowdrift
+[11/05/2021 09:56]  You see: a snow elemental corpse
+[11/05/2021 09:56]  a snowdrift: a snowdrift
+[11/05/2021 09:56]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:56]  Razor: Attack: a snowdrift
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.016%
+[11/05/2021 09:56]  a snowdrift: a snowdrift
+[11/05/2021 09:56]  System: You feel chilled and your metabolism slowed!
+[11/05/2021 09:56]  Empress Nympho: -7
+[11/05/2021 09:56]  System: Who will you use the bandages on?
+[11/05/2021 09:56]  Razor: Healing Started
+[11/05/2021 09:56]  System: You begin applying the bandages.
+[11/05/2021 09:56]  System: ArmsLore skillgain: 2.006%
+[11/05/2021 09:56]  a snowdrift: -65
+[11/05/2021 09:56]  Razor: Bandage: 1s
+[11/05/2021 09:56]  System: ArmsLore skillgain: 1.995%
+[11/05/2021 09:56]  a snowdrift: -93
+[11/05/2021 09:56]  System: Parry skillgain: 3.768%
+[11/05/2021 09:56]  Empress Nympho: -9
+[11/05/2021 09:56]  Razor: Bandage: 2s
+[11/05/2021 09:56]  a snowdrift: *regens*
+[11/05/2021 09:56]  Razor: Bandage: 3s
+[11/05/2021 09:57]  System: ArmsLore skillgain: 1.985%
+[11/05/2021 09:57]  a snowdrift: -65
+[11/05/2021 09:57]  Razor: Bandage: 4s
+[11/05/2021 09:57]  System: ArmsLore skillgain: 1.975%
+[11/05/2021 09:57]  a snowdrift: -75
+[11/05/2021 09:57]  Razor: Bandage: 5s
+[11/05/2021 09:57]  Razor: Bandage: 6s
+[11/05/2021 09:57]  System: ArmsLore skillgain: 1.966%
+[11/05/2021 09:57]  System: You have gained a little fame.
+[11/05/2021 09:57]  System: You have gained a little karma.
+[11/05/2021 09:57]  Empress Nympho: (Water Aspect 933.4/2500 xp)
+[11/05/2021 09:57]  System: -30
+[11/05/2021 09:57]  You see: a snowdrift corpse
+[11/05/2021 09:57]  Razor: Bandage: 7s
+[11/05/2021 09:57]  Razor: Bandage: 8s
+[11/05/2021 09:57]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 09:57]  Razor: Bandage: 9s
+[11/05/2021 09:57]  Razor: Bandage: 10s
+[11/05/2021 09:57]  System: You finish applying the bandages.
+[11/05/2021 09:57]  Empress Nympho: +14
+[11/05/2021 09:57]  System: Healing skillgain: 7.533%
+[11/05/2021 09:57]  a frostbane acolyte: a frostbane acolyte
+[11/05/2021 09:57]  You see: a snow flurry corpse
+[11/05/2021 09:57]  You see: a snowdrift corpse
+[11/05/2021 09:57]  You see: a snow flurry corpse
+[11/05/2021 09:57]  System: Playing Macro 'Escape'...
+[11/05/2021 09:57]  System: Your skill in Tactics has decreased by 26.0.  It is now 100.0.
+[11/05/2021 09:57]  Empress Nympho: Kal Ort Por [Recall]
+[11/05/2021 09:57]  System: You are now under the protection of the town guards.
+[11/05/2021 09:57]  Jaguara: Jaguara
+[11/05/2021 09:57]  an andarian mage: an andarian mage
+[11/05/2021 09:57]  Candida: Candida the cobbler
+[11/05/2021 09:57]  Leiko: Leiko the tinker
+[11/05/2021 09:57]  System: No item of type halberd (143E) found!
+[11/05/2021 09:57]  System: Macro 'Escape' finished.
+[11/05/2021 09:57]  System: 2 item(s) queued to be equipped.
+[11/05/2021 09:57]  System: Your skill in Tactics has increased by 26.0.  It is now 126.0.
+[11/05/2021 09:57]  System: Finished 2 queued actions in 0.6 seconds.
+[11/05/2021 09:57]  System: Being perfectly rested, you shove them out of the way.
+[11/05/2021 09:57]  Stoyan: Stoyan the tinker
+[11/05/2021 09:57]  Bart: Bart the Town Crier
+[11/05/2021 09:57]  Hocus Pocus: Hocus Pocus
+[11/05/2021 09:57]  MyYuSing: MyYuSing
+[11/05/2021 09:57]  Killian: Killian the jeweler
+[11/05/2021 09:57]  Guster: (bonded)
+[11/05/2021 09:57]  Guster: Guster
+[11/05/2021 09:57]  a dog: a dog
+[11/05/2021 09:57]  an andarian mage: an andarian mage
+[11/05/2021 09:57]  System: Opening door...
+[11/05/2021 09:57]  Curphey: Curphey
+[11/05/2021 09:57]  Killian: Killian the jeweler
+[11/05/2021 09:57]  St.Pedro: [Recruit, gLc]
+[11/05/2021 09:57]  St.Pedro: St.Pedro
+[11/05/2021 09:57]  Frostbyte: Frostbyte
+[11/05/2021 09:57]  System: No one matching that was found on your screen.
+[11/05/2021 09:58]  Frostbyte: Frostbyte
+[11/05/2021 09:58]  Hocus Pocus: Hocus Pocus
+[11/05/2021 09:58]  Jaguara: Jaguara
+[11/05/2021 09:58]  an andarian mage: an andarian mage
+[11/05/2021 09:58]  MyYuSing: MyYuSing
+[11/05/2021 09:58]  Bart: Bart the Town Crier
+[11/05/2021 09:58]  S o r r y: S o r r y
+[11/05/2021 09:58]  a dog: a dog
+[11/05/2021 09:58]  Timber Lane: Timber Lane
+[11/05/2021 09:58]  Guster: (bonded)
+[11/05/2021 09:58]  Guster: Guster
+[11/05/2021 09:58]  Bluebell: (bonded)
+[11/05/2021 09:58]  Bluebell: Bluebell
+[11/05/2021 09:58]  a hellhound: (bonded)
+[11/05/2021 09:58]  a hellhound: a hellhound
+[11/05/2021 09:58]  Guinevra: Guinevra
+[11/05/2021 09:58]  Swamper: (bonded)
+[11/05/2021 09:58]  Swamper: Swamper
+[11/05/2021 09:58]  Slugsome: (bonded)
+[11/05/2021 09:58]  Slugsome: Slugsome
+[11/05/2021 09:58]  Roi: Roi the banker
+[11/05/2021 09:58]  Exosting: [DoK]
+[11/05/2021 09:58]  Exosting: Exosting
+[11/05/2021 09:58]  Curphey: Curphey
+[11/05/2021 09:58]  Orlantha: Orlantha the banker
+[11/05/2021 09:58]  Britta: Britta the banker
+[11/05/2021 09:58]  a cat: a cat
+[11/05/2021 09:58]  Hatab: Hatab
+[11/05/2021 09:58]  System: Playing Macro 'say'...
+[11/05/2021 09:58]  System: Macro 'say' finished.
+[11/05/2021 09:58]  Empress Nympho: bank guards i ban thee
+[11/05/2021 09:58]  Jamie: Jamie the butcher
+[11/05/2021 09:58]  System: Being perfectly rested, you shove them out of the way.
+[11/05/2021 09:58]  Greger: Greger the cook
+[11/05/2021 09:58]  Nelson: Nelson the baker
+[11/05/2021 09:58]  System: Playing Macro 'say'...
+[11/05/2021 09:58]  System: Macro 'say' finished.
+[11/05/2021 09:58]  Empress Nympho: bank guards i ban thee
+[11/05/2021 09:58]  System: Playing Macro 'say'...
+[11/05/2021 09:58]  System: Macro 'say' finished.
+[11/05/2021 09:58]  Empress Nympho: bank guards i ban thee
+[11/05/2021 09:58]  System: Playing Macro 'say'...
+[11/05/2021 09:58]  System: Macro 'say' finished.
+[11/05/2021 09:58]  Empress Nympho: bank guards i ban thee
+[11/05/2021 09:58]  Curphey: Curphey
+[11/05/2021 09:58]  St.Pedro: [Recruit, gLc]
+[11/05/2021 09:58]  St.Pedro: St.Pedro
+[11/05/2021 09:58]  System: Playing Macro 'say'...
+[11/05/2021 09:58]  System: Macro 'say' finished.
+[11/05/2021 09:58]  Empress Nympho: bank guards i ban thee
+[11/05/2021 09:58]  Empress Nympho: Items: 65/125
+[11/05/2021 09:58]  Empress Nympho: Total Weight: 3,288
+[11/05/2021 09:58]  System: Your skill in Tactics has decreased by 26.0.  It is now 100.0.
+[11/05/2021 09:58]  Empress Nympho: Kal Ort Por [Recall]
+[11/05/2021 09:58]  System: You have left the protection of the town guards.
+[11/05/2021 09:58]  a forest ostard: a forest ostard
+[11/05/2021 09:58]  System: Opening door...
+[11/05/2021 09:58]  System: As the owner, you refresh the house and its contents.
+[11/05/2021 09:58]  System: Where will you search?
+[11/05/2021 09:58]  System: You search the home and find no one hiding within.
+[11/05/2021 09:58]  a forest ostard: a forest ostard
+[11/05/2021 09:58]  System: You pour some of the keg's contents into an empty bottle...
+[11/05/2021 09:58]  System: ...and place it into your backpack.
+[11/05/2021 09:58]  System: ...and place it into your backpack. [2]
+[11/05/2021 09:58]  System: ...and place it into your backpack. [3]
+[11/05/2021 09:58]  System: You pour some of the keg's contents into an empty bottle... [5]
+[11/05/2021 09:58]  System: ...and place it into your backpack. [2]
+[11/05/2021 09:59]  System: You pour some of the keg's contents into an empty bottle... [5]
+[11/05/2021 09:59]  System: ...and place it into your backpack. [3]
+[11/05/2021 09:59]  System: ...and place it into your backpack.
+[11/05/2021 09:59]  System: You pour some of the keg's contents into an empty bottle... [4]
+[11/05/2021 09:59]  System: ...and place it into your backpack. [3]
+[11/05/2021 09:59]  System: ...and place it into your backpack.
+[11/05/2021 09:59]  System: You pour some of the keg's contents into an empty bottle...
+[11/05/2021 09:59]  System: ...and place it into your backpack.
+[11/05/2021 09:59]  System: ...and place it into your backpack.
+[11/05/2021 09:59]  You see: a potion keg: greater strength
+[11/05/2021 09:59]  You see: The keg is about one third full.
+[11/05/2021 09:59]  System: You pour some of the keg's contents into an empty bottle... [2]
+[11/05/2021 09:59]  System: ...and place it into your backpack.
+[11/05/2021 09:59]  System: You pour some of the keg's contents into an empty bottle...
+[11/05/2021 10:00]  System: [DF] A Dungeon Flashpoint for Pulma has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/05/2021 10:00]  System: The world will save in 15 seconds.
+[11/05/2021 10:00]  System: The world is saving, please wait.
+[11/05/2021 10:00]  System: World save complete. The entire process took 3.5 seconds.
+[11/05/2021 10:00]  System: Organize Agent queued 8 item(s) to be moved. (This may take a few moments)
+[11/05/2021 10:01]  System: Finished 8 queued actions in 4.2 seconds.
+[11/05/2021 10:01]  System: Organize Agent queued 12 item(s) to be moved. (This may take a few moments)
+[11/05/2021 10:01]  System: You must wait another moment before you may pick up an item from here.
+[11/05/2021 10:01]  System: Finished 12 queued actions in 6.6 seconds.
+[11/05/2021 10:01]  You see: leather : 479
+[11/05/2021 10:01]  System: Warning: ribs amount is now 0!
+[11/05/2021 10:01]  You see: Lyric Aspect Extract
+[11/05/2021 10:01]  You see: Void Aspect Extract
+[11/05/2021 10:01]  You see: Void Aspect Extract
+[11/05/2021 10:02]  You see: protection scroll : 2
+[11/05/2021 10:02]  You see: protection scroll : 2
+[11/05/2021 10:02]  You see: feeblemind scroll : 3
+[11/05/2021 10:02]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[11/05/2021 10:06]  System: GoodGame has completed the achievement: Versatility (Advanced).
+[11/05/2021 10:08]  Schwanzstuker: Schwanzstuker
+[11/05/2021 10:10]  System: Azaroth has completed the achievement: Domestication (Basic).
+[11/05/2021 10:11]  System: Click again to confirm.
+[11/05/2021 10:12]  Empress Nympho: Water aspect armor activated.
+[11/05/2021 10:12]  You see: massive defense water aspect platemail chest
+[11/05/2021 10:12]  You see: defense platemail chest
+[11/05/2021 10:12]  You see: defense platemail chest
+[11/05/2021 10:13]  System: Your skill in Tactics has increased by 26.0.  It is now 126.0.
+[11/05/2021 10:13]  System: Your skill in Tactics has decreased by 26.0.  It is now 100.0.
+[11/05/2021 10:13]  Empress Nympho: Kal Ort Por [Recall]
+[11/05/2021 10:13]  System: You are now under the protection of the town guards.
+[11/05/2021 10:13]  Rosaline: Rosaline the waiter
+[11/05/2021 10:13]  Edyn: [A Ship People, Path]
+[11/05/2021 10:13]  Edyn: Edyn
+[11/05/2021 10:13]  RomaNeM: RomaNeM (Young)
+[11/05/2021 10:13]  Gothicc: Gothicc (Young)
+[11/05/2021 10:13]  Prevalian: Prevalian (Young)
+[11/05/2021 10:13]  John the Scourge: John the Scourge (Young)
+[11/05/2021 10:13]  Klept'o Maniac: Klept'o Maniac (Young)
+[11/05/2021 10:13]  JojoJaco: JojoJaco (Young)
+[11/05/2021 10:13]  Wijdan: Wijdan the mapmaker
+[11/05/2021 10:13]  Tai: Tai the fisherman
+[11/05/2021 10:13]  Meg: Meg the bowyer
+[11/05/2021 10:13]  Madelyn: Madelyn the shipwright
+[11/05/2021 10:13]  Vivien: Vivien
+[11/05/2021 10:13]  Colon: Colon the Town Crier
+[11/05/2021 10:13]  Chane: Chane the carpenter
+[11/05/2021 10:13]  Alicia: Alicia the tavern keeper
+[11/05/2021 10:13]  Bilal: Bilal the blacksmith
+[11/05/2021 10:13]  Amadis: Amadis the armorer
+[11/05/2021 10:13]  Len: Len the banker
+[11/05/2021 10:13]  Komor: Komor the tanner
+[11/05/2021 10:13]  Kamali: Kamali the butcher
+[11/05/2021 10:13]  Ayisha: Ayisha the weaponsmith
+[11/05/2021 10:13]  a sheep: a sheep
+[11/05/2021 10:13]  a sheep: a sheep
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  CleoMasters: CleoMasters (Young)
+[11/05/2021 10:14]  a pack llama: (tame)
+[11/05/2021 10:14]  a pack llama: [1853/2000 stones]
+[11/05/2021 10:14]  a pack llama: a pack llama
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  CleoMasters: CleoMasters (Young)
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:14]  System: Target an individual item to recycle.
+[11/05/2021 10:15]  You see: arcane essence : 68
+[11/05/2021 10:15]  a sheep: a sheep
+[11/05/2021 10:15]  System: Target arcane essence you wish to consume and add to this character.
+[11/05/2021 10:15]  System: You consume 68 arcane essence.
+[11/05/2021 10:15]  System: The world will save in 15 seconds.
+[11/05/2021 10:15]  System: deathdisco has completed the achievement: Savant (Basic).
+[11/05/2021 10:15]  System: The world is saving, please wait.
+[11/05/2021 10:15]  System: World save complete. The entire process took 4.0 seconds.
+[11/05/2021 10:15]  Redbush: Monster Hunter Associate
+[11/05/2021 10:15]  Redbush: [Juicy, SQzD]
+[11/05/2021 10:15]  Redbush: Redbush
+[11/05/2021 10:15]  a sheep: a sheep
+[11/05/2021 10:15]  Komor: Komor the tanner
+[11/05/2021 10:15]  Kamali: Kamali the butcher
+[11/05/2021 10:15]  Len: Len the banker
+[11/05/2021 10:15]  Klept'o Maniac: Klept'o Maniac (Young)
+[11/05/2021 10:15]  Gothicc: Gothicc (Young)
+[11/05/2021 10:15]  Jake: Jake the barkeep
+[11/05/2021 10:15]  Colon: Colon the Town Crier
+[11/05/2021 10:15]  Alicia: Alicia the tavern keeper
+[11/05/2021 10:15]  Ayisha: Ayisha the weaponsmith
+[11/05/2021 10:15]  Dusty: Dusty the cook
+[11/05/2021 10:15]  a sheep: a sheep
+[11/05/2021 10:15]  Dane: Dane the farmer
+[11/05/2021 10:15]  a sheep: a sheep
+[11/05/2021 10:15]  a sheep: a sheep
+[11/05/2021 10:15]  a sheep: a sheep
+[11/05/2021 10:15]  Dusty: Dusty the cook
+[11/05/2021 10:15]  Tadi: Tadi the thief
+[11/05/2021 10:15]  Richard Veiny: Richard Veiny
+[11/05/2021 10:15]  Mapping Mike: Agent
+[11/05/2021 10:15]  Mapping Mike: Mapping Mike
+[11/05/2021 10:15]  Thorgard: Thorgard
+[11/05/2021 10:15]  Jayne: Jayne the innkeeper
+[11/05/2021 10:15]  a orcish pulga: a orcish pulga
+[11/05/2021 10:15]  RomaNeM: RomaNeM (Young)
+[11/05/2021 10:15]  a pack llama: (tame)
+[11/05/2021 10:15]  a pack llama: [222/2000 stones]
+[11/05/2021 10:15]  a pack llama: a pack llama
+[11/05/2021 10:15]  CleoMasters: CleoMasters (Young)
+[11/05/2021 10:15]  a colossal frog: (tame)
+[11/05/2021 10:15]  a colossal frog: a colossal frog
+[11/05/2021 10:15]  Squad: Squad
+[11/05/2021 10:15]  Feridwyn: Feridwyn the guard
+[11/05/2021 10:15]  Marti: Marti the healer
+[11/05/2021 10:15]  PorkyPig: PorkyPig
+[11/05/2021 10:15]  a great hart: a great hart
+[11/05/2021 10:15]  System: You have left the protection of the town guards.
+[11/05/2021 10:15]  Empress Nympho: Your mount finds a quiet place to rest safely.
+[11/05/2021 10:15]  You see: a mongbat corpse
+[11/05/2021 10:15]  You see: a headless corpse
+[11/05/2021 10:15]  You see: a mongbat corpse
+[11/05/2021 10:15]  You see: a mongbat corpse
+[11/05/2021 10:15]  You see: a mongbat corpse
+[11/05/2021 10:15]  a harpy: a harpy
+[11/05/2021 10:15]  Rajesh: Rajesh
+[11/05/2021 10:15]  Moita: Moita
+[11/05/2021 10:15]  a mongbat: *discord 3s*
+[11/05/2021 10:15]  a mongbat: a mongbat
+[11/05/2021 10:15]  Zuzashug: [Snotling, Urk]
+[11/05/2021 10:15]  Zuzashug: Zuzashug
+[11/05/2021 10:15]  a zombie: a zombie
+[11/05/2021 10:15]  ColdBrewed: ColdBrewed
+[11/05/2021 10:15]  Nemesis: Nemesis
+[11/05/2021 10:15]  an endless void: an endless void
+[11/05/2021 10:15]  You see: a skeletal corpse
+[11/05/2021 10:15]  You see: a giant rat corpse
+[11/05/2021 10:15]  You see: a mongbat corpse
+[11/05/2021 10:15]  You see: a mongbat corpse
+[11/05/2021 10:15]  You see: a giant rat corpse
+[11/05/2021 10:15]  a giant rat: a giant rat
+[11/05/2021 10:16]  You see: a giant rat corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a skeletal corpse
+[11/05/2021 10:16]  You see: a giant rat corpse
+[11/05/2021 10:16]  You see: a giant rat corpse
+[11/05/2021 10:16]  You see: a giant rat corpse
+[11/05/2021 10:16]  You see: a headless corpse
+[11/05/2021 10:16]  ImLost: (bonded)
+[11/05/2021 10:16]  ImLost: ImLost
+[11/05/2021 10:16]  Yosty: (bonded)
+[11/05/2021 10:16]  Yosty: Yosty
+[11/05/2021 10:16]  PlzCall: (bonded)
+[11/05/2021 10:16]  PlzCall: PlzCall
+[11/05/2021 10:16]  Mr.Yost: Legendary Domesticator
+[11/05/2021 10:16]  Mr.Yost: [Black Hole Sun, ***]
+[11/05/2021 10:16]  Mr.Yost: Mr.Yost
+[11/05/2021 10:16]  System: You may not loot this corpse.
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a headless corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  a giant rat: a giant rat
+[11/05/2021 10:16]  a zombie: a zombie
+[11/05/2021 10:16]  a zombie: a zombie
+[11/05/2021 10:16]  System: 2 item(s) queued to be equipped.
+[11/05/2021 10:16]  System: Your skill in Tactics has increased by 26.0.  It is now 126.0.
+[11/05/2021 10:16]  Empress Nympho: -4
+[11/05/2021 10:16]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/05/2021 10:16]  System: You have gained a little fame.
+[11/05/2021 10:16]  System: You have gained a little karma.
+[11/05/2021 10:16]  System: -94
+[11/05/2021 10:16]  You see: a mongbat corpse
+[11/05/2021 10:16]  System: Finished 2 queued actions in 0.6 seconds.
+[11/05/2021 10:16]  System: [GridLoot]: Corpse is empty!
+[11/05/2021 10:16]  System: You are now under the protection of the town guards.
+[11/05/2021 10:16]  Razor: [+Hidden/Stealthing (0s)]
+[11/05/2021 10:16]  Empress Nympho: Your mount returns.
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  Kelli: Kelli the mage
+[11/05/2021 10:16]  Shani: Shani the mage
+[11/05/2021 10:16]  Slevin: Slevin the scribe
+[11/05/2021 10:16]  Leiko: Leiko the carpenter
+[11/05/2021 10:16]  Ines: Ines the alchemist
+[11/05/2021 10:16]  Mae: Mae the herbalist
+[11/05/2021 10:16]  Oriole: Oriole the dockmaster
+[11/05/2021 10:16]  Cassidy: Cassidy the salvage foreman
+[11/05/2021 10:16]  System: (bonded)
+[11/05/2021 10:16]  : a forest ostard
+[11/05/2021 10:16]  Razor: [-Hidden/Stealthing (s)]
+[11/05/2021 10:16]  Seymour: Seymour the carpenter
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  an andarian knight: an andarian knight
+[11/05/2021 10:16]  Feridwyn: Feridwyn the blacksmith
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  a cat: a cat
+[11/05/2021 10:16]  Olivia: Olivia the miner
+[11/05/2021 10:16]  a cat: a cat
+[11/05/2021 10:16]  a cat: a cat
+[11/05/2021 10:16]  a cat: a cat
+[11/05/2021 10:16]  Karlenne: Karlenne the real estate broker
+[11/05/2021 10:16]  Deb: Deb the architect
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  SiriCascudo: Legendary Scribe
+[11/05/2021 10:16]  SiriCascudo: [Soldado, BRA]
+[11/05/2021 10:16]  SiriCascudo: SiriCascudo
+[11/05/2021 10:16]  a dog: a dog
+[11/05/2021 10:16]  Prescot: Prescot the tailor
+[11/05/2021 10:16]  Serilda: Serilda the armorer
+[11/05/2021 10:16]  Gunther: Gunther the tailor
+[11/05/2021 10:16]  Kelvin: Kelvin the tinker
+[11/05/2021 10:16]  Tertia: Tertia the blacksmith
+[11/05/2021 10:16]  Morgan: Morgan the farmer
+[11/05/2021 10:16]  Standford: Standford the cook
+[11/05/2021 10:16]  an andarian mage: an andarian mage
+[11/05/2021 10:16]  Prescot: Prescot the tailor
+[11/05/2021 10:16]  Prescot: Greetings.  Have a look around.
+[11/05/2021 10:16]  Prescot: The total of thy purchase is 200 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[11/05/2021 10:16]  System: What should I use these scissors on?
+[11/05/2021 10:16]  System: What should I use these scissors on?
+[11/05/2021 10:16]  Stephani: Stephani the ranger
+[11/05/2021 10:16]  a cat: a cat
+[11/05/2021 10:16]  an andarian footman: an andarian footman
+[11/05/2021 10:16]  Roxanne: Roxanne the cobbler
+[11/05/2021 10:16]  Bane: Bane the tanner
+[11/05/2021 10:16]  a cat: a cat
+[11/05/2021 10:16]  Anna: Anna the tanner
+[11/05/2021 10:16]  Elad: Elad the beekeeper
+[11/05/2021 10:16]  Ama: Ama the provisioner
+[11/05/2021 10:16]  Ammon: Ammon the tanner
+[11/05/2021 10:16]  Ama: Ama the provisioner
+[11/05/2021 10:16]  Ama: Greetings.  Have a look around.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  System: No one matching that was found on your screen.
+[11/05/2021 10:16]  Ama: The total of thy purchase is 50 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[11/05/2021 10:16]  System: Your skill in Tactics has decreased by 26.0.  It is now 100.0.
+[11/05/2021 10:16]  Empress Nympho: Kal Ort Por [Recall]
+[11/05/2021 10:16]  System: You have left the protection of the town guards.
+[11/05/2021 10:16]  System: 2 item(s) queued to be equipped.
+[11/05/2021 10:17]  System: Your skill in Tactics has increased by 26.0.  It is now 126.0.
+[11/05/2021 10:17]  System: Finished 2 queued actions in 0.6 seconds.
+[11/05/2021 10:17]  System: Opening door...
+[11/05/2021 10:17]  System: As the owner, you refresh the house and its contents.
+[11/05/2021 10:17]  System: Where will you search?
+[11/05/2021 10:17]  System: You search the home and find no one hiding within.

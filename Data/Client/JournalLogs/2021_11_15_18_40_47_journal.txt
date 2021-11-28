@@ -1,0 +1,675 @@
+[11/15/2021 18:40]  System: WorldMap loading...
+[11/15/2021 18:40]  System: Loading WorldMap markers..
+[11/15/2021 18:40]  System: ..Banks_and_Healers.xml (20)
+[11/15/2021 18:40]  System: ..Dungeons.xml (12)
+[11/15/2021 18:40]  System: ..Dungeon_Gates.xml (335)
+[11/15/2021 18:40]  System: ..Healer_Caravans.xml (32)
+[11/15/2021 18:40]  System: ..Moongates.xml (9)
+[11/15/2021 18:40]  System: ..POI.xml (176)
+[11/15/2021 18:40]  System: ..Shrines.xml (9)
+[11/15/2021 18:40]  System: ..Subterranean.xml (6)
+[11/15/2021 18:40]  System: ..Townships.xml (9)
+[11/15/2021 18:40]  System: WorldMap markers loaded (608)
+[11/15/2021 18:40]  System: Welcome Wulf of Wyrd!
+[11/15/2021 18:40]  Razor: [- (s)]
+[11/15/2021 18:40]  Razor: [+Hidden/Stealthing (0s)]
+[11/15/2021 18:40]  Razor: [- (s)]
+[11/15/2021 18:40]  Razor: [+Magic Reflection (0s)]
+[11/15/2021 18:40]  System: Your food satisfaction effect has expired.
+[11/15/2021 18:40]  System: You must wait to perform another action.
+[11/15/2021 18:40]  System: Finished 3 queued actions in 1.2 seconds.
+[11/15/2021 18:40]  System: WorldMap loaded!
+[11/15/2021 18:40]  System: You must wait to perform another action. [2]
+[11/15/2021 18:41]  System: That container cannot hold more weight.
+[11/15/2021 18:41]  Wulf of Wyrd: The food is paltry and is barely satisfying.
+[11/15/2021 18:41]  System: You are still slightly hungry.
+[11/15/2021 18:41]  Razor: [+Food Satisfaction (3600s)]
+[11/15/2021 18:41]  System: Your campfire is now secure.
+[11/15/2021 18:41]  System: You feel rested and comforted by the camp. (+25.0% damage to creatures and +10.0% damage to players).
+[11/15/2021 18:41]  Razor: [+Campfire Visit (10800s)]
+[11/15/2021 18:41]  You see: exceptional avarhide spellbook
+[11/15/2021 18:41]  You see: [mastercrafted by Emperor]
+[11/15/2021 18:41]  You see: exceptional avarhide spellbook
+[11/15/2021 18:41]  You see: [mastercrafted by Emperor]
+[11/15/2021 18:41]  System: Magic spellbooks do not contain spell scrolls and instead draw from any regular spellbooks in your backpack.
+[11/15/2021 18:42]  You see: exceptional avarhide spellbook
+[11/15/2021 18:42]  You see: [mastercrafted by Emperor]
+[11/15/2021 18:42]  System: The world will save in 15 seconds.
+[11/15/2021 18:42]  You see: inscription skill mastery scroll
+[11/15/2021 18:42]  You see: (used to increase a player's skill cap for a skill by 1)
+[11/15/2021 18:42]  System: The world is saving, please wait.
+[11/15/2021 18:42]  System: World save complete. The entire process took 3.9 seconds.
+[11/15/2021 18:42]  System: Crafting queue begun.
+[11/15/2021 18:42]  System: Recall Scroll: Skipped
+[11/15/2021 18:42]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:42]  System: Spellbook (1/100 made): You create the item.
+[11/15/2021 18:42]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:42]  System: Spellbook (2/100 made): You create an exceptional quality item.
+[11/15/2021 18:42]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:42]  System: Spellbook (3/100 made): You create the item.
+[11/15/2021 18:42]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:42]  System: Spellbook (3/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:42]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:42]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (4/100 made): You create the item.
+[11/15/2021 18:43]  System: Spellbook (3/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:43]  System: Spellbook (5/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook (6/100 made): You create the item.
+[11/15/2021 18:43]  System: Spellbook (6/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook (7/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (8/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (8/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:43]  System: Spellbook (9/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook (9/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (10/100 made): You create the item.
+[11/15/2021 18:43]  System: Spellbook (11/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:43]  System: Spellbook (12/100 made): You create an exceptional quality item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (13/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (14/100 made): You create the item.
+[11/15/2021 18:43]  System: Spellbook (15/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook (15/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (16/100 made): You create an exceptional quality item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook (17/100 made): You create the item.
+[11/15/2021 18:43]  System: Spellbook (15/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:43]  System: Spellbook (18/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:43]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:43]  System: Spellbook (19/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (20/100 made): You create the item.
+[11/15/2021 18:43]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:43]  System: Spellbook (21/100 made): You create the item.
+[11/15/2021 18:44]  System: Spellbook (22/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Spellbook (23/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (24/100 made): You create an exceptional quality item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (25/100 made): You create an exceptional quality item.
+[11/15/2021 18:44]  System: Spellbook (26/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Spellbook (27/100 made): You create an exceptional quality item.
+[11/15/2021 18:44]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (28/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: You have worn out your tool!
+[11/15/2021 18:44]  System: Spellbook (29/100 made): You create the item.
+[11/15/2021 18:44]  System: Spellbook: You must wait to perform another action. [2]
+[11/15/2021 18:44]  System: Spellbook (30/100 made): You create an exceptional quality item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (31/100 made): You create the item.
+[11/15/2021 18:44]  System: Spellbook (32/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (33/100 made): You create the item.
+[11/15/2021 18:44]  System: Spellbook (34/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Spellbook (35/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (35/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:44]  System: Spellbook (36/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:44]  System: Spellbook (36/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (37/100 made): You create the item.
+[11/15/2021 18:44]  System: Spellbook (36/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:44]  System: Spellbook (38/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Spellbook (39/100 made): You create the item.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:44]  System: Spellbook (40/100 made): You create an exceptional quality item.
+[11/15/2021 18:44]  System: Spellbook (40/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:44]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:44]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:44]  System: Spellbook (41/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Detona has completed the achievement: Transmutation (Advanced).
+[11/15/2021 18:45]  System: Spellbook (41/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (42/100 made): You create the item.
+[11/15/2021 18:45]  System: Spellbook (43/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:45]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:45]  System: Spellbook (44/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (45/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (46/100 made): You create the item.
+[11/15/2021 18:45]  System: Spellbook (46/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:45]  System: Spellbook (47/100 made): You create the item.
+[11/15/2021 18:45]  System: Spellbook (46/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (48/100 made): You create the item.
+[11/15/2021 18:45]  System: Spellbook (49/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:45]  System: Spellbook (50/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (51/100 made): You create an exceptional quality item.
+[11/15/2021 18:45]  System: [CCC] A Corpse Creek Contest will begin in 14 minutes 59 seconds. Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/15/2021 18:45]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:45]  System: Spellbook (52/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:45]  System: Spellbook (52/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (53/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (53/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:45]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:45]  System: Spellbook (54/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:45]  System: Spellbook (55/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (56/100 made): You create the item.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:45]  System: Spellbook (57/100 made): You create an exceptional quality item.
+[11/15/2021 18:45]  System: Spellbook (57/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:45]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:45]  System: Spellbook (58/100 made): You create an exceptional quality item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (59/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (60/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (61/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (62/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (62/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (63/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (64/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (65/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (65/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:46]  System: Spellbook (66/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  You see: surpassingly potent magic spellbook
+[11/15/2021 18:46]  System: Spellbook (67/100 made): You create an exceptional quality item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (68/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (68/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (69/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (70/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (71/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (71/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (72/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (73/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (71/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (73/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:46]  You see: surpassingly potent magic spellbook
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:46]  System: Spellbook (74/100 made): You create the item.
+[11/15/2021 18:46]  System: Spellbook (73/100 made): You failed to create the item, and some of your materials are lost. [2]
+[11/15/2021 18:46]  System: Spellbook (75/100 made): You create the item.
+[11/15/2021 18:46]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:46]  System: Spellbook (76/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (77/100 made): You create the item.
+[11/15/2021 18:47]  You see: durable surpassingly potent magic spellbook
+[11/15/2021 18:47]  System: Spellbook (77/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (78/100 made): You create an exceptional quality item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (79/100 made): You create an exceptional quality item.
+[11/15/2021 18:47]  System: Spellbook (80/100 made): You create an exceptional quality item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (81/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (82/100 made): You create the item.
+[11/15/2021 18:47]  System: Spellbook (82/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  You see: exceptional avarhide spellbook
+[11/15/2021 18:47]  You see: [mastercrafted by Emperor]
+[11/15/2021 18:47]  System: Spellbook (83/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (84/100 made): You create the item.
+[11/15/2021 18:47]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:47]  System: Spellbook (84/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (85/100 made): You create an exceptional quality item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (86/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (86/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:47]  System: Spellbook (87/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (88/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (89/100 made): You create the item.
+[11/15/2021 18:47]  System: Spellbook (90/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (91/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (92/100 made): You create the item.
+[11/15/2021 18:47]  System: Spellbook (93/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (94/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:47]  System: Spellbook (95/100 made): You create the item.
+[11/15/2021 18:47]  System: Spellbook (96/100 made): You create the item.
+[11/15/2021 18:47]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:47]  System: Spellbook (96/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:48]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:48]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:48]  System: Spellbook (97/100 made): You create the item.
+[11/15/2021 18:48]  System: Spellbook (96/100 made): You failed to create the item, and some of your materials are lost. [2]
+[11/15/2021 18:48]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:48]  System: Spellbook (97/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:48]  System: Spellbook (98/100 made): You create the item.
+[11/15/2021 18:48]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:48]  System: Spellbook (99/100 made): You create the item.
+[11/15/2021 18:48]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:48]  System: Spellbook (99/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:48]  System: Spellbook (100/100 made): You create an exceptional quality item.
+[11/15/2021 18:48]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:48]  System: Spellbook: 100 crafted complete.
+[11/15/2021 18:48]  System: Crafting queue complete.
+[11/15/2021 18:49]  System: Rhage Cage has completed the achievement: Affluent (Basic).
+[11/15/2021 18:50]  System: Yahyah- has completed the achievement: Versatility (Basic).
+[11/15/2021 18:50]  System: Yew Militia (Yew) guild has reached prestige level 129.
+[11/15/2021 18:53]  System: Dentify has completed the achievement: Leatherworker (Basic).
+[11/15/2021 18:55]  You see: blank scroll : 529
+[11/15/2021 18:55]  System: Crafting queue begun.
+[11/15/2021 18:55]  System: Recall Scroll: Skipped
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (1/100 made): You create the item.
+[11/15/2021 18:55]  System: You have worn out your tool!
+[11/15/2021 18:55]  System: Spellbook (2/100 made): You create the item.
+[11/15/2021 18:55]  System: Warning: pen amount is now 4!
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (3/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (3/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:55]  System: Spellbook (4/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:55]  System: Spellbook (5/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (6/100 made): You create the item.
+[11/15/2021 18:55]  You see: durable surpassingly potent magic spellbook
+[11/15/2021 18:55]  System: Spellbook (7/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:55]  System: Spellbook (8/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (9/100 made): You create the item.
+[11/15/2021 18:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/15/2021 18:55]  System: Spellbook (9/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:55]  You see: surpassingly potent magic spellbook
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:55]  System: Spellbook (10/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (10/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:55]  System: Spellbook (11/100 made): You create the item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:55]  System: Spellbook (12/100 made): You create the item.
+[11/15/2021 18:55]  You see: durable surpassingly potent magic spellbook
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (13/100 made): You create the item.
+[11/15/2021 18:55]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:55]  System: Spellbook (14/100 made): You create an exceptional quality item.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:55]  System: Spellbook (14/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:55]  System: Spellbook (15/100 made): You create the item.
+[11/15/2021 18:55]  You see: surpassingly potent magic spellbook
+[11/15/2021 18:56]  System: Spellbook (16/100 made): You create an exceptional quality item.
+[11/15/2021 18:56]  System: Spellbook (14/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  You see: potent magic spellbook
+[11/15/2021 18:56]  System: Spellbook (17/100 made): You create the item.
+[11/15/2021 18:56]  You see: potent magic spellbook
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (18/100 made): You create the item.
+[11/15/2021 18:56]  You see: surpassingly potent magic spellbook
+[11/15/2021 18:56]  System: Spellbook (19/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  System: Spellbook (20/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (21/100 made): You create the item.
+[11/15/2021 18:56]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:56]  System: Spellbook (22/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  System: Spellbook (23/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (23/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:56]  System: Spellbook (24/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (25/100 made): You create the item.
+[11/15/2021 18:56]  System: Spellbook (26/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  System: Spellbook (26/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (27/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  System: Spellbook (26/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Spellbook (27/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:56]  System: Spellbook (28/100 made): You create an exceptional quality item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (29/100 made): You create an exceptional quality item.
+[11/15/2021 18:56]  System: Spellbook (30/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  System: Spellbook (30/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (31/100 made): You create an exceptional quality item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:56]  System: Spellbook (30/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:56]  System: Spellbook (32/100 made): You create the item.
+[11/15/2021 18:56]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:56]  System: Spellbook (32/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:57]  System: Spellbook (33/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  System: Spellbook (34/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (35/100 made): You create the item.
+[11/15/2021 18:57]  System: The world will save in 15 seconds.
+[11/15/2021 18:57]  System: Spellbook (36/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  System: Spellbook (37/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (38/100 made): You create the item.
+[11/15/2021 18:57]  You see: exceptional leather arms
+[11/15/2021 18:57]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:57]  System: Spellbook (39/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  System: Spellbook (40/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (40/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:57]  System: The world is saving, please wait.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: World save complete. The entire process took 3.9 seconds.
+[11/15/2021 18:57]  System: You must wait to perform another action.
+[11/15/2021 18:57]  System: Spellbook (41/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (42/100 made): You create the item.
+[11/15/2021 18:57]  System: Spellbook (43/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:57]  System: Spellbook (43/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (44/100 made): You create the item.
+[11/15/2021 18:57]  System: Spellbook (45/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  You see: defense leather chest
+[11/15/2021 18:57]  System: Spellbook (45/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:57]  You see: guarding leather leggings
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (46/100 made): You create an exceptional quality item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  System: Spellbook (47/100 made): You create the item.
+[11/15/2021 18:57]  System: Spellbook (45/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (48/100 made): You create the item.
+[11/15/2021 18:57]  System: Spellbook (49/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:57]  System: Spellbook (50/100 made): You create the item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:57]  System: Spellbook (51/100 made): You create the item.
+[11/15/2021 18:57]  System: Spellbook (52/100 made): You create an exceptional quality item.
+[11/15/2021 18:57]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (52/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (53/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:58]  System: Spellbook (54/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook (52/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (55/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (56/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (57/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook (58/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (59/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (60/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook (61/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (61/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (62/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook (63/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (64/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (65/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook (65/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (66/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (66/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:58]  System: Spellbook (67/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (68/100 made): You create the item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:58]  System: Spellbook (69/100 made): You create the item.
+[11/15/2021 18:58]  System: Spellbook (70/100 made): You create an exceptional quality item.
+[11/15/2021 18:58]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:58]  System: Spellbook (71/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (71/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:59]  System: Spellbook (72/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (72/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (73/100 made): You create the item.
+[11/15/2021 18:59]  System: Spellbook (74/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (75/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (76/100 made): You create the item.
+[11/15/2021 18:59]  System: Spellbook (77/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (78/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: You have worn out your tool!
+[11/15/2021 18:59]  System: Spellbook (79/100 made): You create the item.
+[11/15/2021 18:59]  System: Warning: pen amount is now 3!
+[11/15/2021 18:59]  System: Spellbook (80/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (81/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (82/100 made): You create the item.
+[11/15/2021 18:59]  System: Spellbook (82/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (83/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (83/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:59]  System: Spellbook (84/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (84/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook (84/100 made): You failed to create the item, and some of your materials are lost. [2]
+[11/15/2021 18:59]  System: Spellbook (85/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (86/100 made): You create the item.
+[11/15/2021 18:59]  System: Spellbook (87/100 made): You create an exceptional quality item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 18:59]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 18:59]  System: Spellbook (88/100 made): You create the item.
+[11/15/2021 18:59]  System: Inscribe skillgain: 2.222%
+[11/15/2021 18:59]  System: Spellbook (89/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 19:00]  System: Spellbook (90/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Spellbook (91/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Spellbook (91/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:00]  System: Spellbook (92/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Spellbook (91/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:00]  System: Spellbook (92/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:00]  System: Spellbook (93/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:00]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 19:00]  System: Spellbook (94/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  You see: blank scroll : 92
+[11/15/2021 19:00]  System: Spellbook (95/100 made): You create an exceptional quality item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Spellbook (96/100 made): You create the item.
+[11/15/2021 19:00]  System: Spellbook (97/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:00]  System: Spellbook (97/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Spellbook (98/100 made): You create the item.
+[11/15/2021 19:00]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/15/2021 19:00]  System: Spellbook (99/100 made): You create the item.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:00]  System: Crafting queue stopped.
+[11/15/2021 19:00]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:00]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle. [2]
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle. [2]
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:01]  System: Target an individual item to recycle.
+[11/15/2021 19:02]  System: Target an individual item to recycle. [2]
+[11/15/2021 19:02]  System: Target an individual item to recycle.
+[11/15/2021 19:02]  System: Target an individual item to recycle. [2]
+[11/15/2021 19:02]  System: Target an individual item to recycle.
+[11/15/2021 19:02]  System: Target an individual item to recycle.
+[11/15/2021 19:02]  System: Target an individual item to recycle.
+[11/15/2021 19:02]  System: Target an individual item to recycle. [2]
+[11/15/2021 19:02]  You see: blank scroll : 150
+[11/15/2021 19:02]  System: Warning: blanksc amount is now 0!
+[11/15/2021 19:02]  System: Crafting queue begun.
+[11/15/2021 19:02]  System: Recall Scroll: Skipped
+[11/15/2021 19:02]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:02]  System: Spellbook (1/100 made): You create the item.
+[11/15/2021 19:02]  System: Yazici Abla has completed the achievement: Scribe (Basic).
+[11/15/2021 19:02]  System: Spellbook (2/100 made): You create the item.
+[11/15/2021 19:02]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:02]  System: Spellbook (2/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:02]  System: Spellbook (3/100 made): You create an exceptional quality item.
+[11/15/2021 19:02]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:02]  System: Spellbook (3/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:02]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:02]  System: Spellbook (4/100 made): You create an exceptional quality item.
+[11/15/2021 19:02]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:02]  System: Spellbook (5/100 made): You create the item.
+[11/15/2021 19:03]  System: Spellbook (6/100 made): You create an exceptional quality item.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:03]  System: Spellbook (7/100 made): You create the item.
+[11/15/2021 19:03]  System: Spellbook (8/100 made): You create an exceptional quality item.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:03]  System: Spellbook (8/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:03]  System: Spellbook (9/100 made): You create an exceptional quality item.
+[11/15/2021 19:03]  System: Spellbook (8/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:03]  System: Spellbook (10/100 made): You create the item.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:03]  System: Spellbook (11/100 made): You create the item.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:03]  System: Spellbook (11/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:03]  You see: blank scroll : 22
+[11/15/2021 19:03]  System: Spellbook (12/100 made): You create an exceptional quality item.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:03]  You see: blank scroll : 24
+[11/15/2021 19:03]  System: Spellbook (13/100 made): You create the item.
+[11/15/2021 19:03]  System: Crafting queue stopped.
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:03]  System: Crafting queue begun.
+[11/15/2021 19:03]  System: Recall Scroll (1/50 made): You create the item.
+[11/15/2021 19:03]  System: Recall Scroll (2/50 made): You create the item.
+[11/15/2021 19:03]  System: Recall Scroll (3/50 made): You create the item.
+[11/15/2021 19:03]  You see: blank scroll : 54
+[11/15/2021 19:03]  System: Recall Scroll (4/50 made): You create the item.
+[11/15/2021 19:03]  System: Recall Scroll (5/50 made): You create the item.
+[11/15/2021 19:03]  System: Crafting queue stopped.
+[11/15/2021 19:03]  System: Crafting queue begun.
+[11/15/2021 19:03]  System: Recall Scroll: Skipped
+[11/15/2021 19:03]  You see: blank scroll : 26
+[11/15/2021 19:03]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:03]  System: Spellbook (1/100 made): You create the item.
+[11/15/2021 19:03]  You see: blank scroll : 45
+[11/15/2021 19:04]  System: Spellbook (2/100 made): You create an exceptional quality item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (3/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (4/100 made): You create the item.
+[11/15/2021 19:04]  System: Spellbook (5/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:04]  System: Spellbook (6/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (6/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:04]  System: Spellbook (7/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:04]  System: Spellbook (7/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (8/100 made): You create an exceptional quality item.
+[11/15/2021 19:04]  System: Spellbook: You must wait to perform another action.
+[11/15/2021 19:04]  System: Spellbook (9/100 made): You create an exceptional quality item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:04]  System: Spellbook (9/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (10/100 made): You create the item.
+[11/15/2021 19:04]  You see: blank scroll : 31
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (11/100 made): You create the item.
+[11/15/2021 19:04]  System: Spellbook (12/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:04]  System: Spellbook (13/100 made): You create an exceptional quality item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (14/100 made): You create the item.
+[11/15/2021 19:04]  System: Spellbook (15/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:04]  System: Spellbook (16/100 made): You create an exceptional quality item.
+[11/15/2021 19:04]  System: Spellbook (16/100 made): You failed to create the item, and some of your materials are lost.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222% [2]
+[11/15/2021 19:04]  System: Spellbook (17/100 made): You create the item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  System: Spellbook (18/100 made): You create the item.
+[11/15/2021 19:04]  System: Warning: blanksc amount is now 2!
+[11/15/2021 19:04]  System: Spellbook: You don't have the resources required to make that item.
+[11/15/2021 19:04]  System: Inscribe skillgain: 2.222%
+[11/15/2021 19:04]  You see: blank scroll : 2
+[11/15/2021 19:04]  System: Crafting queue complete.
+[11/15/2021 19:04]  System: Spellbook: You don't have the resources required to make that item.
+[11/15/2021 19:05]  System: Warning: blanksc amount is now 0!
+[11/15/2021 19:05]  You see: recall scroll : 31

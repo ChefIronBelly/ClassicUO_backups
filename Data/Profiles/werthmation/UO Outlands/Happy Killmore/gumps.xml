@@ -8,15 +8,15 @@
 		<gump type="7" x="98" y="969" serial="1006" name="Salute" matrix_x="2" matrix_y="1" />
 		<gump type="7" x="98" y="969" serial="1006" name="Salute" matrix_x="3" matrix_y="1" />
 	</anchored_group_gump>
-	<gump type="20" x="1377" y="555" serial="0" minimized="False" />
+	<gump type="18" x="1520" y="608" serial="0" />
 	<gump type="9" x="1521" y="-31" serial="484393" isminimized="False" />
 	<gump type="2" x="1470" y="284" serial="1106446054" graphic="60" isminimized="False" />
 	<gump type="12" x="1124" y="848" serial="0" />
-	<gump type="1" x="1299" y="112" serial="0" graphic="30080" direction="1" />
-	<gump type="7" x="1423" y="22" serial="1007" name="ALL NAMES" />
-	<gump type="5" x="672" y="28" serial="0" />
-	<gump type="19" x="1438" y="508" serial="0" minimized="False" />
-	<gump type="15" x="1257" y="616" serial="0" id="32" />
 	<gump type="16" x="1387" y="612" serial="0" id="38" />
-	<gump type="18" x="1520" y="608" serial="0" />
+	<gump type="15" x="1257" y="616" serial="0" id="32" />
+	<gump type="19" x="1438" y="508" serial="0" minimized="False" />
+	<gump type="5" x="672" y="28" serial="0" />
+	<gump type="7" x="1423" y="22" serial="1007" name="ALL NAMES" />
+	<gump type="1" x="1299" y="112" serial="0" graphic="30080" direction="1" />
+	<gump type="20" x="1377" y="555" serial="0" minimized="False" />
 </gumps>

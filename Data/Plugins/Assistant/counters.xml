@@ -162,4 +162,40 @@
 		<itemid>0</itemid>
 		<hue>0</hue>
 	</counter>
+	<counter>
+		<name>ribs</name>
+		<format>ribs</format>
+		<itemid>2545</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>blanksc</name>
+		<format>blanksc</format>
+		<itemid>3827</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>cloth</name>
+		<format>cloth</format>
+		<itemid>5990</itemid>
+		<hue>591</hue>
+	</counter>
+	<counter>
+		<name>wizard</name>
+		<format>wizard</format>
+		<itemid>5912</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>scrolls</name>
+		<format>scrolls</format>
+		<itemid>3827</itemid>
+		<hue>-1</hue>
+	</counter>
+	<counter>
+		<name>pen</name>
+		<format>pen</format>
+		<itemid>4032</itemid>
+		<hue>-1</hue>
+	</counter>
 </counters>

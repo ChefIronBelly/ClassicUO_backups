@@ -15,9 +15,9 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">59</property>
-	<property name="WindowY" type="System.Int32">131</property>
-	<property name="CountStealthSteps" type="System.Boolean">True</property>
+	<property name="WindowX" type="System.Int32">656</property>
+	<property name="WindowY" type="System.Int32">398</property>
+	<property name="CountStealthSteps" type="System.Boolean">False</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
 	<property name="ExemptColor" type="System.Int32">1152</property>
@@ -56,22 +56,21 @@
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
 	<property name="LTHilight" type="System.Int32">0</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
-	<property name="AutoOpenDoors" type="System.Boolean">True</property>
+	<property name="AutoOpenDoors" type="System.Boolean">False</property>
 	<property name="MessageLevel" type="System.Int32">0</property>
 	<property name="ForceIP" type="System.String" />
 	<property name="ForcePort" type="System.Int32">0</property>
 	<property name="ForceSizeEnabled" type="System.Boolean">False</property>
 	<property name="ForceSizeX" type="System.Int32">1000</property>
 	<property name="ForceSizeY" type="System.Int32">800</property>
-	<property name="PotionEquip" type="System.Boolean">False</property>
-	<property name="BlockHealPoison" type="System.Boolean">True</property>
+	<property name="PotionEquip" type="System.Boolean">True</property>
+	<property name="BlockHealPoison" type="System.Boolean">False</property>
 	<property name="SmoothWalk" type="System.Boolean">False</property>
 	<property name="Negotiate" type="System.Boolean">True</property>
 	<property name="MapX" type="System.Int32">200</property>
 	<property name="MapY" type="System.Int32">200</property>
 	<property name="MapW" type="System.Int32">200</property>
 	<property name="MapH" type="System.Int32">200</property>
-	<property name="LogPacketsByDefault" type="System.Boolean">False</property>
 	<property name="ShowHealth" type="System.Boolean">False</property>
 	<property name="HealthFmt" type="System.String">[{0}%]</property>
 	<property name="ShowPartyStats" type="System.Boolean">True</property>
@@ -113,9 +112,9 @@
 	<property name="FilterDrakeGraphics" type="System.Boolean">False</property>
 	<property name="DragonGraphic" type="System.Int32">0</property>
 	<property name="DrakeGraphic" type="System.Int32">0</property>
-	<property name="ShowDamageDealt" type="System.Boolean">False</property>
+	<property name="ShowDamageDealt" type="System.Boolean">True</property>
 	<property name="ShowDamageDealtOverhead" type="System.Boolean">False</property>
-	<property name="ShowDamageTaken" type="System.Boolean">False</property>
+	<property name="ShowDamageTaken" type="System.Boolean">True</property>
 	<property name="ShowDamageTakenOverhead" type="System.Boolean">False</property>
 	<property name="ShowInRazorTitleBar" type="System.Boolean">False</property>
 	<property name="RazorTitleBarText" type="System.String">{name} on {account} ({profile} - {shard}) - Razor v{version}</property>
@@ -195,6 +194,11 @@
 		<counter name="Nightshade" enabled="True" image="True" />
 		<counter name="Spider's Silk" enabled="True" image="True" />
 		<counter name="Sulfurous Ash" enabled="True" image="True" />
+		<counter name="blanksc" enabled="True" image="True" />
+		<counter name="cloth" enabled="True" image="True" />
+		<counter name="wizard" enabled="True" image="True" />
+		<counter name="scrolls" enabled="True" image="True" />
+		<counter name="pen" enabled="True" image="True" />
 	</counters>
 	<agents>
 		<Buy-1 enabled="False" />
@@ -208,10 +212,21 @@
 		<Buy-9 enabled="False" />
 		<Buy-10 enabled="False" />
 		<IgnoreList enabled="False" />
-		<Organizer-1 hotbag="0" />
-		<Organizer-2 hotbag="0" />
+		<Organizer-1 hotbag="1243552142">
+			<item id="3962" />
+			<item id="3963" />
+			<item id="3973" />
+			<item id="3974" />
+			<item id="3972" />
+			<item id="3981" />
+		</Organizer-1>
+		<Organizer-2 hotbag="1347682293">
+			<item id="4032" />
+		</Organizer-2>
 		<Organizer-3 hotbag="0" />
-		<Organizer-4 hotbag="0" />
+		<Organizer-4 hotbag="1234631679">
+			<item id="3834" />
+		</Organizer-4>
 		<Organizer-5 hotbag="0" />
 		<Organizer-6 hotbag="0" />
 		<Organizer-7 hotbag="0" />
@@ -238,7 +253,11 @@
 			<item id="3976" amount="25" />
 			<item id="3980" amount="25" />
 		</Restock-1>
-		<Restock-2 hotbag="0" />
+		<Restock-2 hotbag="1202148729">
+			<item id="3827" amount="100" />
+			<item id="4032" amount="5" />
+			<item id="5990" amount="10" />
+		</Restock-2>
 		<Restock-3 hotbag="0" />
 		<Restock-4 hotbag="0" />
 		<Restock-5 hotbag="0" />
@@ -247,7 +266,9 @@
 		<Restock-8 hotbag="0" />
 		<Restock-9 hotbag="0" />
 		<Restock-10 hotbag="0" />
-		<Scavenger enabled="False" />
+		<Scavenger enabled="True">
+			<item id="3834" />
+		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False" />
 		<UseOnce />
@@ -267,8 +288,8 @@
 	</dresslists>
 	<hotkeys>
 		<key mod="0" key="113" send="False">L:3002014</key>
-		<key mod="0" key="117" send="False">L:3002015</key>
 		<key mod="1" key="53" send="False">L:3002017</key>
+		<key mod="0" key="117" send="False">L:3002018</key>
 		<key mod="0" key="114" send="False">L:3002021</key>
 		<key mod="0" key="80" send="False">L:3002030</key>
 		<key mod="0" key="84" send="False">L:3002032</key>
@@ -277,16 +298,17 @@
 		<key mod="2" key="82" send="False">L:3002042</key>
 		<key mod="1" key="82" send="False">L:3002046</key>
 		<key mod="1" key="80" send="False">L:3002048</key>
-		<key mod="0" key="119" send="False">L:3002052</key>
 		<key mod="0" key="118" send="False">L:3002053</key>
 		<key mod="0" key="77" send="False">L:3002055</key>
 		<key mod="0" key="122" send="False">L:3002061</key>
 		<key mod="1" key="65" send="False">L:3002070</key>
+		<key mod="1" key="69" send="False">L:3002072</key>
 		<key mod="1" key="87" send="False">L:3002074</key>
 		<key mod="4" key="-2" send="False">L:1058</key>
 		<key mod="0" key="112" send="False">L:1059</key>
 		<key mod="0" key="123" send="False">L:1311</key>
 		<key mod="0" key="38" send="False">L:2101</key>
+		<key mod="0" key="119" send="False">Play Script: Ebolt</key>
 		<key mod="0" key="49" send="False">Play Script: Gate Escape</key>
 		<key mod="1" key="66" send="False">Play: say</key>
 		<key mod="2" key="66" send="False">L:1025</key>
@@ -294,6 +316,8 @@
 		<key mod="1" key="50" send="False">L:1029</key>
 		<key mod="1" key="52" send="False">L:1033</key>
 		<key mod="1" key="51" send="False">L:1034</key>
+		<key mod="1" key="68" send="False">L:1044074</key>
+		<key mod="1" key="77" send="False">Organizer Agent-01</key>
 	</hotkeys>
 	<passwords />
 	<overheadmessages />

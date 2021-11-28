@@ -53,7 +53,6 @@
 			<skill id="35" />
 			<skill id="18" />
 			<skill id="20" />
-			<skill id="38" />
 			<skill id="39" />
 		</skillids>
 	</group>
@@ -75,6 +74,13 @@
 			<skill id="29" />
 			<skill id="9" />
 			<skill id="22" />
+			<skill id="38" />
+		</skillids>
+	</group>
+	<group name="New Skills">
+		<skillids>
+			<skill id="51" />
+			<skill id="49" />
 		</skillids>
 	</group>
 </skillsgroups>

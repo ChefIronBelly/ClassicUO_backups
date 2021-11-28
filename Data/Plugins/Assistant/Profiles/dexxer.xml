@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">904</property>
-	<property name="WindowY" type="System.Int32">124</property>
+	<property name="WindowX" type="System.Int32">176</property>
+	<property name="WindowY" type="System.Int32">218</property>
 	<property name="CountStealthSteps" type="System.Boolean">False</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -32,7 +32,7 @@
 	<property name="Opacity" type="System.Int32">100</property>
 	<property name="AutoOpenCorpses" type="System.Boolean">False</property>
 	<property name="CorpseRange" type="System.Int32">2</property>
-	<property name="BlockDismount" type="System.Boolean">False</property>
+	<property name="BlockDismount" type="System.Boolean">True</property>
 	<property name="CapFullScreen" type="System.Boolean">False</property>
 	<property name="CapPath" type="System.String">C:\Users\werth\Pictures\RazorScreenShots</property>
 	<property name="CapTimeStamp" type="System.Boolean">True</property>
@@ -42,7 +42,7 @@
 	<property name="Systray" type="System.Boolean">False</property>
 	<property name="TitlebarImages" type="System.Boolean">False</property>
 	<property name="SellAgentMax" type="System.Int32">99</property>
-	<property name="SkillListCol" type="System.Int32">2</property>
+	<property name="SkillListCol" type="System.Int32">1</property>
 	<property name="SkillListAsc" type="System.Boolean">True</property>
 	<property name="AutoStack" type="System.Boolean">False</property>
 	<property name="ActionStatusMsg" type="System.Boolean">True</property>
@@ -52,7 +52,7 @@
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="OldStatBar" type="System.Boolean">False</property>
-	<property name="SmartLastTarget" type="System.Boolean">False</property>
+	<property name="SmartLastTarget" type="System.Boolean">True</property>
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
 	<property name="LTHilight" type="System.Int32">0</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
@@ -64,14 +64,13 @@
 	<property name="ForceSizeX" type="System.Int32">1000</property>
 	<property name="ForceSizeY" type="System.Int32">800</property>
 	<property name="PotionEquip" type="System.Boolean">True</property>
-	<property name="BlockHealPoison" type="System.Boolean">True</property>
+	<property name="BlockHealPoison" type="System.Boolean">False</property>
 	<property name="SmoothWalk" type="System.Boolean">False</property>
 	<property name="Negotiate" type="System.Boolean">True</property>
 	<property name="MapX" type="System.Int32">200</property>
 	<property name="MapY" type="System.Int32">200</property>
-	<property name="MapW" type="System.Int32">200</property>
-	<property name="MapH" type="System.Int32">200</property>
-	<property name="LogPacketsByDefault" type="System.Boolean">False</property>
+	<property name="MapW" type="System.Int32">374</property>
+	<property name="MapH" type="System.Int32">349</property>
 	<property name="ShowHealth" type="System.Boolean">False</property>
 	<property name="HealthFmt" type="System.String">[{0}%]</property>
 	<property name="ShowPartyStats" type="System.Boolean">True</property>
@@ -113,10 +112,10 @@
 	<property name="FilterDrakeGraphics" type="System.Boolean">False</property>
 	<property name="DragonGraphic" type="System.Int32">0</property>
 	<property name="DrakeGraphic" type="System.Int32">0</property>
-	<property name="ShowDamageDealt" type="System.Boolean">False</property>
-	<property name="ShowDamageDealtOverhead" type="System.Boolean">False</property>
-	<property name="ShowDamageTaken" type="System.Boolean">False</property>
-	<property name="ShowDamageTakenOverhead" type="System.Boolean">False</property>
+	<property name="ShowDamageDealt" type="System.Boolean">True</property>
+	<property name="ShowDamageDealtOverhead" type="System.Boolean">True</property>
+	<property name="ShowDamageTaken" type="System.Boolean">True</property>
+	<property name="ShowDamageTakenOverhead" type="System.Boolean">True</property>
 	<property name="ShowInRazorTitleBar" type="System.Boolean">False</property>
 	<property name="RazorTitleBarText" type="System.String">{name} on {account} ({profile} - {shard}) - Razor v{version}</property>
 	<property name="EnableUOAAPI" type="System.Boolean">True</property>
@@ -186,15 +185,7 @@
 		<filter name="1002" enable="True" />
 	</filters>
 	<counters>
-		<counter name="Bandages" enabled="True" image="True" />
-		<counter name="Black Pearl" enabled="True" image="True" />
-		<counter name="Blood Moss" enabled="True" image="True" />
-		<counter name="Garlic" enabled="True" image="True" />
-		<counter name="Ginseng" enabled="True" image="True" />
-		<counter name="Mandrake Root" enabled="True" image="True" />
-		<counter name="Nightshade" enabled="True" image="True" />
-		<counter name="Spider's Silk" enabled="True" image="True" />
-		<counter name="Sulfurous Ash" enabled="True" image="True" />
+		<counter name="ribs" enabled="True" image="True" />
 	</counters>
 	<agents>
 		<Buy-1 enabled="False" />
@@ -208,11 +199,61 @@
 		<Buy-9 enabled="False" />
 		<Buy-10 enabled="False" />
 		<IgnoreList enabled="False" />
-		<Organizer-1 hotbag="0" />
-		<Organizer-2 hotbag="0" />
-		<Organizer-3 hotbag="0" />
-		<Organizer-4 hotbag="0" />
-		<Organizer-5 hotbag="0" />
+		<Organizer-1 hotbag="1087141672">
+			<item id="3962" />
+			<item id="3963" />
+			<item id="3976" />
+			<item id="3972" />
+			<item id="3973" />
+			<item id="3980" />
+			<item id="3981" />
+			<item id="3974" />
+		</Organizer-1>
+		<Organizer-2 hotbag="1234631677">
+			<item id="7999" />
+			<item id="8002" />
+			<item id="7998" />
+			<item id="8000" />
+			<item id="8008" />
+			<item id="8003" />
+			<item id="7993" />
+			<item id="7992" />
+			<item id="7990" />
+			<item id="7983" />
+			<item id="7988" />
+			<item id="7982" />
+			<item id="7986" />
+			<item id="7987" />
+			<item id="8014" />
+			<item id="7985" />
+			<item id="7984" />
+			<item id="7996" />
+			<item id="8004" />
+			<item id="7989" />
+			<item id="7991" />
+			<item id="8006" />
+			<item id="8010" />
+			<item id="8001" />
+			<item id="7994" />
+			<item id="8007" />
+			<item id="8011" />
+			<item id="8005" />
+			<item id="8021" />
+			<item id="8009" />
+			<item id="8017" />
+			<item id="8019" />
+			<item id="8027" />
+		</Organizer-2>
+		<Organizer-3 hotbag="1179682502">
+			<item id="4032" />
+			<item id="3827" />
+		</Organizer-3>
+		<Organizer-4 hotbag="1164386223">
+			<item id="2431" />
+		</Organizer-4>
+		<Organizer-5 hotbag="1217206441">
+			<item id="3997" />
+		</Organizer-5>
 		<Organizer-6 hotbag="0" />
 		<Organizer-7 hotbag="0" />
 		<Organizer-8 hotbag="0" />
@@ -243,18 +284,40 @@
 		<Sell enabled="False" />
 		<UseOnce />
 	</agents>
-	<dresslists />
+	<dresslists>
+		<list name="nympho">
+			<item serial="1217385668" />
+			<item serial="1095208824" />
+		</list>
+	</dresslists>
 	<hotkeys>
 		<key mod="0" key="112" send="False">L:1059</key>
+		<key mod="0" key="78" send="False">L:2039</key>
 		<key mod="0" key="116" send="False">L:2052</key>
+		<key mod="0" key="-2" send="False">L:2074</key>
+		<key mod="0" key="-1" send="False">L:2077</key>
+		<key mod="1" key="84" send="False">L:1956</key>
 		<key mod="0" key="123" send="False">L:1311</key>
+		<key mod="0" key="49" send="False">Play Script: Gate Escape</key>
 		<key mod="2" key="88" send="False">Play Script: Skinner</key>
+		<key mod="1" key="87" send="False">Play: Adv Rope</key>
+		<key mod="0" key="27" send="False">Play: Escape</key>
+		<key mod="0" key="66" send="False">Play: hammie</key>
 		<key mod="0" key="192" send="False">Play: Healing</key>
+		<key mod="1" key="81" send="False">Play: pouch</key>
 		<key mod="1" key="66" send="False">Play: say</key>
 		<key mod="4" key="66" send="False">L:1025</key>
+		<key mod="1" key="49" send="False">L:1028</key>
+		<key mod="1" key="50" send="False">L:1029</key>
+		<key mod="1" key="52" send="False">L:1033</key>
+		<key mod="1" key="51" send="False">L:1034</key>
 		<key mod="0" key="80" send="False">L:1044069</key>
+		<key mod="1" key="68" send="False">L:1044074</key>
 		<key mod="0" key="72" send="False">L:1044081</key>
 		<key mod="0" key="84" send="False">L:1044098</key>
+		<key mod="1" key="77" send="False">Organizer Agent-01</key>
+		<key mod="1" key="78" send="False">Organizer Agent-02</key>
+		<key mod="1" key="65" send="False">Toggle: nympho</key>
 	</hotkeys>
 	<passwords />
 	<overheadmessages>

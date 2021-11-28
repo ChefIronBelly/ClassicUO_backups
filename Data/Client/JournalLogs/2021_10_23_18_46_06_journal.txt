@@ -1,0 +1,907 @@
+[10/23/2021 18:46]  System: WorldMap loading...
+[10/23/2021 18:46]  System: Loading WorldMap markers..
+[10/23/2021 18:46]  System: ..Banks_and_Healers.xml (20)
+[10/23/2021 18:46]  System: ..Dungeons.xml (12)
+[10/23/2021 18:46]  System: ..Dungeon_Gates.xml (335)
+[10/23/2021 18:46]  System: ..Healer_Caravans.xml (32)
+[10/23/2021 18:46]  System: ..Moongates.xml (9)
+[10/23/2021 18:46]  System: ..POI.xml (176)
+[10/23/2021 18:46]  System: ..Shrines.xml (9)
+[10/23/2021 18:46]  System: ..Subterranean.xml (6)
+[10/23/2021 18:46]  System: ..Townships.xml (9)
+[10/23/2021 18:46]  System: WorldMap markers loaded (608)
+[10/23/2021 18:46]  System: Welcome Wulf of Wyrd!
+[10/23/2021 18:46]  Razor: [- (s)]
+[10/23/2021 18:46]  Razor: [+Campfire Visit (10627s)]
+[10/23/2021 18:46]  Razor: [- (s)]
+[10/23/2021 18:46]  Razor: [+Hidden/Stealthing (0s)]
+[10/23/2021 18:46]  Razor: [- (s)]
+[10/23/2021 18:46]  Razor: [+Food Satisfaction (3447s)]
+[10/23/2021 18:46]  System: You must wait to perform another action.
+[10/23/2021 18:46]  System: Finished 3 queued actions in 1.2 seconds.
+[10/23/2021 18:46]  System: WorldMap loaded!
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Your campfire is now secure.
+[10/23/2021 18:46]  System: The world will save in 15 seconds.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: You feel rested and comforted by the camp. (+22.5% damage to creatures and +9.0% damage to players).
+[10/23/2021 18:46]  Razor: [-Campfire Visit (s)]
+[10/23/2021 18:46]  Razor: [+Campfire Visit (10800s)]
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:46]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: The world is saving, please wait.
+[10/23/2021 18:46]  System: World save complete. The entire process took 2.8 seconds.
+[10/23/2021 18:46]  System: Target an individual item to recycle.
+[10/23/2021 18:46]  System: Camping skillgain: 1.929%
+[10/23/2021 18:46]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:46]  System: That container is invalid.
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:47]  System: Target an individual item to recycle.
+[10/23/2021 18:47]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:47]  System: That container is invalid.
+[10/23/2021 18:47]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: You feel rested and comforted by the camp. (+22.6% damage to creatures and +9.0% damage to players).
+[10/23/2021 18:48]  Razor: [-Campfire Visit (s)]
+[10/23/2021 18:48]  Razor: [+Campfire Visit (10800s)]
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:48]  System: Target an individual item to recycle.
+[10/23/2021 18:48]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:48]  System: That container is invalid.
+[10/23/2021 18:48]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:48]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  You see: durable surpassingly accurate shepherd's crook
+[10/23/2021 18:49]  System: Target an individual item to recycle.
+[10/23/2021 18:49]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:49]  System: That container is invalid.
+[10/23/2021 18:49]  System: Camping skillgain: 1.929%
+[10/23/2021 18:49]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:49]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: You feel rested and comforted by the camp. (+22.6% damage to creatures and +9.0% damage to players).
+[10/23/2021 18:50]  Razor: [-Campfire Visit (s)]
+[10/23/2021 18:50]  Razor: [+Campfire Visit (10800s)]
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:50]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Inscribe skillgain: 3.750%
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:50]  System: Camping skillgain: 1.929%
+[10/23/2021 18:50]  System: Target an individual item to recycle.
+[10/23/2021 18:50]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:50]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: You feel rested and comforted by the camp. (+22.6% damage to creatures and +9.0% damage to players).
+[10/23/2021 18:51]  Razor: [-Campfire Visit (s)]
+[10/23/2021 18:51]  Razor: [+Campfire Visit (10800s)]
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target an individual item to recycle.
+[10/23/2021 18:51]  System: Camping skillgain: 1.929%
+[10/23/2021 18:51]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:51]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:52]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:52]  System: Target an individual item to recycle.
+[10/23/2021 18:52]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:52]  System: That container is invalid.
+[10/23/2021 18:52]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: Target an individual item to recycle.
+[10/23/2021 18:53]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:53]  System: That container is invalid.
+[10/23/2021 18:53]  System: Camping skillgain: 1.929%
+[10/23/2021 18:53]  System: A contested boss has spawned in Darkmire Temple!
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Camping skillgain: 1.929%
+[10/23/2021 18:54]  System: Target an individual item to recycle.
+[10/23/2021 18:54]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:54]  System: That container is invalid.
+[10/23/2021 18:54]  System: [TS] A Town Struggle (mountless) will begin in 5 minutes. Town struggles may be accessed via green battle gates near each town bank. Type [TownStruggle to view more details.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: You feel rested and comforted by the camp. (+22.6% damage to creatures and +9.1% damage to players).
+[10/23/2021 18:55]  Razor: [-Campfire Visit (s)]
+[10/23/2021 18:55]  Razor: [+Campfire Visit (10800s)]
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  Razor: [-Campfire Visit (s)]
+[10/23/2021 18:55]  Razor: [+Campfire Visit (10800s)]
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: You feel rested and comforted by the camp. (+22.6% damage to creatures and +9.1% damage to players).
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:55]  System: Target an individual item to recycle.
+[10/23/2021 18:55]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:55]  System: That container is invalid.
+[10/23/2021 18:55]  System: Camping skillgain: 1.929%
+[10/23/2021 18:56]  System: Camping skillgain: 1.929%
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Camping skillgain: 1.929%
+[10/23/2021 18:56]  System: Camping skillgain: 1.929%
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Camping skillgain: 1.929%
+[10/23/2021 18:56]  System: Camping skillgain: 1.929%
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:56]  System: Target an individual item to recycle.
+[10/23/2021 18:56]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:56]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:57]  System: Target an individual item to recycle.
+[10/23/2021 18:57]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:57]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:58]  System: Target an individual item to recycle.
+[10/23/2021 18:58]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:58]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: Target an individual item to recycle.
+[10/23/2021 18:59]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 18:59]  System: That container is invalid.
+[10/23/2021 18:59]  System: [TS] A Town Struggle (mountless) for Cambria West has begun! Type [TownStruggle to view more details.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:00]  Turkey: [Boss, 33%]
+[10/23/2021 19:00]  Turkey: Turkey
+[10/23/2021 19:00]  System: Target an individual item to recycle.
+[10/23/2021 19:00]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:00]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: The world will save in 15 seconds.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: The world is saving, please wait.
+[10/23/2021 19:01]  System: World save complete. The entire process took 2.8 seconds.
+[10/23/2021 19:01]  You see: blank scroll : 116
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:01]  System: That container is invalid.
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:01]  You see: blank scroll : 371
+[10/23/2021 19:01]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:02]  System: That container is invalid.
+[10/23/2021 19:02]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:03]  System: Target an individual item to recycle.
+[10/23/2021 19:03]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:03]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:04]  System: Target an individual item to recycle.
+[10/23/2021 19:04]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:04]  System: That container is invalid.
+[10/23/2021 19:05]  System: Target an individual item to recycle.
+[10/23/2021 19:05]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:05]  System: That container is invalid.
+[10/23/2021 19:05]  System: Target an individual item to recycle.
+[10/23/2021 19:05]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:05]  System: That container is invalid.
+[10/23/2021 19:05]  System: Target an individual item to recycle.
+[10/23/2021 19:05]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:05]  System: That container is invalid.
+[10/23/2021 19:05]  System: Target an individual item to recycle.
+[10/23/2021 19:05]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:05]  System: That container is invalid.
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: You must wait to perform another action.
+[10/23/2021 19:05]  System: Tulio has completed the achievement: Monstrous Slayer (Basic).
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Your campfire is now secure.
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929%
+[10/23/2021 19:05]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Target an individual item to recycle.
+[10/23/2021 19:06]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:06]  System: That container is invalid.
+[10/23/2021 19:06]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 19:06]  System: Target an individual item to recycle.
+[10/23/2021 19:06]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:06]  System: That container is invalid.
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Target an individual item to recycle.
+[10/23/2021 19:06]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:06]  System: That container is invalid.
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Target an individual item to recycle.
+[10/23/2021 19:06]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:06]  System: That container is invalid.
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Target an individual item to recycle.
+[10/23/2021 19:06]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/23/2021 19:06]  System: That container is invalid.
+[10/23/2021 19:06]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:06]  System: Target an individual item to recycle.
+[10/23/2021 19:06]  System: Camping skillgain: 1.929%
+[10/23/2021 19:07]  System: Camping skillgain: 1.929%
+[10/23/2021 19:07]  System: Camping skillgain: 1.929%
+[10/23/2021 19:07]  System: Camping skillgain: 1.929%
+[10/23/2021 19:07]  System: Camping skillgain: 1.929% [2]
+[10/23/2021 19:07]  System: Camping skillgain: 1.929%
+[10/23/2021 19:07]  System: Camping skillgain: 1.929%

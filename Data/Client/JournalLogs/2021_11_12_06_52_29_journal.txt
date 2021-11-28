@@ -1,0 +1,972 @@
+[11/12/2021 06:52]  System: WorldMap loading...
+[11/12/2021 06:52]  System: Loading WorldMap markers..
+[11/12/2021 06:52]  System: ..Banks_and_Healers.xml (20)
+[11/12/2021 06:52]  System: ..Dungeons.xml (12)
+[11/12/2021 06:52]  System: ..Dungeon_Gates.xml (335)
+[11/12/2021 06:52]  System: ..Healer_Caravans.xml (32)
+[11/12/2021 06:52]  System: ..Moongates.xml (9)
+[11/12/2021 06:52]  System: ..POI.xml (176)
+[11/12/2021 06:52]  System: ..Shrines.xml (9)
+[11/12/2021 06:52]  System: ..Subterranean.xml (6)
+[11/12/2021 06:52]  System: ..Townships.xml (9)
+[11/12/2021 06:52]  System: WorldMap markers loaded (608)
+[11/12/2021 06:52]  System: Welcome Duluth Trading!
+[11/12/2021 06:52]  System: Your food satisfaction effect has expired.
+[11/12/2021 06:52]  Razor: [- (s)]
+[11/12/2021 06:52]  Razor: [+Hidden/Stealthing (0s)]
+[11/12/2021 06:52]  System: WorldMap loaded!
+[11/12/2021 06:52]  System: You must wait to perform another action.
+[11/12/2021 06:52]  You see: paragon chest (mongbat)
+[11/12/2021 06:52]  You see: [secure]
+[11/12/2021 06:52]  You see: (76 items, 1372 stones)
+[11/12/2021 06:52]  You see: leather : 3843
+[11/12/2021 06:52]  You see: leather : 1141
+[11/12/2021 06:52]  System: Your campfire is now secure.
+[11/12/2021 06:52]  System: You feel rested and comforted by the camp. (+3.0% damage to creatures and +1.2% damage to players).
+[11/12/2021 06:52]  Razor: [+Campfire Visit (10800s)]
+[11/12/2021 06:53]  You see: shadowhide : 11
+[11/12/2021 06:53]  Duluth Trading: The food is paltry and is barely satisfying.
+[11/12/2021 06:53]  System: You are still slightly hungry.
+[11/12/2021 06:53]  Razor: [+Food Satisfaction (3600s)]
+[11/12/2021 06:53]  System: The world will save in 15 seconds.
+[11/12/2021 06:53]  System: The world is saving, please wait.
+[11/12/2021 06:53]  System: World save complete. The entire process took 4.1 seconds.
+[11/12/2021 06:53]  You see: gold coin : 126
+[11/12/2021 06:54]  System: You begin hiking to your destination.
+[11/12/2021 06:54]  Duluth Trading: *hiking to destination*
+[11/12/2021 06:54]  Razor: [-Hidden/Stealthing (s)]
+[11/12/2021 06:54]  Razor: [+Paralyze (3s)]
+[11/12/2021 06:54]  Duluth Trading: *hiking to destination*
+[11/12/2021 06:54]  Razor: [-Paralyze (s)]
+[11/12/2021 06:54]  Razor: [+Paralyze (2s)]
+[11/12/2021 06:54]  Razor: [-Paralyze (s)]
+[11/12/2021 06:54]  Razor: [+Paralyze (1s)]
+[11/12/2021 06:54]  Duluth Trading: *hiking to destination*
+[11/12/2021 06:54]  Razor: [-Paralyze (s)]
+[11/12/2021 06:54]  Razor: [+Paralyze (0s)]
+[11/12/2021 06:54]  Razor: [-Paralyze (s)]
+[11/12/2021 06:54]  System: You are no longer hindered.
+[11/12/2021 06:54]  System: You are now under the protection of the town guards.
+[11/12/2021 06:54]  System: You hike to your destination.
+[11/12/2021 06:54]  Duluth Trading: *You have arrived at your destination*
+[11/12/2021 06:54]  Razor: [-Campfire Visit (s)]
+[11/12/2021 06:54]  Shen: Shen the mapmaker
+[11/12/2021 06:54]  Shen: Shen the mapmaker
+[11/12/2021 06:54]  a seagull: a seagull
+[11/12/2021 06:54]  a seagull: a seagull
+[11/12/2021 06:54]  Cadeo: Cadeo the dockmaster
+[11/12/2021 06:54]  Cadeo: Cadeo the dockmaster
+[11/12/2021 06:54]  Dante: Dante the dockmaster
+[11/12/2021 06:54]  Dante: Dante the dockmaster
+[11/12/2021 06:54]  Beryl: Beryl the salvage foreman
+[11/12/2021 06:54]  Beryl: Beryl the salvage foreman
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  Kay: Kay the dockmaster
+[11/12/2021 06:54]  Kay: Kay the dockmaster
+[11/12/2021 06:54]  Bram: Bram the salvage foreman
+[11/12/2021 06:54]  Bram: Bram the salvage foreman
+[11/12/2021 06:54]  Kirima: Kirima the thief
+[11/12/2021 06:54]  Kirima: Kirima the thief
+[11/12/2021 06:54]  Nicholas: Nicholas the salvage foreman
+[11/12/2021 06:54]  Nicholas: Nicholas the salvage foreman
+[11/12/2021 06:54]  Una: Una the barkeep
+[11/12/2021 06:54]  Una: Una the barkeep
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  Raidon: Raidon the dockmaster
+[11/12/2021 06:54]  Raidon: Raidon the dockmaster
+[11/12/2021 06:54]  Risa: Risa the salvage foreman
+[11/12/2021 06:54]  Risa: Risa the salvage foreman
+[11/12/2021 06:54]  Jung: Jung the cook
+[11/12/2021 06:54]  Jung: Jung the cook
+[11/12/2021 06:54]  Raizel: Raizel the farmer
+[11/12/2021 06:54]  Raizel: Raizel the farmer
+[11/12/2021 06:54]  Sean: Sean the waiter
+[11/12/2021 06:54]  Sean: Sean the waiter
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  an andarian footman: an andarian footman
+[11/12/2021 06:54]  an andarian footman: an andarian footman
+[11/12/2021 06:54]  a seagull: a seagull
+[11/12/2021 06:54]  a seagull: a seagull
+[11/12/2021 06:54]  Ramsay: Ramsay the shipwright
+[11/12/2021 06:54]  Ramsay: Ramsay the shipwright
+[11/12/2021 06:54]  a seagull: a seagull
+[11/12/2021 06:54]  a seagull: a seagull
+[11/12/2021 06:54]  a fisherman: a fisherman
+[11/12/2021 06:54]  a fisherman: a fisherman
+[11/12/2021 06:54]  Thurston: Thurston the carpenter
+[11/12/2021 06:54]  Thurston: Thurston the carpenter
+[11/12/2021 06:54]  Karayan: Karayan the bowyer
+[11/12/2021 06:54]  Karayan: Karayan the bowyer
+[11/12/2021 06:54]  Namazzi: Namazzi the provisioner
+[11/12/2021 06:54]  Namazzi: Namazzi the provisioner
+[11/12/2021 06:54]  a dog: a dog
+[11/12/2021 06:54]  a dog: a dog
+[11/12/2021 06:54]  Lizbet: [Hang Around, A^T]
+[11/12/2021 06:54]  Lizbet: Lizbet
+[11/12/2021 06:54]  Lizbet: [Hang Around, A^T]
+[11/12/2021 06:54]  Lizbet: Lizbet
+[11/12/2021 06:54]  TziaR: TziaR
+[11/12/2021 06:54]  TziaR: TziaR
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  Kirima: Kirima the thief
+[11/12/2021 06:54]  Kirima: Kirima the thief
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  Raizel: Raizel the farmer
+[11/12/2021 06:54]  Raizel: Raizel the farmer
+[11/12/2021 06:54]  Shen: Shen the mapmaker
+[11/12/2021 06:54]  Shen: Shen the mapmaker
+[11/12/2021 06:54]  Rhodanthe: Rhodanthe the cook
+[11/12/2021 06:54]  Rhodanthe: Rhodanthe the cook
+[11/12/2021 06:54]  an andarian footman: an andarian footman
+[11/12/2021 06:54]  an andarian footman: an andarian footman
+[11/12/2021 06:54]  Stephani: Stephani the ranger
+[11/12/2021 06:54]  Stephani: Stephani the ranger
+[11/12/2021 06:54]  an andarian mage: an andarian mage
+[11/12/2021 06:54]  an andarian mage: an andarian mage
+[11/12/2021 06:54]  Morgan: Morgan the farmer
+[11/12/2021 06:54]  Morgan: Morgan the farmer
+[11/12/2021 06:54]  Standford: Standford the cook
+[11/12/2021 06:54]  Standford: Standford the cook
+[11/12/2021 06:54]  Tertia: Tertia the blacksmith
+[11/12/2021 06:54]  Tertia: Tertia the blacksmith
+[11/12/2021 06:54]  Kelvin: Kelvin the tinker
+[11/12/2021 06:54]  Kelvin: Kelvin the tinker
+[11/12/2021 06:54]  Nancy: Master of Aspects
+[11/12/2021 06:54]  Nancy: Lady Nancy
+[11/12/2021 06:54]  Nancy: Master of Aspects
+[11/12/2021 06:54]  Nancy: Lady Nancy
+[11/12/2021 06:54]  Prescot: Prescot the tailor
+[11/12/2021 06:54]  Prescot: Prescot the tailor
+[11/12/2021 06:54]  a dog: a dog
+[11/12/2021 06:54]  a dog: a dog
+[11/12/2021 06:54]  Gunther: Gunther the tailor
+[11/12/2021 06:54]  Gunther: Gunther the tailor
+[11/12/2021 06:54]  an andarian knight: an andarian knight
+[11/12/2021 06:54]  an andarian knight: an andarian knight
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  Prescot: Prescot the tailor
+[11/12/2021 06:54]  Prescot: Greetings.  Have a look around.
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  a cat: a cat
+[11/12/2021 06:54]  Prescot: The total of thy purchase is 125 gold.  My thanks for the patronage.
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  Feridwyn: Feridwyn the blacksmith
+[11/12/2021 06:55]  Feridwyn: Feridwyn the blacksmith
+[11/12/2021 06:55]  Olivia: Olivia the miner
+[11/12/2021 06:55]  Olivia: Olivia the miner
+[11/12/2021 06:55]  Deb: Deb the architect
+[11/12/2021 06:55]  Deb: Deb the architect
+[11/12/2021 06:55]  System: Being perfectly rested, you shove them out of the way.
+[11/12/2021 06:55]  Karlenne: Karlenne the real estate broker
+[11/12/2021 06:55]  Karlenne: Karlenne the real estate broker
+[11/12/2021 06:55]  Serilda: Serilda the armorer
+[11/12/2021 06:55]  Serilda: Serilda the armorer
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  Seymour: Seymour the carpenter
+[11/12/2021 06:55]  Seymour: Seymour the carpenter
+[11/12/2021 06:55]  Candida: Candida the cobbler
+[11/12/2021 06:55]  Candida: Candida the cobbler
+[11/12/2021 06:55]  an andarian mage: an andarian mage
+[11/12/2021 06:55]  an andarian mage: an andarian mage
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  Leiko: Leiko the tinker
+[11/12/2021 06:55]  Leiko: Leiko the tinker
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a dog: a dog
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  a cat: a cat
+[11/12/2021 06:55]  Stoyan: Stoyan the tinker
+[11/12/2021 06:55]  Stoyan: Stoyan the tinker
+[11/12/2021 06:55]  Killian: Killian the jeweler
+[11/12/2021 06:55]  Killian: Killian the jeweler
+[11/12/2021 06:55]  Bart: Bart the Town Crier
+[11/12/2021 06:55]  Bart: Bart the Town Crier
+[11/12/2021 06:55]  a pack llama: (tame)
+[11/12/2021 06:55]  a pack llama: [0/2000 stones]
+[11/12/2021 06:55]  a pack llama: a pack llama
+[11/12/2021 06:55]  a pack llama: (tame)
+[11/12/2021 06:55]  a pack llama: [0/2000 stones]
+[11/12/2021 06:55]  a pack llama: a pack llama
+[11/12/2021 06:55]  a flame purger: (bonded)
+[11/12/2021 06:55]  a flame purger: a flame purger
+[11/12/2021 06:55]  a flame purger: (bonded)
+[11/12/2021 06:55]  a flame purger: a flame purger
+[11/12/2021 06:55]  a fire crawler: (bonded)
+[11/12/2021 06:55]  a fire crawler: a fire crawler
+[11/12/2021 06:55]  a fire crawler: (bonded)
+[11/12/2021 06:55]  a fire crawler: a fire crawler
+[11/12/2021 06:55]  Sweetninja: Domesticator
+[11/12/2021 06:55]  Sweetninja: [Veteran, RUS]
+[11/12/2021 06:55]  Sweetninja: Sweetninja
+[11/12/2021 06:55]  Sweetninja: Domesticator
+[11/12/2021 06:55]  Sweetninja: [Veteran, RUS]
+[11/12/2021 06:55]  Sweetninja: Sweetninja
+[11/12/2021 06:55]  Mamut: [Star, ***]
+[11/12/2021 06:55]  Mamut: Mamut
+[11/12/2021 06:55]  Mamut: [Star, ***]
+[11/12/2021 06:55]  Mamut: Mamut
+[11/12/2021 06:55]  Neruskij: Neruskij
+[11/12/2021 06:55]  Neruskij: Neruskij
+[11/12/2021 06:55]  Roi: Roi the banker
+[11/12/2021 06:55]  Roi: Roi the banker
+[11/12/2021 06:55]  Tragnuk: Tragnuk
+[11/12/2021 06:55]  Tragnuk: Tragnuk
+[11/12/2021 06:55]  Britta: Britta the banker
+[11/12/2021 06:55]  Britta: Britta the banker
+[11/12/2021 06:55]  Orlantha: Orlantha the banker
+[11/12/2021 06:55]  Orlantha: Orlantha the banker
+[11/12/2021 06:55]  Anjelika: Anjelika
+[11/12/2021 06:55]  Anjelika: Anjelika
+[11/12/2021 06:55]  Jamie: Jamie the butcher
+[11/12/2021 06:55]  Jamie: Jamie the butcher
+[11/12/2021 06:55]  Greger: Greger the cook
+[11/12/2021 06:55]  Greger: Greger the cook
+[11/12/2021 06:55]  Nelson: Nelson the baker
+[11/12/2021 06:55]  Nelson: Nelson the baker
+[11/12/2021 06:55]  System: Playing Macro 'say'...
+[11/12/2021 06:55]  System: Macro 'say' finished.
+[11/12/2021 06:55]  Duluth Trading: bank guards i ban thee
+[11/12/2021 06:55]  Duluth Trading: Items: 61/125
+[11/12/2021 06:55]  Duluth Trading: Total Weight: 2,339
+[11/12/2021 06:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/12/2021 06:55]  You see: valewood board : 16
+[11/12/2021 06:55]  You see: verewood board : 31
+[11/12/2021 06:55]  EZRub: EZRub
+[11/12/2021 06:55]  EZRub: EZRub
+[11/12/2021 06:55]  System: Your campfire is now secure.
+[11/12/2021 06:55]  System: You feel rested and comforted by the camp. (+4.4% damage to creatures and +1.8% damage to players).
+[11/12/2021 06:55]  Razor: [+Campfire Visit (10800s)]
+[11/12/2021 06:55]  You see: leather : 11007
+[11/12/2021 06:55]  : Emptying the trashcan!
+[11/12/2021 06:55]  You see: iron ingot : 6167
+[11/12/2021 06:55]  You see: dull copper ingot : 48
+[11/12/2021 06:55]  You see: recall scroll : 100
+[11/12/2021 06:56]  EZRub: EZRub
+[11/12/2021 06:56]  EZRub: EZRub
+[11/12/2021 06:56]  You see: verewood board : 31
+[11/12/2021 06:56]  You see: gold coin : 11222
+[11/12/2021 06:56]  You see: exceptional goldenwood item identification wand
+[11/12/2021 06:56]  You see: (11 uses remaining)
+[11/12/2021 06:56]  You see: [mastercrafted by A Work Bee]
+[11/12/2021 06:56]  You see: exceptional item identification wand
+[11/12/2021 06:56]  You see: (38 uses remaining)
+[11/12/2021 06:56]  You see: [mastercrafted by Craftirt]
+[11/12/2021 06:56]  You see: exceptional valorite hatchet
+[11/12/2021 06:56]  You see: (2000 uses remaining)
+[11/12/2021 06:56]  You see: [mastercrafted by Bourn]
+[11/12/2021 06:56]  You see: exceptional chaos shield
+[11/12/2021 06:56]  You see: [mastercrafted by Stratus Gwortek]
+[11/12/2021 06:56]  You see: massive invulnerability bronze shield
+[11/12/2021 06:56]  EZRub: EZRub
+[11/12/2021 06:56]  EZRub: EZRub
+[11/12/2021 06:56]  Torpedo: Connoisseur
+[11/12/2021 06:56]  Torpedo: [Member, LT]
+[11/12/2021 06:56]  Torpedo: Lord Torpedo
+[11/12/2021 06:56]  Torpedo: Connoisseur
+[11/12/2021 06:56]  Torpedo: [Member, LT]
+[11/12/2021 06:56]  Torpedo: Lord Torpedo
+[11/12/2021 06:56]  Britta: Your gold balance is 1,170,552.
+[11/12/2021 06:56]  System: You feel rested and comforted by the camp. (+4.4% damage to creatures and +1.8% damage to players).
+[11/12/2021 06:56]  Razor: [-Campfire Visit (s)]
+[11/12/2021 06:56]  Razor: [+Campfire Visit (10800s)]
+[11/12/2021 06:57]  FreyjaScarab: (bonded)
+[11/12/2021 06:57]  FreyjaScarab: FreyjaScarab
+[11/12/2021 06:57]  FreyjaScarab: (bonded)
+[11/12/2021 06:57]  FreyjaScarab: FreyjaScarab
+[11/12/2021 06:57]  System: You feel rested and comforted by the camp. (+4.4% damage to creatures and +1.8% damage to players).
+[11/12/2021 06:57]  Razor: [-Campfire Visit (s)]
+[11/12/2021 06:57]  Razor: [+Campfire Visit (10800s)]
+[11/12/2021 06:57]  an andarian mage: an andarian mage
+[11/12/2021 06:57]  an andarian mage: an andarian mage
+[11/12/2021 06:57]  Stoyan: Stoyan the tinker
+[11/12/2021 06:57]  Stoyan: Stoyan the tinker
+[11/12/2021 06:57]  Leiko: Leiko the tinker
+[11/12/2021 06:57]  Leiko: Leiko the tinker
+[11/12/2021 06:57]  Candida: Candida the cobbler
+[11/12/2021 06:57]  Candida: Candida the cobbler
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  Serilda: Serilda the armorer
+[11/12/2021 06:57]  Serilda: Serilda the armorer
+[11/12/2021 06:57]  Olivia: Olivia the miner
+[11/12/2021 06:57]  Olivia: Olivia the miner
+[11/12/2021 06:57]  Feridwyn: Feridwyn the blacksmith
+[11/12/2021 06:57]  Feridwyn: Feridwyn the blacksmith
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a dog: a dog
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:57]  a cat: a cat
+[11/12/2021 06:58]  an andarian knight: an andarian knight
+[11/12/2021 06:58]  an andarian knight: an andarian knight
+[11/12/2021 06:58]  Seymour: Seymour the carpenter
+[11/12/2021 06:58]  Seymour: Seymour the carpenter
+[11/12/2021 06:58]  Karlenne: Karlenne the real estate broker
+[11/12/2021 06:58]  Karlenne: Karlenne the real estate broker
+[11/12/2021 06:58]  Deb: Deb the architect
+[11/12/2021 06:58]  Deb: Deb the architect
+[11/12/2021 06:58]  Olivia: Olivia the miner
+[11/12/2021 06:58]  Olivia: Olivia the miner
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  Serilda: Serilda the armorer
+[11/12/2021 06:58]  Serilda: Serilda the armorer
+[11/12/2021 06:58]  Prescot: Prescot the tailor
+[11/12/2021 06:58]  Prescot: Prescot the tailor
+[11/12/2021 06:58]  Nancy: Master of Aspects
+[11/12/2021 06:58]  Nancy: Lady Nancy
+[11/12/2021 06:58]  Nancy: Master of Aspects
+[11/12/2021 06:58]  Nancy: Lady Nancy
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a dog: a dog
+[11/12/2021 06:58]  a dog: a dog
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  Gunther: Gunther the tailor
+[11/12/2021 06:58]  Gunther: Gunther the tailor
+[11/12/2021 06:58]  Kelvin: Kelvin the tinker
+[11/12/2021 06:58]  Kelvin: Kelvin the tinker
+[11/12/2021 06:58]  Tertia: Tertia the blacksmith
+[11/12/2021 06:58]  Tertia: Tertia the blacksmith
+[11/12/2021 06:58]  Standford: Standford the cook
+[11/12/2021 06:58]  Standford: Standford the cook
+[11/12/2021 06:58]  Morgan: Morgan the farmer
+[11/12/2021 06:58]  Morgan: Morgan the farmer
+[11/12/2021 06:58]  : carpet
+[11/12/2021 06:58]  Prescot: Prescot the tailor
+[11/12/2021 06:58]  Prescot: Greetings.  Have a look around.
+[11/12/2021 06:58]  Prescot: The total of thy purchase is 125 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[11/12/2021 06:58]  System: What should I use these scissors on?
+[11/12/2021 06:58]  an andarian mage: an andarian mage
+[11/12/2021 06:58]  an andarian mage: an andarian mage
+[11/12/2021 06:58]  You see: scissors
+[11/12/2021 06:58]  You see: [blessed]
+[11/12/2021 06:58]  System: What should I use these scissors on?
+[11/12/2021 06:58]  You see: skinning knife
+[11/12/2021 06:58]  You see: (20 uses remaining)
+[11/12/2021 06:58]  System: Sapperlot has completed the achievement: Landowner (Basic).
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  a cat: a cat
+[11/12/2021 06:58]  Deb: Deb the architect
+[11/12/2021 06:58]  Deb: Deb the architect
+[11/12/2021 06:58]  Karlenne: Karlenne the real estate broker
+[11/12/2021 06:58]  Karlenne: Karlenne the real estate broker
+[11/12/2021 06:58]  Stephani: Stephani the ranger
+[11/12/2021 06:58]  Stephani: Stephani the ranger
+[11/12/2021 06:58]  System: What do you want to use this item on?
+[11/12/2021 06:58]  Razor: Target: Duluth Trading
+[11/12/2021 06:58]  System: You put some kindling into your backpack.
+[11/12/2021 06:58]  System: An axe would probably get you more wood.
+[11/12/2021 06:58]  System: What do you want to use this item on?
+[11/12/2021 06:58]  System: You put some kindling into your backpack.
+[11/12/2021 06:58]  System: An axe would probably get you more wood.
+[11/12/2021 06:58]  System: What do you want to use this item on?
+[11/12/2021 06:58]  System: You put some kindling into your backpack.
+[11/12/2021 06:58]  System: An axe would probably get you more wood.
+[11/12/2021 06:59]  System: Sia Lyn Grace has completed the achievement: Domestication (Basic).
+[11/12/2021 06:59]  System: Lars Tyndskid has completed the achievement: Enhanced (Basic).
+[11/12/2021 06:59]  System: Your campfire is now secure.
+[11/12/2021 06:59]  System: You feel rested and comforted by the camp. (+20.0% damage to creatures and +8.0% damage to players).
+[11/12/2021 06:59]  Razor: [-Campfire Visit (s)]
+[11/12/2021 06:59]  Razor: [+Campfire Visit (10800s)]
+[11/12/2021 06:59]  System: You begin hiking to your destination.
+[11/12/2021 06:59]  Duluth Trading: *hiking to destination*
+[11/12/2021 06:59]  Razor: [+Paralyze (4s)]
+[11/12/2021 06:59]  Razor: [-Paralyze (s)]
+[11/12/2021 06:59]  Razor: [+Paralyze (3s)]
+[11/12/2021 06:59]  Duluth Trading: *hiking to destination*
+[11/12/2021 06:59]  Razor: [-Paralyze (s)]
+[11/12/2021 06:59]  Razor: [+Paralyze (2s)]
+[11/12/2021 06:59]  Razor: [-Paralyze (s)]
+[11/12/2021 06:59]  Razor: [+Paralyze (0s)]
+[11/12/2021 06:59]  Duluth Trading: *hiking to destination*
+[11/12/2021 06:59]  Razor: [-Paralyze (s)]
+[11/12/2021 06:59]  System: You are no longer hindered.
+[11/12/2021 06:59]  System: You hike to your destination.
+[11/12/2021 06:59]  Duluth Trading: *You have arrived at your destination*
+[11/12/2021 06:59]  Hope: Hope the jeweler
+[11/12/2021 06:59]  Hope: Hope the jeweler
+[11/12/2021 06:59]  an andarian footman: an andarian footman
+[11/12/2021 06:59]  an andarian footman: an andarian footman
+[11/12/2021 06:59]  Mandanglies: [Ripe, SQzD]
+[11/12/2021 06:59]  Mandanglies: Mandanglies
+[11/12/2021 06:59]  Mandanglies: [Ripe, SQzD]
+[11/12/2021 06:59]  Mandanglies: Mandanglies
+[11/12/2021 06:59]  Ardith: Ardith the mapmaker
+[11/12/2021 06:59]  Ardith: Ardith the mapmaker
+[11/12/2021 06:59]  System: New target set.
+[11/12/2021 06:59]  Razor: Target: Ardith
+[11/12/2021 06:59]  System: New target set.
+[11/12/2021 06:59]  Razor: Target: Mandanglies
+[11/12/2021 06:59]  System: New target set.
+[11/12/2021 06:59]  Razor: Target: an andarian footman
+[11/12/2021 06:59]  System: Your strength has changed by 10.  It is now 110
+[11/12/2021 06:59]  Razor: [+Strength (120s)]
+[11/12/2021 06:59]  Razor: Str: +10 - 110
+[11/12/2021 06:59]  Razor: [-Strength (s)]
+[11/12/2021 06:59]  Razor: [+Strength (120s)]
+[11/12/2021 06:59]  System: Playing Macro 'Healing'...
+[11/12/2021 06:59]  System: Who will you use the bandages on?
+[11/12/2021 06:59]  Razor: Healing Started
+[11/12/2021 06:59]  System: You begin applying the bandages.
+[11/12/2021 06:59]  Razor: Bandage: 1s
+[11/12/2021 06:59]  Zwible: Zwible
+[11/12/2021 06:59]  Zwible: Zwible
+[11/12/2021 06:59]  Razor: Bandage: 2s
+[11/12/2021 06:59]  Louis: Louis the tinker
+[11/12/2021 06:59]  Louis: Louis the tinker
+[11/12/2021 06:59]  Ibersnow: Ibersnow
+[11/12/2021 06:59]  Ibersnow: Ibersnow
+[11/12/2021 06:59]  Charity: Charity the baker
+[11/12/2021 06:59]  Charity: Charity the baker
+[11/12/2021 06:59]  Pkurass: Pkurass
+[11/12/2021 06:59]  Pkurass: Pkurass
+[11/12/2021 06:59]  Caitlin: Caitlin the jeweler
+[11/12/2021 06:59]  Caitlin: Caitlin the jeweler
+[11/12/2021 06:59]  Allan: Allan the Town Crier
+[11/12/2021 06:59]  Allan: Allan the Town Crier
+[11/12/2021 06:59]  Razor: Bandage: 3s
+[11/12/2021 06:59]  Chanah: Chanah the thief
+[11/12/2021 06:59]  Chanah: Chanah the thief
+[11/12/2021 06:59]  Laethan: Laethan the real estate broker
+[11/12/2021 06:59]  Laethan: Laethan the real estate broker
+[11/12/2021 06:59]  Claudia: Claudia the architect
+[11/12/2021 06:59]  Claudia: Claudia the architect
+[11/12/2021 06:59]  Dallin: Dallin the carpenter
+[11/12/2021 06:59]  Dallin: Dallin the carpenter
+[11/12/2021 06:59]  Senu: Senu
+[11/12/2021 06:59]  Senu: Senu
+[11/12/2021 06:59]  Arnon: Arnon the bowyer
+[11/12/2021 06:59]  Arnon: Arnon the bowyer
+[11/12/2021 06:59]  an andarian marksman: an andarian marksman
+[11/12/2021 06:59]  an andarian marksman: an andarian marksman
+[11/12/2021 06:59]  Razor: Bandage: 4s
+[11/12/2021 06:59]  Razor: Bandage: 5s
+[11/12/2021 06:59]  Razor: Bandage: 6s
+[11/12/2021 06:59]  Razor: Bandage: 7s
+[11/12/2021 06:59]  Razor: Bandage: 8s
+[11/12/2021 06:59]  Yancey: Yancey the salvage foreman
+[11/12/2021 06:59]  Yancey: Yancey the salvage foreman
+[11/12/2021 06:59]  a seagull: a seagull
+[11/12/2021 06:59]  a seagull: a seagull
+[11/12/2021 06:59]  Ardith: Ardith the mapmaker
+[11/12/2021 06:59]  Ardith: Ardith the mapmaker
+[11/12/2021 06:59]  Dov: Dov the dockmaster
+[11/12/2021 06:59]  Dov: Dov the dockmaster
+[11/12/2021 06:59]  a seagull: a seagull
+[11/12/2021 06:59]  a seagull: a seagull
+[11/12/2021 06:59]  System: Being perfectly rested, you shove them out of the way.
+[11/12/2021 06:59]  Razor: Bandage: 9s
+[11/12/2021 06:59]  Gwendolyn: Gwendolyn the dockmaster
+[11/12/2021 06:59]  Gwendolyn: Gwendolyn the dockmaster
+[11/12/2021 06:59]  Mamie: Mamie the salvage foreman
+[11/12/2021 06:59]  Mamie: Mamie the salvage foreman
+[11/12/2021 06:59]  Razor: Bandage: 10s
+[11/12/2021 06:59]  System: You finish applying the bandages.
+[11/12/2021 06:59]  Duluth Trading: +7
+[11/12/2021 07:00]  System: What do you wish to track?
+[11/12/2021 07:00]  System: You will receive +20.0% damage to creatures, +8.0% damage to players, and +8.0 to barding skill while hunting.
+[11/12/2021 07:00]  Duluth Trading: You begin hunting.
+[11/12/2021 07:00]  an outpost footman: an outpost footman
+[11/12/2021 07:00]  an outpost footman: an outpost footman
+[11/12/2021 07:00]  an outpost footman: an outpost footman
+[11/12/2021 07:00]  an outpost footman: an outpost footman
+[11/12/2021 07:00]  an outpost knight: an outpost knight
+[11/12/2021 07:00]  an outpost knight: an outpost knight
+[11/12/2021 07:00]  System: Now tracking: Mrazik (79 spaces to target)
+[11/12/2021 07:00]  Razor: [RED ALERT]
+[11/12/2021 07:00]  System: Distance to destination: 69 steps.
+[11/12/2021 07:00]  Razor: [RED - 69 steps away]
+[11/12/2021 07:00]  System: Distance to destination: 69 steps.
+[11/12/2021 07:00]  Razor: [RED - 69 steps away]
+[11/12/2021 07:00]  System: Now tracking: Mrazik (79 spaces to target)
+[11/12/2021 07:00]  Razor: [RED ALERT]
+[11/12/2021 07:00]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[11/12/2021 07:00]  System: Distance to destination: 79 steps.
+[11/12/2021 07:00]  Razor: [RED - 79 steps away]
+[11/12/2021 07:00]  System: Now tracking: Mrazik (61 spaces to target)
+[11/12/2021 07:00]  Razor: [RED ALERT]
+[11/12/2021 07:00]  System: Distance to destination: 62 steps.
+[11/12/2021 07:00]  Razor: [RED - 62 steps away]
+[11/12/2021 07:00]  System: Now tracking: Mrazik (60 spaces to target)
+[11/12/2021 07:00]  Razor: [RED ALERT]
+[11/12/2021 07:00]  System: Distance to destination: 60 steps.
+[11/12/2021 07:00]  Razor: [RED - 60 steps away]
+[11/12/2021 07:00]  System: Now tracking: Mrazik (48 spaces to target)
+[11/12/2021 07:00]  Razor: [RED ALERT]
+[11/12/2021 07:00]  System: Distance to destination: 88 steps.
+[11/12/2021 07:00]  Razor: [RED - 88 steps away]
+[11/12/2021 07:00]  System: Now tracking: Mrazik (67 spaces to target)
+[11/12/2021 07:00]  Razor: [RED ALERT]
+[11/12/2021 07:00]  a seagull: a seagull
+[11/12/2021 07:00]  a seagull: a seagull
+[11/12/2021 07:00]  Mamie: Mamie the salvage foreman
+[11/12/2021 07:00]  Mamie: Mamie the salvage foreman
+[11/12/2021 07:00]  Yancey: Yancey the salvage foreman
+[11/12/2021 07:00]  Yancey: Yancey the salvage foreman
+[11/12/2021 07:00]  a seagull: a seagull
+[11/12/2021 07:00]  a seagull: a seagull
+[11/12/2021 07:00]  an andarian marksman: an andarian marksman
+[11/12/2021 07:00]  an andarian marksman: an andarian marksman
+[11/12/2021 07:00]  Mandanglies: [Ripe, SQzD]
+[11/12/2021 07:00]  Mandanglies: Mandanglies
+[11/12/2021 07:00]  Mandanglies: [Ripe, SQzD]
+[11/12/2021 07:00]  Mandanglies: Mandanglies
+[11/12/2021 07:00]  System: Distance to destination: 96 steps.
+[11/12/2021 07:00]  Razor: [RED - 96 steps away]
+[11/12/2021 07:01]  Chanah: Chanah the thief
+[11/12/2021 07:01]  Chanah: Chanah the thief
+[11/12/2021 07:01]  Senu: Senu
+[11/12/2021 07:01]  Senu: Senu
+[11/12/2021 07:01]  Arnon: Arnon the bowyer
+[11/12/2021 07:01]  Arnon: Arnon the bowyer
+[11/12/2021 07:01]  Dallin: Dallin the carpenter
+[11/12/2021 07:01]  Dallin: Dallin the carpenter
+[11/12/2021 07:01]  Laethan: Laethan the real estate broker
+[11/12/2021 07:01]  Laethan: Laethan the real estate broker
+[11/12/2021 07:01]  Claudia: Claudia the architect
+[11/12/2021 07:01]  Claudia: Claudia the architect
+[11/12/2021 07:01]  Louis: Louis the tinker
+[11/12/2021 07:01]  Louis: Louis the tinker
+[11/12/2021 07:01]  Caitlin: Caitlin the jeweler
+[11/12/2021 07:01]  Caitlin: Caitlin the jeweler
+[11/12/2021 07:01]  Kay: Kay the innkeeper
+[11/12/2021 07:01]  Kay: Kay the innkeeper
+[11/12/2021 07:01]  Dante: Dante the tavern keeper
+[11/12/2021 07:01]  Dante: Dante the tavern keeper
+[11/12/2021 07:01]  Conway: Conway the waiter
+[11/12/2021 07:01]  Conway: Conway the waiter
+[11/12/2021 07:01]  BOBOAVVELENATO: Monster Hunter Initiate
+[11/12/2021 07:01]  BOBOAVVELENATO: BOBOAVVELENATO
+[11/12/2021 07:01]  BOBOAVVELENATO: Monster Hunter Initiate
+[11/12/2021 07:01]  BOBOAVVELENATO: BOBOAVVELENATO
+[11/12/2021 07:01]  Jun: Jun the cook
+[11/12/2021 07:01]  Jun: Jun the cook
+[11/12/2021 07:01]  dump: (bonded)
+[11/12/2021 07:01]  dump: dump
+[11/12/2021 07:01]  dump: (bonded)
+[11/12/2021 07:01]  dump: dump
+[11/12/2021 07:01]  FattyMikee: [Gimmie Cupcake!, R&R]
+[11/12/2021 07:01]  FattyMikee: FattyMikee
+[11/12/2021 07:01]  FattyMikee: [Gimmie Cupcake!, R&R]
+[11/12/2021 07:01]  FattyMikee: FattyMikee
+[11/12/2021 07:01]  System: Distance to destination: 127 steps.
+[11/12/2021 07:01]  Razor: [RED - 127 steps away]
+[11/12/2021 07:01]  Daily: Daily the barkeep
+[11/12/2021 07:01]  Daily: Daily the barkeep
+[11/12/2021 07:01]  Geva: Geva the alchemist
+[11/12/2021 07:01]  Geva: Geva the alchemist
+[11/12/2021 07:01]  Marily: Marily the scribe
+[11/12/2021 07:01]  Marily: Marily the scribe
+[11/12/2021 07:01]  Odon: Odon the mage
+[11/12/2021 07:01]  Odon: Odon the mage
+[11/12/2021 07:01]  Senu: Senu
+[11/12/2021 07:01]  Senu: Senu
+[11/12/2021 07:01]  Ordano: Ordano the alchemist
+[11/12/2021 07:01]  Ordano: Ordano the alchemist
+[11/12/2021 07:01]  an andarian footman: an andarian footman
+[11/12/2021 07:01]  an andarian footman: an andarian footman
+[11/12/2021 07:01]  Grab a Rune!: Grab a Rune!
+[11/12/2021 07:01]  Grab a Rune!: Grab a Rune!
+[11/12/2021 07:01]  Alchemy CLEARANCE: Alchemy CLEARANCE
+[11/12/2021 07:01]  Alchemy CLEARANCE: Alchemy CLEARANCE
+[11/12/2021 07:01]  Kalyca: Kalyca the miner
+[11/12/2021 07:01]  Kalyca: Kalyca the miner
+[11/12/2021 07:01]  an andarian marksman: an andarian marksman
+[11/12/2021 07:01]  an andarian marksman: an andarian marksman
+[11/12/2021 07:01]  Shini Gami: [Squire, C-C]
+[11/12/2021 07:01]  Shini Gami: Shini Gami
+[11/12/2021 07:01]  Shini Gami: [Squire, C-C]
+[11/12/2021 07:01]  Shini Gami: Shini Gami
+[11/12/2021 07:01]  Daily: Daily the barkeep
+[11/12/2021 07:01]  Daily: Daily the barkeep
+[11/12/2021 07:01]  System: Distance to destination: 165 steps.
+[11/12/2021 07:01]  Razor: [RED - 165 steps away]
+[11/12/2021 07:01]  Solomon: Solomon the armorer
+[11/12/2021 07:01]  Solomon: Solomon the armorer
+[11/12/2021 07:01]  Frieda: Frieda the weaponsmith
+[11/12/2021 07:01]  Frieda: Frieda the weaponsmith
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  System: Distance to destination: 162 steps.
+[11/12/2021 07:01]  Razor: [RED - 162 steps away]
+[11/12/2021 07:01]  Kalyca: Kalyca the miner
+[11/12/2021 07:01]  an andarian marksman: an andarian marksman
+[11/12/2021 07:01]  an andarian marksman: an andarian marksman
+[11/12/2021 07:01]  Shini Gami: [Squire, C-C]
+[11/12/2021 07:01]  Shini Gami: Shini Gami
+[11/12/2021 07:01]  Shini Gami: [Squire, C-C]
+[11/12/2021 07:01]  Shini Gami: Shini Gami
+[11/12/2021 07:01]  Solomon: Solomon the armorer
+[11/12/2021 07:01]  Solomon: Solomon the armorer
+[11/12/2021 07:01]  Frieda: Frieda the weaponsmith
+[11/12/2021 07:01]  Frieda: Frieda the weaponsmith
+[11/12/2021 07:01]  Anteia: Anteia the blacksmith
+[11/12/2021 07:01]  Anteia: Anteia the blacksmith
+[11/12/2021 07:01]  Pi: [Recruit, CFC]
+[11/12/2021 07:01]  Pi: Pi
+[11/12/2021 07:01]  Pi: [Recruit, CFC]
+[11/12/2021 07:01]  Pi: Pi
+[11/12/2021 07:01]  Khesish Swayr: Khesish Swayr
+[11/12/2021 07:01]  Khesish Swayr: Khesish Swayr
+[11/12/2021 07:01]  Llewellyn: Llewellyn the stablemaster
+[11/12/2021 07:01]  Llewellyn: Llewellyn the stablemaster
+[11/12/2021 07:01]  System: Distance to destination: 164 steps.
+[11/12/2021 07:01]  Razor: [RED - 164 steps away]
+[11/12/2021 07:01]  an andarian knight: an andarian knight
+[11/12/2021 07:01]  an andarian knight: an andarian knight
+[11/12/2021 07:01]  an andarian footman: an andarian footman
+[11/12/2021 07:01]  an andarian footman: an andarian footman
+[11/12/2021 07:01]  an andarian marksman: an andarian marksman
+[11/12/2021 07:01]  an andarian marksman: an andarian marksman
+[11/12/2021 07:01]  Khesish Swayr: Khesish Swayr
+[11/12/2021 07:01]  Khesish Swayr: Khesish Swayr
+[11/12/2021 07:01]  Llewellyn: Llewellyn the stablemaster
+[11/12/2021 07:01]  Llewellyn: Llewellyn the stablemaster
+[11/12/2021 07:01]  Randler: Randler
+[11/12/2021 07:01]  Randler: Randler
+[11/12/2021 07:01]  System: Distance to destination: 159 steps.
+[11/12/2021 07:01]  Razor: [RED - 159 steps away]
+[11/12/2021 07:01]  Skinnypuppy: Skinnypuppy
+[11/12/2021 07:01]  Skinnypuppy: Skinnypuppy
+[11/12/2021 07:01]  Teresa Lisbon: Teresa Lisbon
+[11/12/2021 07:01]  Teresa Lisbon: Teresa Lisbon
+[11/12/2021 07:01]  Pi: [Recruit, CFC]
+[11/12/2021 07:01]  Pi: Pi
+[11/12/2021 07:01]  Pi: [Recruit, CFC]
+[11/12/2021 07:01]  Pi: Pi
+[11/12/2021 07:01]  balsak be itchin: balsak be itchin
+[11/12/2021 07:01]  balsak be itchin: balsak be itchin
+[11/12/2021 07:01]  Rorie: Rorie
+[11/12/2021 07:01]  Rorie: Rorie
+[11/12/2021 07:01]  Nore'tre: [Recruit, RAQ]
+[11/12/2021 07:01]  Nore'tre: Nore'tre
+[11/12/2021 07:01]  Nore'tre: [Recruit, RAQ]
+[11/12/2021 07:01]  Nore'tre: Nore'tre
+[11/12/2021 07:01]  a scarab: (bonded)
+[11/12/2021 07:01]  a scarab: a scarab
+[11/12/2021 07:01]  a scarab: (bonded)
+[11/12/2021 07:01]  a scarab: a scarab
+[11/12/2021 07:01]  a bullvore: (bonded)
+[11/12/2021 07:01]  a bullvore: a bullvore
+[11/12/2021 07:01]  a bullvore: (bonded)
+[11/12/2021 07:01]  a bullvore: a bullvore
+[11/12/2021 07:01]  Allan: Allan the Town Crier
+[11/12/2021 07:01]  Allan: Allan the Town Crier
+[11/12/2021 07:01]  Lagoon: (bonded)
+[11/12/2021 07:01]  Lagoon: Lagoon
+[11/12/2021 07:01]  Lagoon: (bonded)
+[11/12/2021 07:01]  Lagoon: Lagoon
+[11/12/2021 07:01]  Limyra: (bonded)
+[11/12/2021 07:01]  Limyra: Limyra
+[11/12/2021 07:01]  Limyra: (bonded)
+[11/12/2021 07:01]  Limyra: Limyra
+[11/12/2021 07:01]  Devour: Legendary Domesticator
+[11/12/2021 07:01]  Devour: [Path]
+[11/12/2021 07:01]  Devour: Lord Devour
+[11/12/2021 07:01]  Devour: Legendary Domesticator
+[11/12/2021 07:01]  Devour: [Path]
+[11/12/2021 07:01]  Devour: Lord Devour
+[11/12/2021 07:01]  Dralic: Archivist
+[11/12/2021 07:01]  Dralic: [Corporal, Yew]
+[11/12/2021 07:01]  Dralic: Dralic
+[11/12/2021 07:01]  Dralic: Archivist
+[11/12/2021 07:01]  Dralic: [Corporal, Yew]
+[11/12/2021 07:01]  Dralic: Dralic
+[11/12/2021 07:01]  Hanne: Hanne the healer
+[11/12/2021 07:01]  Hanne: Hanne the healer
+[11/12/2021 07:01]  Razor: [Harmful Target]
+[11/12/2021 07:01]  Razor: [Beneficial Target]
+[11/12/2021 07:01]  Razor: [Last Target]
+[11/12/2021 07:01]  an andarian footman: an andarian footman
+[11/12/2021 07:01]  an andarian footman: an andarian footman
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  Fancy Tamer: [Recruit, NEW!]
+[11/12/2021 07:01]  Fancy Tamer: Fancy Tamer
+[11/12/2021 07:01]  Fancy Tamer: [Recruit, NEW!]
+[11/12/2021 07:01]  Fancy Tamer: Fancy Tamer
+[11/12/2021 07:01]  Chane: Chane the healer
+[11/12/2021 07:01]  Chane: Chane the healer
+[11/12/2021 07:01]  Field Medic: [MadeMan, Syn]
+[11/12/2021 07:01]  Field Medic: Field Medic
+[11/12/2021 07:01]  Field Medic: [MadeMan, Syn]
+[11/12/2021 07:01]  Field Medic: Field Medic
+[11/12/2021 07:01]  Buttfunkle: Buttfunkle
+[11/12/2021 07:01]  Buttfunkle: Buttfunkle
+[11/12/2021 07:01]  Xuxa: Xuxa
+[11/12/2021 07:01]  Xuxa: Xuxa
+[11/12/2021 07:01]  Pi: [Recruit, CFC]
+[11/12/2021 07:01]  Pi: Pi
+[11/12/2021 07:01]  Pi: [Recruit, CFC]
+[11/12/2021 07:01]  Pi: Pi
+[11/12/2021 07:01]  System: Distance to destination: 137 steps.
+[11/12/2021 07:01]  Razor: [RED - 137 steps away]
+[11/12/2021 07:01]  Charity: Charity the baker
+[11/12/2021 07:01]  Charity: Charity the baker
+[11/12/2021 07:01]  Osmond: Osmond the banker
+[11/12/2021 07:01]  Osmond: Osmond the banker
+[11/12/2021 07:01]  Duane: Duane the banker
+[11/12/2021 07:01]  Duane: Duane the banker
+[11/12/2021 07:01]  Frieda: Frieda the weaponsmith
+[11/12/2021 07:01]  Frieda: Frieda the weaponsmith
+[11/12/2021 07:01]  a lemura: (bonded)
+[11/12/2021 07:01]  a lemura: a lemura
+[11/12/2021 07:01]  a lemura: (bonded)
+[11/12/2021 07:01]  a lemura: a lemura
+[11/12/2021 07:01]  a blood courser: (bonded)
+[11/12/2021 07:01]  a blood courser: a blood courser
+[11/12/2021 07:01]  a blood courser: (bonded)
+[11/12/2021 07:01]  a blood courser: a blood courser
+[11/12/2021 07:01]  a blood courser: (bonded)
+[11/12/2021 07:01]  a blood courser: a blood courser
+[11/12/2021 07:01]  a blood courser: (bonded)
+[11/12/2021 07:01]  a blood courser: a blood courser
+[11/12/2021 07:01]  Bleu DeMoss: [Knight, C-C]
+[11/12/2021 07:01]  Bleu DeMoss: Bleu DeMoss
+[11/12/2021 07:01]  Bleu DeMoss: [Knight, C-C]
+[11/12/2021 07:01]  Bleu DeMoss: Bleu DeMoss
+[11/12/2021 07:01]  Zwible: Zwible
+[11/12/2021 07:01]  Zwible: Zwible
+[11/12/2021 07:01]  Pkurass: Pkurass
+[11/12/2021 07:01]  Pkurass: Pkurass
+[11/12/2021 07:01]  Shini Gami: [Squire, C-C]
+[11/12/2021 07:01]  Shini Gami: Shini Gami
+[11/12/2021 07:01]  Shini Gami: [Squire, C-C]
+[11/12/2021 07:01]  Shini Gami: Shini Gami
+[11/12/2021 07:01]  Kalyca: Kalyca the miner
+[11/12/2021 07:01]  Kalyca: Kalyca the miner
+[11/12/2021 07:01]  Arkin: Arkin the cobbler
+[11/12/2021 07:01]  Arkin: Arkin the cobbler
+[11/12/2021 07:01]  Kasen: Kasen the tanner
+[11/12/2021 07:01]  Kasen: Kasen the tanner
+[11/12/2021 07:01]  Garak: Garak the tailor
+[11/12/2021 07:01]  Garak: Garak the tailor
+[11/12/2021 07:01]  Ibersnow: Ibersnow
+[11/12/2021 07:01]  Ibersnow: Ibersnow
+[11/12/2021 07:01]  Madiba: [ITA]
+[11/12/2021 07:01]  Madiba: Lord Madiba
+[11/12/2021 07:01]  Madiba: [ITA]
+[11/12/2021 07:01]  Madiba: Lord Madiba
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Khesish Swayr: Khesish Swayr
+[11/12/2021 07:01]  Khesish Swayr: Khesish Swayr
+[11/12/2021 07:01]  Madiba: [ITA]
+[11/12/2021 07:01]  Madiba: Lord Madiba
+[11/12/2021 07:01]  Madiba: [ITA]
+[11/12/2021 07:01]  Madiba: Lord Madiba
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Solomon: Solomon the armorer
+[11/12/2021 07:01]  Solomon: Solomon the armorer
+[11/12/2021 07:01]  Anteia: Anteia the blacksmith
+[11/12/2021 07:01]  Anteia: Anteia the blacksmith
+[11/12/2021 07:01]  Madiba: [ITA]
+[11/12/2021 07:01]  Madiba: Lord Madiba
+[11/12/2021 07:01]  Madiba: [ITA]
+[11/12/2021 07:01]  Madiba: Lord Madiba
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Ciompy: [ITA]
+[11/12/2021 07:01]  Ciompy: Ciompy
+[11/12/2021 07:01]  Garak: Garak the tailor
+[11/12/2021 07:01]  Garak: Garak the tailor
+[11/12/2021 07:01]  a horse: (tame)
+[11/12/2021 07:01]  a horse: a horse
+[11/12/2021 07:01]  a horse: (tame)
+[11/12/2021 07:01]  a horse: a horse
+[11/12/2021 07:01]  Daya: Daya the provisioner
+[11/12/2021 07:01]  Daya: Daya the provisioner
+[11/12/2021 07:01]  System: Distance to destination: 140 steps.
+[11/12/2021 07:01]  Razor: [RED - 140 steps away]
+[11/12/2021 07:01]  Hope: Hope the jeweler
+[11/12/2021 07:01]  Hope: Hope the jeweler
+[11/12/2021 07:01]  Caitlin: Caitlin the jeweler
+[11/12/2021 07:01]  Caitlin: Caitlin the jeweler
+[11/12/2021 07:01]  Louis: Louis the tinker
+[11/12/2021 07:01]  Louis: Louis the tinker
+[11/12/2021 07:01]  System: Playing Macro 'say'...
+[11/12/2021 07:01]  System: Macro 'say' finished.
+[11/12/2021 07:01]  Duluth Trading: bank guards i ban thee
+[11/12/2021 07:01]  Duluth Trading: Items: 60/125
+[11/12/2021 07:01]  Duluth Trading: Total Weight: 2,357
+[11/12/2021 07:01]  System: Distance to destination: 140 steps.
+[11/12/2021 07:01]  Razor: [RED - 140 steps away]
+[11/12/2021 07:01]  System: You may now use a strength potion.
+[11/12/2021 07:01]  System: Your strength has changed by -10.  It is now 100
+[11/12/2021 07:01]  Razor: [-Strength (s)]
+[11/12/2021 07:01]  Razor: Str: -10 - 100
+[11/12/2021 07:01]  You see: accurate might war mace
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  a giant swamp slug: (bonded)
+[11/12/2021 07:01]  a giant swamp slug: a giant swamp slug
+[11/12/2021 07:01]  Sia Lyn Grace: Sia Lyn Grace
+[11/12/2021 07:01]  Sia Lyn Grace: Sia Lyn Grace
+[11/12/2021 07:01]  Fancy Tamer: [Recruit, NEW!]
+[11/12/2021 07:01]  Fancy Tamer: Fancy Tamer
+[11/12/2021 07:01]  Fancy Tamer: [Recruit, NEW!]
+[11/12/2021 07:01]  Fancy Tamer: Fancy Tamer
+[11/12/2021 07:01]  You see: exceptional war mace
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  System: Distance to destination: 140 steps.
+[11/12/2021 07:01]  Razor: [RED - 140 steps away]
+[11/12/2021 07:01]  You see: exceptional war mace
+[11/12/2021 07:01]  of Angel Azrael: of Angel Azrael
+[11/12/2021 07:01]  of Angel Azrael: of Angel Azrael
+[11/12/2021 07:01]  System: Distance to destination: 140 steps.
+[11/12/2021 07:01]  Razor: [RED - 140 steps away]
+[11/12/2021 07:01]  Fancy Tamer: [Recruit, NEW!]
+[11/12/2021 07:01]  Fancy Tamer: Fancy Tamer
+[11/12/2021 07:01]  Fancy Tamer: [Recruit, NEW!]
+[11/12/2021 07:01]  Fancy Tamer: Fancy Tamer
+[11/12/2021 07:01]  You see: exceptional ringmail helm
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a searing lizard: (bonded)
+[11/12/2021 07:01]  a searing lizard: a searing lizard
+[11/12/2021 07:01]  a smoke drake: (bonded)
+[11/12/2021 07:01]  a smoke drake: a smoke drake
+[11/12/2021 07:01]  a smoke drake: (bonded)
+[11/12/2021 07:01]  a smoke drake: a smoke drake
+[11/12/2021 07:02]  System: Distance to destination: 140 steps.
+[11/12/2021 07:02]  Razor: [RED - 140 steps away]
+[11/12/2021 07:02]  a horse: (tame)
+[11/12/2021 07:02]  a horse: a horse
+[11/12/2021 07:02]  a horse: (tame)
+[11/12/2021 07:02]  a horse: a horse
+[11/12/2021 07:02]  System: Distance to destination: 140 steps.
+[11/12/2021 07:02]  Razor: [RED - 140 steps away]
+[11/12/2021 07:02]  System: Distance to destination: 140 steps.
+[11/12/2021 07:02]  Razor: [RED - 140 steps away]

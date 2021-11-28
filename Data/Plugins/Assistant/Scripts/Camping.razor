@@ -1,15 +1,15 @@
-if findtype 'campfire'
-    overhead 'Already camping'
-    else 
-        if findtype 'kindling' backpack
-            dclicktype 'kindling'
-            wait 100
-                if insysmsg 'You fail to ignite the campfire.'
-                wait 3000
-                loop
-                elseif insysmsg 'You extinguish your existing campfire.'
-                overhead 'Fire started'
-                endif
-        endif   
+# Training Camping Actively by Jaseowns
+# UO Outlands
+# Requirements:  Tons of Kindling
+# Additional Info: 
+#   To reduce overall kindling use, update line 14 to another time
+#       wait 10000 // for example
+if not findtype "kindling" backpack
+    overhead "Need more kindling" 34
+    wait 5000
+    replay
 endif
+    
+dclicktype "kindling" backpack
+wait 10000
 loop

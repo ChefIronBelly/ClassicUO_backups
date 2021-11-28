@@ -16,4 +16,6 @@
 
 <Marker Name="Terran" Facet="0" Icon="TOWNX" X="735" Y="1507"/>
 
+<Marker Name="Anchor's Rest" Facet="0" Icon="TOWNX" X="3754" Y="539"/>
+
 </Pack>

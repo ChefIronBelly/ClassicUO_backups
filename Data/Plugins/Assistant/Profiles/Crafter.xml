@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <profile>
-	<property name="ShowMobNames" type="System.Boolean">False</property>
+	<property name="ShowMobNames" type="System.Boolean">True</property>
 	<property name="ShowCorpseNames" type="System.Boolean">False</property>
 	<property name="DisplaySkillChanges" type="System.Boolean">True</property>
 	<property name="TitleBarText" type="System.String">UO - {char}</property>
@@ -15,8 +15,8 @@
 	<property name="SortCounters" type="System.Boolean">True</property>
 	<property name="QueueActions" type="System.Boolean">False</property>
 	<property name="QueueTargets" type="System.Boolean">False</property>
-	<property name="WindowX" type="System.Int32">1349</property>
-	<property name="WindowY" type="System.Int32">42</property>
+	<property name="WindowX" type="System.Int32">848</property>
+	<property name="WindowY" type="System.Int32">175</property>
 	<property name="CountStealthSteps" type="System.Boolean">False</property>
 	<property name="SysColor" type="System.Int32">68</property>
 	<property name="WarningColor" type="System.Int32">37</property>
@@ -52,7 +52,7 @@
 	<property name="LTRange" type="System.Int32">12</property>
 	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
 	<property name="OldStatBar" type="System.Boolean">False</property>
-	<property name="SmartLastTarget" type="System.Boolean">False</property>
+	<property name="SmartLastTarget" type="System.Boolean">True</property>
 	<property name="LastTargTextFlags" type="System.Boolean">True</property>
 	<property name="LTHilight" type="System.Int32">0</property>
 	<property name="AutoFriend" type="System.Boolean">False</property>
@@ -64,14 +64,13 @@
 	<property name="ForceSizeX" type="System.Int32">1000</property>
 	<property name="ForceSizeY" type="System.Int32">800</property>
 	<property name="PotionEquip" type="System.Boolean">True</property>
-	<property name="BlockHealPoison" type="System.Boolean">True</property>
+	<property name="BlockHealPoison" type="System.Boolean">False</property>
 	<property name="SmoothWalk" type="System.Boolean">False</property>
 	<property name="Negotiate" type="System.Boolean">True</property>
 	<property name="MapX" type="System.Int32">200</property>
 	<property name="MapY" type="System.Int32">200</property>
 	<property name="MapW" type="System.Int32">200</property>
 	<property name="MapH" type="System.Int32">200</property>
-	<property name="LogPacketsByDefault" type="System.Boolean">False</property>
 	<property name="ShowHealth" type="System.Boolean">False</property>
 	<property name="HealthFmt" type="System.String">[{0}%]</property>
 	<property name="ShowPartyStats" type="System.Boolean">True</property>
@@ -174,7 +173,7 @@
 	<property name="ShowWaypointOverhead" type="System.Boolean">True</property>
 	<property name="ShowWaypointDistance" type="System.Boolean">True</property>
 	<property name="ShowWaypointSeconds" type="System.Int32">10</property>
-	<property name="ClearWaypoint" type="System.Boolean">False</property>
+	<property name="ClearWaypoint" type="System.Boolean">True</property>
 	<property name="HideWaypointDistance" type="System.Int32">4</property>
 	<property name="CreateWaypointOnDeath" type="System.Boolean">True</property>
 	<property name="ShowPartyFriendOverhead" type="System.Boolean">False</property>
@@ -195,6 +194,7 @@
 		<counter name="Nightshade" enabled="True" image="True" />
 		<counter name="Spider's Silk" enabled="True" image="True" />
 		<counter name="Sulfurous Ash" enabled="True" image="True" />
+		<counter name="ribs" enabled="True" image="True" />
 	</counters>
 	<agents>
 		<Buy-1 enabled="False" />
@@ -211,8 +211,13 @@
 		<Organizer-1 hotbag="20046">
 			<item id="6585" />
 		</Organizer-1>
-		<Organizer-2 hotbag="0" />
-		<Organizer-3 hotbag="0" />
+		<Organizer-2 hotbag="1175340037">
+			<item id="2431" />
+			<item id="2545" />
+		</Organizer-2>
+		<Organizer-3 hotbag="1115087449">
+			<item id="3997" />
+		</Organizer-3>
 		<Organizer-4 hotbag="0" />
 		<Organizer-5 hotbag="0" />
 		<Organizer-6 hotbag="0" />
@@ -231,7 +236,10 @@
 		<Organizer-19 hotbag="0" />
 		<Organizer-20 hotbag="0" />
 		<Restock-1 hotbag="0" />
-		<Restock-2 hotbag="0" />
+		<Restock-2 hotbag="1091463336">
+			<item id="2545" amount="100" />
+			<item id="2431" amount="10" />
+		</Restock-2>
 		<Restock-3 hotbag="0" />
 		<Restock-4 hotbag="0" />
 		<Restock-5 hotbag="0" />
@@ -240,24 +248,37 @@
 		<Restock-8 hotbag="0" />
 		<Restock-9 hotbag="0" />
 		<Restock-10 hotbag="0" />
-		<Scavenger enabled="False" />
+		<Scavenger enabled="True">
+			<bag serial="0x4276E259" />
+			<item id="7610" />
+		</Scavenger>
 		<AutoSearchExemptions />
 		<Sell enabled="False" />
 		<UseOnce />
 	</agents>
-	<dresslists />
+	<dresslists>
+		<list name="Duluth" undressbag="0x4356FBBE">
+			<item serial="1105986203" />
+			<item serial="1140022091" />
+		</list>
+	</dresslists>
 	<hotkeys>
 		<key mod="0" key="112" send="False">L:1059</key>
+		<key mod="0" key="-2" send="False">L:1392</key>
 		<key mod="0" key="116" send="False">L:2052</key>
 		<key mod="0" key="123" send="False">L:1311</key>
 		<key mod="0" key="38" send="False">Play Script: Exit</key>
+		<key mod="0" key="49" send="False">Play Script: Gate Escape</key>
 		<key mod="0" key="39" send="False">Play Script: Mining</key>
 		<key mod="2" key="88" send="False">Play Script: Skinner</key>
+		<key mod="1" key="66" send="False">Play: bank</key>
 		<key mod="0" key="192" send="False">Play: Healing</key>
-		<key mod="1" key="66" send="False">Play: say</key>
+		<key mod="1" key="81" send="False">Play: pouch</key>
 		<key mod="4" key="66" send="False">L:1025</key>
-		<key mod="0" key="72" send="False">L:1044081</key>
+		<key mod="1" key="68" send="False">L:1044074</key>
+		<key mod="1" key="72" send="False">L:1044081</key>
 		<key mod="0" key="84" send="False">L:1044098</key>
+		<key mod="1" key="65" send="False">Toggle: Duluth</key>
 	</hotkeys>
 	<passwords />
 	<overheadmessages>
@@ -275,5 +296,7 @@
 	<textfilters />
 	<targetfilters />
 	<soundfilters />
-	<waypoints />
+	<waypoints>
+		<waypoint x="3330" y="475" name="House" />
+	</waypoints>
 </profile>
