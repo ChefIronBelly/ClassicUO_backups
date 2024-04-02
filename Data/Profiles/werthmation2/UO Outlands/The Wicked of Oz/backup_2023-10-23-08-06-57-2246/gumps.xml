@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="9" y="924" serial="1000" name="Paperdoll" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="97" y="924" serial="1005" name="Bow" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="97" y="968" serial="1006" name="Salute" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="19" x="1446" y="539" serial="0" minimized="False" />
+	<gump type="9" x="1519" y="-41" serial="89066" isminimized="False" />
+	<gump type="2" x="1466" y="276" serial="1079544877" graphic="60" isminimized="False" />
+	<gump type="20" x="1373" y="571" serial="0" minimized="False" />
+	<gump type="5" x="604" y="15" serial="0" />
+	<gump type="3" x="613" y="39" serial="0" rows="1" columns="12" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" />
+			<control graphic="3852" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="3848" hue="0" />
+			<control graphic="3849" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="4225" hue="0" />
+			<control graphic="4225" hue="2406" />
+			<control graphic="4225" hue="2419" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="16" x="1371" y="619" serial="0" id="38" />
+	<gump type="1" x="1249" y="107" serial="0" graphic="30080" direction="1" />
+	<gump type="12" x="1127" y="864" serial="0" />
+	<gump type="18" x="1522" y="611" serial="0" />
+</gumps>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cooldowns>
+	<cooldownentry name="Resist" defaultcooldown="120" cooldownbartype="Regular" hue="903" pauseduringworldsaves="True" hidewheninactive="True">
+		<trigger triggertype="SysMessage" duration="216" triggertext="You increase your damage resistance" />
+	</cooldownentry>
+	<cooldownentry name="Bandages" defaultcooldown="10" cooldownbartype="Bandage" hue="1001" pauseduringworldsaves="False" hidewheninactive="False" />
+	<cooldownentry name="Disarm" defaultcooldown="30" cooldownbartype="Regular" hue="63" pauseduringworldsaves="True" hidewheninactive="True">
+		<trigger triggertype="SysMessage" duration="30" triggertext="Your strike disarms your target!" />
+	</cooldownentry>
+</cooldowns>

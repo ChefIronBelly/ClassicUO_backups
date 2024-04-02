@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="6" y="921" serial="1000" name="Paperdoll" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="94" y="921" serial="1005" name="Bow" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="94" y="965" serial="1006" name="Salute" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="19" x="1397" y="530" serial="0" minimized="False" />
+	<gump type="20" x="1395" y="495" serial="0" minimized="True" />
+	<gump type="18" x="1518" y="610" serial="0" />
+	<gump type="9" x="1498" y="-35" serial="2299296" isminimized="False" />
+	<gump type="2" x="1464" y="196" serial="1243552140" graphic="60" isminimized="False" />
+	<gump type="7" x="1364" y="40" serial="1007" name="ALL NAMES" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="7" x="183" y="922" serial="1008" name="Set Loot" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="3" x="559" y="17" serial="0" rows="1" columns="16" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" />
+			<control graphic="3852" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="3851" hue="0" />
+			<control graphic="3848" hue="0" />
+			<control graphic="3849" hue="0" />
+			<control graphic="3846" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="4225" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3821" hue="0" />
+			<control graphic="3553" hue="0" />
+		</controls>
+	</gump>
+	<gump type="5" x="595" y="-1" serial="0" />
+	<gump type="1" x="1186" y="154" serial="0" graphic="30080" direction="1" />
+	<gump type="16" x="1418" y="612" serial="0" id="14" />
+	<gump type="6" x="1568" y="-25" serial="0" />
+</gumps>

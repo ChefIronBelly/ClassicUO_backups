@@ -1,21 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gumps>
 	<anchored_group_gump matrix_w="4" matrix_h="2">
-		<gump type="7" x="8" y="925" serial="1000" name="Paperdoll" matrix_x="0" matrix_y="0" />
-		<gump type="7" x="8" y="925" serial="1000" name="Paperdoll" matrix_x="1" matrix_y="0" />
-		<gump type="7" x="96" y="925" serial="1005" name="Bow" matrix_x="2" matrix_y="0" />
-		<gump type="7" x="96" y="925" serial="1005" name="Bow" matrix_x="3" matrix_y="0" />
-		<gump type="7" x="96" y="969" serial="1006" name="Salute" matrix_x="2" matrix_y="1" />
-		<gump type="7" x="96" y="969" serial="1006" name="Salute" matrix_x="3" matrix_y="1" />
+		<gump type="7" x="8" y="925" serial="1000" name="Paperdoll" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="96" y="925" serial="1005" name="Bow" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="96" y="969" serial="1006" name="Salute" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
 	</anchored_group_gump>
+	<gump type="18" x="1522" y="611" serial="0" />
+	<gump type="20" x="1373" y="571" serial="0" minimized="False" />
 	<gump type="19" x="1446" y="539" serial="0" minimized="False" />
 	<gump type="9" x="1517" y="-38" serial="2301189" isminimized="False" />
 	<gump type="2" x="1469" y="274" serial="1243716144" graphic="60" isminimized="False" />
-	<gump type="12" x="1125" y="855" serial="0" />
-	<gump type="1" x="1263" y="124" serial="0" graphic="30080" direction="1" />
-	<gump type="7" x="1425" y="20" serial="1007" name="ALL NAMES" />
-	<gump type="20" x="1373" y="571" serial="0" minimized="False" />
-	<gump type="5" x="632" y="31" serial="0" />
 	<gump type="16" x="1268" y="641" serial="0" id="38" />
-	<gump type="18" x="1522" y="611" serial="0" />
+	<gump type="5" x="632" y="31" serial="0" />
+	<gump type="7" x="1425" y="20" serial="1007" name="ALL NAMES" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="1" x="1263" y="124" serial="0" graphic="30080" direction="1" />
+	<gump type="12" x="1125" y="855" serial="0" />
 </gumps>

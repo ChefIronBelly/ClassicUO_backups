@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tabs version="1">
+	<tab name="All" index="0" standalone="False" filters="14,15,2,192,7,13,6,3,255,0,10,1,16,8,9,17" x="100" y="100" w="400" h="400" lock="True" resizable="True" />
+	<tab name="Chat" index="1" standalone="False" filters="0,13,14,2,255,8,9" x="100" y="100" w="400" h="400" lock="True" resizable="True" />
+	<tab name="Guild/Party" index="2" standalone="False" filters="13,14,255" x="100" y="100" w="400" h="400" lock="True" resizable="True" />
+	<tab name="System" index="3" standalone="False" filters="1,16" x="100" y="100" w="400" h="400" lock="True" resizable="True" />
+	<tab name="Combat" index="4" standalone="False" filters="17" x="100" y="100" w="400" h="400" lock="True" resizable="True" />
+</tabs>

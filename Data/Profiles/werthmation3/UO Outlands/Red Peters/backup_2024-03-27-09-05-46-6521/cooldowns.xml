@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cooldowns>
+	<cooldownentry name="Smoke Bomb" defaultcooldown="120" cooldownbartype="Regular" hue="93" pauseduringworldsaves="True" hidewheninactive="True">
+		<trigger triggertype="OverheadMessage" duration="120" triggertext="Ninja Poof" />
+	</cooldownentry>
+</cooldowns>

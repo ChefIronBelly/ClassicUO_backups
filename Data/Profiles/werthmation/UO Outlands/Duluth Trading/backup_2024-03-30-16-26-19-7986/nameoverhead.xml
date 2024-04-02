@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<nameoverhead>
+	<nameoverheadoption name="All" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="2147483647" />
+	<nameoverheadoption name="Mobiles only" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="917376" />
+	<nameoverheadoption name="Items only" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="131079" />
+	<nameoverheadoption name="Mobiles &amp; Corpses only" key="0" mousebutton="0" alt="False" ctrl="False" shift="False" optionflagscode="917488" />
+</nameoverhead>

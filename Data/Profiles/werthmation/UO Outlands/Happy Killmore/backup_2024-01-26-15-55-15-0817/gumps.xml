@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="10" y="925" serial="1000" name="Paperdoll" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="98" y="925" serial="1005" name="Bow" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="98" y="969" serial="1006" name="Salute" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="20" x="1377" y="555" serial="0" minimized="False" />
+	<gump type="2" x="1470" y="284" serial="1106446054" graphic="60" isminimized="False" />
+	<gump type="9" x="1521" y="-31" serial="484393" isminimized="False" />
+	<gump type="1" x="1299" y="112" serial="0" graphic="30080" direction="1" />
+	<gump type="7" x="1423" y="22" serial="1007" name="ALL NAMES" graphicId="0" hideLabel="False" scale="1" />
+	<gump type="5" x="672" y="28" serial="0" />
+	<gump type="19" x="1438" y="508" serial="0" minimized="False" />
+	<gump type="15" x="1257" y="616" serial="0" id="32" />
+	<gump type="16" x="1387" y="612" serial="0" id="38" />
+	<gump type="12" x="1124" y="848" serial="0" />
+	<gump type="18" x="1520" y="608" serial="0" />
+</gumps>
