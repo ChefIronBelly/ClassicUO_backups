@@ -2,8 +2,8 @@
 
 ClassicUO & Razor backups
 
-Razor v1.7.1.0
+Razor ver Razor Outlands Edition
 
-ClassicUO - 0.1.9.74
+ClassicUO - 1.0.1.41
 
 ClassicUO/Data
