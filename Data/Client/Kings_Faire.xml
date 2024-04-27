@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Kings Faire" Revision="0">
+
+<Marker Name="Ship Race" X="6456" Y="3000" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Whack A-Muck" X="6489" Y="3003" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Tomato Justice" X="6511" Y="3005" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Derby" X="6503" Y="3023" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Drinking Contest" X="6517" Y="3039" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Squi-ball" X="6529" Y="3043" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Log Rolling" X="6528" Y="3061" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Pylon Gladiator" X="6506" Y="3076" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Skeet Shooting" X="6523" Y="3095" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Caravan Pusher" X="6507" Y="3121" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Rage Cage" X="6544" Y="3133" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Alchemissed" X="6508" Y="3148" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Quartermaster" X="6483" Y="3152" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Packmaster" X="6450" Y="3131" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Eating Contest" X="6435" Y="3139" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Coop Shoot" X="6419" Y="3152" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Apple Bobbing" X="6432" Y="3125" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Plucky Musician" X="6408" Y="3127" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Produce Pitch" X="6417" Y="3106" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Axe Toss" X="6431" Y="3099" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Ladder Golf" X="6434" Y="3087" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Balloon Pop" X="6418" Y="3088" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Log Cutter" X="6418" Y="3070" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Bell Striker" X="6434" Y="3073" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Dunk Tank" X="6436" Y="3058" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Statue Carving" X="6417" Y="3056" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Archery" X="6453" Y="3064" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Boxing Match" X="6455" Y="3083" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Joust" X="6480" Y="3063" Icon="kingsfaire" Facet="0"/>
+
+<Marker Name="Fishing Contest" X="6484" Y="3086" Icon="kingsfaire" Facet="0"/>
+
+
+
+<Marker Name="Fortune Teller" X="6436" Y="3033" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Prevalian Merchant" X="6449" Y="3024" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Balloon Stand" X="6457" Y="3024" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Tattoo Parlor" X="6455" Y="3037" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Ticket Booth" X="6465" Y="3024" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Food Truck" X="6505" Y="3064" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Fireworks Show" X="6506" Y="3099" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Petting Zoo" X="6454" Y="3151" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Puppet Show" X="6426" Y="3046" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Puppet Show" X="6488" Y="3104" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Fashion Show" X="6455" Y="3108" Icon="sparkles" Facet="0"/>
+
+<Marker Name="Teleporter" X="6506" Y="3161" Icon="blankstair" Facet="0"/>
+
+<Marker Name="Teleporter" X="6467" Y="3012" Icon="blankstair" Facet="0"/>
+
+
+</Pack>

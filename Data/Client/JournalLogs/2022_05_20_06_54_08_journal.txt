@@ -1,0 +1,84 @@
+[05/20/2022 06:54]  System: WorldMap loading...
+[05/20/2022 06:54]  System: Loading WorldMap markers..
+[05/20/2022 06:54]  System: ..Banks_and_Healers.xml (20)
+[05/20/2022 06:54]  System: ..Dungeons.xml (12)
+[05/20/2022 06:54]  System: ..Dungeon_Gates.xml (343)
+[05/20/2022 06:54]  System: ..Healer_Caravans.xml (32)
+[05/20/2022 06:54]  System: ..Moongates.xml (9)
+[05/20/2022 06:54]  System: ..POI.xml (176)
+[05/20/2022 06:54]  System: ..Shrines.xml (9)
+[05/20/2022 06:54]  System: ..Subterranean.xml (6)
+[05/20/2022 06:54]  System: ..Townships.xml (9)
+[05/20/2022 06:54]  System: WorldMap markers loaded (616)
+[05/20/2022 06:54]  System: Welcome Stink Fist!
+[05/20/2022 06:54]  Stink Fist: [SQzD]
+[05/20/2022 06:54]  Stink Fist: Stink Fist
+[05/20/2022 06:54]  a hind: a hind
+[05/20/2022 06:54]  a wisp: a wisp
+[05/20/2022 06:54]  System: WorldMap loaded!
+[05/20/2022 06:54]  a mongbat: a mongbat
+[05/20/2022 06:54]  System: Your strength has changed by 20.  It is now 120
+[05/20/2022 06:54]  Razor: [+Strength (216s)]
+[05/20/2022 06:54]  Razor: Str: +20 - 120
+[05/20/2022 06:54]  Razor: [-Strength (s)]
+[05/20/2022 06:54]  Razor: [+Strength (216s)]
+[05/20/2022 06:54]  System: Your dexterity has changed by 20.  It is now 120
+[05/20/2022 06:54]  Razor: [+Agility (216s)]
+[05/20/2022 06:54]  Razor: Dex: +20 - 120
+[05/20/2022 06:54]  Razor: [-Agility (s)]
+[05/20/2022 06:54]  Razor: [+Agility (216s)]
+[05/20/2022 06:54]  System: Playing Macro 'Healing'...
+[05/20/2022 06:54]  System: Who will you use the bandages on?
+[05/20/2022 06:54]  Razor: Healing Started
+[05/20/2022 06:54]  System: You begin applying the bandages.
+[05/20/2022 06:54]  Stink Fist: [SQzD]
+[05/20/2022 06:54]  Stink Fist: Stink Fist
+[05/20/2022 06:54]  Stink Fist: [SQzD]
+[05/20/2022 06:54]  Stink Fist: Stink Fist
+[05/20/2022 06:54]  System: Who will you use the bandages on?
+[05/20/2022 06:54]  Razor: Healing Started
+[05/20/2022 06:54]  Razor: Bandage: 1s
+[05/20/2022 06:54]  Razor: Bandage: 2s
+[05/20/2022 06:54]  a hind: a hind
+[05/20/2022 06:54]  a thrush: a thrush
+[05/20/2022 06:54]  Razor: Bandage: 3s
+[05/20/2022 06:54]  System: You begin applying the bandages.
+[05/20/2022 06:54]  Razor: Bandage: 4s
+[05/20/2022 06:54]  Razor: Attack: a wisp
+[05/20/2022 06:54]  System: Your strike disarms your target!
+[05/20/2022 06:54]  System: Your attack hamstrings your target!
+[05/20/2022 06:54]  a wisp: -144
+[05/20/2022 06:54]  Razor: Bandage: 5s
+[05/20/2022 06:54]  System: Holy symbols remaining: 6/10
+[05/20/2022 06:54]  a wisp: -50
+[05/20/2022 06:54]  Razor: Bandage: 6s
+[05/20/2022 06:54]  System: You absorb their spell (6.4% current damage bonus).
+[05/20/2022 06:54]  Stink Fist: -5
+[05/20/2022 06:54]  System: Your fingers slip!
+[05/20/2022 06:54]  Razor: Bandage: 7s
+[05/20/2022 06:54]  a wisp: -44
+[05/20/2022 06:54]  Razor: Bandage: 8s
+[05/20/2022 06:54]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[05/20/2022 06:54]  a wisp: -114
+[05/20/2022 06:54]  Razor: Bandage: 9s
+[05/20/2022 06:54]  System: You parry the spell.
+[05/20/2022 06:54]  a wisp: -71
+[05/20/2022 06:54]  System: You have gained some fame.
+[05/20/2022 06:54]  System: You have gained some karma.
+[05/20/2022 06:54]  Stink Fist: (Earth Aspect 877.9/3500 xp)
+[05/20/2022 06:54]  System: -202
+[05/20/2022 06:54]  Stink Fist: -2
+[05/20/2022 06:54]  System: You finish applying the bandages.
+[05/20/2022 06:54]  Stink Fist: +21
+[05/20/2022 06:54]  You see: a wisp corpse
+[05/20/2022 06:54]  System: Your fingers slip!
+[05/20/2022 06:55]  System: You must wait another moment before you may pick up an item from here.
+[05/20/2022 06:55]  System: [GridLoot]: Corpse is empty!
+[05/20/2022 06:55]  System: What corpse or location do you wish to carve?
+[05/20/2022 06:55]  Razor: Target: Stink Fist
+[05/20/2022 06:55]  System: Max holy symbols earned (10/10)
+[05/20/2022 06:55]  System: You may now attempt to hamstring your opponents again.
+[05/20/2022 06:55]  Razor: [HAM ON]
+[05/20/2022 06:55]  System: You may now attempt to disarm your opponent again.
+[05/20/2022 06:55]  Razor: [DISARM]
+[05/20/2022 06:55]  System: Holy symbols remaining: 6/10

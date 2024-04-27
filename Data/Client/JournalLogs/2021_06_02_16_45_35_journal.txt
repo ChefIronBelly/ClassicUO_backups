@@ -1,0 +1,751 @@
+[06/02/2021 16:45]  System: WorldMap loading...
+[06/02/2021 16:45]  System: Loading WorldMap markers..
+[06/02/2021 16:45]  System: ..Banks_and_Healers.xml (18)
+[06/02/2021 16:45]  System: ..Dungeons.xml (11)
+[06/02/2021 16:45]  System: ..Dungeon_Gates.xml (303)
+[06/02/2021 16:45]  System: ..Healer_Caravans.xml (24)
+[06/02/2021 16:45]  System: ..Moongates.xml (8)
+[06/02/2021 16:45]  System: ..POI.xml (130)
+[06/02/2021 16:45]  System: ..Shrines.xml (8)
+[06/02/2021 16:45]  System: ..Subterranean.xml (6)
+[06/02/2021 16:45]  System: ..Townships.xml (8)
+[06/02/2021 16:45]  System: WorldMap markers loaded (516)
+[06/02/2021 16:45]  System: Welcome Duluth Trading!
+[06/02/2021 16:45]  Razor: [Last Target]
+[06/02/2021 16:45]  You see: Duluth Trading (Young)
+[06/02/2021 16:45]  You see: a giant frog
+[06/02/2021 16:45]  You see: a monitor hatchling
+[06/02/2021 16:45]  You see: a necromancer corpse
+[06/02/2021 16:45]  You see: a necromancer corpse
+[06/02/2021 16:45]  You see: a necromancer corpse
+[06/02/2021 16:45]  You see: a necromancer corpse
+[06/02/2021 16:45]  You see: a necromancer corpse
+[06/02/2021 16:45]  You see: a ghoul corpse
+[06/02/2021 16:45]  You see: a ghoul corpse
+[06/02/2021 16:45]  You see: a skeletal archer corpse
+[06/02/2021 16:45]  You see: a ghoul corpse
+[06/02/2021 16:45]  You see: a skeletal archer corpse
+[06/02/2021 16:45]  You see: a ghoul corpse
+[06/02/2021 16:45]  You see: a corpse eater corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  Razor: [+Food Satisfaction (2430s)]
+[06/02/2021 16:45]  Razor: [+Campfire Visit (9667s)]
+[06/02/2021 16:45]  Razor: [+Forensic Eval Bonus (10757s)]
+[06/02/2021 16:45]  Razor: [+Strength (10s)]
+[06/02/2021 16:45]  System: WorldMap loaded!
+[06/02/2021 16:45]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:45]  System: You carve materials from the corpse.
+[06/02/2021 16:45]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:45]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:45]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:45]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:45]  System: You may now use a strength potion.
+[06/02/2021 16:45]  System: Your strength has changed by -10.  It is now 100
+[06/02/2021 16:45]  Razor: [-Strength (s)]
+[06/02/2021 16:45]  Razor: Str: -10 - 100
+[06/02/2021 16:45]  System: What do you wish to track?
+[06/02/2021 16:45]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skill while hunting.
+[06/02/2021 16:45]  Duluth Trading: You begin hunting.
+[06/02/2021 16:45]  You see: a giant frog
+[06/02/2021 16:45]  You see: a necromancer corpse
+[06/02/2021 16:45]  a colossal frog: *released*
+[06/02/2021 16:45]  You see: a colossal frog
+[06/02/2021 16:45]  a colossal frog: *released*
+[06/02/2021 16:45]  You see: a colossal frog
+[06/02/2021 16:45]  a colossal frog: *released*
+[06/02/2021 16:45]  You see: a colossal frog
+[06/02/2021 16:45]  System: Opening door...
+[06/02/2021 16:45]  You see: a skeleton
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeleton
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:45]  You see: a headless corpse
+[06/02/2021 16:45]  You see: a headless corpse
+[06/02/2021 16:45]  You see: a skeleton
+[06/02/2021 16:45]  Duluth Trading: That is out of my line of sight.
+[06/02/2021 16:45]  You see: a headless corpse
+[06/02/2021 16:45]  System: That is too far away.
+[06/02/2021 16:45]  Duluth Trading: That is out of my line of sight.
+[06/02/2021 16:45]  You see: a headless
+[06/02/2021 16:45]  System: Opening door... [2]
+[06/02/2021 16:45]  Duluth Trading: That is out of my line of sight.
+[06/02/2021 16:45]  Duluth Trading: -5
+[06/02/2021 16:45]  a skeleton: -4
+[06/02/2021 16:45]  Razor: Attack: a skeleton
+[06/02/2021 16:45]  a skeleton: -62
+[06/02/2021 16:45]  Duluth Trading: -5
+[06/02/2021 16:45]  a skeleton: -5
+[06/02/2021 16:45]  System: You have gained a little fame.
+[06/02/2021 16:45]  System: You have gained a little karma.
+[06/02/2021 16:45]  System: -59
+[06/02/2021 16:45]  You see: a skeletal corpse
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  System: You must wait to perform another action.
+[06/02/2021 16:46]  Razor: Attack: a skeleton
+[06/02/2021 16:46]  Razor: Attack: a skeleton
+[06/02/2021 16:46]  Duluth Trading: -5
+[06/02/2021 16:46]  a skeleton: -4
+[06/02/2021 16:46]  Razor: Attack: a skeleton
+[06/02/2021 16:46]  System: You smash through the remainder of their armor, dealing grevious damage!
+[06/02/2021 16:46]  a skeleton: -110
+[06/02/2021 16:46]  System: You have gained a little fame.
+[06/02/2021 16:46]  System: You have gained a little karma.
+[06/02/2021 16:46]  System: -6
+[06/02/2021 16:46]  You see: a skeletal corpse
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  Razor: Attack: a skeleton
+[06/02/2021 16:46]  Duluth Trading: -5
+[06/02/2021 16:46]  a skeleton: -5
+[06/02/2021 16:46]  a skeleton: -63
+[06/02/2021 16:46]  Duluth Trading: -7
+[06/02/2021 16:46]  a skeleton: -5
+[06/02/2021 16:46]  Razor: Attack: a skeleton
+[06/02/2021 16:46]  System: You have gained a little fame.
+[06/02/2021 16:46]  System: You have gained a little karma.
+[06/02/2021 16:46]  System: -52
+[06/02/2021 16:46]  You see: a skeletal corpse
+[06/02/2021 16:46]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:46]  System: You carve materials from the corpse.
+[06/02/2021 16:46]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:46]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:46]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:46]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:46]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:46]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:46]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  System: You carve materials from the corpse. [2]
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  You see: a giant frog
+[06/02/2021 16:46]  You see: a giant rat
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a giant rat corpse
+[06/02/2021 16:46]  You see: a giant rat corpse
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: a giant frog
+[06/02/2021 16:46]  You see: a mongbat
+[06/02/2021 16:46]  You see: a mongbat
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a giant rat corpse
+[06/02/2021 16:46]  You see: a giant rat corpse
+[06/02/2021 16:46]  You see: a giant rat corpse
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  a colossal frog: *released*
+[06/02/2021 16:46]  You see: a colossal frog
+[06/02/2021 16:46]  a colossal frog: *released*
+[06/02/2021 16:46]  You see: a colossal frog
+[06/02/2021 16:46]  a colossal frog: *released*
+[06/02/2021 16:46]  You see: a colossal frog
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a colossal frog
+[06/02/2021 16:46]  System: That is too far away.
+[06/02/2021 16:46]  You see: a rotting corpse
+[06/02/2021 16:46]  You see: a rotting corpse
+[06/02/2021 16:46]  You see: a rotting corpse
+[06/02/2021 16:46]  You see: a zombie
+[06/02/2021 16:46]  You see: a rotting corpse
+[06/02/2021 16:46]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h). [2]
+[06/02/2021 16:46]  System: Opening door...
+[06/02/2021 16:46]  Duluth Trading: That is out of my line of sight.
+[06/02/2021 16:46]  You see: a zombie
+[06/02/2021 16:46]  System: That is too far away. [2]
+[06/02/2021 16:46]  Razor: Attack: a giant rat
+[06/02/2021 16:46]  Razor: Attack: a headless
+[06/02/2021 16:46]  a headless: -80
+[06/02/2021 16:46]  System: Opening door...
+[06/02/2021 16:46]  System: You have gained a little fame.
+[06/02/2021 16:46]  System: You have gained a little karma.
+[06/02/2021 16:46]  System: -45
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: dungeon wall
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:46]  System: You carve materials from the corpse.
+[06/02/2021 16:46]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:46]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:46]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  System: You must wait another moment before you may pick up an item from here.
+[06/02/2021 16:46]  System: Who will you use the bandages on?
+[06/02/2021 16:46]  System: You begin applying the bandages.
+[06/02/2021 16:46]  Razor: Bandage: 1s
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: a zombie
+[06/02/2021 16:46]  You see: a skeletal corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  Razor: Bandage: 2s
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a zombie
+[06/02/2021 16:46]  System: Opening door...
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a headless corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: BackStabson (Young)
+[06/02/2021 16:46]  Razor: Bandage: 3s
+[06/02/2021 16:46]  Razor: Attack: a giant rat
+[06/02/2021 16:46]  Razor: Bandage: 4s
+[06/02/2021 16:46]  You see: a mongbat
+[06/02/2021 16:46]  System: That is too far away.
+[06/02/2021 16:46]  System: You smash through the remainder of their armor, dealing grevious damage!
+[06/02/2021 16:46]  a giant rat: -109
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  Razor: Bandage: 5s
+[06/02/2021 16:46]  System: Opening door...
+[06/02/2021 16:46]  Razor: Bandage: 6s
+[06/02/2021 16:46]  Razor: Bandage: 7s
+[06/02/2021 16:46]  Razor: Bandage: 8s
+[06/02/2021 16:46]  System: That is too far away. [3]
+[06/02/2021 16:46]  Razor: Attack: a giant rat
+[06/02/2021 16:46]  Razor: Bandage: 9s
+[06/02/2021 16:46]  System: You may not loot this corpse.
+[06/02/2021 16:46]  Razor: Bandage: 10s
+[06/02/2021 16:46]  System: You finish applying the bandages.
+[06/02/2021 16:46]  Duluth Trading: +17
+[06/02/2021 16:46]  Razor: Attack: a giant rat
+[06/02/2021 16:46]  System: Players cannot commit aggressive actions in that location.
+[06/02/2021 16:46]  System: You have gained a little fame.
+[06/02/2021 16:46]  System: You have gained a little karma.
+[06/02/2021 16:46]  System: -16
+[06/02/2021 16:46]  You see: a giant rat corpse
+[06/02/2021 16:46]  System: You smash through the remainder of their armor, dealing grevious damage!
+[06/02/2021 16:46]  Razor: Attack: a mongbat
+[06/02/2021 16:46]  a mongbat: -68
+[06/02/2021 16:46]  Duluth Trading: -3
+[06/02/2021 16:46]  a mongbat: -2
+[06/02/2021 16:46]  Razor: Attack: a mongbat
+[06/02/2021 16:46]  System: -24
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  System: You have gained a little karma.
+[06/02/2021 16:46]  System: You have gained a little fame.
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:46]  Razor: Attack: a mongbat
+[06/02/2021 16:46]  a mongbat: -60
+[06/02/2021 16:46]  Razor: Attack: a mongbat
+[06/02/2021 16:46]  System: -34
+[06/02/2021 16:46]  You see: a mongbat corpse
+[06/02/2021 16:46]  System: You have gained a little karma.
+[06/02/2021 16:46]  System: You have gained a little fame.
+[06/02/2021 16:47]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:47]  System: You carve materials from the corpse.
+[06/02/2021 16:47]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:47]  System: You may not loot this corpse.
+[06/02/2021 16:47]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:47]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:47]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:47]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:47]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:47]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:47]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:47]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:47]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:47]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:47]  System: You carve materials from the corpse. [3]
+[06/02/2021 16:47]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:47]  You see: a rotting corpse
+[06/02/2021 16:47]  System: Opening door...
+[06/02/2021 16:47]  You see: a zombie
+[06/02/2021 16:47]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h). [3]
+[06/02/2021 16:47]  You see: a zombie
+[06/02/2021 16:47]  System: Opening door... [2]
+[06/02/2021 16:47]  You see: a scorpion
+[06/02/2021 16:47]  You see: a mongbat corpse
+[06/02/2021 16:47]  You see: a mongbat corpse
+[06/02/2021 16:47]  You see: a mongbat corpse
+[06/02/2021 16:47]  You see: a mongbat corpse
+[06/02/2021 16:47]  You see: BackStabson (Young)
+[06/02/2021 16:47]  Duluth Trading: -5
+[06/02/2021 16:47]  a zombie: -4
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  Duluth Trading: -6
+[06/02/2021 16:47]  a zombie: -56
+[06/02/2021 16:47]  a zombie: -5
+[06/02/2021 16:47]  You see: a giant rat
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  System: You smash through the remainder of their armor, dealing grevious damage!
+[06/02/2021 16:47]  a zombie: -146
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  System: shisu has completed the achievement: Guardian of Nusero (Basic).
+[06/02/2021 16:47]  Duluth Trading: -4
+[06/02/2021 16:47]  a zombie: -3
+[06/02/2021 16:47]  a zombie: -58
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  System: You have gained a little fame.
+[06/02/2021 16:47]  System: You have gained a little karma.
+[06/02/2021 16:47]  System: -47
+[06/02/2021 16:47]  You see: a rotting corpse
+[06/02/2021 16:47]  Duluth Trading: -4
+[06/02/2021 16:47]  a zombie: -4
+[06/02/2021 16:47]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  Duluth Trading: -7
+[06/02/2021 16:47]  a zombie: -5
+[06/02/2021 16:47]  Duluth Trading: -5
+[06/02/2021 16:47]  a zombie: -4
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  a zombie: -60
+[06/02/2021 16:47]  Duluth Trading: -7
+[06/02/2021 16:47]  a zombie: -6
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  a zombie: -61
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  Duluth Trading: -5
+[06/02/2021 16:47]  a zombie: -4
+[06/02/2021 16:47]  Duluth Trading: -7
+[06/02/2021 16:47]  a zombie: -6
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  System: You smash through the remainder of their armor, dealing grevious damage!
+[06/02/2021 16:47]  a zombie: -153
+[06/02/2021 16:47]  System: You have gained a little fame.
+[06/02/2021 16:47]  System: You have gained a little karma.
+[06/02/2021 16:47]  System: -17
+[06/02/2021 16:47]  You see: cave floor
+[06/02/2021 16:47]  You see: a rotting corpse
+[06/02/2021 16:47]  Duluth Trading: -4
+[06/02/2021 16:47]  You see: dungeon wall
+[06/02/2021 16:47]  a zombie: -3
+[06/02/2021 16:47]  Duluth Trading: -7
+[06/02/2021 16:47]  a zombie: -6
+[06/02/2021 16:47]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  a zombie: -71
+[06/02/2021 16:47]  Duluth Trading: -4
+[06/02/2021 16:47]  a zombie: -4
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  a zombie: -56
+[06/02/2021 16:47]  Duluth Trading: -8
+[06/02/2021 16:47]  a zombie: -6
+[06/02/2021 16:47]  a zombie: -65
+[06/02/2021 16:47]  Razor: Attack: a zombie
+[06/02/2021 16:47]  System: Playing Macro 'Healing'...
+[06/02/2021 16:47]  System: Who will you use the bandages on?
+[06/02/2021 16:47]  Razor: Healing Started
+[06/02/2021 16:47]  System: You begin applying the bandages.
+[06/02/2021 16:47]  a zombie: -71
+[06/02/2021 16:47]  Razor: Bandage: 1s
+[06/02/2021 16:47]  Duluth Trading: +12
+[06/02/2021 16:47]  System: some damage has been healed : 12
+[06/02/2021 16:47]  Razor: Bandage: 2s
+[06/02/2021 16:47]  System: Finished 3 queued actions in 1.2 seconds.
+[06/02/2021 16:47]  Razor: Bandage: 3s
+[06/02/2021 16:47]  a zombie: -63
+[06/02/2021 16:47]  Duluth Trading: You must wait 8 seconds before using another healing potion.
+[06/02/2021 16:47]  Razor: Bandage: 4s
+[06/02/2021 16:47]  System: You must wait to perform another action.
+[06/02/2021 16:47]  Duluth Trading: -7
+[06/02/2021 16:47]  System: Your fingers slip!
+[06/02/2021 16:47]  System: Finished 3 queued actions in 1.2 seconds.
+[06/02/2021 16:47]  a zombie: -5
+[06/02/2021 16:47]  Razor: Bandage: 5s
+[06/02/2021 16:47]  a zombie: -68
+[06/02/2021 16:47]  Duluth Trading: You must wait 6 seconds before using another healing potion.
+[06/02/2021 16:47]  Razor: Bandage: 6s
+[06/02/2021 16:48]  a zombie: -56
+[06/02/2021 16:48]  Razor: Bandage: 7s
+[06/02/2021 16:48]  Duluth Trading: You must wait 5 seconds before using another healing potion.
+[06/02/2021 16:48]  System: You must wait to perform another action.
+[06/02/2021 16:48]  Razor: Bandage: 8s
+[06/02/2021 16:48]  Duluth Trading: You must wait 4 seconds before using another healing potion.
+[06/02/2021 16:48]  System: You have gained a little fame.
+[06/02/2021 16:48]  System: You have gained a little karma.
+[06/02/2021 16:48]  System: -38
+[06/02/2021 16:48]  You see: a rotting corpse
+[06/02/2021 16:48]  Razor: Bandage: 9s
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  Razor: Bandage: 10s
+[06/02/2021 16:48]  System: You finish applying the bandages.
+[06/02/2021 16:48]  Duluth Trading: +29
+[06/02/2021 16:48]  Razor: Attack: a zombie
+[06/02/2021 16:48]  a zombie: -69
+[06/02/2021 16:48]  System: You must wait to perform another action.
+[06/02/2021 16:48]  System: Who will you use the bandages on?
+[06/02/2021 16:48]  Razor: Healing Started
+[06/02/2021 16:48]  System: You begin applying the bandages.
+[06/02/2021 16:48]  System: You have gained a little fame.
+[06/02/2021 16:48]  System: You have gained a little karma.
+[06/02/2021 16:48]  System: -28
+[06/02/2021 16:48]  You see: a rotting corpse
+[06/02/2021 16:48]  Razor: Bandage: 1s
+[06/02/2021 16:48]  Razor: Bandage: 2s
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  Razor: Bandage: 3s
+[06/02/2021 16:48]  Razor: Bandage: 4s
+[06/02/2021 16:48]  Razor: Bandage: 5s
+[06/02/2021 16:48]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:48]  Razor: Bandage: 6s
+[06/02/2021 16:48]  System: You carve materials from the corpse.
+[06/02/2021 16:48]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:48]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:48]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:48]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:48]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:48]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:48]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:48]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:48]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:48]  Razor: Bandage: 7s
+[06/02/2021 16:48]  Razor: Bandage: 8s
+[06/02/2021 16:48]  Razor: Bandage: 9s
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  Razor: Bandage: 10s
+[06/02/2021 16:48]  System: You finish applying the bandages.
+[06/02/2021 16:48]  Duluth Trading: +29
+[06/02/2021 16:48]  System: You carve materials from the corpse. [3]
+[06/02/2021 16:48]  Jhaldrym Maerret: [Recruit, Vile]
+[06/02/2021 16:48]  You see: Jhaldrym Maerret
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  You see: numnums (Young)
+[06/02/2021 16:48]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h). [3]
+[06/02/2021 16:48]  You see: a headless corpse
+[06/02/2021 16:48]  You see: a skeleton
+[06/02/2021 16:48]  Jhaldrym Maerret: [Recruit, Vile]
+[06/02/2021 16:48]  You see: Jhaldrym Maerret
+[06/02/2021 16:48]  System: That is too far away.
+[06/02/2021 16:48]  You see: numnums (Young)
+[06/02/2021 16:48]  System: That is too far away. [3]
+[06/02/2021 16:48]  Razor: Attack: a scorpion
+[06/02/2021 16:48]  Duluth Trading: -7
+[06/02/2021 16:48]  a scorpion: -44
+[06/02/2021 16:48]  a scorpion: -6
+[06/02/2021 16:48]  System: Who will you use the bandages on?
+[06/02/2021 16:48]  Razor: Healing Started
+[06/02/2021 16:48]  System: You begin applying the bandages.
+[06/02/2021 16:48]  Razor: Bandage: 1s
+[06/02/2021 16:48]  Razor: Bandage: 2s
+[06/02/2021 16:48]  a scorpion: -46
+[06/02/2021 16:48]  Razor: Bandage: 3s
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  You see: a headless corpse
+[06/02/2021 16:48]  Duluth Trading: -6
+[06/02/2021 16:48]  System: Your fingers slip!
+[06/02/2021 16:48]  a scorpion: -6
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  You see: a headless corpse
+[06/02/2021 16:48]  Razor: Bandage: 4s
+[06/02/2021 16:48]  a scorpion: -45
+[06/02/2021 16:48]  You see: numnums (Young)
+[06/02/2021 16:48]  Razor: Bandage: 5s
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  You see: a headless corpse
+[06/02/2021 16:48]  You see: a giant rat
+[06/02/2021 16:48]  Tankenstein: [Soldier, SOF]
+[06/02/2021 16:48]  You see: Tankenstein
+[06/02/2021 16:48]  a scorpion: -41
+[06/02/2021 16:48]  Razor: Bandage: 6s
+[06/02/2021 16:48]  Razor: Bandage: 7s
+[06/02/2021 16:48]  System: Your attack crushes their armor!
+[06/02/2021 16:48]  System: You have gained a little fame.
+[06/02/2021 16:48]  System: You have gained a little karma.
+[06/02/2021 16:48]  System: -62
+[06/02/2021 16:48]  You see: a scorpion corpse
+[06/02/2021 16:48]  Razor: Bandage: 8s
+[06/02/2021 16:48]  Razor: Bandage: 9s
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  Razor: Bandage: 10s
+[06/02/2021 16:48]  System: You finish applying the bandages.
+[06/02/2021 16:48]  Duluth Trading: +11
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:48]  System: You carve materials from the corpse.
+[06/02/2021 16:48]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:48]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:48]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:48]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:48]  You see: a skeleton
+[06/02/2021 16:48]  You see: a skeleton
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a giant rat corpse
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a skeleton
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a skeleton
+[06/02/2021 16:48]  System: Opening door...
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  System: Players cannot commit aggressive actions in that location.
+[06/02/2021 16:48]  You see: a ghoul
+[06/02/2021 16:48]  You see: a skeletal corpse
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a giant frog
+[06/02/2021 16:48]  System: Opening door...
+[06/02/2021 16:48]  You see: a mongbat corpse
+[06/02/2021 16:48]  You see: a ghoul corpse
+[06/02/2021 16:48]  You see: numnums (Young)
+[06/02/2021 16:48]  You see: a headless
+[06/02/2021 16:48]  Razor: Attack: a skeleton
+[06/02/2021 16:49]  a skeleton: -52
+[06/02/2021 16:49]  You see: syldoc (Young)
+[06/02/2021 16:49]  System: You have gained a little fame.
+[06/02/2021 16:49]  System: You have gained a little karma.
+[06/02/2021 16:49]  System: -73
+[06/02/2021 16:49]  You see: a skeletal corpse
+[06/02/2021 16:49]  You see: stalagmites
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:49]  System: You carve materials from the corpse.
+[06/02/2021 16:49]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  Tankenstein: [Soldier, SOF]
+[06/02/2021 16:49]  You see: Tankenstein
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  You see: numnums (Young)
+[06/02/2021 16:49]  You see: a headless corpse
+[06/02/2021 16:49]  You see: a skeletal archer corpse
+[06/02/2021 16:49]  You see: a headless corpse
+[06/02/2021 16:49]  a colossal frog: *released*
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  a colossal frog: *released*
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  a colossal frog: *released*
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  You see: a giant frog
+[06/02/2021 16:49]  You see: a giant frog
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  You see: a giant frog
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  You see: a giant frog
+[06/02/2021 16:49]  System: Opening door...
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  System: Players cannot commit aggressive actions in that location.
+[06/02/2021 16:49]  System: You may not loot this corpse.
+[06/02/2021 16:49]  Razor: Attack: a headless
+[06/02/2021 16:49]  Tankenstein: [Soldier, SOF]
+[06/02/2021 16:49]  You see: Tankenstein
+[06/02/2021 16:49]  System: You smash through the remainder of their armor, dealing grevious damage!
+[06/02/2021 16:49]  a headless: -116
+[06/02/2021 16:49]  System: You have gained a little fame.
+[06/02/2021 16:49]  System: You have gained a little karma.
+[06/02/2021 16:49]  System: -9
+[06/02/2021 16:49]  You see: a headless corpse
+[06/02/2021 16:49]  System: You may not loot this corpse.
+[06/02/2021 16:49]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:49]  System: You carve materials from the corpse.
+[06/02/2021 16:49]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  You see: a headless
+[06/02/2021 16:49]  System: You may not loot this corpse. [2]
+[06/02/2021 16:49]  You see: BackStabson (Young)
+[06/02/2021 16:49]  You see: a skeleton
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  Tankenstein: [Soldier, SOF]
+[06/02/2021 16:49]  You see: Tankenstein
+[06/02/2021 16:49]  System: You carve materials from the corpse. [2]
+[06/02/2021 16:49]  Razor: Attack: a headless
+[06/02/2021 16:49]  Razor: Attack: a skeleton
+[06/02/2021 16:49]  a skeleton: -64
+[06/02/2021 16:49]  a skeleton: -46
+[06/02/2021 16:49]  Duluth Trading: -4
+[06/02/2021 16:49]  a skeleton: -3
+[06/02/2021 16:49]  System: Who will you use the bandages on?
+[06/02/2021 16:49]  Razor: Healing Started
+[06/02/2021 16:49]  System: You begin applying the bandages.
+[06/02/2021 16:49]  Razor: Attack: a headless
+[06/02/2021 16:49]  a headless: -73
+[06/02/2021 16:49]  Razor: Bandage: 1s
+[06/02/2021 16:49]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h). [2]
+[06/02/2021 16:49]  Razor: Bandage: 2s
+[06/02/2021 16:49]  Razor: Attack: a headless
+[06/02/2021 16:49]  System: You have gained a little fame.
+[06/02/2021 16:49]  System: You have gained a little karma.
+[06/02/2021 16:49]  System: -52
+[06/02/2021 16:49]  You see: a headless corpse
+[06/02/2021 16:49]  Razor: Bandage: 3s
+[06/02/2021 16:49]  Duluth Trading: -7
+[06/02/2021 16:49]  System: Your fingers slip!
+[06/02/2021 16:49]  a skeleton: -6
+[06/02/2021 16:49]  Razor: Bandage: 4s
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  Razor: Bandage: 5s
+[06/02/2021 16:49]  Razor: Attack: a skeleton
+[06/02/2021 16:49]  System: -6
+[06/02/2021 16:49]  You see: a skeletal corpse
+[06/02/2021 16:49]  Razor: Bandage: 6s
+[06/02/2021 16:49]  System: You have gained a little karma.
+[06/02/2021 16:49]  System: You have gained a little fame.
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  Razor: Bandage: 7s
+[06/02/2021 16:49]  Razor: Bandage: 8s
+[06/02/2021 16:49]  You see: a colossal frog
+[06/02/2021 16:49]  Razor: Bandage: 9s
+[06/02/2021 16:49]  System: What corpse or location do you wish to carve?
+[06/02/2021 16:49]  Razor: Bandage: 10s
+[06/02/2021 16:49]  System: You finish applying the bandages.
+[06/02/2021 16:49]  Duluth Trading: +9
+[06/02/2021 16:49]  System: You carve materials from the corpse.
+[06/02/2021 16:49]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h).
+[06/02/2021 16:49]  System: You may not loot this corpse.
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  Razor: [-Forensic Eval Bonus (s)]
+[06/02/2021 16:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  System: [GridLoot]: Corpse is empty!
+[06/02/2021 16:49]  System: You carve materials from the corpse. [2]
+[06/02/2021 16:49]  You see: an orc
+[06/02/2021 16:49]  You see: a giant frog
+[06/02/2021 16:49]  System: Opening door...
+[06/02/2021 16:49]  You see: an orc
+[06/02/2021 16:49]  You see: a giant rat
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a mongbat corpse
+[06/02/2021 16:49]  You see: a harpy
+[06/02/2021 16:49]  You see: BackStabson (Young)
+[06/02/2021 16:49]  You see: a skeletal corpse
+[06/02/2021 16:49]  You see: a giant rat corpse
+[06/02/2021 16:49]  You see: a skeletal corpse
+[06/02/2021 16:49]  You see: a giant rat corpse
+[06/02/2021 16:49]  You see: a giant rat corpse
+[06/02/2021 16:49]  System: Opening door...
+[06/02/2021 16:49]  System: You will receive +17.5% damage to creatures, +7.0% damage to players, and +7.0 to barding skills (expires in 3h). [2]
+[06/02/2021 16:49]  You see: a rotting corpse
+[06/02/2021 16:49]  You see: a rotting corpse
+[06/02/2021 16:49]  a desert ostard: (bonded)
+[06/02/2021 16:49]  You see: a desert ostard
+[06/02/2021 16:49]  You see: Voidence
+[06/02/2021 16:49]  Glavos the Guard: [Knight Guard, Sir.]
+[06/02/2021 16:49]  You see: Glavos the Guard
+[06/02/2021 16:49]  You see: PoeticRuin (Young)
+[06/02/2021 16:49]  You see: Johnny WoodWood (Young)
+[06/02/2021 16:49]  You see: a giant rat
+[06/02/2021 16:50]  System: That is too far away.
+[06/02/2021 16:50]  System: You must wait to perform another action.
+[06/02/2021 16:50]  You see: a mongbat corpse
+[06/02/2021 16:50]  System: You are now under the protection of the town guards.
+[06/02/2021 16:50]  You see: an eagle
+[06/02/2021 16:50]  You see: a great hart
+[06/02/2021 16:50]  You see: a hind
+[06/02/2021 16:50]  You see: Dwight the guard
+[06/02/2021 16:50]  You see: ac (Young)
+[06/02/2021 16:50]  Uncle Creepy: Master of Aspects
+[06/02/2021 16:50]  Uncle Creepy: [LUNK]
+[06/02/2021 16:50]  You see: Lord Uncle Creepy
+[06/02/2021 16:50]  Duluth Trading: Your mount returns.
+[06/02/2021 16:50]  The Silver Fox: [Recruit, rekt]
+[06/02/2021 16:50]  You see: The Silver Fox
+[06/02/2021 16:50]  System: (tame)
+[06/02/2021 16:50]  You see: a horse
+[06/02/2021 16:50]  Viktor Noskov: [Beard Brother, BB]
+[06/02/2021 16:50]  You see: Viktor Noskov
+[06/02/2021 16:50]  You see: Marti the healer
+[06/02/2021 16:50]  You see: Tadi the thief
+[06/02/2021 16:50]  You see: Dusty the cook
+[06/02/2021 16:50]  You see: Greater Scott (Young)
+[06/02/2021 16:50]  You see: Jayne the innkeeper
+[06/02/2021 16:50]  a horse: (tame)
+[06/02/2021 16:50]  You see: a horse
+[06/02/2021 16:50]  You see: Mortto (Young)
+[06/02/2021 16:50]  You see: Carlton the stablemaster
+[06/02/2021 16:50]  Mortto: *focuses aggression*
+[06/02/2021 16:50]  Horatio Nelson: [Synsei, Syn]
+[06/02/2021 16:50]  You see: Horatio Nelson
+[06/02/2021 16:50]  You see: Sherwin the mage
+[06/02/2021 16:50]  You see: Zara the scribe
+[06/02/2021 16:50]  You see: Woody the alchemist
+[06/02/2021 16:50]  You see: Kenelm the tavern keeper
+[06/02/2021 16:50]  You see: Rosaline the waiter
+[06/02/2021 16:50]  You see: Jordan the beggar
+[06/02/2021 16:50]  You see: Chico Temido (Young)
+[06/02/2021 16:50]  You see: scob
+[06/02/2021 16:50]  You see: Bly the fisherman
+[06/02/2021 16:50]  You see: Tai the fisherman
+[06/02/2021 16:50]  You see: Lene the salvage foreman
+[06/02/2021 16:50]  You see: Jayne the innkeeper
+[06/02/2021 16:50]  a hind: *released*
+[06/02/2021 16:50]  You see: a hind
+[06/02/2021 16:50]  You see: Wijdan the mapmaker
+[06/02/2021 16:50]  You see: Colon the Town Crier
+[06/02/2021 16:50]  You see: Meg the bowyer
+[06/02/2021 16:50]  You see: Alicia the tavern keeper
+[06/02/2021 16:50]  You see: Amadis the armorer
+[06/02/2021 16:50]  You see: Deckard Cainn (Young)
+[06/02/2021 16:50]  You see: Chane the carpenter
+[06/02/2021 16:50]  You see: Jake the barkeep
+[06/02/2021 16:50]  You see: Len the banker
+[06/02/2021 16:50]  You see: Ayisha the weaponsmith
+[06/02/2021 16:50]  You see: a sheep
+[06/02/2021 16:50]  You see: a sheep
+[06/02/2021 16:50]  System: Playing Macro 'say'...
+[06/02/2021 16:50]  System: Macro 'say' finished.
+[06/02/2021 16:50]  Duluth Trading: bank guards
+[06/02/2021 16:50]  Duluth Trading: Items: 81/125
+[06/02/2021 16:50]  Duluth Trading: Total Weight: 2,157
+[06/02/2021 16:50]  You see: Chane the carpenter
+[06/02/2021 16:50]  You see: leather : 773
+[06/02/2021 16:50]  You see: shadowhide : 1456
+[06/02/2021 16:50]  System: Warning: Spider's Silk amount is now 2!
+[06/02/2021 16:51]  System: Warning: Garlic amount is now 2!
+[06/02/2021 16:51]  You see: DustinTwoM
+[06/02/2021 16:51]  Sindran: [Warmonger, EVIL]
+[06/02/2021 16:51]  You see: Sindran
+[06/02/2021 16:51]  System: Warning: Ginseng amount is now 0!
+[06/02/2021 16:51]  Fredy: (bonded)
+[06/02/2021 16:51]  You see: Fredy
+[06/02/2021 16:51]  a wisp: (tame)
+[06/02/2021 16:51]  You see: a wisp
+[06/02/2021 16:51]  You see: Chane the carpenter
+[06/02/2021 16:51]  You see: reactive armor scroll
+[06/02/2021 16:51]  You see: protection scroll
+[06/02/2021 16:51]  You see: Chane the carpenter
+[06/02/2021 16:51]  You see: weaken scroll
+[06/02/2021 16:51]  You see: create food scroll
+[06/02/2021 16:51]  You see: feeblemind scroll
+[06/02/2021 16:51]  You see: Chane the carpenter
+[06/02/2021 16:51]  You see: a sheep
+[06/02/2021 16:51]  Horatio Nelson: [Synsei, Syn]
+[06/02/2021 16:51]  You see: Horatio Nelson
+[06/02/2021 16:51]  You see: Dusty the cook
+[06/02/2021 16:51]  You see: Tadi the thief
+[06/02/2021 16:51]  You see: Carlton the stablemaster
+[06/02/2021 16:51]  You see: Jayne the innkeeper
+[06/02/2021 16:51]  a horse: (tame)
+[06/02/2021 16:51]  You see: a horse
+[06/02/2021 16:51]  You see: Mortto (Young)
+[06/02/2021 16:52]  Mortto: *focuses aggression*
+[06/02/2021 16:52]  System: Opening door...
+[06/02/2021 16:52]  Mortto: *focuses aggression*
+[06/02/2021 16:52]  Mortto: *focuses aggression*

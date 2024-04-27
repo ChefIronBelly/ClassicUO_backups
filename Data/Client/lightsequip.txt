@@ -1,0 +1,19 @@
+# Defines a list of equipable itemID's that represent 
+# light sources such as torches and candles.
+# This list is used to signal to the client that the 
+# light source should animate while equipped.
+
+# Lanterns
+2594
+2597
+
+# Torches
+2578
+3947
+30580
+
+# Candles
+2575
+2600
+22432
+22433

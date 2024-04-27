@@ -1,0 +1,1965 @@
+[12/22/2021 09:10]  System: WorldMap loading...
+[12/22/2021 09:10]  System: Loading WorldMap markers..
+[12/22/2021 09:10]  System: ..Banks_and_Healers.xml (20)
+[12/22/2021 09:10]  System: ..Dungeons.xml (12)
+[12/22/2021 09:10]  System: ..Dungeon_Gates.xml (335)
+[12/22/2021 09:10]  System: ..Healer_Caravans.xml (32)
+[12/22/2021 09:10]  System: ..Moongates.xml (9)
+[12/22/2021 09:10]  System: ..POI.xml (176)
+[12/22/2021 09:10]  System: ..Shrines.xml (9)
+[12/22/2021 09:10]  System: ..Subterranean.xml (6)
+[12/22/2021 09:10]  System: ..Townships.xml (9)
+[12/22/2021 09:10]  System: WorldMap markers loaded (608)
+[12/22/2021 09:10]  System: Welcome Stink Fist!
+[12/22/2021 09:10]  System: You have rejoined the party.
+[12/22/2021 09:10]  Stink Fist: Stink Fist
+[12/22/2021 09:10]  Wulf of Wyrd: Wulf of Wyrd
+[12/22/2021 09:10]  a wolf: a wolf
+[12/22/2021 09:10]  Razor: [- (s)]
+[12/22/2021 09:10]  Razor: [+Forensic Eval Bonus (9353s)]
+[12/22/2021 09:10]  Razor: [- (s)]
+[12/22/2021 09:10]  Razor: [+Reactive Armor (0s)]
+[12/22/2021 09:10]  Razor: [- (s)]
+[12/22/2021 09:10]  Razor: [+Food Satisfaction (1435s)]
+[12/22/2021 09:10]  System: WorldMap loaded!
+[12/22/2021 09:10]  Wulf of Wyrd: Rel Sanct [Bless]
+[12/22/2021 09:10]  System: Your strength has changed by 10.  It is now 110
+[12/22/2021 09:10]  System: Your dexterity has changed by 10.  It is now 110
+[12/22/2021 09:10]  System: Your intelligence has changed by 10.  It is now 35
+[12/22/2021 09:10]  Razor: [+Strength (600s)]
+[12/22/2021 09:10]  Razor: Str: +10 - 110
+[12/22/2021 09:10]  Razor: [-Strength (s)]
+[12/22/2021 09:10]  Razor: [+Strength (600s)]
+[12/22/2021 09:10]  Razor: [+Agility (600s)]
+[12/22/2021 09:10]  Razor: Dex: +10 - 110
+[12/22/2021 09:10]  Razor: [-Agility (s)]
+[12/22/2021 09:10]  Razor: [+Agility (600s)]
+[12/22/2021 09:10]  Razor: [+Cunning (600s)]
+[12/22/2021 09:10]  Razor: Int: +10 - 35
+[12/22/2021 09:10]  Razor: [-Cunning (s)]
+[12/22/2021 09:10]  Razor: [+Cunning (600s)]
+[12/22/2021 09:10]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[12/22/2021 09:10]  Razor: [+Protection (600s)]
+[12/22/2021 09:10]  System: Ape in Space has completed the achievement: Nobility (Basic).
+[12/22/2021 09:10]  System: You pour some of the keg's contents into an empty bottle...
+[12/22/2021 09:10]  System: ...and place it into your backpack.
+[12/22/2021 09:10]  System: ...and place it into your backpack.
+[12/22/2021 09:10]  System: You pour some of the keg's contents into an empty bottle...
+[12/22/2021 09:10]  Stink Fist: Kal Ort Por [Recall]
+[12/22/2021 09:11]  a silverback: a silverback
+[12/22/2021 09:11]  System: Playing Macro 'Healing'...
+[12/22/2021 09:11]  System: Firetv has completed the achievement: Domestication (Advanced).
+[12/22/2021 09:11]  a crow: a crow
+[12/22/2021 09:11]  Razor: Attack: a silverback
+[12/22/2021 09:11]  System: Your reactive armor spell has expired.
+[12/22/2021 09:11]  Stink Fist: -8
+[12/22/2021 09:11]  System: You fail to disarm your opponent.
+[12/22/2021 09:11]  System: You fail to hamstring your opponent.
+[12/22/2021 09:11]  Razor: [-Reactive Armor (s)]
+[12/22/2021 09:11]  System: Who will you use the bandages on?
+[12/22/2021 09:11]  Razor: Healing Started
+[12/22/2021 09:11]  System: You begin applying the bandages.
+[12/22/2021 09:11]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:11]  Razor: Bandage: 1s
+[12/22/2021 09:11]  a silverback: -54
+[12/22/2021 09:11]  Razor: Bandage: 2s
+[12/22/2021 09:11]  a silverback: -54
+[12/22/2021 09:11]  Razor: Bandage: 3s
+[12/22/2021 09:11]  Razor: Bandage: 4s
+[12/22/2021 09:11]  a silverback: -57
+[12/22/2021 09:11]  Razor: Bandage: 5s
+[12/22/2021 09:11]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:11]  a silverback: -26
+[12/22/2021 09:11]  Razor: Bandage: 6s
+[12/22/2021 09:11]  Stink Fist: -8
+[12/22/2021 09:11]  a silverback: -33
+[12/22/2021 09:11]  Razor: Bandage: 7s
+[12/22/2021 09:11]  Razor: Bandage: 8s
+[12/22/2021 09:11]  System: Your skill in Forensic Evaluation has decreased by 0.1.  It is now 1.4.
+[12/22/2021 09:11]  System: Your skill in Anatomy has increased by 0.1.  It is now 83.6.
+[12/22/2021 09:11]  a silverback: -73
+[12/22/2021 09:11]  Razor: [Forensics] -0.1 1.4 (-0.1)
+[12/22/2021 09:11]  Razor: [Anatomy] +0.1 83.6 (+0.1)
+[12/22/2021 09:11]  Razor: Bandage: 9s
+[12/22/2021 09:11]  Stink Fist: -4
+[12/22/2021 09:11]  System: Your fingers slip!
+[12/22/2021 09:11]  System: You finish applying the bandages.
+[12/22/2021 09:11]  Stink Fist: +18
+[12/22/2021 09:11]  Razor: Bandage: 10s
+[12/22/2021 09:11]  System: You have gained a little fame.
+[12/22/2021 09:11]  System: You have gained a little karma.
+[12/22/2021 09:11]  Stink Fist: (Earth Aspect 1,494.5/2000 xp)
+[12/22/2021 09:11]  System: -15
+[12/22/2021 09:11]  You see: a silverback corpse
+[12/22/2021 09:11]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:11]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:11]  Razor: Target: Stink Fist
+[12/22/2021 09:11]  System: Captcha successful.
+[12/22/2021 09:11]  System: You carve materials from the corpse.
+[12/22/2021 09:11]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:11]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:11]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:11]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:11]  Nitramus: Guardian of Nusero
+[12/22/2021 09:11]  Nitramus: [Veteran, DHK]
+[12/22/2021 09:11]  Nitramus: Lord Nitramus
+[12/22/2021 09:11]  a giant frog: a giant frog
+[12/22/2021 09:11]  a magpie: a magpie
+[12/22/2021 09:11]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:11]  a raven: a raven
+[12/22/2021 09:11]  a giant spider: a giant spider
+[12/22/2021 09:11]  an anaconda: an anaconda
+[12/22/2021 09:11]  a primordial: a primordial
+[12/22/2021 09:11]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:11]  Razor: Attack: an anaconda
+[12/22/2021 09:11]  System: Your strike disarms your target!
+[12/22/2021 09:11]  System: Your attack hamstrings your target!
+[12/22/2021 09:11]  an anaconda: -32
+[12/22/2021 09:11]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:11]  an anaconda: -41
+[12/22/2021 09:11]  an anaconda: -8
+[12/22/2021 09:11]  an anaconda: -8
+[12/22/2021 09:11]  Stink Fist: -13
+[12/22/2021 09:11]  an anaconda: -64
+[12/22/2021 09:11]  System: Who will you use the bandages on?
+[12/22/2021 09:11]  Razor: Healing Started
+[12/22/2021 09:11]  System: You begin applying the bandages.
+[12/22/2021 09:11]  Razor: Bandage: 1s
+[12/22/2021 09:11]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:11]  an anaconda: -148
+[12/22/2021 09:11]  Razor: Bandage: 2s
+[12/22/2021 09:11]  an anaconda: -74
+[12/22/2021 09:11]  an anaconda: -8
+[12/22/2021 09:11]  Razor: Bandage: 3s
+[12/22/2021 09:11]  Razor: Bandage: 4s
+[12/22/2021 09:11]  an anaconda: -50
+[12/22/2021 09:11]  Razor: Bandage: 5s
+[12/22/2021 09:11]  an anaconda: -26
+[12/22/2021 09:11]  an anaconda: -6
+[12/22/2021 09:11]  Razor: Bandage: 6s
+[12/22/2021 09:11]  Stink Fist: -10
+[12/22/2021 09:11]  System: Your fingers slip!
+[12/22/2021 09:11]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[12/22/2021 09:11]  Razor: [+Deadly Poison (60s)]
+[12/22/2021 09:11]  Razor: Bandage: 7s
+[12/22/2021 09:11]  an anaconda: -76
+[12/22/2021 09:11]  System: You feel cured of poison!
+[12/22/2021 09:11]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[12/22/2021 09:11]  Razor: [-Deadly Poison (s)]
+[12/22/2021 09:12]  Razor: Bandage: 8s
+[12/22/2021 09:12]  an anaconda: -53
+[12/22/2021 09:12]  an anaconda: -6
+[12/22/2021 09:12]  Razor: Bandage: 9s
+[12/22/2021 09:12]  System: You have gained some fame.
+[12/22/2021 09:12]  System: You have gained some karma.
+[12/22/2021 09:12]  Stink Fist: (Earth Aspect 1,496.1/2000 xp)
+[12/22/2021 09:12]  System: -25
+[12/22/2021 09:12]  Razor: Bandage: 10s
+[12/22/2021 09:12]  You see: an anaconda corpse
+[12/22/2021 09:12]  System: You finish applying the bandages.
+[12/22/2021 09:12]  Stink Fist: +21
+[12/22/2021 09:12]  Razor: Attack: a primordial
+[12/22/2021 09:12]  a primordial: -62
+[12/22/2021 09:12]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:12]  System: Your attack cripples your target, lowering their defense!
+[12/22/2021 09:12]  a primordial: -27
+[12/22/2021 09:12]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:12]  System: You carve materials from the corpse.
+[12/22/2021 09:12]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:12]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:12]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:12]  a primordial: -55
+[12/22/2021 09:12]  Stink Fist: -6
+[12/22/2021 09:12]  System: Who will you use the bandages on?
+[12/22/2021 09:12]  Razor: Healing Started
+[12/22/2021 09:12]  System: You begin applying the bandages.
+[12/22/2021 09:12]  Razor: Bandage: 1s
+[12/22/2021 09:12]  a primordial: -26
+[12/22/2021 09:12]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:12]  Razor: Bandage: 2s
+[12/22/2021 09:12]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:12]  Razor: Bandage: 3s
+[12/22/2021 09:12]  Razor: Attack: a primordial
+[12/22/2021 09:12]  Razor: Bandage: 4s
+[12/22/2021 09:12]  System: Your attack hinders your target!
+[12/22/2021 09:12]  a primordial: -55
+[12/22/2021 09:12]  Razor: Bandage: 5s
+[12/22/2021 09:12]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:12]  Razor: [HAM ON]
+[12/22/2021 09:12]  System: You fail to hamstring your opponent.
+[12/22/2021 09:12]  Razor: Bandage: 6s
+[12/22/2021 09:12]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:12]  Razor: Bandage: 7s
+[12/22/2021 09:12]  System: You have gained a little fame.
+[12/22/2021 09:12]  System: You have gained a little karma.
+[12/22/2021 09:12]  Stink Fist: (Earth Aspect 1,496.6/2000 xp)
+[12/22/2021 09:12]  System: -25
+[12/22/2021 09:12]  You see: a primordial corpse
+[12/22/2021 09:12]  System: You carve materials from the corpse.
+[12/22/2021 09:12]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:12]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:12]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:12]  Razor: Bandage: 8s
+[12/22/2021 09:12]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:12]  Razor: [DISARM]
+[12/22/2021 09:12]  Razor: Bandage: 9s
+[12/22/2021 09:12]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:12]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:12]  Razor: Bandage: 10s
+[12/22/2021 09:12]  System: You finish applying the bandages.
+[12/22/2021 09:12]  Stink Fist: +4
+[12/22/2021 09:12]  a giant spider: a giant spider
+[12/22/2021 09:12]  a giant spider: a giant spider
+[12/22/2021 09:12]  a raven: a raven
+[12/22/2021 09:12]  an anaconda: an anaconda
+[12/22/2021 09:12]  a moss giant: a moss giant
+[12/22/2021 09:12]  a lizardman: a lizardman
+[12/22/2021 09:12]  Razor: Attack: a giant spider
+[12/22/2021 09:12]  Stink Fist: -1
+[12/22/2021 09:12]  Stink Fist: * You begin to feel pain throughout your body! *
+[12/22/2021 09:12]  System: You fail to disarm your opponent.
+[12/22/2021 09:12]  Razor: [+Greater Poison (70s)]
+[12/22/2021 09:12]  System: You feel cured of poison!
+[12/22/2021 09:12]  Razor: [-Greater Poison (s)]
+[12/22/2021 09:12]  System: Who will you use the bandages on?
+[12/22/2021 09:12]  Razor: Healing Started
+[12/22/2021 09:12]  System: You begin applying the bandages.
+[12/22/2021 09:12]  System: Finished 2 queued actions in 0.6 seconds.
+[12/22/2021 09:12]  System: Your attack hamstrings your target!
+[12/22/2021 09:12]  a giant spider: -44
+[12/22/2021 09:12]  Razor: Bandage: 1s
+[12/22/2021 09:12]  Razor: Bandage: 2s
+[12/22/2021 09:12]  a giant spider: -53
+[12/22/2021 09:12]  Razor: Bandage: 3s
+[12/22/2021 09:12]  Razor: Bandage: 4s
+[12/22/2021 09:12]  a giant spider: -42
+[12/22/2021 09:12]  Razor: Bandage: 5s
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  Razor: Bandage: 6s
+[12/22/2021 09:12]  Stink Fist: -3
+[12/22/2021 09:12]  Stink Fist: * You begin to feel pain throughout your body! *
+[12/22/2021 09:12]  Razor: [+Greater Poison (70s)]
+[12/22/2021 09:12]  System: You feel cured of poison!
+[12/22/2021 09:12]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[12/22/2021 09:12]  Razor: [-Greater Poison (s)]
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  an anaconda: -32
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  Razor: Bandage: 7s
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  System: Your attack cripples your target, lowering their defense!
+[12/22/2021 09:12]  an anaconda: -90
+[12/22/2021 09:12]  Razor: Bandage: 8s
+[12/22/2021 09:12]  Razor: Bandage: 9s
+[12/22/2021 09:12]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:12]  an anaconda: -222
+[12/22/2021 09:12]  Stink Fist: -3
+[12/22/2021 09:12]  System: Your fingers slip!
+[12/22/2021 09:12]  Stink Fist: * You begin to feel pain throughout your body! *
+[12/22/2021 09:12]  Razor: [+Greater Poison (70s)]
+[12/22/2021 09:12]  Razor: Bandage: 10s
+[12/22/2021 09:12]  System: You finish applying the bandages.
+[12/22/2021 09:12]  System: You have cured yourself of all poisons.
+[12/22/2021 09:12]  Stink Fist: +6
+[12/22/2021 09:12]  Razor: [-Greater Poison (s)]
+[12/22/2021 09:12]  Razor: Attack: an anaconda
+[12/22/2021 09:12]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:12]  an anaconda: -44
+[12/22/2021 09:12]  System: Your strike disarms your target!
+[12/22/2021 09:12]  an anaconda: -40
+[12/22/2021 09:12]  an anaconda: -101
+[12/22/2021 09:12]  an anaconda: -70
+[12/22/2021 09:12]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:12]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:12]  Stink Fist: -8
+[12/22/2021 09:12]  System: Who will you use the bandages on?
+[12/22/2021 09:12]  Razor: Healing Started
+[12/22/2021 09:12]  System: You begin applying the bandages.
+[12/22/2021 09:12]  System: You have gained some fame.
+[12/22/2021 09:12]  System: You have gained some karma.
+[12/22/2021 09:12]  Stink Fist: (Earth Aspect 1,498.5/2000 xp)
+[12/22/2021 09:12]  System: -26
+[12/22/2021 09:12]  You see: an anaconda corpse
+[12/22/2021 09:12]  Razor: Bandage: 1s
+[12/22/2021 09:12]  Razor: Bandage: 2s
+[12/22/2021 09:12]  Razor: Bandage: 3s
+[12/22/2021 09:12]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:12]  Razor: Attack: a giant spider
+[12/22/2021 09:12]  a giant spider: -53
+[12/22/2021 09:12]  Razor: Bandage: 4s
+[12/22/2021 09:12]  Razor: Bandage: 5s
+[12/22/2021 09:12]  a giant spider: -51
+[12/22/2021 09:12]  Razor: Bandage: 6s
+[12/22/2021 09:12]  System: You have gained a little fame.
+[12/22/2021 09:12]  System: You have gained a little karma.
+[12/22/2021 09:12]  Stink Fist: (Earth Aspect 1,498.9/2000 xp)
+[12/22/2021 09:12]  System: -69
+[12/22/2021 09:12]  You see: a giant spider corpse
+[12/22/2021 09:12]  Razor: Bandage: 7s
+[12/22/2021 09:12]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:12]  Razor: Bandage: 8s
+[12/22/2021 09:12]  System: You carve materials from the corpse.
+[12/22/2021 09:12]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:12]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:12]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:12]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:12]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:12]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:12]  Razor: [HAM ON]
+[12/22/2021 09:12]  Razor: Bandage: 9s
+[12/22/2021 09:12]  System: You finish applying the bandages.
+[12/22/2021 09:12]  Stink Fist: +6
+[12/22/2021 09:12]  Razor: Bandage: 10s
+[12/22/2021 09:12]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:12]  System: You carve materials from the corpse.
+[12/22/2021 09:13]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:13]  a moss giant: a moss giant
+[12/22/2021 09:13]  a lizardman: a lizardman
+[12/22/2021 09:13]  a lizardman: a lizardman
+[12/22/2021 09:13]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:13]  a silverback: a silverback
+[12/22/2021 09:13]  a towhee: a towhee
+[12/22/2021 09:13]  Razor: Attack: a moss giant
+[12/22/2021 09:13]  System: Your attack hamstrings your target!
+[12/22/2021 09:13]  a moss giant: -64
+[12/22/2021 09:13]  a towhee: a towhee
+[12/22/2021 09:13]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:13]  You see: a giant spider corpse
+[12/22/2021 09:13]  You see: an anaconda corpse
+[12/22/2021 09:13]  You see: an anaconda corpse
+[12/22/2021 09:13]  You see: a primordial corpse
+[12/22/2021 09:13]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:13]  Razor: [DISARM]
+[12/22/2021 09:13]  Razor: Attack: a lizardman
+[12/22/2021 09:13]  [Guild][Brits]: crap
+[12/22/2021 09:13]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:13]  Stink Fist: -5
+[12/22/2021 09:13]  System: Your strike disarms your target!
+[12/22/2021 09:13]  a lizardman: -31
+[12/22/2021 09:13]  System: Who will you use the bandages on?
+[12/22/2021 09:13]  Razor: Healing Started
+[12/22/2021 09:13]  System: You begin applying the bandages.
+[12/22/2021 09:13]  Razor: Bandage: 1s
+[12/22/2021 09:13]  [Guild][Brits]: i didnt think
+[12/22/2021 09:13]  a lizardman: Sthales shi.
+[12/22/2021 09:13]  a lizardman: Ouch! Me hurt!
+[12/22/2021 09:13]  a lizardman: -45
+[12/22/2021 09:13]  Razor: Bandage: 2s
+[12/22/2021 09:13]  [Guild][w.o.o.o.o.o.o.o.]: gtg boys
+[12/22/2021 09:13]  Razor: Bandage: 3s
+[12/22/2021 09:13]  a lizardman: -46
+[12/22/2021 09:13]  Razor: Bandage: 4s
+[12/22/2021 09:13]  System: Burninator has completed the achievement: Connoisseur (Basic).
+[12/22/2021 09:13]  a lizardman: -41
+[12/22/2021 09:13]  Razor: Bandage: 5s
+[12/22/2021 09:13]  Razor: Bandage: 6s
+[12/22/2021 09:13]  System: Your attack cripples your target, lowering their defense!
+[12/22/2021 09:13]  a lizardman: -55
+[12/22/2021 09:13]  Razor: Bandage: 7s
+[12/22/2021 09:13]  a lizardman: -46
+[12/22/2021 09:13]  Razor: Bandage: 8s
+[12/22/2021 09:13]  Razor: Bandage: 9s
+[12/22/2021 09:13]  a lizardman: Shyratha lylsth!
+[12/22/2021 09:13]  a lizardman: Oof! That hurt!
+[12/22/2021 09:13]  a lizardman: -45
+[12/22/2021 09:13]  Razor: Bandage: 10s
+[12/22/2021 09:13]  System: You finish applying the bandages.
+[12/22/2021 09:13]  Stink Fist: +3
+[12/22/2021 09:13]  System: You have gained a little fame.
+[12/22/2021 09:13]  System: You have gained a little karma.
+[12/22/2021 09:13]  Stink Fist: (Earth Aspect 1,499.3/2000 xp)
+[12/22/2021 09:13]  System: -3
+[12/22/2021 09:13]  You see: a lizardman corpse
+[12/22/2021 09:13]  System: You have been knocked off your feet!
+[12/22/2021 09:13]  Stink Fist: -18
+[12/22/2021 09:13]  System: Who will you use the bandages on?
+[12/22/2021 09:13]  Razor: Healing Started
+[12/22/2021 09:13]  System: You begin applying the bandages.
+[12/22/2021 09:13]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:13]  System: You must wait to perform another action.
+[12/22/2021 09:13]  Razor: [+Paralyze (2s)]
+[12/22/2021 09:13]  Razor: Bandage: 1s
+[12/22/2021 09:13]  Razor: Attack: a moss giant
+[12/22/2021 09:13]  a moss giant: -32
+[12/22/2021 09:13]  [Guild][Bunnz]: not a bad haul for no bonuses in nusero
+[12/22/2021 09:13]  Razor: [-Paralyze (s)]
+[12/22/2021 09:13]  Razor: Bandage: 2s
+[12/22/2021 09:13]  a moss giant: -28
+[12/22/2021 09:13]  Razor: Attack: a moss giant
+[12/22/2021 09:13]  Razor: Bandage: 3s
+[12/22/2021 09:13]  Razor: Bandage: 4s
+[12/22/2021 09:13]  Stink Fist: -4
+[12/22/2021 09:13]  System: Your fingers slip!
+[12/22/2021 09:13]  Razor: Bandage: 5s
+[12/22/2021 09:13]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:13]  a moss giant: -32
+[12/22/2021 09:13]  [Guild][Brits]: yeh
+[12/22/2021 09:13]  System: You carve materials from the corpse.
+[12/22/2021 09:13]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:13]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:13]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:13]  Razor: Bandage: 6s
+[12/22/2021 09:13]  Razor: Bandage: 7s
+[12/22/2021 09:13]  a moss giant: -19
+[12/22/2021 09:13]  Razor: Bandage: 8s
+[12/22/2021 09:13]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:13]  Stink Fist: -4
+[12/22/2021 09:13]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:13]  Razor: [HAM ON]
+[12/22/2021 09:13]  System: You fail to hamstring your opponent.
+[12/22/2021 09:13]  Razor: Bandage: 9s
+[12/22/2021 09:13]  Razor: Bandage: 10s
+[12/22/2021 09:13]  System: You finish applying the bandages.
+[12/22/2021 09:13]  Stink Fist: +24
+[12/22/2021 09:13]  a moss giant: -30
+[12/22/2021 09:13]  System: Being perfectly rested, you shove them out of the way.
+[12/22/2021 09:13]  Stink Fist: -20
+[12/22/2021 09:13]  System: Who will you use the bandages on?
+[12/22/2021 09:13]  Razor: Healing Started
+[12/22/2021 09:13]  System: You begin applying the bandages.
+[12/22/2021 09:13]  a moss giant: -22
+[12/22/2021 09:13]  Razor: Bandage: 1s
+[12/22/2021 09:13]  a moss giant: -54
+[12/22/2021 09:13]  Razor: Bandage: 2s
+[12/22/2021 09:13]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:13]  Razor: Bandage: 3s
+[12/22/2021 09:13]  a moss giant: -16
+[12/22/2021 09:13]  Razor: Bandage: 4s
+[12/22/2021 09:13]  System: You have been knocked off your feet!
+[12/22/2021 09:13]  Stink Fist: -20
+[12/22/2021 09:13]  Razor: [+Paralyze (2s)]
+[12/22/2021 09:13]  Razor: Bandage: 5s
+[12/22/2021 09:13]  Razor: [-Paralyze (s)]
+[12/22/2021 09:13]  Razor: Bandage: 6s
+[12/22/2021 09:13]  System: Your strike disarms your target!
+[12/22/2021 09:13]  a moss giant: -34
+[12/22/2021 09:13]  Razor: Bandage: 7s
+[12/22/2021 09:13]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:13]  Razor: [DISARM]
+[12/22/2021 09:13]  a moss giant: -51
+[12/22/2021 09:13]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:13]  Razor: Bandage: 8s
+[12/22/2021 09:13]  Razor: Bandage: 9s
+[12/22/2021 09:13]  a moss giant: -135
+[12/22/2021 09:13]  Stink Fist: -17
+[12/22/2021 09:13]  Razor: Bandage: 10s
+[12/22/2021 09:13]  System: You finish applying the bandages.
+[12/22/2021 09:13]  Stink Fist: +43
+[12/22/2021 09:13]  [Guild][Brits]: i forgot this bs scroll in the distro
+[12/22/2021 09:13]  System: Who will you use the bandages on?
+[12/22/2021 09:13]  Razor: Healing Started
+[12/22/2021 09:13]  System: You begin applying the bandages.
+[12/22/2021 09:13]  a moss giant: -38
+[12/22/2021 09:13]  Razor: Bandage: 1s
+[12/22/2021 09:13]  System: Your attack hamstrings your target!
+[12/22/2021 09:13]  a moss giant: -74
+[12/22/2021 09:13]  Razor: Bandage: 2s
+[12/22/2021 09:13]  a moss giant: -32
+[12/22/2021 09:13]  Razor: Bandage: 3s
+[12/22/2021 09:13]  Razor: Bandage: 4s
+[12/22/2021 09:13]  a moss giant: -36
+[12/22/2021 09:13]  Razor: Bandage: 5s
+[12/22/2021 09:13]  Razor: Bandage: 6s
+[12/22/2021 09:13]  Razor: Bandage: 7s
+[12/22/2021 09:13]  a moss giant: -40
+[12/22/2021 09:14]  Razor: Bandage: 8s
+[12/22/2021 09:14]  System: You have been knocked off your feet!
+[12/22/2021 09:14]  Stink Fist: -23
+[12/22/2021 09:14]  System: Your fingers slip!
+[12/22/2021 09:14]  Razor: [+Paralyze (2s)]
+[12/22/2021 09:14]  Razor: Bandage: 9s
+[12/22/2021 09:14]  Razor: [-Paralyze (s)]
+[12/22/2021 09:14]  Razor: Bandage: 10s
+[12/22/2021 09:14]  System: You finish applying the bandages.
+[12/22/2021 09:14]  Stink Fist: +32
+[12/22/2021 09:14]  a moss giant: -29
+[12/22/2021 09:14]  a towhee: a towhee
+[12/22/2021 09:14]  a lizardman: a lizardman
+[12/22/2021 09:14]  System: Your attack hinders your target!
+[12/22/2021 09:14]  a moss giant: -43
+[12/22/2021 09:14]  a magpie: a magpie
+[12/22/2021 09:14]  You see: a giant spider corpse
+[12/22/2021 09:14]  You see: an anaconda corpse
+[12/22/2021 09:14]  You see: an anaconda corpse
+[12/22/2021 09:14]  You see: a primordial corpse
+[12/22/2021 09:14]  a moss giant: -31
+[12/22/2021 09:14]  a moss giant: -54
+[12/22/2021 09:14]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:14]  You see: an anaconda corpse
+[12/22/2021 09:14]  You see: a primordial corpse
+[12/22/2021 09:14]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:14]  Razor: [DISARM]
+[12/22/2021 09:14]  System: Your skill in Forensic Evaluation has decreased by 0.1.  It is now 1.3.
+[12/22/2021 09:14]  System: Your skill in Anatomy has increased by 0.1.  It is now 83.7.
+[12/22/2021 09:14]  System: Your strike disarms your target!
+[12/22/2021 09:14]  System: Your attack hinders your target!
+[12/22/2021 09:14]  a moss giant: -62
+[12/22/2021 09:14]  Razor: [Forensics] -0.1 1.3 (-0.2)
+[12/22/2021 09:14]  Razor: [Anatomy] +0.1 83.7 (+0.2)
+[12/22/2021 09:14]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:14]  a moss giant: -34
+[12/22/2021 09:14]  System: That target may not be hamstrung for another 3 seconds.
+[12/22/2021 09:14]  a moss giant: -72
+[12/22/2021 09:14]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:14]  Razor: [HAM ON]
+[12/22/2021 09:14]  System: That target may not be hamstrung for another 2 seconds.
+[12/22/2021 09:14]  a moss giant: -25
+[12/22/2021 09:14]  Stink Fist: -11
+[12/22/2021 09:14]  System: Who will you use the bandages on?
+[12/22/2021 09:14]  Razor: Healing Started
+[12/22/2021 09:14]  System: You begin applying the bandages.
+[12/22/2021 09:14]  System: That target may not be hamstrung for another 1 second.
+[12/22/2021 09:14]  a moss giant: -32
+[12/22/2021 09:14]  Razor: Bandage: 1s
+[12/22/2021 09:14]  a magpie: a magpie
+[12/22/2021 09:14]  Razor: Bandage: 2s
+[12/22/2021 09:14]  System: Your attack hamstrings your target!
+[12/22/2021 09:14]  a moss giant: -64
+[12/22/2021 09:14]  Razor: Bandage: 3s
+[12/22/2021 09:14]  Stink Fist: -6
+[12/22/2021 09:14]  a moss giant: -35
+[12/22/2021 09:14]  Razor: Bandage: 4s
+[12/22/2021 09:14]  System: Your strength has changed by 10.  It is now 120
+[12/22/2021 09:14]  Razor: [-Strength (s)]
+[12/22/2021 09:14]  Razor: [+Strength (120s)]
+[12/22/2021 09:14]  Razor: [-Strength (s)]
+[12/22/2021 09:14]  Razor: Str: +10 - 120
+[12/22/2021 09:14]  Razor: [+Strength (120s)]
+[12/22/2021 09:14]  a moss giant: -27
+[12/22/2021 09:14]  Razor: Bandage: 5s
+[12/22/2021 09:14]  Razor: Bandage: 6s
+[12/22/2021 09:14]  a moss giant: -32
+[12/22/2021 09:14]  Stink Fist: -17
+[12/22/2021 09:14]  System: Your fingers slip!
+[12/22/2021 09:14]  Razor: Bandage: 7s
+[12/22/2021 09:14]  a moss giant: -21
+[12/22/2021 09:14]  Razor: Bandage: 8s
+[12/22/2021 09:14]  System: Your dexterity has changed by 10.  It is now 120
+[12/22/2021 09:14]  Razor: [-Agility (s)]
+[12/22/2021 09:14]  Razor: [+Agility (120s)]
+[12/22/2021 09:14]  Razor: [-Agility (s)]
+[12/22/2021 09:14]  Razor: Dex: +10 - 120
+[12/22/2021 09:14]  Razor: [+Agility (120s)]
+[12/22/2021 09:14]  System: You have been knocked off your feet!
+[12/22/2021 09:14]  Stink Fist: -17
+[12/22/2021 09:14]  Razor: [+Paralyze (1s)]
+[12/22/2021 09:14]  Razor: Bandage: 9s
+[12/22/2021 09:14]  a moss giant: -22
+[12/22/2021 09:14]  Razor: Bandage: 10s
+[12/22/2021 09:14]  Razor: [-Paralyze (s)]
+[12/22/2021 09:14]  System: Your fingers slip!
+[12/22/2021 09:14]  System: You finish applying the bandages.
+[12/22/2021 09:14]  Stink Fist: +48
+[12/22/2021 09:14]  System: Who will you use the bandages on?
+[12/22/2021 09:14]  Razor: Healing Started
+[12/22/2021 09:14]  System: You begin applying the bandages.
+[12/22/2021 09:14]  Razor: Bandage: 1s
+[12/22/2021 09:14]  Razor: Bandage: 2s
+[12/22/2021 09:14]  Stink Fist: -20
+[12/22/2021 09:14]  System: Your fingers slip!
+[12/22/2021 09:14]  a moss giant: -52
+[12/22/2021 09:14]  Razor: Bandage: 3s
+[12/22/2021 09:14]  a moss giant: -30
+[12/22/2021 09:14]  Razor: Bandage: 4s
+[12/22/2021 09:14]  Razor: Bandage: 5s
+[12/22/2021 09:14]  a moss giant: -31
+[12/22/2021 09:14]  Stink Fist: -13
+[12/22/2021 09:14]  Razor: Bandage: 6s
+[12/22/2021 09:14]  System: Your attack hinders your target!
+[12/22/2021 09:14]  a moss giant: -54
+[12/22/2021 09:14]  Razor: Bandage: 7s
+[12/22/2021 09:14]  Razor: Bandage: 8s
+[12/22/2021 09:14]  Razor: Bandage: 9s
+[12/22/2021 09:14]  a magpie: a magpie
+[12/22/2021 09:14]  a moss giant: -37
+[12/22/2021 09:14]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:14]  Razor: Bandage: 10s
+[12/22/2021 09:14]  System: You finish applying the bandages.
+[12/22/2021 09:14]  Stink Fist: +40
+[12/22/2021 09:14]  System: Who will you use the bandages on?
+[12/22/2021 09:14]  Razor: Healing Started
+[12/22/2021 09:14]  System: You begin applying the bandages.
+[12/22/2021 09:14]  Stink Fist: -4
+[12/22/2021 09:14]  System: Your fingers slip!
+[12/22/2021 09:14]  System: Your attack crushes their armor!
+[12/22/2021 09:14]  a moss giant: -48
+[12/22/2021 09:14]  Razor: Bandage: 1s
+[12/22/2021 09:14]  Razor: Bandage: 2s
+[12/22/2021 09:14]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:14]  Razor: [DISARM]
+[12/22/2021 09:14]  System: You have been knocked off your feet!
+[12/22/2021 09:14]  Stink Fist: -23
+[12/22/2021 09:14]  Razor: Bandage: 3s
+[12/22/2021 09:14]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:14]  Razor: [+Paralyze (1s)]
+[12/22/2021 09:14]  Razor: Bandage: 4s
+[12/22/2021 09:14]  Razor: [-Paralyze (s)]
+[12/22/2021 09:14]  System: Your strike disarms your target!
+[12/22/2021 09:14]  a moss giant: -239
+[12/22/2021 09:14]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:14]  Razor: Bandage: 5s
+[12/22/2021 09:14]  Razor: Bandage: 6s
+[12/22/2021 09:14]  System: That target may not be hamstrung for another 3 seconds.
+[12/22/2021 09:14]  a moss giant: -60
+[12/22/2021 09:14]  Razor: Bandage: 7s
+[12/22/2021 09:14]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:14]  Razor: [HAM ON]
+[12/22/2021 09:14]  System: That target may not be hamstrung for another 1 second.
+[12/22/2021 09:14]  a moss giant: -46
+[12/22/2021 09:14]  a moss giant: -60
+[12/22/2021 09:14]  Razor: Bandage: 8s
+[12/22/2021 09:14]  Razor: Bandage: 9s
+[12/22/2021 09:14]  System: Your attack hamstrings your target!
+[12/22/2021 09:14]  a moss giant: -64
+[12/22/2021 09:14]  System: You finish applying the bandages.
+[12/22/2021 09:14]  Stink Fist: +25
+[12/22/2021 09:14]  System: Your attack crushes their armor!
+[12/22/2021 09:14]  a moss giant: -84
+[12/22/2021 09:14]  a moss giant: -60
+[12/22/2021 09:14]  a moss giant: -60
+[12/22/2021 09:15]  a moss giant: -48
+[12/22/2021 09:15]  You see: a primordial corpse
+[12/22/2021 09:15]  a moss giant: -45
+[12/22/2021 09:15]  a moss giant: -48
+[12/22/2021 09:15]  a moss giant: -23
+[12/22/2021 09:15]  System: You have gained a lot of fame.
+[12/22/2021 09:15]  System: You have gained a lot of karma.
+[12/22/2021 09:15]  Stink Fist: (Earth Aspect 1,504.7/2000 xp)
+[12/22/2021 09:15]  System: -91
+[12/22/2021 09:15]  You see: a moss giant corpse
+[12/22/2021 09:15]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:15]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:15]  System: You carve materials from the corpse.
+[12/22/2021 09:15]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:15]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:15]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:15]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:15]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:15]  a towhee: a towhee
+[12/22/2021 09:15]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:15]  a lizardman: a lizardman
+[12/22/2021 09:15]  Razor: [HAM ON]
+[12/22/2021 09:15]  a chameleon: a chameleon
+[12/22/2021 09:15]  a silverback: a silverback
+[12/22/2021 09:15]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:15]  You see: a lizardman corpse
+[12/22/2021 09:15]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:15]  Razor: [DISARM]
+[12/22/2021 09:15]  a silverback: a silverback
+[12/22/2021 09:15]  a giant swamp slug: a giant swamp slug
+[12/22/2021 09:15]  a raven: a raven
+[12/22/2021 09:15]  a lizardman: a lizardman
+[12/22/2021 09:15]  a dryad: a dryad
+[12/22/2021 09:15]  Stink Fist: -5
+[12/22/2021 09:15]  System: Who will you use the bandages on?
+[12/22/2021 09:15]  Razor: Healing Started
+[12/22/2021 09:15]  System: You begin applying the bandages.
+[12/22/2021 09:15]  Razor: Bandage: 1s
+[12/22/2021 09:15]  Razor: Attack: a lizardman
+[12/22/2021 09:15]  System: Your strike disarms your target!
+[12/22/2021 09:15]  System: Your attack hamstrings your target!
+[12/22/2021 09:15]  System: Your attack crushes their armor!
+[12/22/2021 09:15]  a lizardman: -82
+[12/22/2021 09:15]  Razor: Bandage: 2s
+[12/22/2021 09:15]  Stink Fist: -5
+[12/22/2021 09:15]  a lizardman: -59
+[12/22/2021 09:15]  Razor: Bandage: 3s
+[12/22/2021 09:15]  Razor: Bandage: 4s
+[12/22/2021 09:15]  a lizardman: -80
+[12/22/2021 09:15]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:15]  Razor: Bandage: 5s
+[12/22/2021 09:15]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:15]  a lizardman: -88
+[12/22/2021 09:15]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:15]  Razor: Bandage: 6s
+[12/22/2021 09:15]  Razor: Bandage: 7s
+[12/22/2021 09:15]  Razor: Attack: a lizardman
+[12/22/2021 09:15]  a lizardman: Aisyth thylthil theslysh.
+[12/22/2021 09:15]  a lizardman: Revenge!
+[12/22/2021 09:15]  System: You have gained a little fame.
+[12/22/2021 09:15]  System: You have gained a little karma.
+[12/22/2021 09:15]  Stink Fist: (Earth Aspect 1,505.0/2000 xp)
+[12/22/2021 09:15]  System: -3
+[12/22/2021 09:15]  You see: a lizardman corpse
+[12/22/2021 09:15]  Razor: Bandage: 8s
+[12/22/2021 09:15]  Razor: Bandage: 9s
+[12/22/2021 09:15]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:15]  System: You finish applying the bandages.
+[12/22/2021 09:15]  Stink Fist: +8
+[12/22/2021 09:15]  Razor: Bandage: 10s
+[12/22/2021 09:15]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:15]  System: You carve materials from the corpse.
+[12/22/2021 09:15]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:15]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:15]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:15]  Stink Fist: -2
+[12/22/2021 09:15]  System: Who will you use the bandages on?
+[12/22/2021 09:15]  Razor: Healing Started
+[12/22/2021 09:15]  System: You begin applying the bandages.
+[12/22/2021 09:15]  System: You must wait to perform another action.
+[12/22/2021 09:15]  a chameleon: a chameleon
+[12/22/2021 09:15]  Razor: Bandage: 1s
+[12/22/2021 09:15]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:15]  Razor: Bandage: 2s
+[12/22/2021 09:15]  Razor: Attack: a chameleon
+[12/22/2021 09:15]  Razor: Bandage: 3s
+[12/22/2021 09:15]  Razor: Attack: a chameleon
+[12/22/2021 09:15]  Razor: Bandage: 4s
+[12/22/2021 09:15]  a colossal frog: a colossal frog
+[12/22/2021 09:15]  Razor: Bandage: 5s
+[12/22/2021 09:15]  Razor: Bandage: 6s
+[12/22/2021 09:15]  Razor: Attack: a chameleon
+[12/22/2021 09:15]  a chameleon: -29
+[12/22/2021 09:15]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:15]  Razor: Bandage: 7s
+[12/22/2021 09:15]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:15]  a chameleon: -35
+[12/22/2021 09:15]  Razor: Bandage: 8s
+[12/22/2021 09:15]  Razor: Bandage: 9s
+[12/22/2021 09:15]  a chameleon: -47
+[12/22/2021 09:15]  a chameleon: -6
+[12/22/2021 09:15]  Razor: Bandage: 10s
+[12/22/2021 09:15]  System: You heal what little damage you had.
+[12/22/2021 09:15]  Stink Fist: -3
+[12/22/2021 09:15]  a chameleon: -36
+[12/22/2021 09:15]  System: Who will you use the bandages on?
+[12/22/2021 09:15]  Razor: Healing Started
+[12/22/2021 09:15]  System: You begin applying the bandages.
+[12/22/2021 09:15]  Razor: Bandage: 1s
+[12/22/2021 09:15]  a chameleon: -6
+[12/22/2021 09:15]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:15]  Razor: Bandage: 2s
+[12/22/2021 09:15]  System: Your attack hamstrings your target!
+[12/22/2021 09:15]  a chameleon: -36
+[12/22/2021 09:15]  Stink Fist: -5
+[12/22/2021 09:15]  System: Your fingers slip!
+[12/22/2021 09:15]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:15]  Razor: [HAM ON]
+[12/22/2021 09:15]  Razor: Bandage: 3s
+[12/22/2021 09:15]  a chameleon: -6
+[12/22/2021 09:15]  Razor: Bandage: 4s
+[12/22/2021 09:15]  a chameleon: -23
+[12/22/2021 09:15]  a colossal frog: a colossal frog
+[12/22/2021 09:15]  Stink Fist: -4
+[12/22/2021 09:15]  Razor: Bandage: 5s
+[12/22/2021 09:15]  System: Your fingers slip!
+[12/22/2021 09:15]  Razor: Bandage: 6s
+[12/22/2021 09:15]  System: You have gained a little fame.
+[12/22/2021 09:15]  System: You have gained a little karma.
+[12/22/2021 09:15]  Stink Fist: (Earth Aspect 1,505.7/2000 xp)
+[12/22/2021 09:15]  System: -88
+[12/22/2021 09:15]  You see: a chameleon corpse
+[12/22/2021 09:15]  Razor: Bandage: 7s
+[12/22/2021 09:15]  Razor: Bandage: 8s
+[12/22/2021 09:15]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:15]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:15]  Razor: [DISARM]
+[12/22/2021 09:15]  Razor: Bandage: 9s
+[12/22/2021 09:15]  Stink Fist: -6
+[12/22/2021 09:15]  System: Your fingers slip!
+[12/22/2021 09:15]  Razor: Bandage: 10s
+[12/22/2021 09:15]  System: You finish applying the bandages.
+[12/22/2021 09:15]  Stink Fist: +16
+[12/22/2021 09:15]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:16]  System: You carve materials from the corpse.
+[12/22/2021 09:16]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:16]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:16]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  a wren: a wren
+[12/22/2021 09:16]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:16]  System: Your strike disarms your target!
+[12/22/2021 09:16]  a giant swamp slug: -54
+[12/22/2021 09:16]  System: Your attack cripples your target, lowering their defense!
+[12/22/2021 09:16]  a giant swamp slug: -96
+[12/22/2021 09:16]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:16]  Stink Fist: -3
+[12/22/2021 09:16]  a giant frog: a giant frog
+[12/22/2021 09:16]  System: Who will you use the bandages on?
+[12/22/2021 09:16]  Razor: Healing Started
+[12/22/2021 09:16]  System: You begin applying the bandages.
+[12/22/2021 09:16]  System: The world will save in 15 seconds.
+[12/22/2021 09:16]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:16]  a giant swamp slug: -86
+[12/22/2021 09:16]  Razor: Bandage: 1s
+[12/22/2021 09:16]  Razor: Bandage: 2s
+[12/22/2021 09:16]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:16]  a giant swamp slug: -102
+[12/22/2021 09:16]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:16]  Razor: Bandage: 3s
+[12/22/2021 09:16]  System: You have gained a little fame.
+[12/22/2021 09:16]  System: You have gained a little karma.
+[12/22/2021 09:16]  Stink Fist: (Earth Aspect 1,505.9/2000 xp)
+[12/22/2021 09:16]  System: -37
+[12/22/2021 09:16]  Razor: Bandage: 4s
+[12/22/2021 09:16]  You see: a giant swamp slug corpse
+[12/22/2021 09:16]  Razor: Bandage: 5s
+[12/22/2021 09:16]  Razor: Bandage: 6s
+[12/22/2021 09:16]  Razor: Bandage: 7s
+[12/22/2021 09:16]  Razor: Attack: a lizardman
+[12/22/2021 09:16]  Razor: Bandage: 8s
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  Razor: Bandage: 9s
+[12/22/2021 09:16]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:16]  System: You finish applying the bandages.
+[12/22/2021 09:16]  Stink Fist: +1
+[12/22/2021 09:16]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:16]  Razor: [HAM ON]
+[12/22/2021 09:16]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:16]  System: You carve materials from the corpse.
+[12/22/2021 09:16]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:16]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:16]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  System: Your attack hamstrings your target!
+[12/22/2021 09:16]  a lizardman: -53
+[12/22/2021 09:16]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:16]  a wren: a wren
+[12/22/2021 09:16]  System: The world is saving, please wait.
+[12/22/2021 09:16]  Razor: Attack: a lizardman
+[12/22/2021 09:16]  System: World save complete. The entire process took 4.3 seconds.
+[12/22/2021 09:16]  a lizardman: -24
+[12/22/2021 09:16]  a lizardman: -41
+[12/22/2021 09:16]  Stink Fist: -1
+[12/22/2021 09:16]  System: Who will you use the bandages on?
+[12/22/2021 09:16]  Razor: Healing Started
+[12/22/2021 09:16]  System: You begin applying the bandages.
+[12/22/2021 09:16]  a lizardman: -54
+[12/22/2021 09:16]  Razor: Bandage: 1s
+[12/22/2021 09:16]  System: You may now use a strength potion.
+[12/22/2021 09:16]  System: Your strength has changed by -20.  It is now 100
+[12/22/2021 09:16]  Razor: [-Strength (s)]
+[12/22/2021 09:16]  Razor: Str: -20 - 100
+[12/22/2021 09:16]  Razor: Bandage: 2s
+[12/22/2021 09:16]  a lizardman: -36
+[12/22/2021 09:16]  Razor: [-Agility (s)]
+[12/22/2021 09:16]  Razor: Bandage: 3s
+[12/22/2021 09:16]  Stink Fist: -1
+[12/22/2021 09:16]  a lizardman: -20
+[12/22/2021 09:16]  Razor: Bandage: 4s
+[12/22/2021 09:16]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:16]  Razor: [DISARM]
+[12/22/2021 09:16]  Razor: Bandage: 5s
+[12/22/2021 09:16]  System: Your skill in Forensic Evaluation has decreased by 0.1.  It is now 1.2.
+[12/22/2021 09:16]  System: Your skill in Anatomy has increased by 0.1.  It is now 83.8.
+[12/22/2021 09:16]  System: Your strike disarms your target!
+[12/22/2021 09:16]  System: You have gained a little fame.
+[12/22/2021 09:16]  System: You have gained a little karma.
+[12/22/2021 09:16]  Stink Fist: (Earth Aspect 1,506.1/2000 xp)
+[12/22/2021 09:16]  System: -84
+[12/22/2021 09:16]  Razor: [Forensics] -0.1 1.2 (-0.3)
+[12/22/2021 09:16]  Razor: [Anatomy] +0.1 83.8 (+0.3)
+[12/22/2021 09:16]  You see: a lizardman corpse
+[12/22/2021 09:16]  System: You may now use an agility potion.
+[12/22/2021 09:16]  System: Your dexterity has changed by -20.  It is now 100
+[12/22/2021 09:16]  Razor: Dex: -20 - 100
+[12/22/2021 09:16]  Razor: Bandage: 6s
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  Razor: Bandage: 7s
+[12/22/2021 09:16]  Razor: Bandage: 8s
+[12/22/2021 09:16]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:16]  Razor: Bandage: 9s
+[12/22/2021 09:16]  System: You carve materials from the corpse.
+[12/22/2021 09:16]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:16]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:16]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:16]  System: You heal what little damage you had.
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  a dryad: a dryad
+[12/22/2021 09:16]  a wren: a wren
+[12/22/2021 09:16]  a giant frog: a giant frog
+[12/22/2021 09:16]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:16]  Razor: [HAM ON]
+[12/22/2021 09:16]  Razor: Attack: a silverback
+[12/22/2021 09:16]  System: You fail to hamstring your opponent.
+[12/22/2021 09:16]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:16]  a silverback: -41
+[12/22/2021 09:16]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:16]  a silverback: -112
+[12/22/2021 09:16]  System: Your skill in Forensic Evaluation has decreased by 0.1.  It is now 1.1.
+[12/22/2021 09:16]  System: Your skill in Anatomy has increased by 0.1.  It is now 83.9.
+[12/22/2021 09:16]  a silverback: -76
+[12/22/2021 09:16]  Razor: [Forensics] -0.1 1.1 (-0.4)
+[12/22/2021 09:16]  Razor: [Anatomy] +0.1 83.9 (+0.4)
+[12/22/2021 09:16]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:16]  a silverback: -56
+[12/22/2021 09:16]  Stink Fist: -3
+[12/22/2021 09:16]  System: Who will you use the bandages on?
+[12/22/2021 09:16]  Razor: Healing Started
+[12/22/2021 09:16]  System: You begin applying the bandages.
+[12/22/2021 09:16]  Razor: Attack: a silverback
+[12/22/2021 09:16]  System: You have gained a little fame.
+[12/22/2021 09:16]  System: You have gained a little karma.
+[12/22/2021 09:16]  Stink Fist: (Earth Aspect 1,507.1/2000 xp)
+[12/22/2021 09:16]  System: -27
+[12/22/2021 09:16]  You see: a silverback corpse
+[12/22/2021 09:16]  Razor: Bandage: 1s
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  Razor: Bandage: 2s
+[12/22/2021 09:16]  Razor: Bandage: 3s
+[12/22/2021 09:16]  Razor: Bandage: 4s
+[12/22/2021 09:16]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:16]  System: You carve materials from the corpse.
+[12/22/2021 09:16]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:16]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:16]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:16]  Razor: Bandage: 5s
+[12/22/2021 09:16]  Razor: Bandage: 6s
+[12/22/2021 09:16]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:16]  Razor: Bandage: 7s
+[12/22/2021 09:17]  Razor: Bandage: 8s
+[12/22/2021 09:17]  Razor: Bandage: 9s
+[12/22/2021 09:17]  a giant frog: a giant frog
+[12/22/2021 09:17]  a jaguar: a jaguar
+[12/22/2021 09:17]  System: You finish applying the bandages.
+[12/22/2021 09:17]  Stink Fist: +1
+[12/22/2021 09:17]  Razor: Attack: a dryad
+[12/22/2021 09:17]  System: Your attack hamstrings your target!
+[12/22/2021 09:17]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:17]  a dryad: -116
+[12/22/2021 09:17]  a dryad: *plants earth seeds*
+[12/22/2021 09:17]  System: Your strike disarms your target!
+[12/22/2021 09:17]  a dryad: -44
+[12/22/2021 09:17]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:17]  Razor: [DISARM]
+[12/22/2021 09:17]  a dryad: -66
+[12/22/2021 09:17]  a colossal frog: a colossal frog
+[12/22/2021 09:17]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[12/22/2021 09:17]  System: You have gained a little fame.
+[12/22/2021 09:17]  System: You have gained a little karma.
+[12/22/2021 09:17]  Stink Fist: (Earth Aspect 1,508.0/2000 xp)
+[12/22/2021 09:17]  System: -85
+[12/22/2021 09:17]  You see: a dryad corpse
+[12/22/2021 09:17]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:17]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:17]  System: You carve materials from the corpse.
+[12/22/2021 09:17]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:17]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:17]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:17]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:17]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:17]  You see: a lizardman corpse
+[12/22/2021 09:17]  a giant frog: a giant frog
+[12/22/2021 09:17]  You see: a giant swamp slug corpse
+[12/22/2021 09:17]  an ophidian mage: an ophidian mage
+[12/22/2021 09:17]  You see: a lizardman corpse
+[12/22/2021 09:17]  a silverback: a silverback
+[12/22/2021 09:17]  a wren: a wren
+[12/22/2021 09:17]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:17]  a colossal swamp slug: a colossal swamp slug
+[12/22/2021 09:17]  a crow: a crow
+[12/22/2021 09:17]  Razor: Attack: an ophidian mage
+[12/22/2021 09:17]  Stink Fist: -18
+[12/22/2021 09:17]  System: Who will you use the bandages on?
+[12/22/2021 09:17]  Razor: Healing Started
+[12/22/2021 09:17]  System: You begin applying the bandages.
+[12/22/2021 09:17]  Razor: Bandage: 1s
+[12/22/2021 09:17]  Razor: Attack: an ophidian mage
+[12/22/2021 09:17]  Razor: Bandage: 2s
+[12/22/2021 09:17]  Razor: Bandage: 3s
+[12/22/2021 09:17]  an ophidian mage: -25
+[12/22/2021 09:17]  Stink Fist: -13
+[12/22/2021 09:17]  System: Your fingers slip!
+[12/22/2021 09:17]  Razor: Bandage: 4s
+[12/22/2021 09:17]  Razor: Bandage: 5s
+[12/22/2021 09:17]  Stink Fist: -8
+[12/22/2021 09:17]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:17]  Razor: Bandage: 6s
+[12/22/2021 09:17]  Razor: [HAM ON]
+[12/22/2021 09:17]  You see: a dryad corpse
+[12/22/2021 09:17]  Razor: Bandage: 7s
+[12/22/2021 09:17]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:17]  Razor: [DISARM]
+[12/22/2021 09:17]  You see: a giant swamp slug corpse
+[12/22/2021 09:17]  You see: a lizardman corpse
+[12/22/2021 09:17]  Razor: Bandage: 8s
+[12/22/2021 09:17]  Razor: Bandage: 9s
+[12/22/2021 09:17]  Stink Fist: -14
+[12/22/2021 09:17]  Razor: Bandage: 10s
+[12/22/2021 09:17]  System: You finish applying the bandages.
+[12/22/2021 09:17]  Stink Fist: +37
+[12/22/2021 09:17]  You see: a silverback corpse
+[12/22/2021 09:17]  You see: a chameleon corpse
+[12/22/2021 09:17]  System: Who will you use the bandages on?
+[12/22/2021 09:17]  Razor: Healing Started
+[12/22/2021 09:17]  System: You begin applying the bandages.
+[12/22/2021 09:17]  You see: a lizardman corpse
+[12/22/2021 09:17]  Razor: Bandage: 1s
+[12/22/2021 09:17]  Razor: Bandage: 2s
+[12/22/2021 09:17]  a silverback: a silverback
+[12/22/2021 09:17]  a colossal swamp slug: a colossal swamp slug
+[12/22/2021 09:17]  Razor: Bandage: 3s
+[12/22/2021 09:17]  System: You absorb their spell (6.4% current damage bonus).
+[12/22/2021 09:17]  Stink Fist: -2
+[12/22/2021 09:17]  System: Your fingers slip!
+[12/22/2021 09:17]  Razor: Bandage: 4s
+[12/22/2021 09:17]  Razor: Attack: an ophidian mage
+[12/22/2021 09:17]  Razor: Bandage: 5s
+[12/22/2021 09:17]  System: Your strike disarms your target!
+[12/22/2021 09:17]  System: Your attack hamstrings your target!
+[12/22/2021 09:17]  an ophidian mage: Lish. Sytsalys!
+[12/22/2021 09:17]  an ophidian mage: No, kill me not!
+[12/22/2021 09:17]  an ophidian mage: -28
+[12/22/2021 09:17]  Razor: Bandage: 6s
+[12/22/2021 09:17]  You see: a dryad corpse
+[12/22/2021 09:17]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:17]  an ophidian mage: -59
+[12/22/2021 09:17]  System: Little Johnny has completed the achievement: Seafarer Initiate.
+[12/22/2021 09:17]  Razor: Bandage: 7s
+[12/22/2021 09:17]  Stink Fist: -4
+[12/22/2021 09:17]  a crow: a crow
+[12/22/2021 09:17]  System: Your fingers slip!
+[12/22/2021 09:17]  You see: a giant swamp slug corpse
+[12/22/2021 09:17]  You see: a lizardman corpse
+[12/22/2021 09:17]  Razor: Bandage: 8s
+[12/22/2021 09:17]  You see: a silverback corpse
+[12/22/2021 09:17]  You see: a chameleon corpse
+[12/22/2021 09:17]  You see: a lizardman corpse
+[12/22/2021 09:17]  Razor: Bandage: 9s
+[12/22/2021 09:17]  Razor: Bandage: 10s
+[12/22/2021 09:17]  System: You finish applying the bandages.
+[12/22/2021 09:17]  Stink Fist: +17
+[12/22/2021 09:17]  System: You absorb their spell (12.8% current damage bonus).
+[12/22/2021 09:17]  System: You parry the spell.
+[12/22/2021 09:17]  Stink Fist: -1
+[12/22/2021 09:17]  System: Who will you use the bandages on?
+[12/22/2021 09:17]  Razor: Healing Started
+[12/22/2021 09:17]  System: You begin applying the bandages.
+[12/22/2021 09:17]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:17]  Razor: Bandage: 1s
+[12/22/2021 09:17]  a silverback: a silverback
+[12/22/2021 09:17]  a colossal swamp slug: a colossal swamp slug
+[12/22/2021 09:17]  a crow: a crow
+[12/22/2021 09:17]  an ophidian mage: -40
+[12/22/2021 09:17]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:17]  Razor: Bandage: 2s
+[12/22/2021 09:17]  Razor: Bandage: 3s
+[12/22/2021 09:17]  Stink Fist: -17
+[12/22/2021 09:17]  System: Your fingers slip!
+[12/22/2021 09:17]  Razor: Bandage: 4s
+[12/22/2021 09:17]  an ophidian mage: -8
+[12/22/2021 09:17]  Razor: Bandage: 5s
+[12/22/2021 09:17]  Razor: Bandage: 6s
+[12/22/2021 09:17]  Razor: Bandage: 7s
+[12/22/2021 09:17]  an ophidian mage: -8
+[12/22/2021 09:17]  Razor: Bandage: 8s
+[12/22/2021 09:17]  System: You absorb their spell (19.2% current damage bonus).
+[12/22/2021 09:18]  Stink Fist: -17
+[12/22/2021 09:18]  Razor: Bandage: 9s
+[12/22/2021 09:18]  Stink Fist: -2
+[12/22/2021 09:18]  Razor: Bandage: 10s
+[12/22/2021 09:18]  System: You finish applying the bandages.
+[12/22/2021 09:18]  Stink Fist: +35
+[12/22/2021 09:18]  an ophidian mage: -8
+[12/22/2021 09:18]  You see: a giant swamp slug corpse
+[12/22/2021 09:18]  You see: a lizardman corpse
+[12/22/2021 09:18]  You see: a silverback corpse
+[12/22/2021 09:18]  You see: a chameleon corpse
+[12/22/2021 09:18]  a jaguar: a jaguar
+[12/22/2021 09:18]  You see: a lizardman corpse
+[12/22/2021 09:18]  a giant frog: a giant frog
+[12/22/2021 09:18]  an ophidian mage: -8
+[12/22/2021 09:18]  a wren: a wren
+[12/22/2021 09:18]  Stink Fist: -3
+[12/22/2021 09:18]  System: Who will you use the bandages on?
+[12/22/2021 09:18]  Razor: Healing Started
+[12/22/2021 09:18]  a giant frog: a giant frog
+[12/22/2021 09:18]  System: You begin applying the bandages.
+[12/22/2021 09:18]  System: You absorb their spell (19.2% current damage bonus).
+[12/22/2021 09:18]  Stink Fist: -5
+[12/22/2021 09:18]  Razor: Bandage: 1s
+[12/22/2021 09:18]  an ophidian mage: -8
+[12/22/2021 09:18]  Razor: Attack: a colossal frog
+[12/22/2021 09:18]  a colossal frog: -48
+[12/22/2021 09:18]  Razor: Bandage: 2s
+[12/22/2021 09:18]  Razor: Bandage: 3s
+[12/22/2021 09:18]  a colossal frog: -74
+[12/22/2021 09:18]  Razor: Attack: a colossal frog
+[12/22/2021 09:18]  a colossal frog: *regens*
+[12/22/2021 09:18]  Stink Fist: -6
+[12/22/2021 09:18]  Razor: Bandage: 4s
+[12/22/2021 09:18]  System: Your attack hinders your target!
+[12/22/2021 09:18]  a colossal frog: -94
+[12/22/2021 09:18]  Razor: Bandage: 5s
+[12/22/2021 09:18]  Razor: Attack: a colossal frog
+[12/22/2021 09:18]  a colossal frog: -39
+[12/22/2021 09:18]  Razor: Bandage: 6s
+[12/22/2021 09:18]  Razor: Bandage: 7s
+[12/22/2021 09:18]  System: You parry the spell.
+[12/22/2021 09:18]  Razor: Attack: a colossal frog
+[12/22/2021 09:18]  Stink Fist: -3
+[12/22/2021 09:18]  System: Your fingers slip!
+[12/22/2021 09:18]  Razor: Bandage: 8s
+[12/22/2021 09:18]  Razor: Attack: a colossal frog
+[12/22/2021 09:18]  System: You fail to disarm your opponent.
+[12/22/2021 09:18]  System: You fail to hamstring your opponent.
+[12/22/2021 09:18]  Razor: Bandage: 9s
+[12/22/2021 09:18]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:18]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:18]  Razor: [DISARM]
+[12/22/2021 09:18]  Razor: [HAM ON]
+[12/22/2021 09:18]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:18]  System: You finish applying the bandages.
+[12/22/2021 09:18]  Stink Fist: +15
+[12/22/2021 09:18]  System: You have gained a little fame.
+[12/22/2021 09:18]  System: You have gained a little karma.
+[12/22/2021 09:18]  Stink Fist: (Earth Aspect 1,508.4/2000 xp)
+[12/22/2021 09:18]  System: -73
+[12/22/2021 09:18]  You see: a colossal frog corpse
+[12/22/2021 09:18]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:18]  Stink Fist: -19
+[12/22/2021 09:18]  System: Who will you use the bandages on?
+[12/22/2021 09:18]  Razor: Healing Started
+[12/22/2021 09:18]  System: You begin applying the bandages.
+[12/22/2021 09:18]  Razor: Bandage: 1s
+[12/22/2021 09:18]  Stink Fist: -7
+[12/22/2021 09:18]  Razor: Bandage: 2s
+[12/22/2021 09:18]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:18]  System: You carve materials from the corpse.
+[12/22/2021 09:18]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:18]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:18]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:18]  Razor: Bandage: 3s
+[12/22/2021 09:18]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:18]  Razor: Bandage: 4s
+[12/22/2021 09:18]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:18]  Razor: Bandage: 5s
+[12/22/2021 09:18]  a giant frog: a giant frog
+[12/22/2021 09:18]  Razor: Bandage: 6s
+[12/22/2021 09:18]  a colossal swamp slug: a colossal swamp slug
+[12/22/2021 09:18]  a silverback: a silverback
+[12/22/2021 09:18]  a crow: a crow
+[12/22/2021 09:18]  You see: a dryad corpse
+[12/22/2021 09:18]  Razor: Bandage: 7s
+[12/22/2021 09:18]  Razor: Bandage: 8s
+[12/22/2021 09:18]  Stink Fist: -19
+[12/22/2021 09:18]  Razor: Bandage: 9s
+[12/22/2021 09:18]  Stink Fist: -15
+[12/22/2021 09:18]  System: Your fingers slip!
+[12/22/2021 09:18]  Razor: Bandage: 10s
+[12/22/2021 09:18]  System: You finish applying the bandages.
+[12/22/2021 09:18]  Stink Fist: +53
+[12/22/2021 09:18]  System: Who will you use the bandages on?
+[12/22/2021 09:18]  Razor: Healing Started
+[12/22/2021 09:18]  System: You begin applying the bandages.
+[12/22/2021 09:18]  Stink Fist: -7
+[12/22/2021 09:18]  Razor: Bandage: 1s
+[12/22/2021 09:18]  a crow: a crow
+[12/22/2021 09:18]  You see: a giant swamp slug corpse
+[12/22/2021 09:18]  a primordial whelp: a primordial whelp
+[12/22/2021 09:18]  Razor: Bandage: 2s
+[12/22/2021 09:18]  Razor: Bandage: 3s
+[12/22/2021 09:18]  Razor: Bandage: 4s
+[12/22/2021 09:18]  a fey spirit: a fey spirit
+[12/22/2021 09:18]  a giant spider: a giant spider
+[12/22/2021 09:18]  a lizardman shaman: a lizardman shaman
+[12/22/2021 09:18]  Razor: Bandage: 5s
+[12/22/2021 09:18]  Razor: Bandage: 6s
+[12/22/2021 09:18]  Razor: Bandage: 7s
+[12/22/2021 09:18]  Razor: Attack: a primordial whelp
+[12/22/2021 09:18]  System: Your strike disarms your target!
+[12/22/2021 09:18]  System: Your attack hamstrings your target!
+[12/22/2021 09:18]  a primordial whelp: -184
+[12/22/2021 09:18]  Razor: Bandage: 8s
+[12/22/2021 09:18]  System: You have gained a little fame.
+[12/22/2021 09:18]  System: You have gained a little karma.
+[12/22/2021 09:18]  Stink Fist: (Earth Aspect 1,508.5/2000 xp)
+[12/22/2021 09:18]  System: -4
+[12/22/2021 09:18]  You see: a primordial whelp corpse
+[12/22/2021 09:18]  Razor: Bandage: 9s
+[12/22/2021 09:18]  You see: a peony
+[12/22/2021 09:18]  You see: [locked down]
+[12/22/2021 09:18]  You see: (common plant)
+[12/22/2021 09:18]  Razor: Bandage: 10s
+[12/22/2021 09:18]  System: You finish applying the bandages.
+[12/22/2021 09:18]  Stink Fist: +9
+[12/22/2021 09:18]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:18]  Razor: Attack: a lizardman shaman
+[12/22/2021 09:18]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:18]  System: You absorb their spell (19.2% current damage bonus).
+[12/22/2021 09:18]  Stink Fist: -1
+[12/22/2021 09:18]  System: Who will you use the bandages on?
+[12/22/2021 09:18]  Razor: Healing Started
+[12/22/2021 09:18]  System: You begin applying the bandages.
+[12/22/2021 09:18]  Razor: Bandage: 1s
+[12/22/2021 09:18]  Razor: Bandage: 2s
+[12/22/2021 09:18]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:18]  Razor: Bandage: 3s
+[12/22/2021 09:18]  Stink Fist: -3
+[12/22/2021 09:18]  System: You carve materials from the corpse.
+[12/22/2021 09:18]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:18]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:18]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:18]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:18]  Razor: Bandage: 4s
+[12/22/2021 09:18]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:18]  Razor: Bandage: 5s
+[12/22/2021 09:18]  Razor: Bandage: 6s
+[12/22/2021 09:18]  Stink Fist: -1
+[12/22/2021 09:18]  System: Your fingers slip!
+[12/22/2021 09:18]  System: You absorb their spell (19.2% current damage bonus).
+[12/22/2021 09:18]  Razor: Bandage: 7s
+[12/22/2021 09:18]  a primordial: a primordial
+[12/22/2021 09:18]  a corpser: a corpser
+[12/22/2021 09:18]  System: Being perfectly rested, you shove them out of the way.
+[12/22/2021 09:18]  Razor: Bandage: 8s
+[12/22/2021 09:18]  Razor: Attack: a giant spider
+[12/22/2021 09:18]  Razor: Bandage: 9s
+[12/22/2021 09:18]  Razor: Attack: a fey spirit
+[12/22/2021 09:18]  a fey spirit: -40
+[12/22/2021 09:18]  Razor: Attack: a fey spirit
+[12/22/2021 09:18]  Stink Fist: -3
+[12/22/2021 09:18]  Razor: Bandage: 10s
+[12/22/2021 09:18]  System: You finish applying the bandages.
+[12/22/2021 09:18]  Stink Fist: +6
+[12/22/2021 09:19]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:19]  a fey spirit: -130
+[12/22/2021 09:19]  Razor: Attack: a giant spider
+[12/22/2021 09:19]  Razor: Attack: a fey spirit
+[12/22/2021 09:19]  a fey spirit: -86
+[12/22/2021 09:19]  Razor: Attack: a fey spirit
+[12/22/2021 09:19]  Stink Fist: -4
+[12/22/2021 09:19]  System: Who will you use the bandages on?
+[12/22/2021 09:19]  Razor: Healing Started
+[12/22/2021 09:19]  System: You begin applying the bandages.
+[12/22/2021 09:19]  Razor: Attack: a fey spirit
+[12/22/2021 09:19]  Razor: Bandage: 1s
+[12/22/2021 09:19]  Razor: Bandage: 2s
+[12/22/2021 09:19]  Razor: Attack: a fey spirit
+[12/22/2021 09:19]  a fey spirit: -38
+[12/22/2021 09:19]  Razor: Bandage: 3s
+[12/22/2021 09:19]  Stink Fist: -3
+[12/22/2021 09:19]  Razor: Bandage: 4s
+[12/22/2021 09:19]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:19]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:19]  Razor: [DISARM]
+[12/22/2021 09:19]  Razor: [HAM ON]
+[12/22/2021 09:19]  Razor: Attack: a fey spirit
+[12/22/2021 09:19]  System: Your strike disarms your target!
+[12/22/2021 09:19]  System: Your attack hamstrings your target!
+[12/22/2021 09:19]  System: You have gained some fame.
+[12/22/2021 09:19]  System: You have gained some karma.
+[12/22/2021 09:19]  Stink Fist: (Earth Aspect 1,510.1/2000 xp)
+[12/22/2021 09:19]  System: -81
+[12/22/2021 09:19]  You see: a fey spirit corpse
+[12/22/2021 09:19]  Razor: Bandage: 5s
+[12/22/2021 09:19]  Stink Fist: -3
+[12/22/2021 09:19]  System: Your fingers slip!
+[12/22/2021 09:19]  Stink Fist: * You begin to feel pain throughout your body! *
+[12/22/2021 09:19]  Razor: [+Greater Poison (70s)]
+[12/22/2021 09:19]  Razor: Bandage: 6s
+[12/22/2021 09:19]  System: You feel cured of poison!
+[12/22/2021 09:19]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[12/22/2021 09:19]  Razor: [-Greater Poison (s)]
+[12/22/2021 09:19]  System: You must wait to perform another action.
+[12/22/2021 09:19]  Razor: Bandage: 7s
+[12/22/2021 09:19]  Razor: Bandage: 8s
+[12/22/2021 09:19]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:19]  Stink Fist: -4
+[12/22/2021 09:19]  Stink Fist: * You begin to feel pain throughout your body! *
+[12/22/2021 09:19]  a giant spider: *spins web*
+[12/22/2021 09:19]  System: You are trapped and helpless in a web!
+[12/22/2021 09:19]  Razor: [+Greater Poison (70s)]
+[12/22/2021 09:19]  Razor: Bandage: 9s
+[12/22/2021 09:19]  System: Your fingers slip!
+[12/22/2021 09:19]  Razor: [-Greater Poison (s)]
+[12/22/2021 09:19]  System: You feel cured of poison!
+[12/22/2021 09:19]  Razor: [+Paralyze (2s)]
+[12/22/2021 09:19]  Razor: Attack: a giant spider
+[12/22/2021 09:19]  Razor: Bandage: 10s
+[12/22/2021 09:19]  System: You finish applying the bandages.
+[12/22/2021 09:19]  Stink Fist: +12
+[12/22/2021 09:19]  Razor: [-Paralyze (s)]
+[12/22/2021 09:19]  Razor: [+Paralyze (1s)]
+[12/22/2021 09:19]  Razor: Attack: a giant spider
+[12/22/2021 09:19]  Razor: Attack: a giant spider
+[12/22/2021 09:19]  Razor: [-Paralyze (s)]
+[12/22/2021 09:19]  Razor: [+Paralyze (0s)]
+[12/22/2021 09:19]  Razor: Attack: a giant spider
+[12/22/2021 09:19]  Razor: [-Paralyze (s)]
+[12/22/2021 09:19]  System: You are no longer hindered.
+[12/22/2021 09:19]  a giant spider: -87
+[12/22/2021 09:19]  a giant spider: -70
+[12/22/2021 09:19]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:19]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:19]  System: Your attack hinders your target!
+[12/22/2021 09:19]  a giant spider: -39
+[12/22/2021 09:19]  a giant spider: -14
+[12/22/2021 09:19]  a giant spider: -14
+[12/22/2021 09:19]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:19]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:19]  Stink Fist: -6
+[12/22/2021 09:19]  Stink Fist: * You begin to feel pain throughout your body! *
+[12/22/2021 09:19]  a giant spider: -58
+[12/22/2021 09:19]  Razor: [+Greater Poison (70s)]
+[12/22/2021 09:19]  Razor: Healing Started
+[12/22/2021 09:19]  System: You must wait to perform another action.
+[12/22/2021 09:19]  System: You carve materials from the corpse.
+[12/22/2021 09:19]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:19]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:19]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:19]  System: You feel cured of poison!
+[12/22/2021 09:19]  Razor: [-Greater Poison (s)]
+[12/22/2021 09:19]  System: You have gained a little fame.
+[12/22/2021 09:19]  System: You have gained a little karma.
+[12/22/2021 09:19]  Stink Fist: (Earth Aspect 1,510.8/2000 xp)
+[12/22/2021 09:19]  System: -30
+[12/22/2021 09:19]  You see: a giant spider corpse
+[12/22/2021 09:19]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:19]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:19]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:19]  Razor: Target: Stink Fist
+[12/22/2021 09:19]  System: You carve materials from the corpse.
+[12/22/2021 09:19]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:19]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:19]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:19]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:19]  System: Who will you use the bandages on?
+[12/22/2021 09:19]  Razor: Healing Started
+[12/22/2021 09:19]  System: You begin applying the bandages.
+[12/22/2021 09:19]  a lizardman shaman: Ssisillyth ysa! Ysasthylysh shisal sthyss syth!
+[12/22/2021 09:19]  Razor: Bandage: 1s
+[12/22/2021 09:19]  Razor: Bandage: 2s
+[12/22/2021 09:19]  Razor: Attack: a lizardman shaman
+[12/22/2021 09:19]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:19]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:19]  Razor: [DISARM]
+[12/22/2021 09:19]  Razor: [HAM ON]
+[12/22/2021 09:19]  Razor: Bandage: 3s
+[12/22/2021 09:19]  Razor: Bandage: 4s
+[12/22/2021 09:19]  System: Your strike disarms your target!
+[12/22/2021 09:19]  System: Your attack hamstrings your target!
+[12/22/2021 09:19]  a lizardman shaman: -34
+[12/22/2021 09:19]  System: You absorb their spell (19.2% current damage bonus).
+[12/22/2021 09:19]  Stink Fist: -1
+[12/22/2021 09:19]  System: Your fingers slip!
+[12/22/2021 09:19]  Razor: Bandage: 5s
+[12/22/2021 09:19]  a lizardman shaman: -65
+[12/22/2021 09:19]  Razor: Bandage: 6s
+[12/22/2021 09:19]  You see: a giant swamp slug corpse
+[12/22/2021 09:19]  Razor: Bandage: 7s
+[12/22/2021 09:19]  System: Your attack cripples your target, lowering their defense!
+[12/22/2021 09:19]  a lizardman shaman: -80
+[12/22/2021 09:19]  System: You parry the spell.
+[12/22/2021 09:19]  Razor: Bandage: 8s
+[12/22/2021 09:19]  Stink Fist: -1
+[12/22/2021 09:19]  System: Your fingers slip!
+[12/22/2021 09:19]  System: Your attack crushes their armor!
+[12/22/2021 09:19]  a lizardman shaman: -99
+[12/22/2021 09:19]  Razor: Bandage: 9s
+[12/22/2021 09:19]  Razor: Bandage: 10s
+[12/22/2021 09:19]  System: You have gained a little fame.
+[12/22/2021 09:19]  System: You have gained a little karma.
+[12/22/2021 09:19]  Stink Fist: (Earth Aspect 1,511.6/2000 xp)
+[12/22/2021 09:19]  System: -91
+[12/22/2021 09:19]  System: You finish applying the bandages.
+[12/22/2021 09:19]  Stink Fist: +3
+[12/22/2021 09:19]  You see: a lizardman shaman corpse
+[12/22/2021 09:19]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:19]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:19]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:19]  System: You carve materials from the corpse.
+[12/22/2021 09:19]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:19]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:19]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:19]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:19]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:19]  an ophidian mage: an ophidian mage
+[12/22/2021 09:19]  a giant frog: a giant frog
+[12/22/2021 09:19]  a silverback: a silverback
+[12/22/2021 09:19]  a colossal swamp slug: a colossal swamp slug
+[12/22/2021 09:19]  You see: a giant swamp slug corpse
+[12/22/2021 09:19]  a wren: a wren
+[12/22/2021 09:19]  a crow: a crow
+[12/22/2021 09:19]  You see: a colossal frog corpse
+[12/22/2021 09:20]  Razor: Attack: an ophidian mage
+[12/22/2021 09:20]  Stink Fist: -3
+[12/22/2021 09:20]  System: Who will you use the bandages on?
+[12/22/2021 09:20]  Razor: Healing Started
+[12/22/2021 09:20]  System: You begin applying the bandages.
+[12/22/2021 09:20]  an ophidian mage: -29
+[12/22/2021 09:20]  Razor: Bandage: 1s
+[12/22/2021 09:20]  Razor: Bandage: 2s
+[12/22/2021 09:20]  an ophidian mage: -146
+[12/22/2021 09:20]  Razor: Bandage: 3s
+[12/22/2021 09:20]  an ophidian mage: -66
+[12/22/2021 09:20]  Razor: Bandage: 4s
+[12/22/2021 09:20]  System: You absorb their spell (19.2% current damage bonus).
+[12/22/2021 09:20]  Stink Fist: -3
+[12/22/2021 09:20]  System: Your fingers slip!
+[12/22/2021 09:20]  Razor: Bandage: 5s
+[12/22/2021 09:20]  an ophidian mage: Ses ysthlilsyth.
+[12/22/2021 09:20]  an ophidian mage: Oof! That hurt!
+[12/22/2021 09:20]  an ophidian mage: -70
+[12/22/2021 09:20]  Stink Fist: -13
+[12/22/2021 09:20]  Razor: Bandage: 6s
+[12/22/2021 09:20]  Stink Fist: -13
+[12/22/2021 09:20]  Razor: Bandage: 7s
+[12/22/2021 09:20]  Razor: Bandage: 8s
+[12/22/2021 09:20]  System: Your fingers slip! [2]
+[12/22/2021 09:20]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:20]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:20]  Razor: [DISARM]
+[12/22/2021 09:20]  Razor: [HAM ON]
+[12/22/2021 09:20]  Razor: Bandage: 9s
+[12/22/2021 09:20]  System: Your strike disarms your target!
+[12/22/2021 09:20]  System: Your attack hamstrings your target!
+[12/22/2021 09:20]  an ophidian mage: -25
+[12/22/2021 09:20]  Razor: Bandage: 10s
+[12/22/2021 09:20]  System: You finish applying the bandages.
+[12/22/2021 09:20]  Stink Fist: +30
+[12/22/2021 09:20]  an ophidian mage: -58
+[12/22/2021 09:20]  Stink Fist: -17
+[12/22/2021 09:20]  System: Who will you use the bandages on?
+[12/22/2021 09:20]  Razor: Healing Started
+[12/22/2021 09:20]  System: You begin applying the bandages.
+[12/22/2021 09:20]  Stink Fist: -6
+[12/22/2021 09:20]  System: Your fingers slip!
+[12/22/2021 09:20]  System: You have gained some fame.
+[12/22/2021 09:20]  System: You have gained some karma.
+[12/22/2021 09:20]  Stink Fist: (Earth Aspect 1,513.7/2000 xp)
+[12/22/2021 09:20]  System: -39
+[12/22/2021 09:20]  You see: an ophidian mage corpse
+[12/22/2021 09:20]  Razor: Bandage: 1s
+[12/22/2021 09:20]  Razor: Bandage: 2s
+[12/22/2021 09:20]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:20]  Razor: Bandage: 3s
+[12/22/2021 09:20]  System: You carve materials from the corpse.
+[12/22/2021 09:20]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:20]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:20]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:20]  Razor: Bandage: 4s
+[12/22/2021 09:20]  Razor: Bandage: 5s
+[12/22/2021 09:20]  Razor: Bandage: 6s
+[12/22/2021 09:20]  Stink Fist: -8
+[12/22/2021 09:20]  System: Your fingers slip!
+[12/22/2021 09:20]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:20]  Razor: Bandage: 7s
+[12/22/2021 09:20]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:20]  Razor: Bandage: 8s
+[12/22/2021 09:20]  Razor: [-Cunning (s)]
+[12/22/2021 09:20]  Razor: Bandage: 9s
+[12/22/2021 09:20]  System: Your intelligence has changed by -10.  It is now 25
+[12/22/2021 09:20]  Razor: Int: -10 - 25
+[12/22/2021 09:20]  Stink Fist: -9
+[12/22/2021 09:20]  Razor: Bandage: 10s
+[12/22/2021 09:20]  System: You finish applying the bandages.
+[12/22/2021 09:20]  Stink Fist: +38
+[12/22/2021 09:20]  Razor: Attack: a colossal swamp slug
+[12/22/2021 09:20]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:20]  Stink Fist: -9
+[12/22/2021 09:20]  System: Who will you use the bandages on?
+[12/22/2021 09:20]  Razor: Healing Started
+[12/22/2021 09:20]  System: You begin applying the bandages.
+[12/22/2021 09:20]  Razor: Bandage: 1s
+[12/22/2021 09:20]  a colossal swamp slug: -15
+[12/22/2021 09:20]  Razor: [-Protection (s)]
+[12/22/2021 09:20]  Razor: Attack: a colossal swamp slug
+[12/22/2021 09:20]  Razor: Bandage: 2s
+[12/22/2021 09:20]  a colossal swamp slug: -98
+[12/22/2021 09:20]  Razor: Bandage: 3s
+[12/22/2021 09:20]  a colossal swamp slug: -74
+[12/22/2021 09:20]  Razor: Bandage: 4s
+[12/22/2021 09:20]  Razor: Bandage: 5s
+[12/22/2021 09:20]  a colossal swamp slug: -63
+[12/22/2021 09:20]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:20]  Razor: Bandage: 6s
+[12/22/2021 09:20]  a colossal swamp slug: -27
+[12/22/2021 09:20]  Razor: Bandage: 7s
+[12/22/2021 09:20]  Stink Fist: -8
+[12/22/2021 09:20]  System: Your fingers slip!
+[12/22/2021 09:20]  Razor: Attack: a colossal swamp slug
+[12/22/2021 09:20]  Razor: Bandage: 8s
+[12/22/2021 09:20]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:20]  a colossal swamp slug: -168
+[12/22/2021 09:20]  a colossal swamp slug: -13
+[12/22/2021 09:20]  Razor: Bandage: 9s
+[12/22/2021 09:20]  Razor: Attack: a colossal swamp slug
+[12/22/2021 09:20]  System: You finish applying the bandages.
+[12/22/2021 09:20]  Stink Fist: +15
+[12/22/2021 09:20]  a colossal swamp slug: -84
+[12/22/2021 09:20]  Stink Fist: -13
+[12/22/2021 09:20]  System: Who will you use the bandages on?
+[12/22/2021 09:20]  Razor: Healing Started
+[12/22/2021 09:20]  System: You begin applying the bandages.
+[12/22/2021 09:20]  a colossal swamp slug: -13
+[12/22/2021 09:20]  Razor: Bandage: 1s
+[12/22/2021 09:20]  Razor: Bandage: 2s
+[12/22/2021 09:20]  a colossal swamp slug: -13
+[12/22/2021 09:20]  Razor: Bandage: 3s
+[12/22/2021 09:20]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:20]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:20]  Razor: [DISARM]
+[12/22/2021 09:20]  Razor: [HAM ON]
+[12/22/2021 09:20]  System: Your strike disarms your target!
+[12/22/2021 09:20]  System: Your attack hamstrings your target!
+[12/22/2021 09:20]  a colossal swamp slug: -88
+[12/22/2021 09:20]  Razor: Bandage: 4s
+[12/22/2021 09:20]  a colossal swamp slug: -52
+[12/22/2021 09:20]  Razor: Bandage: 5s
+[12/22/2021 09:20]  a colossal swamp slug: -16
+[12/22/2021 09:20]  Razor: Bandage: 6s
+[12/22/2021 09:20]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[12/22/2021 09:20]  a colossal swamp slug: -154
+[12/22/2021 09:20]  Stink Fist: -10
+[12/22/2021 09:20]  Razor: Bandage: 7s
+[12/22/2021 09:20]  a colossal swamp slug: -42
+[12/22/2021 09:20]  Razor: Bandage: 8s
+[12/22/2021 09:20]  System: Your strength has changed by 20.  It is now 120
+[12/22/2021 09:20]  Razor: [+Strength (120s)]
+[12/22/2021 09:20]  Razor: Str: +20 - 120
+[12/22/2021 09:20]  Razor: [-Strength (s)]
+[12/22/2021 09:20]  Razor: [+Strength (120s)]
+[12/22/2021 09:20]  a colossal swamp slug: -16
+[12/22/2021 09:20]  Razor: Bandage: 9s
+[12/22/2021 09:20]  a colossal swamp slug: -80
+[12/22/2021 09:20]  Razor: Bandage: 10s
+[12/22/2021 09:20]  System: You finish applying the bandages.
+[12/22/2021 09:20]  Stink Fist: +41
+[12/22/2021 09:20]  System: Your dexterity has changed by 20.  It is now 120
+[12/22/2021 09:20]  Razor: [+Agility (120s)]
+[12/22/2021 09:20]  Razor: Dex: +20 - 120
+[12/22/2021 09:20]  Razor: [-Agility (s)]
+[12/22/2021 09:20]  Razor: [+Agility (120s)]
+[12/22/2021 09:20]  a colossal swamp slug: -98
+[12/22/2021 09:20]  Stink Fist: -6
+[12/22/2021 09:20]  System: Who will you use the bandages on?
+[12/22/2021 09:20]  Razor: Healing Started
+[12/22/2021 09:20]  System: You begin applying the bandages.
+[12/22/2021 09:20]  a colossal swamp slug: -79
+[12/22/2021 09:20]  Razor: Bandage: 1s
+[12/22/2021 09:20]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:20]  Razor: Bandage: 2s
+[12/22/2021 09:20]  System: You have gained some fame.
+[12/22/2021 09:20]  System: You have gained some karma.
+[12/22/2021 09:20]  Stink Fist: (Earth Aspect 1,515.2/2000 xp)
+[12/22/2021 09:20]  System: -57
+[12/22/2021 09:20]  You see: a colossal swamp slug corpse
+[12/22/2021 09:20]  Razor: Bandage: 3s
+[12/22/2021 09:20]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:20]  Razor: Bandage: 4s
+[12/22/2021 09:20]  Razor: Bandage: 5s
+[12/22/2021 09:20]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:20]  Razor: Bandage: 6s
+[12/22/2021 09:20]  System: You carve materials from the corpse.
+[12/22/2021 09:20]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:20]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:20]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:20]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:20]  Razor: Bandage: 7s
+[12/22/2021 09:20]  Razor: Bandage: 8s
+[12/22/2021 09:20]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:20]  Razor: Bandage: 9s
+[12/22/2021 09:20]  Razor: Attack: a silverback
+[12/22/2021 09:20]  Razor: Bandage: 10s
+[12/22/2021 09:20]  System: You finish applying the bandages.
+[12/22/2021 09:20]  Stink Fist: +4
+[12/22/2021 09:21]  Stink Fist: -7
+[12/22/2021 09:21]  a silverback: -95
+[12/22/2021 09:21]  System: Who will you use the bandages on?
+[12/22/2021 09:21]  Razor: Healing Started
+[12/22/2021 09:21]  System: You begin applying the bandages.
+[12/22/2021 09:21]  Razor: Bandage: 1s
+[12/22/2021 09:21]  a silverback: -24
+[12/22/2021 09:21]  Razor: Bandage: 2s
+[12/22/2021 09:21]  a silverback: -55
+[12/22/2021 09:21]  Razor: Bandage: 3s
+[12/22/2021 09:21]  Razor: Bandage: 4s
+[12/22/2021 09:21]  Razor: Attack: a giant frog
+[12/22/2021 09:21]  Razor: Bandage: 5s
+[12/22/2021 09:21]  Razor: Attack: a giant frog
+[12/22/2021 09:21]  Razor: Bandage: 6s
+[12/22/2021 09:21]  Razor: Bandage: 7s
+[12/22/2021 09:21]  Stink Fist: -4
+[12/22/2021 09:21]  System: Your fingers slip!
+[12/22/2021 09:21]  a giant frog: -44
+[12/22/2021 09:21]  Razor: Attack: a silverback
+[12/22/2021 09:21]  Razor: Bandage: 8s
+[12/22/2021 09:21]  Razor: Bandage: 9s
+[12/22/2021 09:21]  a silverback: -91
+[12/22/2021 09:21]  Razor: Attack: a silverback
+[12/22/2021 09:21]  a giant frog: *regens*
+[12/22/2021 09:21]  Razor: Bandage: 10s
+[12/22/2021 09:21]  System: You finish applying the bandages.
+[12/22/2021 09:21]  Stink Fist: +9
+[12/22/2021 09:21]  Razor: Attack: a silverback
+[12/22/2021 09:21]  Stink Fist: -3
+[12/22/2021 09:21]  System: Who will you use the bandages on?
+[12/22/2021 09:21]  Razor: Healing Started
+[12/22/2021 09:21]  System: You begin applying the bandages.
+[12/22/2021 09:21]  Razor: Attack: a silverback
+[12/22/2021 09:21]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:21]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:21]  Razor: [DISARM]
+[12/22/2021 09:21]  Razor: [HAM ON]
+[12/22/2021 09:21]  System: Your strike disarms your target!
+[12/22/2021 09:21]  System: Your attack hamstrings your target!
+[12/22/2021 09:21]  a silverback: -41
+[12/22/2021 09:21]  Razor: Bandage: 1s
+[12/22/2021 09:21]  System: You have gained a little fame.
+[12/22/2021 09:21]  System: You have gained a little karma.
+[12/22/2021 09:21]  Stink Fist: (Earth Aspect 1,515.8/2000 xp)
+[12/22/2021 09:21]  System: -6
+[12/22/2021 09:21]  Razor: Bandage: 2s
+[12/22/2021 09:21]  You see: a silverback corpse
+[12/22/2021 09:21]  Razor: Attack: a giant frog
+[12/22/2021 09:21]  Stink Fist: -2
+[12/22/2021 09:21]  System: Your fingers slip!
+[12/22/2021 09:21]  Razor: Bandage: 3s
+[12/22/2021 09:21]  a giant frog: -33
+[12/22/2021 09:21]  Razor: Attack: a giant frog
+[12/22/2021 09:21]  Razor: Bandage: 4s
+[12/22/2021 09:21]  Stink Fist: (Earth Aspect 1,516.1/2000 xp)
+[12/22/2021 09:21]  System: -22
+[12/22/2021 09:21]  You see: a giant frog corpse
+[12/22/2021 09:21]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:21]  System: You must wait to perform another action.
+[12/22/2021 09:21]  Razor: Bandage: 5s
+[12/22/2021 09:21]  System: You have gained a little fame.
+[12/22/2021 09:21]  System: You have gained a little karma.
+[12/22/2021 09:21]  Razor: Bandage: 6s
+[12/22/2021 09:21]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:21]  Razor: Bandage: 7s
+[12/22/2021 09:21]  Razor: Bandage: 8s
+[12/22/2021 09:21]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:21]  Razor: Bandage: 9s
+[12/22/2021 09:21]  System: You carve materials from the corpse.
+[12/22/2021 09:21]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:21]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:21]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:21]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:21]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:21]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:21]  Razor: Bandage: 10s
+[12/22/2021 09:21]  System: You finish applying the bandages.
+[12/22/2021 09:21]  Stink Fist: +3
+[12/22/2021 09:21]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:21]  System: You carve materials from the corpse.
+[12/22/2021 09:21]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:21]  You see: a colossal frog corpse
+[12/22/2021 09:21]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:21]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:21]  System: You dont see anything nearby worth carving or investigating.
+[12/22/2021 09:21]  a giant frog: a giant frog
+[12/22/2021 09:21]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:21]  a primordial whelp: a primordial whelp
+[12/22/2021 09:21]  a wren: a wren
+[12/22/2021 09:21]  a giant frog: a giant frog
+[12/22/2021 09:21]  a wisp: a wisp
+[12/22/2021 09:21]  Razor: Attack: a giant frog
+[12/22/2021 09:21]  System: Your attack hamstrings your target!
+[12/22/2021 09:21]  a giant frog: -35
+[12/22/2021 09:21]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:21]  Razor: [HAM ON]
+[12/22/2021 09:21]  a giant frog: *regens*
+[12/22/2021 09:21]  a giant frog: -55
+[12/22/2021 09:21]  System: You have gained a little fame.
+[12/22/2021 09:21]  System: You have gained a little karma.
+[12/22/2021 09:21]  Stink Fist: (Earth Aspect 1,516.5/2000 xp)
+[12/22/2021 09:21]  System: -9
+[12/22/2021 09:21]  You see: a giant frog corpse
+[12/22/2021 09:21]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:21]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:21]  Razor: [DISARM]
+[12/22/2021 09:21]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:21]  System: You carve materials from the corpse.
+[12/22/2021 09:21]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:21]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:21]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:21]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:21]  a magpie: a magpie
+[12/22/2021 09:21]  a giant swamp slug: a giant swamp slug
+[12/22/2021 09:21]  a tribal fanatic: a tribal fanatic
+[12/22/2021 09:21]  System: Being perfectly rested, you shove them out of the way.
+[12/22/2021 09:21]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:21]  Razor: Attack: a wisp
+[12/22/2021 09:21]  System: Your strike disarms your target!
+[12/22/2021 09:21]  a wisp: -68
+[12/22/2021 09:21]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[12/22/2021 09:21]  a wisp: -94
+[12/22/2021 09:21]  System: You parry the spell.
+[12/22/2021 09:21]  Stink Fist: -5
+[12/22/2021 09:21]  System: Who will you use the bandages on?
+[12/22/2021 09:21]  Razor: Healing Started
+[12/22/2021 09:21]  System: You begin applying the bandages.
+[12/22/2021 09:21]  a wisp: -51
+[12/22/2021 09:21]  a wisp: -18
+[12/22/2021 09:21]  System: a friendly foe has completed the achievement: Shipwright (Basic).
+[12/22/2021 09:21]  Razor: Bandage: 1s
+[12/22/2021 09:21]  a wisp: -90
+[12/22/2021 09:21]  Razor: Bandage: 2s
+[12/22/2021 09:21]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:21]  a wisp: -94
+[12/22/2021 09:21]  Razor: Bandage: 3s
+[12/22/2021 09:21]  a wisp: -18
+[12/22/2021 09:21]  Razor: Attack: a wisp
+[12/22/2021 09:21]  Stink Fist: -48
+[12/22/2021 09:21]  System: Your fingers slip!
+[12/22/2021 09:21]  Razor: Bandage: 4s
+[12/22/2021 09:22]  System: You smash through the remainder of their armor, dealing grevious damage!
+[12/22/2021 09:22]  a wisp: -120
+[12/22/2021 09:22]  Razor: Bandage: 5s
+[12/22/2021 09:22]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:22]  System: Your attack hamstrings your target!
+[12/22/2021 09:22]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[12/22/2021 09:22]  System: You have gained a good amount of fame.
+[12/22/2021 09:22]  System: You have gained a good amount of karma.
+[12/22/2021 09:22]  Stink Fist: (Earth Aspect 1,521.4/2000 xp)
+[12/22/2021 09:22]  System: -72
+[12/22/2021 09:22]  Razor: [HAM ON]
+[12/22/2021 09:22]  Razor: Bandage: 6s
+[12/22/2021 09:22]  You see: a wisp corpse
+[12/22/2021 09:22]  Razor: Bandage: 7s
+[12/22/2021 09:22]  Razor: Bandage: 8s
+[12/22/2021 09:22]  Razor: Bandage: 9s
+[12/22/2021 09:22]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:22]  System: You finish applying the bandages.
+[12/22/2021 09:22]  Stink Fist: +51
+[12/22/2021 09:22]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:22]  System: You carve materials from the corpse.
+[12/22/2021 09:22]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:22]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:22]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:22]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:22]  a silverback: a silverback
+[12/22/2021 09:22]  a swamp spider: a swamp spider
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  a giant swamp slug: -71
+[12/22/2021 09:22]  a giant swamp slug: -67
+[12/22/2021 09:22]  Stink Fist: -5
+[12/22/2021 09:22]  System: Who will you use the bandages on?
+[12/22/2021 09:22]  Razor: Healing Started
+[12/22/2021 09:22]  System: You begin applying the bandages.
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  Razor: Bandage: 1s
+[12/22/2021 09:22]  a giant swamp slug: -50
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  Razor: Bandage: 2s
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  a giant swamp slug: -54
+[12/22/2021 09:22]  Razor: Bandage: 3s
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  a giant swamp slug: -64
+[12/22/2021 09:22]  Razor: Bandage: 4s
+[12/22/2021 09:22]  Razor: Bandage: 5s
+[12/22/2021 09:22]  a giant swamp slug: -48
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  Razor: Bandage: 6s
+[12/22/2021 09:22]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:22]  Razor: [DISARM]
+[12/22/2021 09:22]  Razor: Attack: a giant swamp slug
+[12/22/2021 09:22]  System: Your strike disarms your target!
+[12/22/2021 09:22]  System: You have gained a little fame.
+[12/22/2021 09:22]  System: You have gained a little karma.
+[12/22/2021 09:22]  Stink Fist: (Earth Aspect 1,521.6/2000 xp)
+[12/22/2021 09:22]  System: -21
+[12/22/2021 09:22]  You see: a giant swamp slug corpse
+[12/22/2021 09:22]  Razor: Bandage: 7s
+[12/22/2021 09:22]  System: Holy symbols remaining: 9/10
+[12/22/2021 09:22]  Razor: Bandage: 8s
+[12/22/2021 09:22]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:22]  Razor: Bandage: 9s
+[12/22/2021 09:22]  System: You may now attempt to hamstring your opponents again.
+[12/22/2021 09:22]  Razor: [HAM ON]
+[12/22/2021 09:22]  Razor: Bandage: 10s
+[12/22/2021 09:22]  System: You finish applying the bandages.
+[12/22/2021 09:22]  Stink Fist: +3
+[12/22/2021 09:22]  System: Max holy symbols earned (10/10)
+[12/22/2021 09:22]  System: What corpse or location do you wish to carve?
+[12/22/2021 09:22]  System: You carve materials from the corpse.
+[12/22/2021 09:22]  System: You will receive +0.3% damage to creatures, +0.1% damage to players, and +0.1 to barding skills (expires in 3h).
+[12/22/2021 09:22]  Razor: [-Forensic Eval Bonus (s)]
+[12/22/2021 09:22]  Razor: [+Forensic Eval Bonus (10800s)]
+[12/22/2021 09:22]  System: [GridLoot]: Corpse is empty!
+[12/22/2021 09:22]  Stink Fist: Kal Ort Por [Recall]
+[12/22/2021 09:22]  System: You are now under the protection of the town guards.
+[12/22/2021 09:22]  a: (bonded)
+[12/22/2021 09:22]  a: a
+[12/22/2021 09:22]  b: (bonded)
+[12/22/2021 09:22]  b: b
+[12/22/2021 09:22]  an andarian mage: an andarian mage
+[12/22/2021 09:22]  Candida: Candida the cobbler
+[12/22/2021 09:22]  Leiko: Leiko the tinker
+[12/22/2021 09:22]  Stoyan: Stoyan the tinker
+[12/22/2021 09:22]  HondaCBR: *released*
+[12/22/2021 09:22]  HondaCBR: HondaCBR
+[12/22/2021 09:22]  Bart: Bart the Town Crier
+[12/22/2021 09:22]  ForestGrump: (bonded)
+[12/22/2021 09:22]  ForestGrump: ForestGrump
+[12/22/2021 09:22]  Wallice: Wallice
+[12/22/2021 09:22]  HUL: HUL
+[12/22/2021 09:22]  Killian: Killian the jeweler
+[12/22/2021 09:22]  A Work Bee: A Work Bee
+[12/22/2021 09:22]  System: You may now use a strength potion.
+[12/22/2021 09:22]  System: Your strength has changed by -20.  It is now 100
+[12/22/2021 09:22]  Razor: [-Strength (s)]
+[12/22/2021 09:22]  Razor: Str: -20 - 100
+[12/22/2021 09:22]  a dog: a dog
+[12/22/2021 09:22]  System: Opening door...
+[12/22/2021 09:22]  System: You may now use an agility potion.
+[12/22/2021 09:22]  System: Your dexterity has changed by -20.  It is now 100
+[12/22/2021 09:22]  Razor: [-Agility (s)]
+[12/22/2021 09:22]  Razor: Dex: -20 - 100
+[12/22/2021 09:22]  Killian: Killian the jeweler
+[12/22/2021 09:22]  System: You may now attempt to disarm your opponent again.
+[12/22/2021 09:22]  Razor: [DISARM]
+[12/22/2021 09:23]  System: Profanation has completed the achievement: Humanoid Slayer (Advanced).
+[12/22/2021 09:23]  Leiko: Leiko the tinker
+[12/22/2021 09:23]  a: (bonded)
+[12/22/2021 09:23]  a: a
+[12/22/2021 09:23]  b: (bonded)
+[12/22/2021 09:23]  b: b
+[12/22/2021 09:23]  HUL: HUL
+[12/22/2021 09:23]  Wallice: Wallice
+[12/22/2021 09:23]  an andarian mage: an andarian mage
+[12/22/2021 09:23]  Bart: Bart the Town Crier
+[12/22/2021 09:23]  a cat: a cat
+[12/22/2021 09:23]  Jarvan IV: [Demacian, LOL]
+[12/22/2021 09:23]  Jarvan IV: Lord Jarvan IV
+[12/22/2021 09:23]  HondaCBR: *released*
+[12/22/2021 09:23]  HondaCBR: HondaCBR
+[12/22/2021 09:23]  A Work Bee: A Work Bee
+[12/22/2021 09:23]  ForestGrump: (bonded)
+[12/22/2021 09:23]  ForestGrump: ForestGrump
+[12/22/2021 09:23]  Prizm: (*dishonored 5h 59m 1s*)
+[12/22/2021 09:23]  Prizm: [Officer, ftw]
+[12/22/2021 09:23]  Prizm: Prizm
+[12/22/2021 09:23]  Sirs: [Hello, PEC]
+[12/22/2021 09:23]  Sirs: Sirs
+[12/22/2021 09:23]  Departed: Departed
+[12/22/2021 09:23]  Roi: Roi the banker
+[12/22/2021 09:23]  Hardy Woods: (*dishonored 5h 59m*)
+[12/22/2021 09:23]  Hardy Woods: Hardy Woods
+[12/22/2021 09:23]  Britta: Britta the banker
+[12/22/2021 09:23]  Orlantha: Orlantha the banker
+[12/22/2021 09:23]  St.Pedro: [Recruit, gLc]
+[12/22/2021 09:23]  St.Pedro: St.Pedro
+[12/22/2021 09:23]  Lightsouls: Lightsouls
+[12/22/2021 09:23]  iknowU: iknowU
+[12/22/2021 09:23]  Bart: Yuletide candles and Winterlands tickets can drop on ANY monster, but there is a higher chance of getting these items from high difficulty monsters.
+[12/22/2021 09:23]  a dog: a dog
+[12/22/2021 09:23]  System: Playing Macro 'bank'...
+[12/22/2021 09:23]  System: Macro 'bank' finished.
+[12/22/2021 09:23]  Stink Fist: Bank Guards Vendor I ban thee
+[12/22/2021 09:23]  Stink Fist: Items: 4/125
+[12/22/2021 09:23]  Stink Fist: Total Weight: 1,368
+[12/22/2021 09:23]  a water elemental: (summoned)
+[12/22/2021 09:23]  a water elemental: a water elemental
+[12/22/2021 09:23]  a water elemental: (summoned)
+[12/22/2021 09:23]  a water elemental: a water elemental
+[12/22/2021 09:23]  Stink Fist: Kal Ort Por [Recall]
+[12/22/2021 09:23]  System: You have left the protection of the town guards.
+[12/22/2021 09:23]  a wolf: a wolf
+[12/22/2021 09:23]  System: Opening door...
+[12/22/2021 09:23]  System: Your house and its contents have been refreshed. 28 days 23 hours 9 minutes remaining until owner refresh required.
+[12/22/2021 09:23]  System: Madiba has completed the achievement: Construct Slayer (Basic).
+[12/22/2021 09:23]  System: You pour some of the keg's contents into an empty bottle...
+[12/22/2021 09:23]  System: ...and place it into your backpack.
+[12/22/2021 09:23]  System: The keg is now empty.
+[12/22/2021 09:23]  System: The keg is empty.
+[12/22/2021 09:23]  System: The keg is empty.
+[12/22/2021 09:23]  System: ...and place it into your backpack.
+[12/22/2021 09:24]  System: You pour some of the keg's contents into an empty bottle...
+[12/22/2021 09:24]  System: ...and place it into your backpack.
+[12/22/2021 09:24]  System: You pour some of the keg's contents into an empty bottle... [2]
+[12/22/2021 09:24]  System: ...and place it into your backpack. [2]
+[12/22/2021 09:24]  System: You pour some of the keg's contents into an empty bottle...
+[12/22/2021 09:25]  System: Organize Agent queued 4 item(s) to be moved. (This may take a few moments)
+[12/22/2021 09:25]  System: Finished 4 queued actions in 1.8 seconds.
+[12/22/2021 09:25]  System: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[12/22/2021 09:25]  System: Finished 5 queued actions in 2.4 seconds.
+[12/22/2021 09:25]  System: Warning: ribs amount is now 0!
+[12/22/2021 09:25]  Stink Fist: The food is paltry and is barely satisfying.
+[12/22/2021 09:25]  System: You are still slightly hungry.
+[12/22/2021 09:25]  Razor: [-Food Satisfaction (s)]
+[12/22/2021 09:25]  Razor: [+Food Satisfaction (3600s)]
+[12/22/2021 09:27]  System: 18° 43'N, 15° 32'E
+[12/22/2021 09:27]  Stink Fist: Kal Ort Por [Recall]
+[12/22/2021 09:27]  Vet Supplies: Vet Supplies
+[12/22/2021 09:27]  Dungeon Loot,rares: Dungeon Loot,rares
+[12/22/2021 09:27]  Magic,Invul,Supreme: Magic,Invul,Supreme
+[12/22/2021 09:27]  Lethal&Explosion: Lethal&Explosion
+[12/22/2021 09:27]  GCures: GCures
+[12/22/2021 09:27]  Refresh: Refresh
+[12/22/2021 09:27]  GResist,AGI,STR: GResist,AGI,STR
+[12/22/2021 09:27]  Shop Runes: Shop Runes
+[12/22/2021 09:27]  GHeals: GHeals
+[12/22/2021 09:27]  Battle Commendations: Battle Commendations
+[12/22/2021 09:27]  NICE VENDOR SHOP: NICE VENDOR SHOP
+[12/22/2021 09:27]  Exceed/supreme book: Exceed/supreme book
+[12/22/2021 09:27]  NewSS Core 21-12-20: NewSS Core 21-12-20
+[12/22/2021 09:27]  CHEAP STUFFS!: CHEAP STUFFS!
+[12/22/2021 09:27]  Oppa Noldaga: Oppa Noldaga
+[12/22/2021 09:27]  Battle Commendation: Battle Commendation
+[12/22/2021 09:27]  Syal: Pirate
+[12/22/2021 09:27]  Syal: [Constellation, ***]
+[12/22/2021 09:27]  Syal: Lord Syal
+[12/22/2021 09:27]  EVERYTHING CHEAP: EVERYTHING CHEAP
+[12/22/2021 09:27]  everything ii: everything ii
+[12/22/2021 09:27]  LEATHER BEST PRICE: LEATHER BEST PRICE
+[12/22/2021 09:27]  INSCRIPTION TAILOR: INSCRIPTION TAILOR
+[12/22/2021 09:27]  CHEAP LOOT PREV: CHEAP LOOT PREV
+[12/22/2021 09:27]  System: Playing Macro 'Healing'...
+[12/22/2021 09:27]  GCures: Take a look at my goods.
+[12/22/2021 09:27]  You see: Price: 2900
+[12/22/2021 09:27]  You see: a potion keg: greater cure
+[12/22/2021 09:27]  You see: The keg is completely full.
+[12/22/2021 09:27]  Refresh: Take a look at my goods.
+[12/22/2021 09:27]  Lethal&Explosion: Take a look at my goods.
+[12/22/2021 09:27]  You see: Price: 3700
+[12/22/2021 09:27]  You see: a potion keg: greater explosion
+[12/22/2021 09:27]  You see: The keg is completely full.
+[12/22/2021 09:27]  GHeals: Take a look at my goods.
+[12/22/2021 09:27]  Refresh: Take a look at my goods.
+[12/22/2021 09:27]  Magic,Invul,Supreme: Take a look at my goods.
+[12/22/2021 09:27]  Vet Supplies: Take a look at my goods.
+[12/22/2021 09:27]  Shop Runes: Take a look at my goods.
+[12/22/2021 09:27]  GResist,AGI,STR: Take a look at my goods.
+[12/22/2021 09:27]  You see: Price: 2900
+[12/22/2021 09:27]  You see: a potion keg: greater strength
+[12/22/2021 09:27]  You see: The keg is completely full.
+[12/22/2021 09:27]  Lethal&Explosion: Take a look at my goods.
+[12/22/2021 09:27]  You see: Price: 2900
+[12/22/2021 09:27]  You see: a potion keg: greater cure
+[12/22/2021 09:27]  You see: The keg is completely full.
+[12/22/2021 09:27]  System: You purchase the item.
+[12/22/2021 09:28]  Stink Fist: Kal Ort Por [Recall]
+[12/22/2021 09:28]  a wolf: a wolf
+[12/22/2021 09:28]  System: Opening door...
+[12/22/2021 09:28]  System: Your house and its contents have been refreshed. 28 days 23 hours 4 minutes remaining until owner refresh required.
+[12/22/2021 09:28]  : plaster wall window
+[12/22/2021 09:28]  You see: wooden door
+[12/22/2021 09:28]  a potion keg: [no longer locked down]
+[12/22/2021 09:28]  System: Lockdowns Used: 554 / 875
+[12/22/2021 09:28]  System: That is not in your house.
+[12/22/2021 09:28]  System: That is not in your house. [6]
+[12/22/2021 09:28]  : [Insecure Item]
+[12/22/2021 09:28]  System: No insecure containers found within house.
+[12/22/2021 09:28]  System: 1 insecure items found within house.
+[12/22/2021 09:28]  System: Displaying item results...
+[12/22/2021 09:28]  System: [Insecure Item] a potion keg at (3306, 493, 25)
+[12/22/2021 09:29]  a potion keg: [locked down]
+[12/22/2021 09:29]  System: Lockdowns Used: 555 / 875
+[12/22/2021 09:29]  a potion keg: [locked down]
+[12/22/2021 09:29]  System: Lockdowns Used: 556 / 875
+[12/22/2021 09:29]  System: No insecure containers found within house.
+[12/22/2021 09:29]  System: No insecure items found within house.
+[12/22/2021 09:29]  System: Displaying item results...
+[12/22/2021 09:29]  System: No insecure containers found within house.
+[12/22/2021 09:29]  System: No insecure items found within house.
+[12/22/2021 09:29]  System: Displaying item results...
+[12/22/2021 09:30]  System: MadFries has completed the achievement: Hardened Strategist.
+[12/22/2021 09:30]  System: The world will save in 15 seconds.
+[12/22/2021 09:30]  You see: a potion keg: lesser magic resistance
+[12/22/2021 09:30]  You see: The keg is completely full.
+[12/22/2021 09:31]  You see: a potion keg: greater strength
+[12/22/2021 09:31]  You see: The keg is nearly empty.
+[12/22/2021 09:31]  System: The world is saving, please wait.
+[12/22/2021 09:31]  System: World save complete. The entire process took 3.4 seconds.
+[12/22/2021 09:34]  System: Your food satisfaction effect has expired.
+[12/22/2021 09:34]  You see: (Organizer 1 HotBag)
+[12/22/2021 09:34]  You see: pouch
+[12/22/2021 09:34]  You see: (8 items, 1554 stones)
+[12/22/2021 09:34]  System: Real Zemeckis has completed the achievement: Scribe (Basic).

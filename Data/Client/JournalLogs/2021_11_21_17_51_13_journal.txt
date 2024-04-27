@@ -1,0 +1,538 @@
+[11/21/2021 17:51]  System: WorldMap loading...
+[11/21/2021 17:51]  System: Loading WorldMap markers..
+[11/21/2021 17:51]  System: ..Banks_and_Healers.xml (20)
+[11/21/2021 17:51]  System: ..Dungeons.xml (12)
+[11/21/2021 17:51]  System: ..Dungeon_Gates.xml (335)
+[11/21/2021 17:51]  System: ..Healer_Caravans.xml (32)
+[11/21/2021 17:51]  System: ..Moongates.xml (9)
+[11/21/2021 17:51]  System: ..POI.xml (176)
+[11/21/2021 17:51]  System: ..Shrines.xml (9)
+[11/21/2021 17:51]  System: ..Subterranean.xml (6)
+[11/21/2021 17:51]  System: ..Townships.xml (9)
+[11/21/2021 17:51]  System: WorldMap markers loaded (608)
+[11/21/2021 17:51]  System: Welcome Duluth Trading!
+[11/21/2021 17:51]  Razor: [- (s)]
+[11/21/2021 17:51]  Razor: [+Hidden/Stealthing (0s)]
+[11/21/2021 17:51]  System: Your food satisfaction effect has expired.
+[11/21/2021 17:51]  a wolf: a wolf
+[11/21/2021 17:51]  a wolf: a wolf
+[11/21/2021 17:51]  a giant spider: a giant spider
+[11/21/2021 17:51]  a giant spider: a giant spider
+[11/21/2021 17:51]  System: WorldMap loaded!
+[11/21/2021 17:51]  Duluth Trading: The food is paltry and is barely satisfying.
+[11/21/2021 17:51]  System: You are still slightly hungry.
+[11/21/2021 17:51]  Razor: [+Food Satisfaction (3600s)]
+[11/21/2021 17:51]  System: Your campfire is now secure.
+[11/21/2021 17:51]  System: You feel rested and comforted by the camp. (+5.0% damage to creatures and +2.0% damage to players).
+[11/21/2021 17:51]  Razor: [+Campfire Visit (10800s)]
+[11/21/2021 17:51]  You see: leather : 226
+[11/21/2021 17:51]  You see: leather : 5000
+[11/21/2021 17:52]  System: Crafting queue begun.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (1/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (2/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (3/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (4/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:52]  System: Studded Gorget (4/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (4/300 made): You failed to create the item, and some of your materials are lost. [2]
+[11/21/2021 17:52]  System: Studded Gorget (5/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:52]  System: Studded Gorget (6/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (7/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:52]  System: Studded Gorget (7/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (8/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:52]  System: Studded Gorget (9/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (7/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (10/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (10/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:52]  System: Studded Gorget (11/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (12/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (13/300 made): You create an exceptional quality item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:52]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:52]  System: Studded Gorget (13/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (14/300 made): You create the item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:52]  System: Studded Gorget (15/300 made): You create the item.
+[11/21/2021 17:52]  System: Studded Gorget (16/300 made): You create an exceptional quality item.
+[11/21/2021 17:52]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (17/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (18/300 made): You create an exceptional quality item.
+[11/21/2021 17:53]  System: Studded Gorget (19/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (19/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (20/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (20/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (21/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (22/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (23/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (24/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (25/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (26/300 made): You create an exceptional quality item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (27/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (28/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (29/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (30/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (31/300 made): You create an exceptional quality item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (32/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (33/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (34/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (35/300 made): You create the item.
+[11/21/2021 17:53]  Razor: [Cooking] -0.1 3.7 (-0.1)
+[11/21/2021 17:53]  Razor: [Tailoring] +0.1 79.2 (+0.1)
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (36/300 made): You create the item.
+[11/21/2021 17:53]  System: GoodLifeGaming has completed the achievement: Connoisseur (Basic).
+[11/21/2021 17:53]  System: Studded Gorget (37/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:53]  System: Studded Gorget (38/300 made): You create the item.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:53]  System: Studded Gorget (39/300 made): You create the item.
+[11/21/2021 17:53]  System: Studded Gorget (39/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:53]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget (40/300 made): You create an exceptional quality item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (41/300 made): You create an exceptional quality item.
+[11/21/2021 17:54]  System: Studded Gorget (42/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget (42/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (43/300 made): You create the item.
+[11/21/2021 17:54]  System: Studded Gorget (44/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget (44/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (45/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget (44/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:54]  System: Studded Gorget (46/300 made): You create an exceptional quality item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (47/300 made): You create the item.
+[11/21/2021 17:54]  System: Studded Gorget (47/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget (48/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (49/300 made): You create the item.
+[11/21/2021 17:54]  System: Studded Gorget (50/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget (51/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:54]  System: Studded Gorget (52/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (53/300 made): You create the item.
+[11/21/2021 17:54]  System: Studded Gorget (54/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:54]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:54]  System: Studded Gorget (55/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (56/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Studded Gorget (57/300 made): You create the item.
+[11/21/2021 17:54]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:54]  System: The world will save in 15 seconds.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:54]  System: Purebrood (PURE) guild has reached prestige level 5.
+[11/21/2021 17:54]  System: Studded Gorget (58/300 made): You create the item.
+[11/21/2021 17:54]  System: Studded Gorget (59/300 made): You create the item.
+[11/21/2021 17:54]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Studded Gorget (59/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (60/300 made): You create the item.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (61/300 made): You create the item.
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: The world is saving, please wait.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: World save complete. The entire process took 3.3 seconds.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (62/300 made): You create an exceptional quality item.
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Studded Gorget (62/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (63/300 made): You create the item.
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Studded Gorget (62/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:55]  System: Studded Gorget (64/300 made): You create the item.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:55]  System: Studded Gorget (65/300 made): You create the item.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (66/300 made): You create the item.
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (67/300 made): You create the item.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (68/300 made): You create the item.
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (69/300 made): You create the item.
+[11/21/2021 17:55]  System: Studded Gorget (70/300 made): You create the item.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Studded Gorget (71/300 made): You create the item.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (71/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:55]  System: Studded Gorget (72/300 made): You create the item.
+[11/21/2021 17:55]  System: Studded Gorget (73/300 made): You create the item.
+[11/21/2021 17:55]  System: [TS] A Town Struggle (mountless) will begin in 5 minutes. Town struggles may be accessed via green battle gates near each town bank. Type [TownStruggle to view more details.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:55]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:55]  System: Studded Gorget (73/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:55]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (73/300 made): You failed to create the item, and some of your materials are lost. [2]
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (73/300 made): You failed to create the item, and some of your materials are lost. [3]
+[11/21/2021 17:56]  System: Studded Gorget (74/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (75/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: You have worn out your tool!
+[11/21/2021 17:56]  System: Studded Gorget (76/300 made): You create the item.
+[11/21/2021 17:56]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:56]  System: Studded Gorget (76/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (77/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (78/300 made): You create the item.
+[11/21/2021 17:56]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (79/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (80/300 made): You create the item.
+[11/21/2021 17:56]  System: Studded Gorget (81/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (81/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (82/300 made): You create the item.
+[11/21/2021 17:56]  System: Studded Gorget (83/300 made): You create an exceptional quality item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (83/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (84/300 made): You create the item.
+[11/21/2021 17:56]  System: Studded Gorget (85/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (85/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (86/300 made): You create an exceptional quality item.
+[11/21/2021 17:56]  System: Studded Gorget (87/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:56]  System: Studded Gorget (88/300 made): You create the item.
+[11/21/2021 17:56]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:56]  System: Studded Gorget (89/300 made): You create the item.
+[11/21/2021 17:56]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:56]  System: Studded Gorget (90/300 made): You create the item.
+[11/21/2021 17:56]  Razor: [Cooking] -0.1 3.6 (-0.2)
+[11/21/2021 17:56]  Razor: [Tailoring] +0.1 79.3 (+0.2)
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (91/300 made): You create an exceptional quality item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (92/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (93/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (94/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (95/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (96/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (97/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (98/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (99/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (100/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (101/300 made): You create an exceptional quality item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (102/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (103/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (104/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (105/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (105/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (106/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (107/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (108/300 made): You create the item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (109/300 made): You create the item.
+[11/21/2021 17:57]  System: Studded Gorget (110/300 made): You create an exceptional quality item.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (111/300 made): You create the item.
+[11/21/2021 17:57]  Razor: [Cooking] -0.1 3.5 (-0.3)
+[11/21/2021 17:57]  Razor: [Tailoring] +0.1 79.4 (+0.3)
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:57]  System: Studded Gorget (111/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:57]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:57]  System: Studded Gorget (112/300 made): You create the item.
+[11/21/2021 17:58]  System: A contested ocean boss has spawned!
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (113/300 made): You create an exceptional quality item.
+[11/21/2021 17:58]  System: Studded Gorget (111/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  System: Studded Gorget (114/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Studded Gorget (114/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (115/300 made): You create the item.
+[11/21/2021 17:58]  System: Studded Gorget (115/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (116/300 made): You create the item.
+[11/21/2021 17:58]  System: Studded Gorget (115/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  System: Studded Gorget (116/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Studded Gorget (117/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (118/300 made): You create an exceptional quality item.
+[11/21/2021 17:58]  System: Studded Gorget (119/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Studded Gorget (120/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (121/300 made): You create the item.
+[11/21/2021 17:58]  System: Studded Gorget (122/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:58]  System: Studded Gorget (123/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (124/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (125/300 made): You create the item.
+[11/21/2021 17:58]  System: Studded Gorget (126/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Studded Gorget (127/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (128/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:58]  System: Studded Gorget (128/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  System: Studded Gorget (129/300 made): You create the item.
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:58]  System: Studded Gorget (130/300 made): You create an exceptional quality item.
+[11/21/2021 17:58]  System: Studded Gorget (130/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:58]  Razor: [Cooking] -0.1 3.4 (-0.4)
+[11/21/2021 17:58]  Razor: [Tailoring] +0.1 79.5 (+0.4)
+[11/21/2021 17:58]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (131/300 made): You create the item.
+[11/21/2021 17:59]  System: Studded Gorget (132/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (130/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Studded Gorget (132/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (133/300 made): You create the item.
+[11/21/2021 17:59]  System: Studded Gorget (134/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (135/300 made): You create an exceptional quality item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (135/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Studded Gorget (136/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (136/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (137/300 made): You create the item.
+[11/21/2021 17:59]  System: Studded Gorget (138/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 17:59]  System: Studded Gorget (139/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (139/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (140/300 made): You create the item.
+[11/21/2021 17:59]  System: Studded Gorget (139/300 made): You failed to create the item, and some of your materials are lost. [2]
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (141/300 made): You create an exceptional quality item.
+[11/21/2021 17:59]  System: Studded Gorget (141/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (142/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (142/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Studded Gorget (143/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (144/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667%
+[11/21/2021 17:59]  System: Studded Gorget (144/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 17:59]  System: Studded Gorget (145/300 made): You create the item.
+[11/21/2021 17:59]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 17:59]  System: Studded Gorget (146/300 made): You create an exceptional quality item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (146/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:00]  System: Studded Gorget (147/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (148/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (149/300 made): You create the item.
+[11/21/2021 18:00]  System: Studded Gorget (150/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (151/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: You have worn out your tool!
+[11/21/2021 18:00]  System: Studded Gorget (151/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:00]  System: Studded Gorget (152/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (153/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (154/300 made): You create the item.
+[11/21/2021 18:00]  System: Studded Gorget (155/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (156/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (156/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (157/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (156/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:00]  System: Studded Gorget (158/300 made): You create the item.
+[11/21/2021 18:00]  System: Studded Gorget (159/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (160/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (161/300 made): You create an exceptional quality item.
+[11/21/2021 18:00]  System: Studded Gorget (162/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (163/300 made): You create an exceptional quality item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (164/300 made): You create the item.
+[11/21/2021 18:00]  System: [TS] A Town Struggle (mountless) for Prevalia Southwest has begun! Type [TownStruggle to view more details.
+[11/21/2021 18:00]  System: Studded Gorget (164/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:00]  System: Studded Gorget (165/300 made): You create the item.
+[11/21/2021 18:00]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:00]  System: Studded Gorget (166/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (166/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget (167/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (167/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget (168/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (167/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:01]  System: Studded Gorget (169/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (170/300 made): You create an exceptional quality item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget (171/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (172/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (172/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget (173/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (174/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (175/300 made): You create an exceptional quality item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 18:01]  System: Studded Gorget (176/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (177/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (178/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (179/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (180/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget (180/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (181/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (182/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:01]  System: Studded Gorget (183/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:01]  System: Studded Gorget (184/300 made): You create the item.
+[11/21/2021 18:01]  System: Studded Gorget (185/300 made): You create the item.
+[11/21/2021 18:01]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 18:02]  System: Studded Gorget (186/300 made): You create an exceptional quality item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (186/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (187/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (186/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:02]  System: Studded Gorget (187/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (188/300 made): You create the item.
+[11/21/2021 18:02]  System: Studded Gorget (189/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (190/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (191/300 made): You create the item.
+[11/21/2021 18:02]  System: Studded Gorget (192/300 made): You create an exceptional quality item.
+[11/21/2021 18:02]  Razor: [Cooking] -0.1 3.3 (-0.5)
+[11/21/2021 18:02]  Razor: [Tailoring] +0.1 79.6 (+0.5)
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (193/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (194/300 made): You create an exceptional quality item.
+[11/21/2021 18:02]  System: Studded Gorget (195/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (196/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (197/300 made): You create the item.
+[11/21/2021 18:02]  System: Studded Gorget (198/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (199/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 18:02]  System: Studded Gorget (200/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (200/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:02]  System: Studded Gorget (201/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (202/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:02]  System: Studded Gorget (203/300 made): You create the item.
+[11/21/2021 18:02]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 18:02]  System: Studded Gorget (204/300 made): You create an exceptional quality item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:02]  System: Studded Gorget (205/300 made): You create the item.
+[11/21/2021 18:02]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:03]  System: Studded Gorget (206/300 made): You create the item.
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:03]  System: Studded Gorget (206/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:03]  System: Studded Gorget (207/300 made): You create the item.
+[11/21/2021 18:03]  You see: leather : 133
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:03]  System: Studded Gorget (208/300 made): You create the item.
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:03]  System: Studded Gorget (209/300 made): You create an exceptional quality item.
+[11/21/2021 18:03]  System: Studded Gorget (210/300 made): You create the item.
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667% [2]
+[11/21/2021 18:03]  System: Studded Gorget (211/300 made): You create the item.
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:03]  System: Studded Gorget: You must wait to perform another action.
+[11/21/2021 18:03]  System: Studded Gorget (212/300 made): You create the item.
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667%
+[11/21/2021 18:03]  System: Studded Gorget (212/300 made): You failed to create the item, and some of your materials are lost.
+[11/21/2021 18:03]  System: Crafting queue stopped.
+[11/21/2021 18:03]  System: Tailoring skillgain: 1.667% [2]

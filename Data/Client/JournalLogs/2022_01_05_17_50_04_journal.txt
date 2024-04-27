@@ -1,0 +1,452 @@
+[01/05/2022 17:50]  System: WorldMap loading...
+[01/05/2022 17:50]  System: Loading WorldMap markers..
+[01/05/2022 17:50]  System: ..Banks_and_Healers.xml (20)
+[01/05/2022 17:50]  System: ..Dungeons.xml (12)
+[01/05/2022 17:50]  System: ..Dungeon_Gates.xml (335)
+[01/05/2022 17:50]  System: ..Healer_Caravans.xml (32)
+[01/05/2022 17:50]  System: ..Moongates.xml (9)
+[01/05/2022 17:50]  System: ..POI.xml (176)
+[01/05/2022 17:50]  System: ..Shrines.xml (9)
+[01/05/2022 17:50]  System: ..Subterranean.xml (6)
+[01/05/2022 17:50]  System: ..Townships.xml (9)
+[01/05/2022 17:50]  System: WorldMap markers loaded (608)
+[01/05/2022 17:50]  System: Welcome Duluth Trading!
+[01/05/2022 17:50]  Razor: [- (s)]
+[01/05/2022 17:50]  Razor: [+Campfire Visit (10441s)]
+[01/05/2022 17:50]  Duluth Trading: Duluth Trading
+[01/05/2022 17:50]  System: WorldMap loaded!
+[01/05/2022 17:50]  System: Vampir has completed the achievement: Savant (Basic).
+[01/05/2022 17:50]  System: Hojo Masako has completed the achievement: Affluent (Basic).
+[01/05/2022 17:50]  System: Deathroll has completed the achievement: Summoning (Basic).
+[01/05/2022 17:51]  Duluth Trading: The food is paltry and is barely satisfying.
+[01/05/2022 17:51]  System: You are still slightly hungry.
+[01/05/2022 17:51]  Razor: [+Food Satisfaction (3600s)]
+[01/05/2022 17:51]  System: Your campfire is now secure.
+[01/05/2022 17:51]  System: You feel rested and comforted by the camp. (+17.5% damage to creatures and +7.0% damage to players).
+[01/05/2022 17:51]  Razor: [-Campfire Visit (s)]
+[01/05/2022 17:51]  Razor: [+Campfire Visit (10800s)]
+[01/05/2022 17:51]  System: Ciompy has completed the achievement: Wilderness Hunter (Basic).
+[01/05/2022 17:52]  System: Chicken Nugget has completed the achievement: Shipwright (Advanced).
+[01/05/2022 17:52]  System: You begin hiking to your destination.
+[01/05/2022 17:52]  Duluth Trading: *hiking to destination*
+[01/05/2022 17:52]  Razor: [+Paralyze (4s)]
+[01/05/2022 17:52]  Razor: [-Paralyze (s)]
+[01/05/2022 17:52]  Razor: [+Paralyze (3s)]
+[01/05/2022 17:52]  Duluth Trading: *hiking to destination*
+[01/05/2022 17:52]  Razor: [-Paralyze (s)]
+[01/05/2022 17:52]  Razor: [+Paralyze (1s)]
+[01/05/2022 17:52]  Duluth Trading: *hiking to destination*
+[01/05/2022 17:52]  Razor: [-Paralyze (s)]
+[01/05/2022 17:52]  Razor: [+Paralyze (0s)]
+[01/05/2022 17:52]  System: You are no longer hindered.
+[01/05/2022 17:52]  Razor: [-Paralyze (s)]
+[01/05/2022 17:52]  System: You are now under the protection of the town guards.
+[01/05/2022 17:52]  System: You hike to your destination.
+[01/05/2022 17:52]  Duluth Trading: *You have arrived at your destination*
+[01/05/2022 17:52]  an andarian footman: an andarian footman
+[01/05/2022 17:52]  an andarian footman: an andarian footman
+[01/05/2022 17:52]  Ordano: Ordano the alchemist
+[01/05/2022 17:52]  Ordano: Ordano the alchemist
+[01/05/2022 17:52]  Marily: Marily the scribe
+[01/05/2022 17:52]  Marily: Marily the scribe
+[01/05/2022 17:52]  Geva: Geva the alchemist
+[01/05/2022 17:52]  Geva: Geva the alchemist
+[01/05/2022 17:52]  Odon: Odon the mage
+[01/05/2022 17:52]  Odon: Odon the mage
+[01/05/2022 17:52]  Kalyca: Kalyca the miner
+[01/05/2022 17:52]  Kalyca: Kalyca the miner
+[01/05/2022 17:52]  Jun: Jun the cook
+[01/05/2022 17:52]  Jun: Jun the cook
+[01/05/2022 17:52]  a pack horse: (tame)
+[01/05/2022 17:52]  a pack horse: [2000/2000 stones]
+[01/05/2022 17:52]  a pack horse: a pack horse
+[01/05/2022 17:52]  a pack horse: (tame)
+[01/05/2022 17:52]  a pack horse: [2000/2000 stones]
+[01/05/2022 17:52]  a pack horse: a pack horse
+[01/05/2022 17:52]  a pack horse: (tame)
+[01/05/2022 17:52]  a pack horse: [1848/2000 stones]
+[01/05/2022 17:52]  a pack horse: a pack horse
+[01/05/2022 17:52]  a pack horse: (tame)
+[01/05/2022 17:52]  a pack horse: [1848/2000 stones]
+[01/05/2022 17:52]  a pack horse: a pack horse
+[01/05/2022 17:52]  a pack llama: (tame)
+[01/05/2022 17:52]  a pack llama: [2000/2000 stones]
+[01/05/2022 17:52]  a pack llama: a pack llama
+[01/05/2022 17:52]  a pack llama: (tame)
+[01/05/2022 17:52]  a pack llama: [2000/2000 stones]
+[01/05/2022 17:52]  a pack llama: a pack llama
+[01/05/2022 17:52]  DiXoN the Lake: [Recruit, NEW!]
+[01/05/2022 17:52]  DiXoN the Lake: DiXoN the Lake
+[01/05/2022 17:52]  DiXoN the Lake: [Recruit, NEW!]
+[01/05/2022 17:52]  DiXoN the Lake: DiXoN the Lake
+[01/05/2022 17:52]  Daily: Daily the barkeep
+[01/05/2022 17:52]  Daily: Daily the barkeep
+[01/05/2022 17:52]  You see: shadowhide bone gorget
+[01/05/2022 17:53]  You see: shadowhide bone gorget
+[01/05/2022 17:53]  Daily: Daily the barkeep
+[01/05/2022 17:53]  Daily: Daily the barkeep
+[01/05/2022 17:53]  System: Target an individual item to recycle.
+[01/05/2022 17:53]  DiXoN the Lake: [Recruit, NEW!]
+[01/05/2022 17:53]  DiXoN the Lake: DiXoN the Lake
+[01/05/2022 17:53]  DiXoN the Lake: [Recruit, NEW!]
+[01/05/2022 17:53]  DiXoN the Lake: DiXoN the Lake
+[01/05/2022 17:53]  a pack llama: (tame)
+[01/05/2022 17:53]  a pack llama: [2000/2000 stones]
+[01/05/2022 17:53]  a pack llama: a pack llama
+[01/05/2022 17:53]  a pack llama: (tame)
+[01/05/2022 17:53]  a pack llama: [2000/2000 stones]
+[01/05/2022 17:53]  a pack llama: a pack llama
+[01/05/2022 17:53]  a pack horse: (tame)
+[01/05/2022 17:53]  a pack horse: [1848/2000 stones]
+[01/05/2022 17:53]  a pack horse: a pack horse
+[01/05/2022 17:53]  a pack horse: (tame)
+[01/05/2022 17:53]  a pack horse: [1848/2000 stones]
+[01/05/2022 17:53]  a pack horse: a pack horse
+[01/05/2022 17:53]  a pack horse: (tame)
+[01/05/2022 17:53]  a pack horse: [2000/2000 stones]
+[01/05/2022 17:53]  a pack horse: a pack horse
+[01/05/2022 17:53]  a pack horse: (tame)
+[01/05/2022 17:53]  a pack horse: [2000/2000 stones]
+[01/05/2022 17:53]  a pack horse: a pack horse
+[01/05/2022 17:53]  You see: exceptional shadowhide bone gorget
+[01/05/2022 17:53]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:53]  Neverforget: Neverforget
+[01/05/2022 17:53]  Neverforget: Neverforget
+[01/05/2022 17:53]  i: (tame)
+[01/05/2022 17:53]  i: [264/2000 stones]
+[01/05/2022 17:53]  i: i
+[01/05/2022 17:53]  i: (tame)
+[01/05/2022 17:53]  i: [264/2000 stones]
+[01/05/2022 17:53]  i: i
+[01/05/2022 17:53]  System: Target an individual item to recycle.
+[01/05/2022 17:53]  Neverforget: Neverforget
+[01/05/2022 17:53]  Neverforget: Neverforget
+[01/05/2022 17:53]  i: (tame)
+[01/05/2022 17:53]  i: [264/2000 stones]
+[01/05/2022 17:53]  i: i
+[01/05/2022 17:53]  i: (tame)
+[01/05/2022 17:53]  i: [264/2000 stones]
+[01/05/2022 17:53]  i: i
+[01/05/2022 17:53]  Neverforget: Kal Ort Por [Recall]
+[01/05/2022 17:53]  Kalyca: Kalyca the miner
+[01/05/2022 17:53]  Kalyca: Kalyca the miner
+[01/05/2022 17:53]  Eterna: (bonded)
+[01/05/2022 17:53]  Eterna: Eterna
+[01/05/2022 17:53]  Eterna: (bonded)
+[01/05/2022 17:53]  Eterna: Eterna
+[01/05/2022 17:53]  Eterna: (bonded)
+[01/05/2022 17:53]  Eterna: Eterna
+[01/05/2022 17:53]  Eterna: (bonded)
+[01/05/2022 17:53]  Eterna: Eterna
+[01/05/2022 17:53]  Eterna: (bonded)
+[01/05/2022 17:53]  Eterna: Eterna
+[01/05/2022 17:53]  Eterna: (bonded)
+[01/05/2022 17:53]  Eterna: Eterna
+[01/05/2022 17:53]  Dellaniir: Hardened Beastmaster
+[01/05/2022 17:53]  Dellaniir: Lady Dellaniir
+[01/05/2022 17:53]  Dellaniir: Hardened Beastmaster
+[01/05/2022 17:53]  Dellaniir: Lady Dellaniir
+[01/05/2022 17:53]  a black widow: (bonded)
+[01/05/2022 17:53]  a black widow: a black widow
+[01/05/2022 17:53]  a black widow: (bonded)
+[01/05/2022 17:53]  a black widow: a black widow
+[01/05/2022 17:53]  a reef serpent: (bonded)
+[01/05/2022 17:53]  a reef serpent: a reef serpent
+[01/05/2022 17:53]  a reef serpent: (bonded)
+[01/05/2022 17:53]  a reef serpent: a reef serpent
+[01/05/2022 17:53]  a sphinx: (bonded)
+[01/05/2022 17:53]  a sphinx: a sphinx
+[01/05/2022 17:53]  a sphinx: (bonded)
+[01/05/2022 17:53]  a sphinx: a sphinx
+[01/05/2022 17:53]  Zithus: Domesticator
+[01/05/2022 17:53]  Zithus: Zithus
+[01/05/2022 17:53]  Zithus: Domesticator
+[01/05/2022 17:53]  Zithus: Zithus
+[01/05/2022 17:53]  an andarian marksman: an andarian marksman
+[01/05/2022 17:53]  an andarian marksman: an andarian marksman
+[01/05/2022 17:54]  You see: exceptional shadowhide bone gloves
+[01/05/2022 17:54]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:54]  System: DomDom has completed the achievement: Affluent (Epic).
+[01/05/2022 17:54]  Luva Inspired: Luva Inspired
+[01/05/2022 17:54]  Luva Inspired: Luva Inspired
+[01/05/2022 17:54]  You see: shadowhide bone arms
+[01/05/2022 17:54]  You see: shadowhide bone arms
+[01/05/2022 17:54]  Kalyca: Kalyca the miner
+[01/05/2022 17:54]  Kalyca: Kalyca the miner
+[01/05/2022 17:54]  You see: exceptional shadowhide bone arms
+[01/05/2022 17:54]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:54]  System: The world will save in 15 seconds.
+[01/05/2022 17:55]  Kalyca: Kalyca the miner
+[01/05/2022 17:55]  Kalyca: Kalyca the miner
+[01/05/2022 17:55]  System: The world is saving, please wait.
+[01/05/2022 17:55]  System: World save complete. The entire process took 4.5 seconds.
+[01/05/2022 17:55]  You see: exceptional shadowhide bone legs
+[01/05/2022 17:55]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:55]  You see: exceptional shadowhide bone legs
+[01/05/2022 17:55]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:55]  You see: exceptional shadowhide bone chest
+[01/05/2022 17:55]  You see: exceptional shadowhide bone chest
+[01/05/2022 17:55]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:55]  Kalyca: Kalyca the miner
+[01/05/2022 17:55]  Kalyca: Kalyca the miner
+[01/05/2022 17:55]  System: Target an individual item to recycle.
+[01/05/2022 17:55]  d: (tame)
+[01/05/2022 17:55]  d: [0/2000 stones]
+[01/05/2022 17:55]  d: d
+[01/05/2022 17:55]  d: (tame)
+[01/05/2022 17:55]  d: [0/2000 stones]
+[01/05/2022 17:55]  d: d
+[01/05/2022 17:55]  a: (tame)
+[01/05/2022 17:55]  a: [102/2000 stones]
+[01/05/2022 17:55]  a: a
+[01/05/2022 17:55]  a: (tame)
+[01/05/2022 17:55]  a: [102/2000 stones]
+[01/05/2022 17:55]  a: a
+[01/05/2022 17:55]  c: (tame)
+[01/05/2022 17:55]  c: [0/2000 stones]
+[01/05/2022 17:55]  c: c
+[01/05/2022 17:55]  c: (tame)
+[01/05/2022 17:55]  c: [0/2000 stones]
+[01/05/2022 17:55]  c: c
+[01/05/2022 17:55]  b: (tame)
+[01/05/2022 17:55]  b: [0/2000 stones]
+[01/05/2022 17:55]  b: b
+[01/05/2022 17:55]  b: (tame)
+[01/05/2022 17:55]  b: [0/2000 stones]
+[01/05/2022 17:55]  b: b
+[01/05/2022 17:55]  e: (tame)
+[01/05/2022 17:55]  e: [0/2000 stones]
+[01/05/2022 17:55]  e: e
+[01/05/2022 17:55]  e: (tame)
+[01/05/2022 17:55]  e: [0/2000 stones]
+[01/05/2022 17:55]  e: e
+[01/05/2022 17:55]  Wish me Luck: [BRA]
+[01/05/2022 17:55]  Wish me Luck: Wish me Luck
+[01/05/2022 17:55]  Wish me Luck: [BRA]
+[01/05/2022 17:55]  Wish me Luck: Wish me Luck
+[01/05/2022 17:55]  System: Target an individual item to recycle.
+[01/05/2022 17:55]  System: Target an individual item to recycle.
+[01/05/2022 17:55]  Giorgione: Giorgione
+[01/05/2022 17:55]  Giorgione: Giorgione
+[01/05/2022 17:55]  System: Target an individual item to recycle.
+[01/05/2022 17:56]  an earth elemental: (summoned)
+[01/05/2022 17:56]  an earth elemental: an earth elemental
+[01/05/2022 17:56]  an earth elemental: (summoned)
+[01/05/2022 17:56]  an earth elemental: an earth elemental
+[01/05/2022 17:56]  System: Target an individual item to recycle.
+[01/05/2022 17:56]  an ancient mummy: (summoned)
+[01/05/2022 17:56]  an ancient mummy: an ancient mummy
+[01/05/2022 17:56]  an ancient mummy: (summoned)
+[01/05/2022 17:56]  an ancient mummy: an ancient mummy
+[01/05/2022 17:56]  System: Target an individual item to recycle.
+[01/05/2022 17:56]  Kalyca: Kalyca the miner
+[01/05/2022 17:56]  Kalyca: Kalyca the miner
+[01/05/2022 17:56]  System: Target an individual item to recycle.
+[01/05/2022 17:56]  System: Target an individual item to recycle.
+[01/05/2022 17:56]  You see: pouch
+[01/05/2022 17:56]  You see: (0 items, 0 stones)
+[01/05/2022 17:56]  System: [TS] A Town Struggle (mountless) will begin in 5 minutes. Town struggles may be accessed via green battle gates near each town bank. Type [TownStruggle to view more details.
+[01/05/2022 17:56]  Daily: Daily the barkeep
+[01/05/2022 17:56]  Daily: Daily the barkeep
+[01/05/2022 17:56]  You see: half apron
+[01/05/2022 17:56]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:56]  a flamehound: (summoned)
+[01/05/2022 17:56]  a flamehound: a flamehound
+[01/05/2022 17:56]  a flamehound: (summoned)
+[01/05/2022 17:56]  a flamehound: a flamehound
+[01/05/2022 17:56]  StabbnCabn: [G.G]
+[01/05/2022 17:56]  StabbnCabn: StabbnCabn
+[01/05/2022 17:56]  StabbnCabn: [G.G]
+[01/05/2022 17:56]  StabbnCabn: StabbnCabn
+[01/05/2022 17:56]  Kalyca: Kalyca the miner
+[01/05/2022 17:56]  Kalyca: Kalyca the miner
+[01/05/2022 17:56]  Danadobr: Legendary Blacksmith
+[01/05/2022 17:56]  Danadobr: [Oficial, BRA]
+[01/05/2022 17:56]  Danadobr: Danadobr
+[01/05/2022 17:56]  Danadobr: Legendary Blacksmith
+[01/05/2022 17:56]  Danadobr: [Oficial, BRA]
+[01/05/2022 17:56]  Danadobr: Danadobr
+[01/05/2022 17:57]  Kalyca: Kalyca the miner
+[01/05/2022 17:57]  Kalyca: Kalyca the miner
+[01/05/2022 17:57]  a flamehound: (summoned)
+[01/05/2022 17:57]  a flamehound: a flamehound
+[01/05/2022 17:57]  a flamehound: (summoned)
+[01/05/2022 17:57]  a flamehound: a flamehound
+[01/05/2022 17:57]  StabbnCabn: [G.G]
+[01/05/2022 17:57]  StabbnCabn: StabbnCabn
+[01/05/2022 17:57]  StabbnCabn: [G.G]
+[01/05/2022 17:57]  StabbnCabn: StabbnCabn
+[01/05/2022 17:57]  System: Target an individual item to recycle.
+[01/05/2022 17:57]  System: Target an individual item to recycle.
+[01/05/2022 17:57]  Kalyca: Kalyca the miner
+[01/05/2022 17:57]  Kalyca: Kalyca the miner
+[01/05/2022 17:57]  Kalyca: Kalyca the miner
+[01/05/2022 17:57]  Kalyca: Kalyca the miner
+[01/05/2022 17:57]  Duluth Trading: Kal Ort Por [Recall]
+[01/05/2022 17:57]  System: You have left the protection of the town guards.
+[01/05/2022 17:57]  a troll: a troll
+[01/05/2022 17:57]  a troll: a troll
+[01/05/2022 17:57]  System: Playing Macro 'Healing'...
+[01/05/2022 17:57]  System: Opening door...
+[01/05/2022 17:57]  System: Your house and its contents have been refreshed. 29 days 16 hours 16 minutes remaining until owner refresh required.
+[01/05/2022 17:57]  System: Where will you search?
+[01/05/2022 17:57]  System: You search the home and find no one hiding within.
+[01/05/2022 17:57]  You see: cloth : 2
+[01/05/2022 17:57]  You see: half apron
+[01/05/2022 17:57]  System: What should I use these scissors on?
+[01/05/2022 17:57]  System: Your campfire is now secure.
+[01/05/2022 17:57]  a troll: a troll
+[01/05/2022 17:57]  a troll: a troll
+[01/05/2022 17:57]  System: What should I use these scissors on?
+[01/05/2022 17:58]  You see: cloth : 6
+[01/05/2022 17:58]  You see: (hue 803)
+[01/05/2022 17:58]  You see: cloth : 8
+[01/05/2022 17:58]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/05/2022 17:58]  System: You dye an item.
+[01/05/2022 17:58]  You see: robe
+[01/05/2022 17:58]  You see: floppy hat
+[01/05/2022 17:59]  System: What should I use these scissors on?
+[01/05/2022 17:59]  System: What should I use these scissors on?
+[01/05/2022 17:59]  System: What should I use these scissors on?
+[01/05/2022 17:59]  System: What should I use these scissors on?
+[01/05/2022 17:59]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/05/2022 17:59]  System: You dye an item.
+[01/05/2022 17:59]  You see: cloth : 26
+[01/05/2022 17:59]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/05/2022 17:59]  System: You dye an item.
+[01/05/2022 17:59]  You see: half apron
+[01/05/2022 17:59]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:59]  You see: exceptional shadowhide bone chest
+[01/05/2022 17:59]  You see: [crafted by Duluth Trading]
+[01/05/2022 17:59]  System: Mote has completed the achievement: Illusionist (Basic).
+[01/05/2022 18:01]  System: [TS] A Town Struggle (mountless) for Andaria South has begun! Type [TownStruggle to view more details.
+[01/05/2022 18:01]  You see: half apron
+[01/05/2022 18:01]  You see: [crafted by Duluth Trading]
+[01/05/2022 18:02]  You see: fancy shirt
+[01/05/2022 18:02]  System: What should I use these scissors on?
+[01/05/2022 18:02]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/05/2022 18:02]  System: You dye an item.
+[01/05/2022 18:02]  You see: fancy shirt
+[01/05/2022 18:02]  You see: [crafted by Duluth Trading]
+[01/05/2022 18:02]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/05/2022 18:02]  System: You dye an item.
+[01/05/2022 18:03]  You see: guarding leather leggings
+[01/05/2022 18:03]  You see: defense leather leggings
+[01/05/2022 18:03]  You see: defense leather cap
+[01/05/2022 18:03]  System: What should I use these scissors on?
+[01/05/2022 18:03]  System: Scissors cannot be used on that to produce anything.
+[01/05/2022 18:03]  System: Target an individual item to recycle.
+[01/05/2022 18:04]  You see: durable hardening leather chest
+[01/05/2022 18:04]  You see: guarding leather chest
+[01/05/2022 18:04]  System: Target an individual item to recycle.
+[01/05/2022 18:04]  You see: arcane essence : 22
+[01/05/2022 18:04]  System: Target an individual item to recycle.
+[01/05/2022 18:04]  System: Target an individual item to recycle.
+[01/05/2022 18:04]  You see: arcane essence : 31
+[01/05/2022 18:04]  You see: defense leather leggings
+[01/05/2022 18:04]  System: Target an individual item to recycle.
+[01/05/2022 18:04]  System: Target an individual item to recycle.
+[01/05/2022 18:04]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  You see: exceptional leather gloves
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:05]  System: Target an individual item to recycle.
+[01/05/2022 18:06]  System: Target an individual item to recycle.
+[01/05/2022 18:06]  System: Target an individual item to recycle.
+[01/05/2022 18:06]  System: Target an individual item to recycle.
+[01/05/2022 18:06]  System: Target an individual item to recycle.
+[01/05/2022 18:06]  : plaster wall
+[01/05/2022 18:06]  System: Target an individual item to recycle.
+[01/05/2022 18:06]  You see: exceptional leather cap
+[01/05/2022 18:06]  You see: [mastercrafted by Violent Beard]
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  You see: exceptional leather chest
+[01/05/2022 18:07]  You see: [mastercrafted by Stratus Gwortek]
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  You see: unidentified studded cap
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:07]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Salty Berserker has completed the achievement: Nobility (Advanced).
+[01/05/2022 18:08]  You see: exceptional leather chest
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:08]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  System: Target an individual item to recycle. [2]
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  You see: durable guarding chainmail gloves
+[01/05/2022 18:09]  System: The world will save in 15 seconds.
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:09]  System: Target an individual item to recycle.
+[01/05/2022 18:10]  System: Target an individual item to recycle. [2]
+[01/05/2022 18:10]  System: The world is saving, please wait.
+[01/05/2022 18:10]  System: World save complete. The entire process took 3.9 seconds.
+[01/05/2022 18:10]  System: Target an individual item to recycle.
+[01/05/2022 18:10]  You see: dull copper sandals
+[01/05/2022 18:10]  You see: (hue 2419)
+[01/05/2022 18:10]  You see: a bandana
+[01/05/2022 18:10]  System: What should I use these scissors on?
+[01/05/2022 18:11]  You see: durable guarding chainmail gloves
+[01/05/2022 18:11]  You see: leather : 3186
+[01/05/2022 18:11]  You see: spellbook
+[01/05/2022 18:11]  You see: (19 spells)
+[01/05/2022 18:11]  You see: [blessed]
+[01/05/2022 18:11]  You see: vanquishing lesser monstrous slaying magic spellbook
+[01/05/2022 18:12]  You see: raw ribs : 2044
+[01/05/2022 18:12]  You see: cloth : 26
+[01/05/2022 18:12]  You see: shadowhide : 133
+[01/05/2022 18:12]  You see: leather : 3186
+[01/05/2022 18:12]  System: Cregan has completed the achievement: Triggered (Advanced).
+[01/05/2022 18:13]  You see: half apron
+[01/05/2022 18:13]  You see: [crafted by Duluth Trading]
+[01/05/2022 18:13]  You see: shadow iron sandals
+[01/05/2022 18:13]  You see: (hue 2406)
+[01/05/2022 18:13]  You see: exceptional shadowhide bone chest
+[01/05/2022 18:13]  You see: [crafted by Duluth Trading]
+[01/05/2022 18:13]  System: PK PIKO has completed the achievement: Boss Slayer (Basic).
+[01/05/2022 18:14]  System: Karasakal has completed the achievement: Artificer (Basic).
+[01/05/2022 18:14]  System: Kinkae Prowlr has completed the achievement: Summoning (Basic).
+[01/05/2022 18:15]  System: Jug Head has completed the achievement: Versatility (Advanced).
+[01/05/2022 18:17]  You see: cloth : 6
+[01/05/2022 18:17]  You see: (hue 803)
+[01/05/2022 18:17]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/05/2022 18:17]  System: You dye an item.
+[01/05/2022 18:17]  You see: pouch
+[01/05/2022 18:17]  You see: (0 items, 0 stones)
+[01/05/2022 18:17]  You see: adventurer's rope
+[01/05/2022 18:17]  You see: (25 uses remaining)
+[01/05/2022 18:17]  You see: [mastercrafted by Jan van Leiden]
+[01/05/2022 18:18]  You see: adventurer's rope
+[01/05/2022 18:18]  You see: (25 uses remaining)
+[01/05/2022 18:18]  You see: pouch
+[01/05/2022 18:18]  You see: (4 items, 16 stones)
+[01/05/2022 18:20]  Duluth Trading: Duluth Trading
+[01/05/2022 18:20]  You see: exceptional shadowhide bone chest
+[01/05/2022 18:20]  You see: [crafted by Duluth Trading]
+[01/05/2022 18:21]  System: Random: 2
+[01/05/2022 18:21]  System: Random: 1
+[01/05/2022 18:21]  System: Random: 2
+[01/05/2022 18:21]  System: Random: 1
+[01/05/2022 18:21]  System: Random: 2
+[01/05/2022 18:21]  System: Random: 2
+[01/05/2022 18:21]  Duluth Trading: Warriors should suffer their pain silently. – Erin Hunter
+[01/05/2022 18:24]  System: The world will save in 15 seconds.
+[01/05/2022 18:24]  System: The world is saving, please wait.
+[01/05/2022 18:24]  System: World save complete. The entire process took 4.3 seconds.

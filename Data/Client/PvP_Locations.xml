@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="PvP Locations" Revision="0"> 
+
+<Marker Name="Cathedral Crossing" X="1928" Y="1607" Icon="EXIT" Facet="0"/>
+<Marker Name="The Bazaar" X="1976" Y="1671" Icon="EXIT" Facet="0"/>
+<Marker Name="Oldtowne" X="1893" Y="1709" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Southcorner" X="1871" Y="3102" Icon="EXIT" Facet="0"/>
+<Marker Name="The Bridgeway" X="1914" Y="3003" Icon="EXIT" Facet="0"/>
+<Marker Name="Causeway Crosswalk" X="1816" Y="3002" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Dockman's Fork" X="2247" Y="0699" Icon="EXIT" Facet="0"/>
+<Marker Name="Southwest Plaza" X="2141" Y="0774" Icon="EXIT" Facet="0"/>
+<Marker Name="Dockworks" X="2212" Y="0803" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Southbridge" X="1800" Y="1613" Icon="EXIT" Facet="0"/>
+<Marker Name="Crossroad Gatehouse" X="1879" Y="1632" Icon="EXIT" Facet="0"/>
+<Marker Name="Stable Street" X="1823" Y="1663" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Crossroad Shops" X="1666" Y="1542" Icon="EXIT" Facet="0"/>
+<Marker Name="Coastal Road" X="1725" Y="1573" Icon="EXIT" Facet="0"/>
+<Marker Name="Docktown" X="1664" Y="1630" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Northern Smiths" X="2165" Y="0603" Icon="EXIT" Facet="0"/>
+<Marker Name="Amphitheatre" X="2236" Y="0575" Icon="EXIT" Facet="0"/>
+<Marker Name="Central Stair" X="2211" Y="0689" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Eastern Gate" X="1782" Y="1488" Icon="EXIT" Facet="0"/>
+<Marker Name="Casino Plaza" X="1688" Y="1483" Icon="EXIT" Facet="0"/>
+<Marker Name="Central Bridge" X="1801" Y="1559" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Farmlands" X="1779" Y="3063" Icon="EXIT" Facet="0"/>
+<Marker Name="Northern Throughfare" X="1773" Y="2897" Icon="EXIT" Facet="0"/>
+<Marker Name="Merchants Row" X="1718" Y="2972" Icon="EXIT" Facet="0"/>
+
+<Marker Name="High Street" X="1627" Y="1480" Icon="EXIT" Facet="0"/>
+<Marker Name="Western Gatehouse" X="1572" Y="1583" Icon="EXIT" Facet="0"/>
+<Marker Name="Western Bridge" X="1523" Y="1516" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="986" Y="791" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="955" Y="717" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="915" Y="855" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5990" Y="135" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5928" Y="188" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5952" Y="602" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="6009" Y="598" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5253" Y="2017" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5222" Y="1993" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5849" Y="1966" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5951" Y="1934" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5517" Y="2814" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5584" Y="2792" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5784" Y="1759" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5853" Y="1691" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5795" Y="1372" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5890" Y="1356" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5143" Y="1272" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5179" Y="1295" Icon="EXIT" Facet="0"/>
+
+<Marker Name="Gold Beacon" X="5606" Y="634" Icon="EXIT" Facet="0"/>
+<Marker Name="Green Beacon" X="5569" Y="698" Icon="EXIT" Facet="0"/>
+
+<Marker Name="1. Frozen Ruins Waypost" X="1583" Y="678" Icon="terand" Facet="0"/>
+<Marker Name="2. Hunters Blind Waypost" X="1270" Y="978" Icon="terand" Facet="0"/>
+<Marker Name="3. Zebra Falls Waypost" X="999" Y="1352" Icon="terand" Facet="0"/>
+<Marker Name="4. Andarian Lumberyard Waypost" X="1984" Y="762" Icon="prevand" Facet="0"/>
+<Marker Name="5. Gate Fortress Waypost" X="1803" Y="937" Icon="prevand" Facet="0"/>
+<Marker Name="6. Farmland Garrison Waypost" X="1540" Y="1252" Icon="prevand" Facet="0"/>
+<Marker Name="7. Ruined House Waypost" X="1944" Y="996" Icon="camband" Facet="0"/>
+<Marker Name="8. Abandoned Docks Waypost" X="1972" Y="1359" Icon="camband" Facet="0"/>
+<Marker Name="9. Melloweed Farm Waypost" X="2147" Y="2213" Icon="camband" Facet="0"/>
+<Marker Name="10. Lycaeum Bridge Waypost" X="1051" Y="1574" Icon="terprev" Facet="0"/>
+<Marker Name="11. Collapsed Cave Waypost" X="1325" Y="1588" Icon="terprev" Facet="0"/>
+<Marker Name="12. Prevalia Crossroads Waypost" X="1588" Y="1750" Icon="terprev" Facet="0"/>
+<Marker Name="13. Uruk Stronghold Waypost" X="1340" Y="1916" Icon="tercamb" Facet="0"/>
+<Marker Name="14. Haven Tripost Waypost" X="1313" Y="2364" Icon="tercamb" Facet="0"/>
+<Marker Name="15. Pyramid Ruins Waypost" X="1420" Y="2750" Icon="tercamb" Facet="0"/>
+<Marker Name="16. Forsaken Keep Waypost" X="1964" Y="1894" Icon="cambprev" Facet="0"/>
+<Marker Name="17. Brigand Headquarters Waypost" X="1799" Y="2182" Icon="cambprev" Facet="0"/>
+<Marker Name="18. Destroyed Villa Waypost" X="1621" Y="2723" Icon="cambprev" Facet="0"/>
+<Marker Name="Purification Pyre" X="1227" Y="1737" Icon="pyre" Facet="0"/>
+<Marker Name="Terran Castle Flag" X="630" Y="1466" Icon="terflag" Facet="0"/>
+<Marker Name="Prevalia Castle Flag" X="1764" Y="1393" Icon="prevflag" Facet="0"/>
+<Marker Name="Cambria Castle Flag" X="1716" Y="2794" Icon="cambflag" Facet="0"/>
+<Marker Name="Andaria Castle Flag" X="2061" Y="644" Icon="andflag" Facet="0"/>
+
+
+</Pack>

@@ -1,0 +1,2156 @@
+[12/22/2021 16:35]  System: WorldMap loading...
+[12/22/2021 16:35]  System: Loading WorldMap markers..
+[12/22/2021 16:35]  System: ..Banks_and_Healers.xml (20)
+[12/22/2021 16:35]  System: ..Dungeons.xml (12)
+[12/22/2021 16:35]  System: ..Dungeon_Gates.xml (335)
+[12/22/2021 16:35]  System: ..Healer_Caravans.xml (32)
+[12/22/2021 16:35]  System: ..Moongates.xml (9)
+[12/22/2021 16:35]  System: ..POI.xml (176)
+[12/22/2021 16:35]  System: ..Shrines.xml (9)
+[12/22/2021 16:35]  System: ..Subterranean.xml (6)
+[12/22/2021 16:35]  System: ..Townships.xml (9)
+[12/22/2021 16:35]  System: WorldMap markers loaded (608)
+[12/22/2021 16:35]  System: Welcome Duluth Trading!
+[12/22/2021 16:35]  System: Your food satisfaction effect has expired.
+[12/22/2021 16:35]  Duluth Trading: Duluth Trading
+[12/22/2021 16:35]  System: WorldMap loaded!
+[12/22/2021 16:36]  You see: pickaxe
+[12/22/2021 16:36]  You see: (1000 uses remaining)
+[12/22/2021 16:36]  You see: exceptional pickaxe
+[12/22/2021 16:36]  You see: (1500 uses remaining)
+[12/22/2021 16:36]  You see: pickaxe
+[12/22/2021 16:36]  You see: (1000 uses remaining)
+[12/22/2021 16:36]  You see: pickaxe
+[12/22/2021 16:36]  You see: (1000 uses remaining)
+[12/22/2021 16:36]  You see: pickaxe
+[12/22/2021 16:36]  You see: (1000 uses remaining)
+[12/22/2021 16:36]  Duluth Trading: The food is paltry and is barely satisfying.
+[12/22/2021 16:36]  System: You are somewhat full.
+[12/22/2021 16:36]  Razor: [+Food Satisfaction (3600s)]
+[12/22/2021 16:37]  System: Your campfire is now secure.
+[12/22/2021 16:37]  System: You feel rested and comforted by the camp. (+17.5% damage to creatures and +7.0% damage to players).
+[12/22/2021 16:37]  Razor: [+Campfire Visit (10800s)]
+[12/22/2021 16:37]  System: You begin hiking to your destination.
+[12/22/2021 16:37]  Duluth Trading: *hiking to destination*
+[12/22/2021 16:37]  Razor: [+Paralyze (4s)]
+[12/22/2021 16:37]  Razor: [-Paralyze (s)]
+[12/22/2021 16:37]  Razor: [+Paralyze (3s)]
+[12/22/2021 16:37]  Duluth Trading: *hiking to destination*
+[12/22/2021 16:37]  Razor: [-Paralyze (s)]
+[12/22/2021 16:37]  Razor: [+Paralyze (2s)]
+[12/22/2021 16:37]  Razor: [-Paralyze (s)]
+[12/22/2021 16:37]  Razor: [+Paralyze (1s)]
+[12/22/2021 16:37]  Duluth Trading: *hiking to destination*
+[12/22/2021 16:37]  Razor: [-Paralyze (s)]
+[12/22/2021 16:37]  Razor: [+Paralyze (0s)]
+[12/22/2021 16:37]  System: You are no longer hindered.
+[12/22/2021 16:37]  Razor: [-Paralyze (s)]
+[12/22/2021 16:37]  System: You are now under the protection of the town guards.
+[12/22/2021 16:37]  System: You hike to your destination.
+[12/22/2021 16:37]  Duluth Trading: *You have arrived at your destination*
+[12/22/2021 16:37]  Kay: Kay the dockmaster
+[12/22/2021 16:37]  Kay: Kay the dockmaster
+[12/22/2021 16:37]  Bram: Bram the salvage foreman
+[12/22/2021 16:37]  Bram: Bram the salvage foreman
+[12/22/2021 16:37]  Kirima: Kirima the thief
+[12/22/2021 16:37]  Kirima: Kirima the thief
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Nicholas: Nicholas the salvage foreman
+[12/22/2021 16:37]  Nicholas: Nicholas the salvage foreman
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Jung: Jung the cook
+[12/22/2021 16:37]  Jung: Jung the cook
+[12/22/2021 16:37]  Una: Una the barkeep
+[12/22/2021 16:37]  Una: Una the barkeep
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Sean: Sean the waiter
+[12/22/2021 16:37]  Sean: Sean the waiter
+[12/22/2021 16:37]  Raidon: Raidon the dockmaster
+[12/22/2021 16:37]  Raidon: Raidon the dockmaster
+[12/22/2021 16:37]  Risa: Risa the salvage foreman
+[12/22/2021 16:37]  Risa: Risa the salvage foreman
+[12/22/2021 16:37]  an andarian footman: an andarian footman
+[12/22/2021 16:37]  an andarian footman: an andarian footman
+[12/22/2021 16:37]  a fisherman: a fisherman
+[12/22/2021 16:37]  a fisherman: a fisherman
+[12/22/2021 16:37]  a seagull: a seagull
+[12/22/2021 16:37]  a seagull: a seagull
+[12/22/2021 16:37]  Ramsay: Ramsay the shipwright
+[12/22/2021 16:37]  Ramsay: Ramsay the shipwright
+[12/22/2021 16:37]  a seagull: a seagull
+[12/22/2021 16:37]  a seagull: a seagull
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Thurston: Thurston the carpenter
+[12/22/2021 16:37]  Thurston: Thurston the carpenter
+[12/22/2021 16:37]  Karayan: Karayan the bowyer
+[12/22/2021 16:37]  Karayan: Karayan the bowyer
+[12/22/2021 16:37]  Namazzi: Namazzi the provisioner
+[12/22/2021 16:37]  Namazzi: Namazzi the provisioner
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Kalman: Kalman the healer
+[12/22/2021 16:37]  Kalman: Kalman the healer
+[12/22/2021 16:37]  an andarian footman: an andarian footman
+[12/22/2021 16:37]  an andarian footman: an andarian footman
+[12/22/2021 16:37]  Karlenne: Karlenne the real estate broker
+[12/22/2021 16:37]  Karlenne: Karlenne the real estate broker
+[12/22/2021 16:37]  Leiko: Leiko the carpenter
+[12/22/2021 16:37]  Leiko: Leiko the carpenter
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Oriole: Oriole the dockmaster
+[12/22/2021 16:37]  Oriole: Oriole the dockmaster
+[12/22/2021 16:37]  Cassidy: Cassidy the salvage foreman
+[12/22/2021 16:37]  Cassidy: Cassidy the salvage foreman
+[12/22/2021 16:37]  Slevin: Slevin the scribe
+[12/22/2021 16:37]  Slevin: Slevin the scribe
+[12/22/2021 16:37]  Ines: Ines the alchemist
+[12/22/2021 16:37]  Ines: Ines the alchemist
+[12/22/2021 16:37]  Kelli: Kelli the mage
+[12/22/2021 16:37]  Kelli: Kelli the mage
+[12/22/2021 16:37]  Shani: Shani the mage
+[12/22/2021 16:37]  Shani: Shani the mage
+[12/22/2021 16:37]  Mae: Mae the herbalist
+[12/22/2021 16:37]  Mae: Mae the herbalist
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  Leiko: Leiko the tinker
+[12/22/2021 16:37]  Leiko: Leiko the tinker
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a cat: a cat
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  an andarian mage: an andarian mage
+[12/22/2021 16:37]  an andarian mage: an andarian mage
+[12/22/2021 16:37]  Candida: Candida the cobbler
+[12/22/2021 16:37]  Candida: Candida the cobbler
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  Budo: Budo the stablemaster
+[12/22/2021 16:37]  Budo: Budo the stablemaster
+[12/22/2021 16:37]  an andarian marksman: an andarian marksman
+[12/22/2021 16:37]  an andarian marksman: an andarian marksman
+[12/22/2021 16:37]  Iain: Iain the innkeeper
+[12/22/2021 16:37]  Iain: Iain the innkeeper
+[12/22/2021 16:37]  System: Opening door...
+[12/22/2021 16:37]  Greger: Greger the cook
+[12/22/2021 16:37]  Greger: Greger the cook
+[12/22/2021 16:37]  Nelson: Nelson the baker
+[12/22/2021 16:37]  Nelson: Nelson the baker
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  a dog: a dog
+[12/22/2021 16:37]  Greger: Greger the cook
+[12/22/2021 16:37]  Greger: Greger the cook
+[12/22/2021 16:37]  Nelson: Nelson the baker
+[12/22/2021 16:37]  Nelson: Nelson the baker
+[12/22/2021 16:37]  Budo: Budo the stablemaster
+[12/22/2021 16:37]  System: You claim your follower.
+[12/22/2021 16:37]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:37]  a pack horse: (tame)
+[12/22/2021 16:37]  a pack horse: [0/2000 stones]
+[12/22/2021 16:37]  a pack horse: a pack horse
+[12/22/2021 16:37]  a pack horse: (tame)
+[12/22/2021 16:37]  a pack horse: [0/2000 stones]
+[12/22/2021 16:37]  a pack horse: a pack horse
+[12/22/2021 16:38]  a dog: a dog
+[12/22/2021 16:38]  a dog: a dog
+[12/22/2021 16:38]  Candida: Candida the cobbler
+[12/22/2021 16:38]  Candida: Candida the cobbler
+[12/22/2021 16:38]  an andarian mage: an andarian mage
+[12/22/2021 16:38]  an andarian mage: an andarian mage
+[12/22/2021 16:38]  Leiko: Leiko the tinker
+[12/22/2021 16:38]  Leiko: Leiko the tinker
+[12/22/2021 16:38]  System: You fail to ignite the campfire.
+[12/22/2021 16:38]  a cat: a cat
+[12/22/2021 16:38]  a cat: a cat
+[12/22/2021 16:38]  Kelli: Kelli the mage
+[12/22/2021 16:38]  Kelli: Kelli the mage
+[12/22/2021 16:38]  Slevin: Slevin the scribe
+[12/22/2021 16:38]  Slevin: Slevin the scribe
+[12/22/2021 16:38]  Shani: Shani the mage
+[12/22/2021 16:38]  Shani: Shani the mage
+[12/22/2021 16:38]  System: What do you want to use this item on?
+[12/22/2021 16:38]  Razor: Target: Duluth Trading
+[12/22/2021 16:38]  System: You put some kindling into your backpack.
+[12/22/2021 16:38]  System: An axe would probably get you more wood.
+[12/22/2021 16:38]  System: What do you want to use this item on?
+[12/22/2021 16:38]  System: An axe would probably get you more wood.
+[12/22/2021 16:38]  System: You put some kindling into your backpack.
+[12/22/2021 16:38]  System: What do you want to use this item on?
+[12/22/2021 16:38]  System: An axe would probably get you more wood.
+[12/22/2021 16:38]  System: You put some kindling into your backpack.
+[12/22/2021 16:38]  System: Degore has completed the achievement: Aspect Mastery (Basic).
+[12/22/2021 16:38]  You see: campfire
+[12/22/2021 16:38]  Duluth Trading: This camp will be secure in 4 seconds.
+[12/22/2021 16:38]  System: You are currently comforted by a recent camp visit (+17.5% damage to creatures).
+[12/22/2021 16:38]  mercy sista: Undead Slayer
+[12/22/2021 16:38]  mercy sista: mercy sista
+[12/22/2021 16:38]  mercy sista: Undead Slayer
+[12/22/2021 16:38]  mercy sista: mercy sista
+[12/22/2021 16:38]  System: Your campfire is now secure.
+[12/22/2021 16:38]  System: You begin hiking to your destination.
+[12/22/2021 16:38]  Duluth Trading: *hiking to destination*
+[12/22/2021 16:38]  Razor: [+Paralyze (4s)]
+[12/22/2021 16:38]  Razor: [-Paralyze (s)]
+[12/22/2021 16:38]  Razor: [+Paralyze (3s)]
+[12/22/2021 16:38]  Duluth Trading: *hiking to destination*
+[12/22/2021 16:38]  Razor: [-Paralyze (s)]
+[12/22/2021 16:38]  Razor: [+Paralyze (2s)]
+[12/22/2021 16:38]  Razor: [-Paralyze (s)]
+[12/22/2021 16:38]  Razor: [+Paralyze (1s)]
+[12/22/2021 16:38]  Duluth Trading: *hiking to destination*
+[12/22/2021 16:38]  Razor: [-Paralyze (s)]
+[12/22/2021 16:38]  Razor: [+Paralyze (0s)]
+[12/22/2021 16:38]  System: You are no longer hindered.
+[12/22/2021 16:38]  Razor: [-Paralyze (s)]
+[12/22/2021 16:38]  System: You hike to your destination.
+[12/22/2021 16:38]  Duluth Trading: *You have arrived at your destination*
+[12/22/2021 16:38]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a cave bear: *released*
+[12/22/2021 16:38]  a cave bear: a cave bear
+[12/22/2021 16:38]  a pack horse: *released*
+[12/22/2021 16:38]  a pack horse: [0/2000 stones]
+[12/22/2021 16:38]  a pack horse: a pack horse
+[12/22/2021 16:38]  a pack horse: *released*
+[12/22/2021 16:38]  a pack horse: [0/2000 stones]
+[12/22/2021 16:38]  a pack horse: a pack horse
+[12/22/2021 16:38]  Carlton: Carlton the stablemaster
+[12/22/2021 16:38]  Carlton: Carlton the stablemaster
+[12/22/2021 16:38]  Kenelm: Kenelm the tavern keeper
+[12/22/2021 16:38]  Kenelm: Kenelm the tavern keeper
+[12/22/2021 16:38]  Rosaline: Rosaline the waiter
+[12/22/2021 16:38]  Rosaline: Rosaline the waiter
+[12/22/2021 16:38]  Jordan: Jordan the beggar
+[12/22/2021 16:38]  Jordan: Jordan the beggar
+[12/22/2021 16:38]  Chimpantherax: Chimpantherax
+[12/22/2021 16:38]  Chimpantherax: Chimpantherax
+[12/22/2021 16:38]  a pack horse: (tame)
+[12/22/2021 16:38]  a pack horse: [0/2000 stones]
+[12/22/2021 16:38]  a pack horse: a pack horse
+[12/22/2021 16:38]  a pack horse: (tame)
+[12/22/2021 16:38]  a pack horse: [0/2000 stones]
+[12/22/2021 16:38]  a pack horse: a pack horse
+[12/22/2021 16:38]  Armando Cortesao: Armando Cortesao
+[12/22/2021 16:38]  Armando Cortesao: Armando Cortesao
+[12/22/2021 16:38]  Kegetha: Kegetha
+[12/22/2021 16:38]  Kegetha: Kegetha
+[12/22/2021 16:38]  Fizz the Fisher: Fizz the Fisher
+[12/22/2021 16:38]  Fizz the Fisher: Fizz the Fisher
+[12/22/2021 16:38]  Bly: Bly the fisherman
+[12/22/2021 16:38]  Bly: Bly the fisherman
+[12/22/2021 16:38]  Kayomart: Monster Hunter Initiate
+[12/22/2021 16:38]  Kayomart: [Recruit, DHK]
+[12/22/2021 16:38]  Kayomart: Kayomart
+[12/22/2021 16:38]  Kayomart: Monster Hunter Initiate
+[12/22/2021 16:38]  Kayomart: [Recruit, DHK]
+[12/22/2021 16:38]  Kayomart: Kayomart
+[12/22/2021 16:38]  Butcher John: Butcher John (Young)
+[12/22/2021 16:38]  Butcher John: Butcher John (Young)
+[12/22/2021 16:38]  Lene: Lene the salvage foreman
+[12/22/2021 16:38]  Lene: Lene the salvage foreman
+[12/22/2021 16:38]  Tai: Tai the fisherman
+[12/22/2021 16:38]  Tai: Tai the fisherman
+[12/22/2021 16:39]  System: Your skill in Tactics has decreased by 10.0.  It is now 70.0.
+[12/22/2021 16:39]  IgnoreMe: IgnoreMe (Young)
+[12/22/2021 16:39]  IgnoreMe: IgnoreMe (Young)
+[12/22/2021 16:39]  Sherwin: Sherwin the mage
+[12/22/2021 16:39]  Sherwin: Sherwin the mage
+[12/22/2021 16:39]  Zara: Zara the scribe
+[12/22/2021 16:39]  Zara: Zara the scribe
+[12/22/2021 16:39]  Woody: Woody the alchemist
+[12/22/2021 16:39]  Woody: Woody the alchemist
+[12/22/2021 16:39]  Justine: Justine the battle trainer
+[12/22/2021 16:39]  Justine: Justine the battle trainer
+[12/22/2021 16:39]  Sleeping Kiss: Sleeping Kiss (Young)
+[12/22/2021 16:39]  Sleeping Kiss: Sleeping Kiss (Young)
+[12/22/2021 16:39]  Umbra Mortem: [Junior Phoenix, OFP]
+[12/22/2021 16:39]  Umbra Mortem: Umbra Mortem
+[12/22/2021 16:39]  Umbra Mortem: [Junior Phoenix, OFP]
+[12/22/2021 16:39]  Umbra Mortem: Umbra Mortem
+[12/22/2021 16:39]  Joana-Marie: Joana-Marie (Young)
+[12/22/2021 16:39]  Joana-Marie: Joana-Marie (Young)
+[12/22/2021 16:39]  Avis: Avis the battle trainer
+[12/22/2021 16:39]  Avis: Avis the battle trainer
+[12/22/2021 16:39]  Patricia: Patricia the battle trainer
+[12/22/2021 16:39]  Patricia: Patricia the battle trainer
+[12/22/2021 16:39]  Insubordinate: (tame)
+[12/22/2021 16:39]  Insubordinate: [1664/2000 stones]
+[12/22/2021 16:39]  Insubordinate: Insubordinate
+[12/22/2021 16:39]  Insubordinate: (tame)
+[12/22/2021 16:39]  Insubordinate: [1664/2000 stones]
+[12/22/2021 16:39]  Insubordinate: Insubordinate
+[12/22/2021 16:39]  You see: a chicken corpse
+[12/22/2021 16:39]  Churlish: Churlish
+[12/22/2021 16:39]  Churlish: Churlish
+[12/22/2021 16:39]  You see: a chicken corpse
+[12/22/2021 16:39]  Rooney: Rooney the banker
+[12/22/2021 16:39]  Rooney: Rooney the banker
+[12/22/2021 16:39]  You see: a chicken corpse
+[12/22/2021 16:39]  Galfridus: Galfridus
+[12/22/2021 16:39]  Galfridus: Galfridus
+[12/22/2021 16:39]  You see: a cow corpse
+[12/22/2021 16:39]  You see: a pig corpse
+[12/22/2021 16:39]  You see: a pig corpse
+[12/22/2021 16:39]  You see: a pig corpse
+[12/22/2021 16:39]  a llama: (tame)
+[12/22/2021 16:39]  a llama: a llama
+[12/22/2021 16:39]  a llama: (tame)
+[12/22/2021 16:39]  a llama: a llama
+[12/22/2021 16:39]  Jerolin: Jerolin the farmer
+[12/22/2021 16:39]  Jerolin: Jerolin the farmer
+[12/22/2021 16:39]  a chicken: a chicken
+[12/22/2021 16:39]  a chicken: a chicken
+[12/22/2021 16:39]  Alake: Alake the farmer
+[12/22/2021 16:39]  Alake: Alake the farmer
+[12/22/2021 16:39]  You see: a cow corpse
+[12/22/2021 16:39]  You see: a goat corpse
+[12/22/2021 16:39]  You see: a goat corpse
+[12/22/2021 16:39]  a bull: a bull
+[12/22/2021 16:39]  a bull: a bull
+[12/22/2021 16:39]  You see: a pig corpse
+[12/22/2021 16:39]  You see: a bird corpse
+[12/22/2021 16:39]  You see: a bird corpse
+[12/22/2021 16:39]  Insubordinate: (tame)
+[12/22/2021 16:39]  Insubordinate: [1664/2000 stones]
+[12/22/2021 16:39]  Insubordinate: Insubordinate
+[12/22/2021 16:39]  Insubordinate: (tame)
+[12/22/2021 16:39]  Insubordinate: [1664/2000 stones]
+[12/22/2021 16:39]  Insubordinate: Insubordinate
+[12/22/2021 16:39]  Churlish: Churlish
+[12/22/2021 16:39]  Churlish: Churlish
+[12/22/2021 16:39]  You see: a bird corpse
+[12/22/2021 16:39]  You see: a bird corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  a magpie: a magpie
+[12/22/2021 16:39]  a magpie: a magpie
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  You see: a sheep corpse
+[12/22/2021 16:39]  Sarngin: Sarngin the farmer
+[12/22/2021 16:39]  Sarngin: Sarngin the farmer
+[12/22/2021 16:39]  System: Players cannot commit aggressive actions in that location.
+[12/22/2021 16:39]  a great hart: a great hart
+[12/22/2021 16:39]  a great hart: a great hart
+[12/22/2021 16:39]  a hind: a hind
+[12/22/2021 16:39]  a hind: a hind
+[12/22/2021 16:39]  You see: a hind corpse
+[12/22/2021 16:39]  Baingery: [-_-]
+[12/22/2021 16:39]  Baingery: Baingery
+[12/22/2021 16:39]  Baingery: [-_-]
+[12/22/2021 16:39]  Baingery: Baingery
+[12/22/2021 16:39]  System: That is too far away.
+[12/22/2021 16:39]  You see: an eagle corpse
+[12/22/2021 16:39]  You see: a hind corpse
+[12/22/2021 16:39]  You see: a hind corpse
+[12/22/2021 16:39]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:39]  a crow: a crow
+[12/22/2021 16:39]  a crow: a crow
+[12/22/2021 16:39]  a swallow: a swallow
+[12/22/2021 16:39]  a swallow: a swallow
+[12/22/2021 16:39]  Cyrus: Cyrus the lumberjack
+[12/22/2021 16:39]  Cyrus: Cyrus the lumberjack
+[12/22/2021 16:39]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:39]  a pack horse: (tame)
+[12/22/2021 16:39]  a pack horse: [0/2000 stones]
+[12/22/2021 16:39]  a pack horse: a pack horse
+[12/22/2021 16:39]  a pack horse: (tame)
+[12/22/2021 16:39]  a pack horse: [0/2000 stones]
+[12/22/2021 16:39]  a pack horse: a pack horse
+[12/22/2021 16:39]  Duluth Trading: That is out of my line of sight.
+[12/22/2021 16:39]  Duluth Trading: That is out of my line of sight.
+[12/22/2021 16:39]  System: Players cannot commit aggressive actions in that location.
+[12/22/2021 16:39]  System: Your skill in Tactics has increased by 10.0.  It is now 80.0.
+[12/22/2021 16:39]  System: You have recently traveled and must wait 11 seconds before you may begin harvesting.
+[12/22/2021 16:39]  System: Captcha successful.
+[12/22/2021 16:39]  System: You have recently traveled and must wait 6 seconds before you may begin harvesting.
+[12/22/2021 16:39]  System: You have recently traveled and must wait 3 seconds before you may begin harvesting.
+[12/22/2021 16:40]  System: The world will save in 15 seconds.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Galfridus: Galfridus
+[12/22/2021 16:40]  Galfridus: Galfridus
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: The world is saving, please wait.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: World save complete. The entire process took 4.2 seconds.
+[12/22/2021 16:40]  System: You must wait to perform another action.
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  a swallow: a swallow
+[12/22/2021 16:40]  a swallow: a swallow
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore. [6]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You must wait to perform another action.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:40]  System: You must wait to perform another action. [2]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:40]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  an eagle: an eagle
+[12/22/2021 16:41]  an eagle: an eagle
+[12/22/2021 16:41]  a hind: a hind
+[12/22/2021 16:41]  a hind: a hind
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:41]  Razor: Move to next spot
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  a crow: a crow
+[12/22/2021 16:41]  a crow: a crow
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  You see: a bird corpse
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:41]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Cyrus: Cyrus the lumberjack
+[12/22/2021 16:41]  Cyrus: Cyrus the lumberjack
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:41]  a hind: a hind
+[12/22/2021 16:41]  a hind: a hind
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You must wait to perform another action.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore. [6]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:41]  You see: iron ore : 21
+[12/22/2021 16:41]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: exceptional pickaxe
+[12/22/2021 16:42]  You see: (1479 uses remaining)
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: a hind corpse
+[12/22/2021 16:42]  You see: a hind corpse
+[12/22/2021 16:42]  You see: a hind corpse
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:42]  a great hart: a great hart
+[12/22/2021 16:42]  a great hart: a great hart
+[12/22/2021 16:42]  You see: an eagle corpse
+[12/22/2021 16:42]  a llama: (tame)
+[12/22/2021 16:42]  a llama: a llama
+[12/22/2021 16:42]  a llama: (tame)
+[12/22/2021 16:42]  a llama: a llama
+[12/22/2021 16:42]  an eagle: an eagle
+[12/22/2021 16:42]  an eagle: an eagle
+[12/22/2021 16:42]  Galfridus: Galfridus
+[12/22/2021 16:42]  Galfridus: Galfridus
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: an eagle corpse
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: a hind corpse
+[12/22/2021 16:42]  a crow: a crow
+[12/22/2021 16:42]  a crow: a crow
+[12/22/2021 16:42]  Galfridus: Galfridus
+[12/22/2021 16:42]  Galfridus: Galfridus
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: a great hart corpse
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack. [4]
+[12/22/2021 16:42]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:42]  Razor: Move to next spot
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Cyrus: Cyrus the lumberjack
+[12/22/2021 16:42]  Cyrus: Cyrus the lumberjack
+[12/22/2021 16:42]  a swallow: a swallow
+[12/22/2021 16:42]  a swallow: a swallow
+[12/22/2021 16:42]  a crow: a crow
+[12/22/2021 16:42]  a crow: a crow
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Baingery: [-_-]
+[12/22/2021 16:42]  Baingery: Baingery
+[12/22/2021 16:42]  Baingery: [-_-]
+[12/22/2021 16:42]  Baingery: Baingery
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Glenn: Glenn the guard
+[12/22/2021 16:42]  Glenn: Glenn the guard
+[12/22/2021 16:42]  URK Recruiter: URK Recruiter
+[12/22/2021 16:42]  URK Recruiter: URK Recruiter
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You do not see any harvestable resources nearby. [2]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: Boulderfist Orcs (Ork) guild has reached prestige level 129.
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [6]
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: iron ore : 32
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [6]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  You see: a hind corpse
+[12/22/2021 16:42]  You see: a hind corpse
+[12/22/2021 16:42]  a llama: (tame)
+[12/22/2021 16:42]  a llama: a llama
+[12/22/2021 16:42]  a llama: (tame)
+[12/22/2021 16:42]  a llama: a llama
+[12/22/2021 16:42]  Galfridus: Galfridus
+[12/22/2021 16:42]  Galfridus: Galfridus
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Kindred Spirit: Kindred Spirit (Young)
+[12/22/2021 16:42]  Kindred Spirit: Kindred Spirit (Young)
+[12/22/2021 16:42]  a wolf: (tame)
+[12/22/2021 16:42]  a wolf: a wolf
+[12/22/2021 16:42]  a wolf: (tame)
+[12/22/2021 16:42]  a wolf: a wolf
+[12/22/2021 16:42]  a llama: (tame)
+[12/22/2021 16:42]  a llama: a llama
+[12/22/2021 16:42]  a llama: (tame)
+[12/22/2021 16:42]  a llama: a llama
+[12/22/2021 16:42]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:42]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:42]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  URK Recruiter: Is something missing from your life?
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:43]  URK Recruiter: Do you feel that something isn't quite right in this world around you?
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  URK Recruiter: Wake Up.  The Grind has you.
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:43]  Butcher John: Butcher John (Young)
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Butcher John: Butcher John (Young)
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  URK Recruiter: Forget the red pill !!  Choose the red boots!  Make a Bloodrock Clan orc today!!
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  URK Recruiter: A unique UO experience!  Crafters, PvMers, Pvpers, or any combination is welcomed!
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  URK Recruiter: Bad English skills are a plus kuz uz blah lyke dis!
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:43]  Razor: Move to next spot
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  URK Recruiter: https://discord.gg/t9nYmGy
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You do not see any harvestable resources nearby. [4]
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  You see: iron ore : 44
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  You see: iron ore : 45
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: Dralic has completed the achievement: Guardian of The Mausoleum (Basic).
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:43]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Razor: Mining
+[12/22/2021 16:43]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:43]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: Finished 2 queued actions in 0.6 seconds.
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: Moeror has completed the achievement: Daemonic Slayer (Basic).
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:44]  a pack horse: (tame)
+[12/22/2021 16:44]  a pack horse: [408/2000 stones]
+[12/22/2021 16:44]  a pack horse: a pack horse
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:44]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Dane: Dane the farmer
+[12/22/2021 16:44]  Dane: Dane the farmer
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Jake: Jake the barkeep
+[12/22/2021 16:44]  Jake: Jake the barkeep
+[12/22/2021 16:44]  Len: Len the banker
+[12/22/2021 16:44]  Len: Len the banker
+[12/22/2021 16:44]  a pack llama: (tame)
+[12/22/2021 16:44]  a pack llama: [392/2000 stones]
+[12/22/2021 16:44]  a pack llama: a pack llama
+[12/22/2021 16:44]  a pack llama: (tame)
+[12/22/2021 16:44]  a pack llama: [392/2000 stones]
+[12/22/2021 16:44]  a pack llama: a pack llama
+[12/22/2021 16:44]  OompaLoompa: OompaLoompa (Young)
+[12/22/2021 16:44]  OompaLoompa: OompaLoompa (Young)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Recarl: Recarl (Young)
+[12/22/2021 16:44]  Recarl: Recarl (Young)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:44]  a pack horse: (tame)
+[12/22/2021 16:44]  a pack horse: [408/2000 stones]
+[12/22/2021 16:44]  a pack horse: a pack horse
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [6]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  You see: iron ore : 6
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack. [5]
+[12/22/2021 16:44]  Recarl: Recarl (Young)
+[12/22/2021 16:44]  Recarl: Recarl (Young)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Marniea: Marniea (Young)
+[12/22/2021 16:44]  Marniea: Marniea (Young)
+[12/22/2021 16:44]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:44]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:44]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:44]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Recarl: Recarl (Young)
+[12/22/2021 16:44]  Recarl: Recarl (Young)
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Dusty: Dusty the cook
+[12/22/2021 16:44]  Dusty: Dusty the cook
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:44]  a sheep: a sheep
+[12/22/2021 16:44]  a sheep: a sheep
+[12/22/2021 16:44]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:44]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  a sheep: a sheep
+[12/22/2021 16:44]  a sheep: a sheep
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:44]  System: You dig some iron ore and put it in your backpack. [4]
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:44]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:45]  Razor: Move to next spot
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:45]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  a sheep: a sheep
+[12/22/2021 16:45]  a sheep: a sheep
+[12/22/2021 16:45]  a sheep: a sheep
+[12/22/2021 16:45]  a sheep: a sheep
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  a sheep: a sheep
+[12/22/2021 16:45]  a sheep: a sheep
+[12/22/2021 16:45]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:45]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:45]  System: [DF] A Dungeon Flashpoint will begin in 14 minutes 59 seconds. Type [BattleHotbar to view the Battle Hotbar for this event.
+[12/22/2021 16:45]  You see: iron ore : 26
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: Brujah has completed the achievement: Cartographer (Advanced).
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  You see: smith's hammer
+[12/22/2021 16:45]  You see: (100 uses remaining)
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  You see: iron ore : 30
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:45]  You see: iron ore : 32
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:45]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:45]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Subrey: Subrey the provisioner
+[12/22/2021 16:45]  Subrey: Subrey the provisioner
+[12/22/2021 16:45]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:45]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You must wait to perform another action.
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Eightohfive: Eightohfive (Young)
+[12/22/2021 16:46]  Eightohfive: Eightohfive (Young)
+[12/22/2021 16:46]  System: You must wait to perform another action.
+[12/22/2021 16:46]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:46]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:46]  Groover: [Collector, NWO]
+[12/22/2021 16:46]  Groover: Groover
+[12/22/2021 16:46]  Groover: [Collector, NWO]
+[12/22/2021 16:46]  Groover: Groover
+[12/22/2021 16:46]  Wanda: Wanda the blacksmith
+[12/22/2021 16:46]  Wanda: Wanda the blacksmith
+[12/22/2021 16:46]  a pack llama: (tame)
+[12/22/2021 16:46]  a pack llama: [144/2000 stones]
+[12/22/2021 16:46]  a pack llama: a pack llama
+[12/22/2021 16:46]  a pack llama: (tame)
+[12/22/2021 16:46]  a pack llama: [144/2000 stones]
+[12/22/2021 16:46]  a pack llama: a pack llama
+[12/22/2021 16:46]  Ardith: Ardith the tailor
+[12/22/2021 16:46]  Ardith: Ardith the tailor
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:46]  Jake: Jake the barkeep
+[12/22/2021 16:46]  Jake: Jake the barkeep
+[12/22/2021 16:46]  Len: Len the banker
+[12/22/2021 16:46]  Len: Len the banker
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You must wait to perform another action.
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [4]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:46]  Marniea: Marniea (Young)
+[12/22/2021 16:46]  Marniea: Marniea (Young)
+[12/22/2021 16:46]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:46]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:46]  Razor: Move to next spot
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Eightohfive: Eightohfive (Young)
+[12/22/2021 16:46]  Eightohfive: Eightohfive (Young)
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:46]  B Rabbit: B Rabbit (Young)
+[12/22/2021 16:46]  B Rabbit: B Rabbit (Young)
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Selecta: [I NEED TRAM, HL]
+[12/22/2021 16:46]  Selecta: Selecta
+[12/22/2021 16:46]  Selecta: [I NEED TRAM, HL]
+[12/22/2021 16:46]  Selecta: Selecta
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: Finished 2 queued actions in 0.6 seconds.
+[12/22/2021 16:46]  a pack llama: (tame)
+[12/22/2021 16:46]  a pack llama: [0/2000 stones]
+[12/22/2021 16:46]  a pack llama: a pack llama
+[12/22/2021 16:46]  a pack llama: (tame)
+[12/22/2021 16:46]  a pack llama: [0/2000 stones]
+[12/22/2021 16:46]  a pack llama: a pack llama
+[12/22/2021 16:46]  Ace Venturaa: Lifetime Guild
+[12/22/2021 16:46]  Ace Venturaa: [Veteran, -_-]
+[12/22/2021 16:46]  Ace Venturaa: Ace Venturaa
+[12/22/2021 16:46]  Ace Venturaa: Lifetime Guild
+[12/22/2021 16:46]  Ace Venturaa: [Veteran, -_-]
+[12/22/2021 16:46]  Ace Venturaa: Ace Venturaa
+[12/22/2021 16:46]  Asher Kalvasce: [Cult]
+[12/22/2021 16:46]  Asher Kalvasce: Asher Kalvasce
+[12/22/2021 16:46]  Asher Kalvasce: [Cult]
+[12/22/2021 16:46]  Asher Kalvasce: Asher Kalvasce
+[12/22/2021 16:46]  Arbor the tree: Legendary Blacksmith
+[12/22/2021 16:46]  Arbor the tree: [Ancient, Oak]
+[12/22/2021 16:46]  Arbor the tree: Lord Arbor the tree
+[12/22/2021 16:46]  Arbor the tree: Legendary Blacksmith
+[12/22/2021 16:46]  Arbor the tree: [Ancient, Oak]
+[12/22/2021 16:46]  Arbor the tree: Lord Arbor the tree
+[12/22/2021 16:46]  Merlin The Black: Merlin The Black
+[12/22/2021 16:46]  Merlin The Black: Merlin The Black
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:46]  Arreh: Legendary Pickpocket
+[12/22/2021 16:46]  Arreh: [Toxicodendron, Oak]
+[12/22/2021 16:46]  Arreh: Lady Arreh
+[12/22/2021 16:46]  Arreh: Legendary Pickpocket
+[12/22/2021 16:46]  Arreh: [Toxicodendron, Oak]
+[12/22/2021 16:46]  Arreh: Lady Arreh
+[12/22/2021 16:46]  Dear Esther: [Zakura Azalea, Oak]
+[12/22/2021 16:46]  Dear Esther: Lady Dear Esther
+[12/22/2021 16:46]  Dear Esther: [Zakura Azalea, Oak]
+[12/22/2021 16:46]  Dear Esther: Lady Dear Esther
+[12/22/2021 16:46]  a stranger.: a stranger.
+[12/22/2021 16:46]  a stranger.: a stranger.
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:46]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:46]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Merlin The Black: Vas Rel Por [Gate Travel]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You dig some iron ore and put it in your backpack. [4]
+[12/22/2021 16:47]  Gaven Dragbane: [Acolyte of Night, Vile]
+[12/22/2021 16:47]  Gaven Dragbane: Gaven Dragbane
+[12/22/2021 16:47]  Gaven Dragbane: [Acolyte of Night, Vile]
+[12/22/2021 16:47]  Gaven Dragbane: Gaven Dragbane
+[12/22/2021 16:47]  Suite: Suite
+[12/22/2021 16:47]  Suite: Suite
+[12/22/2021 16:47]  a loot scavenger: a loot scavenger
+[12/22/2021 16:47]  a loot scavenger: a loot scavenger
+[12/22/2021 16:47]  Arthur Vandelay: Arthur Vandelay
+[12/22/2021 16:47]  Arthur Vandelay: Arthur Vandelay
+[12/22/2021 16:47]  Xaxag: [Ujak, Warg]
+[12/22/2021 16:47]  Xaxag: Xaxag
+[12/22/2021 16:47]  Xaxag: [Ujak, Warg]
+[12/22/2021 16:47]  Xaxag: Xaxag
+[12/22/2021 16:47]  poco: poco
+[12/22/2021 16:47]  poco: poco
+[12/22/2021 16:47]  Tale: [BB]
+[12/22/2021 16:47]  Tale: Tale
+[12/22/2021 16:47]  Tale: [BB]
+[12/22/2021 16:47]  Tale: Tale
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Carol: Carol the miner
+[12/22/2021 16:47]  Carol: Carol the miner
+[12/22/2021 16:47]  Mithotyn: [Guildmaster, onyx]
+[12/22/2021 16:47]  Mithotyn: Lord Mithotyn
+[12/22/2021 16:47]  Mithotyn: [Guildmaster, onyx]
+[12/22/2021 16:47]  Mithotyn: Lord Mithotyn
+[12/22/2021 16:47]  The Vendor Bot: The Vendor Bot
+[12/22/2021 16:47]  The Vendor Bot: The Vendor Bot
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:47]  a prevalian mage: Legendary Scribe
+[12/22/2021 16:47]  a prevalian mage: [Official Gater, KHAL]
+[12/22/2021 16:47]  a prevalian mage: a prevalian mage
+[12/22/2021 16:47]  a prevalian mage: Legendary Scribe
+[12/22/2021 16:47]  a prevalian mage: [Official Gater, KHAL]
+[12/22/2021 16:47]  a prevalian mage: a prevalian mage
+[12/22/2021 16:47]  Razor: Move to next spot
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  A Super Hero: Legendary Connoisseur
+[12/22/2021 16:47]  A Super Hero: [Veteran, L%C]
+[12/22/2021 16:47]  A Super Hero: A Super Hero
+[12/22/2021 16:47]  A Super Hero: Legendary Connoisseur
+[12/22/2021 16:47]  A Super Hero: [Veteran, L%C]
+[12/22/2021 16:47]  A Super Hero: A Super Hero
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  The Union: [TRT]
+[12/22/2021 16:47]  The Union: The Union
+[12/22/2021 16:47]  The Union: [TRT]
+[12/22/2021 16:47]  The Union: The Union
+[12/22/2021 16:47]  Kektrocity: Pirate
+[12/22/2021 16:47]  Kektrocity: [Kal Vas Xen, BoW]
+[12/22/2021 16:47]  Kektrocity: Lord Kektrocity
+[12/22/2021 16:47]  Kektrocity: Pirate
+[12/22/2021 16:47]  Kektrocity: [Kal Vas Xen, BoW]
+[12/22/2021 16:47]  Kektrocity: Lord Kektrocity
+[12/22/2021 16:47]  Sigler: Zoologist
+[12/22/2021 16:47]  Sigler: [Siggi, O|P]
+[12/22/2021 16:47]  Sigler: Lord Sigler
+[12/22/2021 16:47]  Sigler: Zoologist
+[12/22/2021 16:47]  Sigler: [Siggi, O|P]
+[12/22/2021 16:47]  Sigler: Lord Sigler
+[12/22/2021 16:47]  cheap vendors: [Rookie, NKB]
+[12/22/2021 16:47]  cheap vendors: cheap vendors
+[12/22/2021 16:47]  cheap vendors: [Rookie, NKB]
+[12/22/2021 16:47]  cheap vendors: cheap vendors
+[12/22/2021 16:47]  Brentan: Brentan the miner
+[12/22/2021 16:47]  Brentan: Brentan the miner
+[12/22/2021 16:47]  Jennifer: Jennifer the ranger
+[12/22/2021 16:47]  Jennifer: Jennifer the ranger
+[12/22/2021 16:47]  mastercrafted by: Loremaster
+[12/22/2021 16:47]  mastercrafted by: mastercrafted by
+[12/22/2021 16:47]  mastercrafted by: Loremaster
+[12/22/2021 16:47]  mastercrafted by: mastercrafted by
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:47]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Witcher: Enhanced
+[12/22/2021 16:47]  Witcher: [-_-]
+[12/22/2021 16:47]  Witcher: Witcher
+[12/22/2021 16:47]  Witcher: Enhanced
+[12/22/2021 16:47]  Witcher: [-_-]
+[12/22/2021 16:47]  Witcher: Witcher
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Julietta: [AWN]
+[12/22/2021 16:47]  Julietta: Julietta
+[12/22/2021 16:47]  Julietta: [AWN]
+[12/22/2021 16:47]  Julietta: Julietta
+[12/22/2021 16:47]  Arkion: Arkion
+[12/22/2021 16:47]  Arkion: Arkion
+[12/22/2021 16:47]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  Ardith: Ardith the tailor
+[12/22/2021 16:47]  Ardith: Ardith the tailor
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  A Super Hero: hey\
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:47]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:47]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Crystal: Crystal the tinker
+[12/22/2021 16:47]  Crystal: Crystal the tinker
+[12/22/2021 16:47]  Selina: Selina the jeweler
+[12/22/2021 16:47]  Selina: Selina the jeweler
+[12/22/2021 16:47]  Saxon: Saxon the lumberjack
+[12/22/2021 16:47]  Saxon: Saxon the lumberjack
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Iverson: Iverson
+[12/22/2021 16:47]  Iverson: Iverson
+[12/22/2021 16:47]  Dear Esther: [Zakura Azalea, Oak]
+[12/22/2021 16:47]  Dear Esther: Lady Dear Esther
+[12/22/2021 16:47]  Dear Esther: [Zakura Azalea, Oak]
+[12/22/2021 16:47]  Dear Esther: Lady Dear Esther
+[12/22/2021 16:47]  a stranger.: a stranger.
+[12/22/2021 16:47]  a stranger.: a stranger.
+[12/22/2021 16:47]  Witcher: Enhanced
+[12/22/2021 16:47]  Witcher: [-_-]
+[12/22/2021 16:47]  Witcher: Witcher
+[12/22/2021 16:47]  Witcher: Enhanced
+[12/22/2021 16:47]  Witcher: [-_-]
+[12/22/2021 16:47]  Witcher: Witcher
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Arreh: Legendary Pickpocket
+[12/22/2021 16:47]  Arreh: [Toxicodendron, Oak]
+[12/22/2021 16:47]  Arreh: Lady Arreh
+[12/22/2021 16:47]  Arreh: Legendary Pickpocket
+[12/22/2021 16:47]  Arreh: [Toxicodendron, Oak]
+[12/22/2021 16:47]  Arreh: Lady Arreh
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  a sheep: a sheep
+[12/22/2021 16:47]  Gaven Dragbane: [Acolyte of Night, Vile]
+[12/22/2021 16:47]  Gaven Dragbane: Gaven Dragbane
+[12/22/2021 16:47]  Gaven Dragbane: [Acolyte of Night, Vile]
+[12/22/2021 16:47]  Gaven Dragbane: Gaven Dragbane
+[12/22/2021 16:47]  Suite: Suite
+[12/22/2021 16:47]  Suite: Suite
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:47]  a loot scavenger: a loot scavenger
+[12/22/2021 16:47]  a loot scavenger: a loot scavenger
+[12/22/2021 16:47]  Arthur Vandelay: Arthur Vandelay
+[12/22/2021 16:47]  Arthur Vandelay: Arthur Vandelay
+[12/22/2021 16:47]  Xaxag: [Ujak, Warg]
+[12/22/2021 16:47]  Xaxag: Xaxag
+[12/22/2021 16:47]  Xaxag: [Ujak, Warg]
+[12/22/2021 16:47]  Xaxag: Xaxag
+[12/22/2021 16:47]  poco: poco
+[12/22/2021 16:47]  poco: poco
+[12/22/2021 16:47]  Tale: [BB]
+[12/22/2021 16:47]  Tale: Tale
+[12/22/2021 16:47]  Tale: [BB]
+[12/22/2021 16:47]  Tale: Tale
+[12/22/2021 16:47]  Carol: Carol the miner
+[12/22/2021 16:47]  Carol: Carol the miner
+[12/22/2021 16:47]  Mithotyn: [Guildmaster, onyx]
+[12/22/2021 16:47]  Mithotyn: Lord Mithotyn
+[12/22/2021 16:47]  Mithotyn: [Guildmaster, onyx]
+[12/22/2021 16:47]  Mithotyn: Lord Mithotyn
+[12/22/2021 16:47]  The Vendor Bot: The Vendor Bot
+[12/22/2021 16:47]  The Vendor Bot: The Vendor Bot
+[12/22/2021 16:47]  The Union: [TRT]
+[12/22/2021 16:47]  The Union: The Union
+[12/22/2021 16:47]  The Union: [TRT]
+[12/22/2021 16:47]  The Union: The Union
+[12/22/2021 16:47]  Eightohfive: Eightohfive (Young)
+[12/22/2021 16:47]  Eightohfive: Eightohfive (Young)
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  cheap vendors: [Rookie, NKB]
+[12/22/2021 16:47]  cheap vendors: cheap vendors
+[12/22/2021 16:47]  cheap vendors: [Rookie, NKB]
+[12/22/2021 16:47]  cheap vendors: cheap vendors
+[12/22/2021 16:47]  Brentan: Brentan the miner
+[12/22/2021 16:47]  Brentan: Brentan the miner
+[12/22/2021 16:47]  Arkion: Arkion
+[12/22/2021 16:47]  Arkion: Arkion
+[12/22/2021 16:47]  Jennifer: Jennifer the ranger
+[12/22/2021 16:47]  Jennifer: Jennifer the ranger
+[12/22/2021 16:47]  mastercrafted by: Loremaster
+[12/22/2021 16:47]  mastercrafted by: mastercrafted by
+[12/22/2021 16:47]  mastercrafted by: Loremaster
+[12/22/2021 16:47]  mastercrafted by: mastercrafted by
+[12/22/2021 16:47]  a lich: (summoned)
+[12/22/2021 16:47]  a lich: a lich
+[12/22/2021 16:47]  a lich: (summoned)
+[12/22/2021 16:47]  a lich: a lich
+[12/22/2021 16:47]  an ancient mummy: (summoned)
+[12/22/2021 16:47]  an ancient mummy: an ancient mummy
+[12/22/2021 16:47]  an ancient mummy: (summoned)
+[12/22/2021 16:47]  an ancient mummy: an ancient mummy
+[12/22/2021 16:47]  a pack llama: (tame)
+[12/22/2021 16:47]  a pack llama: [1143/2000 stones]
+[12/22/2021 16:47]  a pack llama: a pack llama
+[12/22/2021 16:47]  a pack llama: (tame)
+[12/22/2021 16:47]  a pack llama: [1143/2000 stones]
+[12/22/2021 16:47]  a pack llama: a pack llama
+[12/22/2021 16:47]  Dyara: Lifetime Eventsman
+[12/22/2021 16:47]  Dyara: [OA]
+[12/22/2021 16:47]  Dyara: Dyara
+[12/22/2021 16:47]  Dyara: Lifetime Eventsman
+[12/22/2021 16:47]  Dyara: [OA]
+[12/22/2021 16:47]  Dyara: Dyara
+[12/22/2021 16:47]  w.o.o.o.o.o.o.o.: Guardian of Aegis Keep
+[12/22/2021 16:47]  w.o.o.o.o.o.o.o.: [Officer, SQzD]
+[12/22/2021 16:47]  w.o.o.o.o.o.o.o.: Lady w.o.o.o.o.o.o.o.
+[12/22/2021 16:47]  w.o.o.o.o.o.o.o.: Guardian of Aegis Keep
+[12/22/2021 16:47]  w.o.o.o.o.o.o.o.: [Officer, SQzD]
+[12/22/2021 16:47]  w.o.o.o.o.o.o.o.: Lady w.o.o.o.o.o.o.o.
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:47]  B Rabbit: B Rabbit (Young)
+[12/22/2021 16:47]  B Rabbit: B Rabbit (Young)
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Ardith: Ardith the tailor
+[12/22/2021 16:47]  Ardith: Ardith the tailor
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You do not see any harvestable resources nearby. [2]
+[12/22/2021 16:47]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Kektrocity: Kal Ort Por [Recall]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:47]  Julietta: ty
+[12/22/2021 16:47]  Wanda: Wanda the blacksmith
+[12/22/2021 16:47]  Wanda: Wanda the blacksmith
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Merlin The Black: Vas Rel Por [Gate Travel]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:47]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [6]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Cardinal Tang: Cardinal Tang
+[12/22/2021 16:48]  Cardinal Tang: Cardinal Tang
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  an aegis imp: (bonded)
+[12/22/2021 16:48]  an aegis imp: an aegis imp
+[12/22/2021 16:48]  an aegis imp: (bonded)
+[12/22/2021 16:48]  an aegis imp: an aegis imp
+[12/22/2021 16:48]  an aegis imp: (bonded)
+[12/22/2021 16:48]  an aegis imp: an aegis imp
+[12/22/2021 16:48]  an aegis imp: (bonded)
+[12/22/2021 16:48]  an aegis imp: an aegis imp
+[12/22/2021 16:48]  an aegis imp: (bonded)
+[12/22/2021 16:48]  an aegis imp: an aegis imp
+[12/22/2021 16:48]  an aegis imp: (bonded)
+[12/22/2021 16:48]  an aegis imp: an aegis imp
+[12/22/2021 16:48]  a pack horse: (tame)
+[12/22/2021 16:48]  a pack horse: [1995/2000 stones]
+[12/22/2021 16:48]  a pack horse: a pack horse
+[12/22/2021 16:48]  a pack horse: (tame)
+[12/22/2021 16:48]  a pack horse: [1995/2000 stones]
+[12/22/2021 16:48]  a pack horse: a pack horse
+[12/22/2021 16:48]  tuatara: (bonded)
+[12/22/2021 16:48]  tuatara: tuatara
+[12/22/2021 16:48]  tuatara: (bonded)
+[12/22/2021 16:48]  tuatara: tuatara
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Gaven Dragbane: [Acolyte of Night, Vile]
+[12/22/2021 16:48]  Gaven Dragbane: Gaven Dragbane
+[12/22/2021 16:48]  Gaven Dragbane: [Acolyte of Night, Vile]
+[12/22/2021 16:48]  Gaven Dragbane: Gaven Dragbane
+[12/22/2021 16:48]  Cardinal Tang: Cardinal Tang
+[12/22/2021 16:48]  Cardinal Tang: Cardinal Tang
+[12/22/2021 16:48]  Groover: [Collector, NWO]
+[12/22/2021 16:48]  Groover: Groover
+[12/22/2021 16:48]  Groover: [Collector, NWO]
+[12/22/2021 16:48]  Groover: Groover
+[12/22/2021 16:48]  Wanda: Wanda the blacksmith
+[12/22/2021 16:48]  Wanda: Wanda the blacksmith
+[12/22/2021 16:48]  Ardith: Ardith the tailor
+[12/22/2021 16:48]  Ardith: Ardith the tailor
+[12/22/2021 16:48]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:48]  Razor: Move to next spot
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:48]  IgnoreMe: IgnoreMe (Young)
+[12/22/2021 16:48]  IgnoreMe: IgnoreMe (Young)
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Saxon: Saxon the lumberjack
+[12/22/2021 16:48]  Saxon: Saxon the lumberjack
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You do not see any harvestable resources nearby. [2]
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Faramir Elroy: Faramir Elroy (Young)
+[12/22/2021 16:48]  Faramir Elroy: Faramir Elroy (Young)
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  a crow: a crow
+[12/22/2021 16:48]  a crow: a crow
+[12/22/2021 16:48]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:48]  a crow: a crow
+[12/22/2021 16:48]  a crow: a crow
+[12/22/2021 16:48]  Chopperchop: Chopperchop (Young)
+[12/22/2021 16:48]  Chopperchop: Chopperchop (Young)
+[12/22/2021 16:48]  a magpie: a magpie
+[12/22/2021 16:48]  a magpie: a magpie
+[12/22/2021 16:48]  Razor: Move to next spot
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:48]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:48]  Razor: Mining
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You loosen some rocks but fail to find any useable ore. [3]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack. [2]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You loosen some rocks but fail to find any useable ore. [4]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You loosen some rocks but fail to find any useable ore. [5]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack. [3]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You loosen some rocks but fail to find any useable ore.
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack. [5]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:49]  System: You loosen some rocks but fail to find any useable ore. [2]
+[12/22/2021 16:49]  Razor: Move to next spot
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:49]  System: You dig some iron ore and put it in your backpack.
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:49]  an eagle: an eagle
+[12/22/2021 16:49]  an eagle: an eagle
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  a great hart: a great hart
+[12/22/2021 16:49]  a great hart: a great hart
+[12/22/2021 16:49]  a hind: a hind
+[12/22/2021 16:49]  a hind: a hind
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  a crow: a crow
+[12/22/2021 16:49]  a crow: a crow
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  a crow: a crow
+[12/22/2021 16:49]  a crow: a crow
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:49]  System: A contested ocean boss has spawned at (589, 2411, 0)
+[12/22/2021 16:49]  Razor: Mining
+[12/22/2021 16:50]  a magpie: a magpie
+[12/22/2021 16:50]  a magpie: a magpie
+[12/22/2021 16:50]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Kamali: Kamali the butcher
+[12/22/2021 16:50]  Kamali: Kamali the butcher
+[12/22/2021 16:50]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Komor: Komor the tanner
+[12/22/2021 16:50]  Komor: Komor the tanner
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  System: You do not see any harvestable resources nearby. [4]
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Thea: Thea the beggar
+[12/22/2021 16:50]  Thea: Thea the beggar
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  an eagle: an eagle
+[12/22/2021 16:50]  an eagle: an eagle
+[12/22/2021 16:50]  a great hart: a great hart
+[12/22/2021 16:50]  a great hart: a great hart
+[12/22/2021 16:50]  a hind: a hind
+[12/22/2021 16:50]  a hind: a hind
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  System: You do not see any harvestable resources nearby. [3]
+[12/22/2021 16:50]  Razor: Mining
+[12/22/2021 16:50]  Razor: Done for now
+[12/22/2021 16:50]  a cave bear: (tame)
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: (tame)
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  System: You do not see any harvestable resources nearby.
+[12/22/2021 16:50]  a magpie: a magpie
+[12/22/2021 16:50]  a magpie: a magpie
+[12/22/2021 16:50]  a crow: a crow
+[12/22/2021 16:50]  a crow: a crow
+[12/22/2021 16:50]  a crow: a crow
+[12/22/2021 16:50]  a crow: a crow
+[12/22/2021 16:50]  Bilal: Bilal the blacksmith
+[12/22/2021 16:50]  Bilal: Bilal the blacksmith
+[12/22/2021 16:50]  Chane: Chane the carpenter
+[12/22/2021 16:50]  Chane: Chane the carpenter
+[12/22/2021 16:50]  Saxon: Saxon the lumberjack
+[12/22/2021 16:50]  Saxon: Saxon the lumberjack
+[12/22/2021 16:50]  Amadis: Amadis the armorer
+[12/22/2021 16:50]  Amadis: Amadis the armorer
+[12/22/2021 16:50]  Komor: Komor the tanner
+[12/22/2021 16:50]  Komor: Komor the tanner
+[12/22/2021 16:50]  Kamali: Kamali the butcher
+[12/22/2021 16:50]  Kamali: Kamali the butcher
+[12/22/2021 16:50]  Meg: Meg the bowyer
+[12/22/2021 16:50]  Meg: Meg the bowyer
+[12/22/2021 16:50]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:50]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  Ardith: Ardith the tailor
+[12/22/2021 16:50]  Ardith: Ardith the tailor
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:50]  Thomas Shelby: Thomas Shelby (Young)
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  a sheep: a sheep
+[12/22/2021 16:50]  System: You smelt the ore removing the impurities and put the metal in your backpack.
+[12/22/2021 16:50]  System: You smelt the ore removing the impurities and put the metal in your backpack.
+[12/22/2021 16:50]  You see: iron ingot : 290
+[12/22/2021 16:50]  Kamali: Kamali the butcher
+[12/22/2021 16:50]  Kamali: Kamali the butcher
+[12/22/2021 16:50]  Komor: Komor the tanner
+[12/22/2021 16:50]  Komor: Komor the tanner
+[12/22/2021 16:50]  Wijdan: Wijdan the mapmaker
+[12/22/2021 16:50]  Wijdan: Wijdan the mapmaker
+[12/22/2021 16:50]  Kayomart: Monster Hunter Initiate
+[12/22/2021 16:50]  Kayomart: [Recruit, DHK]
+[12/22/2021 16:50]  Kayomart: Kayomart
+[12/22/2021 16:50]  Kayomart: Monster Hunter Initiate
+[12/22/2021 16:50]  Kayomart: [Recruit, DHK]
+[12/22/2021 16:50]  Kayomart: Kayomart
+[12/22/2021 16:50]  Armando Cortesao: Armando Cortesao
+[12/22/2021 16:50]  Armando Cortesao: Armando Cortesao
+[12/22/2021 16:50]  Marniea: Marniea (Young)
+[12/22/2021 16:50]  Marniea: Marniea (Young)
+[12/22/2021 16:50]  Wijdan: Wijdan the mapmaker
+[12/22/2021 16:50]  Wijdan: Wijdan the mapmaker
+[12/22/2021 16:50]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:50]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:50]  Colon: Colon the Town Crier
+[12/22/2021 16:50]  Colon: Colon the Town Crier
+[12/22/2021 16:50]  Madelyn: Madelyn the shipwright
+[12/22/2021 16:50]  Madelyn: Madelyn the shipwright
+[12/22/2021 16:50]  Chimpantherax: Chimpantherax
+[12/22/2021 16:50]  Chimpantherax: Chimpantherax
+[12/22/2021 16:50]  Alicia: Alicia the tavern keeper
+[12/22/2021 16:50]  Alicia: Alicia the tavern keeper
+[12/22/2021 16:50]  Fizz the Fisher: Fizz the Fisher
+[12/22/2021 16:50]  Fizz the Fisher: Fizz the Fisher
+[12/22/2021 16:50]  Kegetha: Kegetha
+[12/22/2021 16:50]  Kegetha: Kegetha
+[12/22/2021 16:50]  Tai: Tai the fisherman
+[12/22/2021 16:50]  Tai: Tai the fisherman
+[12/22/2021 16:50]  Jordan: Jordan the beggar
+[12/22/2021 16:50]  Jordan: Jordan the beggar
+[12/22/2021 16:50]  Rosaline: Rosaline the waiter
+[12/22/2021 16:50]  Rosaline: Rosaline the waiter
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  a cave bear: *released*
+[12/22/2021 16:50]  a cave bear: a cave bear
+[12/22/2021 16:50]  Kenelm: Kenelm the tavern keeper
+[12/22/2021 16:50]  Kenelm: Kenelm the tavern keeper
+[12/22/2021 16:50]  Bly: Bly the fisherman
+[12/22/2021 16:50]  Bly: Bly the fisherman
+[12/22/2021 16:50]  Lene: Lene the salvage foreman
+[12/22/2021 16:50]  Lene: Lene the salvage foreman
+[12/22/2021 16:50]  Carlton: Carlton the stablemaster
+[12/22/2021 16:50]  Carlton: Carlton the stablemaster
+[12/22/2021 16:50]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:50]  not that: not that
+[12/22/2021 16:50]  not that: not that
+[12/22/2021 16:50]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:50]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:50]  a pack horse: (tame)
+[12/22/2021 16:50]  a pack horse: [0/2000 stones]
+[12/22/2021 16:50]  a pack horse: a pack horse
+[12/22/2021 16:50]  a pack horse: (tame)
+[12/22/2021 16:50]  a pack horse: [0/2000 stones]
+[12/22/2021 16:50]  a pack horse: a pack horse
+[12/22/2021 16:50]  Jayne: Jayne the innkeeper
+[12/22/2021 16:50]  Jayne: Jayne the innkeeper
+[12/22/2021 16:50]  Colon: Colon the Town Crier
+[12/22/2021 16:50]  Colon: Colon the Town Crier
+[12/22/2021 16:50]  Rosaline: Rosaline the waiter
+[12/22/2021 16:50]  Rosaline: Rosaline the waiter
+[12/22/2021 16:50]  Carlton: Carlton the stablemaster
+[12/22/2021 16:50]  Carlton: Alas, my goods and services are only available to those with young player status.
+[12/22/2021 16:51]  Alicia: Alicia the tavern keeper
+[12/22/2021 16:51]  Alicia: Alicia the tavern keeper
+[12/22/2021 16:51]  Tadi: Tadi the thief
+[12/22/2021 16:51]  Tadi: Tadi the thief
+[12/22/2021 16:51]  Marniea: Marniea (Young)
+[12/22/2021 16:51]  Marniea: Marniea (Young)
+[12/22/2021 16:51]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:51]  Jackov Altraides: Jackov Altraides (Young)
+[12/22/2021 16:51]  OtoRam: [Henchman, Syn]
+[12/22/2021 16:51]  OtoRam: OtoRam
+[12/22/2021 16:51]  OtoRam: [Henchman, Syn]
+[12/22/2021 16:51]  OtoRam: OtoRam
+[12/22/2021 16:51]  Dusty: Dusty the cook
+[12/22/2021 16:51]  Dusty: Dusty the cook
+[12/22/2021 16:51]  Jake: Jake the barkeep
+[12/22/2021 16:51]  Jake: Jake the barkeep
+[12/22/2021 16:51]  Len: Len the banker
+[12/22/2021 16:51]  Len: Len the banker
+[12/22/2021 16:51]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:51]  Ayisha: Ayisha the weaponsmith
+[12/22/2021 16:51]  System: Your skill in Tactics has decreased by 10.0.  It is now 70.0.
+[12/22/2021 16:51]  Colon: A house is in danger of collapsing at (767, 1051, 10).
+[12/22/2021 16:51]  Haywood: Monster Hunter Initiate
+[12/22/2021 16:51]  Haywood: [Echo Team, NKB]
+[12/22/2021 16:51]  Haywood: Haywood
+[12/22/2021 16:51]  Haywood: Monster Hunter Initiate
+[12/22/2021 16:51]  Haywood: [Echo Team, NKB]
+[12/22/2021 16:51]  Haywood: Haywood
+[12/22/2021 16:51]  OtoRam: [Henchman, Syn]
+[12/22/2021 16:51]  OtoRam: OtoRam
+[12/22/2021 16:51]  OtoRam: [Henchman, Syn]
+[12/22/2021 16:51]  OtoRam: OtoRam
+[12/22/2021 16:51]  Rabbi Tuckman: Rabbi Tuckman (Young)
+[12/22/2021 16:51]  Rabbi Tuckman: Rabbi Tuckman (Young)
+[12/22/2021 16:51]  Ziti: Ziti (Young)
+[12/22/2021 16:51]  Ziti: Ziti (Young)
+[12/22/2021 16:51]  Rabbi Tuckman: bank
+[12/22/2021 16:52]  Colon: A contested ocean boss has spawned at (589, 2411, 0)
+[12/22/2021 16:52]  Wooky: [Recruit, AOG]
+[12/22/2021 16:52]  Wooky: Wooky
+[12/22/2021 16:52]  Wooky: [Recruit, AOG]
+[12/22/2021 16:52]  Wooky: Wooky
+[12/22/2021 16:52]  Con Stantine: Con Stantine
+[12/22/2021 16:52]  Con Stantine: Con Stantine
+[12/22/2021 16:52]  OtoRam: [Henchman, Syn]
+[12/22/2021 16:52]  OtoRam: OtoRam
+[12/22/2021 16:52]  OtoRam: [Henchman, Syn]
+[12/22/2021 16:52]  OtoRam: OtoRam
+[12/22/2021 16:53]  Colon: A new Raffle is now available at Prevalia Town Square for a Vintage Winter Clothing package!  This package includes a Ragged sarape, winter boots, balaclava and a Cavernam torch! Estimated to be worth 25million gold!
+[12/22/2021 16:53]  Haywood: Monster Hunter Initiate
+[12/22/2021 16:53]  Haywood: [Echo Team, NKB]
+[12/22/2021 16:53]  Haywood: Haywood
+[12/22/2021 16:53]  Haywood: Monster Hunter Initiate
+[12/22/2021 16:53]  Haywood: [Echo Team, NKB]
+[12/22/2021 16:53]  Haywood: Haywood
+[12/22/2021 16:53]  Kenelm: Kenelm the tavern keeper
+[12/22/2021 16:53]  Kenelm: Kenelm the tavern keeper
+[12/22/2021 16:53]  Rosaline: Rosaline the waiter
+[12/22/2021 16:53]  Rosaline: Rosaline the waiter
+[12/22/2021 16:53]  Fizz the Fisher: Fizz the Fisher
+[12/22/2021 16:53]  Fizz the Fisher: Fizz the Fisher
+[12/22/2021 16:53]  Kegetha: Kegetha
+[12/22/2021 16:53]  Kegetha: Kegetha
+[12/22/2021 16:53]  Tai: Tai the fisherman
+[12/22/2021 16:53]  Tai: Tai the fisherman
+[12/22/2021 16:53]  Jordan: Jordan the beggar
+[12/22/2021 16:53]  Jordan: Jordan the beggar
+[12/22/2021 16:53]  Bly: Bly the fisherman
+[12/22/2021 16:53]  Bly: Bly the fisherman
+[12/22/2021 16:53]  Lene: Lene the salvage foreman
+[12/22/2021 16:53]  Lene: Lene the salvage foreman
+[12/22/2021 16:53]  Ziti: Ziti (Young)
+[12/22/2021 16:53]  Ziti: Ziti (Young)
+[12/22/2021 16:53]  System: 2 item(s) queued to be equipped.
+[12/22/2021 16:53]  Jayne: Jayne the innkeeper
+[12/22/2021 16:53]  Jayne: Jayne the innkeeper
+[12/22/2021 16:53]  System: Your skill in Tactics has increased by 10.0.  It is now 80.0.
+[12/22/2021 16:53]  Sherwin: Sherwin the mage
+[12/22/2021 16:53]  Sherwin: Sherwin the mage
+[12/22/2021 16:53]  Zara: Zara the scribe
+[12/22/2021 16:53]  Zara: Zara the scribe
+[12/22/2021 16:53]  System: Finished 2 queued actions in 0.6 seconds.
+[12/22/2021 16:53]  System: Jermo Spear has completed the achievement: Pirate (Basic).
+[12/22/2021 16:53]  Woody: Woody the alchemist
+[12/22/2021 16:53]  Woody: Woody the alchemist
+[12/22/2021 16:53]  Volksmar: Volksmar
+[12/22/2021 16:53]  Volksmar: Volksmar
+[12/22/2021 16:53]  Tadi: Tadi the thief
+[12/22/2021 16:53]  Tadi: Tadi the thief
+[12/22/2021 16:53]  Marti: Marti the healer
+[12/22/2021 16:53]  Marti: Marti the healer
+[12/22/2021 16:53]  Dusty: Dusty the cook
+[12/22/2021 16:53]  Dusty: Dusty the cook
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  psykhe: psykhe
+[12/22/2021 16:53]  psykhe: psykhe
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Glenn: Glenn the guard
+[12/22/2021 16:53]  Glenn: Glenn the guard
+[12/22/2021 16:53]  URK Recruiter: URK Recruiter
+[12/22/2021 16:53]  URK Recruiter: URK Recruiter
+[12/22/2021 16:53]  Kindred Spirit: Kindred Spirit (Young)
+[12/22/2021 16:53]  Kindred Spirit: Kindred Spirit (Young)
+[12/22/2021 16:53]  a wolf: (tame)
+[12/22/2021 16:53]  a wolf: a wolf
+[12/22/2021 16:53]  a wolf: (tame)
+[12/22/2021 16:53]  a wolf: a wolf
+[12/22/2021 16:53]  a pack llama: (tame)
+[12/22/2021 16:53]  a pack llama: [1968/2000 stones]
+[12/22/2021 16:53]  a pack llama: a pack llama
+[12/22/2021 16:53]  a pack llama: (tame)
+[12/22/2021 16:53]  a pack llama: [1968/2000 stones]
+[12/22/2021 16:53]  a pack llama: a pack llama
+[12/22/2021 16:53]  Tony Ravioli: Tony Ravioli (Young)
+[12/22/2021 16:53]  Tony Ravioli: Tony Ravioli (Young)
+[12/22/2021 16:53]  You see: an eagle corpse
+[12/22/2021 16:53]  a hind: a hind
+[12/22/2021 16:53]  a hind: a hind
+[12/22/2021 16:53]  an eagle: an eagle
+[12/22/2021 16:53]  an eagle: an eagle
+[12/22/2021 16:53]  a great hart: a great hart
+[12/22/2021 16:53]  a great hart: a great hart
+[12/22/2021 16:53]  You see: a hind corpse
+[12/22/2021 16:53]  You see: a hind corpse
+[12/22/2021 16:53]  System: You have left the protection of the town guards.
+[12/22/2021 16:53]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:53]  Duluth Trading: Your mount finds a quiet place to rest safely.
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a giant bat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  a harpy: a harpy
+[12/22/2021 16:53]  a harpy: a harpy
+[12/22/2021 16:53]  Foppish Gambado: Foppish Gambado (Young)
+[12/22/2021 16:53]  Foppish Gambado: Foppish Gambado (Young)
+[12/22/2021 16:53]  Saba Tamer: Saba Tamer
+[12/22/2021 16:53]  Saba Tamer: Saba Tamer
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  Lock With a C: Lock With a C
+[12/22/2021 16:53]  a pack horse: (tame)
+[12/22/2021 16:53]  a pack horse: [0/2000 stones]
+[12/22/2021 16:53]  a pack horse: a pack horse
+[12/22/2021 16:53]  a pack horse: (tame)
+[12/22/2021 16:53]  a pack horse: [0/2000 stones]
+[12/22/2021 16:53]  a pack horse: a pack horse
+[12/22/2021 16:53]  Eli Cohen: [Secret Agent, SAM]
+[12/22/2021 16:53]  Eli Cohen: Eli Cohen
+[12/22/2021 16:53]  Eli Cohen: [Secret Agent, SAM]
+[12/22/2021 16:53]  Eli Cohen: Eli Cohen
+[12/22/2021 16:53]  a lich: (summoned)
+[12/22/2021 16:53]  a lich: a lich
+[12/22/2021 16:53]  a lich: (summoned)
+[12/22/2021 16:53]  a lich: a lich
+[12/22/2021 16:53]  a lich: (summoned)
+[12/22/2021 16:53]  a lich: a lich
+[12/22/2021 16:53]  a lich: (summoned)
+[12/22/2021 16:53]  a lich: a lich
+[12/22/2021 16:53]  a cave bear: *released*
+[12/22/2021 16:53]  a cave bear: a cave bear
+[12/22/2021 16:53]  a cave bear: *released*
+[12/22/2021 16:53]  a cave bear: a cave bear
+[12/22/2021 16:53]  a cave bear: *released*
+[12/22/2021 16:53]  a cave bear: a cave bear
+[12/22/2021 16:53]  a cave bear: *released*
+[12/22/2021 16:53]  a cave bear: a cave bear
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  System: You may not loot this corpse.
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  a mongbat: a mongbat
+[12/22/2021 16:53]  a mongbat: a mongbat
+[12/22/2021 16:53]  Saba Tamer: Por Ort Grav [Lightning]
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a headless corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  a giant rat: a giant rat
+[12/22/2021 16:53]  a giant rat: a giant rat
+[12/22/2021 16:53]  System: That is too far away.
+[12/22/2021 16:53]  You see: a giant rat corpse
+[12/22/2021 16:53]  You see: a giant rat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a giant rat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: the remains of Ziti
+[12/22/2021 16:53]  You see: a giant rat corpse
+[12/22/2021 16:53]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:53]  Mahoubushi: Mahoubushi (Young)
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  You see: a mongbat corpse
+[12/22/2021 16:53]  a mongbat: a mongbat
+[12/22/2021 16:53]  a mongbat: a mongbat
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  a zombie: a zombie
+[12/22/2021 16:53]  queenofthepots: [Wanderer, CFC]
+[12/22/2021 16:53]  queenofthepots: queenofthepots
+[12/22/2021 16:53]  queenofthepots: [Wanderer, CFC]
+[12/22/2021 16:53]  queenofthepots: queenofthepots
+[12/22/2021 16:53]  Razor: [+Hidden/Stealthing (0s)]
+[12/22/2021 16:53]  System: You are now under the protection of the town guards.
+[12/22/2021 16:53]  You see: (Organizer 1 HotBag)
+[12/22/2021 16:53]  Duluth Trading: Your mount returns.
+[12/22/2021 16:53]  Nasiche: Nasiche the bard
+[12/22/2021 16:53]  Nasiche: Nasiche the bard
+[12/22/2021 16:53]  a pack horse: (tame)
+[12/22/2021 16:53]  a pack horse: [0/2000 stones]
+[12/22/2021 16:53]  a pack horse: a pack horse
+[12/22/2021 16:53]  a pack horse: (tame)
+[12/22/2021 16:53]  a pack horse: [0/2000 stones]
+[12/22/2021 16:53]  a pack horse: a pack horse
+[12/22/2021 16:53]  Jamie: Jamie the butcher
+[12/22/2021 16:53]  Jamie: Jamie the butcher
+[12/22/2021 16:53]  Greger: Greger the cook
+[12/22/2021 16:53]  Greger: Greger the cook
+[12/22/2021 16:53]  Nelson: Nelson the baker
+[12/22/2021 16:53]  Nelson: Nelson the baker
+[12/22/2021 16:53]  Sirs: [Hello, PEC]
+[12/22/2021 16:53]  Sirs: Sirs
+[12/22/2021 16:53]  Sirs: [Hello, PEC]
+[12/22/2021 16:53]  Sirs: Sirs
+[12/22/2021 16:53]  a horse: *released*
+[12/22/2021 16:53]  a horse: a horse
+[12/22/2021 16:53]  a horse: *released*
+[12/22/2021 16:53]  a horse: a horse
+[12/22/2021 16:53]  Lightsouls: Lightsouls
+[12/22/2021 16:53]  Lightsouls: Lightsouls
+[12/22/2021 16:53]  Orlantha: Orlantha the banker
+[12/22/2021 16:53]  Orlantha: Orlantha the banker
+[12/22/2021 16:53]  Departed: Departed
+[12/22/2021 16:53]  Departed: Departed
+[12/22/2021 16:53]  Roi: Roi the banker
+[12/22/2021 16:53]  Roi: Roi the banker
+[12/22/2021 16:53]  System: (tame)
+[12/22/2021 16:53]  : a horse
+[12/22/2021 16:53]  System: (tame)
+[12/22/2021 16:53]  : a horse
+[12/22/2021 16:53]  Razor: [-Hidden/Stealthing (s)]
+[12/22/2021 16:54]  Britta: Britta the banker
+[12/22/2021 16:54]  Britta: Britta the banker
+[12/22/2021 16:54]  Canton: Canton the healer
+[12/22/2021 16:54]  Canton: Canton the healer
+[12/22/2021 16:54]  Gaye: Gaye the armorer
+[12/22/2021 16:54]  Gaye: Gaye the armorer
+[12/22/2021 16:54]  Avasa: Avasa the healer
+[12/22/2021 16:54]  Avasa: Avasa the healer
+[12/22/2021 16:54]  Gerry: Gerry the healer
+[12/22/2021 16:54]  Gerry: Gerry the healer
+[12/22/2021 16:54]  Abbott: Abbott the blacksmith
+[12/22/2021 16:54]  Abbott: Abbott the blacksmith
+[12/22/2021 16:54]  Germain: Germain the weaponsmith
+[12/22/2021 16:54]  Germain: Germain the weaponsmith
+[12/22/2021 16:54]  a dog: a dog
+[12/22/2021 16:54]  a dog: a dog
+[12/22/2021 16:54]  a dog: a dog
+[12/22/2021 16:54]  a dog: a dog
+[12/22/2021 16:54]  a frenzied ostard: (bonded)
+[12/22/2021 16:54]  a frenzied ostard: a frenzied ostard
+[12/22/2021 16:54]  a frenzied ostard: (bonded)
+[12/22/2021 16:54]  a frenzied ostard: a frenzied ostard
+[12/22/2021 16:54]  a cat: a cat
+[12/22/2021 16:54]  a cat: a cat
+[12/22/2021 16:54]  Gerry: Gerry the healer
+[12/22/2021 16:54]  Gerry: Gerry the healer
+[12/22/2021 16:54]  an andarian marksman: an andarian marksman
+[12/22/2021 16:54]  an andarian marksman: an andarian marksman
+[12/22/2021 16:54]  a dog: a dog
+[12/22/2021 16:54]  a dog: a dog
+[12/22/2021 16:54]  Nasiche: Nasiche the bard
+[12/22/2021 16:54]  Nasiche: Nasiche the bard
+[12/22/2021 16:54]  Orlantha: Orlantha the banker
+[12/22/2021 16:54]  Orlantha: Orlantha the banker
+[12/22/2021 16:54]  Sirs: [Hello, PEC]
+[12/22/2021 16:54]  Sirs: Sirs
+[12/22/2021 16:54]  Sirs: [Hello, PEC]
+[12/22/2021 16:54]  Sirs: Sirs
+[12/22/2021 16:54]  Roi: Roi the banker
+[12/22/2021 16:54]  Roi: Roi the banker
+[12/22/2021 16:54]  a horse: *released*
+[12/22/2021 16:54]  a horse: a horse
+[12/22/2021 16:54]  a horse: *released*
+[12/22/2021 16:54]  a horse: a horse
+[12/22/2021 16:54]  Jamie: Jamie the butcher
+[12/22/2021 16:54]  Jamie: Jamie the butcher
+[12/22/2021 16:54]  Departed: Departed
+[12/22/2021 16:54]  Departed: Departed
+[12/22/2021 16:54]  Elandil Minori: Elandil Minori
+[12/22/2021 16:54]  Elandil Minori: Elandil Minori
+[12/22/2021 16:54]  Lightsouls: Lightsouls
+[12/22/2021 16:54]  Lightsouls: Lightsouls
+[12/22/2021 16:54]  Greger: Greger the cook
+[12/22/2021 16:54]  Greger: Greger the cook
+[12/22/2021 16:54]  Nelson: Nelson the baker
+[12/22/2021 16:54]  Nelson: Nelson the baker
+[12/22/2021 16:54]  Britta: Britta the banker
+[12/22/2021 16:54]  Britta: Britta the banker
+[12/22/2021 16:54]  Budo: Budo the stablemaster
+[12/22/2021 16:54]  Budo: Budo the stablemaster
+[12/22/2021 16:54]  Iain: Iain the innkeeper
+[12/22/2021 16:54]  Iain: Iain the innkeeper
+[12/22/2021 16:54]  Glinda: Glinda
+[12/22/2021 16:54]  Glinda: Glinda
+[12/22/2021 16:54]  a polar bear: (summoned)
+[12/22/2021 16:54]  a polar bear: a polar bear
+[12/22/2021 16:54]  a polar bear: (summoned)
+[12/22/2021 16:54]  a polar bear: a polar bear
+[12/22/2021 16:54]  Bart: Bart the Town Crier
+[12/22/2021 16:54]  Bart: Bart the Town Crier
+[12/22/2021 16:54]  an andarian mage: an andarian mage
+[12/22/2021 16:54]  an andarian mage: an andarian mage
+[12/22/2021 16:54]  Candida: Candida the cobbler
+[12/22/2021 16:54]  Candida: Candida the cobbler
+[12/22/2021 16:54]  an andarian marksman: an andarian marksman
+[12/22/2021 16:54]  an andarian marksman: an andarian marksman
+[12/22/2021 16:54]  an andarian marksman: an andarian marksman
+[12/22/2021 16:54]  an andarian marksman: an andarian marksman
+[12/22/2021 16:54]  Iain: Iain the innkeeper
+[12/22/2021 16:54]  Iain: Iain the innkeeper
+[12/22/2021 16:54]  Budo: Budo the stablemaster
+[12/22/2021 16:54]  System: You stable your followers.
+[12/22/2021 16:54]  Candida: Candida the cobbler
+[12/22/2021 16:54]  Candida: Candida the cobbler
+[12/22/2021 16:54]  an andarian mage: an andarian mage
+[12/22/2021 16:54]  an andarian mage: an andarian mage
+[12/22/2021 16:54]  System: Your skill in Tactics has decreased by 10.0.  It is now 70.0.
+[12/22/2021 16:54]  Duluth Trading: Kal Ort Por [Recall]
+[12/22/2021 16:54]  System: You have left the protection of the town guards.
+[12/22/2021 16:54]  System: Playing Macro 'Healing'...
+[12/22/2021 16:54]  System: Opening door...
+[12/22/2021 16:54]  System: Your house and its contents have been refreshed. 28 days 15 hours 38 minutes remaining until owner refresh required.
+[12/22/2021 16:54]  Duluth Trading: I can't reach that.
+[12/22/2021 16:54]  System: The world will save in 15 seconds.
+[12/22/2021 16:55]  System: The world is saving, please wait.
+[12/22/2021 16:55]  System: World save complete. The entire process took 4.3 seconds.
+[12/22/2021 16:55]  You see: unidentified shepherd's crook
+[12/22/2021 16:55]  You see: unidentified metal kite shield
+[12/22/2021 16:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.

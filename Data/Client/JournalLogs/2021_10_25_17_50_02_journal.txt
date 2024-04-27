@@ -1,0 +1,571 @@
+[10/25/2021 17:50]  System: WorldMap loading...
+[10/25/2021 17:50]  System: Loading WorldMap markers..
+[10/25/2021 17:50]  System: ..Banks_and_Healers.xml (20)
+[10/25/2021 17:50]  System: ..Dungeons.xml (12)
+[10/25/2021 17:50]  System: ..Dungeon_Gates.xml (335)
+[10/25/2021 17:50]  System: ..Healer_Caravans.xml (32)
+[10/25/2021 17:50]  System: ..Moongates.xml (9)
+[10/25/2021 17:50]  System: ..POI.xml (176)
+[10/25/2021 17:50]  System: ..Shrines.xml (9)
+[10/25/2021 17:50]  System: ..Subterranean.xml (6)
+[10/25/2021 17:50]  System: ..Townships.xml (9)
+[10/25/2021 17:50]  System: WorldMap markers loaded (608)
+[10/25/2021 17:50]  System: Welcome Wulf of Wyrd!
+[10/25/2021 17:50]  Razor: [- (s)]
+[10/25/2021 17:50]  Razor: [+Campfire Visit (10074s)]
+[10/25/2021 17:50]  Razor: [- (s)]
+[10/25/2021 17:50]  Razor: [+Hidden/Stealthing (0s)]
+[10/25/2021 17:50]  Razor: [- (s)]
+[10/25/2021 17:50]  Razor: [+Food Satisfaction (2551s)]
+[10/25/2021 17:50]  System: You must wait to perform another action.
+[10/25/2021 17:50]  System: Finished 3 queued actions in 1.2 seconds.
+[10/25/2021 17:50]  System: WorldMap loaded!
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Your campfire is now secure.
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:50]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Target an individual item to recycle.
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543%
+[10/25/2021 17:50]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:50]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: You feel rested and comforted by the camp. (+24.6% damage to creatures and +9.8% damage to players).
+[10/25/2021 17:51]  Razor: [-Campfire Visit (s)]
+[10/25/2021 17:51]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:51]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:51]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: The world will save in 15 seconds.
+[10/25/2021 17:52]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: The world is saving, please wait.
+[10/25/2021 17:52]  System: World save complete. The entire process took 2.9 seconds.
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:52]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: You have worn out your tool!
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543%
+[10/25/2021 17:53]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:54]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Thotica Begonica has completed the achievement: Guardian of The Mausoleum (Advanced).
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Abigal has completed the achievement: Affluent (Basic).
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:55]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Asian kids has completed the achievement: Cartographer (Advanced).
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:56]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:56]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: You feel rested and comforted by the camp. (+24.6% damage to creatures and +9.8% damage to players).
+[10/25/2021 17:57]  Razor: [-Campfire Visit (s)]
+[10/25/2021 17:57]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  You see: blank scroll : 137
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:57]  System: Bombadilly has completed the achievement: Daemonic Slayer (Advanced).
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:57]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:57]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:58]  System: You feel rested and comforted by the camp. (+24.6% damage to creatures and +9.9% damage to players).
+[10/25/2021 17:58]  Razor: [-Campfire Visit (s)]
+[10/25/2021 17:58]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  Chiaki: Renowned Beastmaster
+[10/25/2021 17:58]  Chiaki: [Recruit, G.G]
+[10/25/2021 17:58]  Chiaki: Chiaki
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:58]  System: You feel rested and comforted by the camp. (+24.6% damage to creatures and +9.9% damage to players).
+[10/25/2021 17:58]  Razor: [-Campfire Visit (s)]
+[10/25/2021 17:58]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 17:58]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:59]  Chiaki: Renowned Beastmaster
+[10/25/2021 17:59]  Chiaki: [Recruit, G.G]
+[10/25/2021 17:59]  Chiaki: Chiaki
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Jalfrom has completed the achievement: Undead Slayer (Basic).
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 17:59]  System: Inscribe skillgain: 2.500%
+[10/25/2021 17:59]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 17:59]  System: Camping skillgain: 1.543%
+[10/25/2021 18:00]  System: Camping skillgain: 1.543%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:00]  System: Camping skillgain: 1.543%
+[10/25/2021 18:00]  System: [DF] A Dungeon Flashpoint for Inferno has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/25/2021 18:00]  System: Camping skillgain: 1.543%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:00]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:01]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:02]  System: Joe Dirte has completed the achievement: Elemental Slayer (Basic).
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:03]  System: Warning: blanksc amount is now 2!
+[10/25/2021 18:04]  System: Francisco has completed the achievement: Tinker (Epic).
+[10/25/2021 18:04]  System: DySnOmIa has completed the achievement: Beastmaster (Basic).
+[10/25/2021 18:06]  System: Fleet has completed the achievement: Wilderness Hunter (Basic).
+[10/25/2021 18:06]  System: Noma has completed the achievement: Archivist (Advanced).
+[10/25/2021 18:07]  System: The world will save in 15 seconds.
+[10/25/2021 18:07]  System: The world is saving, please wait.
+[10/25/2021 18:07]  System: World save complete. The entire process took 2.9 seconds.
+[10/25/2021 18:08]  System: Target an individual item to recycle.
+[10/25/2021 18:08]  System: Warning: blanksc amount is now 2!
+[10/25/2021 18:08]  You see: blank scroll : 95
+[10/25/2021 18:08]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:08]  System: a crafty hobo has completed the achievement: Skill Proficiency (Basic).
+[10/25/2021 18:08]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:08]  System: You must wait to perform another action.
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:08]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Your campfire is now secure.
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Camping skillgain: 1.543%
+[10/25/2021 18:08]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  You see: blank scroll : 68
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Camping skillgain: 1.543%
+[10/25/2021 18:09]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:10]  You see: blank scroll : 53
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Target an individual item to recycle.
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: You feel rested and comforted by the camp. (+24.7% damage to creatures and +9.9% damage to players).
+[10/25/2021 18:10]  Razor: [-Campfire Visit (s)]
+[10/25/2021 18:10]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Camping skillgain: 1.543%
+[10/25/2021 18:10]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: You feel rested and comforted by the camp. (+24.7% damage to creatures and +9.9% damage to players).
+[10/25/2021 18:11]  Razor: [-Campfire Visit (s)]
+[10/25/2021 18:11]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Praxito has completed the achievement: Artificer (Basic).
+[10/25/2021 18:11]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: Helain has completed the achievement: Zoology (Basic).
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:11]  System: You have worn out your tool!
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543%
+[10/25/2021 18:11]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:11]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: You feel rested and comforted by the camp. (+24.7% damage to creatures and +9.9% damage to players).
+[10/25/2021 18:12]  Razor: [-Campfire Visit (s)]
+[10/25/2021 18:12]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:12]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:12]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Warning: blanksc amount is now 3!
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Target an individual item to recycle.
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Warning: blanksc amount is now 3!
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:13]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:13]  System: Warning: blanksc amount is now 3!
+[10/25/2021 18:13]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Inscribe skillgain: 2.500%
+[10/25/2021 18:14]  System: Warning: blanksc amount is now 0!
+[10/25/2021 18:14]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: You feel rested and comforted by the camp. (+24.7% damage to creatures and +9.9% damage to players).
+[10/25/2021 18:14]  Razor: [-Campfire Visit (s)]
+[10/25/2021 18:14]  Razor: [+Campfire Visit (10800s)]
+[10/25/2021 18:14]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:14]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Target an individual item to recycle.
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Warning: blanksc amount is now 0!
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:15]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Arnold Lutz has completed the achievement: Triggered (Epic).
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:16]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Jefrey has completed the achievement: Wilderness Hunter (Basic).
+[10/25/2021 18:17]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:17]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:17]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543% [2]
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%
+[10/25/2021 18:18]  System: Camping skillgain: 1.543%

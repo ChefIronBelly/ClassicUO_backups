@@ -1,0 +1,202 @@
+[03/24/2022 18:41]  System: WorldMap loading...
+[03/24/2022 18:41]  System: Loading WorldMap markers..
+[03/24/2022 18:41]  System: ..Banks_and_Healers.xml (20)
+[03/24/2022 18:41]  System: ..Dungeons.xml (12)
+[03/24/2022 18:41]  System: ..Dungeon_Gates.xml (335)
+[03/24/2022 18:41]  System: ..Healer_Caravans.xml (32)
+[03/24/2022 18:41]  System: ..Moongates.xml (9)
+[03/24/2022 18:41]  System: ..POI.xml (176)
+[03/24/2022 18:41]  System: ..Shrines.xml (9)
+[03/24/2022 18:41]  System: ..Subterranean.xml (6)
+[03/24/2022 18:41]  System: ..Townships.xml (9)
+[03/24/2022 18:41]  System: WorldMap markers loaded (608)
+[03/24/2022 18:41]  System: Welcome Stink Fist!
+[03/24/2022 18:41]  Stink Fist: [SQzD]
+[03/24/2022 18:41]  Stink Fist: Stink Fist
+[03/24/2022 18:41]  a troll: a troll
+[03/24/2022 18:41]  a gargoyle: a gargoyle
+[03/24/2022 18:41]  a great hart: a great hart
+[03/24/2022 18:41]  a grizzly bear: a grizzly bear
+[03/24/2022 18:41]  Wulf of Wyrd: Wulf of Wyrd
+[03/24/2022 18:41]  System: WorldMap loaded!
+[03/24/2022 18:42]  Stink Fist: The food is paltry and is barely satisfying.
+[03/24/2022 18:42]  System: You are somewhat full.
+[03/24/2022 18:42]  Razor: [+Food Satisfaction (3600s)]
+[03/24/2022 18:42]  Wulf of Wyrd: Rel Sanct [Bless]
+[03/24/2022 18:42]  System: Your strength has changed by 10.  It is now 110
+[03/24/2022 18:42]  System: Your dexterity has changed by 10.  It is now 110
+[03/24/2022 18:42]  System: Your intelligence has changed by 10.  It is now 35
+[03/24/2022 18:42]  Razor: [+Strength (600s)]
+[03/24/2022 18:42]  Razor: Str: +10 - 110
+[03/24/2022 18:42]  Razor: [-Strength (s)]
+[03/24/2022 18:42]  Razor: [+Strength (600s)]
+[03/24/2022 18:42]  Razor: [+Agility (600s)]
+[03/24/2022 18:42]  Razor: Dex: +10 - 110
+[03/24/2022 18:42]  Razor: [-Agility (s)]
+[03/24/2022 18:42]  Razor: [+Agility (600s)]
+[03/24/2022 18:42]  Razor: [+Cunning (600s)]
+[03/24/2022 18:42]  Razor: Int: +10 - 35
+[03/24/2022 18:42]  Razor: [-Cunning (s)]
+[03/24/2022 18:42]  Razor: [+Cunning (600s)]
+[03/24/2022 18:42]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[03/24/2022 18:42]  Razor: [+Protection (600s)]
+[03/24/2022 18:42]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[03/24/2022 18:42]  Stink Fist: [SQzD]
+[03/24/2022 18:42]  Stink Fist: Stink Fist
+[03/24/2022 18:42]  Razor: Attack: a gargoyle
+[03/24/2022 18:42]  System: Your strike disarms your target!
+[03/24/2022 18:42]  a gargoyle: -45
+[03/24/2022 18:42]  System: Holy symbols remaining: 6/10
+[03/24/2022 18:42]  a gargoyle: -45
+[03/24/2022 18:42]  a gargoyle: -31
+[03/24/2022 18:42]  Stink Fist: +3
+[03/24/2022 18:42]  System: some damage has been healed : 3
+[03/24/2022 18:42]  System: Restored 3 health with Crane stance.
+[03/24/2022 18:42]  Stink Fist: -2
+[03/24/2022 18:42]  a gargoyle: -36
+[03/24/2022 18:42]  System: You increase your damage resistance to creature-casted spells.
+[03/24/2022 18:42]  Razor: [+Magic Resist Potion (216s)]
+[03/24/2022 18:42]  a gargoyle: -32
+[03/24/2022 18:42]  Stink Fist: +2
+[03/24/2022 18:42]  System: some damage has been healed : 2
+[03/24/2022 18:42]  System: Restored 2 health with Crane stance.
+[03/24/2022 18:42]  System: Your campfire is now secure.
+[03/24/2022 18:42]  System: You feel rested and comforted by the camp. (+5.0% damage to creatures and +2.0% damage to players).
+[03/24/2022 18:42]  Razor: [+Campfire Visit (10800s)]
+[03/24/2022 18:42]  a gargoyle: -41
+[03/24/2022 18:42]  a gargoyle: -34
+[03/24/2022 18:42]  a gargoyle: -48
+[03/24/2022 18:42]  a gargoyle: -32
+[03/24/2022 18:43]  a gargoyle: -31
+[03/24/2022 18:43]  Stink Fist: -13
+[03/24/2022 18:43]  a gargoyle: -29
+[03/24/2022 18:43]  a gargoyle: -33
+[03/24/2022 18:43]  System: Playing Macro 'Healing'...
+[03/24/2022 18:43]  System: Who will you use the bandages on?
+[03/24/2022 18:43]  Razor: Healing Started
+[03/24/2022 18:43]  System: You begin applying the bandages.
+[03/24/2022 18:43]  a gargoyle: -33
+[03/24/2022 18:43]  System: You deliver a zen strike to your opponent.
+[03/24/2022 18:43]  Stink Fist: +12
+[03/24/2022 18:43]  System: some damage has been healed : 12
+[03/24/2022 18:43]  a gargoyle: -60
+[03/24/2022 18:43]  Razor: Bandage: 1s
+[03/24/2022 18:43]  Stink Fist: -4
+[03/24/2022 18:43]  System: You are no longer entangled.
+[03/24/2022 18:43]  Razor: Bandage: 2s
+[03/24/2022 18:43]  a gargoyle: -35
+[03/24/2022 18:43]  Razor: Bandage: 3s
+[03/24/2022 18:43]  a gargoyle: -31
+[03/24/2022 18:43]  Stink Fist: -11
+[03/24/2022 18:43]  System: Your fingers slip!
+[03/24/2022 18:43]  Razor: Bandage: 4s
+[03/24/2022 18:43]  Stink Fist: -7
+[03/24/2022 18:43]  System: You have gained a little fame.
+[03/24/2022 18:43]  System: You have gained a little karma.
+[03/24/2022 18:43]  Stink Fist: (Earth Aspect 1,600.1/3000 xp)
+[03/24/2022 18:43]  System: -29
+[03/24/2022 18:43]  You see: a gargoyle corpse
+[03/24/2022 18:43]  System: Max holy symbols earned (10/10)
+[03/24/2022 18:43]  Razor: Bandage: 5s
+[03/24/2022 18:43]  Razor: Attack: a grizzly bear
+[03/24/2022 18:43]  Razor: Bandage: 6s
+[03/24/2022 18:43]  a grizzly bear: -44
+[03/24/2022 18:43]  Razor: Bandage: 7s
+[03/24/2022 18:43]  a grizzly bear: -134
+[03/24/2022 18:43]  Razor: Bandage: 8s
+[03/24/2022 18:43]  a grizzly bear: -38
+[03/24/2022 18:43]  Razor: Bandage: 9s
+[03/24/2022 18:43]  System: [GridLoot]: Corpse is empty!
+[03/24/2022 18:43]  a grizzly bear: -51
+[03/24/2022 18:43]  Razor: Bandage: 10s
+[03/24/2022 18:43]  System: You finish applying the bandages.
+[03/24/2022 18:43]  Stink Fist: +20
+[03/24/2022 18:43]  Stink Fist: -1
+[03/24/2022 18:43]  System: Who will you use the bandages on?
+[03/24/2022 18:43]  Razor: Healing Started
+[03/24/2022 18:43]  System: You begin applying the bandages.
+[03/24/2022 18:43]  System: Your attack cripples your target, lowering their defense!
+[03/24/2022 18:43]  a grizzly bear: -59
+[03/24/2022 18:43]  Razor: Bandage: 1s
+[03/24/2022 18:43]  System: You have gained a little fame.
+[03/24/2022 18:43]  System: You have gained a little karma.
+[03/24/2022 18:43]  Stink Fist: (Earth Aspect 1,600.7/3000 xp)
+[03/24/2022 18:43]  System: -49
+[03/24/2022 18:43]  Razor: Bandage: 2s
+[03/24/2022 18:43]  You see: a grizzly bear corpse
+[03/24/2022 18:43]  System: You must wait to perform another action.
+[03/24/2022 18:43]  Razor: Bandage: 3s
+[03/24/2022 18:43]  System: You may now attempt to disarm your opponent again.
+[03/24/2022 18:43]  Razor: [DISARM]
+[03/24/2022 18:43]  System: Holy symbols remaining: 6/10
+[03/24/2022 18:43]  Razor: Bandage: 4s
+[03/24/2022 18:43]  Razor: Bandage: 5s
+[03/24/2022 18:43]  System: What corpse or location do you wish to carve?
+[03/24/2022 18:43]  Razor: Target: Stink Fist
+[03/24/2022 18:43]  Razor: Bandage: 6s
+[03/24/2022 18:43]  Razor: Bandage: 7s
+[03/24/2022 18:43]  Razor: Bandage: 8s
+[03/24/2022 18:43]  System: Captcha successful.
+[03/24/2022 18:43]  System: You carve materials from the corpse.
+[03/24/2022 18:43]  Razor: [+Forensic Eval Bonus (10800s)]
+[03/24/2022 18:43]  Razor: [-Forensic Eval Bonus (s)]
+[03/24/2022 18:43]  Razor: [+Forensic Eval Bonus (10800s)]
+[03/24/2022 18:43]  Razor: Bandage: 9s
+[03/24/2022 18:43]  System: You heal what little damage you had.
+[03/24/2022 18:43]  Razor: Bandage: 10s
+[03/24/2022 18:43]  System: [GridLoot]: Corpse is empty!
+[03/24/2022 18:43]  System: You carve materials from the corpse.
+[03/24/2022 18:43]  System: [GridLoot]: Corpse is empty!
+[03/24/2022 18:43]  Razor: Attack: a troll
+[03/24/2022 18:43]  Stink Fist: -1
+[03/24/2022 18:43]  System: You fail to disarm your opponent.
+[03/24/2022 18:43]  System: Who will you use the bandages on?
+[03/24/2022 18:43]  Razor: Healing Started
+[03/24/2022 18:43]  System: You begin applying the bandages.
+[03/24/2022 18:43]  Razor: Bandage: 1s
+[03/24/2022 18:43]  a troll: -214
+[03/24/2022 18:43]  System: Max holy symbols earned (10/10)
+[03/24/2022 18:43]  a troll: *regenerates*
+[03/24/2022 18:43]  Razor: Bandage: 2s
+[03/24/2022 18:43]  a troll: -31
+[03/24/2022 18:43]  Stink Fist: +1
+[03/24/2022 18:43]  System: some damage has been healed : 1
+[03/24/2022 18:43]  System: Restored 1 health with Crane stance.
+[03/24/2022 18:43]  Razor: Bandage: 3s
+[03/24/2022 18:43]  Stink Fist: -6
+[03/24/2022 18:43]  System: Your fingers slip!
+[03/24/2022 18:43]  a troll: -55
+[03/24/2022 18:43]  Razor: Bandage: 4s
+[03/24/2022 18:43]  a troll: -51
+[03/24/2022 18:43]  Razor: Bandage: 5s
+[03/24/2022 18:43]  Razor: Bandage: 6s
+[03/24/2022 18:43]  a troll: -31
+[03/24/2022 18:43]  Stink Fist: -5
+[03/24/2022 18:43]  System: Your fingers slip!
+[03/24/2022 18:43]  Razor: Bandage: 7s
+[03/24/2022 18:43]  a troll: -49
+[03/24/2022 18:43]  Razor: Bandage: 8s
+[03/24/2022 18:43]  a troll: -54
+[03/24/2022 18:43]  Razor: Bandage: 9s
+[03/24/2022 18:43]  System: You have gained a little fame.
+[03/24/2022 18:43]  System: You have gained a little karma.
+[03/24/2022 18:43]  Stink Fist: (Earth Aspect 1,601.9/3000 xp)
+[03/24/2022 18:43]  System: -133
+[03/24/2022 18:43]  You see: a troll corpse
+[03/24/2022 18:43]  Razor: Bandage: 10s
+[03/24/2022 18:43]  System: You finish applying the bandages.
+[03/24/2022 18:43]  Stink Fist: +10
+[03/24/2022 18:43]  System: [GridLoot]: Corpse is empty!
+[03/24/2022 18:43]  System: Holy symbols remaining: 6/10
+[03/24/2022 18:43]  System: What corpse or location do you wish to carve?
+[03/24/2022 18:43]  System: You carve materials from the corpse.
+[03/24/2022 18:43]  Razor: [-Forensic Eval Bonus (s)]
+[03/24/2022 18:43]  Razor: [+Forensic Eval Bonus (10800s)]
+[03/24/2022 18:43]  System: [GridLoot]: Corpse is empty!
+[03/24/2022 18:43]  System: Opening door...
+[03/24/2022 18:43]  System: Your house and its contents have been refreshed. 18 days 23 hours 27 minutes remaining until owner refresh required.
+[03/24/2022 18:44]  System: Opening door...
+[03/24/2022 18:44]  System: Max holy symbols earned (10/10)
+[03/24/2022 18:44]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[03/24/2022 18:44]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[03/24/2022 18:44]  System: Warning: ribs amount is now 0!

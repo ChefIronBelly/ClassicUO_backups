@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="Atlas - Dungeons" Revision="0">
+
+<Marker Name="Aegis Keep " Facet="0" Icon="DUNGEONX" X="2167" Y="2074"/>
+
+<Marker Name="Cavernam " Facet="0" Icon="DUNGEONX" X="2745" Y="369"/>
+
+<Marker Name="Darkmire Temple " Facet="0" Icon="DUNGEONX" X="3400" Y="3726"/>
+
+<Marker Name="Inferno " Facet="0" Icon="DUNGEONX" X="1998" Y="3233"/>
+
+<Marker Name="Mount Petram " Facet="0" Icon="DUNGEONX" X="733" Y="769"/>
+
+<Marker Name="New Player Dungeon " Facet="0" Icon="DUNGEONX" X="1913" Y="2566"/>
+
+<Marker Name="Nusero " Facet="0" Icon="DUNGEONX" X="287" Y="1686"/>
+
+<Marker Name="Ossuary " Facet="0" Icon="DUNGEONX" X="1212" Y="2816"/>
+
+<Marker Name="Pulma " Facet="0" Icon="DUNGEONX" X="1793" Y="984"/>
+
+<Marker Name="The Mausoleum " Facet="0" Icon="DUNGEONX" X="1456" Y="2234"/>
+
+<Marker Name="Shadowspire Cathedral " Facet="0" Icon="DUNGEONX" X="3412" Y="715"/>
+
+<Marker Name="Urukton Bluffs" Facet="0" Icon="DUNGEON" X="1912" Y="1129"/>
+
+<Marker Name="Ratman Hovel" Facet="0" Icon="DUNGEON" X="1291" Y="1419"/>
+
+<Marker Name="Forsaken Keep" Facet="0" Icon="DUNGEON" X="1912" Y="1904"/>
+
+<Marker Name="Undermountain" Facet="0" Icon="DUNGEON" X="1839" Y="783"/>
+
+</Pack>

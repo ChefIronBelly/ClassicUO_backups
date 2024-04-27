@@ -1,0 +1,1029 @@
+[04/16/2022 07:44]  System: WorldMap loading...
+[04/16/2022 07:44]  System: Loading WorldMap markers..
+[04/16/2022 07:44]  System: ..Banks_and_Healers.xml (20)
+[04/16/2022 07:44]  System: ..Dungeons.xml (12)
+[04/16/2022 07:44]  System: ..Dungeon_Gates.xml (335)
+[04/16/2022 07:44]  System: ..Healer_Caravans.xml (32)
+[04/16/2022 07:44]  System: ..Moongates.xml (9)
+[04/16/2022 07:44]  System: ..POI.xml (176)
+[04/16/2022 07:44]  System: ..Shrines.xml (9)
+[04/16/2022 07:44]  System: ..Subterranean.xml (6)
+[04/16/2022 07:44]  System: ..Townships.xml (9)
+[04/16/2022 07:44]  System: WorldMap markers loaded (608)
+[04/16/2022 07:44]  System: Welcome Stink Fist!
+[04/16/2022 07:44]  Razor: [- (s)]
+[04/16/2022 07:44]  Razor: [+Hidden/Stealthing (0s)]
+[04/16/2022 07:44]  a cougar: a cougar
+[04/16/2022 07:44]  an ogre: an ogre
+[04/16/2022 07:44]  an eagle: an eagle
+[04/16/2022 07:44]  Razor: [-Hidden/Stealthing (s)]
+[04/16/2022 07:44]  System: WorldMap loaded!
+[04/16/2022 07:44]  Stink Fist: The food is paltry and is barely satisfying.
+[04/16/2022 07:44]  System: You are still slightly hungry.
+[04/16/2022 07:44]  Razor: [+Food Satisfaction (3600s)]
+[04/16/2022 07:45]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[04/16/2022 07:45]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2022 07:45]  Razor: [+Magic Resist Potion (216s)]
+[04/16/2022 07:45]  Wulf of Wyrd: Rel Sanct [Bless]
+[04/16/2022 07:45]  Wulf of Wyrd: Wulf of Wyrd
+[04/16/2022 07:45]  System: Your strength has changed by 10.  It is now 110
+[04/16/2022 07:45]  System: Your dexterity has changed by 10.  It is now 110
+[04/16/2022 07:45]  System: Your intelligence has changed by 10.  It is now 35
+[04/16/2022 07:45]  Razor: [+Strength (600s)]
+[04/16/2022 07:45]  Razor: Str: +10 - 110
+[04/16/2022 07:45]  Razor: [-Strength (s)]
+[04/16/2022 07:45]  Razor: [+Strength (600s)]
+[04/16/2022 07:45]  Razor: [+Agility (600s)]
+[04/16/2022 07:45]  Razor: Dex: +10 - 110
+[04/16/2022 07:45]  Razor: [-Agility (s)]
+[04/16/2022 07:45]  Razor: [+Agility (600s)]
+[04/16/2022 07:45]  Razor: [+Cunning (600s)]
+[04/16/2022 07:45]  Razor: Int: +10 - 35
+[04/16/2022 07:45]  Razor: [-Cunning (s)]
+[04/16/2022 07:45]  Razor: [+Cunning (600s)]
+[04/16/2022 07:45]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[04/16/2022 07:45]  Razor: [+Protection (600s)]
+[04/16/2022 07:45]  System: Playing Macro 'Healing'...
+[04/16/2022 07:45]  System: Who will you use the bandages on?
+[04/16/2022 07:45]  Razor: Healing Started
+[04/16/2022 07:45]  System: You begin applying the bandages.
+[04/16/2022 07:45]  Razor: Bandage: 1s
+[04/16/2022 07:45]  Stink Fist: Stink Fist
+[04/16/2022 07:45]  Razor: Bandage: 2s
+[04/16/2022 07:45]  a magpie: a magpie
+[04/16/2022 07:45]  Razor: Bandage: 3s
+[04/16/2022 07:45]  Razor: Bandage: 4s
+[04/16/2022 07:45]  Razor: Attack: an ogre
+[04/16/2022 07:45]  Razor: Bandage: 5s
+[04/16/2022 07:45]  Razor: Bandage: 6s
+[04/16/2022 07:45]  System: Your strike disarms your target!
+[04/16/2022 07:45]  System: Your attack hamstrings your target!
+[04/16/2022 07:45]  an ogre: -50
+[04/16/2022 07:45]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:45]  Razor: Bandage: 7s
+[04/16/2022 07:45]  System: Your attack cripples your target, lowering their defense!
+[04/16/2022 07:45]  an ogre: -108
+[04/16/2022 07:45]  Razor: Bandage: 8s
+[04/16/2022 07:45]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2022 07:45]  an ogre: -109
+[04/16/2022 07:45]  Razor: Bandage: 9s
+[04/16/2022 07:45]  Stink Fist: -2
+[04/16/2022 07:45]  System: Your fingers slip!
+[04/16/2022 07:45]  Razor: Bandage: 10s
+[04/16/2022 07:45]  System: You finish applying the bandages.
+[04/16/2022 07:45]  Stink Fist: +8
+[04/16/2022 07:45]  an ogre: -38
+[04/16/2022 07:45]  an ogre: -42
+[04/16/2022 07:45]  System: You have gained a little fame.
+[04/16/2022 07:45]  System: You have gained a little karma.
+[04/16/2022 07:45]  Stink Fist: (Earth Aspect 2,889.1/3000 xp)
+[04/16/2022 07:45]  System: -153
+[04/16/2022 07:45]  You see: an ogre corpse
+[04/16/2022 07:45]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:45]  Razor: Target: Stink Fist
+[04/16/2022 07:45]  System: Captcha successful.
+[04/16/2022 07:45]  System: You carve materials from the corpse.
+[04/16/2022 07:45]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:45]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:45]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:45]  System: Opening door...
+[04/16/2022 07:45]  System: Your house and its contents have been refreshed. 29 days 12 hours 11 minutes remaining until owner refresh required.
+[04/16/2022 07:45]  System: Your campfire is now secure.
+[04/16/2022 07:45]  System: You feel rested and comforted by the camp. (+5.0% damage to creatures and +2.0% damage to players).
+[04/16/2022 07:45]  Razor: [+Campfire Visit (10800s)]
+[04/16/2022 07:45]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:45]  Razor: [HAM ON]
+[04/16/2022 07:45]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:45]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:45]  Razor: [DISARM]
+[04/16/2022 07:46]  a cougar: a cougar
+[04/16/2022 07:46]  You see: leather : 7264
+[04/16/2022 07:46]  System: Lonbar has completed the achievement: Heralded Duelist.
+[04/16/2022 07:46]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:46]  You see: gold coin : 3635
+[04/16/2022 07:46]  System: Warning: ribs amount is now 0!
+[04/16/2022 07:46]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[04/16/2022 07:46]  You see: arcane essence : 207
+[04/16/2022 07:47]  You see: sausage feast
+[04/16/2022 07:47]  You see: (delectable)
+[04/16/2022 07:47]  Stink Fist: The food is delectable and is intensely satisfying.
+[04/16/2022 07:47]  System: You are completely full.
+[04/16/2022 07:47]  Razor: [-Food Satisfaction (s)]
+[04/16/2022 07:47]  Razor: [+Food Satisfaction (3600s)]
+[04/16/2022 07:47]  System: The world will save in 15 seconds.
+[04/16/2022 07:47]  Wulf of Wyrd: Rel Sanct [Bless]
+[04/16/2022 07:47]  Razor: [-Strength (s)]
+[04/16/2022 07:47]  Razor: [+Strength (600s)]
+[04/16/2022 07:47]  Razor: [-Strength (s)]
+[04/16/2022 07:47]  Razor: [+Strength (600s)]
+[04/16/2022 07:47]  Razor: [-Agility (s)]
+[04/16/2022 07:47]  Razor: [+Agility (600s)]
+[04/16/2022 07:47]  Razor: [-Agility (s)]
+[04/16/2022 07:47]  Razor: [+Agility (600s)]
+[04/16/2022 07:47]  Razor: [-Cunning (s)]
+[04/16/2022 07:47]  Razor: [+Cunning (600s)]
+[04/16/2022 07:47]  Razor: [-Cunning (s)]
+[04/16/2022 07:47]  Razor: [+Cunning (600s)]
+[04/16/2022 07:48]  System: The world is saving, please wait.
+[04/16/2022 07:48]  System: World save complete. The entire process took 4.7 seconds.
+[04/16/2022 07:48]  a cougar: a cougar
+[04/16/2022 07:48]  System: You pour some of the keg's contents into an empty bottle...
+[04/16/2022 07:48]  System: ...and place it into your backpack.
+[04/16/2022 07:48]  a cougar: a cougar
+[04/16/2022 07:48]  System: ...and place it into your backpack. [2]
+[04/16/2022 07:48]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2022 07:48]  Razor: [-Magic Resist Potion (s)]
+[04/16/2022 07:48]  Razor: [+Magic Resist Potion (216s)]
+[04/16/2022 07:48]  System: Dua Lipa has completed the achievement: Artificer (Basic).
+[04/16/2022 07:48]  System: You pour some of the keg's contents into an empty bottle... [3]
+[04/16/2022 07:48]  System: ...and place it into your backpack.
+[04/16/2022 07:48]  System: Holy symbols remaining: 5/10
+[04/16/2022 07:48]  Razor: [+Paralyze (0s)]
+[04/16/2022 07:48]  Razor: [-Paralyze (s)]
+[04/16/2022 07:48]  System: You are no longer hindered.
+[04/16/2022 07:48]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[04/16/2022 07:48]  Razor: [-Campfire Visit (s)]
+[04/16/2022 07:48]  a snow flurry: a snow flurry
+[04/16/2022 07:48]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:48]  Razor: Attack: a snow flurry
+[04/16/2022 07:48]  System: Your strike disarms your target!
+[04/16/2022 07:48]  System: Your attack hamstrings your target!
+[04/16/2022 07:48]  a snow flurry: -68
+[04/16/2022 07:48]  System: Holy symbols remaining: 3/10
+[04/16/2022 07:48]  System: You parry the spell.
+[04/16/2022 07:48]  a snow flurry: -39
+[04/16/2022 07:48]  Stink Fist: -2
+[04/16/2022 07:48]  System: Who will you use the bandages on?
+[04/16/2022 07:48]  Razor: Healing Started
+[04/16/2022 07:48]  System: You smash through the remainder of their armor, dealing grevious damage!
+[04/16/2022 07:48]  a snow flurry: -96
+[04/16/2022 07:48]  System: You begin applying the bandages.
+[04/16/2022 07:48]  Razor: Bandage: 1s
+[04/16/2022 07:48]  a snow flurry: -59
+[04/16/2022 07:48]  Razor: Bandage: 2s
+[04/16/2022 07:48]  a snow flurry: -55
+[04/16/2022 07:48]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:48]  Stink Fist: -7
+[04/16/2022 07:48]  Razor: Bandage: 3s
+[04/16/2022 07:48]  a snow flurry: -71
+[04/16/2022 07:48]  System: You absorb their spell (6.4% current damage bonus).
+[04/16/2022 07:48]  Razor: Bandage: 4s
+[04/16/2022 07:48]  Stink Fist: -4
+[04/16/2022 07:48]  Stink Fist: -2
+[04/16/2022 07:48]  System: Your fingers slip!
+[04/16/2022 07:48]  Stink Fist: -7
+[04/16/2022 07:48]  System: You have gained a little fame.
+[04/16/2022 07:48]  System: You have gained a little karma.
+[04/16/2022 07:48]  Stink Fist: (Earth Aspect 2,890.9/3000 xp)
+[04/16/2022 07:48]  System: -50
+[04/16/2022 07:48]  Razor: Bandage: 5s
+[04/16/2022 07:48]  You see: a snow flurry corpse
+[04/16/2022 07:48]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:48]  Razor: Bandage: 6s
+[04/16/2022 07:48]  Razor: Bandage: 7s
+[04/16/2022 07:48]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:48]  Razor: Bandage: 8s
+[04/16/2022 07:48]  System: You carve materials from the corpse.
+[04/16/2022 07:48]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:48]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:48]  Razor: Bandage: 9s
+[04/16/2022 07:49]  Razor: Bandage: 10s
+[04/16/2022 07:49]  System: You finish applying the bandages.
+[04/16/2022 07:49]  Stink Fist: +20
+[04/16/2022 07:49]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:49]  a snow elemental: a snow elemental
+[04/16/2022 07:49]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:49]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:49]  a snow elemental: a snow elemental
+[04/16/2022 07:49]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:49]  a frostbane acolyte: -54
+[04/16/2022 07:49]  a frostbane acolyte: -39
+[04/16/2022 07:49]  Stink Fist: -3
+[04/16/2022 07:49]  System: Who will you use the bandages on?
+[04/16/2022 07:49]  Razor: Healing Started
+[04/16/2022 07:49]  System: You begin applying the bandages.
+[04/16/2022 07:49]  Razor: Bandage: 1s
+[04/16/2022 07:49]  Razor: Bandage: 2s
+[04/16/2022 07:49]  System: Your attack crushes their armor!
+[04/16/2022 07:49]  a frostbane acolyte: -113
+[04/16/2022 07:49]  a frostbane acolyte: *raises the frozen dead*
+[04/16/2022 07:49]  Razor: Bandage: 3s
+[04/16/2022 07:49]  System: Your attack hamstrings your target!
+[04/16/2022 07:49]  a frostbane acolyte: -57
+[04/16/2022 07:49]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:49]  Razor: [HAM ON]
+[04/16/2022 07:49]  Razor: Bandage: 4s
+[04/16/2022 07:49]  a frostbane acolyte: -84
+[04/16/2022 07:49]  a zombie: a zombie
+[04/16/2022 07:49]  Razor: Bandage: 5s
+[04/16/2022 07:49]  a frostbane acolyte: -40
+[04/16/2022 07:49]  Razor: Bandage: 6s
+[04/16/2022 07:49]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:49]  Razor: [DISARM]
+[04/16/2022 07:49]  System: Your strike disarms your target!
+[04/16/2022 07:49]  a frostbane acolyte: -68
+[04/16/2022 07:49]  Razor: Bandage: 7s
+[04/16/2022 07:49]  System: Holy symbols remaining: 5/10
+[04/16/2022 07:49]  Razor: Bandage: 8s
+[04/16/2022 07:49]  Stink Fist: -6
+[04/16/2022 07:49]  System: Your fingers slip!
+[04/16/2022 07:49]  System: You have gained a little fame.
+[04/16/2022 07:49]  System: You have gained a little karma.
+[04/16/2022 07:49]  Stink Fist: (Earth Aspect 2,892.9/3000 xp)
+[04/16/2022 07:49]  System: -45
+[04/16/2022 07:49]  You see: a frostbane acolyte corpse
+[04/16/2022 07:49]  You see: a rotting corpse
+[04/16/2022 07:49]  Razor: Bandage: 9s
+[04/16/2022 07:49]  Razor: Attack: a snow elemental
+[04/16/2022 07:49]  a snow elemental: -47
+[04/16/2022 07:49]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2022 07:49]  Razor: Bandage: 10s
+[04/16/2022 07:49]  System: You finish applying the bandages.
+[04/16/2022 07:49]  Stink Fist: +7
+[04/16/2022 07:49]  System: You must wait to perform another action.
+[04/16/2022 07:49]  System: You parry the spell.
+[04/16/2022 07:49]  Stink Fist: -2
+[04/16/2022 07:49]  a snow elemental: -34
+[04/16/2022 07:49]  System: Who will you use the bandages on?
+[04/16/2022 07:49]  Razor: Healing Started
+[04/16/2022 07:49]  System: You begin applying the bandages.
+[04/16/2022 07:49]  a snow elemental: -57
+[04/16/2022 07:49]  Razor: Bandage: 1s
+[04/16/2022 07:49]  a snow elemental: -9
+[04/16/2022 07:49]  System: Your attack crushes their armor!
+[04/16/2022 07:49]  a snow elemental: -69
+[04/16/2022 07:49]  Razor: Bandage: 2s
+[04/16/2022 07:49]  System: You must wait to perform another action.
+[04/16/2022 07:49]  Razor: Bandage: 3s
+[04/16/2022 07:49]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:49]  a snow elemental: -11
+[04/16/2022 07:49]  a snow elemental: -44
+[04/16/2022 07:49]  Razor: Bandage: 4s
+[04/16/2022 07:49]  a snow elemental: -9
+[04/16/2022 07:49]  Razor: Bandage: 5s
+[04/16/2022 07:49]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2022 07:49]  a snow elemental: -57
+[04/16/2022 07:49]  System: You deliver a zen strike to your opponent.
+[04/16/2022 07:49]  Stink Fist: +1
+[04/16/2022 07:49]  System: some damage has been healed : 1
+[04/16/2022 07:49]  System: You have gained a little fame.
+[04/16/2022 07:49]  System: You have gained a little karma.
+[04/16/2022 07:49]  Stink Fist: (Earth Aspect 2,893.9/3000 xp)
+[04/16/2022 07:49]  System: -101
+[04/16/2022 07:49]  You see: a snow elemental corpse
+[04/16/2022 07:49]  System: You are no longer entangled.
+[04/16/2022 07:49]  Razor: Bandage: 6s
+[04/16/2022 07:49]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:49]  Razor: Bandage: 7s
+[04/16/2022 07:49]  Razor: Bandage: 8s
+[04/16/2022 07:49]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:49]  Razor: Bandage: 9s
+[04/16/2022 07:49]  System: You carve materials from the corpse.
+[04/16/2022 07:49]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:49]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:49]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:49]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:49]  Razor: Bandage: 10s
+[04/16/2022 07:49]  System: You heal what little damage you had.
+[04/16/2022 07:49]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:49]  System: You carve materials from the corpse.
+[04/16/2022 07:49]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:49]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:49]  You see: a snow flurry corpse
+[04/16/2022 07:49]  a snow elemental: a snow elemental
+[04/16/2022 07:49]  a snowdrift: a snowdrift
+[04/16/2022 07:49]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:49]  Razor: [HAM ON]
+[04/16/2022 07:49]  an ice elemental: an ice elemental
+[04/16/2022 07:49]  System: You absorb their spell (12.8% current damage bonus).
+[04/16/2022 07:49]  System: You parry the spell.
+[04/16/2022 07:49]  Stink Fist: -1
+[04/16/2022 07:49]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:49]  System: Who will you use the bandages on?
+[04/16/2022 07:49]  Razor: Healing Started
+[04/16/2022 07:49]  System: Your attack hamstrings your target!
+[04/16/2022 07:49]  a frostbane acolyte: -137
+[04/16/2022 07:49]  System: You begin applying the bandages.
+[04/16/2022 07:49]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:49]  Razor: Bandage: 1s
+[04/16/2022 07:49]  a frostbane acolyte: -106
+[04/16/2022 07:49]  a frostbane acolyte: *raises the frozen dead*
+[04/16/2022 07:49]  Razor: Bandage: 2s
+[04/16/2022 07:49]  System: Your attack cripples your target, lowering their defense!
+[04/16/2022 07:49]  a frostbane acolyte: -70
+[04/16/2022 07:49]  Razor: Bandage: 3s
+[04/16/2022 07:49]  a frostbane acolyte: -53
+[04/16/2022 07:49]  a ghoul: a ghoul
+[04/16/2022 07:49]  Razor: Bandage: 4s
+[04/16/2022 07:49]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:49]  Razor: [DISARM]
+[04/16/2022 07:49]  System: Your strike disarms your target!
+[04/16/2022 07:49]  a frostbane acolyte: -44
+[04/16/2022 07:49]  Razor: Bandage: 5s
+[04/16/2022 07:49]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:49]  a frostbane acolyte: -40
+[04/16/2022 07:49]  Razor: Bandage: 6s
+[04/16/2022 07:49]  Razor: [+Magic Reflection (0s)]
+[04/16/2022 07:49]  Razor: [-Magic Reflection (s)]
+[04/16/2022 07:49]  Razor: Bandage: 7s
+[04/16/2022 07:49]  a frostbane acolyte: -26
+[04/16/2022 07:49]  Razor: Bandage: 8s
+[04/16/2022 07:49]  System: You have gained a little fame.
+[04/16/2022 07:49]  System: You have gained a little karma.
+[04/16/2022 07:49]  Stink Fist: (Earth Aspect 2,895.9/3000 xp)
+[04/16/2022 07:49]  System: -19
+[04/16/2022 07:49]  You see: a frostbane acolyte corpse
+[04/16/2022 07:49]  You see: a ghoul corpse
+[04/16/2022 07:49]  Razor: Bandage: 9s
+[04/16/2022 07:49]  System: You must wait to perform another action.
+[04/16/2022 07:49]  Razor: Bandage: 10s
+[04/16/2022 07:49]  System: You heal what little damage you had.
+[04/16/2022 07:49]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:50]  System: You carve materials from the corpse.
+[04/16/2022 07:50]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:50]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:50]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:50]  You see: a snow flurry corpse
+[04/16/2022 07:50]  a snowdrift: a snowdrift
+[04/16/2022 07:50]  Razor: Attack: a snow elemental
+[04/16/2022 07:50]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:50]  a snow elemental: -28
+[04/16/2022 07:50]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:50]  Razor: [HAM ON]
+[04/16/2022 07:50]  System: Your attack hamstrings your target!
+[04/16/2022 07:50]  a snow elemental: -47
+[04/16/2022 07:50]  a snow elemental: -109
+[04/16/2022 07:50]  a snow elemental: -51
+[04/16/2022 07:50]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:50]  Stink Fist: -5
+[04/16/2022 07:50]  System: Who will you use the bandages on?
+[04/16/2022 07:50]  Razor: Healing Started
+[04/16/2022 07:50]  System: You begin applying the bandages.
+[04/16/2022 07:50]  Stink Fist: -7
+[04/16/2022 07:50]  System: Your fingers slip!
+[04/16/2022 07:50]  a snow elemental: -39
+[04/16/2022 07:50]  Razor: Bandage: 1s
+[04/16/2022 07:50]  Stink Fist: -5
+[04/16/2022 07:50]  Razor: Bandage: 2s
+[04/16/2022 07:50]  a snow elemental: -46
+[04/16/2022 07:50]  Stink Fist: -2
+[04/16/2022 07:50]  Razor: Bandage: 3s
+[04/16/2022 07:50]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:50]  Razor: Bandage: 4s
+[04/16/2022 07:50]  System: Your fingers slip! [2]
+[04/16/2022 07:50]  System: Your strike disarms your target!
+[04/16/2022 07:50]  a snow elemental: -61
+[04/16/2022 07:50]  Razor: Bandage: 5s
+[04/16/2022 07:50]  Stink Fist: -1
+[04/16/2022 07:50]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:50]  Razor: [DISARM]
+[04/16/2022 07:50]  a snow elemental: -55
+[04/16/2022 07:50]  Razor: Bandage: 6s
+[04/16/2022 07:50]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:50]  Razor: Bandage: 7s
+[04/16/2022 07:50]  System: You have gained a little fame.
+[04/16/2022 07:50]  System: You have gained a little karma.
+[04/16/2022 07:50]  Stink Fist: (Earth Aspect 2,896.9/3000 xp)
+[04/16/2022 07:50]  System: -2
+[04/16/2022 07:50]  You see: a snow elemental corpse
+[04/16/2022 07:50]  Razor: Attack: a snowdrift
+[04/16/2022 07:50]  System: Your fingers slip!
+[04/16/2022 07:50]  Razor: Bandage: 8s
+[04/16/2022 07:50]  a snowdrift: -68
+[04/16/2022 07:50]  Stink Fist: -7
+[04/16/2022 07:50]  Razor: Bandage: 9s
+[04/16/2022 07:50]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  a snowdrift: -57
+[04/16/2022 07:50]  a snowdrift: *regens*
+[04/16/2022 07:50]  Razor: Bandage: 10s
+[04/16/2022 07:50]  System: You finish applying the bandages.
+[04/16/2022 07:50]  Stink Fist: +25
+[04/16/2022 07:50]  a snowdrift: -192
+[04/16/2022 07:50]  System: Your fingers slip!
+[04/16/2022 07:50]  System: You have gained a little fame.
+[04/16/2022 07:50]  System: You have gained a little karma.
+[04/16/2022 07:50]  Stink Fist: (Earth Aspect 2,897.9/3000 xp)
+[04/16/2022 07:50]  System: -11
+[04/16/2022 07:50]  You see: a snowdrift corpse
+[04/16/2022 07:50]  Razor: Attack: a snowdrift
+[04/16/2022 07:50]  a snowdrift: -57
+[04/16/2022 07:50]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  a snowdrift: -50
+[04/16/2022 07:50]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:50]  Stink Fist: -8
+[04/16/2022 07:50]  System: Who will you use the bandages on?
+[04/16/2022 07:50]  Razor: Healing Started
+[04/16/2022 07:50]  System: You begin applying the bandages.
+[04/16/2022 07:50]  a snowdrift: *regens*
+[04/16/2022 07:50]  a snowdrift: -39
+[04/16/2022 07:50]  Razor: Bandage: 1s
+[04/16/2022 07:50]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:50]  Stink Fist: -2
+[04/16/2022 07:50]  System: Your fingers slip!
+[04/16/2022 07:50]  Razor: Bandage: 2s
+[04/16/2022 07:50]  a snowdrift: -68
+[04/16/2022 07:50]  System: You have gained a little fame.
+[04/16/2022 07:50]  System: You have gained a little karma.
+[04/16/2022 07:50]  Stink Fist: (Earth Aspect 2,898.9/3000 xp)
+[04/16/2022 07:50]  System: -114
+[04/16/2022 07:50]  You see: a snowdrift corpse
+[04/16/2022 07:50]  Razor: Bandage: 3s
+[04/16/2022 07:50]  System: You carve materials from the corpse.
+[04/16/2022 07:50]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:50]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:50]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:50]  Razor: Bandage: 4s
+[04/16/2022 07:50]  Razor: Bandage: 5s
+[04/16/2022 07:50]  Razor: Bandage: 6s
+[04/16/2022 07:50]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  System: You carve materials from the corpse. [2]
+[04/16/2022 07:50]  Razor: Bandage: 7s
+[04/16/2022 07:50]  Razor: Bandage: 8s
+[04/16/2022 07:50]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:50]  Razor: [HAM ON]
+[04/16/2022 07:50]  Razor: Bandage: 9s
+[04/16/2022 07:50]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:50]  Razor: Bandage: 10s
+[04/16/2022 07:50]  System: You finish applying the bandages.
+[04/16/2022 07:50]  Stink Fist: +8
+[04/16/2022 07:50]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:50]  an ice elemental: an ice elemental
+[04/16/2022 07:50]  System: That is too far away.
+[04/16/2022 07:50]  a snow elemental: a snow elemental
+[04/16/2022 07:50]  an ice elemental: an ice elemental
+[04/16/2022 07:50]  Razor: Attack: a snow elemental
+[04/16/2022 07:50]  System: Your attack hamstrings your target!
+[04/16/2022 07:50]  a snow elemental: -55
+[04/16/2022 07:50]  a snow elemental: -70
+[04/16/2022 07:50]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2022 07:50]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:50]  System: Your strike disarms your target!
+[04/16/2022 07:50]  a snow elemental: -19
+[04/16/2022 07:50]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:50]  Razor: [DISARM]
+[04/16/2022 07:50]  a snow elemental: -18
+[04/16/2022 07:50]  a snow elemental: -51
+[04/16/2022 07:50]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:50]  Stink Fist: -7
+[04/16/2022 07:50]  System: Who will you use the bandages on?
+[04/16/2022 07:50]  Razor: Healing Started
+[04/16/2022 07:50]  System: You begin applying the bandages.
+[04/16/2022 07:50]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:50]  Razor: Bandage: 1s
+[04/16/2022 07:50]  a snow elemental: -66
+[04/16/2022 07:50]  Stink Fist: -5
+[04/16/2022 07:50]  System: Your fingers slip!
+[04/16/2022 07:50]  Stink Fist: -10
+[04/16/2022 07:50]  Razor: Bandage: 2s
+[04/16/2022 07:50]  a snow elemental: -18
+[04/16/2022 07:50]  a snow elemental: -59
+[04/16/2022 07:50]  a snow elemental: -12
+[04/16/2022 07:50]  Razor: Bandage: 3s
+[04/16/2022 07:50]  System: Your attack causes your target to bleed and become susceptible to special attacks! [2]
+[04/16/2022 07:50]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:50]  a snow elemental: -60
+[04/16/2022 07:50]  Stink Fist: -5
+[04/16/2022 07:50]  Razor: Bandage: 4s
+[04/16/2022 07:50]  System: You have gained a little fame.
+[04/16/2022 07:50]  System: You have gained a little karma.
+[04/16/2022 07:50]  Stink Fist: (Earth Aspect 2,899.9/3000 xp)
+[04/16/2022 07:50]  System: -10
+[04/16/2022 07:50]  You see: a snow elemental corpse
+[04/16/2022 07:50]  Razor: Bandage: 5s
+[04/16/2022 07:50]  System: Your fingers slip! [2]
+[04/16/2022 07:50]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:50]  Razor: Bandage: 6s
+[04/16/2022 07:50]  System: You carve materials from the corpse.
+[04/16/2022 07:50]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:50]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:50]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:50]  Razor: Bandage: 7s
+[04/16/2022 07:50]  Razor: Bandage: 8s
+[04/16/2022 07:51]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:51]  Razor: Bandage: 9s
+[04/16/2022 07:51]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:51]  a snow elemental: a snow elemental
+[04/16/2022 07:51]  a snow elemental: a snow elemental
+[04/16/2022 07:51]  Razor: Bandage: 10s
+[04/16/2022 07:51]  System: You finish applying the bandages.
+[04/16/2022 07:51]  Stink Fist: +25
+[04/16/2022 07:51]  a snow flurry: a snow flurry
+[04/16/2022 07:51]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:51]  a snowdrift: a snowdrift
+[04/16/2022 07:51]  Razor: Attack: a snow elemental
+[04/16/2022 07:51]  Stink Fist: -2
+[04/16/2022 07:51]  a snow elemental: -35
+[04/16/2022 07:51]  System: Who will you use the bandages on?
+[04/16/2022 07:51]  Razor: Healing Started
+[04/16/2022 07:51]  System: You begin applying the bandages.
+[04/16/2022 07:51]  Razor: Bandage: 1s
+[04/16/2022 07:51]  a snow elemental: -23
+[04/16/2022 07:51]  Razor: Bandage: 2s
+[04/16/2022 07:51]  a snow elemental: -52
+[04/16/2022 07:51]  Razor: Bandage: 3s
+[04/16/2022 07:51]  an ice elemental: an ice elemental
+[04/16/2022 07:51]  You see: a snow elemental corpse
+[04/16/2022 07:51]  Razor: Bandage: 4s
+[04/16/2022 07:51]  System: You parry the spell.
+[04/16/2022 07:51]  Stink Fist: -4
+[04/16/2022 07:51]  System: Your fingers slip!
+[04/16/2022 07:51]  Razor: Bandage: 5s
+[04/16/2022 07:51]  System: Your attack hinders your target!
+[04/16/2022 07:51]  a snow elemental: -53
+[04/16/2022 07:51]  Razor: Bandage: 6s
+[04/16/2022 07:51]  Razor: Bandage: 7s
+[04/16/2022 07:51]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:51]  Razor: Bandage: 8s
+[04/16/2022 07:51]  Razor: Bandage: 9s
+[04/16/2022 07:51]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:51]  Razor: [HAM ON]
+[04/16/2022 07:51]  Razor: Bandage: 10s
+[04/16/2022 07:51]  System: You finish applying the bandages.
+[04/16/2022 07:51]  Stink Fist: +4
+[04/16/2022 07:51]  System: Your attack hamstrings your target!
+[04/16/2022 07:51]  a snow elemental: -34
+[04/16/2022 07:51]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2022 07:51]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:51]  Stink Fist: -6
+[04/16/2022 07:51]  System: Who will you use the bandages on?
+[04/16/2022 07:51]  Razor: Healing Started
+[04/16/2022 07:51]  System: You begin applying the bandages.
+[04/16/2022 07:51]  Razor: Bandage: 1s
+[04/16/2022 07:51]  a snow elemental: -43
+[04/16/2022 07:51]  Razor: Bandage: 2s
+[04/16/2022 07:51]  a snow elemental: -36
+[04/16/2022 07:51]  a snow elemental: -7
+[04/16/2022 07:51]  Razor: Bandage: 3s
+[04/16/2022 07:51]  a snow elemental: -29
+[04/16/2022 07:51]  Razor: Bandage: 4s
+[04/16/2022 07:51]  System: Your strike disarms your target!
+[04/16/2022 07:51]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2022 07:51]  a snow elemental: -100
+[04/16/2022 07:51]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:51]  Razor: [DISARM]
+[04/16/2022 07:51]  Razor: Bandage: 5s
+[04/16/2022 07:51]  System: You have gained a little fame.
+[04/16/2022 07:51]  System: You have gained a little karma.
+[04/16/2022 07:51]  Stink Fist: (Earth Aspect 2,900.9/3000 xp)
+[04/16/2022 07:51]  System: -26
+[04/16/2022 07:51]  You see: a snow elemental corpse
+[04/16/2022 07:51]  Razor: Bandage: 6s
+[04/16/2022 07:51]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:51]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:51]  Razor: Bandage: 7s
+[04/16/2022 07:51]  System: You carve materials from the corpse.
+[04/16/2022 07:51]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:51]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:51]  Razor: Bandage: 8s
+[04/16/2022 07:51]  Razor: Bandage: 9s
+[04/16/2022 07:51]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:51]  Razor: Bandage: 10s
+[04/16/2022 07:51]  System: You finish applying the bandages.
+[04/16/2022 07:51]  Stink Fist: +5
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  a frostbane acolyte: -34
+[04/16/2022 07:51]  System: You absorb their spell (19.2% current damage bonus).
+[04/16/2022 07:51]  Stink Fist: -1
+[04/16/2022 07:51]  a frostbane acolyte: -45
+[04/16/2022 07:51]  System: Who will you use the bandages on?
+[04/16/2022 07:51]  Razor: Healing Started
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  System: You begin applying the bandages.
+[04/16/2022 07:51]  Razor: Bandage: 1s
+[04/16/2022 07:51]  a frostbane acolyte: -48
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  Razor: Bandage: 2s
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  a frostbane acolyte: -32
+[04/16/2022 07:51]  Stink Fist: +1
+[04/16/2022 07:51]  System: some damage has been healed : 1
+[04/16/2022 07:51]  System: Restored 1 health with Crane stance.
+[04/16/2022 07:51]  a frostbane acolyte: *raises the frozen dead*
+[04/16/2022 07:51]  Razor: Bandage: 3s
+[04/16/2022 07:51]  System: Your attack cripples your target, lowering their defense!
+[04/16/2022 07:51]  a frostbane acolyte: -67
+[04/16/2022 07:51]  Razor: Bandage: 4s
+[04/16/2022 07:51]  a frostbane acolyte: -32
+[04/16/2022 07:51]  Razor: Bandage: 5s
+[04/16/2022 07:51]  a skeleton: a skeleton
+[04/16/2022 07:51]  a frostbane acolyte: -180
+[04/16/2022 07:51]  Razor: Bandage: 6s
+[04/16/2022 07:51]  Razor: Bandage: 7s
+[04/16/2022 07:51]  a frostbane acolyte: -37
+[04/16/2022 07:51]  Stink Fist: -2
+[04/16/2022 07:51]  System: Your fingers slip!
+[04/16/2022 07:51]  Razor: Bandage: 8s
+[04/16/2022 07:51]  System: You have gained a little fame.
+[04/16/2022 07:51]  System: You have gained a little karma.
+[04/16/2022 07:51]  Stink Fist: (Earth Aspect 2,902.9/3000 xp)
+[04/16/2022 07:51]  System: -25
+[04/16/2022 07:51]  You see: a frostbane acolyte corpse
+[04/16/2022 07:51]  You see: a skeletal corpse
+[04/16/2022 07:51]  Razor: Bandage: 9s
+[04/16/2022 07:51]  System: You must wait to perform another action.
+[04/16/2022 07:51]  Razor: Bandage: 10s
+[04/16/2022 07:51]  System: You finish applying the bandages.
+[04/16/2022 07:51]  Stink Fist: +2
+[04/16/2022 07:51]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:51]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:51]  System: You carve materials from the corpse.
+[04/16/2022 07:51]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:51]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:51]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:51]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:51]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:51]  Razor: [HAM ON]
+[04/16/2022 07:51]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:51]  an ice elemental: an ice elemental
+[04/16/2022 07:51]  a snow flurry: a snow flurry
+[04/16/2022 07:51]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:51]  Razor: [DISARM]
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  System: Your strike disarms your target!
+[04/16/2022 07:51]  System: Your attack hamstrings your target!
+[04/16/2022 07:51]  a frostbane acolyte: -98
+[04/16/2022 07:51]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:51]  System: Your magic resist potion has worn off.
+[04/16/2022 07:51]  Razor: [-Magic Resist Potion (s)]
+[04/16/2022 07:51]  Stink Fist: -2
+[04/16/2022 07:51]  System: Who will you use the bandages on?
+[04/16/2022 07:51]  Razor: Healing Started
+[04/16/2022 07:51]  a frostbane acolyte: -35
+[04/16/2022 07:51]  System: You begin applying the bandages.
+[04/16/2022 07:51]  Razor: Bandage: 1s
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  a frostbane acolyte: -66
+[04/16/2022 07:51]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2022 07:51]  a frostbane acolyte: *raises the frozen dead*
+[04/16/2022 07:51]  Razor: Bandage: 2s
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  a frostbane acolyte: -94
+[04/16/2022 07:51]  Stink Fist: +2
+[04/16/2022 07:51]  System: some damage has been healed : 2
+[04/16/2022 07:51]  System: Restored 2 health with Crane stance.
+[04/16/2022 07:51]  Razor: Bandage: 3s
+[04/16/2022 07:51]  a frostbane acolyte: -78
+[04/16/2022 07:51]  a skeleton: a skeleton
+[04/16/2022 07:51]  Razor: Bandage: 4s
+[04/16/2022 07:51]  a frostbane acolyte: -16
+[04/16/2022 07:51]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:51]  a frostbane acolyte: -54
+[04/16/2022 07:51]  Razor: Bandage: 5s
+[04/16/2022 07:52]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:52]  System: You parry the spell.
+[04/16/2022 07:52]  Stink Fist: -1
+[04/16/2022 07:52]  System: Your fingers slip!
+[04/16/2022 07:52]  a frostbane acolyte: -54
+[04/16/2022 07:52]  Razor: Bandage: 6s
+[04/16/2022 07:52]  Razor: Attack: a frostbane acolyte
+[04/16/2022 07:52]  Razor: Bandage: 7s
+[04/16/2022 07:52]  System: You have gained a little fame.
+[04/16/2022 07:52]  System: You have gained a little karma.
+[04/16/2022 07:52]  Stink Fist: (Earth Aspect 2,904.9/3000 xp)
+[04/16/2022 07:52]  System: -5
+[04/16/2022 07:52]  You see: a frostbane acolyte corpse
+[04/16/2022 07:52]  You see: a skeletal corpse
+[04/16/2022 07:52]  Razor: Bandage: 8s
+[04/16/2022 07:52]  System: You must wait to perform another action.
+[04/16/2022 07:52]  Razor: Bandage: 9s
+[04/16/2022 07:52]  Razor: Bandage: 10s
+[04/16/2022 07:52]  System: You heal what little damage you had.
+[04/16/2022 07:52]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:52]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:52]  System: You carve materials from the corpse.
+[04/16/2022 07:52]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:52]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:52]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:52]  You see: a snow elemental corpse
+[04/16/2022 07:52]  a snowdrift: a snowdrift
+[04/16/2022 07:52]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:52]  Razor: Attack: a snow elemental
+[04/16/2022 07:52]  a snow elemental: -52
+[04/16/2022 07:52]  a snow elemental: -35
+[04/16/2022 07:52]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:52]  Stink Fist: -6
+[04/16/2022 07:52]  System: Who will you use the bandages on?
+[04/16/2022 07:52]  Razor: Healing Started
+[04/16/2022 07:52]  System: You begin applying the bandages.
+[04/16/2022 07:52]  Razor: Bandage: 1s
+[04/16/2022 07:52]  a snow elemental: -49
+[04/16/2022 07:52]  Razor: Bandage: 2s
+[04/16/2022 07:52]  Stink Fist: -2
+[04/16/2022 07:52]  a snow elemental: -49
+[04/16/2022 07:52]  Razor: Bandage: 3s
+[04/16/2022 07:52]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:52]  Razor: [HAM ON]
+[04/16/2022 07:52]  Razor: Bandage: 4s
+[04/16/2022 07:52]  System: You fail to hamstring your opponent.
+[04/16/2022 07:52]  Razor: Bandage: 5s
+[04/16/2022 07:52]  a snow elemental: -27
+[04/16/2022 07:52]  Razor: Bandage: 6s
+[04/16/2022 07:52]  an ice elemental: an ice elemental
+[04/16/2022 07:52]  System: Your strike disarms your target!
+[04/16/2022 07:52]  a snow elemental: -71
+[04/16/2022 07:52]  Razor: Bandage: 7s
+[04/16/2022 07:52]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:52]  Razor: [DISARM]
+[04/16/2022 07:52]  System: ShenChan has completed the achievement: Order of Armorers Initiate.
+[04/16/2022 07:52]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:52]  Razor: Bandage: 8s
+[04/16/2022 07:52]  a snow elemental: -62
+[04/16/2022 07:52]  Razor: Bandage: 9s
+[04/16/2022 07:52]  a snow elemental: -54
+[04/16/2022 07:52]  Razor: Bandage: 10s
+[04/16/2022 07:52]  System: You finish applying the bandages.
+[04/16/2022 07:52]  Stink Fist: +6
+[04/16/2022 07:52]  Razor: Attack: a snow elemental
+[04/16/2022 07:52]  System: You have gained a little fame.
+[04/16/2022 07:52]  System: You have gained a little karma.
+[04/16/2022 07:52]  Stink Fist: (Earth Aspect 2,905.9/3000 xp)
+[04/16/2022 07:52]  System: -39
+[04/16/2022 07:52]  You see: a snow elemental corpse
+[04/16/2022 07:52]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:52]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:52]  System: You carve materials from the corpse.
+[04/16/2022 07:52]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:52]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:52]  System: Where do you wish to traverse to?
+[04/16/2022 07:52]  Razor: [+Paralyze (0s)]
+[04/16/2022 07:52]  Razor: [-Paralyze (s)]
+[04/16/2022 07:52]  System: You are no longer hindered.
+[04/16/2022 07:52]  Stink Fist: -3
+[04/16/2022 07:52]  System: Who will you use the bandages on?
+[04/16/2022 07:52]  Razor: Healing Started
+[04/16/2022 07:52]  System: You begin applying the bandages.
+[04/16/2022 07:52]  Razor: Attack: a snowdrift
+[04/16/2022 07:52]  System: Your attack hamstrings your target!
+[04/16/2022 07:52]  a snowdrift: -60
+[04/16/2022 07:52]  Razor: Bandage: 1s
+[04/16/2022 07:52]  Razor: Bandage: 2s
+[04/16/2022 07:52]  a snowdrift: -71
+[04/16/2022 07:52]  Razor: Bandage: 3s
+[04/16/2022 07:52]  a snowdrift: -60
+[04/16/2022 07:52]  a snowdrift: *regens*
+[04/16/2022 07:52]  Razor: Bandage: 4s
+[04/16/2022 07:52]  a snowdrift: -49
+[04/16/2022 07:52]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:52]  Stink Fist: -5
+[04/16/2022 07:52]  System: Your fingers slip!
+[04/16/2022 07:52]  Razor: Bandage: 5s
+[04/16/2022 07:52]  a snowdrift: -41
+[04/16/2022 07:52]  Razor: Bandage: 6s
+[04/16/2022 07:52]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:52]  Stink Fist: -7
+[04/16/2022 07:52]  System: You have gained a little fame.
+[04/16/2022 07:52]  System: You have gained a little karma.
+[04/16/2022 07:52]  Stink Fist: (Earth Aspect 2,906.9/3000 xp)
+[04/16/2022 07:52]  System: -47
+[04/16/2022 07:52]  You see: a snowdrift corpse
+[04/16/2022 07:52]  Razor: Bandage: 7s
+[04/16/2022 07:52]  Razor: Bandage: 8s
+[04/16/2022 07:52]  System: Your fingers slip!
+[04/16/2022 07:52]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:52]  Razor: Bandage: 9s
+[04/16/2022 07:52]  Razor: Bandage: 10s
+[04/16/2022 07:52]  System: You finish applying the bandages.
+[04/16/2022 07:52]  Stink Fist: +13
+[04/16/2022 07:52]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:52]  Razor: Target: Stink Fist
+[04/16/2022 07:52]  System: You carve materials from the corpse.
+[04/16/2022 07:52]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:52]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:52]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:52]  a snow flurry: a snow flurry
+[04/16/2022 07:52]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:52]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:52]  Razor: [DISARM]
+[04/16/2022 07:52]  a snowdrift: a snowdrift
+[04/16/2022 07:52]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:52]  Razor: Attack: a snow flurry
+[04/16/2022 07:52]  System: Your strike disarms your target!
+[04/16/2022 07:52]  System: Your attack hinders your target!
+[04/16/2022 07:52]  a snow flurry: -209
+[04/16/2022 07:52]  a snow flurry: -81
+[04/16/2022 07:52]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:52]  Stink Fist: -5
+[04/16/2022 07:52]  System: Who will you use the bandages on?
+[04/16/2022 07:52]  Razor: Healing Started
+[04/16/2022 07:52]  System: You begin applying the bandages.
+[04/16/2022 07:53]  a snow flurry: -55
+[04/16/2022 07:53]  System: You absorb their spell (19.2% current damage bonus).
+[04/16/2022 07:53]  Stink Fist: -5
+[04/16/2022 07:53]  Razor: Bandage: 1s
+[04/16/2022 07:53]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2022 07:53]  System: You have gained a little fame.
+[04/16/2022 07:53]  System: You have gained a little karma.
+[04/16/2022 07:53]  Stink Fist: (Earth Aspect 2,908.7/3000 xp)
+[04/16/2022 07:53]  System: -79
+[04/16/2022 07:53]  Razor: Bandage: 2s
+[04/16/2022 07:53]  You see: a snow flurry corpse
+[04/16/2022 07:53]  Razor: Bandage: 3s
+[04/16/2022 07:53]  Razor: Bandage: 4s
+[04/16/2022 07:53]  Razor: Bandage: 5s
+[04/16/2022 07:53]  Razor: Bandage: 6s
+[04/16/2022 07:53]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:53]  Razor: Bandage: 7s
+[04/16/2022 07:53]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:53]  Razor: [HAM ON]
+[04/16/2022 07:53]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:53]  Razor: Bandage: 8s
+[04/16/2022 07:53]  System: You carve materials from the corpse.
+[04/16/2022 07:53]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:53]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:53]  Razor: Bandage: 9s
+[04/16/2022 07:53]  Razor: Bandage: 10s
+[04/16/2022 07:53]  System: You finish applying the bandages.
+[04/16/2022 07:53]  Stink Fist: +8
+[04/16/2022 07:53]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:53]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:53]  You see: unidentified war fork
+[04/16/2022 07:53]  You see: a snow elemental corpse
+[04/16/2022 07:53]  a snowdrift: a snowdrift
+[04/16/2022 07:53]  a frostbane acolyte: a frostbane acolyte
+[04/16/2022 07:53]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:53]  Razor: Attack: a snowdrift
+[04/16/2022 07:53]  Stink Fist: -6
+[04/16/2022 07:53]  System: Your attack hamstrings your target!
+[04/16/2022 07:53]  a snowdrift: -130
+[04/16/2022 07:53]  System: Who will you use the bandages on?
+[04/16/2022 07:53]  Razor: Healing Started
+[04/16/2022 07:53]  System: You begin applying the bandages.
+[04/16/2022 07:53]  a snowdrift: *regens*
+[04/16/2022 07:53]  Razor: Bandage: 1s
+[04/16/2022 07:53]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:53]  Razor: [DISARM]
+[04/16/2022 07:53]  Razor: Bandage: 2s
+[04/16/2022 07:53]  System: Your strike disarms your target!
+[04/16/2022 07:53]  a snowdrift: -85
+[04/16/2022 07:53]  Razor: Bandage: 3s
+[04/16/2022 07:53]  a snowdrift: -51
+[04/16/2022 07:53]  Stink Fist: +6
+[04/16/2022 07:53]  System: some damage has been healed : 6
+[04/16/2022 07:53]  System: Restored 6 health with Crane stance.
+[04/16/2022 07:53]  System: You feel chilled and your metabolism slowed!
+[04/16/2022 07:53]  Stink Fist: -5
+[04/16/2022 07:53]  System: Your fingers slip!
+[04/16/2022 07:53]  Razor: Bandage: 4s
+[04/16/2022 07:53]  System: You have gained a little fame.
+[04/16/2022 07:53]  System: You have gained a little karma.
+[04/16/2022 07:53]  Stink Fist: (Earth Aspect 2,909.7/3000 xp)
+[04/16/2022 07:53]  System: -62
+[04/16/2022 07:53]  You see: a snowdrift corpse
+[04/16/2022 07:53]  Razor: Bandage: 5s
+[04/16/2022 07:53]  Razor: Bandage: 6s
+[04/16/2022 07:53]  System: What corpse or location do you wish to carve?
+[04/16/2022 07:53]  System: You carve materials from the corpse.
+[04/16/2022 07:53]  Razor: [-Forensic Eval Bonus (s)]
+[04/16/2022 07:53]  Razor: [+Forensic Eval Bonus (10800s)]
+[04/16/2022 07:53]  Razor: Bandage: 7s
+[04/16/2022 07:53]  Razor: Bandage: 8s
+[04/16/2022 07:53]  Razor: Bandage: 9s
+[04/16/2022 07:53]  System: [GridLoot]: Corpse is empty!
+[04/16/2022 07:53]  Razor: Bandage: 10s
+[04/16/2022 07:53]  System: You finish applying the bandages.
+[04/16/2022 07:53]  Stink Fist: +4
+[04/16/2022 07:53]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:53]  System: Your skill in Tactics has decreased by 10.0.  It is now 100.0.
+[04/16/2022 07:53]  Stink Fist: Kal Ort Por [Recall]
+[04/16/2022 07:53]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[04/16/2022 07:53]  System: You are now under the protection of the town guards.
+[04/16/2022 07:53]  an andarian mage: an andarian mage
+[04/16/2022 07:53]  Candida: Candida the cobbler
+[04/16/2022 07:53]  Leiko: Leiko the tinker
+[04/16/2022 07:53]  Stoyan: Stoyan the tinker
+[04/16/2022 07:53]  King Night: Legendary Scribe
+[04/16/2022 07:53]  King Night: [RAQ]
+[04/16/2022 07:53]  King Night: King Night
+[04/16/2022 07:53]  Ses Q'uessen: [AWN]
+[04/16/2022 07:53]  Ses Q'uessen: Ses Q'uessen
+[04/16/2022 07:53]  a fire elemental: (summoned)
+[04/16/2022 07:53]  a fire elemental: a fire elemental
+[04/16/2022 07:53]  an earth elemental: (summoned)
+[04/16/2022 07:53]  an earth elemental: an earth elemental
+[04/16/2022 07:53]  Wallice: [Civilian, Yew]
+[04/16/2022 07:53]  Wallice: Wallice
+[04/16/2022 07:53]  Bart: Bart the Town Crier
+[04/16/2022 07:53]  Killian: Killian the jeweler
+[04/16/2022 07:53]  a pack horse: (tame)
+[04/16/2022 07:53]  a pack horse: [0/2000 stones]
+[04/16/2022 07:53]  a pack horse: a pack horse
+[04/16/2022 07:53]  Mr Bin: Mr Bin
+[04/16/2022 07:53]  System: You may now attempt to hamstring your opponents again.
+[04/16/2022 07:53]  a pack llama: (tame)
+[04/16/2022 07:53]  a pack llama: [1072/2000 stones]
+[04/16/2022 07:53]  a pack llama: a pack llama
+[04/16/2022 07:53]  Razor: [HAM ON]
+[04/16/2022 07:53]  System: Your skill in Tactics has increased by 10.0.  It is now 110.0.
+[04/16/2022 07:53]  System: Holy symbols remaining: 6/10
+[04/16/2022 07:53]  System: Opening door...
+[04/16/2022 07:54]  System: You may now attempt to disarm your opponent again.
+[04/16/2022 07:54]  Razor: [DISARM]
+[04/16/2022 07:54]  Killian: Killian the jeweler
+[04/16/2022 07:54]  Leiko: Leiko the tinker
+[04/16/2022 07:54]  Wallice: [Civilian, Yew]
+[04/16/2022 07:54]  Wallice: Wallice
+[04/16/2022 07:54]  an andarian mage: an andarian mage
+[04/16/2022 07:54]  Mr Bin: Mr Bin
+[04/16/2022 07:54]  Ses Q'uessen: [AWN]
+[04/16/2022 07:54]  Ses Q'uessen: Ses Q'uessen
+[04/16/2022 07:54]  a pack horse: (tame)
+[04/16/2022 07:54]  a pack horse: [0/2000 stones]
+[04/16/2022 07:54]  a pack horse: a pack horse
+[04/16/2022 07:54]  Bart: Bart the Town Crier
+[04/16/2022 07:54]  a fire elemental: (summoned)
+[04/16/2022 07:54]  a fire elemental: a fire elemental
+[04/16/2022 07:54]  an earth elemental: (summoned)
+[04/16/2022 07:54]  an earth elemental: an earth elemental
+[04/16/2022 07:54]  a skeletal dragon: (tame)
+[04/16/2022 07:54]  a skeletal dragon: a skeletal dragon
+[04/16/2022 07:54]  a scarab: (bonded)
+[04/16/2022 07:54]  a scarab: a scarab
+[04/16/2022 07:54]  JoB: JoB
+[04/16/2022 07:54]  King Night: Legendary Scribe
+[04/16/2022 07:54]  King Night: [RAQ]
+[04/16/2022 07:54]  King Night: King Night
+[04/16/2022 07:54]  stumpchest: stumpchest
+[04/16/2022 07:54]  Roi: Roi the banker
+[04/16/2022 07:54]  Jakee: [Recruit, -_-]
+[04/16/2022 07:54]  Jakee: Jakee
+[04/16/2022 07:54]  Rosellin: Rosellin
+[04/16/2022 07:54]  Britta: Britta the banker
+[04/16/2022 07:54]  Orlantha: Orlantha the banker
+[04/16/2022 07:54]  Prince Caspian: [Soldier, Ymir]
+[04/16/2022 07:54]  Prince Caspian: Lord Prince Caspian
+[04/16/2022 07:54]  Dean Dong: [Rookie, NKB]
+[04/16/2022 07:54]  Dean Dong: Dean Dong
+[04/16/2022 07:54]  Draky: (bonded)
+[04/16/2022 07:54]  Draky: Draky
+[04/16/2022 07:54]  Dracy: (bonded)
+[04/16/2022 07:54]  Dracy: Dracy
+[04/16/2022 07:54]  a pack llama: (tame)
+[04/16/2022 07:54]  a pack llama: [0/2000 stones]
+[04/16/2022 07:54]  a pack llama: a pack llama
+[04/16/2022 07:54]  Bedesh: [White Belt, C_K]
+[04/16/2022 07:54]  Bedesh: Bedesh
+[04/16/2022 07:54]  Horrace: [White Belt, C_K]
+[04/16/2022 07:54]  Horrace: Horrace
+[04/16/2022 07:54]  Nensho: Nensho
+[04/16/2022 07:54]  Kindalhart: [Rookie, NKB]
+[04/16/2022 07:54]  Kindalhart: Kindalhart
+[04/16/2022 07:54]  Muehl: Muehl
+[04/16/2022 07:54]  a pack llama: (tame)
+[04/16/2022 07:54]  a pack llama: [1072/2000 stones]
+[04/16/2022 07:54]  a pack llama: a pack llama
+[04/16/2022 07:54]  Dunedain: [Cadet, Yew]
+[04/16/2022 07:54]  Dunedain: Dunedain
+[04/16/2022 07:54]  System: Playing Macro 'bank'...
+[04/16/2022 07:54]  System: Macro 'bank' finished.
+[04/16/2022 07:54]  Stink Fist: Bank Guards Vendor I ban thee
+[04/16/2022 07:54]  Stink Fist: Items: 11/125
+[04/16/2022 07:54]  Stink Fist: Total Weight: 1,799
+[04/16/2022 07:54]  Saulstarins: Saulstarins
+[04/16/2022 07:54]  a scarab: (bonded)
+[04/16/2022 07:54]  a scarab: a scarab
+[04/16/2022 07:54]  a giant swamp slug: (bonded)
+[04/16/2022 07:54]  a giant swamp slug: a giant swamp slug
+[04/16/2022 07:54]  a colossal swamp slug: (bonded)
+[04/16/2022 07:54]  a colossal swamp slug: a colossal swamp slug
+[04/16/2022 07:54]  System: Max holy symbols earned (10/10)
+[04/16/2022 07:54]  You see: gold coin : 4328
+[04/16/2022 07:54]  Siitaqo: [Recruit, brg]
+[04/16/2022 07:54]  Siitaqo: Lord Siitaqo
+[04/16/2022 07:54]  System: Pathfinders (Path) guild has reached prestige level 237.
+[04/16/2022 07:54]  Siitaqo: bank
+[04/16/2022 07:54]  You see: gold coin : 1578
+[04/16/2022 07:54]  Bart: The Prevalian Merchant has been updated with a new batch of limited edition Spring items, including a new hue, clothing and decor!
+[04/16/2022 07:54]  System: Your skill in Tactics has decreased by 10.0.  It is now 100.0.
+[04/16/2022 07:54]  Stink Fist: Kal Ort Por [Recall]
+[04/16/2022 07:54]  System: You have left the protection of the town guards.
+[04/16/2022 07:54]  You see: an ogre corpse
+[04/16/2022 07:54]  a cougar: a cougar
+[04/16/2022 07:54]  an eagle: an eagle
+[04/16/2022 07:54]  Wulf of Wyrd: Wulf of Wyrd
+[04/16/2022 07:54]  System: Opening door...
+[04/16/2022 07:54]  System: Your house and its contents have been refreshed. 29 days 12 hours 2 minutes remaining until owner refresh required.
+[04/16/2022 07:54]  : plaster wall window
+[04/16/2022 07:54]  System: Warning: ribs amount is now 0!
+[04/16/2022 07:55]  System: Organize Agent queued 5 item(s) to be moved. (This may take a few moments)
+[04/16/2022 07:55]  System: Finished 5 queued actions in 2.4 seconds.
+[04/16/2022 07:55]  System: Organize Agent queued 4 item(s) to be moved. (This may take a few moments)
+[04/16/2022 07:55]  System: You must wait another moment before you may pick up an item from here.
+[04/16/2022 07:55]  System: Finished 4 queued actions in 1.8 seconds.
+[04/16/2022 07:55]  You see: create food scroll : 2
+[04/16/2022 07:55]  Razor: [-Protection (s)]
+[04/16/2022 07:55]  Wulf of Wyrd: In Mani Ylem [Create Food]
+[04/16/2022 07:55]  Wulf of Wyrd: In Mani Ylem [Create Food]

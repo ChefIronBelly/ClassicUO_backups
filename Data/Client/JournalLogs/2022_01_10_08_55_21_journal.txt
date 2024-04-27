@@ -1,0 +1,851 @@
+[01/10/2022 08:55]  System: WorldMap loading...
+[01/10/2022 08:55]  System: Loading WorldMap markers..
+[01/10/2022 08:55]  System: ..Banks_and_Healers.xml (20)
+[01/10/2022 08:55]  System: ..Dungeons.xml (12)
+[01/10/2022 08:55]  System: ..Dungeon_Gates.xml (335)
+[01/10/2022 08:55]  System: ..Healer_Caravans.xml (32)
+[01/10/2022 08:55]  System: ..Moongates.xml (9)
+[01/10/2022 08:55]  System: ..POI.xml (176)
+[01/10/2022 08:55]  System: ..Shrines.xml (9)
+[01/10/2022 08:55]  System: ..Subterranean.xml (6)
+[01/10/2022 08:55]  System: ..Townships.xml (9)
+[01/10/2022 08:55]  System: WorldMap markers loaded (608)
+[01/10/2022 08:55]  System: Welcome Count de Monet!
+[01/10/2022 08:55]  Count de Monet: Count de Monet
+[01/10/2022 08:55]  System: WorldMap loaded!
+[01/10/2022 08:55]  System: You must wait to perform another action.
+[01/10/2022 08:55]  You see: a potion keg: lesser magic resistance
+[01/10/2022 08:55]  You see: The liquid is almost to the top of the keg.
+[01/10/2022 08:55]  You see: bottle : 2
+[01/10/2022 08:55]  System: You fail to ignite the campfire.
+[01/10/2022 08:56]  System: Your campfire is now secure.
+[01/10/2022 08:56]  System: You feel rested and comforted by the camp. (+20.0% damage to creatures and +8.0% damage to players).
+[01/10/2022 08:56]  Razor: [+Campfire Visit (10800s)]
+[01/10/2022 08:56]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[01/10/2022 08:56]  System: You begin hiking to your destination.
+[01/10/2022 08:56]  Count de Monet: *hiking to destination*
+[01/10/2022 08:56]  Razor: [+Paralyze (4s)]
+[01/10/2022 08:56]  Count de Monet: *hiking to destination*
+[01/10/2022 08:56]  Razor: [-Paralyze (s)]
+[01/10/2022 08:56]  Razor: [+Paralyze (2s)]
+[01/10/2022 08:56]  Razor: [-Paralyze (s)]
+[01/10/2022 08:56]  Razor: [+Paralyze (1s)]
+[01/10/2022 08:56]  Count de Monet: *hiking to destination*
+[01/10/2022 08:56]  Razor: [-Paralyze (s)]
+[01/10/2022 08:56]  Razor: [+Paralyze (0s)]
+[01/10/2022 08:56]  System: You are no longer hindered.
+[01/10/2022 08:56]  Razor: [-Paralyze (s)]
+[01/10/2022 08:56]  System: You are now under the protection of the town guards.
+[01/10/2022 08:56]  System: You hike to your destination.
+[01/10/2022 08:56]  Count de Monet: *You have arrived at your destination*
+[01/10/2022 08:56]  Rendor: Rendor the fisherman
+[01/10/2022 08:56]  an andarian marksman: an andarian marksman
+[01/10/2022 08:56]  Caroline: Caroline the fisherman
+[01/10/2022 08:56]  Rhodanthe: Rhodanthe the cook
+[01/10/2022 08:56]  Shen: Shen the mapmaker
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  a seagull: a seagull
+[01/10/2022 08:56]  Raizel: Raizel the farmer
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  an andarian footman: an andarian footman
+[01/10/2022 08:56]  Luxion: Luxion
+[01/10/2022 08:56]  Alden: Alden the stablemaster
+[01/10/2022 08:56]  an andarian footman: an andarian footman
+[01/10/2022 08:56]  Shen: Shen the mapmaker
+[01/10/2022 08:56]  Rhodanthe: Rhodanthe the cook
+[01/10/2022 08:56]  Raizel: Raizel the farmer
+[01/10/2022 08:56]  Ama: Ama the provisioner
+[01/10/2022 08:56]  B: (bonded)
+[01/10/2022 08:56]  B: B
+[01/10/2022 08:56]  A: (bonded)
+[01/10/2022 08:56]  A: A
+[01/10/2022 08:56]  C: (bonded)
+[01/10/2022 08:56]  C: C
+[01/10/2022 08:56]  Sylvia da Tamer: Legendary Beastmaster
+[01/10/2022 08:56]  Sylvia da Tamer: [Constellation, ***]
+[01/10/2022 08:56]  Sylvia da Tamer: Lady Sylvia da Tamer
+[01/10/2022 08:56]  a dog: a dog
+[01/10/2022 08:56]  Elad: Elad the beekeeper
+[01/10/2022 08:56]  Roxanne: Roxanne the cobbler
+[01/10/2022 08:56]  Morgan: Morgan the farmer
+[01/10/2022 08:56]  Standford: Standford the cook
+[01/10/2022 08:56]  Ammon: Ammon the tanner
+[01/10/2022 08:56]  Anna: Anna the tanner
+[01/10/2022 08:56]  Kelvin: Kelvin the tinker
+[01/10/2022 08:56]  a pack llama: (tame)
+[01/10/2022 08:56]  a pack llama: [0/2000 stones]
+[01/10/2022 08:56]  a pack llama: a pack llama
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  Bane: Bane the tanner
+[01/10/2022 08:56]  Prescot: Prescot the tailor
+[01/10/2022 08:56]  Prescot: Prescot the tailor
+[01/10/2022 08:56]  Gunther: Gunther the tailor
+[01/10/2022 08:56]  a dog: a dog
+[01/10/2022 08:56]  Bethany: Bethany the weaponsmith
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  Olivia: Olivia the miner
+[01/10/2022 08:56]  a cat: a cat
+[01/10/2022 08:56]  Feridwyn: Feridwyn the blacksmith
+[01/10/2022 08:56]  a dog: a dog
+[01/10/2022 08:56]  an andarian knight: an andarian knight
+[01/10/2022 08:57]  System: Being perfectly rested, you shove them out of the way.
+[01/10/2022 08:57]  Karlenne: Karlenne the real estate broker
+[01/10/2022 08:57]  Deb: Deb the architect
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  a cat: a cat
+[01/10/2022 08:57]  a cat: a cat
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  Seymour: Seymour the carpenter
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  a cat: a cat
+[01/10/2022 08:57]  Candida: Candida the cobbler
+[01/10/2022 08:57]  JormungandrXD: JormungandrXD
+[01/10/2022 08:57]  a llama: (tame)
+[01/10/2022 08:57]  a llama: a llama
+[01/10/2022 08:57]  Ragijas: Ragijas
+[01/10/2022 08:57]  Leiko: Leiko the tinker
+[01/10/2022 08:57]  Reilan: Reilan
+[01/10/2022 08:57]  Starlorde: Starlorde
+[01/10/2022 08:57]  Slevin: Slevin the scribe
+[01/10/2022 08:57]  Kelli: Kelli the mage
+[01/10/2022 08:57]  Shani: Shani the mage
+[01/10/2022 08:57]  an andarian mage: an andarian mage
+[01/10/2022 08:57]  Ragijas: *focuses aggression*
+[01/10/2022 08:57]  Killian: Killian the jeweler
+[01/10/2022 08:57]  Bizarro: Bizarro
+[01/10/2022 08:57]  Stoyan: Stoyan the tinker
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  a pack llama: (tame)
+[01/10/2022 08:57]  a pack llama: [0/2000 stones]
+[01/10/2022 08:57]  a pack llama: a pack llama
+[01/10/2022 08:57]  Webb: Webb the cook
+[01/10/2022 08:57]  Sarai: Sarai the barkeep
+[01/10/2022 08:57]  Afra: Afra the tavern keeper
+[01/10/2022 08:57]  Adrian: Adrian the alchemist
+[01/10/2022 08:57]  an andarian mage: an andarian mage
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  Peyton: Peyton the mage
+[01/10/2022 08:57]  a pack llama: (tame)
+[01/10/2022 08:57]  a pack llama: [0/2000 stones]
+[01/10/2022 08:57]  a pack llama: a pack llama
+[01/10/2022 08:57]  Burlesca: Burlesca
+[01/10/2022 08:57]  a primordial: (bonded)
+[01/10/2022 08:57]  a primordial: a primordial
+[01/10/2022 08:57]  B: (bonded)
+[01/10/2022 08:57]  B: B
+[01/10/2022 08:57]  A: (bonded)
+[01/10/2022 08:57]  A: A
+[01/10/2022 08:57]  a primordial: (bonded)
+[01/10/2022 08:57]  a primordial: a primordial
+[01/10/2022 08:57]  Rudyard: Rudyard the mage
+[01/10/2022 08:57]  Abira: Abira the scribe
+[01/10/2022 08:57]  Shunnar: Shunnar the alchemist
+[01/10/2022 08:57]  Amadis: Amadis the scribe
+[01/10/2022 08:57]  Dane: Dane the mage
+[01/10/2022 08:57]  a cat: a cat
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  Peyton: Peyton the mage
+[01/10/2022 08:57]  Peyton: Greetings.  Have a look around.
+[01/10/2022 08:57]  Vostro: Monster Hunter Associate
+[01/10/2022 08:57]  Vostro: Lord Vostro
+[01/10/2022 08:57]  an andarian mage: an andarian mage
+[01/10/2022 08:57]  Dane: Dane the mage
+[01/10/2022 08:57]  Dane: Greetings.  Have a look around.
+[01/10/2022 08:57]  e: (tame)
+[01/10/2022 08:57]  e: [0/2000 stones]
+[01/10/2022 08:57]  e: e
+[01/10/2022 08:57]  b: (tame)
+[01/10/2022 08:57]  b: [0/2000 stones]
+[01/10/2022 08:57]  b: b
+[01/10/2022 08:57]  c: (tame)
+[01/10/2022 08:57]  c: [0/2000 stones]
+[01/10/2022 08:57]  c: c
+[01/10/2022 08:57]  a: (tame)
+[01/10/2022 08:57]  a: [0/2000 stones]
+[01/10/2022 08:57]  a: a
+[01/10/2022 08:57]  d: (tame)
+[01/10/2022 08:57]  d: [0/2000 stones]
+[01/10/2022 08:57]  d: d
+[01/10/2022 08:57]  Wish me Luck: [BRA]
+[01/10/2022 08:57]  Wish me Luck: Wish me Luck
+[01/10/2022 08:57]  Count de Monet: Kal Ort Por [Recall]
+[01/10/2022 08:57]  Alula: Alula the Necromancer
+[01/10/2022 08:57]  a book wyrm: a book wyrm
+[01/10/2022 08:57]  Aurilia: Aurilia
+[01/10/2022 08:57]  Sharral: [Recruit, AOG]
+[01/10/2022 08:57]  Sharral: Sharral
+[01/10/2022 08:57]  a pack llama: (tame)
+[01/10/2022 08:57]  a pack llama: [0/2000 stones]
+[01/10/2022 08:57]  a pack llama: a pack llama
+[01/10/2022 08:57]  Wyxi: [Recruit, AOG]
+[01/10/2022 08:57]  Wyxi: Wyxi
+[01/10/2022 08:57]  Sivan: Sivan the stablemaster
+[01/10/2022 08:57]  Mortadelo: [Veteran, MR]
+[01/10/2022 08:57]  Mortadelo: Mortadelo
+[01/10/2022 08:57]  Sukatai: Sukatai the animal wrangler
+[01/10/2022 08:57]  Azzeron: Legendary Scribe
+[01/10/2022 08:57]  Azzeron: [Veteran, DHK]
+[01/10/2022 08:57]  Azzeron: Azzeron
+[01/10/2022 08:57]  an imp: (tame)
+[01/10/2022 08:57]  an imp: an imp
+[01/10/2022 08:57]  a colossal frog: (bonded)
+[01/10/2022 08:57]  a colossal frog: a colossal frog
+[01/10/2022 08:57]  a colossal frog: (bonded)
+[01/10/2022 08:57]  a colossal frog: a colossal frog
+[01/10/2022 08:57]  Saturn Keeper: Saturn Keeper
+[01/10/2022 08:57]  Lyte: Lyte
+[01/10/2022 08:57]  The Elf: The Elf
+[01/10/2022 08:57]  BlindDarkness: [Constellation, ***]
+[01/10/2022 08:57]  BlindDarkness: BlindDarkness
+[01/10/2022 08:57]  Packrat: Packrat
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  Ingmar: Ingmar the banker
+[01/10/2022 08:57]  Duncan: Duncan the mage
+[01/10/2022 08:57]  BlindEyes: [Blind and Kind, ***]
+[01/10/2022 08:57]  BlindEyes: BlindEyes
+[01/10/2022 08:57]  Papa Easy Smooth: [Shining Star, ***]
+[01/10/2022 08:57]  Papa Easy Smooth: Papa Easy Smooth
+[01/10/2022 08:57]  Quespor: Quespor
+[01/10/2022 08:57]  Calendonia: Calendonia the banker
+[01/10/2022 08:57]  LuckyMouse: LuckyMouse
+[01/10/2022 08:57]  Neruskij: Neruskij
+[01/10/2022 08:57]  EyeDeer: EyeDeer
+[01/10/2022 08:57]  Lixiviat: [***]
+[01/10/2022 08:57]  Lixiviat: Lixiviat
+[01/10/2022 08:57]  Mabaa: Monster Hunter Initiate
+[01/10/2022 08:57]  Mabaa: [LT]
+[01/10/2022 08:57]  Mabaa: Mabaa
+[01/10/2022 08:57]  a lich: (summoned)
+[01/10/2022 08:57]  a lich: a lich
+[01/10/2022 08:57]  a lich: (summoned)
+[01/10/2022 08:57]  a lich: a lich
+[01/10/2022 08:57]  LoxDownNsHiftTy: LoxDownNsHiftTy
+[01/10/2022 08:57]  Dead Zed: Dead Zed
+[01/10/2022 08:57]  Loxness Monster: Loxness Monster
+[01/10/2022 08:57]  Raynor: Raynor the herbalist
+[01/10/2022 08:57]  Orvil Wakenbaker: Orvil Wakenbaker
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  Liadan: Liadan the scribe
+[01/10/2022 08:57]  X: (bonded)
+[01/10/2022 08:57]  X: X
+[01/10/2022 08:57]  a drake whelp: (bonded)
+[01/10/2022 08:57]  a drake whelp: a drake whelp
+[01/10/2022 08:57]  Y: (bonded)
+[01/10/2022 08:57]  Y: Y
+[01/10/2022 08:57]  DarkBloodTR: [Member, Mucx]
+[01/10/2022 08:57]  DarkBloodTR: DarkBloodTR
+[01/10/2022 08:57]  Gorak: Gorak
+[01/10/2022 08:57]  Maister Traveler: Maister Traveler
+[01/10/2022 08:57]  NKB Vendor Mall: [NKB Vendor Mall, NKB]
+[01/10/2022 08:57]  NKB Vendor Mall: NKB Vendor Mall
+[01/10/2022 08:57]  Garrett: Garrett the mage
+[01/10/2022 08:57]  StantonN: [Member, LT]
+[01/10/2022 08:57]  StantonN: StantonN
+[01/10/2022 08:57]  a cat: a cat
+[01/10/2022 08:57]  Risky Business: Risky Business
+[01/10/2022 08:57]  Mortadelo: Banco
+[01/10/2022 08:57]  Knife the Pirate: Knife the Pirate
+[01/10/2022 08:57]  Mystic Flame: Mystic Flame
+[01/10/2022 08:57]  StantonM: [Member, LT]
+[01/10/2022 08:57]  StantonM: StantonM
+[01/10/2022 08:57]  StantonS: [Member, LT]
+[01/10/2022 08:57]  StantonS: StantonS
+[01/10/2022 08:57]  a cat: a cat
+[01/10/2022 08:57]  Tamma: Tamma the banker
+[01/10/2022 08:57]  Orvil Wakenbaker: a water elemental release
+[01/10/2022 08:57]  System: Opening door...
+[01/10/2022 08:57]  Ginger: Ginger the mage
+[01/10/2022 08:57]  Maria Aparecida: Maria Aparecida
+[01/10/2022 08:57]  shandy here: Explorer
+[01/10/2022 08:57]  shandy here: [Recruit, RED]
+[01/10/2022 08:57]  shandy here: shandy here
+[01/10/2022 08:57]  Bentley: Bentley the scribe
+[01/10/2022 08:57]  Brandy: Brandy the herbalist
+[01/10/2022 08:57]  HelpingHand: HelpingHand
+[01/10/2022 08:57]  Zasobovani: Zasobovani
+[01/10/2022 08:57]  a dog: a dog
+[01/10/2022 08:57]  System: Opening door...
+[01/10/2022 08:57]  a prevalian marksman: a prevalian marksman
+[01/10/2022 08:57]  Sharral: [Recruit, AOG]
+[01/10/2022 08:57]  Sharral: Sharral
+[01/10/2022 08:57]  Wyxi: [Recruit, AOG]
+[01/10/2022 08:57]  Wyxi: Wyxi
+[01/10/2022 08:57]  a pack llama: (tame)
+[01/10/2022 08:57]  a pack llama: [0/2000 stones]
+[01/10/2022 08:57]  a pack llama: a pack llama
+[01/10/2022 08:57]  Maria Aparecida: Maria Aparecida
+[01/10/2022 08:57]  shandy here: Explorer
+[01/10/2022 08:57]  shandy here: [Recruit, RED]
+[01/10/2022 08:57]  shandy here: shandy here
+[01/10/2022 08:57]  HelpingHand: HelpingHand
+[01/10/2022 08:57]  Zasobovani: Zasobovani
+[01/10/2022 08:57]  Duncan: Duncan the mage
+[01/10/2022 08:57]  Duncan: Greetings.  Have a look around.
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  Rushh: [Recruit, RED]
+[01/10/2022 08:58]  Rushh: Rushh
+[01/10/2022 08:58]  Enubus: Enubus
+[01/10/2022 08:58]  Sukatai: Sukatai the animal wrangler
+[01/10/2022 08:58]  Sivan: Sivan the stablemaster
+[01/10/2022 08:58]  Bentley: Bentley the scribe
+[01/10/2022 08:58]  Bentley: Greetings.  Have a look around.
+[01/10/2022 08:58]  Arcturus Noir: Heralded Duelist
+[01/10/2022 08:58]  Arcturus Noir: Arcturus Noir
+[01/10/2022 08:58]  EyeDeer: EyeDeer
+[01/10/2022 08:58]  shandy here: Explorer
+[01/10/2022 08:58]  shandy here: [Recruit, RED]
+[01/10/2022 08:58]  shandy here: shandy here
+[01/10/2022 08:58]  Papa Easy Smooth: [Shining Star, ***]
+[01/10/2022 08:58]  Papa Easy Smooth: Papa Easy Smooth
+[01/10/2022 08:58]  StantonS: [Member, LT]
+[01/10/2022 08:58]  StantonS: StantonS
+[01/10/2022 08:58]  Mortadelo: [Veteran, MR]
+[01/10/2022 08:58]  Mortadelo: Mortadelo
+[01/10/2022 08:58]  Chris One: Chris One
+[01/10/2022 08:58]  Edwin: Edwin the scribe
+[01/10/2022 08:58]  Brencis: Brencis the barkeep
+[01/10/2022 08:58]  Jerzy: Jerzy the waiter
+[01/10/2022 08:58]  Miles: Miles the innkeeper
+[01/10/2022 08:58]  Azina: Azina the alchemist
+[01/10/2022 08:58]  Marden: Marden the alchemist
+[01/10/2022 08:58]  Aricin: Aricin the stablemaster
+[01/10/2022 08:58]  Bazooka Bill: Bazooka Bill
+[01/10/2022 08:58]  Aurilia: Aurilia
+[01/10/2022 08:58]  Sinjin: [Henchman, Syn]
+[01/10/2022 08:58]  Sinjin: Sinjin
+[01/10/2022 08:58]  Garrett: Garrett the mage
+[01/10/2022 08:58]  Terrill: Terrill the cook
+[01/10/2022 08:58]  Raynor: Raynor the herbalist
+[01/10/2022 08:58]  Liadan: Liadan the scribe
+[01/10/2022 08:58]  Orvil Wakenbaker: Orvil Wakenbaker
+[01/10/2022 08:58]  Lixiviat: [***]
+[01/10/2022 08:58]  Lixiviat: Lixiviat
+[01/10/2022 08:58]  Brandy: Brandy the herbalist
+[01/10/2022 08:58]  Quespor: Quespor
+[01/10/2022 08:58]  Bentley: Bentley the scribe
+[01/10/2022 08:58]  Duncan: Duncan the mage
+[01/10/2022 08:58]  a prevalian marksman: a prevalian marksman
+[01/10/2022 08:58]  RedneckTame: [Beard Brother, BB]
+[01/10/2022 08:58]  RedneckTame: RedneckTame
+[01/10/2022 08:58]  EyeDeer: EyeDeer
+[01/10/2022 08:58]  shandy here: Explorer
+[01/10/2022 08:58]  shandy here: [Recruit, RED]
+[01/10/2022 08:58]  shandy here: shandy here
+[01/10/2022 08:58]  Papa Easy Smooth: [Shining Star, ***]
+[01/10/2022 08:58]  Papa Easy Smooth: Papa Easy Smooth
+[01/10/2022 08:58]  Aurilia: Aurilia
+[01/10/2022 08:58]  StantonS: [Member, LT]
+[01/10/2022 08:58]  StantonS: StantonS
+[01/10/2022 08:58]  Mortadelo: [Veteran, MR]
+[01/10/2022 08:58]  Mortadelo: Mortadelo
+[01/10/2022 08:58]  BlindEyes: [Blind and Kind, ***]
+[01/10/2022 08:58]  BlindEyes: BlindEyes
+[01/10/2022 08:58]  Packrat: Packrat
+[01/10/2022 08:58]  LuckyMouse: LuckyMouse
+[01/10/2022 08:58]  StantonN: [Member, LT]
+[01/10/2022 08:58]  StantonN: StantonN
+[01/10/2022 08:58]  HelpingHand: HelpingHand
+[01/10/2022 08:58]  Zasobovani: Zasobovani
+[01/10/2022 08:58]  StantonM: [Member, LT]
+[01/10/2022 08:58]  StantonM: StantonM
+[01/10/2022 08:58]  Rushh: [Recruit, RED]
+[01/10/2022 08:58]  Rushh: Rushh
+[01/10/2022 08:58]  Sivan: Sivan the stablemaster
+[01/10/2022 08:58]  Sukatai: Sukatai the animal wrangler
+[01/10/2022 08:58]  Sharral: [Recruit, AOG]
+[01/10/2022 08:58]  Sharral: Sharral
+[01/10/2022 08:58]  Wyxi: [Recruit, AOG]
+[01/10/2022 08:58]  Wyxi: Wyxi
+[01/10/2022 08:58]  a pack llama: (tame)
+[01/10/2022 08:58]  a pack llama: [0/2000 stones]
+[01/10/2022 08:58]  a pack llama: a pack llama
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  a cat: a cat
+[01/10/2022 08:58]  a cat: a cat
+[01/10/2022 08:58]  shandy here: Explorer
+[01/10/2022 08:58]  shandy here: [Recruit, RED]
+[01/10/2022 08:58]  shandy here: shandy here
+[01/10/2022 08:58]  HelpingHand: HelpingHand
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  Zasobovani: Zasobovani
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  Rushh: [Recruit, RED]
+[01/10/2022 08:58]  Rushh: Rushh
+[01/10/2022 08:58]  Doombledore: [Knight, NEW!]
+[01/10/2022 08:58]  Doombledore: Doombledore
+[01/10/2022 08:58]  Enubus: Enubus
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  a cat: a cat
+[01/10/2022 08:58]  a cat: a cat
+[01/10/2022 08:58]  a dog: a dog
+[01/10/2022 08:58]  Chris One: Chris One
+[01/10/2022 08:58]  Raynor: Hail adventurer! Do you wish to take a look at my wares?
+[01/10/2022 08:58]  Raynor: Raynor the herbalist
+[01/10/2022 08:58]  Raynor: Greetings.  Have a look around.
+[01/10/2022 08:58]  Chris Two: Chris Two
+[01/10/2022 08:58]  Garrett: Garrett the mage
+[01/10/2022 08:58]  Garrett: Greetings.  Have a look around.
+[01/10/2022 08:58]  Sivan: Sivan the stablemaster
+[01/10/2022 08:58]  Sukatai: Sukatai the animal wrangler
+[01/10/2022 08:58]  LoxDownNsHiftTy: LoxDownNsHiftTy
+[01/10/2022 08:58]  Gorak: Gorak
+[01/10/2022 08:58]  Risky Business: Risky Business
+[01/10/2022 08:58]  Tamma: Tamma the banker
+[01/10/2022 08:58]  Dead Zed: Dead Zed
+[01/10/2022 08:58]  James Cameron: James Cameron
+[01/10/2022 08:58]  a water elemental: (summoned)
+[01/10/2022 08:58]  a water elemental: a water elemental
+[01/10/2022 08:58]  Maria Aparecida: Maria Aparecida
+[01/10/2022 08:58]  Saturn Keeper: Saturn Keeper
+[01/10/2022 08:58]  Calendonia: Calendonia the banker
+[01/10/2022 08:58]  Mabaa: Monster Hunter Initiate
+[01/10/2022 08:58]  Mabaa: [LT]
+[01/10/2022 08:58]  Mabaa: Mabaa
+[01/10/2022 08:58]  a lich: (summoned)
+[01/10/2022 08:58]  a lich: a lich
+[01/10/2022 08:58]  a lich: (summoned)
+[01/10/2022 08:58]  a lich: a lich
+[01/10/2022 08:58]  Loxness Monster: Loxness Monster
+[01/10/2022 08:58]  an imp: (tame)
+[01/10/2022 08:58]  an imp: an imp
+[01/10/2022 08:58]  a colossal frog: (bonded)
+[01/10/2022 08:58]  a colossal frog: a colossal frog
+[01/10/2022 08:58]  a colossal frog: (bonded)
+[01/10/2022 08:58]  a colossal frog: a colossal frog
+[01/10/2022 08:58]  System: Opening door...
+[01/10/2022 08:58]  Azzeron: Legendary Scribe
+[01/10/2022 08:58]  Azzeron: [Veteran, DHK]
+[01/10/2022 08:58]  Azzeron: Azzeron
+[01/10/2022 08:58]  Fri Day: [Beastmaster, Yew]
+[01/10/2022 08:58]  Fri Day: Lord Fri Day
+[01/10/2022 08:58]  Sharral: [Recruit, AOG]
+[01/10/2022 08:58]  Sharral: Sharral
+[01/10/2022 08:58]  Lyte: Lyte
+[01/10/2022 08:58]  Maister Traveler: Maister Traveler
+[01/10/2022 08:58]  Mystic Flame: Mystic Flame
+[01/10/2022 08:58]  Wyxi: [Recruit, AOG]
+[01/10/2022 08:58]  Wyxi: Wyxi
+[01/10/2022 08:58]  a pack llama: (tame)
+[01/10/2022 08:58]  a pack llama: [0/2000 stones]
+[01/10/2022 08:58]  a pack llama: a pack llama
+[01/10/2022 08:58]  OneEyeBlind: [Star, ***]
+[01/10/2022 08:58]  OneEyeBlind: OneEyeBlind
+[01/10/2022 08:58]  Ingmar: Ingmar the banker
+[01/10/2022 08:58]  Neruskij: Neruskij
+[01/10/2022 08:58]  LuckyMouse: Kal Vas Xen An Flam [Water Elemental]
+[01/10/2022 08:58]  NKB Vendor Mall: [NKB Vendor Mall, NKB]
+[01/10/2022 08:58]  NKB Vendor Mall: NKB Vendor Mall
+[01/10/2022 08:58]  a cat: a cat
+[01/10/2022 08:58]  Alula: Alula the Necromancer
+[01/10/2022 08:58]  a book wyrm: a book wyrm
+[01/10/2022 08:58]  Rothschild Jones: Rothschild Jones
+[01/10/2022 08:58]  Aurelia: Aurelia the Town Crier
+[01/10/2022 08:58]  Count de Monet: bank
+[01/10/2022 08:58]  Count de Monet: Items: 11/125
+[01/10/2022 08:58]  Count de Monet: Total Weight: 535
+[01/10/2022 08:58]  a water elemental: (summoned)
+[01/10/2022 08:58]  a water elemental: a water elemental
+[01/10/2022 08:59]  You see: gold coin : 25330
+[01/10/2022 08:59]  OneEyeBlind: balance
+[01/10/2022 08:59]  Calendonia: Your gold balance is 9,199.
+[01/10/2022 08:59]  Count de Monet: You have hidden yourself well.
+[01/10/2022 08:59]  Razor: [+Hidden/Stealthing (0s)]
+[01/10/2022 08:59]  System: Hot Keys Disabled (Press F12 to enable)
+[01/10/2022 08:59]  Count de Monet: check 5000
+[01/10/2022 08:59]  Ingmar: I have placed a check in your bank box for the amount of 5,000
+[01/10/2022 08:59]  Razor: [-Hidden/Stealthing (s)]
+[01/10/2022 08:59]  You see: a bank check for
+[01/10/2022 08:59]  You see: (5,000 gold)
+[01/10/2022 08:59]  You see: [blessed]
+[01/10/2022 08:59]  Skitzee: Skitzee
+[01/10/2022 08:59]  a prevalian knight: a prevalian knight
+[01/10/2022 08:59]  Luisa: Luisa the Librarian
+[01/10/2022 08:59]  Khal El Dural: Khal El Dural
+[01/10/2022 08:59]  a pack horse: (tame)
+[01/10/2022 08:59]  a pack horse: [0/2000 stones]
+[01/10/2022 08:59]  a pack horse: a pack horse
+[01/10/2022 08:59]  a prevalian knight: a prevalian knight
+[01/10/2022 08:59]  a prevalian marksman: a prevalian marksman
+[01/10/2022 08:59]  A Simple Man: A Simple Man
+[01/10/2022 08:59]  a prevalian knight: a prevalian knight
+[01/10/2022 08:59]  Honest Hollis: Honest Hollis
+[01/10/2022 08:59]  a prevalian marksman: a prevalian marksman
+[01/10/2022 08:59]  Abnormal Fingers: Abnormal Fingers
+[01/10/2022 08:59]  MOPE MOPE: MOPE MOPE
+[01/10/2022 08:59]  NoEcho: [Protester, HR]
+[01/10/2022 08:59]  NoEcho: NoEcho
+[01/10/2022 08:59]  120 Carpentry Gear: 120 Carpentry Gear
+[01/10/2022 08:59]  MinerMaist: MinerMaist
+[01/10/2022 08:59]  Prevalia Coins!: Prevalia Coins!
+[01/10/2022 08:59]  ...: ...
+[01/10/2022 08:59]  ...: ...
+[01/10/2022 08:59]  Quivers: Quivers
+[01/10/2022 08:59]  120 Tailoring Gear: 120 Tailoring Gear
+[01/10/2022 08:59]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[01/10/2022 08:59]  Armour & Prev Coins: Armour & Prev Coins
+[01/10/2022 08:59]  Prev Coins & ID Wand: Prev Coins & ID Wand
+[01/10/2022 08:59]  Cheapest On Server: Cheapest On Server
+[01/10/2022 08:59]  ASHOTIC: ASHOTIC
+[01/10/2022 08:59]  Prev Coins in Stock!: Prev Coins in Stock!
+[01/10/2022 08:59]  Mutilates SS/Misc: Mutilates SS/Misc
+[01/10/2022 08:59]  MISCELLANEOUSS: MISCELLANEOUSS
+[01/10/2022 08:59]  PREVS: PREVS
+[01/10/2022 08:59]  MutilatesAspektKits: MutilatesAspektKits
+[01/10/2022 08:59]  Cores and more: Cores and more
+[01/10/2022 08:59]  Ahune Nathrak: Ahune Nathrak
+[01/10/2022 08:59]  **SHADOW FURN* 8/1: **SHADOW FURN* 8/1
+[01/10/2022 08:59]  System: You have left the protection of the town guards.
+[01/10/2022 08:59]  XTREME LOOT 9/1: XTREME LOOT 9/1
+[01/10/2022 08:59]  Gharol: Gharol
+[01/10/2022 08:59]  Deathjezter: Deathjezter
+[01/10/2022 08:59]  An Unnamed: An Unnamed
+[01/10/2022 08:59]  DIUDIU: DIUDIU
+[01/10/2022 08:59]  DD: DD
+[01/10/2022 08:59]  Xkz: Xkz
+[01/10/2022 08:59]  quick Knight: quick Knight
+[01/10/2022 08:59]  Boskoooo: Boskoooo
+[01/10/2022 08:59]  Mr Pestle: Mr Pestle
+[01/10/2022 08:59]  Tu Lenio Royale: [Recruit, NWO]
+[01/10/2022 08:59]  Tu Lenio Royale: Tu Lenio Royale
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  Occam of Vesper: [Recruit, NWO]
+[01/10/2022 08:59]  Occam of Vesper: Occam of Vesper
+[01/10/2022 08:59]  Opicka: Opicka
+[01/10/2022 08:59]  Artaxerxes I: Artaxerxes I
+[01/10/2022 08:59]  ZlySocks: ZlySocks
+[01/10/2022 08:59]  JoeSmoeSr: JoeSmoeSr
+[01/10/2022 08:59]  Elven Assassin: Versatile
+[01/10/2022 08:59]  Elven Assassin: Elven Assassin
+[01/10/2022 08:59]  GreynriT: GreynriT
+[01/10/2022 08:59]  Speedoverdose: Speedoverdose
+[01/10/2022 08:59]  arlwin: arlwin
+[01/10/2022 08:59]  future: future
+[01/10/2022 08:59]  Silky jorts: Silky jorts
+[01/10/2022 08:59]  a scarab: (tame)
+[01/10/2022 08:59]  a scarab: a scarab
+[01/10/2022 08:59]  a scarab: (tame)
+[01/10/2022 08:59]  a scarab: a scarab
+[01/10/2022 08:59]  Auladon: Auladon
+[01/10/2022 08:59]  mokis: mokis
+[01/10/2022 08:59]  Jacques Lumber: Jacques Lumber
+[01/10/2022 08:59]  Cailin MacNeill: Monster Hunter Initiate
+[01/10/2022 08:59]  Cailin MacNeill: Cailin MacNeill
+[01/10/2022 08:59]  Ms Fancy Dress: Ms Fancy Dress
+[01/10/2022 08:59]  Kim Possible: [Loyal, NKB]
+[01/10/2022 08:59]  Kim Possible: Kim Possible
+[01/10/2022 08:59]  RockemSockem: RockemSockem
+[01/10/2022 08:59]  a horse: (bonded)
+[01/10/2022 08:59]  a horse: a horse
+[01/10/2022 08:59]  Sibongile: Sibongile the battle trainer
+[01/10/2022 08:59]  JohnyFlack: JohnyFlack
+[01/10/2022 08:59]  Hoodrat Soleprop: Hoodrat Soleprop
+[01/10/2022 08:59]  Johan Hegg: Johan Hegg
+[01/10/2022 08:59]  Daloc: [Recruit, MR]
+[01/10/2022 08:59]  Daloc: Daloc
+[01/10/2022 08:59]  Tea's Scam Vendor: Tea's Scam Vendor
+[01/10/2022 08:59]  alegend: alegend
+[01/10/2022 08:59]  COMMODITIES 12-15: COMMODITIES 12-15
+[01/10/2022 08:59]  Corner Market: Corner Market
+[01/10/2022 08:59]  12-23 NEW GOODS: 12-23 NEW GOODS
+[01/10/2022 08:59]  TMAPS-ESSENCE-MATTS: TMAPS-ESSENCE-MATTS
+[01/10/2022 08:59]  Prev Coins!!: Prev Coins!!
+[01/10/2022 08:59]  Storage Shelves: Storage Shelves
+[01/10/2022 08:59]  VasRelPor: VasRelPor
+[01/10/2022 08:59]  Golden Bear Mall: Golden Bear Mall
+[01/10/2022 08:59]  System: You are now under the protection of the town guards.
+[01/10/2022 08:59]  Don Slayote's Wares: Don Slayote's Wares
+[01/10/2022 08:59]  Amish Hammer's Shop: Amish Hammer's Shop
+[01/10/2022 08:59]  Cores/Extracts/SS: Cores/Extracts/SS
+[01/10/2022 08:59]  INGOTS and LOOT: INGOTS and LOOT
+[01/10/2022 08:59]  Slayote's Wife: Slayote's Wife
+[01/10/2022 08:59]  AIR AND POISON BIG: AIR AND POISON BIG
+[01/10/2022 08:59]  AvarVal Weps IRON: AvarVal Weps IRON
+[01/10/2022 08:59]  not the face: not the face
+[01/10/2022 08:59]  System: Being perfectly rested, you shove them out of the way.
+[01/10/2022 08:59]  Cores and more: Cores and more
+[01/10/2022 08:59]  Smithy Shop: Smithy Shop
+[01/10/2022 08:59]  Swami: Monster Hunter Initiate
+[01/10/2022 08:59]  Swami: [Foxtrot Team, NKB]
+[01/10/2022 08:59]  Swami: Swami
+[01/10/2022 08:59]  a cave bear: *enraged*
+[01/10/2022 08:59]  a cave bear: *enraged*
+[01/10/2022 08:59]  Razor: [+Hidden/Stealthing (0s)]
+[01/10/2022 08:59]  Darthmier: [Wanderer, CFC]
+[01/10/2022 08:59]  Darthmier: Darthmier
+[01/10/2022 08:59]  Dirt Mc.Girt: [1CE]
+[01/10/2022 08:59]  Dirt Mc.Girt: Dirt Mc.Girt
+[01/10/2022 08:59]  Palikka: Palikka
+[01/10/2022 08:59]  MI KAN: Wilderness Guardian
+[01/10/2022 08:59]  MI KAN: [Private, CJP]
+[01/10/2022 08:59]  MI KAN: Lady MI KAN
+[01/10/2022 08:59]  a prevalian mage: Legendary Scribe
+[01/10/2022 08:59]  a prevalian mage: [Official Gater, KHAL]
+[01/10/2022 08:59]  a prevalian mage: a prevalian mage
+[01/10/2022 08:59]  Muro Hasegawa: [TCTF]
+[01/10/2022 08:59]  Muro Hasegawa: Muro Hasegawa
+[01/10/2022 08:59]  Kiplet: [Constellation, ***]
+[01/10/2022 08:59]  Kiplet: Kiplet
+[01/10/2022 08:59]  KrishScribe: [Officer, 1CE]
+[01/10/2022 08:59]  KrishScribe: KrishScribe
+[01/10/2022 08:59]  Carol: Carol the miner
+[01/10/2022 08:59]  mps: (bonded)
+[01/10/2022 08:59]  mps: mps
+[01/10/2022 08:59]  mps: (bonded)
+[01/10/2022 08:59]  mps: mps
+[01/10/2022 08:59]  d: (bonded)
+[01/10/2022 08:59]  d: d
+[01/10/2022 08:59]  Theo Verman: Theo Verman
+[01/10/2022 08:59]  The Vendor Bot: The Vendor Bot
+[01/10/2022 08:59]  NKB Guild Shop: [Rookie, NKB]
+[01/10/2022 08:59]  NKB Guild Shop: NKB Guild Shop
+[01/10/2022 08:59]  Harlow: [Officer, Path]
+[01/10/2022 08:59]  Harlow: Lord Harlow
+[01/10/2022 08:59]  moldy biscuits: moldy biscuits
+[01/10/2022 08:59]  cheap vendors: [Rookie, NKB]
+[01/10/2022 08:59]  cheap vendors: cheap vendors
+[01/10/2022 08:59]  Brentan: Brentan the miner
+[01/10/2022 08:59]  JamaPackLama: (tame)
+[01/10/2022 08:59]  JamaPackLama: [86/2000 stones]
+[01/10/2022 08:59]  JamaPackLama: JamaPackLama
+[01/10/2022 08:59]  a horse: (tame)
+[01/10/2022 08:59]  a horse: a horse
+[01/10/2022 08:59]  Aryna: [SQzD]
+[01/10/2022 08:59]  Aryna: Aryna
+[01/10/2022 08:59]  Booky Boos: [Precious Baby Snowflake, DTF]
+[01/10/2022 08:59]  Booky Boos: Lord Booky Boos
+[01/10/2022 08:59]  Madrid: [SOF]
+[01/10/2022 08:59]  Madrid: Lord Madrid
+[01/10/2022 08:59]  Ace Venturaa: Lifetime Guild
+[01/10/2022 08:59]  Ace Venturaa: [Veteran, -_-]
+[01/10/2022 08:59]  Ace Venturaa: Ace Venturaa
+[01/10/2022 08:59]  moldy biscuits: + BEACHSIDE SURF SHOP + Gnarly waves and sales!
+[01/10/2022 08:59]  cheap vendors: Various Wares For Your Various Adventures!
+[01/10/2022 08:59]  Arthur Vandelay: Arthur Vandelay
+[01/10/2022 08:59]  The Elf: The Elf
+[01/10/2022 08:59]  Green Lee: [Private, RED]
+[01/10/2022 08:59]  Green Lee: Green Lee
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  S: (bonded)
+[01/10/2022 08:59]  S: S
+[01/10/2022 08:59]  a cave bear: (bonded)
+[01/10/2022 08:59]  a cave bear: a cave bear
+[01/10/2022 08:59]  Candy Shop: [Recruit, LDS]
+[01/10/2022 08:59]  Candy Shop: Candy Shop
+[01/10/2022 08:59]  Snow Gate: [Recruit, LDS]
+[01/10/2022 08:59]  Snow Gate: Snow Gate
+[01/10/2022 08:59]  Mu'ghathu: Legendary Tailor
+[01/10/2022 08:59]  Mu'ghathu: [Thogga, Warg]
+[01/10/2022 08:59]  Mu'ghathu: Mu'ghathu
+[01/10/2022 08:59]  Corp Por: Corp Por
+[01/10/2022 08:59]  Typhiod Minni: Backstabber
+[01/10/2022 08:59]  Typhiod Minni: Typhiod Minni
+[01/10/2022 08:59]  DarkBloodTR: [Member, Mucx]
+[01/10/2022 08:59]  DarkBloodTR: DarkBloodTR
+[01/10/2022 08:59]  Rocinante: Rocinante
+[01/10/2022 08:59]  Buffalo Bill: Captain
+[01/10/2022 08:59]  Buffalo Bill: [Trash Guild, G.G]
+[01/10/2022 08:59]  Buffalo Bill: Buffalo Bill
+[01/10/2022 08:59]  Kanesada: Kanesada
+[01/10/2022 08:59]  Y: (bonded)
+[01/10/2022 08:59]  Y: Y
+[01/10/2022 08:59]  a drake whelp: (bonded)
+[01/10/2022 08:59]  a drake whelp: a drake whelp
+[01/10/2022 08:59]  X: (bonded)
+[01/10/2022 08:59]  X: X
+[01/10/2022 08:59]  Gong: Legendary Wilderness Guardian
+[01/10/2022 08:59]  Gong: [xBu]
+[01/10/2022 08:59]  Gong: Gong
+[01/10/2022 08:59]  Walmart Greeter: Walmart Greeter
+[01/10/2022 08:59]  b: (bonded)
+[01/10/2022 08:59]  b: b
+[01/10/2022 08:59]  a: (bonded)
+[01/10/2022 08:59]  a: a
+[01/10/2022 08:59]  a pack horse: (tame)
+[01/10/2022 08:59]  a pack horse: [6/2000 stones]
+[01/10/2022 08:59]  a pack horse: a pack horse
+[01/10/2022 08:59]  Barde: Wilderness Guardian
+[01/10/2022 08:59]  Barde: [Guild Master Of The ABC, ABC]
+[01/10/2022 08:59]  Barde: Barde
+[01/10/2022 08:59]  Miguxo: Miguxo
+[01/10/2022 08:59]  Cartesian: [Crusader, C-C]
+[01/10/2022 08:59]  Cartesian: Cartesian
+[01/10/2022 08:59]  Medicated: [SOF]
+[01/10/2022 08:59]  Medicated: Medicated
+[01/10/2022 08:59]  Gaven Dragbane: [Acolyte of Night, Vile]
+[01/10/2022 08:59]  Gaven Dragbane: Gaven Dragbane
+[01/10/2022 08:59]  Donsuz Fikret: Donsuz Fikret (Young)
+[01/10/2022 08:59]  Ahune Nathrak: Ahune Nathrak
+[01/10/2022 08:59]  Requies: Legendary Connoisseur
+[01/10/2022 08:59]  Requies: [TRT]
+[01/10/2022 08:59]  Requies: Requies
+[01/10/2022 08:59]  Murpyduck: Murpyduck
+[01/10/2022 08:59]  Floki TK: [Hello, PEC]
+[01/10/2022 08:59]  Floki TK: Floki TK
+[01/10/2022 08:59]  Klaus: [Executioner, BB]
+[01/10/2022 08:59]  Klaus: Klaus
+[01/10/2022 08:59]  Tale: Tale
+[01/10/2022 08:59]  Go east lawl: Go east lawl
+[01/10/2022 08:59]  The Union: [TRT]
+[01/10/2022 08:59]  The Union: The Union
+[01/10/2022 08:59]  Jennifer: Jennifer the ranger
+[01/10/2022 08:59]  Sbabam: Legendary Engineer
+[01/10/2022 08:59]  Sbabam: Sbabam
+[01/10/2022 08:59]  a stranger.: [TRT]
+[01/10/2022 08:59]  a stranger.: a stranger.
+[01/10/2022 08:59]  Lamia: Wilderness Guardian
+[01/10/2022 08:59]  Lamia: [Wolf Pack, -_-]
+[01/10/2022 08:59]  Lamia: Lamia
+[01/10/2022 08:59]  Fenn: Fenn
+[01/10/2022 08:59]  a loot scavenger: a loot scavenger
+[01/10/2022 08:59]  ZeRaTank: (bonded)
+[01/10/2022 08:59]  ZeRaTank: ZeRaTank
+[01/10/2022 08:59]  CorruptedNHorny: (bonded)
+[01/10/2022 08:59]  CorruptedNHorny: CorruptedNHorny
+[01/10/2022 08:59]  ExtremeCooling: (bonded)
+[01/10/2022 08:59]  ExtremeCooling: ExtremeCooling
+[01/10/2022 08:59]  ZeRa: Legend of Aspects
+[01/10/2022 08:59]  ZeRa: [Does some damage, -_-]
+[01/10/2022 08:59]  ZeRa: Lord ZeRa
+[01/10/2022 08:59]  Picks: Summoner
+[01/10/2022 08:59]  Picks: Picks
+[01/10/2022 08:59]  Corp Por: 10/30 Open Spots
+[01/10/2022 08:59]  Snow Gate: *New Vendors* 19k bulk regs, Tmaps, Aspect cores/extracts and much more!
+[01/10/2022 08:59]  Requies: Vas Rel Por [Gate Travel]
+[01/10/2022 08:59]  Madrid: Vas Rel Por [Gate Travel]
+[01/10/2022 08:59]  Razor: [-Hidden/Stealthing (s)]
+[01/10/2022 08:59]  NKB Guild Shop: Gating to NKB Guild Mall #2
+[01/10/2022 08:59]  Wanda: Wanda the blacksmith
+[01/10/2022 08:59]  Theo Verman: Vas Rel Por [Gate Travel]
+[01/10/2022 08:59]  Requies: *** Gating to the Cloak and Dagger Inn *** Vendor spots - 10k per week!
+[01/10/2022 08:59]  Cartesian: Vas Rel Por [Gate Travel]
+[01/10/2022 08:59]  Corp Por: Corp Por
+[01/10/2022 08:59]  Crystal: Crystal the tinker
+[01/10/2022 08:59]  Selina: Selina the jeweler
+[01/10/2022 08:59]  Tenko: Tenko
+[01/10/2022 08:59]  Subrey: Subrey the provisioner
+[01/10/2022 08:59]  Ardith: Ardith the tailor
+[01/10/2022 08:59]  Saxon: Saxon the lumberjack
+[01/10/2022 08:59]  b: (bonded)
+[01/10/2022 08:59]  b: b
+[01/10/2022 08:59]  a: (bonded)
+[01/10/2022 08:59]  a: a
+[01/10/2022 08:59]  a pack horse: (tame)
+[01/10/2022 08:59]  a pack horse: [6/2000 stones]
+[01/10/2022 08:59]  a pack horse: a pack horse
+[01/10/2022 08:59]  Barde: Wilderness Guardian
+[01/10/2022 08:59]  Barde: [Guild Master Of The ABC, ABC]
+[01/10/2022 08:59]  Barde: Barde
+[01/10/2022 08:59]  Cartesian: [Crusader, C-C]
+[01/10/2022 08:59]  Cartesian: Cartesian
+[01/10/2022 08:59]  Subrey: Subrey the provisioner
+[01/10/2022 08:59]  Miguxo: Miguxo
+[01/10/2022 08:59]  a horse: (tame)
+[01/10/2022 08:59]  a horse: a horse
+[01/10/2022 08:59]  Aryna: [SQzD]
+[01/10/2022 08:59]  Aryna: Aryna
+[01/10/2022 08:59]  Booky Boos: [Precious Baby Snowflake, DTF]
+[01/10/2022 08:59]  Booky Boos: Lord Booky Boos
+[01/10/2022 08:59]  a magpie: a magpie
+[01/10/2022 08:59]  a cuckoo: a cuckoo
+[01/10/2022 08:59]  a raven: a raven
+[01/10/2022 08:59]  Bilal: Bilal the blacksmith
+[01/10/2022 08:59]  Jakeuiez: Jakeuiez
+[01/10/2022 08:59]  Chane: Chane the carpenter
+[01/10/2022 08:59]  Amadis: Amadis the armorer
+[01/10/2022 08:59]  Komor: Komor the tanner
+[01/10/2022 08:59]  Kamali: Kamali the butcher
+[01/10/2022 08:59]  Meg: Meg the bowyer
+[01/10/2022 08:59]  Wijdan: Wijdan the mapmaker
+[01/10/2022 09:00]  Rabbi Tuckman: Rabbi Tuckman (Young)
+[01/10/2022 09:00]  MusicalTooky's: MusicalTooky's
+[01/10/2022 09:00]  Mastro Geppetto: Mastro Geppetto
+[01/10/2022 09:00]  Colon: Colon the Town Crier
+[01/10/2022 09:00]  Alicia: Alicia the tavern keeper
+[01/10/2022 09:00]  Jake: Jake the barkeep
+[01/10/2022 09:00]  Len: Len the banker
+[01/10/2022 09:00]  Ayisha: Ayisha the weaponsmith
+[01/10/2022 09:00]  a sheep: a sheep
+[01/10/2022 09:00]  Chane: Chane the carpenter
+[01/10/2022 09:00]  a sheep: a sheep
+[01/10/2022 09:00]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:00]  Rabbi Tuckman: bank
+[01/10/2022 09:01]  a sheep: a sheep
+[01/10/2022 09:01]  System: [DF] A Dungeon Flashpoint for Ossuary has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[01/10/2022 09:01]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:01]  Rabbi Tuckman: Rabbi Tuckman (Young)
+[01/10/2022 09:01]  Chane: Chane the carpenter
+[01/10/2022 09:01]  a sheep: a sheep
+[01/10/2022 09:01]  System: FisherZOMBI has completed the achievement: Mariner (Basic).
+[01/10/2022 09:02]  System: Aliester Crowley has completed the achievement: Summoning (Advanced).
+[01/10/2022 09:02]  a sheep: a sheep
+[01/10/2022 09:02]  Quivalen Soth: Quivalen Soth
+[01/10/2022 09:02]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:02]  Simcoe Hye: Legend of Ossuary
+[01/10/2022 09:02]  Simcoe Hye: [Pathfinder, Path]
+[01/10/2022 09:02]  Simcoe Hye: Simcoe Hye
+[01/10/2022 09:02]  Quivalen Soth: Quivalen Soth
+[01/10/2022 09:02]  Simcoe Hye: Legend of Ossuary
+[01/10/2022 09:02]  Simcoe Hye: [Pathfinder, Path]
+[01/10/2022 09:02]  Simcoe Hye: Simcoe Hye
+[01/10/2022 09:03]  Quivalen Soth: Quivalen Soth
+[01/10/2022 09:03]  Quivalen Soth: Quivalen Soth
+[01/10/2022 09:03]  System: Telyne has completed the achievement: Maester (Basic).
+[01/10/2022 09:03]  a sheep: a sheep
+[01/10/2022 09:03]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:03]  a sheep: a sheep
+[01/10/2022 09:04]  a sheep: a sheep
+[01/10/2022 09:04]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:05]  Blood Magic: Blood Magic (Young)
+[01/10/2022 09:05]  Simcoe Hye: Legend of Ossuary
+[01/10/2022 09:05]  Simcoe Hye: [Pathfinder, Path]
+[01/10/2022 09:05]  Simcoe Hye: Simcoe Hye
+[01/10/2022 09:05]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:05]  a sheep: a sheep
+[01/10/2022 09:06]  System: Zasranka has completed the achievement: Connoisseur (Basic).
+[01/10/2022 09:06]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:06]  Chane: Chane the carpenter
+[01/10/2022 09:06]  Kindalhart: Kindalhart
+[01/10/2022 09:06]  Kindalhart: Kindalhart
+[01/10/2022 09:06]  a sheep: a sheep
+[01/10/2022 09:07]  a sheep: a sheep
+[01/10/2022 09:07]  Blood Magic: Blood Magic (Young)
+[01/10/2022 09:07]  a sheep: a sheep
+[01/10/2022 09:07]  cnzw: cnzw
+[01/10/2022 09:07]  a sheep: a sheep
+[01/10/2022 09:07]  Colon: A new Raffle is now available, for a Prime Piece of Real Estate!  Enter to win a Cambrian Moongate house!  Tickets are 1000gp from Sotheby at Prevalia Town Square.  Raffle ends Feb 5.
+[01/10/2022 09:07]  cnzw: cnzw
+[01/10/2022 09:07]  cnzw: cnzw
+[01/10/2022 09:07]  Chane: Chane the carpenter
+[01/10/2022 09:07]  Strifeee: [Henchman, Syn]
+[01/10/2022 09:07]  Strifeee: Strifeee
+[01/10/2022 09:07]  a sheep: a sheep
+[01/10/2022 09:07]  Count de Monet: Kal Ort Por [Recall]
+[01/10/2022 09:07]  Strifeee: bank
+[01/10/2022 09:07]  Len: Alas, my goods and services are only available to those with young player status.
+[01/10/2022 09:08]  System: You have left the protection of the town guards.
+[01/10/2022 09:08]  a crow: a crow
+[01/10/2022 09:08]  a great hart: a great hart
+[01/10/2022 09:08]  System: Opening door...
+[01/10/2022 09:08]  System: Your house and its contents have been refreshed. 29 days 1 hour 53 minutes remaining until owner refresh required.
+[01/10/2022 09:08]  You see: wooden door
+[01/10/2022 09:08]  a horse: (tame)
+[01/10/2022 09:08]  a horse: a horse

@@ -1,0 +1,777 @@
+[01/14/2022 13:34]  System: WorldMap loading...
+[01/14/2022 13:34]  System: Loading WorldMap markers..
+[01/14/2022 13:34]  System: ..Banks_and_Healers.xml (20)
+[01/14/2022 13:34]  System: ..Dungeons.xml (12)
+[01/14/2022 13:34]  System: ..Dungeon_Gates.xml (335)
+[01/14/2022 13:34]  System: ..Healer_Caravans.xml (32)
+[01/14/2022 13:34]  System: ..Moongates.xml (9)
+[01/14/2022 13:34]  System: ..POI.xml (176)
+[01/14/2022 13:34]  System: ..Shrines.xml (9)
+[01/14/2022 13:34]  System: ..Subterranean.xml (6)
+[01/14/2022 13:34]  System: ..Townships.xml (9)
+[01/14/2022 13:34]  System: WorldMap markers loaded (608)
+[01/14/2022 13:34]  System: Welcome Wulf of Wyrd!
+[01/14/2022 13:34]  Razor: [- (s)]
+[01/14/2022 13:34]  Razor: [+Hidden/Stealthing (0s)]
+[01/14/2022 13:34]  Razor: [- (s)]
+[01/14/2022 13:34]  Razor: [+Reactive Armor (0s)]
+[01/14/2022 13:34]  Razor: [- (s)]
+[01/14/2022 13:34]  Razor: [+Magic Reflection (0s)]
+[01/14/2022 13:34]  System: You must wait to perform another action.
+[01/14/2022 13:34]  System: Finished 3 queued actions in 1.2 seconds.
+[01/14/2022 13:34]  System: WorldMap loaded!
+[01/14/2022 13:34]  Razor: [-Hidden/Stealthing (s)]
+[01/14/2022 13:34]  Wulf of Wyrd: The food is paltry and is barely satisfying.
+[01/14/2022 13:34]  System: You are still slightly hungry.
+[01/14/2022 13:34]  Razor: [+Food Satisfaction (3600s)]
+[01/14/2022 13:34]  Wulf of Wyrd: The food is paltry and is barely satisfying.
+[01/14/2022 13:34]  System: You are somewhat full.
+[01/14/2022 13:34]  Razor: [-Food Satisfaction (s)]
+[01/14/2022 13:34]  Razor: [+Food Satisfaction (3600s)]
+[01/14/2022 13:35]  System: Your campfire is now secure.
+[01/14/2022 13:35]  System: You feel rested and comforted by the camp. (+25.0% damage to creatures and +10.0% damage to players).
+[01/14/2022 13:35]  Razor: [+Campfire Visit (10800s)]
+[01/14/2022 13:35]  System: Calamitous Chiki has completed the achievement: Beastmaster (Master).
+[01/14/2022 13:35]  System: Elmet has completed the achievement: Triggered (Basic).
+[01/14/2022 13:36]  System: You begin hiking to your destination.
+[01/14/2022 13:36]  Wulf of Wyrd: *hiking to destination*
+[01/14/2022 13:36]  Razor: [+Paralyze (4s)]
+[01/14/2022 13:36]  Razor: [-Paralyze (s)]
+[01/14/2022 13:36]  Razor: [+Paralyze (3s)]
+[01/14/2022 13:36]  Wulf of Wyrd: *hiking to destination*
+[01/14/2022 13:36]  Razor: [-Paralyze (s)]
+[01/14/2022 13:36]  Razor: [+Paralyze (2s)]
+[01/14/2022 13:36]  Razor: [-Paralyze (s)]
+[01/14/2022 13:36]  Razor: [+Paralyze (1s)]
+[01/14/2022 13:36]  Wulf of Wyrd: *hiking to destination*
+[01/14/2022 13:36]  Razor: [-Paralyze (s)]
+[01/14/2022 13:36]  Razor: [+Paralyze (0s)]
+[01/14/2022 13:36]  System: You are no longer hindered.
+[01/14/2022 13:36]  Razor: [-Paralyze (s)]
+[01/14/2022 13:36]  System: You are now under the protection of the town guards.
+[01/14/2022 13:36]  System: You hike to your destination.
+[01/14/2022 13:36]  Wulf of Wyrd: *You have arrived at your destination*
+[01/14/2022 13:36]  Zedic: Zedic
+[01/14/2022 13:36]  DarharI: DarharI (Young)
+[01/14/2022 13:36]  Sherwin: Sherwin the mage
+[01/14/2022 13:36]  Zara: Zara the scribe
+[01/14/2022 13:36]  Woody: Woody the alchemist
+[01/14/2022 13:36]  Kool Keith: Kool Keith (Young)
+[01/14/2022 13:36]  Rukwar: [Squire, C-C]
+[01/14/2022 13:36]  Rukwar: Rukwar
+[01/14/2022 13:36]  Einar Skald: Einar Skald (Young)
+[01/14/2022 13:36]  TheWeedZard: TheWeedZard (Young)
+[01/14/2022 13:36]  a pack horse: (tame)
+[01/14/2022 13:36]  a pack horse: [0/2000 stones]
+[01/14/2022 13:36]  a pack horse: a pack horse
+[01/14/2022 13:36]  Beach Bum: Beach Bum (Young)
+[01/14/2022 13:36]  Pendajo: Pendajo (Young)
+[01/14/2022 13:36]  Magnar: [Alpha Team, NKB]
+[01/14/2022 13:36]  Magnar: Magnar
+[01/14/2022 13:36]  Elektra.: Elektra. (Young)
+[01/14/2022 13:36]  Avis: Avis the battle trainer
+[01/14/2022 13:36]  Helenah: Helenah (Young)
+[01/14/2022 13:36]  Kalderon: Kalderon
+[01/14/2022 13:36]  Kenelm: Kenelm the tavern keeper
+[01/14/2022 13:36]  Yvella: Yvella the fisherman
+[01/14/2022 13:36]  Rosaline: Rosaline the waiter
+[01/14/2022 13:36]  Jordan: Jordan the beggar
+[01/14/2022 13:36]  Carlton: Carlton the stablemaster
+[01/14/2022 13:36]  The Sentinel: The Sentinel (Young)
+[01/14/2022 13:36]  Haywood: Triggered
+[01/14/2022 13:36]  Haywood: [Charlie Team Warden, NKB]
+[01/14/2022 13:36]  Haywood: Haywood
+[01/14/2022 13:36]  Nadia Eldhwen: Nadia Eldhwen
+[01/14/2022 13:36]  Valorix: Valorix (Young)
+[01/14/2022 13:36]  Jayne: Jayne the innkeeper
+[01/14/2022 13:36]  a colossal frog: (tame)
+[01/14/2022 13:36]  a colossal frog: a colossal frog
+[01/14/2022 13:36]  a colossal frog: (tame)
+[01/14/2022 13:36]  a colossal frog: a colossal frog
+[01/14/2022 13:36]  The Sentinel: The Sentinel (Young)
+[01/14/2022 13:36]  Nemmeh: Nemmeh
+[01/14/2022 13:36]  Tadi: Tadi the thief
+[01/14/2022 13:36]  Marti: Marti the healer
+[01/14/2022 13:36]  Boefaxmyth: Boefaxmyth (Young)
+[01/14/2022 13:36]  Dusty: Dusty the cook
+[01/14/2022 13:36]  The Sentinel: The Sentinel (Young)
+[01/14/2022 13:36]  Salvage Inc: Salvage Inc (Young)
+[01/14/2022 13:36]  a colossal frog: (tame)
+[01/14/2022 13:36]  a colossal frog: a colossal frog
+[01/14/2022 13:36]  frogess: (tame)
+[01/14/2022 13:36]  frogess: frogess
+[01/14/2022 13:36]  Nelrach Cinder: Nelrach Cinder (Young)
+[01/14/2022 13:36]  Juke: Juke (Young)
+[01/14/2022 13:36]  Austin Shagwell: Austin Shagwell (Young)
+[01/14/2022 13:36]  a pack llama: (tame)
+[01/14/2022 13:36]  a pack llama: [1547/2000 stones]
+[01/14/2022 13:36]  a pack llama: a pack llama
+[01/14/2022 13:36]  a sand crab: (bonded)
+[01/14/2022 13:36]  a sand crab: a sand crab
+[01/14/2022 13:36]  a sand crab: (bonded)
+[01/14/2022 13:36]  a sand crab: a sand crab
+[01/14/2022 13:36]  a giant swamp slug: (bonded)
+[01/14/2022 13:36]  a giant swamp slug: a giant swamp slug
+[01/14/2022 13:36]  a giant spider: (bonded)
+[01/14/2022 13:36]  a giant spider: a giant spider
+[01/14/2022 13:36]  snotrun: snotrun
+[01/14/2022 13:36]  Byron: Byron the guard
+[01/14/2022 13:36]  Amazon Canada: Amazon Canada
+[01/14/2022 13:36]  Rysn: Rysn (Young)
+[01/14/2022 13:36]  Cthuga: Cthuga
+[01/14/2022 13:36]  Cthuga: Cthuga
+[01/14/2022 13:36]  Fattilac: [Prospect, hood]
+[01/14/2022 13:36]  Fattilac: Fattilac
+[01/14/2022 13:36]  System: You have left the protection of the town guards.
+[01/14/2022 13:36]  Wulf of Wyrd: Your mount finds a quiet place to rest safely.
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a giant bat corpse
+[01/14/2022 13:36]  You see: a giant bat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a rotting corpse
+[01/14/2022 13:36]  a harpy: a harpy
+[01/14/2022 13:36]  iGate: iGate (Young)
+[01/14/2022 13:36]  brown acid: brown acid
+[01/14/2022 13:36]  Jon Matrix: Jon Matrix (Young)
+[01/14/2022 13:36]  Cthuga: Cthuga
+[01/14/2022 13:36]  a zombie: a zombie
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  a mongbat: a mongbat
+[01/14/2022 13:36]  a giant rat: a giant rat
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  System: You are currently prevented from performing criminal looting actions.
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a rotting corpse
+[01/14/2022 13:36]  You see: a rotting corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  You see: a rotting corpse
+[01/14/2022 13:36]  a zombie: a zombie
+[01/14/2022 13:36]  You see: a mongbat corpse
+[01/14/2022 13:36]  a headless: a headless
+[01/14/2022 13:36]  System: That is too far away.
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  a skeleton: a skeleton
+[01/14/2022 13:36]  a skeleton: a skeleton
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  System: You may not loot this corpse.
+[01/14/2022 13:36]  a giant frog: a giant frog
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  a giant frog: a giant frog
+[01/14/2022 13:36]  You see: an orc corpse
+[01/14/2022 13:36]  System: Opening door...
+[01/14/2022 13:36]  You see: a giant frog corpse
+[01/14/2022 13:36]  a colossal frog: a colossal frog
+[01/14/2022 13:36]  You see: a colossal frog corpse
+[01/14/2022 13:36]  a giant frog: (tame)
+[01/14/2022 13:36]  a giant frog: a giant frog
+[01/14/2022 13:36]  System: You are currently prevented from performing criminal looting actions.
+[01/14/2022 13:36]  FearlessSheperd: FearlessSheperd (Young)
+[01/14/2022 13:36]  a giant frog: (tame)
+[01/14/2022 13:36]  a giant frog: a giant frog
+[01/14/2022 13:36]  a wolf: (tame)
+[01/14/2022 13:36]  a wolf: a wolf
+[01/14/2022 13:36]  a giant frog: (tame)
+[01/14/2022 13:36]  a giant frog: a giant frog
+[01/14/2022 13:36]  a giant frog: (tame)
+[01/14/2022 13:36]  a giant frog: a giant frog
+[01/14/2022 13:36]  You see: a ghoul corpse
+[01/14/2022 13:36]  You see: a skeletal archer corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a ghoul corpse
+[01/14/2022 13:36]  a skeleton: a skeleton
+[01/14/2022 13:36]  a ghoul: a ghoul
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  a skeleton: a skeleton
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a headless corpse
+[01/14/2022 13:36]  System: That is too far away.
+[01/14/2022 13:36]  You see: a skeletal archer corpse
+[01/14/2022 13:36]  System: Opening door... [2]
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: the remains of Leatherface-
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  You see: a giant rat corpse
+[01/14/2022 13:36]  You see: a ghoul corpse
+[01/14/2022 13:36]  System: That is too far away.
+[01/14/2022 13:36]  System: You are currently prevented from performing criminal looting actions. [3]
+[01/14/2022 13:36]  You see: a skeletal corpse
+[01/14/2022 13:36]  a skeleton: a skeleton
+[01/14/2022 13:36]  System: That is too far away.
+[01/14/2022 13:36]  You see: a troll corpse
+[01/14/2022 13:36]  You see: a necromancer corpse
+[01/14/2022 13:36]  You see: a troll corpse
+[01/14/2022 13:36]  a troll: a troll
+[01/14/2022 13:36]  System: That is too far away.
+[01/14/2022 13:36]  System: You are currently prevented from performing criminal looting actions. [2]
+[01/14/2022 13:36]  a skeleton: a skeleton
+[01/14/2022 13:37]  no G in Muddin: [Ratman Chicki, RAT]
+[01/14/2022 13:37]  no G in Muddin: no G in Muddin
+[01/14/2022 13:37]  a corpse eater: a corpse eater
+[01/14/2022 13:37]  Wulf of Wyrd: -17
+[01/14/2022 13:37]  Razor: [-Reactive Armor (s)]
+[01/14/2022 13:37]  Razor: [+Reactive Armor (0s)]
+[01/14/2022 13:37]  System: That is too far away.
+[01/14/2022 13:37]  You see: an ettin corpse
+[01/14/2022 13:37]  an ettin: an ettin
+[01/14/2022 13:37]  System: That is too far away.
+[01/14/2022 13:37]  You see: a corpse eater corpse
+[01/14/2022 13:37]  Wulf of Wyrd: -7
+[01/14/2022 13:37]  System: You have contracted a foul disease!
+[01/14/2022 13:37]  Wulf of Wyrd: *looks violently ill*
+[01/14/2022 13:37]  Razor: [-Reactive Armor (s)]
+[01/14/2022 13:37]  Razor: [+Reactive Armor (0s)]
+[01/14/2022 13:37]  Razor: [+Diseased (30s)]
+[01/14/2022 13:37]  a cave bear: (tame)
+[01/14/2022 13:37]  a cave bear: a cave bear
+[01/14/2022 13:37]  a troll: a troll
+[01/14/2022 13:37]  You see: a troll corpse
+[01/14/2022 13:37]  You see: a drake corpse
+[01/14/2022 13:37]  Wulf of Wyrd: -6
+[01/14/2022 13:37]  an ettin: an ettin
+[01/14/2022 13:37]  You see: a troll corpse
+[01/14/2022 13:37]  a wolf: a wolf
+[01/14/2022 13:37]  You see: an ettin corpse
+[01/14/2022 13:37]  a cave bear: a cave bear
+[01/14/2022 13:37]  a corpse eater: a corpse eater
+[01/14/2022 13:37]  an ettin: an ettin
+[01/14/2022 13:37]  Wulf of Wyrd: -6
+[01/14/2022 13:37]  an ettin: an ettin
+[01/14/2022 13:37]  You see: an ogre corpse
+[01/14/2022 13:37]  You see: an ettin corpse
+[01/14/2022 13:37]  an ogre: an ogre
+[01/14/2022 13:37]  Wulf of Wyrd: -6
+[01/14/2022 13:37]  Wulf of Wyrd: Kal Vas Xen Ylem [Earth Elemental]
+[01/14/2022 13:37]  Wulf of Wyrd: -6
+[01/14/2022 13:37]  an earth elemental: (summoned 10m)
+[01/14/2022 13:37]  an earth elemental: an earth elemental
+[01/14/2022 13:37]  Wulf of Wyrd: -15
+[01/14/2022 13:37]  Razor: [-Reactive Armor (s)]
+[01/14/2022 13:37]  Razor: [+Reactive Armor (0s)]
+[01/14/2022 13:37]  an earth elemental: (summoned 9m 58s)
+[01/14/2022 13:37]  an earth elemental: an earth elemental
+[01/14/2022 13:37]  Wulf of Wyrd: -6
+[01/14/2022 13:37]  Wulf of Wyrd: -13
+[01/14/2022 13:37]  Razor: [-Reactive Armor (s)]
+[01/14/2022 13:37]  Razor: [+Reactive Armor (0s)]
+[01/14/2022 13:37]  a troll: -34
+[01/14/2022 13:37]  Wulf of Wyrd: -6
+[01/14/2022 13:37]  System: You are no longer diseased.
+[01/14/2022 13:37]  Razor: [-Diseased (s)]
+[01/14/2022 13:37]  a troll: *regenerates*
+[01/14/2022 13:37]  Wulf of Wyrd: In Vas Mani [Greater Heal]
+[01/14/2022 13:37]  a troll: -37
+[01/14/2022 13:37]  Wulf of Wyrd: +41
+[01/14/2022 13:37]  System: some damage has been healed : 41
+[01/14/2022 13:37]  an earth elemental: -9
+[01/14/2022 13:37]  a troll: -4
+[01/14/2022 13:37]  a troll: -35
+[01/14/2022 13:37]  an earth elemental: -9
+[01/14/2022 13:37]  a troll: -4
+[01/14/2022 13:37]  Wulf of Wyrd: In Vas Mani [Greater Heal]
+[01/14/2022 13:37]  Razor: Target: Wulf of Wyrd
+[01/14/2022 13:37]  Wulf of Wyrd: +36
+[01/14/2022 13:37]  System: some damage has been healed : 36
+[01/14/2022 13:37]  a troll: -30
+[01/14/2022 13:37]  a troll: *regenerates*
+[01/14/2022 13:37]  a troll: -32
+[01/14/2022 13:37]  a troll: -42
+[01/14/2022 13:37]  Dora Exploita: Dora Exploita (Young)
+[01/14/2022 13:37]  Wulf of Wyrd: Kal Vas Xen Corp [Summon Daemon]
+[01/14/2022 13:37]  a troll: -34
+[01/14/2022 13:38]  Wulf of Wyrd: The spell fizzles.
+[01/14/2022 13:38]  a troll: -30
+[01/14/2022 13:38]  System: Ewdelis has completed the achievement: Artificer (Advanced).
+[01/14/2022 13:38]  Wulf of Wyrd: Kal Vas Xen Corp [Summon Daemon]
+[01/14/2022 13:38]  a troll: -35
+[01/14/2022 13:38]  a troll: -40
+[01/14/2022 13:38]  a daemon: (summoned 10m)
+[01/14/2022 13:38]  a daemon: a daemon
+[01/14/2022 13:38]  a troll: *regenerates*
+[01/14/2022 13:38]  a troll: -32
+[01/14/2022 13:38]  a daemon: (summoned 9m 57s)
+[01/14/2022 13:38]  a daemon: a daemon
+[01/14/2022 13:38]  a troll: -29
+[01/14/2022 13:38]  Razor: Target: a troll
+[01/14/2022 13:38]  a troll: -34
+[01/14/2022 13:38]  an earth elemental: -10
+[01/14/2022 13:38]  a troll: -31
+[01/14/2022 13:38]  a troll: -5
+[01/14/2022 13:38]  a troll: -33
+[01/14/2022 13:38]  a troll: -31
+[01/14/2022 13:38]  an earth elemental: -6
+[01/14/2022 13:38]  a troll: -3
+[01/14/2022 13:38]  a troll: *regenerates*
+[01/14/2022 13:38]  a troll: -29
+[01/14/2022 13:38]  a troll: -40
+[01/14/2022 13:38]  a troll: -35
+[01/14/2022 13:38]  a troll: -26
+[01/14/2022 13:38]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[01/14/2022 13:38]  an earth elemental: -10
+[01/14/2022 13:38]  an ettin: -5
+[01/14/2022 13:38]  a troll: -32
+[01/14/2022 13:38]  Razor: Target: an ettin
+[01/14/2022 13:38]  a troll: -38
+[01/14/2022 13:38]  an earth elemental: -11
+[01/14/2022 13:38]  a troll: -6
+[01/14/2022 13:38]  an ettin: -110
+[01/14/2022 13:38]  a troll: -4
+[01/14/2022 13:38]  System: You have gained a little fame.
+[01/14/2022 13:38]  System: You have gained a little karma.
+[01/14/2022 13:38]  You see: a troll corpse
+[01/14/2022 13:38]  Wulf of Wyrd: Corp Por [Energy Bolt]
+[01/14/2022 13:38]  an earth elemental: -11
+[01/14/2022 13:38]  an ettin: -6
+[01/14/2022 13:38]  System: [GridLoot]: Corpse is empty!
+[01/14/2022 13:38]  System: Your spellbook generates mana for your spell.
+[01/14/2022 13:38]  an ettin: -132
+[01/14/2022 13:38]  an ettin: -29
+[01/14/2022 13:38]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[01/14/2022 13:38]  an ettin: -37
+[01/14/2022 13:38]  Razor: Target: an ettin
+[01/14/2022 13:38]  an ettin: -41
+[01/14/2022 13:38]  an ettin: -100
+[01/14/2022 13:38]  an ettin: -35
+[01/14/2022 13:38]  a daemon: (summoned 9m 22s)
+[01/14/2022 13:38]  a daemon: a daemon
+[01/14/2022 13:38]  an earth elemental: -12
+[01/14/2022 13:38]  an ettin: -6
+[01/14/2022 13:38]  an ettin: -30
+[01/14/2022 13:38]  an ettin: -37
+[01/14/2022 13:38]  an ettin: -35
+[01/14/2022 13:38]  an earth elemental: -4
+[01/14/2022 13:38]  an ettin: -2
+[01/14/2022 13:38]  an ettin: -20
+[01/14/2022 13:39]  an ettin: -1
+[01/14/2022 13:39]  System: You have gained a little fame.
+[01/14/2022 13:39]  System: You have gained a little karma.
+[01/14/2022 13:39]  You see: an ettin corpse
+[01/14/2022 13:39]  You see: an ogre corpse
+[01/14/2022 13:39]  You see: an ettin corpse
+[01/14/2022 13:39]  System: [GridLoot]: Corpse is empty!
+[01/14/2022 13:39]  System: You may not loot this corpse.
+[01/14/2022 13:39]  System: That spell is not allowed in this area.
+[01/14/2022 13:39]  Wulf of Wyrd: all follo
+[01/14/2022 13:39]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:39]  a giant frog: (tame)
+[01/14/2022 13:39]  a giant frog: a giant frog
+[01/14/2022 13:39]  a guar: (tame)
+[01/14/2022 13:39]  a guar: a guar
+[01/14/2022 13:39]  a giant frog: (tame)
+[01/14/2022 13:39]  a giant frog: a giant frog
+[01/14/2022 13:39]  System: That spell is not allowed in this area.
+[01/14/2022 13:39]  Wulf of Wyrd: all follo
+[01/14/2022 13:39]  System: Hot Keys Disabled (Press F12 to enable)
+[01/14/2022 13:39]  Wulf of Wyrd: all follow
+[01/14/2022 13:39]  a guar: (tame)
+[01/14/2022 13:39]  a guar: a guar
+[01/14/2022 13:39]  a giant frog: (tame)
+[01/14/2022 13:39]  a giant frog: a giant frog
+[01/14/2022 13:39]  a giant frog: (tame)
+[01/14/2022 13:39]  a giant frog: a giant frog
+[01/14/2022 13:39]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:39]  You see: a corpse eater corpse
+[01/14/2022 13:39]  a cave bear: a cave bear
+[01/14/2022 13:39]  an ettin: an ettin
+[01/14/2022 13:39]  a cave bear: a cave bear
+[01/14/2022 13:39]  Wulf of Wyrd: all kill
+[01/14/2022 13:39]  Razor: Target: an ettin
+[01/14/2022 13:39]  an earth elemental: -10
+[01/14/2022 13:39]  an ettin: -5
+[01/14/2022 13:39]  an ettin: -23
+[01/14/2022 13:39]  an ettin: -2
+[01/14/2022 13:39]  You see: an ettin corpse
+[01/14/2022 13:39]  You see: a troll corpse
+[01/14/2022 13:39]  You see: an ettin corpse
+[01/14/2022 13:39]  an ettin: -36
+[01/14/2022 13:39]  an ettin: -35
+[01/14/2022 13:39]  System: Hot Keys Enabled (Press F12 to disable)
+[01/14/2022 13:39]  Wulf of Wyrd: Corp Por [Energy Bolt]
+[01/14/2022 13:39]  an ettin: -37
+[01/14/2022 13:39]  an ettin: -105
+[01/14/2022 13:39]  an ettin: -40
+[01/14/2022 13:39]  an ettin: -37
+[01/14/2022 13:39]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[01/14/2022 13:39]  a cave bear: a cave bear
+[01/14/2022 13:39]  Razor: Target: an ettin
+[01/14/2022 13:39]  an ettin: -36
+[01/14/2022 13:39]  an ettin: -129
+[01/14/2022 13:39]  an ettin: -10
+[01/14/2022 13:39]  System: You have gained a little fame.
+[01/14/2022 13:39]  System: You have gained a little karma.
+[01/14/2022 13:39]  You see: an ettin corpse
+[01/14/2022 13:40]  System: [GridLoot]: Corpse is empty!
+[01/14/2022 13:40]  You see: a drake corpse
+[01/14/2022 13:40]  You see: a corpse eater corpse
+[01/14/2022 13:40]  You see: an ettin corpse
+[01/14/2022 13:40]  an ettin: an ettin
+[01/14/2022 13:40]  You see: the remains of Perry Hill
+[01/14/2022 13:40]  Wulf of Wyrd: all kill
+[01/14/2022 13:40]  Razor: Target: an ettin
+[01/14/2022 13:40]  an ettin: -31
+[01/14/2022 13:40]  an ettin: -40
+[01/14/2022 13:40]  Wulf of Wyrd: Corp Por [Energy Bolt]
+[01/14/2022 13:40]  an ettin: -34
+[01/14/2022 13:40]  an ettin: -34
+[01/14/2022 13:40]  an ettin: -106
+[01/14/2022 13:40]  an ettin: -40
+[01/14/2022 13:40]  an ettin: -38
+[01/14/2022 13:40]  an ettin: -36
+[01/14/2022 13:40]  an ettin: -33
+[01/14/2022 13:40]  an ettin: -36
+[01/14/2022 13:40]  Wulf of Wyrd: Corp Por [Energy Bolt]
+[01/14/2022 13:40]  an ettin: -36
+[01/14/2022 13:40]  an ettin: -37
+[01/14/2022 13:40]  System: You have gained a little fame.
+[01/14/2022 13:40]  System: You have gained a little karma.
+[01/14/2022 13:40]  System: -124
+[01/14/2022 13:40]  You see: an ettin corpse
+[01/14/2022 13:40]  System: You may not loot this corpse.
+[01/14/2022 13:40]  System: [GridLoot]: Corpse is empty!
+[01/14/2022 13:40]  You see: a corpse eater corpse
+[01/14/2022 13:40]  a giant frog: (tame)
+[01/14/2022 13:40]  a giant frog: a giant frog
+[01/14/2022 13:40]  a giant frog: (tame)
+[01/14/2022 13:40]  a giant frog: a giant frog
+[01/14/2022 13:40]  You see: a troll corpse
+[01/14/2022 13:40]  You see: a corpse eater corpse
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  an ogre: an ogre
+[01/14/2022 13:40]  a corpse eater: a corpse eater
+[01/14/2022 13:40]  You see: a troll corpse
+[01/14/2022 13:40]  DarharI: DarharI (Young)
+[01/14/2022 13:40]  a monitor hatchling: a monitor hatchling
+[01/14/2022 13:40]  You see: a troll corpse
+[01/14/2022 13:40]  You see: a skeletal corpse
+[01/14/2022 13:40]  a necromancer: a necromancer
+[01/14/2022 13:40]  a corpse eater: a corpse eater
+[01/14/2022 13:40]  You see: a necromancer corpse
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  Dora Exploita: Dora Exploita (Young)
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  an earth elemental: -6
+[01/14/2022 13:40]  You see: a skeletal corpse
+[01/14/2022 13:40]  a ghoul: *discord 53s*
+[01/14/2022 13:40]  a ghoul: a ghoul
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  a monitor hatchling: -3
+[01/14/2022 13:40]  no G in Muddin: [Ratman Chicki, RAT]
+[01/14/2022 13:40]  no G in Muddin: no G in Muddin
+[01/14/2022 13:40]  You see: a ghoul corpse
+[01/14/2022 13:40]  Baezelgeuse: Baezelgeuse (Young)
+[01/14/2022 13:40]  a giant frog: (tame)
+[01/14/2022 13:40]  a giant frog: a giant frog
+[01/14/2022 13:40]  a giant frog: (tame)
+[01/14/2022 13:40]  a giant frog: a giant frog
+[01/14/2022 13:40]  System: Asah has completed the achievement: Beastmaster (Master).
+[01/14/2022 13:40]  a corpse eater: a corpse eater
+[01/14/2022 13:40]  Wulf of Wyrd: all guard
+[01/14/2022 13:40]  a monitor hatchling: -27
+[01/14/2022 13:40]  a monitor hatchling: -36
+[01/14/2022 13:40]  a monitor hatchling: -31
+[01/14/2022 13:40]  a monitor hatchling: -27
+[01/14/2022 13:40]  a monitor hatchling: -26
+[01/14/2022 13:40]  a monitor hatchling: -32
+[01/14/2022 13:41]  Razor: Attack: a monitor hatchling
+[01/14/2022 13:41]  a monitor hatchling: -27
+[01/14/2022 13:41]  Wulf of Wyrd: Des Mani [Weaken]
+[01/14/2022 13:41]  Razor: Target: a monitor hatchling
+[01/14/2022 13:41]  a monitor hatchling: -35
+[01/14/2022 13:41]  a monitor hatchling: -7
+[01/14/2022 13:41]  System: You have gained a little fame.
+[01/14/2022 13:41]  System: You have gained a little karma.
+[01/14/2022 13:41]  You see: a monitor hatchling corpse
+[01/14/2022 13:41]  System: [GridLoot]: Corpse is empty!
+[01/14/2022 13:41]  You see: a skeletal archer corpse
+[01/14/2022 13:41]  You see: a skeletal archer corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  a skeleton: a skeleton
+[01/14/2022 13:41]  You see: the remains of Leatherface-
+[01/14/2022 13:41]  You see: a ghoul corpse
+[01/14/2022 13:41]  You see: a ghoul corpse
+[01/14/2022 13:41]  a skeleton: a skeleton
+[01/14/2022 13:41]  a skeleton: -32
+[01/14/2022 13:41]  a skeleton: a skeleton
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  a skeleton: -31
+[01/14/2022 13:41]  a skeleton: -41
+[01/14/2022 13:41]  a skeleton: -22
+[01/14/2022 13:41]  System: You have gained a little fame.
+[01/14/2022 13:41]  System: You have gained a little karma.
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  System: You may not loot this corpse.
+[01/14/2022 13:41]  System: [GridLoot]: Corpse is empty!
+[01/14/2022 13:41]  a skeleton: a skeleton
+[01/14/2022 13:41]  a skeleton: a skeleton
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  a giant frog: a giant frog
+[01/14/2022 13:41]  Leatherface-: Leatherface- (Young)
+[01/14/2022 13:41]  You see: a headless corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a headless corpse
+[01/14/2022 13:41]  You see: a giant rat corpse
+[01/14/2022 13:41]  a headless: a headless
+[01/14/2022 13:41]  a mongbat: a mongbat
+[01/14/2022 13:41]  a mongbat: a mongbat
+[01/14/2022 13:41]  W-O-L-F: W-O-L-F (Young)
+[01/14/2022 13:41]  a giant rat: a giant rat
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a giant rat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a headless corpse
+[01/14/2022 13:41]  You see: a giant rat corpse
+[01/14/2022 13:41]  Pappa Tunturi: Pappa Tunturi
+[01/14/2022 13:41]  a giant rat: a giant rat
+[01/14/2022 13:41]  You see: a headless corpse
+[01/14/2022 13:41]  a giant frog: a giant frog
+[01/14/2022 13:41]  You see: a headless corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  a colossal frog: a colossal frog
+[01/14/2022 13:41]  a skeleton: -41
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  a colossal frog: a colossal frog
+[01/14/2022 13:41]  Rysn: Rysn (Young)
+[01/14/2022 13:41]  a mongbat: a mongbat
+[01/14/2022 13:41]  a giant frog: a giant frog
+[01/14/2022 13:41]  a skeleton: -25
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  a skeleton: -41
+[01/14/2022 13:41]  a skeleton: -19
+[01/14/2022 13:41]  System: You have gained a little fame.
+[01/14/2022 13:41]  System: You have gained a little karma.
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  a skeleton: -34
+[01/14/2022 13:41]  a skeleton: -36
+[01/14/2022 13:41]  System: That spell is not allowed in this area.
+[01/14/2022 13:41]  System: Hot Keys Disabled (Press F12 to enable)
+[01/14/2022 13:41]  Wulf of Wyrd: all follow
+[01/14/2022 13:41]  a giant frog: a giant frog
+[01/14/2022 13:41]  System: Opening door...
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  System: You are currently prevented from performing criminal looting actions.
+[01/14/2022 13:41]  You see: a skeletal archer corpse
+[01/14/2022 13:41]  You see: a giant rat corpse
+[01/14/2022 13:41]  You see: a giant rat corpse
+[01/14/2022 13:41]  an orc: an orc
+[01/14/2022 13:41]  You see: an orc corpse
+[01/14/2022 13:41]  an orc: an orc
+[01/14/2022 13:41]  a giant rat: a giant rat
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  Juke: Juke (Young)
+[01/14/2022 13:41]  System: Opening door...
+[01/14/2022 13:41]  a colossal frog: a colossal frog
+[01/14/2022 13:41]  You see: a headless corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  Wulf of Wyrd: all guard
+[01/14/2022 13:41]  a skeleton: -36
+[01/14/2022 13:41]  a skeleton: -20
+[01/14/2022 13:41]  System: You have gained a little fame.
+[01/14/2022 13:41]  System: You have gained a little karma.
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  a skeleton: -30
+[01/14/2022 13:41]  Wulf of Wyrd: That is out of my line of sight.
+[01/14/2022 13:41]  Razor: Attack: a skeleton
+[01/14/2022 13:41]  a skeleton: -33
+[01/14/2022 13:41]  a skeleton: -36
+[01/14/2022 13:41]  Razor: Attack: a skeleton
+[01/14/2022 13:41]  an earth elemental: -1
+[01/14/2022 13:41]  a skeleton: -1
+[01/14/2022 13:41]  Razor: Attack: a skeleton
+[01/14/2022 13:41]  a skeleton: -26
+[01/14/2022 13:41]  System: You have gained a little fame.
+[01/14/2022 13:41]  System: You have gained a little karma.
+[01/14/2022 13:41]  You see: a skeletal corpse
+[01/14/2022 13:41]  Wulf of Wyrd: That is out of my line of sight.
+[01/14/2022 13:41]  W-O-L-F: W-O-L-F (Young)
+[01/14/2022 13:41]  You see: a rotting corpse
+[01/14/2022 13:41]  a harpy: a harpy
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a rotting corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  a zombie: a zombie
+[01/14/2022 13:41]  iGate: iGate (Young)
+[01/14/2022 13:41]  You see: a mongbat corpse
+[01/14/2022 13:41]  Jon Matrix: Jon Matrix (Young)
+[01/14/2022 13:41]  You see: a giant bat corpse
+[01/14/2022 13:41]  You see: a giant bat corpse
+[01/14/2022 13:41]  brown acid: brown acid
+[01/14/2022 13:41]  a colossal frog: (tame)
+[01/14/2022 13:41]  a colossal frog: a colossal frog
+[01/14/2022 13:41]  a colossal frog: (tame)
+[01/14/2022 13:41]  a colossal frog: a colossal frog
+[01/14/2022 13:41]  NomonoBalls: NomonoBalls (Young)
+[01/14/2022 13:41]  a zombie: a zombie
+[01/14/2022 13:42]  W-O-L-F: *looks violently ill*
+[01/14/2022 13:42]  You see: a mongbat corpse
+[01/14/2022 13:42]  You see: a mongbat corpse
+[01/14/2022 13:42]  You see: a mongbat corpse
+[01/14/2022 13:42]  Rysn: Rysn (Young)
+[01/14/2022 13:42]  a mongbat: a mongbat
+[01/14/2022 13:42]  a mongbat: a mongbat
+[01/14/2022 13:42]  You see: a headless corpse
+[01/14/2022 13:42]  a scorpion: a scorpion
+[01/14/2022 13:42]  Valnor z Valnor: Valnor z Valnor (Young)
+[01/14/2022 13:42]  System: You are now under the protection of the town guards.
+[01/14/2022 13:42]  Razor: [+Hidden/Stealthing (0s)]
+[01/14/2022 13:42]  Wulf of Wyrd: Your mount returns.
+[01/14/2022 13:42]  Gunther: Gunther the tailor
+[01/14/2022 13:42]  Kelvin: Kelvin the tinker
+[01/14/2022 13:42]  Prescot: Prescot the tailor
+[01/14/2022 13:42]  Tertia: Tertia the blacksmith
+[01/14/2022 13:42]  Standford: Standford the cook
+[01/14/2022 13:42]  an earth elemental: (summoned 5m 22s)
+[01/14/2022 13:42]  an earth elemental: an earth elemental
+[01/14/2022 13:42]  a daemon: (summoned 6m 6s)
+[01/14/2022 13:42]  a daemon: a daemon
+[01/14/2022 13:42]  an andarian knight: an andarian knight
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  System: (tame)
+[01/14/2022 13:42]  : a horse
+[01/14/2022 13:42]  Razor: [-Hidden/Stealthing (s)]
+[01/14/2022 13:42]  an andarian mage: an andarian mage
+[01/14/2022 13:42]  Stephani: Stephani the ranger
+[01/14/2022 13:42]  MartinLongbow: MartinLongbow
+[01/14/2022 13:42]  Morgan: Morgan the farmer
+[01/14/2022 13:42]  an earth elemental: (summoned 5m 15s)
+[01/14/2022 13:42]  an earth elemental: an earth elemental
+[01/14/2022 13:42]  Prescot: Prescot the tailor
+[01/14/2022 13:42]  You see: gold coin : 134
+[01/14/2022 13:42]  an andarian knight: an andarian knight
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  Feridwyn: Feridwyn the blacksmith
+[01/14/2022 13:42]  Olivia: Olivia the miner
+[01/14/2022 13:42]  Deb: Deb the architect
+[01/14/2022 13:42]  Karlenne: Karlenne the real estate broker
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  a cat: a cat
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  a cat: a cat
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  Seymour: Seymour the carpenter
+[01/14/2022 13:42]  a cat: a cat
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  Leiko: Leiko the carpenter
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  Candida: Candida the cobbler
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  Feridwyn: Feridwyn the blacksmith
+[01/14/2022 13:42]  an andarian mage: an andarian mage
+[01/14/2022 13:42]  Leiko: Leiko the tinker
+[01/14/2022 13:42]  DalarKazar: [Member, Mucx]
+[01/14/2022 13:42]  DalarKazar: DalarKazar
+[01/14/2022 13:42]  a pack llama: (tame)
+[01/14/2022 13:42]  a pack llama: [0/2000 stones]
+[01/14/2022 13:42]  a pack llama: a pack llama
+[01/14/2022 13:42]  a daemon: (summoned 5m 32s)
+[01/14/2022 13:42]  a daemon: a daemon
+[01/14/2022 13:42]  an earth elemental: (summoned 4m 44s)
+[01/14/2022 13:42]  an earth elemental: an earth elemental
+[01/14/2022 13:42]  a dog: a dog
+[01/14/2022 13:42]  iStealthisaurus: iStealthisaurus
+[01/14/2022 13:42]  a pack llama: (tame)
+[01/14/2022 13:42]  a pack llama: [120/2000 stones]
+[01/14/2022 13:42]  a pack llama: a pack llama
+[01/14/2022 13:42]  A Strangger: A Strangger
+[01/14/2022 13:42]  Stoyan: Stoyan the tinker
+[01/14/2022 13:42]  Logan Tom: [Beard Brother, BB]
+[01/14/2022 13:42]  Logan Tom: Logan Tom
+[01/14/2022 13:42]  Marcus Farts: Marcus Farts
+[01/14/2022 13:42]  Wallice: [Civilian, Yew]
+[01/14/2022 13:42]  Wallice: Wallice
+[01/14/2022 13:42]  Garbage Kid: [Junior Phoenix, OFP]
+[01/14/2022 13:42]  Garbage Kid: Garbage Kid
+[01/14/2022 13:42]  Askepott: Askepott
+[01/14/2022 13:42]  Bart: Bart the Town Crier
+[01/14/2022 13:42]  Falconite: (bonded)
+[01/14/2022 13:42]  Falconite: Falconite
+[01/14/2022 13:42]  an aegis minion: (bonded)
+[01/14/2022 13:42]  an aegis minion: an aegis minion
+[01/14/2022 13:42]  an aegis minion: (bonded)
+[01/14/2022 13:42]  an aegis minion: an aegis minion
+[01/14/2022 13:42]  High Life: [Veteran, MR]
+[01/14/2022 13:42]  High Life: High Life
+[01/14/2022 13:42]  Mukoza: Mukoza
+[01/14/2022 13:42]  ottomins: ottomins
+[01/14/2022 13:42]  PoisonIvy': PoisonIvy'
+[01/14/2022 13:42]  Zoun: [Prospect, hood]
+[01/14/2022 13:42]  Zoun: Zoun
+[01/14/2022 13:42]  A Work Bee: A Work Bee
+[01/14/2022 13:42]  a new tambourine: a new tambourine
+[01/14/2022 13:42]  Roi: Roi the banker
+[01/14/2022 13:42]  Haev: Haev
+[01/14/2022 13:42]  Orlantha: Orlantha the banker
+[01/14/2022 13:42]  Setha: Setha
+[01/14/2022 13:42]  A Work Horse: A Work Horse
+[01/14/2022 13:42]  GongJuRen: GongJuRen
+[01/14/2022 13:42]  Britta: Britta the banker
+[01/14/2022 13:42]  a pack horse: (tame)
+[01/14/2022 13:42]  a pack horse: [0/2000 stones]
+[01/14/2022 13:42]  a pack horse: a pack horse
+[01/14/2022 13:42]  PoisonIvy': all release
+[01/14/2022 13:42]  Moira Darling: Moira Darling
+[01/14/2022 13:42]  PoisonIvy': Kal Vas Xen An Flam [Water Elemental]
+[01/14/2022 13:42]  System: Hot Keys Enabled (Press F12 to disable)
+[01/14/2022 13:43]  PoisonIvy': all release
+[01/14/2022 13:43]  PoisonIvy': Kal Vas Xen An Flam [Water Elemental]
+[01/14/2022 13:43]  Wulf of Wyrd: bank
+[01/14/2022 13:43]  Wulf of Wyrd: Items: 56/125
+[01/14/2022 13:43]  Wulf of Wyrd: Total Weight: 161
+[01/14/2022 13:43]  Getan: [Officer, DHK]
+[01/14/2022 13:43]  Getan: Getan
+[01/14/2022 13:43]  PoisonIvy': all release
+[01/14/2022 13:43]  PoisonIvy': Kal Vas Xen An Flam [Water Elemental]
+[01/14/2022 13:43]  PoisonIvy': all release
+[01/14/2022 13:43]  PoisonIvy': Kal Vas Xen An Flam [Water Elemental]
+[01/14/2022 13:43]  Wulf of Wyrd: Kal Ort Por [Recall]
+[01/14/2022 13:43]  System: Your spellbook generates mana for your spell.
+[01/14/2022 13:43]  System: You have left the protection of the town guards.
+[01/14/2022 13:43]  System: Opening door...
+[01/14/2022 13:43]  System: Your house and its contents have been refreshed. 29 days 4 hours 54 minutes remaining until owner refresh required.
+[01/14/2022 13:43]  System: Your campfire is now secure.

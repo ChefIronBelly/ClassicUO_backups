@@ -1,0 +1,570 @@
+[02/28/2022 08:30]  System: WorldMap loading...
+[02/28/2022 08:30]  System: Loading WorldMap markers..
+[02/28/2022 08:30]  System: ..Banks_and_Healers.xml (20)
+[02/28/2022 08:30]  System: ..Dungeons.xml (12)
+[02/28/2022 08:30]  System: ..Dungeon_Gates.xml (335)
+[02/28/2022 08:30]  System: ..Healer_Caravans.xml (32)
+[02/28/2022 08:30]  System: ..Moongates.xml (9)
+[02/28/2022 08:30]  System: ..POI.xml (176)
+[02/28/2022 08:30]  System: ..Shrines.xml (9)
+[02/28/2022 08:30]  System: ..Subterranean.xml (6)
+[02/28/2022 08:30]  System: ..Townships.xml (9)
+[02/28/2022 08:30]  System: WorldMap markers loaded (608)
+[02/28/2022 08:30]  System: Welcome Duluth Trading!
+[02/28/2022 08:30]  System: Your food satisfaction effect has expired.
+[02/28/2022 08:30]  Duluth Trading: Duluth Trading
+[02/28/2022 08:30]  System: WorldMap loaded!
+[02/28/2022 08:30]  System: You must wait to perform another action.
+[02/28/2022 08:30]  Duluth Trading: The food is paltry and is barely satisfying.
+[02/28/2022 08:30]  System: You are somewhat full.
+[02/28/2022 08:30]  Razor: [+Food Satisfaction (3600s)]
+[02/28/2022 08:30]  System: Your campfire is now secure.
+[02/28/2022 08:30]  System: You feel rested and comforted by the camp. (+17.5% damage to creatures and +7.0% damage to players).
+[02/28/2022 08:30]  Razor: [+Campfire Visit (10800s)]
+[02/28/2022 08:32]  System: You begin hiking to your destination.
+[02/28/2022 08:32]  Duluth Trading: *hiking to destination*
+[02/28/2022 08:32]  Razor: [+Paralyze (4s)]
+[02/28/2022 08:32]  Razor: [-Paralyze (s)]
+[02/28/2022 08:32]  Razor: [+Paralyze (3s)]
+[02/28/2022 08:32]  Duluth Trading: *hiking to destination*
+[02/28/2022 08:32]  Razor: [-Paralyze (s)]
+[02/28/2022 08:32]  Razor: [+Paralyze (2s)]
+[02/28/2022 08:32]  Razor: [-Paralyze (s)]
+[02/28/2022 08:32]  Razor: [+Paralyze (1s)]
+[02/28/2022 08:32]  Duluth Trading: *hiking to destination*
+[02/28/2022 08:32]  Razor: [-Paralyze (s)]
+[02/28/2022 08:32]  Razor: [+Paralyze (0s)]
+[02/28/2022 08:32]  Razor: [-Paralyze (s)]
+[02/28/2022 08:32]  System: You are no longer hindered.
+[02/28/2022 08:32]  System: You are now under the protection of the town guards.
+[02/28/2022 08:32]  System: You hike to your destination.
+[02/28/2022 08:32]  Duluth Trading: *You have arrived at your destination*
+[02/28/2022 08:32]  Madelyn: Madelyn the shipwright
+[02/28/2022 08:32]  Madelyn: Madelyn the shipwright
+[02/28/2022 08:32]  Adara: Adara the bard
+[02/28/2022 08:32]  Adara: Adara the bard
+[02/28/2022 08:32]  Komor: Komor the tanner
+[02/28/2022 08:32]  Komor: Komor the tanner
+[02/28/2022 08:32]  Thea: Thea the beggar
+[02/28/2022 08:32]  Thea: Thea the beggar
+[02/28/2022 08:32]  Kamali: Kamali the butcher
+[02/28/2022 08:32]  Kamali: Kamali the butcher
+[02/28/2022 08:32]  SlickDzNuts: SlickDzNuts (Young)
+[02/28/2022 08:32]  SlickDzNuts: SlickDzNuts (Young)
+[02/28/2022 08:32]  Meg: Meg the bowyer
+[02/28/2022 08:32]  Meg: Meg the bowyer
+[02/28/2022 08:32]  Chane: Chane the carpenter
+[02/28/2022 08:32]  Chane: Chane the carpenter
+[02/28/2022 08:32]  Wijdan: Wijdan the mapmaker
+[02/28/2022 08:32]  Wijdan: Wijdan the mapmaker
+[02/28/2022 08:32]  Zelek: Zelek (Young)
+[02/28/2022 08:32]  Zelek: Zelek (Young)
+[02/28/2022 08:32]  Lene: Lene the salvage foreman
+[02/28/2022 08:32]  Lene: Lene the salvage foreman
+[02/28/2022 08:32]  Tai: Tai the fisherman
+[02/28/2022 08:32]  Tai: Tai the fisherman
+[02/28/2022 08:32]  Ittai: [Private, NWO]
+[02/28/2022 08:32]  Ittai: Ittai
+[02/28/2022 08:32]  Ittai: [Private, NWO]
+[02/28/2022 08:32]  Ittai: Ittai
+[02/28/2022 08:32]  Sweetninja: Domesticator
+[02/28/2022 08:32]  Sweetninja: [Officer, RUS]
+[02/28/2022 08:32]  Sweetninja: Sweetninja
+[02/28/2022 08:32]  Sweetninja: Domesticator
+[02/28/2022 08:32]  Sweetninja: [Officer, RUS]
+[02/28/2022 08:32]  Sweetninja: Sweetninja
+[02/28/2022 08:32]  Bly: Bly the fisherman
+[02/28/2022 08:32]  Bly: Bly the fisherman
+[02/28/2022 08:32]  Edyn: [A Ship People, Path]
+[02/28/2022 08:32]  Edyn: Edyn
+[02/28/2022 08:32]  Edyn: [A Ship People, Path]
+[02/28/2022 08:32]  Edyn: Edyn
+[02/28/2022 08:32]  Rabbi Tuckman: Rabbi Tuckman (Young)
+[02/28/2022 08:32]  Rabbi Tuckman: Rabbi Tuckman (Young)
+[02/28/2022 08:32]  Colon: Colon the Town Crier
+[02/28/2022 08:32]  Colon: Colon the Town Crier
+[02/28/2022 08:32]  Alicia: Alicia the tavern keeper
+[02/28/2022 08:32]  Alicia: Alicia the tavern keeper
+[02/28/2022 08:32]  Amadis: Amadis the armorer
+[02/28/2022 08:32]  Amadis: Amadis the armorer
+[02/28/2022 08:32]  Jake: Jake the barkeep
+[02/28/2022 08:32]  Jake: Jake the barkeep
+[02/28/2022 08:32]  Len: Len the banker
+[02/28/2022 08:32]  Len: Len the banker
+[02/28/2022 08:32]  Ayisha: Ayisha the weaponsmith
+[02/28/2022 08:32]  Ayisha: Ayisha the weaponsmith
+[02/28/2022 08:32]  Chane: Chane the carpenter
+[02/28/2022 08:32]  Chane: Chane the carpenter
+[02/28/2022 08:32]  Colon: Did you know that you can now target the ground with Dispel Field and Mass Dispel to dispel field spells?  This should make targetting difficult graphics much easier!
+[02/28/2022 08:33]  Chane: Chane the carpenter
+[02/28/2022 08:33]  Chane: Chane the carpenter
+[02/28/2022 08:33]  Colon: If you can't see your Bard Codex, click Verify in your launcher.
+[02/28/2022 08:34]  Duluth Trading: Kal Ort Por [Recall]
+[02/28/2022 08:34]  System: You have left the protection of the town guards.
+[02/28/2022 08:34]  System: Opening door...
+[02/28/2022 08:34]  System: Your house and its contents have been refreshed. 20 days 14 minutes remaining until owner refresh required.
+[02/28/2022 08:34]  System: Where will you search?
+[02/28/2022 08:34]  System: You search the home and find no one hiding within.
+[02/28/2022 08:34]  System: Your campfire is now secure.
+[02/28/2022 08:34]  You see: Earth Aspect Core
+[02/28/2022 08:34]  System: Warning: ribs amount is now 0!
+[02/28/2022 08:34]  You see: raw ribs : 690
+[02/28/2022 08:35]  You see: unidentified studded skirt
+[02/28/2022 08:35]  System: Sir pantsalot has completed the achievement: Leatherworker (Basic).
+[02/28/2022 08:36]  You see: leather : 3116
+[02/28/2022 08:36]  System: You begin hiking to your destination.
+[02/28/2022 08:36]  Duluth Trading: *hiking to destination*
+[02/28/2022 08:36]  Razor: [+Paralyze (4s)]
+[02/28/2022 08:36]  Razor: [-Paralyze (s)]
+[02/28/2022 08:36]  Razor: [+Paralyze (3s)]
+[02/28/2022 08:36]  Duluth Trading: *hiking to destination*
+[02/28/2022 08:36]  Razor: [-Paralyze (s)]
+[02/28/2022 08:36]  Razor: [+Paralyze (1s)]
+[02/28/2022 08:36]  Duluth Trading: *hiking to destination*
+[02/28/2022 08:36]  Razor: [-Paralyze (s)]
+[02/28/2022 08:36]  Razor: [+Paralyze (0s)]
+[02/28/2022 08:36]  Razor: [-Paralyze (s)]
+[02/28/2022 08:36]  System: You are no longer hindered.
+[02/28/2022 08:36]  System: You are now under the protection of the town guards.
+[02/28/2022 08:36]  System: You hike to your destination.
+[02/28/2022 08:36]  Duluth Trading: *You have arrived at your destination*
+[02/28/2022 08:36]  Stephani: Stephani the ranger
+[02/28/2022 08:36]  Stephani: Stephani the ranger
+[02/28/2022 08:36]  Sean: Sean the waiter
+[02/28/2022 08:36]  Sean: Sean the waiter
+[02/28/2022 08:36]  Karayan: Karayan the bowyer
+[02/28/2022 08:36]  Karayan: Karayan the bowyer
+[02/28/2022 08:36]  Namazzi: Namazzi the provisioner
+[02/28/2022 08:36]  Namazzi: Namazzi the provisioner
+[02/28/2022 08:36]  Ramsay: Ramsay the shipwright
+[02/28/2022 08:36]  Ramsay: Ramsay the shipwright
+[02/28/2022 08:36]  an andarian footman: an andarian footman
+[02/28/2022 08:36]  an andarian footman: an andarian footman
+[02/28/2022 08:36]  Kalman: Kalman the healer
+[02/28/2022 08:36]  Kalman: Kalman the healer
+[02/28/2022 08:37]  Deb: Deb the architect
+[02/28/2022 08:37]  Deb: Deb the architect
+[02/28/2022 08:37]  Karlenne: Karlenne the real estate broker
+[02/28/2022 08:37]  Karlenne: Karlenne the real estate broker
+[02/28/2022 08:37]  Seymour: Seymour the carpenter
+[02/28/2022 08:37]  Seymour: Seymour the carpenter
+[02/28/2022 08:37]  Leiko: Leiko the carpenter
+[02/28/2022 08:37]  Leiko: Leiko the carpenter
+[02/28/2022 08:37]  an andarian knight: an andarian knight
+[02/28/2022 08:37]  an andarian knight: an andarian knight
+[02/28/2022 08:37]  an andarian mage: an andarian mage
+[02/28/2022 08:37]  an andarian mage: an andarian mage
+[02/28/2022 08:37]  Tertia: Tertia the blacksmith
+[02/28/2022 08:37]  Tertia: Tertia the blacksmith
+[02/28/2022 08:37]  Prescot: Prescot the tailor
+[02/28/2022 08:37]  Prescot: Prescot the tailor
+[02/28/2022 08:37]  Standford: Standford the cook
+[02/28/2022 08:37]  Standford: Standford the cook
+[02/28/2022 08:37]  Gunther: Gunther the tailor
+[02/28/2022 08:37]  Gunther: Gunther the tailor
+[02/28/2022 08:37]  Kelvin: Kelvin the tinker
+[02/28/2022 08:37]  Kelvin: Kelvin the tinker
+[02/28/2022 08:37]  Morgan: Morgan the farmer
+[02/28/2022 08:37]  Morgan: Morgan the farmer
+[02/28/2022 08:37]  : wall display
+[02/28/2022 08:37]  System: Opening door...
+[02/28/2022 08:37]  Prescot: Prescot the tailor
+[02/28/2022 08:37]  Prescot: You have nothing I would be interested in.
+[02/28/2022 08:37]  Prescot: Prescot the tailor
+[02/28/2022 08:37]  Prescot: Greetings.  Have a look around.
+[02/28/2022 08:37]  System: No one matching that was found on your screen.
+[02/28/2022 08:37]  System: No one matching that was found on your screen.
+[02/28/2022 08:37]  Prescot: The total of thy purchase is 150 gold.  My thanks for the patronage.
+[02/28/2022 08:37]  Deb: Deb the architect
+[02/28/2022 08:37]  Deb: Deb the architect
+[02/28/2022 08:37]  Feridwyn: Feridwyn the blacksmith
+[02/28/2022 08:37]  Feridwyn: Feridwyn the blacksmith
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  Olivia: Olivia the miner
+[02/28/2022 08:37]  Olivia: Olivia the miner
+[02/28/2022 08:37]  Karlenne: Karlenne the real estate broker
+[02/28/2022 08:37]  Karlenne: Karlenne the real estate broker
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  Seymour: Seymour the carpenter
+[02/28/2022 08:37]  Seymour: Seymour the carpenter
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  MArio Jr.: MArio Jr.
+[02/28/2022 08:37]  MArio Jr.: MArio Jr.
+[02/28/2022 08:37]  Candida: Candida the cobbler
+[02/28/2022 08:37]  Candida: Candida the cobbler
+[02/28/2022 08:37]  an andarian mage: an andarian mage
+[02/28/2022 08:37]  an andarian mage: an andarian mage
+[02/28/2022 08:37]  Leiko: Leiko the tinker
+[02/28/2022 08:37]  Leiko: Leiko the tinker
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a dog: a dog
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  a cat: a cat
+[02/28/2022 08:37]  Odin Darkflare: Odin Darkflare
+[02/28/2022 08:37]  Odin Darkflare: Odin Darkflare
+[02/28/2022 08:37]  Killian: Killian the jeweler
+[02/28/2022 08:37]  Killian: Killian the jeweler
+[02/28/2022 08:37]  Stoyan: Stoyan the tinker
+[02/28/2022 08:37]  Stoyan: Stoyan the tinker
+[02/28/2022 08:37]  horseamage: horseamage
+[02/28/2022 08:37]  horseamage: horseamage
+[02/28/2022 08:37]  Gazmanoff: Monster Hunter Initiate
+[02/28/2022 08:37]  Gazmanoff: [Recruit, RED]
+[02/28/2022 08:37]  Gazmanoff: Gazmanoff
+[02/28/2022 08:37]  Gazmanoff: Monster Hunter Initiate
+[02/28/2022 08:37]  Gazmanoff: [Recruit, RED]
+[02/28/2022 08:37]  Gazmanoff: Gazmanoff
+[02/28/2022 08:37]  Bart: Bart the Town Crier
+[02/28/2022 08:37]  Bart: Bart the Town Crier
+[02/28/2022 08:37]  Esperoz: Esperoz
+[02/28/2022 08:37]  Esperoz: Esperoz
+[02/28/2022 08:37]  Darius Celi: [-_-]
+[02/28/2022 08:37]  Darius Celi: Darius Celi
+[02/28/2022 08:37]  Darius Celi: [-_-]
+[02/28/2022 08:37]  Darius Celi: Darius Celi
+[02/28/2022 08:37]  Novikoff: Novikoff
+[02/28/2022 08:37]  Novikoff: Novikoff
+[02/28/2022 08:37]  mOoNvOicE: [New Player, Cn]
+[02/28/2022 08:37]  mOoNvOicE: mOoNvOicE
+[02/28/2022 08:37]  mOoNvOicE: [New Player, Cn]
+[02/28/2022 08:37]  mOoNvOicE: mOoNvOicE
+[02/28/2022 08:37]  Rushh: Monster Hunter Initiate
+[02/28/2022 08:37]  Rushh: [Private, RED]
+[02/28/2022 08:37]  Rushh: Rushh
+[02/28/2022 08:37]  Rushh: Monster Hunter Initiate
+[02/28/2022 08:37]  Rushh: [Private, RED]
+[02/28/2022 08:37]  Rushh: Rushh
+[02/28/2022 08:37]  Itemanos: Itemanos
+[02/28/2022 08:37]  Itemanos: Itemanos
+[02/28/2022 08:37]  Ashal: Ashal
+[02/28/2022 08:37]  Ashal: Ashal
+[02/28/2022 08:37]  Roi: Roi the banker
+[02/28/2022 08:37]  Roi: Roi the banker
+[02/28/2022 08:37]  Orlantha: Orlantha the banker
+[02/28/2022 08:37]  Orlantha: Orlantha the banker
+[02/28/2022 08:37]  Britta: Britta the banker
+[02/28/2022 08:37]  Britta: Britta the banker
+[02/28/2022 08:37]  No Stepe on Pepe: No Stepe on Pepe
+[02/28/2022 08:37]  No Stepe on Pepe: No Stepe on Pepe
+[02/28/2022 08:37]  Olde Man: Olde Man
+[02/28/2022 08:37]  Olde Man: Olde Man
+[02/28/2022 08:37]  Kain Darkdrinker: Kain Darkdrinker
+[02/28/2022 08:37]  Kain Darkdrinker: Kain Darkdrinker
+[02/28/2022 08:37]  Karlor: Karlor
+[02/28/2022 08:37]  Karlor: Karlor
+[02/28/2022 08:37]  Duduzz: Duduzz
+[02/28/2022 08:37]  Duduzz: Duduzz
+[02/28/2022 08:37]  Karmela: [Loyal, NKB]
+[02/28/2022 08:37]  Karmela: Karmela
+[02/28/2022 08:37]  Karmela: [Loyal, NKB]
+[02/28/2022 08:37]  Karmela: Karmela
+[02/28/2022 08:37]  System: Playing Macro 'bank'...
+[02/28/2022 08:37]  System: Macro 'bank' finished.
+[02/28/2022 08:37]  Duluth Trading: Bank Guards Vendor I ban thee
+[02/28/2022 08:37]  Duluth Trading: Items: 44/125
+[02/28/2022 08:37]  Duluth Trading: Total Weight: 424
+[02/28/2022 08:37]  Gazmanoff: bank
+[02/28/2022 08:37]  a water elemental: (summoned)
+[02/28/2022 08:37]  a water elemental: a water elemental
+[02/28/2022 08:37]  a water elemental: (summoned)
+[02/28/2022 08:37]  a water elemental: a water elemental
+[02/28/2022 08:37]  You see: valewood board : 16
+[02/28/2022 08:37]  You see: iron ingot : 400
+[02/28/2022 08:37]  a stranger.: a stranger.
+[02/28/2022 08:37]  a stranger.: a stranger.
+[02/28/2022 08:37]  You see: shadowhide : 1500
+[02/28/2022 08:38]  Bart: Did you know that you can now target the ground with Dispel Field and Mass Dispel to dispel field spells?  This should make targetting difficult graphics much easier!
+[02/28/2022 08:38]  You see: exceptional leather chest
+[02/28/2022 08:38]  You see: [crafted by FCUK Inc]
+[02/28/2022 08:38]  You see: exceptional leather leggings
+[02/28/2022 08:38]  You see: [crafted by FCUK Inc]
+[02/28/2022 08:38]  a water elemental: (summoned)
+[02/28/2022 08:38]  a water elemental: a water elemental
+[02/28/2022 08:38]  a water elemental: (summoned)
+[02/28/2022 08:38]  a water elemental: a water elemental
+[02/28/2022 08:38]  Esperoz: Esperoz
+[02/28/2022 08:38]  Esperoz: Esperoz
+[02/28/2022 08:38]  You see: exceptional leather chest
+[02/28/2022 08:38]  You see: [crafted by FCUK Inc]
+[02/28/2022 08:39]  Bart: If you can't see your Bard Codex, click Verify in your launcher.
+[02/28/2022 08:39]  You see: exceptional leather leggings
+[02/28/2022 08:39]  You see: [crafted by FCUK Inc]
+[02/28/2022 08:39]  a stranger.: a stranger.
+[02/28/2022 08:39]  a stranger.: a stranger.
+[02/28/2022 08:39]  Turisas: [Knight +, Sir.]
+[02/28/2022 08:39]  Turisas: Lord Turisas
+[02/28/2022 08:39]  Turisas: [Knight +, Sir.]
+[02/28/2022 08:39]  Turisas: Lord Turisas
+[02/28/2022 08:39]  Dtenha L.: [Associate, K4F]
+[02/28/2022 08:39]  Dtenha L.: Dtenha L.
+[02/28/2022 08:39]  Dtenha L.: [Associate, K4F]
+[02/28/2022 08:39]  Dtenha L.: Dtenha L.
+[02/28/2022 08:39]  Duluth Trading: Kal Ort Por [Recall]
+[02/28/2022 08:39]  a stranger.: a stranger.
+[02/28/2022 08:39]  a stranger.: a stranger.
+[02/28/2022 08:39]  Itemanos: Itemanos
+[02/28/2022 08:39]  Itemanos: Itemanos
+[02/28/2022 08:39]  Aresia: Aresia
+[02/28/2022 08:39]  Aresia: Aresia
+[02/28/2022 08:39]  Skism: [Junior Phoenix, OFP]
+[02/28/2022 08:39]  Skism: Skism
+[02/28/2022 08:39]  Skism: [Junior Phoenix, OFP]
+[02/28/2022 08:39]  Skism: Skism
+[02/28/2022 08:39]  System: You have left the protection of the town guards.
+[02/28/2022 08:39]  System: Opening door...
+[02/28/2022 08:39]  System: Your house and its contents have been refreshed. 20 days 8 minutes remaining until owner refresh required.
+[02/28/2022 08:39]  : plaster wall
+[02/28/2022 08:39]  System: Crafting queue begun.
+[02/28/2022 08:39]  System: Adventurer's Rope: Skipped
+[02/28/2022 08:39]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:39]  System: Tailoring Repair Kit (1/75 made): You create the item.
+[02/28/2022 08:39]  System: Tailoring Repair Kit: You must wait to perform another action.
+[02/28/2022 08:39]  System: Tailoring Repair Kit (2/75 made): You create the item.
+[02/28/2022 08:39]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:39]  System: Tailoring Repair Kit (3/75 made): You create the item.
+[02/28/2022 08:39]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:39]  System: Your campfire is now secure.
+[02/28/2022 08:39]  System: Tailoring Repair Kit (3/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:39]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:39]  System: Tailoring Repair Kit (4/75 made): You create the item.
+[02/28/2022 08:39]  System: Tailoring Repair Kit (4/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:39]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:39]  System: Lazzeri BR has completed the achievement: Beastial Slayer (Basic).
+[02/28/2022 08:39]  System: Tailoring Repair Kit (5/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring Repair Kit (6/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring Repair Kit (7/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (8/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring Repair Kit (8/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring Repair Kit (9/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (10/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring Repair Kit (10/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: The world will save in 15 seconds.
+[02/28/2022 08:40]  System: Tailoring Repair Kit (11/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (10/75 made): You failed to create the item, and some of your materials are lost. [3]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (11/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring Repair Kit (12/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring Repair Kit (12/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (13/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (13/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: The world is saving, please wait.
+[02/28/2022 08:40]  System: Tailoring Repair Kit (12/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: World save complete. The entire process took 3.6 seconds.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring Repair Kit (14/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring Repair Kit (14/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (13/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:40]  System: Tailoring Repair Kit: You must wait to perform another action.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:40]  System: Tailoring Repair Kit (14/75 made): You failed to create the item, and some of your materials are lost. [3]
+[02/28/2022 08:40]  System: Tailoring Repair Kit (15/75 made): You create the item.
+[02/28/2022 08:40]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (15/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (16/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit: You must wait to perform another action.
+[02/28/2022 08:41]  System: Tailoring Repair Kit (17/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (15/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring Repair Kit (17/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (18/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring Repair Kit (19/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (19/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (20/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (20/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (19/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (21/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (22/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring Repair Kit (20/75 made): You failed to create the item, and some of your materials are lost. [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (22/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Your skill in Tracking has decreased by 0.1.  It is now 76.0.
+[02/28/2022 08:41]  System: Your skill in Tailoring has increased by 0.1.  It is now 105.4.
+[02/28/2022 08:41]  Razor: [Tracking] -0.1 76.0 (-0.1)
+[02/28/2022 08:41]  Razor: [Tailoring] +0.1 105.4 (+0.1)
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (22/75 made): You failed to create the item, and some of your materials are lost. [4]
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (23/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring Repair Kit (23/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:41]  System: Tailoring Repair Kit (24/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:41]  System: Tailoring Repair Kit (25/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring Repair Kit (26/75 made): You create the item.
+[02/28/2022 08:41]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (27/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring Repair Kit (27/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (28/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (29/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring Repair Kit (29/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (30/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (31/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: You have worn out your tool!
+[02/28/2022 08:42]  System: Tailoring Repair Kit (32/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (32/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring Repair Kit (33/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (34/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (35/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (32/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: No'Biz has completed the achievement: Versatility (Basic).
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring Repair Kit (35/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring Repair Kit (36/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (37/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (35/75 made): You failed to create the item, and some of your materials are lost. [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (37/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring Repair Kit (38/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring Repair Kit (39/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (39/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:42]  System: Tailoring Repair Kit (40/75 made): You create the item.
+[02/28/2022 08:42]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit: You must wait to perform another action.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (41/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (39/75 made): You failed to create the item, and some of your materials are lost. [2]
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (41/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (42/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (42/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring Repair Kit (41/75 made): You failed to create the item, and some of your materials are lost. [2]
+[02/28/2022 08:43]  System: Tailoring Repair Kit (43/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (43/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring Repair Kit: You must wait to perform another action.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (44/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring Repair Kit (45/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: I Stab People has completed the achievement: Savant (Basic).
+[02/28/2022 08:43]  System: Tailoring Repair Kit (46/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (46/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Your skill in Tracking has decreased by 0.1.  It is now 75.9.
+[02/28/2022 08:43]  System: Your skill in Tailoring has increased by 0.1.  It is now 105.5.
+[02/28/2022 08:43]  Razor: [Tracking] -0.1 75.9 (-0.2)
+[02/28/2022 08:43]  Razor: [Tailoring] +0.1 105.5 (+0.2)
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring Repair Kit (46/75 made): You failed to create the item, and some of your materials are lost. [4]
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (47/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (47/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring Repair Kit (48/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (46/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (48/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (49/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:43]  System: Tailoring Repair Kit (49/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:43]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:43]  System: Tailoring Repair Kit (50/75 made): You create the item.
+[02/28/2022 08:43]  System: Tailoring Repair Kit (50/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring Repair Kit (51/75 made): You create the item.
+[02/28/2022 08:44]  System: Tailoring Repair Kit (51/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:44]  System: Tailoring Repair Kit (50/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:44]  System: Tailoring Repair Kit (52/75 made): You create the item.
+[02/28/2022 08:44]  System: Tailoring Repair Kit (51/75 made): You failed to create the item, and some of your materials are lost. [3]
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring Repair Kit (53/75 made): You create the item.
+[02/28/2022 08:44]  System: Tailoring Repair Kit (54/75 made): You create the item.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:44]  System: Tailoring Repair Kit (54/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring Repair Kit (55/75 made): You create the item.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:44]  System: Your skill in Tracking has decreased by 0.1.  It is now 75.8.
+[02/28/2022 08:44]  System: Your skill in Tailoring has increased by 0.1.  It is now 105.6.
+[02/28/2022 08:44]  System: Tailoring Repair Kit (55/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  Razor: [Tracking] -0.1 75.8 (-0.3)
+[02/28/2022 08:44]  Razor: [Tailoring] +0.1 105.6 (+0.3)
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:44]  System: Tailoring Repair Kit (54/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring Repair Kit: You must wait to perform another action.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring Repair Kit (55/75 made): You failed to create the item, and some of your materials are lost. [3]
+[02/28/2022 08:44]  System: Tailoring Repair Kit (56/75 made): You create the item.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250%
+[02/28/2022 08:44]  System: Tailoring Repair Kit (56/75 made): You failed to create the item, and some of your materials are lost.
+[02/28/2022 08:44]  System: Crafting queue stopped.
+[02/28/2022 08:44]  System: Tailoring skillgain: 1.250% [2]
+[02/28/2022 08:47]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[02/28/2022 08:47]  System: Republic Of Korea Army (ROKA) guild has reached prestige level 22.
+[02/28/2022 08:55]  System: The world will save in 15 seconds.
+[02/28/2022 08:55]  System: The world is saving, please wait.
+[02/28/2022 08:55]  System: World save complete. The entire process took 3.5 seconds.
+[02/28/2022 08:57]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[02/28/2022 08:59]  System: Lazzeri BR has completed the achievement: Guardian of Nusero (Basic).
+[02/28/2022 09:02]  System: [DF] A Dungeon Flashpoint for Nusero has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[02/28/2022 09:04]  System: Illicit Monies has completed the achievement: Scribe (Advanced).
+[02/28/2022 09:05]  System: feifei has completed the achievement: Beastmaster (Advanced).

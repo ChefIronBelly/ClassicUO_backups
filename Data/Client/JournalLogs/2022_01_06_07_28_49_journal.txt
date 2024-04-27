@@ -1,0 +1,651 @@
+[01/06/2022 07:28]  System: WorldMap loading...
+[01/06/2022 07:28]  System: Loading WorldMap markers..
+[01/06/2022 07:28]  System: ..Banks_and_Healers.xml (20)
+[01/06/2022 07:28]  System: ..Dungeons.xml (12)
+[01/06/2022 07:28]  System: ..Dungeon_Gates.xml (335)
+[01/06/2022 07:28]  System: ..Healer_Caravans.xml (32)
+[01/06/2022 07:28]  System: ..Moongates.xml (9)
+[01/06/2022 07:28]  System: ..POI.xml (176)
+[01/06/2022 07:28]  System: ..Shrines.xml (9)
+[01/06/2022 07:28]  System: ..Subterranean.xml (6)
+[01/06/2022 07:28]  System: ..Townships.xml (9)
+[01/06/2022 07:28]  System: WorldMap markers loaded (608)
+[01/06/2022 07:28]  System: Welcome Duluth Trading!
+[01/06/2022 07:28]  Duluth Trading: Duluth Trading
+[01/06/2022 07:28]  System: WorldMap loaded!
+[01/06/2022 07:28]  System: The world is saving, please wait.
+[01/06/2022 07:29]  System: World save complete. The entire process took 4.1 seconds.
+[01/06/2022 07:29]  You see: robe
+[01/06/2022 07:29]  You see: [crafted by Duluth Trading]
+[01/06/2022 07:29]  : robe
+[01/06/2022 07:29]  : [crafted by Duluth Trading]
+[01/06/2022 07:29]  You see: robe
+[01/06/2022 07:29]  You see: [crafted by Duluth Trading]
+[01/06/2022 07:29]  You see: robe
+[01/06/2022 07:29]  You see: [crafted by Duluth Trading]
+[01/06/2022 07:29]  You see: cloth : 4
+[01/06/2022 07:29]  You see: dye tub
+[01/06/2022 07:29]  You see: (hue 96)
+[01/06/2022 07:29]  System: Select the item you wish to dye. Target yourself to dye all items currently worn.
+[01/06/2022 07:29]  System: You dye an item.
+[01/06/2022 07:29]  Duluth Trading: Kal Ort Por [Recall]
+[01/06/2022 07:29]  System: You are now under the protection of the town guards.
+[01/06/2022 07:29]  Rosaline: Rosaline the waiter
+[01/06/2022 07:29]  Rosaline: Rosaline the waiter
+[01/06/2022 07:29]  Edyn: [A Ship People, Path]
+[01/06/2022 07:29]  Edyn: Edyn
+[01/06/2022 07:29]  Edyn: [A Ship People, Path]
+[01/06/2022 07:29]  Edyn: Edyn
+[01/06/2022 07:29]  Dampe's Grave: [Phoenix, OFP]
+[01/06/2022 07:29]  Dampe's Grave: Dampe's Grave
+[01/06/2022 07:29]  Dampe's Grave: [Phoenix, OFP]
+[01/06/2022 07:29]  Dampe's Grave: Dampe's Grave
+[01/06/2022 07:29]  BlurrySkies: BlurrySkies (Young)
+[01/06/2022 07:29]  BlurrySkies: BlurrySkies (Young)
+[01/06/2022 07:29]  BamboochaKopac: BamboochaKopac (Young)
+[01/06/2022 07:29]  BamboochaKopac: BamboochaKopac (Young)
+[01/06/2022 07:29]  Wijdan: Wijdan the mapmaker
+[01/06/2022 07:29]  Wijdan: Wijdan the mapmaker
+[01/06/2022 07:29]  Meg: Meg the bowyer
+[01/06/2022 07:29]  Meg: Meg the bowyer
+[01/06/2022 07:29]  Madelyn: Madelyn the shipwright
+[01/06/2022 07:29]  Madelyn: Madelyn the shipwright
+[01/06/2022 07:29]  Turquoise: Turquoise
+[01/06/2022 07:29]  Turquoise: Turquoise
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  Jordan: Jordan the beggar
+[01/06/2022 07:30]  Jordan: Jordan the beggar
+[01/06/2022 07:30]  Tai: Tai the fisherman
+[01/06/2022 07:30]  Tai: Tai the fisherman
+[01/06/2022 07:30]  Kenelm: Kenelm the tavern keeper
+[01/06/2022 07:30]  Kenelm: Kenelm the tavern keeper
+[01/06/2022 07:30]  Bly: Bly the fisherman
+[01/06/2022 07:30]  Bly: Bly the fisherman
+[01/06/2022 07:30]  im a bard: [Henchman, Syn]
+[01/06/2022 07:30]  im a bard: im a bard
+[01/06/2022 07:30]  im a bard: [Henchman, Syn]
+[01/06/2022 07:30]  im a bard: im a bard
+[01/06/2022 07:30]  Lene: Lene the salvage foreman
+[01/06/2022 07:30]  Lene: Lene the salvage foreman
+[01/06/2022 07:30]  Carlton: Carlton the stablemaster
+[01/06/2022 07:30]  Carlton: Carlton the stablemaster
+[01/06/2022 07:30]  Jayne: Jayne the innkeeper
+[01/06/2022 07:30]  Jayne: Jayne the innkeeper
+[01/06/2022 07:30]  tanka: (bonded)
+[01/06/2022 07:30]  tanka: tanka
+[01/06/2022 07:30]  tanka: (bonded)
+[01/06/2022 07:30]  tanka: tanka
+[01/06/2022 07:30]  Sherwin: Sherwin the mage
+[01/06/2022 07:30]  Sherwin: Sherwin the mage
+[01/06/2022 07:30]  Zara: Zara the scribe
+[01/06/2022 07:30]  Zara: Zara the scribe
+[01/06/2022 07:30]  Woody: Woody the alchemist
+[01/06/2022 07:30]  Woody: Woody the alchemist
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  Tadi: Tadi the thief
+[01/06/2022 07:30]  Tadi: Tadi the thief
+[01/06/2022 07:30]  Marti: Marti the healer
+[01/06/2022 07:30]  Marti: Marti the healer
+[01/06/2022 07:30]  Dusty: Dusty the cook
+[01/06/2022 07:30]  Dusty: Dusty the cook
+[01/06/2022 07:30]  Ripjaws: Ripjaws (Young)
+[01/06/2022 07:30]  Ripjaws: Ripjaws (Young)
+[01/06/2022 07:30]  Ecthrois Le Torn: [Recruit, D'L]
+[01/06/2022 07:30]  Ecthrois Le Torn: Ecthrois Le Torn
+[01/06/2022 07:30]  Ecthrois Le Torn: [Recruit, D'L]
+[01/06/2022 07:30]  Ecthrois Le Torn: Ecthrois Le Torn
+[01/06/2022 07:30]  Grace Frances: Grace Frances
+[01/06/2022 07:30]  Grace Frances: Grace Frances
+[01/06/2022 07:30]  Jessee: Jessee the guard
+[01/06/2022 07:30]  Jessee: Jessee the guard
+[01/06/2022 07:30]  a great hart: a great hart
+[01/06/2022 07:30]  a great hart: a great hart
+[01/06/2022 07:30]  a hind: a hind
+[01/06/2022 07:30]  a hind: a hind
+[01/06/2022 07:30]  an eagle: an eagle
+[01/06/2022 07:30]  an eagle: an eagle
+[01/06/2022 07:30]  System: You have left the protection of the town guards.
+[01/06/2022 07:30]  Duluth Trading: Your mount finds a quiet place to rest safely.
+[01/06/2022 07:30]  You see: a harpy corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: the remains of Sakon
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  Rossy: Rossy (Young)
+[01/06/2022 07:30]  Rossy: Rossy (Young)
+[01/06/2022 07:30]  UltimatePvM: [Recruit, -_-]
+[01/06/2022 07:30]  UltimatePvM: UltimatePvM
+[01/06/2022 07:30]  UltimatePvM: [Recruit, -_-]
+[01/06/2022 07:30]  UltimatePvM: UltimatePvM
+[01/06/2022 07:30]  Sol Sephtis: Wilderness Guardian
+[01/06/2022 07:30]  Sol Sephtis: [Vampire Fledging, Vile]
+[01/06/2022 07:30]  Sol Sephtis: Lord Sol Sephtis
+[01/06/2022 07:30]  Sol Sephtis: Wilderness Guardian
+[01/06/2022 07:30]  Sol Sephtis: [Vampire Fledging, Vile]
+[01/06/2022 07:30]  Sol Sephtis: Lord Sol Sephtis
+[01/06/2022 07:30]  DarkRyu: DarkRyu (Young)
+[01/06/2022 07:30]  DarkRyu: DarkRyu (Young)
+[01/06/2022 07:30]  Jean Bon: Jean Bon
+[01/06/2022 07:30]  Jean Bon: Jean Bon
+[01/06/2022 07:30]  Sakon: Sakon
+[01/06/2022 07:30]  Sakon: Sakon
+[01/06/2022 07:30]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:30]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  a giant rat: a giant rat
+[01/06/2022 07:30]  a giant rat: a giant rat
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  Fatuto: Fatuto
+[01/06/2022 07:30]  Fatuto: Fatuto
+[01/06/2022 07:30]  a giant rat: a giant rat
+[01/06/2022 07:30]  a giant rat: a giant rat
+[01/06/2022 07:30]  a giant rat: a giant rat
+[01/06/2022 07:30]  a giant rat: a giant rat
+[01/06/2022 07:30]  Sakon: Sakon
+[01/06/2022 07:30]  Sakon: Sakon
+[01/06/2022 07:30]  System: 1 item(s) queued to be equipped.
+[01/06/2022 07:30]  System: 1 item(s) were not found. (Out of Range)
+[01/06/2022 07:30]  System: Your skill in Tactics has increased by 10.0.  It is now 80.0.
+[01/06/2022 07:30]  a mongbat: -39
+[01/06/2022 07:30]  Sakon: Sakon
+[01/06/2022 07:30]  Sakon: Sakon
+[01/06/2022 07:30]  Fatuto: Fatuto
+[01/06/2022 07:30]  Fatuto: Fatuto
+[01/06/2022 07:30]  a mongbat: -53
+[01/06/2022 07:30]  Duluth Trading: -4
+[01/06/2022 07:30]  System: You have gained a little fame.
+[01/06/2022 07:30]  System: You have gained a little karma.
+[01/06/2022 07:30]  System: -2
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:30]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:30]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:30]  System: What corpse or location do you wish to carve?
+[01/06/2022 07:30]  Razor: Target: Duluth Trading
+[01/06/2022 07:30]  System: You carve materials from the corpse.
+[01/06/2022 07:30]  System: You will receive +2.0% damage to creatures, +0.8% damage to players, and +0.7 to barding skills (expires in 3h).
+[01/06/2022 07:30]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:30]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:30]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:30]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  You see: a rotting corpse
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  a colossal frog: (tame)
+[01/06/2022 07:30]  a colossal frog: a colossal frog
+[01/06/2022 07:30]  a colossal frog: (tame)
+[01/06/2022 07:30]  a colossal frog: a colossal frog
+[01/06/2022 07:30]  a colossal frog: (tame)
+[01/06/2022 07:30]  a colossal frog: a colossal frog
+[01/06/2022 07:30]  a colossal frog: (tame)
+[01/06/2022 07:30]  a colossal frog: a colossal frog
+[01/06/2022 07:30]  a zombie: a zombie
+[01/06/2022 07:30]  a zombie: a zombie
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:30]  Occidere Vultus: Occidere Vultus
+[01/06/2022 07:30]  Occidere Vultus: Occidere Vultus
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  You see: a headless corpse
+[01/06/2022 07:30]  You see: a giant rat corpse
+[01/06/2022 07:30]  You see: a rotting corpse
+[01/06/2022 07:30]  You see: a headless corpse
+[01/06/2022 07:30]  You see: a headless corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: a rotting corpse
+[01/06/2022 07:30]  System: Players cannot commit aggressive actions in that location.
+[01/06/2022 07:30]  a colossal frog: a colossal frog
+[01/06/2022 07:30]  a colossal frog: a colossal frog
+[01/06/2022 07:30]  You see: a headless corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: the remains of Grace Frances
+[01/06/2022 07:30]  You see: a headless corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:30]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:30]  a mongbat: (tame)
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  a mongbat: (tame)
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  You see: a skeletal corpse
+[01/06/2022 07:30]  Fatuto: Fatuto
+[01/06/2022 07:30]  Fatuto: Fatuto
+[01/06/2022 07:30]  Duluth Trading: That is out of my line of sight.
+[01/06/2022 07:30]  System: You may not loot this corpse.
+[01/06/2022 07:30]  Razor: Attack: a mongbat
+[01/06/2022 07:30]  a mongbat: -38
+[01/06/2022 07:30]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:30]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:30]  a mongbat: (tame)
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  a mongbat: (tame)
+[01/06/2022 07:30]  a mongbat: a mongbat
+[01/06/2022 07:30]  System: Players cannot commit aggressive actions in that location.
+[01/06/2022 07:30]  a mongbat: -49
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  Turquoise: Turquoise
+[01/06/2022 07:30]  System: You have gained a little fame.
+[01/06/2022 07:30]  System: You have gained a little karma.
+[01/06/2022 07:30]  System: -7
+[01/06/2022 07:30]  You see: a mongbat corpse
+[01/06/2022 07:31]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:31]  System: What corpse or location do you wish to carve?
+[01/06/2022 07:31]  System: You carve materials from the corpse.
+[01/06/2022 07:31]  System: You will receive +4.0% damage to creatures, +1.6% damage to players, and +1.5 to barding skills (expires in 3h).
+[01/06/2022 07:31]  System: You may not loot this corpse.
+[01/06/2022 07:31]  System: You will receive +6.0% damage to creatures, +2.4% damage to players, and +2.4 to barding skills (expires in 3h).
+[01/06/2022 07:31]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:31]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:31]  System: Target the container to Grab items into.
+[01/06/2022 07:31]  System: Grab Bag set: 1129774014
+[01/06/2022 07:31]  System: You carve materials from the corpse.
+[01/06/2022 07:31]  Turquoise: Turquoise
+[01/06/2022 07:31]  Turquoise: Turquoise
+[01/06/2022 07:31]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:31]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:31]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:31]  a mongbat: (tame)
+[01/06/2022 07:31]  a mongbat: a mongbat
+[01/06/2022 07:31]  a mongbat: (tame)
+[01/06/2022 07:31]  a mongbat: a mongbat
+[01/06/2022 07:31]  a giant rat: a giant rat
+[01/06/2022 07:31]  a giant rat: a giant rat
+[01/06/2022 07:31]  a mongbat: a mongbat
+[01/06/2022 07:31]  a mongbat: a mongbat
+[01/06/2022 07:31]  Fleskmann: *looks violently ill*
+[01/06/2022 07:31]  KlickLick: KlickLick (Young)
+[01/06/2022 07:31]  KlickLick: KlickLick (Young)
+[01/06/2022 07:31]  Fleskmann: *begins taming a creature.*
+[01/06/2022 07:31]  You see: the remains of Fleskmann
+[01/06/2022 07:31]  a giant rat: a giant rat
+[01/06/2022 07:31]  a giant rat: a giant rat
+[01/06/2022 07:31]  a skeleton: a skeleton
+[01/06/2022 07:31]  a skeleton: a skeleton
+[01/06/2022 07:31]  Razor: Attack: a mongbat
+[01/06/2022 07:31]  Razor: Attack: a giant rat
+[01/06/2022 07:31]  Duluth Trading: -5
+[01/06/2022 07:31]  System: You smash through the remainder of their armor, dealing grevious damage!
+[01/06/2022 07:31]  a giant rat: -95
+[01/06/2022 07:31]  a giant rat: -8
+[01/06/2022 07:31]  KlickLick: KlickLick (Young)
+[01/06/2022 07:31]  KlickLick: KlickLick (Young)
+[01/06/2022 07:31]  Razor: Attack: a giant rat
+[01/06/2022 07:31]  System: You have gained a little fame.
+[01/06/2022 07:31]  System: You have gained a little karma.
+[01/06/2022 07:31]  System: -22
+[01/06/2022 07:31]  You see: a giant rat corpse
+[01/06/2022 07:31]  Razor: Attack: a mongbat
+[01/06/2022 07:31]  a mongbat: -40
+[01/06/2022 07:31]  a mongbat: -50
+[01/06/2022 07:31]  System: You have gained a little fame.
+[01/06/2022 07:31]  System: You have gained a little karma.
+[01/06/2022 07:31]  System: -4
+[01/06/2022 07:31]  System: What corpse or location do you wish to carve?
+[01/06/2022 07:31]  You see: a mongbat corpse
+[01/06/2022 07:31]  System: You carve materials from the corpse.
+[01/06/2022 07:31]  System: You will receive +8.0% damage to creatures, +3.2% damage to players, and +3.1 to barding skills (expires in 3h).
+[01/06/2022 07:31]  System: You will receive +10.0% damage to creatures, +4.0% damage to players, and +4.0 to barding skills (expires in 3h).
+[01/06/2022 07:31]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:31]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:31]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:31]  System: NotFound has completed the achievement: Construct Slayer (Basic).
+[01/06/2022 07:31]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:31]  System: You carve materials from the corpse.
+[01/06/2022 07:31]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:31]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:31]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:31]  a mongbat: (tame)
+[01/06/2022 07:31]  a mongbat: a mongbat
+[01/06/2022 07:31]  a mongbat: (tame)
+[01/06/2022 07:31]  a mongbat: a mongbat
+[01/06/2022 07:31]  You see: a mongbat corpse
+[01/06/2022 07:31]  Jean Bon: Jean Bon
+[01/06/2022 07:31]  Jean Bon: Jean Bon
+[01/06/2022 07:31]  Occidere Vultus: Occidere Vultus
+[01/06/2022 07:31]  Occidere Vultus: Occidere Vultus
+[01/06/2022 07:31]  System: Opening door...
+[01/06/2022 07:31]  You see: a skeletal corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  System: You may not loot this corpse.
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  a headless: a headless
+[01/06/2022 07:31]  a headless: a headless
+[01/06/2022 07:31]  You see: a skeletal corpse
+[01/06/2022 07:31]  You see: a headless corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a scorpion corpse
+[01/06/2022 07:31]  You see: a rotting corpse
+[01/06/2022 07:31]  You see: a scorpion corpse
+[01/06/2022 07:31]  System: That is too far away.
+[01/06/2022 07:31]  a colossal frog: (tame)
+[01/06/2022 07:31]  a colossal frog: a colossal frog
+[01/06/2022 07:31]  a colossal frog: (tame)
+[01/06/2022 07:31]  a colossal frog: a colossal frog
+[01/06/2022 07:31]  a zombie: a zombie
+[01/06/2022 07:31]  a zombie: a zombie
+[01/06/2022 07:31]  System: Opening door...
+[01/06/2022 07:31]  System: That is too far away. [3]
+[01/06/2022 07:31]  Razor: Attack: a giant rat
+[01/06/2022 07:31]  Duluth Trading: -5
+[01/06/2022 07:31]  a giant rat: -45
+[01/06/2022 07:31]  a giant rat: -7
+[01/06/2022 07:31]  System: You may not loot this corpse.
+[01/06/2022 07:32]  System: Players cannot commit aggressive actions in that location.
+[01/06/2022 07:32]  a giant rat: -42
+[01/06/2022 07:32]  System: That is too far away.
+[01/06/2022 07:32]  System: You have gained a little fame.
+[01/06/2022 07:32]  System: You have gained a little karma.
+[01/06/2022 07:32]  System: -31
+[01/06/2022 07:32]  You see: a giant rat corpse
+[01/06/2022 07:32]  System: What corpse or location do you wish to carve?
+[01/06/2022 07:32]  System: You carve materials from the corpse.
+[01/06/2022 07:32]  System: You will receive +12.0% damage to creatures, +4.8% damage to players, and +4.8 to barding skills (expires in 3h).
+[01/06/2022 07:32]  System: You may not loot this corpse.
+[01/06/2022 07:32]  System: You will receive +14.0% damage to creatures, +5.6% damage to players, and +5.6 to barding skills (expires in 3h).
+[01/06/2022 07:32]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:32]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:32]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:32]  System: You carve materials from the corpse.
+[01/06/2022 07:32]  System: Opening door...
+[01/06/2022 07:32]  System: You may not loot this corpse.
+[01/06/2022 07:32]  System: That is too far away.
+[01/06/2022 07:32]  WhatupCouncil: [Veteran, DHK]
+[01/06/2022 07:32]  WhatupCouncil: WhatupCouncil
+[01/06/2022 07:32]  WhatupCouncil: [Veteran, DHK]
+[01/06/2022 07:32]  WhatupCouncil: WhatupCouncil
+[01/06/2022 07:32]  a skeleton: a skeleton
+[01/06/2022 07:32]  a skeleton: a skeleton
+[01/06/2022 07:32]  Razor: Attack: a headless
+[01/06/2022 07:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[01/06/2022 07:32]  a headless: -68
+[01/06/2022 07:32]  System: You may not loot this corpse.
+[01/06/2022 07:32]  a headless: -55
+[01/06/2022 07:32]  Razor: Attack: a headless
+[01/06/2022 07:32]  System: You have gained a little fame.
+[01/06/2022 07:32]  System: You have gained a little karma.
+[01/06/2022 07:32]  System: -2
+[01/06/2022 07:32]  You see: a headless corpse
+[01/06/2022 07:32]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:32]  Fatuto: Fatuto
+[01/06/2022 07:32]  Fatuto: Fatuto
+[01/06/2022 07:32]  System: What corpse or location do you wish to carve?
+[01/06/2022 07:32]  System: You carve materials from the corpse.
+[01/06/2022 07:32]  System: You will receive +16.0% damage to creatures, +6.4% damage to players, and +6.3 to barding skills (expires in 3h).
+[01/06/2022 07:32]  System: You may not loot this corpse.
+[01/06/2022 07:32]  System: You will receive +16.6% damage to creatures, +6.6% damage to players, and +6.6 to barding skills (expires in 3h).
+[01/06/2022 07:32]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:32]  Razor: [-Forensic Eval Bonus (s)]
+[01/06/2022 07:32]  Razor: [+Forensic Eval Bonus (10800s)]
+[01/06/2022 07:32]  System: [GridLoot]: Corpse is empty!
+[01/06/2022 07:32]  System: Dave Valoras has completed the achievement: Monstrous Slayer (Basic).
+[01/06/2022 07:32]  System: You carve materials from the corpse.
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a skeletal corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a giant rat corpse
+[01/06/2022 07:32]  Jean Bon: Jean Bon
+[01/06/2022 07:32]  Jean Bon: Jean Bon
+[01/06/2022 07:32]  You see: a headless corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a headless corpse
+[01/06/2022 07:32]  You see: a headless corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a skeletal corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a skeletal corpse
+[01/06/2022 07:32]  You see: a skeletal corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a headless corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: the remains of Fleskmann
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a colossal frog: a colossal frog
+[01/06/2022 07:32]  a colossal frog: a colossal frog
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a headless: a headless
+[01/06/2022 07:32]  a headless: a headless
+[01/06/2022 07:32]  a mongbat: (tame)
+[01/06/2022 07:32]  a mongbat: a mongbat
+[01/06/2022 07:32]  a mongbat: (tame)
+[01/06/2022 07:32]  a mongbat: a mongbat
+[01/06/2022 07:32]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:32]  Fleskmann: Fleskmann (Young)
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  You see: a harpy corpse
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  You see: a rotting corpse
+[01/06/2022 07:32]  a zombie: a zombie
+[01/06/2022 07:32]  a zombie: a zombie
+[01/06/2022 07:32]  You see: the remains of Sakon
+[01/06/2022 07:32]  You see: a mongbat corpse
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  Nekobomb: Transmuter
+[01/06/2022 07:32]  Nekobomb: Nekobomb
+[01/06/2022 07:32]  Nekobomb: Transmuter
+[01/06/2022 07:32]  Nekobomb: Nekobomb
+[01/06/2022 07:32]  Rossy: Rossy (Young)
+[01/06/2022 07:32]  Rossy: Rossy (Young)
+[01/06/2022 07:32]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:32]  Theodor Artaxata: Theodor Artaxata (Young)
+[01/06/2022 07:32]  Sol Sephtis: Wilderness Guardian
+[01/06/2022 07:32]  Sol Sephtis: [Vampire Fledging, Vile]
+[01/06/2022 07:32]  Sol Sephtis: Lord Sol Sephtis
+[01/06/2022 07:32]  Sol Sephtis: Wilderness Guardian
+[01/06/2022 07:32]  Sol Sephtis: [Vampire Fledging, Vile]
+[01/06/2022 07:32]  Sol Sephtis: Lord Sol Sephtis
+[01/06/2022 07:32]  a sheep: (tame)
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a mongbat: a mongbat
+[01/06/2022 07:32]  a mongbat: a mongbat
+[01/06/2022 07:32]  a mongbat: a mongbat
+[01/06/2022 07:32]  a mongbat: a mongbat
+[01/06/2022 07:32]  You see: a giant rat corpse
+[01/06/2022 07:32]  You see: a giant rat corpse
+[01/06/2022 07:32]  Theodor Artaxata: An Lor Xen [Invisibility]
+[01/06/2022 07:32]  System: You are now under the protection of the town guards.
+[01/06/2022 07:32]  a great hart: a great hart
+[01/06/2022 07:32]  a great hart: a great hart
+[01/06/2022 07:32]  a hind: a hind
+[01/06/2022 07:32]  a hind: a hind
+[01/06/2022 07:32]  WhatupCouncil: [Veteran, DHK]
+[01/06/2022 07:32]  WhatupCouncil: WhatupCouncil
+[01/06/2022 07:32]  WhatupCouncil: [Veteran, DHK]
+[01/06/2022 07:32]  WhatupCouncil: WhatupCouncil
+[01/06/2022 07:32]  Jessee: Jessee the guard
+[01/06/2022 07:32]  Jessee: Jessee the guard
+[01/06/2022 07:32]  Duluth Trading: Your mount returns.
+[01/06/2022 07:32]  Frances Grace: Frances Grace
+[01/06/2022 07:32]  Frances Grace: Frances Grace
+[01/06/2022 07:32]  Grace Frances: Grace Frances
+[01/06/2022 07:32]  Grace Frances: Grace Frances
+[01/06/2022 07:32]  Ecthrois Le Torn: [Recruit, D'L]
+[01/06/2022 07:32]  Ecthrois Le Torn: Ecthrois Le Torn
+[01/06/2022 07:32]  Ecthrois Le Torn: [Recruit, D'L]
+[01/06/2022 07:32]  Ecthrois Le Torn: Ecthrois Le Torn
+[01/06/2022 07:32]  System: (tame)
+[01/06/2022 07:32]  : a horse
+[01/06/2022 07:32]  System: (tame)
+[01/06/2022 07:32]  : a horse
+[01/06/2022 07:32]  Marti: Marti the healer
+[01/06/2022 07:32]  Marti: Marti the healer
+[01/06/2022 07:32]  Dusty: Dusty the cook
+[01/06/2022 07:32]  Dusty: Dusty the cook
+[01/06/2022 07:32]  Tadi: Tadi the thief
+[01/06/2022 07:32]  Tadi: Tadi the thief
+[01/06/2022 07:32]  Jayne: Jayne the innkeeper
+[01/06/2022 07:32]  Jayne: Jayne the innkeeper
+[01/06/2022 07:32]  Carlton: Carlton the stablemaster
+[01/06/2022 07:32]  Carlton: Carlton the stablemaster
+[01/06/2022 07:32]  AnGryBird: AnGryBird (Young)
+[01/06/2022 07:32]  AnGryBird: AnGryBird (Young)
+[01/06/2022 07:32]  tanka: (bonded)
+[01/06/2022 07:32]  tanka: tanka
+[01/06/2022 07:32]  tanka: (bonded)
+[01/06/2022 07:32]  tanka: tanka
+[01/06/2022 07:32]  Sherwin: Sherwin the mage
+[01/06/2022 07:32]  Sherwin: Sherwin the mage
+[01/06/2022 07:32]  Zara: Zara the scribe
+[01/06/2022 07:32]  Zara: Zara the scribe
+[01/06/2022 07:32]  noobii: noobii (Young)
+[01/06/2022 07:32]  noobii: noobii (Young)
+[01/06/2022 07:32]  Woody: Woody the alchemist
+[01/06/2022 07:32]  Woody: Woody the alchemist
+[01/06/2022 07:32]  Kenelm: Kenelm the tavern keeper
+[01/06/2022 07:32]  Kenelm: Kenelm the tavern keeper
+[01/06/2022 07:32]  Rosaline: Rosaline the waiter
+[01/06/2022 07:32]  Rosaline: Rosaline the waiter
+[01/06/2022 07:32]  Jordan: Jordan the beggar
+[01/06/2022 07:32]  Jordan: Jordan the beggar
+[01/06/2022 07:32]  BlurrySkies: BlurrySkies (Young)
+[01/06/2022 07:32]  BlurrySkies: BlurrySkies (Young)
+[01/06/2022 07:32]  Edyn: [A Ship People, Path]
+[01/06/2022 07:32]  Edyn: Edyn
+[01/06/2022 07:32]  Edyn: [A Ship People, Path]
+[01/06/2022 07:32]  Edyn: Edyn
+[01/06/2022 07:32]  im a bard: [Henchman, Syn]
+[01/06/2022 07:32]  im a bard: im a bard
+[01/06/2022 07:32]  im a bard: [Henchman, Syn]
+[01/06/2022 07:32]  im a bard: im a bard
+[01/06/2022 07:32]  Bly: Bly the fisherman
+[01/06/2022 07:32]  Bly: Bly the fisherman
+[01/06/2022 07:32]  Lene: Lene the salvage foreman
+[01/06/2022 07:32]  Lene: Lene the salvage foreman
+[01/06/2022 07:32]  Tai: Tai the fisherman
+[01/06/2022 07:32]  Tai: Tai the fisherman
+[01/06/2022 07:32]  a seagull: a seagull
+[01/06/2022 07:32]  a seagull: a seagull
+[01/06/2022 07:32]  Wijdan: Wijdan the mapmaker
+[01/06/2022 07:32]  Wijdan: Wijdan the mapmaker
+[01/06/2022 07:32]  Meg: Meg the bowyer
+[01/06/2022 07:32]  Meg: Meg the bowyer
+[01/06/2022 07:32]  Madelyn: Madelyn the shipwright
+[01/06/2022 07:32]  Madelyn: Madelyn the shipwright
+[01/06/2022 07:32]  Raelis: Raelis (Young)
+[01/06/2022 07:32]  Raelis: Raelis (Young)
+[01/06/2022 07:32]  Colon: Colon the Town Crier
+[01/06/2022 07:32]  Colon: Colon the Town Crier
+[01/06/2022 07:32]  Mercail: Mercail
+[01/06/2022 07:32]  Mercail: Mercail
+[01/06/2022 07:32]  Chane: Chane the carpenter
+[01/06/2022 07:32]  Chane: Chane the carpenter
+[01/06/2022 07:32]  Alicia: Alicia the tavern keeper
+[01/06/2022 07:32]  Alicia: Alicia the tavern keeper
+[01/06/2022 07:32]  Bilal: Bilal the blacksmith
+[01/06/2022 07:32]  Bilal: Bilal the blacksmith
+[01/06/2022 07:32]  Amadis: Amadis the armorer
+[01/06/2022 07:32]  Amadis: Amadis the armorer
+[01/06/2022 07:32]  BamboochaKopac: BamboochaKopac (Young)
+[01/06/2022 07:32]  BamboochaKopac: BamboochaKopac (Young)
+[01/06/2022 07:32]  Len: Len the banker
+[01/06/2022 07:32]  Len: Len the banker
+[01/06/2022 07:32]  Komor: Komor the tanner
+[01/06/2022 07:32]  Komor: Komor the tanner
+[01/06/2022 07:32]  Kamali: Kamali the butcher
+[01/06/2022 07:32]  Kamali: Kamali the butcher
+[01/06/2022 07:32]  Ayisha: Ayisha the weaponsmith
+[01/06/2022 07:32]  Ayisha: Ayisha the weaponsmith
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  a sheep: a sheep
+[01/06/2022 07:32]  System: Your skill in Tactics has decreased by 10.0.  It is now 70.0.
+[01/06/2022 07:33]  System: ChifeMaster has completed the achievement: Woodsman (Basic).
+[01/06/2022 07:33]  noobii: noobii (Young)
+[01/06/2022 07:33]  noobii: noobii (Young)
+[01/06/2022 07:33]  Ardith: Ardith the tailor
+[01/06/2022 07:33]  Ardith: Ardith the tailor
+[01/06/2022 07:33]  System: Target an item to repair.
+[01/06/2022 07:33]  System: Target an item to repair.
+[01/06/2022 07:33]  a sheep: a sheep
+[01/06/2022 07:33]  a sheep: a sheep
+[01/06/2022 07:33]  Duluth Trading: Kal Ort Por [Recall]
+[01/06/2022 07:33]  Mercail: Mercail
+[01/06/2022 07:33]  Mercail: Mercail
+[01/06/2022 07:33]  System: You have left the protection of the town guards.
+[01/06/2022 07:33]  a giant rat: a giant rat
+[01/06/2022 07:33]  a giant rat: a giant rat
+[01/06/2022 07:33]  an orc: an orc
+[01/06/2022 07:33]  an orc: an orc
+[01/06/2022 07:33]  System: Playing Macro 'Healing'...
+[01/06/2022 07:33]  System: Opening door...
+[01/06/2022 07:33]  System: Your house and its contents have been refreshed. 29 days 2 hours 40 minutes remaining until owner refresh required.
+[01/06/2022 07:33]  a mongbat: a mongbat
+[01/06/2022 07:33]  a mongbat: a mongbat
+[01/06/2022 07:33]  a giant rat: a giant rat
+[01/06/2022 07:33]  a giant rat: a giant rat
+[01/06/2022 07:33]  You see: leather : 21
+[01/06/2022 07:33]  System: Warning: ribs amount is now 1!
+[01/06/2022 07:33]  You see: raw ribs : 2096
+[01/06/2022 07:34]  System: Random: 2
+[01/06/2022 07:34]  System: Random: 2
+[01/06/2022 07:34]  System: Random: 1
+[01/06/2022 07:34]  System: Random: 1
+[01/06/2022 07:34]  System: Random: 1
+[01/06/2022 07:34]  System: Random: 1
+[01/06/2022 07:34]  Duluth Trading: Our greatest glory is not in never falling, but in rising every time we fall. – Confucius

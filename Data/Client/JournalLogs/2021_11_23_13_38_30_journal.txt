@@ -1,0 +1,871 @@
+[11/23/2021 13:38]  System: WorldMap loading...
+[11/23/2021 13:38]  System: Loading WorldMap markers..
+[11/23/2021 13:38]  System: ..Banks_and_Healers.xml (20)
+[11/23/2021 13:38]  System: ..Dungeons.xml (12)
+[11/23/2021 13:38]  System: ..Dungeon_Gates.xml (335)
+[11/23/2021 13:38]  System: ..Healer_Caravans.xml (32)
+[11/23/2021 13:38]  System: ..Moongates.xml (9)
+[11/23/2021 13:38]  System: ..POI.xml (176)
+[11/23/2021 13:38]  System: ..Shrines.xml (9)
+[11/23/2021 13:38]  System: ..Subterranean.xml (6)
+[11/23/2021 13:38]  System: ..Townships.xml (9)
+[11/23/2021 13:38]  System: WorldMap markers loaded (608)
+[11/23/2021 13:38]  System: Welcome Stink Fist!
+[11/23/2021 13:38]  Razor: [- (s)]
+[11/23/2021 13:38]  Razor: [+Forensic Eval Bonus (9858s)]
+[11/23/2021 13:38]  Razor: [- (s)]
+[11/23/2021 13:38]  Razor: [+Hidden/Stealthing (0s)]
+[11/23/2021 13:38]  Razor: [- (s)]
+[11/23/2021 13:38]  Razor: [+Food Satisfaction (2644s)]
+[11/23/2021 13:38]  System: WorldMap loaded!
+[11/23/2021 13:38]  You see: bacon feast
+[11/23/2021 13:38]  You see: (delectable)
+[11/23/2021 13:39]  You see: gold coin : 223
+[11/23/2021 13:39]  System: Warning: ribs amount is now 0!
+[11/23/2021 13:39]  System: HeliumFreak has completed the achievement: Captain (Master).
+[11/23/2021 13:40]  System: Your skill in Tactics has decreased by 10.0.  It is now 95.8.
+[11/23/2021 13:40]  Razor: [-Hidden/Stealthing (s)]
+[11/23/2021 13:40]  Stink Fist: Kal Ort Por [Recall]
+[11/23/2021 13:40]  an ogre lord: an ogre lord
+[11/23/2021 13:40]  an ogre: an ogre
+[11/23/2021 13:40]  an ogre mage: an ogre mage
+[11/23/2021 13:40]  Waldo: Waldo the dockmaster
+[11/23/2021 13:40]  Stink Fist: The food is delectable and is intensely satisfying.
+[11/23/2021 13:40]  System: You are completely full.
+[11/23/2021 13:40]  Razor: [-Food Satisfaction (s)]
+[11/23/2021 13:40]  Razor: [+Food Satisfaction (3600s)]
+[11/23/2021 13:40]  System: Your skill in Tactics has increased by 10.0.  It is now 105.8.
+[11/23/2021 13:40]  System: Playing Macro 'Healing'...
+[11/23/2021 13:40]  Razor: Attack: an ogre
+[11/23/2021 13:40]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:40]  an ogre: -33
+[11/23/2021 13:40]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:40]  an ogre: -39
+[11/23/2021 13:40]  an ogre: -38
+[11/23/2021 13:40]  an ogre: -43
+[11/23/2021 13:40]  an ogre: -41
+[11/23/2021 13:40]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:40]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/23/2021 13:40]  an ogre: -96
+[11/23/2021 13:40]  an ogre: -67
+[11/23/2021 13:40]  Stink Fist: -11
+[11/23/2021 13:40]  System: Who will you use the bandages on?
+[11/23/2021 13:40]  Razor: Healing Started
+[11/23/2021 13:40]  System: You begin applying the bandages.
+[11/23/2021 13:40]  Razor: Bandage: 1s
+[11/23/2021 13:40]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:40]  an ogre: -49
+[11/23/2021 13:40]  Razor: Bandage: 2s
+[11/23/2021 13:40]  Stink Fist: -11
+[11/23/2021 13:40]  System: Your fingers slip!
+[11/23/2021 13:40]  Razor: Bandage: 3s
+[11/23/2021 13:40]  System: You have gained a little fame.
+[11/23/2021 13:40]  System: You have gained a little karma.
+[11/23/2021 13:40]  Stink Fist: (Earth Aspect 197.9/1000 xp)
+[11/23/2021 13:40]  System: -94
+[11/23/2021 13:40]  You see: an ogre corpse
+[11/23/2021 13:40]  Razor: Bandage: 4s
+[11/23/2021 13:40]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:40]  Razor: Bandage: 5s
+[11/23/2021 13:40]  Razor: Bandage: 6s
+[11/23/2021 13:40]  System: What corpse or location do you wish to carve?
+[11/23/2021 13:40]  Razor: Bandage: 7s
+[11/23/2021 13:40]  Razor: Target: Stink Fist
+[11/23/2021 13:40]  System: You carve materials from the corpse.
+[11/23/2021 13:40]  Razor: [-Forensic Eval Bonus (s)]
+[11/23/2021 13:40]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/23/2021 13:40]  Razor: Bandage: 8s
+[11/23/2021 13:40]  Razor: Bandage: 9s
+[11/23/2021 13:40]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:40]  Razor: Bandage: 10s
+[11/23/2021 13:40]  System: You finish applying the bandages.
+[11/23/2021 13:40]  Stink Fist: +20
+[11/23/2021 13:40]  Noel: Noel the dockmaster
+[11/23/2021 13:40]  a cyclops: a cyclops
+[11/23/2021 13:41]  Razor: Attack: a cyclops
+[11/23/2021 13:41]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:41]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:41]  Razor: Attack: an ogre lord
+[11/23/2021 13:41]  an ogre: an ogre
+[11/23/2021 13:41]  Razor: Attack: an ogre lord
+[11/23/2021 13:41]  Razor: Attack: an ogre lord
+[11/23/2021 13:41]  an ogre lord: -56
+[11/23/2021 13:41]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:41]  an ogre lord: -142
+[11/23/2021 13:41]  an ogre lord: -51
+[11/23/2021 13:41]  an ogre lord: -42
+[11/23/2021 13:41]  an ogre lord: -61
+[11/23/2021 13:41]  an ogre lord: -61
+[11/23/2021 13:41]  an ogre lord: -47
+[11/23/2021 13:41]  Stink Fist: -4
+[11/23/2021 13:41]  System: Who will you use the bandages on?
+[11/23/2021 13:41]  Razor: Healing Started
+[11/23/2021 13:41]  System: You begin applying the bandages.
+[11/23/2021 13:41]  an ogre lord: -44
+[11/23/2021 13:41]  Razor: Bandage: 1s
+[11/23/2021 13:41]  System: Your strength has changed by 20.  It is now 120
+[11/23/2021 13:41]  Razor: [+Strength (216s)]
+[11/23/2021 13:41]  Razor: Str: +20 - 120
+[11/23/2021 13:41]  Razor: [-Strength (s)]
+[11/23/2021 13:41]  Razor: [+Strength (216s)]
+[11/23/2021 13:41]  an ogre lord: -56
+[11/23/2021 13:41]  Razor: Bandage: 2s
+[11/23/2021 13:41]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:41]  Razor: Bandage: 3s
+[11/23/2021 13:41]  System: Your dexterity has changed by 20.  It is now 120
+[11/23/2021 13:41]  Razor: [+Agility (216s)]
+[11/23/2021 13:41]  Razor: Dex: +20 - 120
+[11/23/2021 13:41]  Razor: [-Agility (s)]
+[11/23/2021 13:41]  Razor: [+Agility (216s)]
+[11/23/2021 13:41]  Razor: Bandage: 4s
+[11/23/2021 13:41]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:41]  Razor: Bandage: 5s
+[11/23/2021 13:41]  Razor: Bandage: 6s
+[11/23/2021 13:41]  Razor: Bandage: 7s
+[11/23/2021 13:41]  an ogre lord: -60
+[11/23/2021 13:41]  Razor: Bandage: 8s
+[11/23/2021 13:41]  Razor: Bandage: 9s
+[11/23/2021 13:41]  Razor: Bandage: 10s
+[11/23/2021 13:41]  System: You finish applying the bandages.
+[11/23/2021 13:41]  Stink Fist: +22
+[11/23/2021 13:41]  an ogre lord: -23
+[11/23/2021 13:41]  Stink Fist: -23
+[11/23/2021 13:41]  System: Who will you use the bandages on?
+[11/23/2021 13:41]  Razor: Healing Started
+[11/23/2021 13:41]  System: You begin applying the bandages.
+[11/23/2021 13:41]  Razor: Bandage: 1s
+[11/23/2021 13:41]  an ogre lord: -55
+[11/23/2021 13:41]  Razor: Bandage: 2s
+[11/23/2021 13:41]  Razor: Bandage: 3s
+[11/23/2021 13:41]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:41]  System: Your attack hinders your target!
+[11/23/2021 13:41]  an ogre lord: -62
+[11/23/2021 13:41]  Razor: Bandage: 4s
+[11/23/2021 13:41]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:41]  Razor: Bandage: 5s
+[11/23/2021 13:41]  an ogre lord: -42
+[11/23/2021 13:41]  Razor: Bandage: 6s
+[11/23/2021 13:41]  an ogre lord: -42
+[11/23/2021 13:41]  Razor: Bandage: 7s
+[11/23/2021 13:41]  Razor: Bandage: 8s
+[11/23/2021 13:41]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:41]  an ogre lord: -56
+[11/23/2021 13:41]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[11/23/2021 13:41]  Stink Fist: -15
+[11/23/2021 13:41]  System: Your fingers slip!
+[11/23/2021 13:41]  Razor: Bandage: 9s
+[11/23/2021 13:41]  an ogre lord: -46
+[11/23/2021 13:41]  Razor: Bandage: 10s
+[11/23/2021 13:41]  System: You finish applying the bandages.
+[11/23/2021 13:41]  Stink Fist: +36
+[11/23/2021 13:41]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:41]  an ogre lord: -95
+[11/23/2021 13:41]  an ogre lord: -11
+[11/23/2021 13:41]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:41]  Stink Fist: -16
+[11/23/2021 13:41]  System: Who will you use the bandages on?
+[11/23/2021 13:41]  Razor: Healing Started
+[11/23/2021 13:41]  System: You begin applying the bandages.
+[11/23/2021 13:41]  Razor: Bandage: 1s
+[11/23/2021 13:41]  an ogre lord: -53
+[11/23/2021 13:41]  an ogre lord: -11
+[11/23/2021 13:41]  Razor: Bandage: 2s
+[11/23/2021 13:41]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:41]  an ogre lord: -84
+[11/23/2021 13:41]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[11/23/2021 13:41]  Razor: Bandage: 3s
+[11/23/2021 13:41]  Razor: Bandage: 4s
+[11/23/2021 13:42]  an ogre lord: -11
+[11/23/2021 13:42]  Razor: Bandage: 5s
+[11/23/2021 13:42]  an ogre lord: -17
+[11/23/2021 13:42]  Razor: Bandage: 6s
+[11/23/2021 13:42]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:42]  Stink Fist: -5
+[11/23/2021 13:42]  System: Your fingers slip!
+[11/23/2021 13:42]  Razor: Bandage: 7s
+[11/23/2021 13:42]  an ogre lord: -11
+[11/23/2021 13:42]  Razor: Bandage: 8s
+[11/23/2021 13:42]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:42]  System: You have gained some fame.
+[11/23/2021 13:42]  System: You have gained some karma.
+[11/23/2021 13:42]  Stink Fist: (Earth Aspect 199.4/1000 xp)
+[11/23/2021 13:42]  System: -11
+[11/23/2021 13:42]  You see: an ogre lord corpse
+[11/23/2021 13:42]  Razor: Bandage: 9s
+[11/23/2021 13:42]  System: You finish applying the bandages.
+[11/23/2021 13:42]  Stink Fist: +19
+[11/23/2021 13:42]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:42]  System: What corpse or location do you wish to carve?
+[11/23/2021 13:42]  System: Captcha successful.
+[11/23/2021 13:42]  System: You carve materials from the corpse.
+[11/23/2021 13:42]  Razor: [-Forensic Eval Bonus (s)]
+[11/23/2021 13:42]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/23/2021 13:42]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:42]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:42]  an ogre mage: an ogre mage
+[11/23/2021 13:42]  an ogre: an ogre
+[11/23/2021 13:42]  an ogre: an ogre
+[11/23/2021 13:42]  an ogre mage: an ogre mage
+[11/23/2021 13:42]  an ogre: an ogre
+[11/23/2021 13:42]  an ogre lord: an ogre lord
+[11/23/2021 13:42]  Waldo: Waldo the dockmaster
+[11/23/2021 13:42]  Razor: Attack: a cyclops
+[11/23/2021 13:42]  a cyclops: -42
+[11/23/2021 13:42]  You see: an ogre corpse
+[11/23/2021 13:42]  System: Your skill in Mace Fighting has decreased by 0.1.  It is now 11.9.
+[11/23/2021 13:42]  System: Your skill in Wrestling has increased by 0.1.  It is now 88.5.
+[11/23/2021 13:42]  a cyclops: -30
+[11/23/2021 13:42]  Razor: [Macing] -0.1 11.9 (-0.1)
+[11/23/2021 13:42]  Razor: [Wrestling] +0.1 88.5 (+0.1)
+[11/23/2021 13:42]  a cyclops: -60
+[11/23/2021 13:42]  Stink Fist: -21
+[11/23/2021 13:42]  System: Who will you use the bandages on?
+[11/23/2021 13:42]  Razor: Healing Started
+[11/23/2021 13:42]  System: You begin applying the bandages.
+[11/23/2021 13:42]  a cyclops: -47
+[11/23/2021 13:42]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:42]  Razor: Bandage: 1s
+[11/23/2021 13:42]  Razor: Bandage: 2s
+[11/23/2021 13:42]  Stink Fist: -20
+[11/23/2021 13:42]  System: Your fingers slip!
+[11/23/2021 13:42]  Razor: Bandage: 3s
+[11/23/2021 13:42]  a cyclops: -66
+[11/23/2021 13:42]  Razor: Bandage: 4s
+[11/23/2021 13:42]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:42]  Razor: Bandage: 5s
+[11/23/2021 13:42]  a cyclops: -52
+[11/23/2021 13:42]  Razor: Bandage: 6s
+[11/23/2021 13:42]  Stink Fist: -19
+[11/23/2021 13:42]  Razor: Bandage: 7s
+[11/23/2021 13:42]  a cyclops: -39
+[11/23/2021 13:42]  Razor: Bandage: 8s
+[11/23/2021 13:42]  Noel: Noel the dockmaster
+[11/23/2021 13:42]  Razor: Bandage: 9s
+[11/23/2021 13:42]  Razor: Bandage: 10s
+[11/23/2021 13:42]  Stink Fist: -20
+[11/23/2021 13:42]  System: Your fingers slip!
+[11/23/2021 13:42]  System: You finish applying the bandages.
+[11/23/2021 13:42]  Stink Fist: +49
+[11/23/2021 13:42]  System: Who will you use the bandages on?
+[11/23/2021 13:42]  Razor: Healing Started
+[11/23/2021 13:42]  System: You begin applying the bandages.
+[11/23/2021 13:42]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:42]  System: Your attack hinders your target!
+[11/23/2021 13:42]  a cyclops: -83
+[11/23/2021 13:42]  Razor: Bandage: 1s
+[11/23/2021 13:42]  a cyclops: -49
+[11/23/2021 13:42]  Razor: Bandage: 2s
+[11/23/2021 13:42]  Razor: Bandage: 3s
+[11/23/2021 13:42]  Razor: Bandage: 4s
+[11/23/2021 13:42]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:42]  Razor: Bandage: 5s
+[11/23/2021 13:42]  Stink Fist: -7
+[11/23/2021 13:42]  System: Your fingers slip!
+[11/23/2021 13:42]  Razor: Bandage: 6s
+[11/23/2021 13:42]  Razor: Bandage: 7s
+[11/23/2021 13:42]  Razor: Bandage: 8s
+[11/23/2021 13:42]  Razor: Bandage: 9s
+[11/23/2021 13:42]  Razor: Bandage: 10s
+[11/23/2021 13:42]  System: You finish applying the bandages.
+[11/23/2021 13:42]  Stink Fist: +33
+[11/23/2021 13:42]  a cyclops: -41
+[11/23/2021 13:42]  a cyclops: -40
+[11/23/2021 13:42]  a cyclops: -54
+[11/23/2021 13:42]  a cyclops: -48
+[11/23/2021 13:43]  Stink Fist: -7
+[11/23/2021 13:43]  System: Who will you use the bandages on?
+[11/23/2021 13:43]  Razor: Healing Started
+[11/23/2021 13:43]  System: You begin applying the bandages.
+[11/23/2021 13:43]  a cyclops: -47
+[11/23/2021 13:43]  Razor: Bandage: 1s
+[11/23/2021 13:43]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:43]  Razor: Bandage: 2s
+[11/23/2021 13:43]  Razor: Bandage: 3s
+[11/23/2021 13:43]  a cyclops: -31
+[11/23/2021 13:43]  Razor: Bandage: 4s
+[11/23/2021 13:43]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:43]  Razor: Bandage: 5s
+[11/23/2021 13:43]  a cyclops: -28
+[11/23/2021 13:43]  Razor: Bandage: 6s
+[11/23/2021 13:43]  a cyclops: -33
+[11/23/2021 13:43]  Razor: Bandage: 7s
+[11/23/2021 13:43]  Razor: Bandage: 8s
+[11/23/2021 13:43]  Razor: Bandage: 9s
+[11/23/2021 13:43]  a cyclops: -40
+[11/23/2021 13:43]  Stink Fist: -20
+[11/23/2021 13:43]  Razor: Bandage: 10s
+[11/23/2021 13:43]  System: You finish applying the bandages.
+[11/23/2021 13:43]  Stink Fist: +25
+[11/23/2021 13:43]  Stink Fist: -18
+[11/23/2021 13:43]  System: Who will you use the bandages on?
+[11/23/2021 13:43]  Razor: Healing Started
+[11/23/2021 13:43]  System: You begin applying the bandages.
+[11/23/2021 13:43]  a cyclops: -30
+[11/23/2021 13:43]  Razor: Bandage: 1s
+[11/23/2021 13:43]  Razor: Bandage: 2s
+[11/23/2021 13:43]  Razor: Bandage: 3s
+[11/23/2021 13:43]  Stink Fist: -23
+[11/23/2021 13:43]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:43]  Razor: Bandage: 4s
+[11/23/2021 13:43]  Razor: Bandage: 5s
+[11/23/2021 13:43]  a cyclops: -38
+[11/23/2021 13:43]  Razor: Bandage: 6s
+[11/23/2021 13:43]  Razor: Bandage: 7s
+[11/23/2021 13:43]  Razor: Bandage: 8s
+[11/23/2021 13:43]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:43]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:43]  a cyclops: -49
+[11/23/2021 13:43]  Razor: Bandage: 9s
+[11/23/2021 13:43]  Stink Fist: -4
+[11/23/2021 13:43]  Razor: Bandage: 10s
+[11/23/2021 13:43]  System: You finish applying the bandages.
+[11/23/2021 13:43]  Stink Fist: +43
+[11/23/2021 13:43]  a cyclops: -26
+[11/23/2021 13:43]  Stink Fist: -6
+[11/23/2021 13:43]  System: Who will you use the bandages on?
+[11/23/2021 13:43]  Razor: Healing Started
+[11/23/2021 13:43]  System: You begin applying the bandages.
+[11/23/2021 13:43]  Razor: Bandage: 1s
+[11/23/2021 13:43]  a cyclops: -57
+[11/23/2021 13:43]  Razor: Bandage: 2s
+[11/23/2021 13:43]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:43]  a cyclops: -49
+[11/23/2021 13:43]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[11/23/2021 13:43]  System: You may now use a strength potion.
+[11/23/2021 13:43]  Razor: Bandage: 3s
+[11/23/2021 13:43]  Stink Fist: -6
+[11/23/2021 13:43]  Razor: Bandage: 4s
+[11/23/2021 13:43]  a cyclops: -41
+[11/23/2021 13:43]  System: You may now use an agility potion.
+[11/23/2021 13:43]  Razor: Bandage: 5s
+[11/23/2021 13:43]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:43]  a cyclops: -39
+[11/23/2021 13:43]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:43]  a cyclops: -10
+[11/23/2021 13:43]  Razor: Bandage: 6s
+[11/23/2021 13:43]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:43]  Razor: Bandage: 7s
+[11/23/2021 13:43]  Razor: Bandage: 8s
+[11/23/2021 13:43]  a cyclops: -10
+[11/23/2021 13:43]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:43]  Razor: Bandage: 9s
+[11/23/2021 13:43]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:43]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/23/2021 13:43]  a cyclops: -96
+[11/23/2021 13:43]  Razor: Bandage: 10s
+[11/23/2021 13:43]  System: You finish applying the bandages.
+[11/23/2021 13:43]  Stink Fist: +10
+[11/23/2021 13:43]  System: Aravanya has completed the achievement: Connoisseur (Advanced).
+[11/23/2021 13:43]  a cyclops: -33
+[11/23/2021 13:43]  a cyclops: -10
+[11/23/2021 13:43]  a cyclops: -43
+[11/23/2021 13:43]  a cyclops: -10
+[11/23/2021 13:43]  a cyclops: -10
+[11/23/2021 13:43]  a cyclops: -43
+[11/23/2021 13:43]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:43]  a cyclops: -103
+[11/23/2021 13:43]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:43]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:43]  System: You have gained some fame.
+[11/23/2021 13:43]  System: You have gained some karma.
+[11/23/2021 13:43]  Stink Fist: (Earth Aspect 201.8/1000 xp)
+[11/23/2021 13:43]  System: -35
+[11/23/2021 13:43]  You see: a cyclops corpse
+[11/23/2021 13:43]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:43]  System: What corpse or location do you wish to carve?
+[11/23/2021 13:43]  System: You carve materials from the corpse.
+[11/23/2021 13:43]  Razor: [-Forensic Eval Bonus (s)]
+[11/23/2021 13:43]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/23/2021 13:43]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:44]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:44]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:44]  an ogre: an ogre
+[11/23/2021 13:44]  an ogre mage: an ogre mage
+[11/23/2021 13:44]  an ogre mage: an ogre mage
+[11/23/2021 13:44]  an ogre: an ogre
+[11/23/2021 13:44]  Waldo: Waldo the dockmaster
+[11/23/2021 13:44]  Roth: Roth the barkeeper
+[11/23/2021 13:44]  Razor: Attack: an ogre mage
+[11/23/2021 13:44]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:44]  Stink Fist: -8
+[11/23/2021 13:44]  System: Who will you use the bandages on?
+[11/23/2021 13:44]  Razor: Healing Started
+[11/23/2021 13:44]  You see: an ogre lord corpse
+[11/23/2021 13:44]  System: You begin applying the bandages.
+[11/23/2021 13:44]  Razor: Bandage: 1s
+[11/23/2021 13:44]  Razor: Bandage: 2s
+[11/23/2021 13:44]  an ogre mage: -34
+[11/23/2021 13:44]  Razor: Bandage: 3s
+[11/23/2021 13:44]  Razor: Bandage: 4s
+[11/23/2021 13:44]  You see: a cyclops corpse
+[11/23/2021 13:44]  Razor: Bandage: 5s
+[11/23/2021 13:44]  Stink Fist: -3
+[11/23/2021 13:44]  System: Your fingers slip!
+[11/23/2021 13:44]  Razor: Bandage: 6s
+[11/23/2021 13:44]  an ogre mage: -59
+[11/23/2021 13:44]  Stink Fist: -3
+[11/23/2021 13:44]  Razor: Bandage: 7s
+[11/23/2021 13:44]  Razor: Bandage: 8s
+[11/23/2021 13:44]  an ogre mage: -28
+[11/23/2021 13:44]  You see: a cyclops corpse
+[11/23/2021 13:44]  System: Your fingers slip!
+[11/23/2021 13:44]  Razor: Bandage: 9s
+[11/23/2021 13:44]  Razor: Bandage: 10s
+[11/23/2021 13:44]  System: You finish applying the bandages.
+[11/23/2021 13:44]  Stink Fist: +12
+[11/23/2021 13:44]  an ogre mage: -47
+[11/23/2021 13:44]  Stink Fist: -9
+[11/23/2021 13:44]  System: Who will you use the bandages on?
+[11/23/2021 13:44]  Razor: Healing Started
+[11/23/2021 13:44]  System: You begin applying the bandages.
+[11/23/2021 13:44]  Razor: Bandage: 1s
+[11/23/2021 13:44]  an ogre mage: an ogre mage
+[11/23/2021 13:44]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:44]  Razor: Bandage: 2s
+[11/23/2021 13:44]  Stink Fist: -5
+[11/23/2021 13:44]  System: Your fingers slip!
+[11/23/2021 13:44]  an ogre mage: -41
+[11/23/2021 13:44]  Razor: Bandage: 3s
+[11/23/2021 13:44]  Razor: Bandage: 4s
+[11/23/2021 13:44]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:44]  Razor: Bandage: 5s
+[11/23/2021 13:44]  an ogre mage: -24
+[11/23/2021 13:44]  System: Your skill in Tactics has decreased by 10.0.  It is now 95.8.
+[11/23/2021 13:44]  Stink Fist: -4
+[11/23/2021 13:44]  Razor: Bandage: 6s
+[11/23/2021 13:44]  System: Your fingers slip!
+[11/23/2021 13:44]  an ogre mage: -3
+[11/23/2021 13:44]  Razor: Bandage: 7s
+[11/23/2021 13:44]  Razor: Bandage: 8s
+[11/23/2021 13:44]  an ogre mage: -3
+[11/23/2021 13:44]  Razor: Bandage: 9s
+[11/23/2021 13:44]  Razor: Bandage: 10s
+[11/23/2021 13:44]  System: You finish applying the bandages.
+[11/23/2021 13:44]  Stink Fist: +16
+[11/23/2021 13:44]  Stink Fist: -12
+[11/23/2021 13:44]  an ogre mage: -3
+[11/23/2021 13:44]  System: Who will you use the bandages on?
+[11/23/2021 13:44]  Razor: Healing Started
+[11/23/2021 13:44]  an ogre lord: an ogre lord
+[11/23/2021 13:44]  System: You begin applying the bandages.
+[11/23/2021 13:44]  System: Your skill in Mace Fighting has decreased by 0.1.  It is now 11.8.
+[11/23/2021 13:44]  System: Your skill in Wrestling has increased by 0.1.  It is now 88.6.
+[11/23/2021 13:44]  Razor: [Macing] -0.1 11.8 (-0.2)
+[11/23/2021 13:44]  Razor: [Wrestling] +0.1 88.6 (+0.2)
+[11/23/2021 13:44]  Razor: Bandage: 1s
+[11/23/2021 13:44]  Razor: Bandage: 2s
+[11/23/2021 13:44]  Razor: Bandage: 3s
+[11/23/2021 13:44]  Stink Fist: -4
+[11/23/2021 13:44]  an ogre mage: -3
+[11/23/2021 13:44]  Razor: Bandage: 4s
+[11/23/2021 13:44]  System: Your skill in Tactics has increased by 10.0.  It is now 105.8.
+[11/23/2021 13:44]  Razor: Bandage: 5s
+[11/23/2021 13:44]  an ogre mage: -20
+[11/23/2021 13:44]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:44]  Razor: Bandage: 6s
+[11/23/2021 13:44]  System: Your skill in Mace Fighting has decreased by 0.1.  It is now 11.7.
+[11/23/2021 13:44]  System: Your skill in Chivalry has increased by 0.1.  It is now 83.9.
+[11/23/2021 13:44]  Razor: [Macing] -0.1 11.7 (-0.3)
+[11/23/2021 13:44]  Razor: [Chivalry] +0.1 83.9 (+0.1)
+[11/23/2021 13:44]  Razor: Bandage: 7s
+[11/23/2021 13:44]  System: You absorb their spell (6.4% current damage bonus).
+[11/23/2021 13:44]  Razor: Bandage: 8s
+[11/23/2021 13:44]  Stink Fist: -3
+[11/23/2021 13:44]  Razor: Bandage: 9s
+[11/23/2021 13:44]  an ogre mage: -44
+[11/23/2021 13:44]  Razor: Bandage: 10s
+[11/23/2021 13:44]  System: You finish applying the bandages.
+[11/23/2021 13:44]  Stink Fist: +17
+[11/23/2021 13:44]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:44]  an ogre mage: -41
+[11/23/2021 13:44]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[11/23/2021 13:44]  Stink Fist: -4
+[11/23/2021 13:44]  System: Who will you use the bandages on?
+[11/23/2021 13:44]  Razor: Healing Started
+[11/23/2021 13:44]  System: You begin applying the bandages.
+[11/23/2021 13:44]  Razor: Bandage: 1s
+[11/23/2021 13:44]  an ogre mage: -55
+[11/23/2021 13:44]  an ogre: an ogre
+[11/23/2021 13:44]  Razor: Bandage: 2s
+[11/23/2021 13:45]  an ogre mage: -8
+[11/23/2021 13:45]  Razor: Bandage: 3s
+[11/23/2021 13:45]  System: You absorb their spell (12.8% current damage bonus).
+[11/23/2021 13:45]  an ogre: an ogre
+[11/23/2021 13:45]  Waldo: Waldo the dockmaster
+[11/23/2021 13:45]  an ogre mage: -37
+[11/23/2021 13:45]  Razor: Bandage: 4s
+[11/23/2021 13:45]  Stink Fist: -3
+[11/23/2021 13:45]  System: Your fingers slip!
+[11/23/2021 13:45]  Stink Fist: -2
+[11/23/2021 13:45]  Razor: Bandage: 5s
+[11/23/2021 13:45]  an ogre mage: -37
+[11/23/2021 13:45]  an ogre: an ogre
+[11/23/2021 13:45]  an ogre mage: -8
+[11/23/2021 13:45]  Razor: Bandage: 6s
+[11/23/2021 13:45]  an ogre mage: -69
+[11/23/2021 13:45]  Razor: Bandage: 7s
+[11/23/2021 13:45]  Razor: Bandage: 8s
+[11/23/2021 13:45]  Stink Fist: -3
+[11/23/2021 13:45]  System: Your fingers slip!
+[11/23/2021 13:45]  an ogre mage: -8
+[11/23/2021 13:45]  Razor: Bandage: 9s
+[11/23/2021 13:45]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:45]  an ogre mage: -63
+[11/23/2021 13:45]  System: Your strength has changed by -20.  It is now 100
+[11/23/2021 13:45]  Razor: [-Strength (s)]
+[11/23/2021 13:45]  Razor: Str: -20 - 100
+[11/23/2021 13:45]  System: You heal what little damage you had.
+[11/23/2021 13:45]  an ogre mage: an ogre mage
+[11/23/2021 13:45]  an ogre mage: -29
+[11/23/2021 13:45]  System: Your dexterity has changed by -20.  It is now 100
+[11/23/2021 13:45]  Razor: [-Agility (s)]
+[11/23/2021 13:45]  Razor: Dex: -20 - 100
+[11/23/2021 13:45]  an ogre mage: -8
+[11/23/2021 13:45]  an ogre mage: -28
+[11/23/2021 13:45]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:45]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:45]  System: You smash through the remainder of their armor, dealing grevious damage!
+[11/23/2021 13:45]  System: You have gained a little fame.
+[11/23/2021 13:45]  System: You have gained a little karma.
+[11/23/2021 13:45]  Stink Fist: (Earth Aspect 202.7/1000 xp)
+[11/23/2021 13:45]  System: -50
+[11/23/2021 13:45]  You see: an ogre mage corpse
+[11/23/2021 13:45]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:45]  System: What corpse or location do you wish to carve?
+[11/23/2021 13:45]  System: You carve materials from the corpse.
+[11/23/2021 13:45]  Razor: [-Forensic Eval Bonus (s)]
+[11/23/2021 13:45]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/23/2021 13:45]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:45]  Noel: Noel the dockmaster
+[11/23/2021 13:45]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:45]  Razor: Attack: an ogre
+[11/23/2021 13:45]  an ogre: -48
+[11/23/2021 13:45]  an ogre: -153
+[11/23/2021 13:45]  an ogre: -55
+[11/23/2021 13:45]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:45]  System: Your attack hinders your target!
+[11/23/2021 13:45]  an ogre: -97
+[11/23/2021 13:45]  an ogre: -53
+[11/23/2021 13:45]  an ogre: -53
+[11/23/2021 13:45]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:45]  an ogre: -18
+[11/23/2021 13:45]  System: Holy symbols remaining: 5/8
+[11/23/2021 13:45]  System: You have gained a little fame.
+[11/23/2021 13:45]  System: You have gained a little karma.
+[11/23/2021 13:45]  Stink Fist: (Earth Aspect 203.1/1000 xp)
+[11/23/2021 13:45]  System: -23
+[11/23/2021 13:45]  You see: an ogre corpse
+[11/23/2021 13:45]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:45]  System: What corpse or location do you wish to carve?
+[11/23/2021 13:45]  System: You carve materials from the corpse.
+[11/23/2021 13:45]  Razor: [-Forensic Eval Bonus (s)]
+[11/23/2021 13:45]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/23/2021 13:45]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:45]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:45]  System: [TS] A Town Struggle (mounts allowed) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[11/23/2021 13:46]  [Guild][Looney Tunes]: another fortune core lol
+[11/23/2021 13:46]  You see: plant chemicals
+[11/23/2021 13:46]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:46]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:46]  You see: an ogre mage corpse
+[11/23/2021 13:46]  System: Holy symbols remaining: 6/8
+[11/23/2021 13:46]  Stink Fist: -5
+[11/23/2021 13:46]  System: Who will you use the bandages on?
+[11/23/2021 13:46]  Razor: Healing Started
+[11/23/2021 13:46]  System: You begin applying the bandages.
+[11/23/2021 13:46]  Razor: Attack: an ogre lord
+[11/23/2021 13:46]  Razor: Bandage: 1s
+[11/23/2021 13:46]  Razor: Bandage: 2s
+[11/23/2021 13:46]  [Guild][Tig Ol'Bitties]: my bad stitch we should have got in party
+[11/23/2021 13:46]  Razor: Bandage: 3s
+[11/23/2021 13:46]  Stink Fist: -4
+[11/23/2021 13:46]  Razor: Bandage: 4s
+[11/23/2021 13:46]  Razor: Bandage: 5s
+[11/23/2021 13:46]  an ogre lord: -53
+[11/23/2021 13:46]  Razor: Bandage: 6s
+[11/23/2021 13:46]  Stink Fist: -17
+[11/23/2021 13:46]  System: Your fingers slip!
+[11/23/2021 13:46]  Razor: Bandage: 7s
+[11/23/2021 13:46]  an ogre lord: -55
+[11/23/2021 13:46]  Razor: Bandage: 8s
+[11/23/2021 13:46]  System: The world will save in 15 seconds.
+[11/23/2021 13:46]  Razor: Bandage: 9s
+[11/23/2021 13:46]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:46]  an ogre lord: -46
+[11/23/2021 13:46]  Razor: Bandage: 10s
+[11/23/2021 13:46]  System: You finish applying the bandages.
+[11/23/2021 13:46]  Stink Fist: +24
+[11/23/2021 13:46]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:46]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:46]  an ogre lord: -72
+[11/23/2021 13:46]  an ogre lord: -40
+[11/23/2021 13:46]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:46]  an ogre lord: -27
+[11/23/2021 13:46]  Stink Fist: -22
+[11/23/2021 13:46]  System: Who will you use the bandages on?
+[11/23/2021 13:46]  Razor: Healing Started
+[11/23/2021 13:46]  System: You begin applying the bandages.
+[11/23/2021 13:46]  an ogre lord: -29
+[11/23/2021 13:46]  Razor: Bandage: 1s
+[11/23/2021 13:46]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:46]  Razor: Bandage: 2s
+[11/23/2021 13:46]  an ogre lord: -52
+[11/23/2021 13:46]  System: The world is saving, please wait.
+[11/23/2021 13:46]  Razor: Bandage: 3s
+[11/23/2021 13:46]  Razor: Bandage: 4s
+[11/23/2021 13:46]  Razor: Bandage: 5s
+[11/23/2021 13:46]  System: World save complete. The entire process took 3.1 seconds.
+[11/23/2021 13:46]  Razor: Bandage: 6s
+[11/23/2021 13:46]  Stink Fist: -16
+[11/23/2021 13:46]  System: Your fingers slip!
+[11/23/2021 13:46]  Razor: Bandage: 7s
+[11/23/2021 13:46]  an ogre lord: -35
+[11/23/2021 13:46]  Razor: Bandage: 8s
+[11/23/2021 13:46]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:46]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:46]  an ogre lord: -46
+[11/23/2021 13:46]  Razor: Bandage: 9s
+[11/23/2021 13:46]  System: Holy symbols remaining: 6/8
+[11/23/2021 13:46]  Razor: Bandage: 10s
+[11/23/2021 13:46]  System: You finish applying the bandages.
+[11/23/2021 13:46]  Stink Fist: +36
+[11/23/2021 13:46]  [Guild][Annie Chokely]: it's ok. i'm still trying to be semi afk
+[11/23/2021 13:46]  an ogre lord: -134
+[11/23/2021 13:46]  an ogre lord: -39
+[11/23/2021 13:46]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:46]  System: Your attack hinders your target!
+[11/23/2021 13:46]  an ogre lord: -58
+[11/23/2021 13:46]  [Guild][Annie Chokely]: i was about to make breakfast
+[11/23/2021 13:47]  an ogre lord: -50
+[11/23/2021 13:47]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:47]  Stink Fist: -17
+[11/23/2021 13:47]  System: Who will you use the bandages on?
+[11/23/2021 13:47]  Razor: Healing Started
+[11/23/2021 13:47]  System: You begin applying the bandages.
+[11/23/2021 13:47]  [Guild][Looney Tunes]: ah :)
+[11/23/2021 13:47]  Razor: Bandage: 1s
+[11/23/2021 13:47]  Razor: Bandage: 2s
+[11/23/2021 13:47]  an ogre lord: -36
+[11/23/2021 13:47]  Razor: Bandage: 3s
+[11/23/2021 13:47]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:47]  System: Your attack cripples your target, lowering their defense!
+[11/23/2021 13:47]  an ogre lord: -81
+[11/23/2021 13:47]  Razor: Bandage: 4s
+[11/23/2021 13:47]  Razor: Bandage: 5s
+[11/23/2021 13:47]  an ogre lord: -55
+[11/23/2021 13:47]  Razor: Bandage: 6s
+[11/23/2021 13:47]  an ogre lord: -60
+[11/23/2021 13:47]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:47]  Razor: Bandage: 7s
+[11/23/2021 13:47]  an ogre lord: -34
+[11/23/2021 13:47]  Razor: Bandage: 8s
+[11/23/2021 13:47]  Razor: Bandage: 9s
+[11/23/2021 13:47]  an ogre lord: -54
+[11/23/2021 13:47]  [Guild][under eighteen]: whatcha having?
+[11/23/2021 13:47]  Stink Fist: -3
+[11/23/2021 13:47]  Razor: Bandage: 10s
+[11/23/2021 13:47]  System: You finish applying the bandages.
+[11/23/2021 13:47]  Stink Fist: +18
+[11/23/2021 13:47]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:47]  an ogre lord: -39
+[11/23/2021 13:47]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[11/23/2021 13:47]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:47]  System: Your skill in Mace Fighting has decreased by 0.1.  It is now 11.6.
+[11/23/2021 13:47]  System: Your skill in Chivalry has increased by 0.1.  It is now 84.0.
+[11/23/2021 13:47]  an ogre lord: -40
+[11/23/2021 13:47]  Razor: [Macing] -0.1 11.6 (-0.4)
+[11/23/2021 13:47]  Razor: [Chivalry] +0.1 84.0 (+0.2)
+[11/23/2021 13:47]  an ogre lord: -40
+[11/23/2021 13:47]  an ogre lord: -8
+[11/23/2021 13:47]  System: 5 mana consumed for Dragon stance.
+[11/23/2021 13:47]  an ogre lord: -63
+[11/23/2021 13:47]  Stink Fist: -24
+[11/23/2021 13:47]  System: You have gained some fame.
+[11/23/2021 13:47]  System: You have gained some karma.
+[11/23/2021 13:47]  Stink Fist: (Earth Aspect 204.6/1000 xp)
+[11/23/2021 13:47]  System: -4
+[11/23/2021 13:47]  You see: an ogre lord corpse
+[11/23/2021 13:47]  System: Who will you use the bandages on?
+[11/23/2021 13:47]  Razor: Healing Started
+[11/23/2021 13:47]  System: You begin applying the bandages.
+[11/23/2021 13:47]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[11/23/2021 13:47]  Razor: Bandage: 1s
+[11/23/2021 13:47]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:47]  Razor: Bandage: 2s
+[11/23/2021 13:47]  Razor: Bandage: 3s
+[11/23/2021 13:47]  System: Holy symbols remaining: 6/8
+[11/23/2021 13:47]  Razor: Bandage: 4s
+[11/23/2021 13:47]  Razor: Bandage: 5s
+[11/23/2021 13:47]  System: What corpse or location do you wish to carve?
+[11/23/2021 13:47]  Razor: Bandage: 6s
+[11/23/2021 13:47]  System: You carve materials from the corpse.
+[11/23/2021 13:47]  Razor: [-Forensic Eval Bonus (s)]
+[11/23/2021 13:47]  Razor: [+Forensic Eval Bonus (10800s)]
+[11/23/2021 13:47]  Razor: Bandage: 7s
+[11/23/2021 13:47]  Razor: Bandage: 8s
+[11/23/2021 13:47]  System: [GridLoot]: Corpse is empty!
+[11/23/2021 13:47]  Razor: Bandage: 9s
+[11/23/2021 13:47]  Razor: Bandage: 10s
+[11/23/2021 13:47]  System: You finish applying the bandages.
+[11/23/2021 13:47]  Stink Fist: +22
+[11/23/2021 13:47]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:47]  System: Playing Macro 'Escape'...
+[11/23/2021 13:47]  System: Your skill in Tactics has decreased by 10.0.  It is now 95.8.
+[11/23/2021 13:47]  Stink Fist: Insufficient mana for this spell.
+[11/23/2021 13:47]  System: No item of type halberd (143E) found!
+[11/23/2021 13:47]  System: Macro 'Escape' finished.
+[11/23/2021 13:47]  System: Holy symbols remaining: 7/8
+[11/23/2021 13:47]  System: Max holy symbols earned (8/8)
+[11/23/2021 13:47]  System: Playing Macro 'Escape'...
+[11/23/2021 13:47]  Stink Fist: Kal Ort Por [Recall]
+[11/23/2021 13:47]  System: You are now under the protection of the town guards.
+[11/23/2021 13:47]  NecroDrog: Monster Hunter Initiate
+[11/23/2021 13:47]  NecroDrog: [Recruit, AOG]
+[11/23/2021 13:47]  NecroDrog: NecroDrog
+[11/23/2021 13:47]  Bee Lee Verta: Adventurer Initiate
+[11/23/2021 13:47]  Bee Lee Verta: Bee Lee Verta
+[11/23/2021 13:47]  an andarian mage: an andarian mage
+[11/23/2021 13:47]  Candida: Candida the cobbler
+[11/23/2021 13:47]  Leiko: Leiko the tinker
+[11/23/2021 13:47]  System: No item of type halberd (143E) found!
+[11/23/2021 13:47]  System: Macro 'Escape' finished.
+[11/23/2021 13:47]  System: Your skill in Tactics has increased by 10.0.  It is now 105.8.
+[11/23/2021 13:47]  Stoyan: Stoyan the tinker
+[11/23/2021 13:47]  a horse: *released*
+[11/23/2021 13:47]  a horse: a horse
+[11/23/2021 13:47]  a drake: (bonded)
+[11/23/2021 13:47]  a drake: a drake
+[11/23/2021 13:47]  a scarab: (bonded)
+[11/23/2021 13:47]  a scarab: a scarab
+[11/23/2021 13:47]  a pack llama: (tame)
+[11/23/2021 13:47]  a pack llama: [0/2000 stones]
+[11/23/2021 13:47]  a pack llama: a pack llama
+[11/23/2021 13:47]  DigyDigyHole: DigyDigyHole
+[11/23/2021 13:47]  Belmireon: Belmireon
+[11/23/2021 13:47]  a searing lizard: (bonded)
+[11/23/2021 13:47]  a searing lizard: a searing lizard
+[11/23/2021 13:47]  b: (bonded)
+[11/23/2021 13:47]  b: b
+[11/23/2021 13:47]  fane: (bonded)
+[11/23/2021 13:47]  fane: fane
+[11/23/2021 13:47]  beasty: (bonded)
+[11/23/2021 13:47]  beasty: beasty
+[11/23/2021 13:47]  Loshe: (bonded)
+[11/23/2021 13:47]  Loshe: Loshe
+[11/23/2021 13:47]  IrishMist: IrishMist
+[11/23/2021 13:47]  Bart: Bart the Town Crier
+[11/23/2021 13:47]  Rusted: Rusted
+[11/23/2021 13:47]  a dog: a dog
+[11/23/2021 13:47]  Killian: Killian the jeweler
+[11/23/2021 13:47]  Yerik: Yerik
+[11/23/2021 13:47]  a tundra ostard: (bonded)
+[11/23/2021 13:47]  a tundra ostard: a tundra ostard
+[11/23/2021 13:47]  a cat: a cat
+[11/23/2021 13:47]  an andarian mage: an andarian mage
+[11/23/2021 13:47]  System: Opening door...
+[11/23/2021 13:47]  Killian: Killian the jeweler
+[11/23/2021 13:48]  System: Being perfectly rested, you shove something invisible out of the way.
+[11/23/2021 13:48]  Bee Lee Verta: Adventurer Initiate
+[11/23/2021 13:48]  Bee Lee Verta: Bee Lee Verta
+[11/23/2021 13:48]  Yerik: Yerik
+[11/23/2021 13:48]  an andarian mage: an andarian mage
+[11/23/2021 13:48]  a pack llama: (tame)
+[11/23/2021 13:48]  a pack llama: [0/2000 stones]
+[11/23/2021 13:48]  a pack llama: a pack llama
+[11/23/2021 13:48]  DigyDigyHole: DigyDigyHole
+[11/23/2021 13:48]  a horse: *released*
+[11/23/2021 13:48]  a horse: a horse
+[11/23/2021 13:48]  a drake: (bonded)
+[11/23/2021 13:48]  a drake: a drake
+[11/23/2021 13:48]  a scarab: (bonded)
+[11/23/2021 13:48]  a scarab: a scarab
+[11/23/2021 13:48]  Belmireon: Belmireon
+[11/23/2021 13:48]  Rusted: Rusted
+[11/23/2021 13:48]  Bart: Bart the Town Crier
+[11/23/2021 13:48]  NecroDrog: Monster Hunter Initiate
+[11/23/2021 13:48]  NecroDrog: [Recruit, AOG]
+[11/23/2021 13:48]  NecroDrog: NecroDrog
+[11/23/2021 13:48]  a searing lizard: (bonded)
+[11/23/2021 13:48]  a searing lizard: a searing lizard
+[11/23/2021 13:48]  b: (bonded)
+[11/23/2021 13:48]  b: b
+[11/23/2021 13:48]  fane: (bonded)
+[11/23/2021 13:48]  fane: fane
+[11/23/2021 13:48]  beasty: (bonded)
+[11/23/2021 13:48]  beasty: beasty
+[11/23/2021 13:48]  Loshe: (bonded)
+[11/23/2021 13:48]  Loshe: Loshe
+[11/23/2021 13:48]  IrishMist: IrishMist
+[11/23/2021 13:48]  a tundra ostard: (bonded)
+[11/23/2021 13:48]  a tundra ostard: a tundra ostard
+[11/23/2021 13:48]  Roi: Roi the banker
+[11/23/2021 13:48]  Britta: Britta the banker
+[11/23/2021 13:48]  a ruby wyrmling: (bonded)
+[11/23/2021 13:48]  a ruby wyrmling: a ruby wyrmling
+[11/23/2021 13:48]  Guster: (bonded)
+[11/23/2021 13:48]  Guster: Guster
+[11/23/2021 13:48]  Nurple: (bonded)
+[11/23/2021 13:48]  Nurple: Nurple
+[11/23/2021 13:48]  Orlantha: Orlantha the banker
+[11/23/2021 13:48]  Timber Lane: Timber Lane
+[11/23/2021 13:48]  a cat: a cat
+[11/23/2021 13:48]  a cat: a cat
+[11/23/2021 13:48]  You see: the remains of Ralph Furley
+[11/23/2021 13:48]  Cato the Younger: Cato the Younger
+[11/23/2021 13:48]  Xavar: Xavar
+[11/23/2021 13:48]  b: (bonded)
+[11/23/2021 13:48]  b: b
+[11/23/2021 13:48]  t: (bonded)
+[11/23/2021 13:48]  t: t
+[11/23/2021 13:48]  a water elemental: (summoned)
+[11/23/2021 13:48]  a water elemental: a water elemental
+[11/23/2021 13:48]  Tom Ravenscroft: Tom Ravenscroft
+[11/23/2021 13:48]  Marys'dog: [Shining Star, ***]
+[11/23/2021 13:48]  Marys'dog: Marys'dog
+[11/23/2021 13:48]  System: Playing Macro 'say'...
+[11/23/2021 13:48]  System: Macro 'say' finished.
+[11/23/2021 13:48]  Stink Fist: bank guards i ban thee
+[11/23/2021 13:48]  Stink Fist: Items: 12/125
+[11/23/2021 13:48]  Stink Fist: Total Weight: 700
+[11/23/2021 13:48]  Bart: A one of a kind, delicious, roasted turkey feast on a golden platter awaits the player who finds the fattest, juiciest, most-moist turkey in all the lands.
+[11/23/2021 13:48]  System: Your skill in Tactics has decreased by 10.0.  It is now 95.8.
+[11/23/2021 13:48]  Stink Fist: Insufficient mana for this spell.
+[11/23/2021 13:48]  a cat: a cat
+[11/23/2021 13:48]  Killian: Killian the jeweler
+[11/23/2021 13:48]  an andarian mage: an andarian mage
+[11/23/2021 13:48]  Leiko: Leiko the tinker
+[11/23/2021 13:48]  Candida: Candida the cobbler
+[11/23/2021 13:48]  Greger: Greger the cook
+[11/23/2021 13:48]  Nelson: Nelson the baker
+[11/23/2021 13:48]  Budo: Budo the stablemaster
+[11/23/2021 13:48]  an andarian marksman: an andarian marksman
+[11/23/2021 13:48]  Bee Lee Verta: Adventurer Initiate
+[11/23/2021 13:48]  Bee Lee Verta: Bee Lee Verta
+[11/23/2021 13:48]  an andarian marksman: an andarian marksman
+[11/23/2021 13:48]  Draconeous: Guardian of Aegis Keep
+[11/23/2021 13:48]  Draconeous: Draconeous
+[11/23/2021 13:48]  a drake whelp: (bonded)
+[11/23/2021 13:48]  a drake whelp: a drake whelp
+[11/23/2021 13:48]  KeepMe: (bonded)
+[11/23/2021 13:48]  KeepMe: KeepMe
+[11/23/2021 13:48]  KeepMe: (bonded)
+[11/23/2021 13:48]  KeepMe: KeepMe
+[11/23/2021 13:48]  a ruby wyrmling: (bonded)
+[11/23/2021 13:48]  a ruby wyrmling: a ruby wyrmling
+[11/23/2021 13:48]  an aegis slime: (tame)
+[11/23/2021 13:48]  an aegis slime: an aegis slime
+[11/23/2021 13:48]  Draconeous: stable
+[11/23/2021 13:48]  Stink Fist: Kal Ort Por [Recall]
+[11/23/2021 13:48]  an andarian marksman: an andarian marksman
+[11/23/2021 13:48]  System: You have left the protection of the town guards.
+[11/23/2021 13:48]  System: Opening door...
+[11/23/2021 13:48]  System: Your house and its contents have been refreshed. 29 days 19 hours 43 minutes remaining until owner refresh required.
+[11/23/2021 13:48]  System: Where will you search?
+[11/23/2021 13:48]  System: You search the home and find no one hiding within.
+[11/23/2021 13:48]  System: You must wait a few moments to use another skill.
+[11/23/2021 13:48]  Stink Fist: You have hidden yourself well.
+[11/23/2021 13:48]  Razor: [+Hidden/Stealthing (0s)]
+[11/23/2021 13:49]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[11/23/2021 13:49]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[11/23/2021 13:49]  System: Warning: ribs amount is now 0!
+[11/23/2021 13:50]  You see: stacked potion keg: 3

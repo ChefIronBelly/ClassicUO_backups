@@ -1,0 +1,1664 @@
+[10/27/2021 18:40]  System: WorldMap loading...
+[10/27/2021 18:40]  System: Loading WorldMap markers..
+[10/27/2021 18:40]  System: ..Banks_and_Healers.xml (20)
+[10/27/2021 18:40]  System: ..Dungeons.xml (12)
+[10/27/2021 18:40]  System: ..Dungeon_Gates.xml (335)
+[10/27/2021 18:40]  System: ..Healer_Caravans.xml (32)
+[10/27/2021 18:40]  System: ..Moongates.xml (9)
+[10/27/2021 18:40]  System: ..POI.xml (176)
+[10/27/2021 18:40]  System: ..Shrines.xml (9)
+[10/27/2021 18:40]  System: ..Subterranean.xml (6)
+[10/27/2021 18:40]  System: ..Townships.xml (9)
+[10/27/2021 18:40]  System: WorldMap markers loaded (608)
+[10/27/2021 18:40]  System: Welcome Schwanzstuker!
+[10/27/2021 18:40]  Razor: [- (s)]
+[10/27/2021 18:40]  Razor: [+Campfire Visit (7080s)]
+[10/27/2021 18:40]  Razor: [- (s)]
+[10/27/2021 18:40]  Razor: [+Hidden/Stealthing (0s)]
+[10/27/2021 18:40]  Razor: [- (s)]
+[10/27/2021 18:40]  Razor: [+Food Satisfaction (18s)]
+[10/27/2021 18:40]  System: WorldMap loaded!
+[10/27/2021 18:40]  You see: raw ribs : 806
+[10/27/2021 18:40]  System: You fail to ignite the campfire.
+[10/27/2021 18:40]  System: Your food satisfaction effect has expired.
+[10/27/2021 18:40]  Razor: [-Food Satisfaction (s)]
+[10/27/2021 18:40]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Your campfire is now secure.
+[10/27/2021 18:41]  System: Item added to queue.
+[10/27/2021 18:41]  System: Item added to queue.
+[10/27/2021 18:41]  System: Your campfire is now secure.
+[10/27/2021 18:41]  System: You feel rested and comforted by the camp. (+20.2% damage to creatures and +8.1% damage to players).
+[10/27/2021 18:41]  Razor: [-Campfire Visit (s)]
+[10/27/2021 18:41]  Razor: [+Campfire Visit (10800s)]
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Crafting queue begun.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Cooked Ribs (0/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Cooked Ribs (1/10 made): You create the item.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:41]  System: Cooked Ribs (0/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:41]  System: Cooked Ribs (2/10 made): You create the item.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Cooked Ribs (2/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Cooked Ribs (3/10 made): You create the item.
+[10/27/2021 18:41]  System: Cooked Ribs (3/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Cooked Ribs (3/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:41]  System: Cooked Ribs (4/10 made): You create the item.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:41]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:41]  System: Cooked Ribs (5/10 made): You create the item.
+[10/27/2021 18:41]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:41]  System: Cooked Ribs (5/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Picleson has completed the achievement: Guardian of Cavernam (Advanced).
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:42]  System: Cooked Ribs (5/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (6/10 made): You create the item.
+[10/27/2021 18:42]  System: Cooked Ribs (6/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:42]  System: Cooked Ribs (5/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (6/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:42]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (7/10 made): You create the item.
+[10/27/2021 18:42]  System: Cooked Ribs (6/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:42]  System: Cooked Ribs (8/10 made): You create the item.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:42]  System: Cooked Ribs (8/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (9/10 made): You create the item.
+[10/27/2021 18:42]  System: Cooked Ribs (10/10 made): You create the item.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:42]  System: Cooked Ribs: 10 crafted complete.
+[10/27/2021 18:42]  System: Cooked Ribs: Skipped
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (1/100 made): You create the item.
+[10/27/2021 18:42]  System: Cooked Ribs (1/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (1/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:42]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:42]  System: Cooked Ribs (2/100 made): You create the item.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (2/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:42]  System: Cooked Ribs (3/100 made): You create the item.
+[10/27/2021 18:42]  System: Cooked Ribs (4/100 made): You create the item.
+[10/27/2021 18:42]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooked Ribs (5/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (5/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  Razor: [Cooking] +0.1 70.1 (+0.1)
+[10/27/2021 18:43]  System: Aliester Crowley has completed the achievement: Affluent (Basic).
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: You have worn out your tool!
+[10/27/2021 18:43]  System: Cooked Ribs (6/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (7/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooked Ribs (5/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  System: Cooked Ribs (7/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooked Ribs (8/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (8/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (8/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:43]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (9/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (8/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  System: Cooked Ribs (9/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooked Ribs (10/100 made): You create the item.
+[10/27/2021 18:43]  Razor: [Cooking] +0.1 70.2 (+0.2)
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooked Ribs (9/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:43]  System: Cooked Ribs (10/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (11/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:43]  System: Cooked Ribs (12/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooked Ribs (13/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (14/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:43]  System: Cooked Ribs (15/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooked Ribs (16/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:43]  System: Cooked Ribs (17/100 made): You create the item.
+[10/27/2021 18:43]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (17/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (17/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooked Ribs (18/100 made): You create the item.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (18/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:44]  System: Cooked Ribs (17/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:44]  Razor: [Cooking] +0.1 70.3 (+0.3)
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooked Ribs (19/100 made): You create the item.
+[10/27/2021 18:44]  Razor: [Cooking] +0.1 70.4 (+0.4)
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (18/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:44]  System: Cooked Ribs (20/100 made): You create the item.
+[10/27/2021 18:44]  Razor: [Cooking] +0.1 70.5 (+0.5)
+[10/27/2021 18:44]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:44]  System: Cooked Ribs (21/100 made): You create the item.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooked Ribs (22/100 made): You create the item.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (23/100 made): You create the item.
+[10/27/2021 18:44]  Razor: [Cooking] +0.1 70.6 (+0.6)
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (24/100 made): You create the item.
+[10/27/2021 18:44]  Razor: [Cooking] +0.1 70.7 (+0.7)
+[10/27/2021 18:44]  System: Cooked Ribs (24/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooked Ribs (25/100 made): You create the item.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (25/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:44]  System: Cooked Ribs (26/100 made): You create the item.
+[10/27/2021 18:44]  System: The world will save in 15 seconds.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooked Ribs (27/100 made): You create the item.
+[10/27/2021 18:44]  System: Cooked Ribs (27/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooked Ribs (27/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:44]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:44]  System: The world is saving, please wait.
+[10/27/2021 18:45]  System: Cooked Ribs (27/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:45]  System: World save complete. The entire process took 3.8 seconds.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (28/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooked Ribs (29/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (27/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:45]  System: Cooked Ribs (29/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (29/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:45]  System: Cooked Ribs (30/100 made): You create the item.
+[10/27/2021 18:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (31/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooked Ribs (31/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (32/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (33/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (33/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:45]  System: Cooked Ribs (34/100 made): You create the item.
+[10/27/2021 18:45]  Razor: [Cooking] +0.1 70.8 (+0.8)
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (34/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (34/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (35/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooked Ribs (34/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:45]  System: Cooked Ribs (36/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (37/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:45]  System: Cooked Ribs (38/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:45]  System: Cooked Ribs (38/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (39/100 made): You create the item.
+[10/27/2021 18:45]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:45]  System: Cooked Ribs (40/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (40/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (41/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (42/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (43/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: You have worn out your tool!
+[10/27/2021 18:46]  System: Cooked Ribs (44/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (45/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (45/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooked Ribs (46/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (47/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (47/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooked Ribs (48/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (49/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (49/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:46]  Razor: [Cooking] +0.1 70.9 (+0.9)
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (49/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:46]  System: Cooked Ribs (50/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooked Ribs (51/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (52/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (52/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:46]  System: Cooked Ribs (52/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:46]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:46]  System: Cooked Ribs (53/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooked Ribs (52/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:46]  System: Cooked Ribs (54/100 made): You create the item.
+[10/27/2021 18:46]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (54/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooked Ribs (55/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (56/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooked Ribs (56/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (56/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  Razor: [Cooking] +0.1 71.0 (+1.0)
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (57/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooked Ribs (56/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:47]  System: Cooked Ribs (58/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooked Ribs (59/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooked Ribs (59/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (60/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooked Ribs (60/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooked Ribs (59/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooked Ribs (61/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (61/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooked Ribs (62/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooked Ribs (63/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (64/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooked Ribs (65/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: You have worn out your tool!
+[10/27/2021 18:47]  System: Cooked Ribs (66/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:47]  System: Cooked Ribs (67/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooked Ribs (67/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:47]  System: Cooked Ribs (68/100 made): You create the item.
+[10/27/2021 18:47]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (68/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooked Ribs (69/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooked Ribs (70/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (71/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooked Ribs (71/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (72/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooked Ribs (71/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooked Ribs (73/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (73/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  Razor: [Cooking] +0.1 71.1 (+1.1)
+[10/27/2021 18:48]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (74/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooked Ribs (73/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooked Ribs (75/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooked Ribs (75/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:48]  System: Cooked Ribs (76/100 made): You create the item.
+[10/27/2021 18:48]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:48]  System: Cooked Ribs (76/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:49]  System: Cooked Ribs (77/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (77/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:49]  System: Cooked Ribs (78/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (77/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooked Ribs (78/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (79/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooked Ribs (79/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooked Ribs (80/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (81/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooked Ribs (81/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: You have worn out your tool!
+[10/27/2021 18:49]  System: Cooked Ribs (82/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooked Ribs (83/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooked Ribs (81/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooked Ribs (83/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (84/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooked Ribs (84/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooked Ribs (85/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (85/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooked Ribs (85/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:49]  System: Cooked Ribs (86/100 made): You create the item.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:49]  System: Cooked Ribs (87/100 made): You create the item.
+[10/27/2021 18:49]  Razor: [Cooking] +0.1 71.2 (+1.2)
+[10/27/2021 18:49]  System: Cooked Ribs (87/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:49]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:49]  System: Cooked Ribs (88/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (89/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooked Ribs (90/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  System: Cooked Ribs (90/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (91/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  System: Cooked Ribs (90/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  System: Cooked Ribs (92/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (92/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (92/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:50]  System: Cooked Ribs (93/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  System: Cooked Ribs (93/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  Razor: [Cooking] +0.1 71.3 (+1.3)
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (92/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  System: Cooked Ribs (94/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooked Ribs (93/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (94/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  Razor: [Cooking] +0.1 71.4 (+1.4)
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (94/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:50]  System: Cooked Ribs (95/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooked Ribs (95/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:50]  System: Cooked Ribs (96/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Cooked Ribs (97/100 made): You create the item.
+[10/27/2021 18:50]  System: Cooked Ribs: You must be near a fire source to cook.
+[10/27/2021 18:50]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:50]  System: Crafting queue complete.
+[10/27/2021 18:50]  System: Cooked Ribs: You must be near a fire source to cook.
+[10/27/2021 18:51]  System: Crafting queue begun.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooked Ribs (0/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooked Ribs (1/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooked Ribs (2/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:51]  System: Cooked Ribs (0/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooked Ribs (2/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:51]  System: Cooked Ribs (2/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:51]  System: Cooked Ribs (3/10 made): You create the item.
+[10/27/2021 18:51]  System: Your campfire is now secure.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooked Ribs (3/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooked Ribs (4/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:51]  System: Cooked Ribs (5/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooked Ribs (6/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:51]  System: Cooked Ribs (6/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooked Ribs (7/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:51]  System: Cooked Ribs (6/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooked Ribs (8/10 made): You create the item.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooked Ribs (8/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:51]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:51]  System: Cooked Ribs (8/10 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:51]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (9/10 made): You create the item.
+[10/27/2021 18:52]  System: Cooked Ribs (10/10 made): You create the item.
+[10/27/2021 18:52]  System: Cooked Ribs: 10 crafted complete.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (8/10 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  System: Cooked Ribs: Skipped
+[10/27/2021 18:52]  System: Cooked Ribs (1/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (1/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (2/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooked Ribs (2/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (3/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (3/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  Razor: [Cooking] +0.1 71.5 (+1.5)
+[10/27/2021 18:52]  System: Cooked Ribs (4/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (5/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (5/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  System: Cooked Ribs (6/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (7/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (8/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooked Ribs (9/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: You have worn out your tool!
+[10/27/2021 18:52]  System: Cooked Ribs (9/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  Razor: [Cooking] +0.1 71.6 (+1.6)
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (10/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (9/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  System: Cooked Ribs (11/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooked Ribs (12/100 made): You create the item.
+[10/27/2021 18:52]  System: Cooked Ribs (13/100 made): You create the item.
+[10/27/2021 18:52]  Razor: [Cooking] +0.1 71.7 (+1.7)
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (13/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:52]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:52]  System: Cooked Ribs (13/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (14/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooked Ribs (14/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Cooked Ribs (15/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (16/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooked Ribs (16/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (16/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Auticca Tromil has completed the achievement: Skill Proficiency (Basic).
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (16/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Cooked Ribs (17/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (17/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:53]  System: Cooked Ribs (16/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:53]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (17/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (18/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooked Ribs (17/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:53]  System: Cooked Ribs (19/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Cooked Ribs (19/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:53]  System: Cooked Ribs (20/100 made): You create the item.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:53]  System: Cooked Ribs (20/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:53]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:53]  System: Cooked Ribs (20/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooked Ribs (21/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (22/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooked Ribs (20/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:54]  System: Cooked Ribs (22/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooked Ribs (23/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (23/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:54]  System: Cooked Ribs (24/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooked Ribs (24/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooked Ribs (24/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:54]  System: Cooked Ribs (25/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:54]  System: Cooked Ribs (26/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (26/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (26/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  Razor: [Cooking] +0.1 71.8 (+1.8)
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (26/100 made): You failed to create the item, and some of your materials are lost. [4]
+[10/27/2021 18:54]  System: Cooked Ribs (27/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooked Ribs (28/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (28/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:54]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:54]  System: Cooked Ribs (29/100 made): You create the item.
+[10/27/2021 18:54]  System: Cooked Ribs (28/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:55]  System: Cooked Ribs (30/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs (30/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (31/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooked Ribs (32/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs (33/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (33/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:55]  System: [TS] A Town Struggle (mountless) will begin in 5 minutes. Town struggles may be accessed via green battle gates near each town bank. Type [TownStruggle to view more details.
+[10/27/2021 18:55]  System: Cooked Ribs (34/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs (35/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (35/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:55]  Razor: [Cooking] +0.1 71.9 (+1.9)
+[10/27/2021 18:55]  System: Cooked Ribs (36/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs (36/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: You have worn out your tool!
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:55]  System: Cooked Ribs (37/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooked Ribs (36/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (38/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (39/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooked Ribs (40/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs (41/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (41/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:55]  System: Cooked Ribs (41/100 made): You failed to create the item, and some of your materials are lost. [3]
+[10/27/2021 18:55]  System: Cooked Ribs (42/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:55]  System: Cooked Ribs (43/100 made): You create the item.
+[10/27/2021 18:55]  System: Cooked Ribs (43/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:55]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (43/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (44/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooked Ribs (44/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (44/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:56]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:56]  System: Cooked Ribs (45/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooked Ribs (46/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (47/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (47/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooked Ribs (48/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:56]  System: Cooked Ribs (48/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooked Ribs (47/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooked Ribs (49/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (50/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (50/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (50/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:56]  System: Cooked Ribs (51/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooked Ribs (51/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:56]  System: Cooked Ribs (51/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:56]  System: Cooked Ribs (52/100 made): You create the item.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (52/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:56]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:56]  System: Cooked Ribs (53/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooked Ribs (54/100 made): You create the item.
+[10/27/2021 18:57]  Razor: [Cooking] +0.1 72.0 (+2.0)
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (54/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (55/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (54/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooked Ribs (56/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (56/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  Razor: [Cooking] +0.1 72.1 (+2.1)
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (57/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (56/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooked Ribs (58/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooked Ribs (58/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (59/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (59/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooked Ribs (60/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (61/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (61/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooked Ribs (62/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (62/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  Razor: [Cooking] +0.1 72.2 (+2.2)
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (63/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooked Ribs (64/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (64/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (65/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooked Ribs (66/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:57]  System: Cooked Ribs (66/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:57]  System: Cooked Ribs (67/100 made): You create the item.
+[10/27/2021 18:57]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: Cooked Ribs (66/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooked Ribs (67/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (68/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:58]  System: Cooked Ribs (68/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: Cooked Ribs (69/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (70/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (71/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooked Ribs (71/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: You must wait a few moments before attempting to create another campfire.
+[10/27/2021 18:58]  System: Cooked Ribs (72/100 made): You create the item.
+[10/27/2021 18:58]  Razor: [Cooking] +0.1 72.3 (+2.3)
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: You must wait a few moments before attempting to create another campfire. [9]
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (72/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:58]  System: Cooked Ribs (73/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooked Ribs (73/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: You must wait a few moments before attempting to create another campfire. [7]
+[10/27/2021 18:58]  System: Cooked Ribs (74/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (75/100 made): You create the item.
+[10/27/2021 18:58]  System: You have worn out your tool!
+[10/27/2021 18:58]  System: Cooked Ribs (75/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (75/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: Cooked Ribs (76/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (77/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooked Ribs (75/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooked Ribs (78/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  System: Your campfire is now secure.
+[10/27/2021 18:58]  System: Cooked Ribs (78/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:58]  System: Cooked Ribs (79/100 made): You create the item.
+[10/27/2021 18:58]  System: Cooked Ribs (79/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:58]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:58]  You see: cooked ribs : 336
+[10/27/2021 18:58]  You see: (paltry)
+[10/27/2021 18:59]  System: Cooked Ribs (80/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (80/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooked Ribs (81/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:59]  System: Cooked Ribs (82/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  You see: cooked ribs : 3
+[10/27/2021 18:59]  You see: (paltry)
+[10/27/2021 18:59]  System: Cooked Ribs (82/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (83/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:59]  System: Cooked Ribs (82/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooked Ribs: You must wait to perform another action.
+[10/27/2021 18:59]  System: Cooked Ribs (84/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (84/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (85/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooked Ribs (85/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: The world will save in 15 seconds.
+[10/27/2021 18:59]  System: Cooked Ribs (85/100 made): You failed to create the item, and some of your materials are lost. [2]
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:59]  System: Cooked Ribs (86/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (86/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooked Ribs (85/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooked Ribs (87/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:59]  System: Cooked Ribs (88/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (88/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  Razor: [Cooking] +0.1 72.4 (+2.4)
+[10/27/2021 18:59]  System: The world is saving, please wait.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: World save complete. The entire process took 3.8 seconds.
+[10/27/2021 18:59]  System: Cooked Ribs (89/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 18:59]  System: Cooked Ribs (89/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooked Ribs (90/100 made): You create the item.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 18:59]  System: Cooked Ribs (90/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 18:59]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (91/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooked Ribs (92/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:00]  System: Cooked Ribs (92/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (93/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:00]  System: Cooked Ribs (93/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooked Ribs (92/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (94/100 made): You create the item.
+[10/27/2021 19:00]  System: [TS] A Town Struggle (mountless) for Andaria North has begun! Type [TownStruggle to view more details.
+[10/27/2021 19:00]  System: Cooked Ribs (95/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:00]  System: Cooked Ribs (95/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (96/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooked Ribs (97/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:00]  System: Cooked Ribs (97/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (98/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:00]  System: Cooked Ribs (98/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooked Ribs (97/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (99/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooked Ribs (99/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:00]  You see: cooked ribs : 20
+[10/27/2021 19:00]  You see: (paltry)
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:00]  System: Cooked Ribs (100/100 made): You create the item.
+[10/27/2021 19:00]  System: Cooked Ribs: 100 crafted complete.
+[10/27/2021 19:00]  System: Cooked Ribs (99/100 made): You failed to create the item, and some of your materials are lost.
+[10/27/2021 19:00]  System: Crafting queue complete.
+[10/27/2021 19:00]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:01]  Schwanzstuker: The food is paltry and is barely satisfying.
+[10/27/2021 19:01]  System: You are still slightly hungry.
+[10/27/2021 19:01]  Razor: [+Food Satisfaction (3600s)]
+[10/27/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:02]  System: Script Error: Counter 'fish' doesn't exist. Set it up in Razor under Display->Counters. (Line: 13)
+[10/27/2021 19:02]  Razor: Target: Schwanzstuker
+[10/27/2021 19:02]  System: That container is invalid.
+[10/27/2021 19:02]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:02]  System: Script Error: Counter 'fish' doesn't exist. Set it up in Razor under Display->Counters. (Line: 13)
+[10/27/2021 19:02]  System: Restock request in progress....
+[10/27/2021 19:02]  System: Restock done, queued 0 items.
+[10/27/2021 19:02]  System: Ainmeil The Bard has completed the achievement: Captain (Basic).
+[10/27/2021 19:02]  You see: raw ribs : 336
+[10/27/2021 19:05]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:05]  Razor: No ribs!
+[10/27/2021 19:05]  System: Restock request in progress....
+[10/27/2021 19:05]  System: Restock done, queued 0 items.
+[10/27/2021 19:05]  System: Target an item to add.
+[10/27/2021 19:05]  System: Item added.
+[10/27/2021 19:06]  System: Target an item to add.
+[10/27/2021 19:06]  System: Item added.
+[10/27/2021 19:06]  System: Target a Container.
+[10/27/2021 19:06]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:06]  System: Restock request in progress....
+[10/27/2021 19:06]  System: Restock done, queued 1 item.
+[10/27/2021 19:06]  System: Monza Murcatto has completed the achievement: Carpenter (Basic).
+[10/27/2021 19:06]  You see: skillet
+[10/27/2021 19:06]  You see: (14 uses remaining)
+[10/27/2021 19:07]  You see: raw ribs : 336
+[10/27/2021 19:07]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:07]  System: Restock request in progress....
+[10/27/2021 19:07]  System: Restock done, queued 1 item.
+[10/27/2021 19:07]  You see: raw ribs : 100
+[10/27/2021 19:07]  You see: skillet
+[10/27/2021 19:07]  You see: (14 uses remaining)
+[10/27/2021 19:07]  You see: cooked ribs : 2
+[10/27/2021 19:07]  You see: (paltry)
+[10/27/2021 19:08]  You see: board : 36
+[10/27/2021 19:10]  Empress Nympho: Empress Nympho
+[10/27/2021 19:10]  Empress Nympho: Empress Nympho
+[10/27/2021 19:11]  System: Your campfire is now secure.
+[10/27/2021 19:11]  System: You begin hiking to your destination.
+[10/27/2021 19:11]  Schwanzstuker: *hiking to destination*
+[10/27/2021 19:11]  Razor: [-Hidden/Stealthing (s)]
+[10/27/2021 19:11]  Razor: [+Paralyze (4s)]
+[10/27/2021 19:11]  Razor: [-Paralyze (s)]
+[10/27/2021 19:11]  Razor: [+Paralyze (3s)]
+[10/27/2021 19:11]  Schwanzstuker: *hiking to destination*
+[10/27/2021 19:11]  Razor: [-Paralyze (s)]
+[10/27/2021 19:11]  Razor: [+Paralyze (1s)]
+[10/27/2021 19:11]  Schwanzstuker: *hiking to destination*
+[10/27/2021 19:11]  System: That fishing pole must be equipped in order to use it.
+[10/27/2021 19:11]  Razor: [-Paralyze (s)]
+[10/27/2021 19:11]  Razor: [+Paralyze (0s)]
+[10/27/2021 19:11]  Razor: [-Paralyze (s)]
+[10/27/2021 19:11]  System: You are no longer hindered.
+[10/27/2021 19:11]  System: You are now under the protection of the town guards.
+[10/27/2021 19:11]  System: You hike to your destination.
+[10/27/2021 19:11]  Schwanzstuker: *You have arrived at your destination*
+[10/27/2021 19:11]  You see: the remains of Boris-Britva
+[10/27/2021 19:11]  an andarian knight: an andarian knight
+[10/27/2021 19:11]  an andarian knight: an andarian knight
+[10/27/2021 19:11]  a dog: a dog
+[10/27/2021 19:11]  a dog: a dog
+[10/27/2021 19:11]  a cat: a cat
+[10/27/2021 19:11]  a cat: a cat
+[10/27/2021 19:11]  an andarian mage: an andarian mage
+[10/27/2021 19:11]  an andarian mage: an andarian mage
+[10/27/2021 19:11]  Amadis: Amadis the scribe
+[10/27/2021 19:11]  Amadis: Amadis the scribe
+[10/27/2021 19:11]  Peyton: Peyton the mage
+[10/27/2021 19:11]  Peyton: Peyton the mage
+[10/27/2021 19:11]  Dane: Dane the mage
+[10/27/2021 19:11]  Dane: Dane the mage
+[10/27/2021 19:11]  Rudyard: Rudyard the mage
+[10/27/2021 19:11]  Rudyard: Rudyard the mage
+[10/27/2021 19:11]  a dog: a dog
+[10/27/2021 19:11]  a dog: a dog
+[10/27/2021 19:11]  Abira: Abira the scribe
+[10/27/2021 19:11]  Abira: Abira the scribe
+[10/27/2021 19:11]  Gerry: Gerry the healer
+[10/27/2021 19:11]  Gerry: Gerry the healer
+[10/27/2021 19:11]  a dog: a dog
+[10/27/2021 19:11]  a dog: a dog
+[10/27/2021 19:11]  a cat: a cat
+[10/27/2021 19:11]  a cat: a cat
+[10/27/2021 19:11]  Parparto: (bonded)
+[10/27/2021 19:11]  Parparto: Parparto
+[10/27/2021 19:11]  Parparto: (bonded)
+[10/27/2021 19:11]  Parparto: Parparto
+[10/27/2021 19:11]  a cat: a cat
+[10/27/2021 19:11]  a cat: a cat
+[10/27/2021 19:11]  an andarian marksman: an andarian marksman
+[10/27/2021 19:11]  an andarian marksman: an andarian marksman
+[10/27/2021 19:11]  Moon: Triggered
+[10/27/2021 19:11]  Moon: [Henchman, Syn]
+[10/27/2021 19:11]  Moon: Moon
+[10/27/2021 19:11]  Moon: Triggered
+[10/27/2021 19:11]  Moon: [Henchman, Syn]
+[10/27/2021 19:11]  Moon: Moon
+[10/27/2021 19:11]  You see: a cat corpse
+[10/27/2021 19:11]  Canton: Canton the healer
+[10/27/2021 19:11]  Canton: Canton the healer
+[10/27/2021 19:11]  e: (bonded)
+[10/27/2021 19:11]  e: e
+[10/27/2021 19:11]  e: (bonded)
+[10/27/2021 19:11]  e: e
+[10/27/2021 19:11]  s: (bonded)
+[10/27/2021 19:11]  s: s
+[10/27/2021 19:11]  s: (bonded)
+[10/27/2021 19:11]  s: s
+[10/27/2021 19:11]  p: (bonded)
+[10/27/2021 19:11]  p: p
+[10/27/2021 19:11]  p: (bonded)
+[10/27/2021 19:11]  p: p
+[10/27/2021 19:11]  Lastavel: Lastavel
+[10/27/2021 19:11]  Lastavel: Lastavel
+[10/27/2021 19:11]  DmageS: [Summoner Mage, Mucx]
+[10/27/2021 19:11]  DmageS: DmageS
+[10/27/2021 19:11]  DmageS: [Summoner Mage, Mucx]
+[10/27/2021 19:11]  DmageS: DmageS
+[10/27/2021 19:11]  Wizdank: [Beard Brother, BB]
+[10/27/2021 19:11]  Wizdank: Wizdank
+[10/27/2021 19:11]  Wizdank: [Beard Brother, BB]
+[10/27/2021 19:11]  Wizdank: Wizdank
+[10/27/2021 19:11]  Salvadori: Salvadori
+[10/27/2021 19:11]  Salvadori: Salvadori
+[10/27/2021 19:11]  Britta: Britta the banker
+[10/27/2021 19:11]  Britta: Britta the banker
+[10/27/2021 19:11]  Orlantha: Orlantha the banker
+[10/27/2021 19:11]  Orlantha: Orlantha the banker
+[10/27/2021 19:11]  NumDos: (bonded)
+[10/27/2021 19:11]  NumDos: NumDos
+[10/27/2021 19:11]  NumDos: (bonded)
+[10/27/2021 19:11]  NumDos: NumDos
+[10/27/2021 19:11]  NumUno: (bonded)
+[10/27/2021 19:11]  NumUno: NumUno
+[10/27/2021 19:11]  NumUno: (bonded)
+[10/27/2021 19:11]  NumUno: NumUno
+[10/27/2021 19:11]  BestiaPeluda: (bonded)
+[10/27/2021 19:11]  BestiaPeluda: BestiaPeluda
+[10/27/2021 19:11]  BestiaPeluda: (bonded)
+[10/27/2021 19:11]  BestiaPeluda: BestiaPeluda
+[10/27/2021 19:11]  LovelyBoi: LovelyBoi
+[10/27/2021 19:11]  LovelyBoi: LovelyBoi
+[10/27/2021 19:11]  Roi: Roi the banker
+[10/27/2021 19:11]  Roi: Roi the banker
+[10/27/2021 19:11]  Mr.T Shanaar: Backstabber
+[10/27/2021 19:11]  Mr.T Shanaar: [Beard Brother, BB]
+[10/27/2021 19:11]  Mr.T Shanaar: Mr.T Shanaar
+[10/27/2021 19:11]  Mr.T Shanaar: Backstabber
+[10/27/2021 19:11]  Mr.T Shanaar: [Beard Brother, BB]
+[10/27/2021 19:11]  Mr.T Shanaar: Mr.T Shanaar
+[10/27/2021 19:11]  Malchest: [Recruit, DP]
+[10/27/2021 19:11]  Malchest: Malchest
+[10/27/2021 19:11]  Malchest: [Recruit, DP]
+[10/27/2021 19:11]  Malchest: Malchest
+[10/27/2021 19:11]  Tsyon: Tsyon
+[10/27/2021 19:11]  Tsyon: Tsyon
+[10/27/2021 19:11]  a pack llama: (tame)
+[10/27/2021 19:11]  a pack llama: [500/2000 stones]
+[10/27/2021 19:11]  a pack llama: a pack llama
+[10/27/2021 19:11]  a pack llama: (tame)
+[10/27/2021 19:11]  a pack llama: [500/2000 stones]
+[10/27/2021 19:11]  a pack llama: a pack llama
+[10/27/2021 19:11]  Lastavel: Lastavel
+[10/27/2021 19:11]  Lastavel: Lastavel
+[10/27/2021 19:11]  Canton: Canton the healer
+[10/27/2021 19:11]  Canton: Canton the healer
+[10/27/2021 19:11]  e: (bonded)
+[10/27/2021 19:11]  e: e
+[10/27/2021 19:11]  e: (bonded)
+[10/27/2021 19:11]  e: e
+[10/27/2021 19:11]  s: (bonded)
+[10/27/2021 19:11]  s: s
+[10/27/2021 19:11]  s: (bonded)
+[10/27/2021 19:11]  s: s
+[10/27/2021 19:11]  p: (bonded)
+[10/27/2021 19:11]  p: p
+[10/27/2021 19:11]  p: (bonded)
+[10/27/2021 19:11]  p: p
+[10/27/2021 19:11]  Dalamar Dune: Dalamar Dune
+[10/27/2021 19:11]  Dalamar Dune: Dalamar Dune
+[10/27/2021 19:11]  Jack Venner: Weaponmaster
+[10/27/2021 19:11]  Jack Venner: [IV, VOX]
+[10/27/2021 19:11]  Jack Venner: Lord Jack Venner
+[10/27/2021 19:11]  Jack Venner: Weaponmaster
+[10/27/2021 19:11]  Jack Venner: [IV, VOX]
+[10/27/2021 19:11]  Jack Venner: Lord Jack Venner
+[10/27/2021 19:11]  Fattilac: Fattilac
+[10/27/2021 19:11]  Fattilac: Fattilac
+[10/27/2021 19:11]  an earth elemental: (summoned)
+[10/27/2021 19:11]  an earth elemental: an earth elemental
+[10/27/2021 19:11]  an earth elemental: (summoned)
+[10/27/2021 19:11]  an earth elemental: an earth elemental
+[10/27/2021 19:11]  a pack llama: (tame)
+[10/27/2021 19:11]  a pack llama: [1976/2000 stones]
+[10/27/2021 19:11]  a pack llama: a pack llama
+[10/27/2021 19:11]  a pack llama: (tame)
+[10/27/2021 19:11]  a pack llama: [1976/2000 stones]
+[10/27/2021 19:11]  a pack llama: a pack llama
+[10/27/2021 19:11]  Stephan: Stephan
+[10/27/2021 19:11]  Stephan: Stephan
+[10/27/2021 19:11]  Stratagem: [Squire, C-C]
+[10/27/2021 19:11]  Stratagem: Stratagem
+[10/27/2021 19:11]  Stratagem: [Squire, C-C]
+[10/27/2021 19:11]  Stratagem: Stratagem
+[10/27/2021 19:11]  a colossal swamp slug: (bonded)
+[10/27/2021 19:11]  a colossal swamp slug: a colossal swamp slug
+[10/27/2021 19:11]  a colossal swamp slug: (bonded)
+[10/27/2021 19:11]  a colossal swamp slug: a colossal swamp slug
+[10/27/2021 19:11]  a colossal swamp slug: (bonded)
+[10/27/2021 19:11]  a colossal swamp slug: a colossal swamp slug
+[10/27/2021 19:11]  a colossal swamp slug: (bonded)
+[10/27/2021 19:11]  a colossal swamp slug: a colossal swamp slug
+[10/27/2021 19:11]  a sphinx: (bonded)
+[10/27/2021 19:11]  a sphinx: a sphinx
+[10/27/2021 19:11]  a sphinx: (bonded)
+[10/27/2021 19:11]  a sphinx: a sphinx
+[10/27/2021 19:11]  Nico Yazawa: [Junior Phoenix, OFP]
+[10/27/2021 19:11]  Nico Yazawa: Nico Yazawa
+[10/27/2021 19:11]  Nico Yazawa: [Junior Phoenix, OFP]
+[10/27/2021 19:11]  Nico Yazawa: Nico Yazawa
+[10/27/2021 19:11]  Bart: Bart the Town Crier
+[10/27/2021 19:11]  Bart: Bart the Town Crier
+[10/27/2021 19:11]  System: Playing Macro 'say'...
+[10/27/2021 19:11]  System: Macro 'say' finished.
+[10/27/2021 19:11]  Schwanzstuker: bank guards i ban thee
+[10/27/2021 19:11]  Schwanzstuker: Items: 37/125
+[10/27/2021 19:11]  Schwanzstuker: Total Weight: 541
+[10/27/2021 19:11]  LovelyBoi: All Follow
+[10/27/2021 19:11]  You see: gold coin : 545
+[10/27/2021 19:11]  You see: gold coin : 545
+[10/27/2021 19:12]  Morgana GG: Legendary Beastmaster
+[10/27/2021 19:12]  Morgana GG: [Professor of Biology, Syn]
+[10/27/2021 19:12]  Morgana GG: Morgana GG
+[10/27/2021 19:12]  Morgana GG: Legendary Beastmaster
+[10/27/2021 19:12]  Morgana GG: [Professor of Biology, Syn]
+[10/27/2021 19:12]  Morgana GG: Morgana GG
+[10/27/2021 19:12]  an andarian mage: an andarian mage
+[10/27/2021 19:12]  an andarian mage: an andarian mage
+[10/27/2021 19:12]  Lastavel: In Vas Mani [Greater Heal]
+[10/27/2021 19:12]  Bart: A crisp chill is in the air!  Enter the Halloween Haunted House Decoration Contest, or the 2nd Annual Haunted Halloween Paperdoll Contest by visiting the Forums!
+[10/27/2021 19:12]  Lastavel: In Mani Ylem [Create Food]
+[10/27/2021 19:12]  You see: cooked ribs : 8
+[10/27/2021 19:12]  You see: (paltry)
+[10/27/2021 19:12]  You see: cooked ribs : 162
+[10/27/2021 19:12]  You see: (paltry)
+[10/27/2021 19:12]  Lastavel: Kal Ort Por [Recall]
+[10/27/2021 19:12]  You see: tinker's tools
+[10/27/2021 19:12]  You see: (96 uses remaining)
+[10/27/2021 19:12]  Peyton: Peyton the mage
+[10/27/2021 19:12]  Peyton: Peyton the mage
+[10/27/2021 19:12]  Bart: Bart the Town Crier
+[10/27/2021 19:12]  Bart: Bart the Town Crier
+[10/27/2021 19:12]  Trissomia: Trissomia
+[10/27/2021 19:12]  Trissomia: Trissomia
+[10/27/2021 19:12]  AnyA BR: AnyA BR
+[10/27/2021 19:12]  AnyA BR: AnyA BR
+[10/27/2021 19:12]  T: (bonded)
+[10/27/2021 19:12]  T: T
+[10/27/2021 19:12]  T: (bonded)
+[10/27/2021 19:12]  T: T
+[10/27/2021 19:12]  A: (bonded)
+[10/27/2021 19:12]  A: A
+[10/27/2021 19:12]  A: (bonded)
+[10/27/2021 19:12]  A: A
+[10/27/2021 19:12]  B: (bonded)
+[10/27/2021 19:12]  B: B
+[10/27/2021 19:12]  B: (bonded)
+[10/27/2021 19:12]  B: B
+[10/27/2021 19:12]  Stoyan: Stoyan the tinker
+[10/27/2021 19:12]  Stoyan: Stoyan the tinker
+[10/27/2021 19:12]  a rock guar: (bonded)
+[10/27/2021 19:12]  a rock guar: a rock guar
+[10/27/2021 19:12]  a rock guar: (bonded)
+[10/27/2021 19:12]  a rock guar: a rock guar
+[10/27/2021 19:12]  a rock guar: (bonded)
+[10/27/2021 19:12]  a rock guar: a rock guar
+[10/27/2021 19:12]  a rock guar: (bonded)
+[10/27/2021 19:12]  a rock guar: a rock guar
+[10/27/2021 19:12]  a drake: (bonded)
+[10/27/2021 19:12]  a drake: a drake
+[10/27/2021 19:12]  a drake: (bonded)
+[10/27/2021 19:12]  a drake: a drake
+[10/27/2021 19:12]  a rock guar: (bonded)
+[10/27/2021 19:12]  a rock guar: a rock guar
+[10/27/2021 19:12]  a rock guar: (bonded)
+[10/27/2021 19:12]  a rock guar: a rock guar
+[10/27/2021 19:12]  DySnOmIa: DySnOmIa
+[10/27/2021 19:12]  DySnOmIa: DySnOmIa
+[10/27/2021 19:12]  AnswerNet: AnswerNet
+[10/27/2021 19:12]  AnswerNet: AnswerNet
+[10/27/2021 19:12]  Arbor the tree: Legendary Carpenter
+[10/27/2021 19:12]  Arbor the tree: [Ancient, Oak]
+[10/27/2021 19:12]  Arbor the tree: Lord Arbor the tree
+[10/27/2021 19:12]  Arbor the tree: Legendary Carpenter
+[10/27/2021 19:12]  Arbor the tree: [Ancient, Oak]
+[10/27/2021 19:12]  Arbor the tree: Lord Arbor the tree
+[10/27/2021 19:12]  Poltergeist: Hardened Strategist
+[10/27/2021 19:12]  Poltergeist: [NVOS, DoK] [C]
+[10/27/2021 19:12]  Poltergeist: Poltergeist
+[10/27/2021 19:12]  Poltergeist: Hardened Strategist
+[10/27/2021 19:12]  Poltergeist: [NVOS, DoK] [C]
+[10/27/2021 19:12]  Poltergeist: Poltergeist
+[10/27/2021 19:12]  Stratagem: [Squire, C-C]
+[10/27/2021 19:12]  Stratagem: Stratagem
+[10/27/2021 19:12]  Stratagem: [Squire, C-C]
+[10/27/2021 19:12]  Stratagem: Stratagem
+[10/27/2021 19:12]  Leiko: Leiko the tinker
+[10/27/2021 19:12]  Leiko: Leiko the tinker
+[10/27/2021 19:12]  an andarian mage: an andarian mage
+[10/27/2021 19:12]  an andarian mage: an andarian mage
+[10/27/2021 19:12]  Killian: Killian the jeweler
+[10/27/2021 19:12]  Killian: Killian the jeweler
+[10/27/2021 19:12]  Poltergeist: Corp Por [Energy Bolt]
+[10/27/2021 19:12]  Boris-Britva: [RED] [C]
+[10/27/2021 19:12]  Boris-Britva: Boris-Britva
+[10/27/2021 19:12]  Boris-Britva: [RED] [C]
+[10/27/2021 19:12]  Boris-Britva: Boris-Britva
+[10/27/2021 19:12]  O.G: Seasoned Skirmisher
+[10/27/2021 19:12]  O.G: [/M\] [C]
+[10/27/2021 19:12]  O.G: O.G
+[10/27/2021 19:12]  O.G: Seasoned Skirmisher
+[10/27/2021 19:12]  O.G: [/M\] [C]
+[10/27/2021 19:12]  O.G: O.G
+[10/27/2021 19:12]  Boris-Britva: Corp Por [Energy Bolt]
+[10/27/2021 19:12]  RedTerror: Seasoned Soldier
+[10/27/2021 19:12]  RedTerror: [Veteran, G.G] [C]
+[10/27/2021 19:12]  RedTerror: RedTerror
+[10/27/2021 19:12]  RedTerror: Seasoned Soldier
+[10/27/2021 19:12]  RedTerror: [Veteran, G.G] [C]
+[10/27/2021 19:12]  RedTerror: RedTerror
+[10/27/2021 19:12]  FrozenHeart: [G.G] [C]
+[10/27/2021 19:12]  FrozenHeart: FrozenHeart
+[10/27/2021 19:12]  FrozenHeart: [G.G] [C]
+[10/27/2021 19:12]  FrozenHeart: FrozenHeart
+[10/27/2021 19:12]  Candida: Candida the cobbler
+[10/27/2021 19:12]  Candida: Candida the cobbler
+[10/27/2021 19:12]  Delphyne: Hardened Soldier
+[10/27/2021 19:12]  Delphyne: [Heretic, LAG!] [C]
+[10/27/2021 19:12]  Delphyne: Delphyne
+[10/27/2021 19:12]  Delphyne: Hardened Soldier
+[10/27/2021 19:12]  Delphyne: [Heretic, LAG!] [C]
+[10/27/2021 19:12]  Delphyne: Delphyne
+[10/27/2021 19:12]  MF Jones: [OFP] [C]
+[10/27/2021 19:12]  MF Jones: MF Jones
+[10/27/2021 19:12]  MF Jones: [OFP] [C]
+[10/27/2021 19:12]  MF Jones: MF Jones
+[10/27/2021 19:12]  Teodosio: Distinguished Skirmisher
+[10/27/2021 19:12]  Teodosio: [Veteran, CFC] [C]
+[10/27/2021 19:12]  Teodosio: Lord Teodosio
+[10/27/2021 19:12]  Teodosio: Distinguished Skirmisher
+[10/27/2021 19:12]  Teodosio: [Veteran, CFC] [C]
+[10/27/2021 19:12]  Teodosio: Lord Teodosio
+[10/27/2021 19:12]  Ye Olde Bastard: Legendary Alchemist
+[10/27/2021 19:12]  Ye Olde Bastard: [Ripe, SQzD] [C]
+[10/27/2021 19:12]  Ye Olde Bastard: Ye Olde Bastard
+[10/27/2021 19:12]  Ye Olde Bastard: Legendary Alchemist
+[10/27/2021 19:12]  Ye Olde Bastard: [Ripe, SQzD] [C]
+[10/27/2021 19:12]  Ye Olde Bastard: Ye Olde Bastard
+[10/27/2021 19:12]  Richard Suq'r: Legendary Skinner
+[10/27/2021 19:12]  Richard Suq'r: [Call Me Dik, P+B] [O]
+[10/27/2021 19:12]  Richard Suq'r: Richard Suq'r
+[10/27/2021 19:12]  Richard Suq'r: Legendary Skinner
+[10/27/2021 19:12]  Richard Suq'r: [Call Me Dik, P+B] [O]
+[10/27/2021 19:12]  Richard Suq'r: Richard Suq'r
+[10/27/2021 19:12]  Kitty Meow Meow: [O]
+[10/27/2021 19:12]  Kitty Meow Meow: Lady Kitty Meow Meow
+[10/27/2021 19:12]  Kitty Meow Meow: [O]
+[10/27/2021 19:12]  Kitty Meow Meow: Lady Kitty Meow Meow
+[10/27/2021 19:12]  Leiko: Leiko the tinker
+[10/27/2021 19:12]  Elven Assassin: Versatile
+[10/27/2021 19:12]  Elven Assassin: [O]
+[10/27/2021 19:12]  Elven Assassin: Elven Assassin
+[10/27/2021 19:12]  Elven Assassin: Versatile
+[10/27/2021 19:12]  Elven Assassin: [O]
+[10/27/2021 19:12]  Elven Assassin: Elven Assassin
+[10/27/2021 19:12]  Pleonexia: Seasonal Soldier
+[10/27/2021 19:12]  Pleonexia: [Bubblegum Galaxy, ***] [O]
+[10/27/2021 19:12]  Pleonexia: Pleonexia
+[10/27/2021 19:12]  Pleonexia: Seasonal Soldier
+[10/27/2021 19:12]  Pleonexia: [Bubblegum Galaxy, ***] [O]
+[10/27/2021 19:12]  Pleonexia: Pleonexia
+[10/27/2021 19:12]  Kenny Nelson: Distinguished Skirmisher
+[10/27/2021 19:12]  Kenny Nelson: [Major, Yew] [O]
+[10/27/2021 19:12]  Kenny Nelson: Lord Kenny Nelson
+[10/27/2021 19:12]  Kenny Nelson: Distinguished Skirmisher
+[10/27/2021 19:12]  Kenny Nelson: [Major, Yew] [O]
+[10/27/2021 19:12]  Kenny Nelson: Lord Kenny Nelson
+[10/27/2021 19:12]  H O M I C I D E: Seasoned Soldier
+[10/27/2021 19:12]  H O M I C I D E: [CoM] [O]
+[10/27/2021 19:12]  H O M I C I D E: H O M I C I D E
+[10/27/2021 19:12]  H O M I C I D E: Seasoned Soldier
+[10/27/2021 19:12]  H O M I C I D E: [CoM] [O]
+[10/27/2021 19:12]  H O M I C I D E: H O M I C I D E
+[10/27/2021 19:12]  Richard Suq'r: Legendary Skinner
+[10/27/2021 19:12]  Richard Suq'r: [Call Me Dik, P+B] [O]
+[10/27/2021 19:12]  Richard Suq'r: Richard Suq'r
+[10/27/2021 19:12]  Richard Suq'r: Legendary Skinner
+[10/27/2021 19:12]  Richard Suq'r: [Call Me Dik, P+B] [O]
+[10/27/2021 19:12]  Richard Suq'r: Richard Suq'r
+[10/27/2021 19:12]  RedTerror: Seasoned Soldier
+[10/27/2021 19:12]  RedTerror: [Veteran, G.G] [C]
+[10/27/2021 19:12]  RedTerror: RedTerror
+[10/27/2021 19:12]  RedTerror: Seasoned Soldier
+[10/27/2021 19:12]  RedTerror: [Veteran, G.G] [C]
+[10/27/2021 19:12]  RedTerror: RedTerror
+[10/27/2021 19:12]  Redcon: [O]
+[10/27/2021 19:12]  Redcon: Redcon
+[10/27/2021 19:12]  Redcon: [O]
+[10/27/2021 19:12]  Redcon: Redcon
+[10/27/2021 19:12]  Pine Nut Bob: Seasoned Soldier
+[10/27/2021 19:12]  Pine Nut Bob: [PEC] [O]
+[10/27/2021 19:12]  Pine Nut Bob: Pine Nut Bob
+[10/27/2021 19:12]  Pine Nut Bob: Seasoned Soldier
+[10/27/2021 19:12]  Pine Nut Bob: [PEC] [O]
+[10/27/2021 19:12]  Pine Nut Bob: Pine Nut Bob
+[10/27/2021 19:12]  Poltergeist: Corp Por [Energy Bolt]
+[10/27/2021 19:12]  Sweeney Todd: Hardened Strategist
+[10/27/2021 19:12]  Sweeney Todd: [Devourer of, BLuD] [O]
+[10/27/2021 19:12]  Sweeney Todd: Sweeney Todd
+[10/27/2021 19:12]  Sweeney Todd: Hardened Strategist
+[10/27/2021 19:12]  Sweeney Todd: [Devourer of, BLuD] [O]
+[10/27/2021 19:12]  Sweeney Todd: Sweeney Todd
+[10/27/2021 19:12]  Kitty Meow Meow: [O]
+[10/27/2021 19:12]  Kitty Meow Meow: Lady Kitty Meow Meow
+[10/27/2021 19:12]  Kitty Meow Meow: [O]
+[10/27/2021 19:12]  Kitty Meow Meow: Lady Kitty Meow Meow
+[10/27/2021 19:12]  Killian: Killian the jeweler
+[10/27/2021 19:12]  Killian: Killian the jeweler
+[10/27/2021 19:12]  Ye Olde Bastard: Corp Por [Energy Bolt]
+[10/27/2021 19:12]  Fattilac: Fattilac
+[10/27/2021 19:12]  Fattilac: Fattilac
+[10/27/2021 19:12]  Stratagem: [Squire, C-C]
+[10/27/2021 19:12]  Stratagem: Stratagem
+[10/27/2021 19:12]  Stratagem: [Squire, C-C]
+[10/27/2021 19:12]  Stratagem: Stratagem
+[10/27/2021 19:12]  Pleonexia: Seasonal Soldier
+[10/27/2021 19:12]  Pleonexia: [Bubblegum Galaxy, ***] [O]
+[10/27/2021 19:12]  Pleonexia: Pleonexia
+[10/27/2021 19:12]  Pleonexia: Seasonal Soldier
+[10/27/2021 19:12]  Pleonexia: [Bubblegum Galaxy, ***] [O]
+[10/27/2021 19:12]  Pleonexia: Pleonexia
+[10/27/2021 19:12]  Sweeney Todd: Hardened Strategist
+[10/27/2021 19:12]  Sweeney Todd: [Devourer of, BLuD] [O]
+[10/27/2021 19:12]  Sweeney Todd: Sweeney Todd
+[10/27/2021 19:12]  Sweeney Todd: Hardened Strategist
+[10/27/2021 19:12]  Sweeney Todd: [Devourer of, BLuD] [O]
+[10/27/2021 19:12]  Sweeney Todd: Sweeney Todd
+[10/27/2021 19:12]  Richard Suq'r: Legendary Skinner
+[10/27/2021 19:12]  Richard Suq'r: [Call Me Dik, P+B] [O]
+[10/27/2021 19:12]  Richard Suq'r: Richard Suq'r
+[10/27/2021 19:12]  Richard Suq'r: Legendary Skinner
+[10/27/2021 19:12]  Richard Suq'r: [Call Me Dik, P+B] [O]
+[10/27/2021 19:12]  Richard Suq'r: Richard Suq'r
+[10/27/2021 19:12]  Poltergeist: Corp Por [Energy Bolt]
+[10/27/2021 19:13]  Stratagem: [Squire, C-C]
+[10/27/2021 19:13]  Stratagem: Stratagem
+[10/27/2021 19:13]  Stratagem: [Squire, C-C]
+[10/27/2021 19:13]  Stratagem: Stratagem
+[10/27/2021 19:13]  Elven Assassin: Corp Por [Energy Bolt]
+[10/27/2021 19:13]  Kitty Meow Meow: Por Ort Grav [Lightning]
+[10/27/2021 19:13]  Elven Assassin: Corp Por [Energy Bolt]
+[10/27/2021 19:13]  You see: the remains of Ye Olde Bastard
+[10/27/2021 19:13]  Pine Nut Bob: Rel Por [Teleport]
+[10/27/2021 19:13]  Teodosio: Distinguished Skirmisher
+[10/27/2021 19:13]  Teodosio: [Veteran, CFC] [C]
+[10/27/2021 19:13]  Teodosio: Lord Teodosio
+[10/27/2021 19:13]  Teodosio: Distinguished Skirmisher
+[10/27/2021 19:13]  Teodosio: [Veteran, CFC] [C]
+[10/27/2021 19:13]  Teodosio: Lord Teodosio
+[10/27/2021 19:13]  Boris-Britva: [RED] [C]
+[10/27/2021 19:13]  Boris-Britva: Boris-Britva
+[10/27/2021 19:13]  Boris-Britva: [RED] [C]
+[10/27/2021 19:13]  Boris-Britva: Boris-Britva
+[10/27/2021 19:13]  H O M I C I D E: Corp Por [Energy Bolt]
+[10/27/2021 19:13]  Kitty Meow Meow: Rel Por [Teleport]
+[10/27/2021 19:13]  Redcon: Corp Por [Energy Bolt]
+[10/27/2021 19:13]  Elven Assassin: Vas Ort Flam [Explosion]
+[10/27/2021 19:13]  Leiko: Greetings.  Have a look around.
+[10/27/2021 19:13]  Redcon: [O]
+[10/27/2021 19:13]  Redcon: Redcon
+[10/27/2021 19:13]  Redcon: [O]
+[10/27/2021 19:13]  Redcon: Redcon
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: AnswerNet
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Candida
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: DySnOmIa
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Leiko
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: an andarian mage
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Elven Assassin
+[10/27/2021 19:13]  Redcon: Vas Ort Flam [Explosion]
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Killian
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Redcon
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: AnswerNet
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Candida
+[10/27/2021 19:13]  Stratagem: [Squire, C-C]
+[10/27/2021 19:13]  Stratagem: Stratagem
+[10/27/2021 19:13]  Stratagem: [Squire, C-C]
+[10/27/2021 19:13]  Stratagem: Stratagem
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: DySnOmIa
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Stratagem
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Leiko
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: an andarian mage
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Elven Assassin
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Killian
+[10/27/2021 19:13]  System: New target set.
+[10/27/2021 19:13]  Razor: Target: Redcon
+[10/27/2021 19:13]  Boris-Britva: [RED] [C]
+[10/27/2021 19:13]  Boris-Britva: Boris-Britva
+[10/27/2021 19:13]  Boris-Britva: [RED] [C]
+[10/27/2021 19:13]  Boris-Britva: Boris-Britva
+[10/27/2021 19:13]  Delphyne: Hardened Soldier
+[10/27/2021 19:13]  Delphyne: [Heretic, LAG!] [C]
+[10/27/2021 19:13]  Delphyne: Delphyne
+[10/27/2021 19:13]  Delphyne: Hardened Soldier
+[10/27/2021 19:13]  Delphyne: [Heretic, LAG!] [C]
+[10/27/2021 19:13]  Delphyne: Delphyne
+[10/27/2021 19:13]  MF Jones: [OFP] [C]
+[10/27/2021 19:13]  MF Jones: MF Jones
+[10/27/2021 19:13]  MF Jones: [OFP] [C]
+[10/27/2021 19:13]  MF Jones: MF Jones
+[10/27/2021 19:13]  Leiko: The total of thy purchase is 125 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[10/27/2021 19:13]  Schwanzstuker: Kal Ort Por [Recall]
+[10/27/2021 19:13]  System: EvalInt skillgain: 100%
+[10/27/2021 19:13]  System: SpiritSpeak skillgain: 100%
+[10/27/2021 19:13]  System: You have left the protection of the town guards.
+[10/27/2021 19:13]  Razor: [EvalInt] +0.9 0.9 (+0.9)
+[10/27/2021 19:13]  Razor: [SpiritSpeak] +0.9 0.9 (+0.9)
+[10/27/2021 19:13]  System: Opening door...
+[10/27/2021 19:13]  System: Your house and its contents have been refreshed. 29 days 23 hours 25 minutes remaining until owner refresh required.
+[10/27/2021 19:13]  System: Where will you search?
+[10/27/2021 19:13]  System: You search the home and find no one hiding within.
+[10/27/2021 19:14]  System: Your campfire is now secure.
+[10/27/2021 19:14]  System: The world will save in 15 seconds.
+[10/27/2021 19:14]  System: The world is saving, please wait.
+[10/27/2021 19:14]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:14]  System: World save complete. The entire process took 3.7 seconds.
+[10/27/2021 19:14]  Razor: No ribs!
+[10/27/2021 19:14]  System: Restock request in progress....
+[10/27/2021 19:14]  System: Restock done, queued 2 items.
+[10/27/2021 19:14]  System: Finished 2 queued actions in 0.6 seconds.
+[10/27/2021 19:14]  System: Target a container to restock from, or target yourself to use your bank box.
+[10/27/2021 19:14]  Razor: No ribs!
+[10/27/2021 19:14]  System: Restock request in progress....
+[10/27/2021 19:14]  System: Restock done, queued 0 items.
+[10/27/2021 19:15]  Razor: No ribs!
+[10/27/2021 19:15]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:15]  System: Container not set.
+[10/27/2021 19:15]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:15]  System: Container not set.
+[10/27/2021 19:15]  System: Container not set.
+[10/27/2021 19:15]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:15]  System: Container not set.
+[10/27/2021 19:16]  Razor: [Cooking] +0.1 72.5 (+2.5)
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: JordeX has completed the achievement: Savant (Basic).
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  Razor: [Cooking] +0.1 72.6 (+2.6)
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:16]  System: Container not set.
+[10/27/2021 19:16]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  Razor: [Cooking] +0.1 72.7 (+2.7)
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:17]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:17]  System: Container not set.
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Container not set.
+[10/27/2021 19:18]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  Razor: [Cooking] +0.1 72.8 (+2.8)
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:19]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:19]  System: Container not set.
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  Razor: Need fire!
+[10/27/2021 19:20]  System: You fail to ignite the campfire.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:20]  System: Warning: ribs amount is now 4!
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:20]  System: Warning: ribs amount is now 3!
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  System: Warning: ribs amount is now 2!
+[10/27/2021 19:20]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:20]  System: Container not set.
+[10/27/2021 19:20]  Razor: No ribs!
+[10/27/2021 19:20]  You see: raw ribs : 2
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  Razor: [Cooking] +0.1 72.9 (+2.9)
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Your campfire is now secure.
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cazic-Thule has completed the achievement: Savant (Basic).
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  System: Warning: ribs amount is now 0!
+[10/27/2021 19:21]  System: Container not set.
+[10/27/2021 19:21]  Razor: No ribs!
+[10/27/2021 19:22]  You see: raw ribs : 89
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: You have worn out your tool!
+[10/27/2021 19:22]  Razor: [Cooking] +0.1 73.0 (+3.0)
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000% [2]
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Container not set.
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:22]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:23]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:23]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:23]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:23]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:23]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:23]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:24]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:24]  System: Cooking skillgain: 5.000%
+[10/27/2021 19:24]  Schwanzstuker: I can't reach that.
+[10/27/2021 19:24]  System: Cooking skillgain: 5.000%
