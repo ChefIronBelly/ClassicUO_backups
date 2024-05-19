@@ -1,0 +1,701 @@
+[06/18/2023 10:52]  System: WorldMap loading...
+[06/18/2023 10:52]  System: Loading WorldMap markers..
+[06/18/2023 10:52]  System: ..Banks_and_Healers.xml (20)
+[06/18/2023 10:52]  System: ..Dungeons.xml (12)
+[06/18/2023 10:52]  System: ..Dungeon_Gates.xml (349)
+[06/18/2023 10:52]  System: ..Healer_Caravans.xml (32)
+[06/18/2023 10:52]  System: ..Moongates.xml (9)
+[06/18/2023 10:52]  System: ..POI.xml (176)
+[06/18/2023 10:52]  System: ..PvP_Locations.xml (71)
+[06/18/2023 10:52]  System: ..Shrines.xml (9)
+[06/18/2023 10:52]  System: ..Subterranean.xml (6)
+[06/18/2023 10:52]  System: ..Townships.xml (9)
+[06/18/2023 10:52]  System: WorldMap markers loaded (693)
+[06/18/2023 10:52]  System: Welcome Rabbi Tuckman!
+[06/18/2023 10:52]  Razor: [- (s)]
+[06/18/2023 10:52]  Razor: [+Strength (59s)]
+[06/18/2023 10:52]  Razor: [- (s)]
+[06/18/2023 10:52]  Razor: [+Agility (259s)]
+[06/18/2023 10:52]  Razor: [- (s)]
+[06/18/2023 10:52]  Razor: [+Cunning (259s)]
+[06/18/2023 10:52]  Razor: [- (s)]
+[06/18/2023 10:52]  Razor: [+Protection (263s)]
+[06/18/2023 10:52]  Razor: [- (s)]
+[06/18/2023 10:52]  Razor: [+Food Satisfaction (3172s)]
+[06/18/2023 10:52]  Rabbi Tuckman: Rabbi Tuckman
+[06/18/2023 10:52]  Rane: Rane the dockmaster
+[06/18/2023 10:52]  a raven: a raven
+[06/18/2023 10:52]  Blood Draw: Legendarily Triggered
+[06/18/2023 10:52]  Blood Draw: [Brigand, brg]
+[06/18/2023 10:52]  Blood Draw: Blood Draw
+[06/18/2023 10:52]  System: WorldMap loaded!
+[06/18/2023 10:52]  System: The world will save in 15 seconds.
+[06/18/2023 10:53]  System: The world is saving, please wait.
+[06/18/2023 10:53]  System: World save complete. The entire process took 4.2 seconds.
+[06/18/2023 10:53]  System: Your strength has changed by -20.  It is now 100
+[06/18/2023 10:53]  Razor: [-Strength (s)]
+[06/18/2023 10:53]  Razor: Str: -20 - 100
+[06/18/2023 10:53]  Empress Nympho: Empress Nympho
+[06/18/2023 10:54]  System: You have been made a co-owner of this house.
+[06/18/2023 10:54]  System: 1 items were added.
+[06/18/2023 10:55]  a raven: a raven
+[06/18/2023 10:55]  Razor: Target your restock container (kegs)
+[06/18/2023 10:55]  [Razor]: 'restock_container' not found, creating new variable
+[06/18/2023 10:55]  [Razor]: Select target for variable 'restock_container'
+[06/18/2023 10:55]  System: Tool Man has completed the achievement: Skill Mastery (Basic).
+[06/18/2023 10:55]  System: Tool Man has completed the achievement: Alchemist (Epic).
+[06/18/2023 10:55]  [Razor]: 'restock_container' script variable updated to '0x556199D8'
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete: no items needed.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No Nightshade!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete: no items needed.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No Nightshade!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete: no items needed.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No Nightshade!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete: no items needed.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No Nightshade!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete: no items needed.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No Nightshade!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No keg!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete: no items needed.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: No keg!
+[06/18/2023 10:55]  Razor: Resupply
+[06/18/2023 10:55]  System: Resupply complete.
+[06/18/2023 10:55]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/18/2023 10:55]  [Razor]: Restock done, queued 0 items.
+[06/18/2023 10:55]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:55]  System: You increase your damage resistance to creature-casted spells.
+[06/18/2023 10:55]  Razor: [+Magic Resist Potion (446s)]
+[06/18/2023 10:55]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:55]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  System: luxarz has completed the achievement: Fortune Hunter (Advanced).
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:56]  System: Your dexterity has changed by -10.  It is now 100
+[06/18/2023 10:56]  System: Your intelligence has changed by -10.  It is now 25
+[06/18/2023 10:56]  Razor: [-Agility (s)]
+[06/18/2023 10:56]  Razor: [-Cunning (s)]
+[06/18/2023 10:56]  Razor: Dex: -10 - 100
+[06/18/2023 10:56]  Razor: Int: -10 - 25
+[06/18/2023 10:56]  Razor: [-Protection (s)]
+[06/18/2023 10:56]  System: Treasure-Goblin has completed the achievement: Loremaster (Basic).
+[06/18/2023 10:57]  System: Resupply complete: no items needed.
+[06/18/2023 10:57]  You see: a storage shelf
+[06/18/2023 10:57]  You see: [secure]
+[06/18/2023 10:57]  System: Resupply complete: no items needed.
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  You see: bottle : 47
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  Rabbi Tuckman: I can't reach that.
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  System: BD-Summ has completed the achievement: Pirate (Basic).
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:57]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 11.2.
+[06/18/2023 10:58]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.2.
+[06/18/2023 10:58]  Razor: [ArmsLore] -0.1 11.2 (-0.1)
+[06/18/2023 10:58]  Razor: [Alchemy] +0.1 68.2 (+0.1)
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  System: You have worn out your tool!
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  You see: stacked potion keg: 5
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:58]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:59]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:59]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:59]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:59]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:59]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 10:59]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 11:00]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 11:00]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 11:00]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 11:00]  Razor: 55 - 75: Lesser Magic Resist
+[06/18/2023 11:00]  System: Doppar has completed the achievement: Skill Proficiency (Basic).
+[06/18/2023 11:00]  System: Crafting queue begun.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (0/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  You see: gold coin : 769
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (1/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (2/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (0/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (3/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (4/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (4/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (5/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (6/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (6/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (7/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  You see: Greater Strength potion
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (8/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  You see: bottle : 47
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (8/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  You see: bottle : 47
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (9/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (9/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (10/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (11/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (12/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (13/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:01]  You see: The keg is approximately half full.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (14/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:01]  You see: The keg is approximately half full.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (15/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (16/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (17/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (17/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (18/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  You see: nightshade : 510
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (18/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  You see: a storage shelf
+[06/18/2023 11:01]  You see: [secure]
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (19/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (20/100 made): You pour the potion into a bottle.
+[06/18/2023 11:01]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (20/100 made): You fail to create a useful potion.
+[06/18/2023 11:01]  System: That is not a container.
+[06/18/2023 11:01]  System: Lesser Magic Resist Potion (21/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (22/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  You see: a storage shelf
+[06/18/2023 11:02]  You see: [secure]
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (22/100 made): You fail to create a useful potion.
+[06/18/2023 11:02]  System: Resupply complete: no items needed.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (23/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (24/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Yellow Hat has completed the achievement: Engineer (Advanced).
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (25/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (26/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (26/100 made): You fail to create a useful potion.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (27/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (27/100 made): You fail to create a useful potion.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (28/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (29/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (30/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (31/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (32/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (33/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (34/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (35/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (36/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (37/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (38/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (39/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (40/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (41/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (42/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (43/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (43/100 made): You fail to create a useful potion.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (44/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (45/100 made): You pour the potion into a bottle.
+[06/18/2023 11:02]  System: Lesser Magic Resist Potion (45/100 made): You fail to create a useful potion.
+[06/18/2023 11:02]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:02]  You see: The keg is approximately half full.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (46/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  You see: nightshade : 510
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (47/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (45/100 made): You fail to create a useful potion.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (48/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (48/100 made): You fail to create a useful potion.
+[06/18/2023 11:03]  You see: nightshade : 510
+[06/18/2023 11:03]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 11.1.
+[06/18/2023 11:03]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.3.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (49/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  Razor: [ArmsLore] -0.1 11.1 (-0.2)
+[06/18/2023 11:03]  Razor: [Alchemy] +0.1 68.3 (+0.2)
+[06/18/2023 11:03]  Razor: [-Food Satisfaction (s)]
+[06/18/2023 11:03]  Razor: [+Food Satisfaction (3600s)]
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (50/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (48/100 made): You fail to create a useful potion.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (51/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (52/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  You see: nightshade : 510
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (53/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (53/100 made): You fail to create a useful potion.
+[06/18/2023 11:03]  System: Your magic resist potion has worn off.
+[06/18/2023 11:03]  Razor: [-Magic Resist Potion (s)]
+[06/18/2023 11:03]  You see: nightshade : 510
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (54/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (55/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (55/100 made): You fail to create a useful potion.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (56/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: You have worn out your tool!
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (57/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (58/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:03]  You see: The keg is approximately half full.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (59/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (60/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (60/100 made): You fail to create a useful potion.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (61/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (62/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (63/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (64/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (65/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  You see: spider's silk : 1975
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (66/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (67/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (68/100 made): You pour the potion into a bottle.
+[06/18/2023 11:03]  System: Lesser Magic Resist Potion (69/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (69/100 made): You fail to create a useful potion.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (70/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (71/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (72/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (73/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (74/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (75/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (76/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (77/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 11.0.
+[06/18/2023 11:04]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.4.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (78/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  Razor: [ArmsLore] -0.1 11.0 (-0.3)
+[06/18/2023 11:04]  Razor: [Alchemy] +0.1 68.4 (+0.3)
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (78/100 made): You fail to create a useful potion.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (79/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (80/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (78/100 made): You fail to create a useful potion.
+[06/18/2023 11:04]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 10.9.
+[06/18/2023 11:04]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.5.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (81/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  Razor: [ArmsLore] -0.1 10.9 (-0.4)
+[06/18/2023 11:04]  Razor: [Alchemy] +0.1 68.5 (+0.4)
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (82/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (83/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (84/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (85/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (86/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:04]  You see: The keg is approximately half full.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (87/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (88/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (89/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (90/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (91/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (91/100 made): You fail to create a useful potion.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (92/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  You see: spider's silk : 1882
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (93/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (94/100 made): You pour the potion into a bottle.
+[06/18/2023 11:04]  System: Lesser Magic Resist Potion (94/100 made): You fail to create a useful potion.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (95/100 made): You pour the potion into a bottle.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (96/100 made): You pour the potion into a bottle.
+[06/18/2023 11:05]  Blood Draw: Legendarily Triggered
+[06/18/2023 11:05]  Blood Draw: [Brigand, brg]
+[06/18/2023 11:05]  Blood Draw: Blood Draw
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (97/100 made): You pour the potion into a bottle.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (98/100 made): You pour the potion into a bottle.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (98/100 made): You fail to create a useful potion.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (99/100 made): You pour the potion into a bottle.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (100/100 made): You pour the potion into a bottle.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion: 100 crafted complete.
+[06/18/2023 11:05]  System: Lesser Magic Resist Potion (98/100 made): You fail to create a useful potion.
+[06/18/2023 11:05]  System: Crafting queue complete.
+[06/18/2023 11:05]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:05]  You see: The keg is approximately half full.
+[06/18/2023 11:05]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:05]  You see: The keg is very full.
+[06/18/2023 11:05]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:05]  You see: The keg is very full.
+[06/18/2023 11:06]  System: Crafting queue begun.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (1/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (2/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (3/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (4/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (5/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (6/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (7/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (8/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (8/100 made): You fail to create a useful potion.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (9/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (10/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (11/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (12/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (13/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (14/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (15/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (16/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (17/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:06]  You see: The keg is more than half full.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (18/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (19/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: MOPE MOPE has completed the achievement: Cartographer (Basic).
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (20/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (21/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (22/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (23/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (24/100 made): You pour the potion into a bottle.
+[06/18/2023 11:06]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:06]  You see: The keg is about three quarters full.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (24/100 made): You fail to create a useful potion.
+[06/18/2023 11:06]  System: Lesser Magic Resist Potion (25/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (26/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (27/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (28/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (29/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (30/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (30/100 made): You fail to create a useful potion.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (31/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (30/100 made): You fail to create a useful potion. [2]
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (32/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (33/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (34/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (35/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (35/100 made): You fail to create a useful potion.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (36/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (36/100 made): You fail to create a useful potion.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (37/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (38/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (39/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (40/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (40/100 made): You fail to create a useful potion.
+[06/18/2023 11:07]  System: You have worn out your tool!
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (41/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (42/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (42/100 made): You fail to create a useful potion.
+[06/18/2023 11:07]  System: The world will save in 15 seconds.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (43/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (44/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (44/100 made): You fail to create a useful potion.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (45/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:07]  You see: The keg is very full.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (46/100 made): You pour the potion into a bottle.
+[06/18/2023 11:07]  System: Lesser Magic Resist Potion (47/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (47/100 made): You fail to create a useful potion.
+[06/18/2023 11:08]  System: The world is saving, please wait.
+[06/18/2023 11:08]  System: World save complete. The entire process took 4.1 seconds.
+[06/18/2023 11:08]  System: You must wait to perform another action.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion: You must wait to perform another action.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (48/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (48/100 made): You fail to create a useful potion.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (49/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:08]  You see: The keg is very full.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (50/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (51/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (52/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (52/100 made): You fail to create a useful potion.
+[06/18/2023 11:08]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:08]  You see: The keg is completely full.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (53/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (54/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: You may only stack empty kegs together.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (55/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (56/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (57/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (58/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:08]  You see: The keg is approximately half full.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (59/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 10.8.
+[06/18/2023 11:08]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.6.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (59/100 made): You fail to create a useful potion.
+[06/18/2023 11:08]  Razor: [ArmsLore] -0.1 10.8 (-0.5)
+[06/18/2023 11:08]  Razor: [Alchemy] +0.1 68.6 (+0.5)
+[06/18/2023 11:08]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:08]  You see: The keg is very full.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (60/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (61/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (61/100 made): You fail to create a useful potion.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (62/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (63/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:08]  You see: The liquid is almost to the top of the keg.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (64/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (65/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (66/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (66/100 made): You fail to create a useful potion.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (67/100 made): You pour the potion into a bottle.
+[06/18/2023 11:08]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:08]  You see: The keg is completely full.
+[06/18/2023 11:08]  System: Lesser Magic Resist Potion (68/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (68/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (69/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (70/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (70/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:09]  You see: The keg is more than half full.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (71/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (71/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (72/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (73/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (74/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (75/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (76/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (77/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (77/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  You see: nightshade : 510
+[06/18/2023 11:09]  You see: a storage shelf
+[06/18/2023 11:09]  You see: [secure]
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (77/100 made): You fail to create a useful potion. [3]
+[06/18/2023 11:09]  System: 1 items were added.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (78/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (79/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (77/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (79/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (80/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (81/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  You see: spider's silk : 1531
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (82/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (83/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (83/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (84/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (85/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (83/100 made): You fail to create a useful potion.
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (86/100 made): You pour the potion into a bottle.
+[06/18/2023 11:09]  System: HarleyxQuinn has completed the achievement: Captain (Advanced).
+[06/18/2023 11:09]  System: Lesser Magic Resist Potion (87/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (88/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (89/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 10.7.
+[06/18/2023 11:10]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.7.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (90/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  Razor: [ArmsLore] -0.1 10.7 (-0.6)
+[06/18/2023 11:10]  Razor: [Alchemy] +0.1 68.7 (+0.6)
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (90/100 made): You fail to create a useful potion.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (91/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 10.6.
+[06/18/2023 11:10]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.8.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (92/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  Razor: [ArmsLore] -0.1 10.6 (-0.7)
+[06/18/2023 11:10]  Razor: [Alchemy] +0.1 68.8 (+0.7)
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (93/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (93/100 made): You fail to create a useful potion.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (94/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (95/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (96/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (97/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (98/100 made): You pour the potion into a bottle.
+[06/18/2023 11:10]  System: Crafting queue stopped.
+[06/18/2023 11:10]  Rabbi Tuckman: Kal Ort Por [Recall]
+[06/18/2023 11:10]  System: You are now under the protection of the town guards.
+[06/18/2023 11:10]  TurtleFurCoat: TurtleFurCoat
+[06/18/2023 11:10]  Rosaline: Rosaline the waiter
+[06/18/2023 11:10]  TurtleFur: TurtleFur (Young)
+[06/18/2023 11:10]  JDSin: JDSin
+[06/18/2023 11:10]  TurtleFurr: TurtleFurr (Young)
+[06/18/2023 11:10]  I Am Corona: [Recruit, CFC]
+[06/18/2023 11:10]  I Am Corona: I Am Corona
+[06/18/2023 11:10]  Penslar: Penslar
+[06/18/2023 11:10]  Amish: Legendary Weaponmaster
+[06/18/2023 11:10]  Amish: [The Farmer, L%C]
+[06/18/2023 11:10]  Amish: Lord Amish
+[06/18/2023 11:10]  Wijdan: Wijdan the mapmaker
+[06/18/2023 11:10]  Tai: Tai the fisherman
+[06/18/2023 11:10]  Meg: Meg the bowyer
+[06/18/2023 11:10]  Madelyn: Madelyn the shipwright
+[06/18/2023 11:10]  Colon: Colon the Town Crier
+[06/18/2023 11:10]  Alicia: Alicia the tavern keeper
+[06/18/2023 11:10]  Eisenbah: Eisenbah (Young)
+[06/18/2023 11:10]  Sir Woodland: Sir Woodland (Young)
+[06/18/2023 11:10]  Amadis: Amadis the armorer
+[06/18/2023 11:10]  Thea: Thea the merchant
+[06/18/2023 11:10]  Jake: Jake the barkeep
+[06/18/2023 11:10]  Len: Len the banker
+[06/18/2023 11:10]  Ayisha: Ayisha the weaponsmith
+[06/18/2023 11:10]  Jolanta: Jolanta the Paladin
+[06/18/2023 11:10]  I Am Corona: [Recruit, CFC]
+[06/18/2023 11:10]  I Am Corona: I Am Corona
+[06/18/2023 11:10]  Ricki Lakes: Ricki Lakes
+[06/18/2023 11:10]  System: Crafting queue begun.
+[06/18/2023 11:10]  System: Lesser Magic Resist Potion (1/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (2/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (3/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  Oscuro Vagabondo: Oscuro Vagabondo (Young)
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (4/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  JDSin: JDSin
+[06/18/2023 11:11]  Penslar: Penslar
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (5/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (6/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  Penslar: Penslar
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (7/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  You see: platemail chest
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (8/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (8/100 made): You fail to create a useful potion.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (9/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  Amish: Legendary Weaponmaster
+[06/18/2023 11:11]  Amish: [The Farmer, L%C]
+[06/18/2023 11:11]  Amish: Lord Amish
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (10/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  Jolanta: Jolanta the Paladin
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (10/100 made): You fail to create a useful potion.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (11/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  Amish: *farts*
+[06/18/2023 11:11]  Amish: *gulp*
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (12/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (13/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (14/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (15/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (16/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:11]  You see: The keg is completely full.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (17/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (18/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: You have worn out your tool!
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (19/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (20/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  Colon: A new house raffle is now available at Prevalia Bank for a Guild Fortress!  Tickets are 1000gp each.  Raffle ends on Friday. June 23rd at 8PM ET!
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (20/100 made): You fail to create a useful potion.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (21/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (22/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (20/100 made): You fail to create a useful potion.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (23/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (24/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (25/100 made): You pour the potion into a bottle.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (25/100 made): You fail to create a useful potion.
+[06/18/2023 11:11]  System: Lesser Magic Resist Potion (26/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (27/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (27/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (28/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  Chane: Chane the carpenter
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (28/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  Jolanta: Jolanta the Paladin
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (29/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (30/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (28/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (31/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (32/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (33/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (34/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (35/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (36/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (37/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (38/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (39/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (40/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:12]  You see: The keg is about one quarter full.
+[06/18/2023 11:12]  Jolanta: Jolanta the Paladin
+[06/18/2023 11:12]  Amish: *farts*
+[06/18/2023 11:12]  Amish: *gulp*
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (41/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:12]  You see: The keg is completely full.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (41/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (42/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (43/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  Amish: Legendary Weaponmaster
+[06/18/2023 11:12]  Amish: [The Farmer, L%C]
+[06/18/2023 11:12]  Amish: Lord Amish
+[06/18/2023 11:12]  Colon: 1vs1 Order PvP Tournaments have been scheduled for the following times this week: Tuesday 10PM ET, Thursday 10PM ET, Saturday 5PM ET
+[06/18/2023 11:12]  Saltsin: Saltsin (Young)
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (44/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (45/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  I Am Corona: [Recruit, CFC]
+[06/18/2023 11:12]  I Am Corona: I Am Corona
+[06/18/2023 11:12]  Ayisha: Ayisha the weaponsmith
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (46/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (46/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  You see: doublet
+[06/18/2023 11:12]  You see: [blessed]
+[06/18/2023 11:12]  You see: exceptional poison aspect leather chest
+[06/18/2023 11:12]  You see: [crafted by Rizzle]
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (47/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (47/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (46/100 made): You fail to create a useful potion.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (48/100 made): You pour the potion into a bottle.
+[06/18/2023 11:12]  System: Lesser Magic Resist Potion (49/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 10.5.
+[06/18/2023 11:13]  System: Your skill in Alchemy has increased by 0.1.  It is now 68.9.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (50/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  Razor: [ArmsLore] -0.1 10.5 (-0.8)
+[06/18/2023 11:13]  Razor: [Alchemy] +0.1 68.9 (+0.8)
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (51/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (51/100 made): You fail to create a useful potion.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (52/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (53/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  Amish: Legendary Weaponmaster
+[06/18/2023 11:13]  Amish: [The Farmer, L%C]
+[06/18/2023 11:13]  Amish: Lord Amish
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (54/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (55/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (56/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (57/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (58/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (59/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (60/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (61/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  Chane: Chane the carpenter
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (62/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (63/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (64/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  Jolanta: Jolanta the Paladin
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (64/100 made): You fail to create a useful potion.
+[06/18/2023 11:13]  YARGLE: (bonded)
+[06/18/2023 11:13]  YARGLE: YARGLE
+[06/18/2023 11:13]  slugged: (bonded)
+[06/18/2023 11:13]  slugged: slugged
+[06/18/2023 11:13]  Vector: Agent
+[06/18/2023 11:13]  Vector: Lord Vector
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (65/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  Vector: Kal Ort Por [Recall]
+[06/18/2023 11:13]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:13]  You see: The keg is approximately half full.
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (66/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  Vector: rent stall i wish to release this
+[06/18/2023 11:13]  System: Lesser Magic Resist Potion (67/100 made): You pour the potion into a bottle.
+[06/18/2023 11:13]  System: Crafting queue stopped.
+[06/18/2023 11:13]  Vector: Kal Ort Por [Recall]
+[06/18/2023 11:13]  Colon: A new house raffle is now available at Prevalia Bank for a Guild Fortress!  Tickets are 1000gp each.  Raffle ends on Friday. June 23rd at 8PM ET!
+[06/18/2023 11:13]  Amish: *farts*
+[06/18/2023 11:13]  Amish: *gulp*
+[06/18/2023 11:13]  Rabbi Tuckman: Kal Ort Por [Recall]
+[06/18/2023 11:13]  System: You have left the protection of the town guards.
+[06/18/2023 11:13]  Rane: Rane the dockmaster
+[06/18/2023 11:13]  System: Opening door...
+[06/18/2023 11:13]  System: Your house and its contents have been refreshed. 29 days 23 hours 40 minutes remaining until owner refresh required.
+[06/18/2023 11:13]  System: Where will you search?
+[06/18/2023 11:13]  Rane: Rane the dockmaster
+[06/18/2023 11:13]  System: You search the home and find no one hiding within.
+[06/18/2023 11:14]  You see: a potion keg: lesser magic resistance
+[06/18/2023 11:14]  You see: The keg is completely full.

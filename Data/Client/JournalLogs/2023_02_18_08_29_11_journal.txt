@@ -1,0 +1,599 @@
+[02/18/2023 08:29]  System: WorldMap loading...
+[02/18/2023 08:29]  System: Loading WorldMap markers..
+[02/18/2023 08:29]  System: ..Banks_and_Healers.xml (20)
+[02/18/2023 08:29]  System: ..Dungeons.xml (12)
+[02/18/2023 08:29]  System: ..Dungeon_Gates.xml (325)
+[02/18/2023 08:29]  System: ..Healer_Caravans.xml (32)
+[02/18/2023 08:29]  System: ..Moongates.xml (9)
+[02/18/2023 08:29]  System: ..POI.xml (176)
+[02/18/2023 08:29]  System: ..PvP_Locations.xml (71)
+[02/18/2023 08:29]  System: ..Shrines.xml (9)
+[02/18/2023 08:29]  System: ..Subterranean.xml (6)
+[02/18/2023 08:29]  System: ..Townships.xml (9)
+[02/18/2023 08:29]  System: WorldMap markers loaded (669)
+[02/18/2023 08:29]  System: Welcome Stink Fist!
+[02/18/2023 08:29]  Razor: [- (s)]
+[02/18/2023 08:29]  Razor: [+Hidden/Stealthing (0s)]
+[02/18/2023 08:29]  Rane: Rane the dockmaster
+[02/18/2023 08:29]  a raven: a raven
+[02/18/2023 08:29]  a hind: a hind
+[02/18/2023 08:29]  System: WorldMap loaded!
+[02/18/2023 08:30]  Stink Fist: The food is paltry and is barely satisfying.
+[02/18/2023 08:30]  Razor: [+Food Satisfaction (3600s)]
+[02/18/2023 08:30]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/18/2023 08:31]  System: Nunk has completed the achievement: Transmutation (Basic).
+[02/18/2023 08:32]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/18/2023 08:32]  Razor: [-Hidden/Stealthing (s)]
+[02/18/2023 08:32]  Stink Fist: Kal Ort Por [Recall]
+[02/18/2023 08:32]  System: Your spellbook generates mana for your spell.
+[02/18/2023 08:32]  System: You are now under the protection of the town guards.
+[02/18/2023 08:32]  Rosaline: Rosaline the waiter
+[02/18/2023 08:32]  a pack llama: (tame)
+[02/18/2023 08:32]  a pack llama: [1/2000 stones]
+[02/18/2023 08:32]  a pack llama: a pack llama
+[02/18/2023 08:32]  Libertattoo: Libertattoo
+[02/18/2023 08:32]  Wohoo's Cutter: Wohoo's Cutter
+[02/18/2023 08:32]  Ensing: Ensing (Young)
+[02/18/2023 08:32]  Blood Strings-: Blood Strings-
+[02/18/2023 08:32]  Kaylee Coffman: Kaylee Coffman (Young)
+[02/18/2023 08:32]  Made in Texas: Made in Texas (Young)
+[02/18/2023 08:32]  a pack llama: (tame)
+[02/18/2023 08:32]  a pack llama: [0/2000 stones]
+[02/18/2023 08:32]  a pack llama: a pack llama
+[02/18/2023 08:32]  Jack ofall Trade: Jack ofall Trade (Young)
+[02/18/2023 08:32]  Moneybreak: Moneybreak
+[02/18/2023 08:32]  Generic Player: Generic Player (Young)
+[02/18/2023 08:32]  Wijdan: Wijdan the mapmaker
+[02/18/2023 08:32]  Tai: Tai the fisherman
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [67/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  Meg: Meg the bowyer
+[02/18/2023 08:32]  Madelyn: Madelyn the shipwright
+[02/18/2023 08:32]  Jordan: Jordan the beggar
+[02/18/2023 08:32]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/18/2023 08:32]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/18/2023 08:32]  Stink Fist: Kal Ort Por [Recall]
+[02/18/2023 08:32]  System: Your spellbook generates mana for your spell.
+[02/18/2023 08:32]  Caria: Distinguished Beastmaster
+[02/18/2023 08:32]  Caria: [Militia, Yew]
+[02/18/2023 08:32]  Caria: Caria
+[02/18/2023 08:32]  Dregoth: (bonded)
+[02/18/2023 08:32]  Dregoth: Dregoth
+[02/18/2023 08:32]  Goodboi: (bonded)
+[02/18/2023 08:32]  Goodboi: Goodboi
+[02/18/2023 08:32]  Colon: Colon the Town Crier
+[02/18/2023 08:32]  Etheel: Etheel (Young)
+[02/18/2023 08:32]  Chane: Chane the carpenter
+[02/18/2023 08:32]  Alicia: Alicia the tavern keeper
+[02/18/2023 08:32]  Bilal: Bilal the blacksmith
+[02/18/2023 08:32]  Amadis: Amadis the armorer
+[02/18/2023 08:32]  Jake: Jake the barkeep
+[02/18/2023 08:32]  Len: Len the banker
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [0/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  Komor: Komor the tanner
+[02/18/2023 08:32]  Kamali: Kamali the butcher
+[02/18/2023 08:32]  Jolanta: Jolanta the Paladin
+[02/18/2023 08:32]  Saxon: Saxon the lumberjack
+[02/18/2023 08:32]  a crow: a crow
+[02/18/2023 08:32]  a plover: a plover
+[02/18/2023 08:32]  a nuthatch: a nuthatch
+[02/18/2023 08:32]  a sheep: a sheep
+[02/18/2023 08:32]  Made in Texas: Made in Texas (Young)
+[02/18/2023 08:32]  Riley valentina: Riley valentina (Young)
+[02/18/2023 08:32]  Ardith: Ardith the tailor
+[02/18/2023 08:32]  Jinrel: Jinrel
+[02/18/2023 08:32]  Subrey: Subrey the provisioner
+[02/18/2023 08:32]  Selina: Selina the jeweler
+[02/18/2023 08:32]  Crystal: Crystal the tinker
+[02/18/2023 08:32]  AskChopper.: Legendary Blacksmith
+[02/18/2023 08:32]  AskChopper.: [Soldier, SOF]
+[02/18/2023 08:32]  AskChopper.: AskChopper.
+[02/18/2023 08:32]  Wanda: Wanda the blacksmith
+[02/18/2023 08:32]  cant get rite: [Soldier, SOF]
+[02/18/2023 08:32]  cant get rite: cant get rite
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [0/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  Mistweave: Mistweave (Young)
+[02/18/2023 08:32]  ive got clap: ive got clap
+[02/18/2023 08:32]  Julietta: Julietta
+[02/18/2023 08:32]  Offscreen: Offscreen
+[02/18/2023 08:32]  Dep Crafting: [Crusader, C-C]
+[02/18/2023 08:32]  Dep Crafting: Dep Crafting
+[02/18/2023 08:32]  Linch: Linch
+[02/18/2023 08:32]  Gonzab: Connoisseur
+[02/18/2023 08:32]  Gonzab: [Wanderer, CFC]
+[02/18/2023 08:32]  Gonzab: Gonzab
+[02/18/2023 08:32]  a sheep: a sheep
+[02/18/2023 08:32]  Qwixo: Legendary Weaponmaster
+[02/18/2023 08:32]  Qwixo: [Golden Boy, LT]
+[02/18/2023 08:32]  Qwixo: Qwixo
+[02/18/2023 08:32]  Bliggity: Landowner
+[02/18/2023 08:32]  Bliggity: [Veteran, Path]
+[02/18/2023 08:32]  Bliggity: Lord Bliggity
+[02/18/2023 08:32]  ID Char: ID Char
+[02/18/2023 08:32]  Jaseowns: Legendary Roll Player
+[02/18/2023 08:32]  Jaseowns: [Veteran, Path]
+[02/18/2023 08:32]  Jaseowns: Jaseowns
+[02/18/2023 08:32]  Oasis: Hardened Veteran
+[02/18/2023 08:32]  Oasis: [Champion, ICON]
+[02/18/2023 08:32]  Oasis: Oasis
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [6/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  ArchadiaS: [Associate, THM]
+[02/18/2023 08:32]  ArchadiaS: ArchadiaS
+[02/18/2023 08:32]  Burger Beagle: Cavernam Guardian
+[02/18/2023 08:32]  Burger Beagle: [Veteran, NWO]
+[02/18/2023 08:32]  Burger Beagle: Lord Burger Beagle
+[02/18/2023 08:32]  Bill Lumbergh: Bill Lumbergh
+[02/18/2023 08:32]  Kaskdgfn: Kaskdgfn (Young)
+[02/18/2023 08:32]  ArcaminerDel: [Associate, THM]
+[02/18/2023 08:32]  ArcaminerDel: ArcaminerDel
+[02/18/2023 08:32]  BesameChest: [Associate, THM]
+[02/18/2023 08:32]  BesameChest: BesameChest
+[02/18/2023 08:32]  a sheep: a sheep
+[02/18/2023 08:32]  Performance Art: Performance Art
+[02/18/2023 08:32]  Carol: Carol the miner
+[02/18/2023 08:32]  a sheep: a sheep
+[02/18/2023 08:32]  AoeDeath: Shadowspire Guardian
+[02/18/2023 08:32]  AoeDeath: [Single Target Damage, rekt]
+[02/18/2023 08:32]  AoeDeath: Lady AoeDeath
+[02/18/2023 08:32]  Squelch-O-matic: Squelch-O-matic
+[02/18/2023 08:32]  Quavo: Shadowspire Legend
+[02/18/2023 08:32]  Quavo: [Huncho, -_-]
+[02/18/2023 08:32]  Quavo: Lord Quavo
+[02/18/2023 08:32]  JackMaster: [Member, rekt]
+[02/18/2023 08:32]  JackMaster: JackMaster
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [0/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  Rosia: Rosia
+[02/18/2023 08:32]  Harlow: Legendary Scribe
+[02/18/2023 08:32]  Harlow: [Officer, Path]
+[02/18/2023 08:32]  Harlow: Lord Harlow
+[02/18/2023 08:32]  Jose Aldo: [Member, onyx]
+[02/18/2023 08:32]  Jose Aldo: Jose Aldo
+[02/18/2023 08:32]  COACHYARD LLC: Legendary Scribe
+[02/18/2023 08:32]  COACHYARD LLC: COACHYARD LLC
+[02/18/2023 08:32]  Renk: [Warden, NKB]
+[02/18/2023 08:32]  Renk: Renk
+[02/18/2023 08:32]  Brentan: Brentan the miner
+[02/18/2023 08:32]  AoErwin: [Member, rekt]
+[02/18/2023 08:32]  AoErwin: AoErwin
+[02/18/2023 08:32]  Mercedes: Mercedes the ranger
+[02/18/2023 08:32]  Raudr Rockgrip: Raudr Rockgrip (Young)
+[02/18/2023 08:32]  Horatio Nelson: [Henchman, Syn]
+[02/18/2023 08:32]  Horatio Nelson: Horatio Nelson
+[02/18/2023 08:32]  Filia Ul Copt: [PEC]
+[02/18/2023 08:32]  Filia Ul Copt: Lady Filia Ul Copt
+[02/18/2023 08:32]  Cook: Cook
+[02/18/2023 08:32]  Crystal Chronic: Summoner
+[02/18/2023 08:32]  Crystal Chronic: [Veteran, L%C]
+[02/18/2023 08:32]  Crystal Chronic: Lady Crystal Chronic
+[02/18/2023 08:32]  Homer Simpsons: Legendary Scribe
+[02/18/2023 08:32]  Homer Simpsons: Homer Simpsons
+[02/18/2023 08:32]  Madrid: [SOF]
+[02/18/2023 08:32]  Madrid: Lord Madrid
+[02/18/2023 08:32]  O'Malley: [A Charming Fellow, TRT]
+[02/18/2023 08:32]  O'Malley: O'Malley
+[02/18/2023 08:32]  Skeev: [Recruit, NP$]
+[02/18/2023 08:32]  Skeev: Skeev (Young)
+[02/18/2023 08:32]  Rasengan: Triggered
+[02/18/2023 08:32]  Rasengan: Lord Rasengan
+[02/18/2023 08:32]  Guldan Noxborn: [Khajiit Has Wares, NEW!]
+[02/18/2023 08:32]  Guldan Noxborn: Guldan Noxborn
+[02/18/2023 08:32]  Kasey Jones: [Wanderer, CFC]
+[02/18/2023 08:32]  Kasey Jones: Kasey Jones
+[02/18/2023 08:32]  chen feng: [Lesser Kalami, CN]
+[02/18/2023 08:32]  chen feng: chen feng
+[02/18/2023 08:32]  a horse: (tame)
+[02/18/2023 08:32]  a horse: a horse
+[02/18/2023 08:32]  DULLETS: (tame)
+[02/18/2023 08:32]  DULLETS: [0/2000 stones]
+[02/18/2023 08:32]  DULLETS: DULLETS
+[02/18/2023 08:32]  a pack llama: (tame)
+[02/18/2023 08:32]  a pack llama: [0/2000 stones]
+[02/18/2023 08:32]  a pack llama: a pack llama
+[02/18/2023 08:32]  IRONETS: (tame)
+[02/18/2023 08:32]  IRONETS: [328/2000 stones]
+[02/18/2023 08:32]  IRONETS: IRONETS
+[02/18/2023 08:32]  Mirene: Mirene (Young)
+[02/18/2023 08:32]  a chameleon: *released*
+[02/18/2023 08:32]  a chameleon: a chameleon
+[02/18/2023 08:32]  Fuji Heavy: Fuji Heavy
+[02/18/2023 08:32]  NWO Gatemaster: [Recruit, NWO]
+[02/18/2023 08:32]  NWO Gatemaster: NWO Gatemaster
+[02/18/2023 08:32]  Nero Forte: Nero Forte
+[02/18/2023 08:32]  Odins Bifrost: [O_R]
+[02/18/2023 08:32]  Odins Bifrost: Odins Bifrost
+[02/18/2023 08:32]  Requies: Scientist
+[02/18/2023 08:32]  Requies: [TRT]
+[02/18/2023 08:32]  Requies: Requies
+[02/18/2023 08:32]  Port SOF: [Soldier, SOF]
+[02/18/2023 08:32]  Port SOF: Port SOF
+[02/18/2023 08:32]  Favstvs: Artificer Dignitary
+[02/18/2023 08:32]  Favstvs: [Henchman, Syn]
+[02/18/2023 08:32]  Favstvs: Favstvs
+[02/18/2023 08:32]  Cambrian Baron: Cambrian Baron
+[02/18/2023 08:32]  Magikato: [NVOS, DoK]
+[02/18/2023 08:32]  Magikato: Magikato
+[02/18/2023 08:32]  KrishScribe: [Officer, 1CE]
+[02/18/2023 08:32]  KrishScribe: KrishScribe
+[02/18/2023 08:32]  O'Malley: [A Charming Fellow, TRT]
+[02/18/2023 08:32]  O'Malley: O'Malley
+[02/18/2023 08:32]  Wanda: Wanda the blacksmith
+[02/18/2023 08:32]  cant get rite: [Soldier, SOF]
+[02/18/2023 08:32]  cant get rite: cant get rite
+[02/18/2023 08:32]  Julietta: Julietta
+[02/18/2023 08:32]  DULLETS: (tame)
+[02/18/2023 08:32]  DULLETS: [0/2000 stones]
+[02/18/2023 08:32]  DULLETS: DULLETS
+[02/18/2023 08:32]  Mirene: Mirene (Young)
+[02/18/2023 08:32]  Dep Crafting: [Crusader, C-C]
+[02/18/2023 08:32]  Dep Crafting: Dep Crafting
+[02/18/2023 08:32]  ID Char: ID Char
+[02/18/2023 08:32]  Jose Aldo: [Member, onyx]
+[02/18/2023 08:32]  Jose Aldo: Jose Aldo
+[02/18/2023 08:32]  ive got clap: ive got clap
+[02/18/2023 08:32]  Harlow: Legendary Scribe
+[02/18/2023 08:32]  Harlow: [Officer, Path]
+[02/18/2023 08:32]  Harlow: Lord Harlow
+[02/18/2023 08:32]  Linch: Linch
+[02/18/2023 08:32]  Bliggity: Landowner
+[02/18/2023 08:32]  Bliggity: [Veteran, Path]
+[02/18/2023 08:32]  Bliggity: Lord Bliggity
+[02/18/2023 08:32]  Qwixo: Legendary Weaponmaster
+[02/18/2023 08:32]  Qwixo: [Golden Boy, LT]
+[02/18/2023 08:32]  Qwixo: Qwixo
+[02/18/2023 08:32]  Gonzab: Connoisseur
+[02/18/2023 08:32]  Gonzab: [Wanderer, CFC]
+[02/18/2023 08:32]  Gonzab: Gonzab
+[02/18/2023 08:32]  Offscreen: Offscreen
+[02/18/2023 08:32]  Kaskdgfn: Kaskdgfn (Young)
+[02/18/2023 08:32]  Rosia: Rosia
+[02/18/2023 08:32]  a pack llama: (tame)
+[02/18/2023 08:32]  a pack llama: [0/2000 stones]
+[02/18/2023 08:32]  a pack llama: a pack llama
+[02/18/2023 08:32]  IRONETS: (tame)
+[02/18/2023 08:32]  IRONETS: [328/2000 stones]
+[02/18/2023 08:32]  IRONETS: IRONETS
+[02/18/2023 08:32]  Jaseowns: Legendary Roll Player
+[02/18/2023 08:32]  Jaseowns: [Veteran, Path]
+[02/18/2023 08:32]  Jaseowns: Jaseowns
+[02/18/2023 08:32]  Oasis: Hardened Veteran
+[02/18/2023 08:32]  Oasis: [Champion, ICON]
+[02/18/2023 08:32]  Oasis: Oasis
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [6/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  ArchadiaS: [Associate, THM]
+[02/18/2023 08:32]  ArchadiaS: ArchadiaS
+[02/18/2023 08:32]  Burger Beagle: Cavernam Guardian
+[02/18/2023 08:32]  Burger Beagle: [Veteran, NWO]
+[02/18/2023 08:32]  Burger Beagle: Lord Burger Beagle
+[02/18/2023 08:32]  Bill Lumbergh: Bill Lumbergh
+[02/18/2023 08:32]  ArcaminerDel: [Associate, THM]
+[02/18/2023 08:32]  ArcaminerDel: ArcaminerDel
+[02/18/2023 08:32]  BesameChest: [Associate, THM]
+[02/18/2023 08:32]  BesameChest: BesameChest
+[02/18/2023 08:32]  Horatio Nelson: [Henchman, Syn]
+[02/18/2023 08:32]  Horatio Nelson: Horatio Nelson
+[02/18/2023 08:32]  Performance Art: Performance Art
+[02/18/2023 08:32]  Carol: Carol the miner
+[02/18/2023 08:32]  Crystal Chronic: Summoner
+[02/18/2023 08:32]  Crystal Chronic: [Veteran, L%C]
+[02/18/2023 08:32]  Crystal Chronic: Lady Crystal Chronic
+[02/18/2023 08:32]  AoeDeath: Shadowspire Guardian
+[02/18/2023 08:32]  AoeDeath: [Single Target Damage, rekt]
+[02/18/2023 08:32]  AoeDeath: Lady AoeDeath
+[02/18/2023 08:32]  Squelch-O-matic: Squelch-O-matic
+[02/18/2023 08:32]  Quavo: Shadowspire Legend
+[02/18/2023 08:32]  Quavo: [Huncho, -_-]
+[02/18/2023 08:32]  Quavo: Lord Quavo
+[02/18/2023 08:32]  JackMaster: [Member, rekt]
+[02/18/2023 08:32]  JackMaster: JackMaster
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [0/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  COACHYARD LLC: Legendary Scribe
+[02/18/2023 08:32]  COACHYARD LLC: COACHYARD LLC
+[02/18/2023 08:32]  Renk: [Warden, NKB]
+[02/18/2023 08:32]  Renk: Renk
+[02/18/2023 08:32]  Brentan: Brentan the miner
+[02/18/2023 08:32]  AoErwin: [Member, rekt]
+[02/18/2023 08:32]  AoErwin: AoErwin
+[02/18/2023 08:32]  Mercedes: Mercedes the ranger
+[02/18/2023 08:32]  Raudr Rockgrip: Raudr Rockgrip (Young)
+[02/18/2023 08:32]  Filia Ul Copt: [PEC]
+[02/18/2023 08:32]  Filia Ul Copt: Lady Filia Ul Copt
+[02/18/2023 08:32]  Cook: Cook
+[02/18/2023 08:32]  Homer Simpsons: Legendary Scribe
+[02/18/2023 08:32]  Homer Simpsons: Homer Simpsons
+[02/18/2023 08:32]  Madrid: [SOF]
+[02/18/2023 08:32]  Madrid: Lord Madrid
+[02/18/2023 08:32]  Skeev: [Recruit, NP$]
+[02/18/2023 08:32]  Skeev: Skeev (Young)
+[02/18/2023 08:32]  Rasengan: Triggered
+[02/18/2023 08:32]  Rasengan: Lord Rasengan
+[02/18/2023 08:32]  Guldan Noxborn: [Khajiit Has Wares, NEW!]
+[02/18/2023 08:32]  Guldan Noxborn: Guldan Noxborn
+[02/18/2023 08:32]  Kasey Jones: [Wanderer, CFC]
+[02/18/2023 08:32]  Kasey Jones: Kasey Jones
+[02/18/2023 08:32]  chen feng: [Lesser Kalami, CN]
+[02/18/2023 08:32]  chen feng: chen feng
+[02/18/2023 08:32]  a horse: (tame)
+[02/18/2023 08:32]  a horse: a horse
+[02/18/2023 08:32]  a chameleon: *released*
+[02/18/2023 08:32]  a chameleon: a chameleon
+[02/18/2023 08:32]  Fuji Heavy: Fuji Heavy
+[02/18/2023 08:32]  NWO Gatemaster: [Recruit, NWO]
+[02/18/2023 08:32]  NWO Gatemaster: NWO Gatemaster
+[02/18/2023 08:32]  Nero Forte: Nero Forte
+[02/18/2023 08:32]  Odins Bifrost: [O_R]
+[02/18/2023 08:32]  Odins Bifrost: Odins Bifrost
+[02/18/2023 08:32]  Requies: Scientist
+[02/18/2023 08:32]  Requies: [TRT]
+[02/18/2023 08:32]  Requies: Requies
+[02/18/2023 08:32]  Port SOF: [Soldier, SOF]
+[02/18/2023 08:32]  Port SOF: Port SOF
+[02/18/2023 08:32]  Favstvs: Artificer Dignitary
+[02/18/2023 08:32]  Favstvs: [Henchman, Syn]
+[02/18/2023 08:32]  Favstvs: Favstvs
+[02/18/2023 08:32]  Cambrian Baron: Cambrian Baron
+[02/18/2023 08:32]  KrishScribe: [Officer, 1CE]
+[02/18/2023 08:32]  KrishScribe: KrishScribe
+[02/18/2023 08:32]  Nevorc: Nevorc
+[02/18/2023 08:32]  Mistweave: Mistweave (Young)
+[02/18/2023 08:32]  a pack horse: (tame)
+[02/18/2023 08:32]  a pack horse: [0/2000 stones]
+[02/18/2023 08:32]  a pack horse: a pack horse
+[02/18/2023 08:32]  Aussie Tamer: Legendary Animal Bond
+[02/18/2023 08:32]  Aussie Tamer: [Officer, gLc]
+[02/18/2023 08:32]  Aussie Tamer: Aussie Tamer
+[02/18/2023 08:32]  The Passenger: [Blue Light Special, NDA]
+[02/18/2023 08:32]  The Passenger: The Passenger
+[02/18/2023 08:32]  AskChopper.: Legendary Blacksmith
+[02/18/2023 08:32]  AskChopper.: [Soldier, SOF]
+[02/18/2023 08:32]  AskChopper.: AskChopper.
+[02/18/2023 08:32]  DULLETS: (tame)
+[02/18/2023 08:32]  DULLETS: [0/2000 stones]
+[02/18/2023 08:32]  DULLETS: DULLETS
+[02/18/2023 08:32]  a pack llama: (tame)
+[02/18/2023 08:32]  a pack llama: [0/2000 stones]
+[02/18/2023 08:32]  a pack llama: a pack llama
+[02/18/2023 08:32]  IRONETS: (tame)
+[02/18/2023 08:32]  IRONETS: [328/2000 stones]
+[02/18/2023 08:32]  IRONETS: IRONETS
+[02/18/2023 08:32]  Mirene: Mirene (Young)
+[02/18/2023 08:32]  KrishScribe: [Officer, 1CE]
+[02/18/2023 08:32]  KrishScribe: KrishScribe
+[02/18/2023 08:32]  Fuji Heavy: Fuji Heavy
+[02/18/2023 08:32]  NWO Gatemaster: [Recruit, NWO]
+[02/18/2023 08:32]  NWO Gatemaster: NWO Gatemaster
+[02/18/2023 08:32]  Nero Forte: Nero Forte
+[02/18/2023 08:32]  Odins Bifrost: [O_R]
+[02/18/2023 08:32]  Odins Bifrost: Odins Bifrost
+[02/18/2023 08:32]  Requies: Scientist
+[02/18/2023 08:32]  Requies: [TRT]
+[02/18/2023 08:32]  Requies: Requies
+[02/18/2023 08:32]  Port SOF: [Soldier, SOF]
+[02/18/2023 08:32]  Port SOF: Port SOF
+[02/18/2023 08:32]  Favstvs: Artificer Dignitary
+[02/18/2023 08:32]  Favstvs: [Henchman, Syn]
+[02/18/2023 08:32]  Favstvs: Favstvs
+[02/18/2023 08:32]  Cambrian Baron: Cambrian Baron
+[02/18/2023 08:32]  The Passenger: [Blue Light Special, NDA]
+[02/18/2023 08:32]  The Passenger: The Passenger
+[02/18/2023 08:32]  Dark Peacock: Legendary Scribe
+[02/18/2023 08:32]  Dark Peacock: [Private, L%C]
+[02/18/2023 08:32]  Dark Peacock: Dark Peacock
+[02/18/2023 08:32]  AskChopper.: Legendary Blacksmith
+[02/18/2023 08:32]  AskChopper.: [Soldier, SOF]
+[02/18/2023 08:32]  AskChopper.: AskChopper.
+[02/18/2023 08:32]  Chiketckuki: [BBx]
+[02/18/2023 08:32]  Chiketckuki: Chiketckuki
+[02/18/2023 08:32]  Dep Crafting: [Crusader, C-C]
+[02/18/2023 08:32]  Dep Crafting: Dep Crafting
+[02/18/2023 08:32]  Offscreen: Offscreen
+[02/18/2023 08:32]  Qwixo: *kisses*
+[02/18/2023 08:32]  AoErwin: [Member, rekt]
+[02/18/2023 08:32]  AoErwin: AoErwin
+[02/18/2023 08:32]  AoeDeath: Shadowspire Guardian
+[02/18/2023 08:32]  AoeDeath: [Single Target Damage, rekt]
+[02/18/2023 08:32]  AoeDeath: Lady AoeDeath
+[02/18/2023 08:33]  : cave floor
+[02/18/2023 08:33]  JackMaster: [Member, rekt]
+[02/18/2023 08:33]  JackMaster: JackMaster
+[02/18/2023 08:33]  Brackus Chessy: Brackus Chessy
+[02/18/2023 08:33]  Bliggity: Landowner
+[02/18/2023 08:33]  Bliggity: [Veteran, Path]
+[02/18/2023 08:33]  Bliggity: Lord Bliggity
+[02/18/2023 08:33]  an earth elemental: (summoned)
+[02/18/2023 08:33]  an earth elemental: an earth elemental
+[02/18/2023 08:33]  FaNaTiKo: [Magistrate, T^C]
+[02/18/2023 08:33]  FaNaTiKo: FaNaTiKo
+[02/18/2023 08:33]  Linch: Linch
+[02/18/2023 08:33]  Gabiel: [Soldado, BRA]
+[02/18/2023 08:33]  Gabiel: Gabiel
+[02/18/2023 08:33]  Burger Beagle: Cavernam Guardian
+[02/18/2023 08:33]  Burger Beagle: [Veteran, NWO]
+[02/18/2023 08:33]  Burger Beagle: Lord Burger Beagle
+[02/18/2023 08:33]  Jaseowns: Legendary Roll Player
+[02/18/2023 08:33]  Jaseowns: [Veteran, Path]
+[02/18/2023 08:33]  Jaseowns: Jaseowns
+[02/18/2023 08:33]  Magikato: [NVOS, DoK]
+[02/18/2023 08:33]  Magikato: Magikato
+[02/18/2023 08:33]  Bacu Exu II: Bacu Exu II (Young)
+[02/18/2023 08:33]  Fuji Heavy: Fuji Heavy
+[02/18/2023 08:33]  NWO Gatemaster: [Recruit, NWO]
+[02/18/2023 08:33]  NWO Gatemaster: NWO Gatemaster
+[02/18/2023 08:33]  Nero Forte: Nero Forte
+[02/18/2023 08:33]  Odins Bifrost: [O_R]
+[02/18/2023 08:33]  Odins Bifrost: Odins Bifrost
+[02/18/2023 08:33]  Requies: Scientist
+[02/18/2023 08:33]  Requies: [TRT]
+[02/18/2023 08:33]  Requies: Requies
+[02/18/2023 08:33]  Port SOF: [Soldier, SOF]
+[02/18/2023 08:33]  Port SOF: Port SOF
+[02/18/2023 08:33]  Favstvs: Artificer Dignitary
+[02/18/2023 08:33]  Favstvs: [Henchman, Syn]
+[02/18/2023 08:33]  Favstvs: Favstvs
+[02/18/2023 08:33]  Cambrian Baron: Cambrian Baron
+[02/18/2023 08:33]  Snow Gate: [La Recruteuse, LDS]
+[02/18/2023 08:33]  Snow Gate: Snow Gate
+[02/18/2023 08:33]  a horse: (tame)
+[02/18/2023 08:33]  a horse: a horse
+[02/18/2023 08:33]  a pack horse: (tame)
+[02/18/2023 08:33]  a pack horse: [6/2000 stones]
+[02/18/2023 08:33]  a pack horse: a pack horse
+[02/18/2023 08:33]  ArchadiaS: [Associate, THM]
+[02/18/2023 08:33]  ArchadiaS: ArchadiaS
+[02/18/2023 08:33]  Creed Braton: Backstabber
+[02/18/2023 08:33]  Creed Braton: Creed Braton
+[02/18/2023 08:33]  Brentan: Brentan the miner
+[02/18/2023 08:33]  ArcaminerDel: [Associate, THM]
+[02/18/2023 08:33]  ArcaminerDel: ArcaminerDel
+[02/18/2023 08:33]  BesameChest: [Associate, THM]
+[02/18/2023 08:33]  BesameChest: BesameChest
+[02/18/2023 08:33]  cant get rite: [Soldier, SOF]
+[02/18/2023 08:33]  cant get rite: cant get rite
+[02/18/2023 08:33]  Wanda: Wanda the blacksmith
+[02/18/2023 08:33]  Burger Beagle: Cavernam Guardian
+[02/18/2023 08:33]  Burger Beagle: [Veteran, NWO]
+[02/18/2023 08:33]  Burger Beagle: Lord Burger Beagle
+[02/18/2023 08:33]  Creed Braton: Backstabber
+[02/18/2023 08:33]  Creed Braton: Creed Braton
+[02/18/2023 08:33]  Jaseowns: Legendary Roll Player
+[02/18/2023 08:33]  Jaseowns: [Veteran, Path]
+[02/18/2023 08:33]  Jaseowns: Jaseowns
+[02/18/2023 08:33]  NWO Gatemaster: [Recruit, NWO]
+[02/18/2023 08:33]  NWO Gatemaster: NWO Gatemaster
+[02/18/2023 08:33]  Kaskdgfn: Kaskdgfn (Young)
+[02/18/2023 08:33]  a horse: (tame)
+[02/18/2023 08:33]  a horse: a horse
+[02/18/2023 08:33]  a pack horse: (tame)
+[02/18/2023 08:33]  a pack horse: [6/2000 stones]
+[02/18/2023 08:33]  a pack horse: a pack horse
+[02/18/2023 08:33]  ArchadiaS: [Associate, THM]
+[02/18/2023 08:33]  ArchadiaS: ArchadiaS
+[02/18/2023 08:33]  Bacu Exu II: Bacu Exu II (Young)
+[02/18/2023 08:33]  ArcaminerDel: [Associate, THM]
+[02/18/2023 08:33]  ArcaminerDel: ArcaminerDel
+[02/18/2023 08:33]  BesameChest: [Associate, THM]
+[02/18/2023 08:33]  BesameChest: BesameChest
+[02/18/2023 08:33]  AskChopper.: Legendary Blacksmith
+[02/18/2023 08:33]  AskChopper.: [Soldier, SOF]
+[02/18/2023 08:33]  AskChopper.: AskChopper.
+[02/18/2023 08:33]  Crystal: Crystal the tinker
+[02/18/2023 08:33]  Selina: Selina the jeweler
+[02/18/2023 08:33]  a horse: (tame)
+[02/18/2023 08:33]  a horse: a horse
+[02/18/2023 08:33]  Raudr Rockgrip: Raudr Rockgrip (Young)
+[02/18/2023 08:33]  Selina: Selina the jeweler
+[02/18/2023 08:33]  Brentan: Brentan the miner
+[02/18/2023 08:33]  ArcaminerDel: [Associate, THM]
+[02/18/2023 08:33]  ArcaminerDel: ArcaminerDel
+[02/18/2023 08:33]  BesameChest: [Associate, THM]
+[02/18/2023 08:33]  BesameChest: BesameChest
+[02/18/2023 08:33]  Bacu Exu II: Bacu Exu II (Young)
+[02/18/2023 08:33]  Madrid: [SOF]
+[02/18/2023 08:33]  Madrid: Lord Madrid
+[02/18/2023 08:33]  Rosia: Rosia
+[02/18/2023 08:33]  Cook: Cook
+[02/18/2023 08:33]  Horatio Nelson: [Henchman, Syn]
+[02/18/2023 08:33]  Horatio Nelson: Horatio Nelson
+[02/18/2023 08:33]  Harlow: Legendary Scribe
+[02/18/2023 08:33]  Harlow: [Officer, Path]
+[02/18/2023 08:33]  Harlow: Lord Harlow
+[02/18/2023 08:33]  Renk: [Warden, NKB]
+[02/18/2023 08:33]  Renk: Renk
+[02/18/2023 08:33]  Homer Simpsons: Legendary Scribe
+[02/18/2023 08:33]  Homer Simpsons: Homer Simpsons
+[02/18/2023 08:33]  Jose Aldo: [Member, onyx]
+[02/18/2023 08:33]  Jose Aldo: Jose Aldo
+[02/18/2023 08:33]  COACHYARD LLC: Legendary Scribe
+[02/18/2023 08:33]  COACHYARD LLC: COACHYARD LLC
+[02/18/2023 08:33]  Riley valentina: Riley valentina (Young)
+[02/18/2023 08:33]  Subrey: Subrey the provisioner
+[02/18/2023 08:33]  Brentan: I will teach thee all I know, if paid the amount in full.  The price is: 500
+[02/18/2023 08:33]  Brentan: For less I shall teach thee less.
+[02/18/2023 08:33]  a sheep: a sheep
+[02/18/2023 08:33]  a sheep: a sheep
+[02/18/2023 08:33]  Ardith: Ardith the tailor
+[02/18/2023 08:33]  Jinrel: Jinrel
+[02/18/2023 08:33]  a sheep: a sheep
+[02/18/2023 08:33]  Saxon: Saxon the lumberjack
+[02/18/2023 08:33]  a crow: a crow
+[02/18/2023 08:33]  a nuthatch: a nuthatch
+[02/18/2023 08:33]  a nuthatch: a nuthatch
+[02/18/2023 08:33]  Bilal: Bilal the blacksmith
+[02/18/2023 08:33]  a plover: a plover
+[02/18/2023 08:33]  Dregoth: (bonded)
+[02/18/2023 08:33]  Dregoth: Dregoth
+[02/18/2023 08:33]  Caria: Distinguished Beastmaster
+[02/18/2023 08:33]  Caria: [Militia, Yew]
+[02/18/2023 08:33]  Caria: Caria
+[02/18/2023 08:33]  Goodboi: (bonded)
+[02/18/2023 08:33]  Goodboi: Goodboi
+[02/18/2023 08:33]  a pack horse: (tame)
+[02/18/2023 08:33]  a pack horse: [0/2000 stones]
+[02/18/2023 08:33]  a pack horse: a pack horse
+[02/18/2023 08:33]  Chane: Chane the carpenter
+[02/18/2023 08:33]  a pack horse: (tame)
+[02/18/2023 08:33]  a pack horse: [67/2000 stones]
+[02/18/2023 08:33]  a pack horse: a pack horse
+[02/18/2023 08:33]  Amadis: Amadis the armorer
+[02/18/2023 08:33]  Meg: Meg the bowyer
+[02/18/2023 08:33]  Komor: Komor the tanner
+[02/18/2023 08:33]  Kamali: Kamali the butcher
+[02/18/2023 08:33]  Wijdan: Wijdan the mapmaker
+[02/18/2023 08:33]  a pack llama: (tame)
+[02/18/2023 08:33]  a pack llama: [0/2000 stones]
+[02/18/2023 08:33]  a pack llama: a pack llama
+[02/18/2023 08:33]  Jack ofall Trade: Jack ofall Trade (Young)
+[02/18/2023 08:33]  Made in Texas: Made in Texas (Young)
+[02/18/2023 08:33]  Etheel: Etheel (Young)
+[02/18/2023 08:33]  Moneybreak: Moneybreak
+[02/18/2023 08:33]  Ensing: Ensing (Young)
+[02/18/2023 08:33]  Wohoo's Cutter: Wohoo's Cutter
+[02/18/2023 08:33]  Colon: Colon the Town Crier
+[02/18/2023 08:33]  Libertattoo: Libertattoo
+[02/18/2023 08:33]  Alicia: Alicia the tavern keeper
+[02/18/2023 08:33]  a pack llama: (tame)
+[02/18/2023 08:33]  a pack llama: [1/2000 stones]
+[02/18/2023 08:33]  a pack llama: a pack llama
+[02/18/2023 08:33]  Blood Strings-: Blood Strings-
+[02/18/2023 08:34]  Stink Fist: Kal Ort Por [Recall]
+[02/18/2023 08:34]  System: Your spellbook generates mana for your spell.
+[02/18/2023 08:34]  System: You have left the protection of the town guards.
+[02/18/2023 08:34]  Rane: Rane the dockmaster
+[02/18/2023 08:34]  a troll: a troll
+[02/18/2023 08:34]  a grizzly bear: a grizzly bear
+[02/18/2023 08:34]  a raven: a raven
+[02/18/2023 08:34]  a great hart: a great hart
+[02/18/2023 08:34]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/18/2023 08:34]  a hind: a hind
+[02/18/2023 08:34]  System: Opening door...
+[02/18/2023 08:34]  System: Your house and its contents have been refreshed. 29 days 23 hours 44 minutes remaining until owner refresh required.
+[02/18/2023 08:34]  Rane: Rane the dockmaster
+[02/18/2023 08:34]  Razor:  Scanning for rat 
+[02/18/2023 08:34]  System: Where will you search?
+[02/18/2023 08:34]  System: You search the home and find no one hiding within.
+[02/18/2023 08:34]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[02/18/2023 08:34]  System: You must wait a few moments to use another skill.
+[02/18/2023 08:34]  System: You must wait a few moments to use another skill.
+[02/18/2023 08:34]  a hind: a hind
+[02/18/2023 08:34]  a troll: a troll
+[02/18/2023 08:34]  System: The world will save in 15 seconds.
+[02/18/2023 08:35]  a great hart: a great hart
+[02/18/2023 08:35]  System: The world is saving, please wait.
+[02/18/2023 08:35]  System: World save complete. The entire process took 6.1 seconds.
+[02/18/2023 08:35]  You see: shadow aspect long overcoat
+[02/18/2023 08:35]  You see: (hue 1790)
+[02/18/2023 08:35]  You see: [blessed and mastercrafted by Duluth Trading]
+[02/18/2023 08:36]  a great hart: a great hart
+[02/18/2023 08:36]  System: ToKyO FoR U has completed the achievement: Summoning (Advanced).

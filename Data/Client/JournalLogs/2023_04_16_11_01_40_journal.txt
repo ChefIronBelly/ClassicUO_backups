@@ -1,0 +1,3509 @@
+[04/16/2023 11:01]  System: WorldMap loading...
+[04/16/2023 11:01]  System: Loading WorldMap markers..
+[04/16/2023 11:01]  System: ..Banks_and_Healers.xml (20)
+[04/16/2023 11:01]  System: ..Dungeons.xml (12)
+[04/16/2023 11:01]  System: ..Dungeon_Gates.xml (325)
+[04/16/2023 11:01]  System: ..Healer_Caravans.xml (32)
+[04/16/2023 11:01]  System: ..Moongates.xml (9)
+[04/16/2023 11:01]  System: ..POI.xml (176)
+[04/16/2023 11:01]  System: ..PvP_Locations.xml (71)
+[04/16/2023 11:01]  System: ..Shrines.xml (9)
+[04/16/2023 11:01]  System: ..Subterranean.xml (6)
+[04/16/2023 11:01]  System: ..Townships.xml (9)
+[04/16/2023 11:01]  System: WorldMap markers loaded (669)
+[04/16/2023 11:01]  System: Welcome Stink Fist!
+[04/16/2023 11:01]  Stink Fist: Stink Fist
+[04/16/2023 11:01]  Rane: Rane the dockmaster
+[04/16/2023 11:01]  System: WorldMap loaded!
+[04/16/2023 11:01]  [Guild][Himmel]: PEC in general
+[04/16/2023 11:01]  [Guild][Himmel]: But specifically the red in Pulma lvl3
+[04/16/2023 11:02]  Razor: 0
+[04/16/2023 11:02]  Razor: 1
+[04/16/2023 11:02]  Razor: 2
+[04/16/2023 11:02]  Razor: 3
+[04/16/2023 11:02]  Razor: 4
+[04/16/2023 11:02]  Razor: 5
+[04/16/2023 11:02]  Razor: 6
+[04/16/2023 11:02]  Razor: 7
+[04/16/2023 11:02]  Razor: 8
+[04/16/2023 11:02]  Razor: 9
+[04/16/2023 11:02]  Razor: 10
+[04/16/2023 11:02]  Razor: 11
+[04/16/2023 11:02]  Razor: 12
+[04/16/2023 11:02]  Razor: 13
+[04/16/2023 11:02]  Razor: 14
+[04/16/2023 11:02]  Razor: 15
+[04/16/2023 11:02]  Razor: 16
+[04/16/2023 11:02]  Razor: 17
+[04/16/2023 11:02]  Razor: 18
+[04/16/2023 11:02]  Razor: 19
+[04/16/2023 11:02]  Razor: 20
+[04/16/2023 11:02]  Razor: 21
+[04/16/2023 11:02]  Razor: 22
+[04/16/2023 11:02]  Razor: 23
+[04/16/2023 11:02]  Razor: 24
+[04/16/2023 11:02]  Razor: 25
+[04/16/2023 11:02]  Razor: 26
+[04/16/2023 11:02]  Razor: 27
+[04/16/2023 11:02]  Razor: 28
+[04/16/2023 11:02]  Razor: 29
+[04/16/2023 11:02]  Razor: 30
+[04/16/2023 11:02]  Razor: 31
+[04/16/2023 11:02]  Razor: 32
+[04/16/2023 11:02]  Razor: 33
+[04/16/2023 11:02]  Razor: 34
+[04/16/2023 11:02]  Razor: 35
+[04/16/2023 11:02]  Razor: 36
+[04/16/2023 11:02]  Razor: 37
+[04/16/2023 11:02]  Razor: 38
+[04/16/2023 11:02]  Razor: 39
+[04/16/2023 11:02]  Razor: 40
+[04/16/2023 11:02]  Razor: 41
+[04/16/2023 11:02]  Razor: 42
+[04/16/2023 11:02]  Razor: 43
+[04/16/2023 11:02]  Razor: 44
+[04/16/2023 11:02]  Razor: 45
+[04/16/2023 11:02]  Razor: 46
+[04/16/2023 11:02]  Razor: 47
+[04/16/2023 11:02]  Razor: 48
+[04/16/2023 11:02]  Razor: 49
+[04/16/2023 11:02]  Razor: 50
+[04/16/2023 11:02]  Razor: 51
+[04/16/2023 11:02]  Razor: 52
+[04/16/2023 11:02]  Razor: 53
+[04/16/2023 11:02]  Razor: 54
+[04/16/2023 11:02]  Razor: 55
+[04/16/2023 11:02]  Razor: 56
+[04/16/2023 11:02]  Razor: 57
+[04/16/2023 11:02]  Razor: 58
+[04/16/2023 11:02]  Razor: 59
+[04/16/2023 11:02]  Razor: 60
+[04/16/2023 11:02]  Razor: 61
+[04/16/2023 11:02]  Razor: 62
+[04/16/2023 11:02]  Razor: 63
+[04/16/2023 11:02]  Razor: 64
+[04/16/2023 11:02]  Razor: 65
+[04/16/2023 11:02]  Razor: 66
+[04/16/2023 11:02]  Razor: 67
+[04/16/2023 11:02]  Razor: 68
+[04/16/2023 11:02]  Razor: 69
+[04/16/2023 11:02]  Razor: 70
+[04/16/2023 11:02]  Razor: 71
+[04/16/2023 11:02]  Razor: 72
+[04/16/2023 11:02]  Razor: 73
+[04/16/2023 11:02]  Razor: 74
+[04/16/2023 11:02]  Razor: 75
+[04/16/2023 11:02]  Razor: 76
+[04/16/2023 11:02]  Razor: 77
+[04/16/2023 11:02]  Razor: 78
+[04/16/2023 11:02]  Razor: 79
+[04/16/2023 11:02]  Razor: 80
+[04/16/2023 11:02]  Razor: 81
+[04/16/2023 11:02]  Razor: 82
+[04/16/2023 11:02]  Razor: 83
+[04/16/2023 11:02]  Razor: 84
+[04/16/2023 11:02]  Razor: 85
+[04/16/2023 11:02]  Razor: 86
+[04/16/2023 11:02]  Razor: 87
+[04/16/2023 11:02]  Razor: 88
+[04/16/2023 11:02]  Razor: 89
+[04/16/2023 11:02]  Razor: 90
+[04/16/2023 11:02]  Razor: 91
+[04/16/2023 11:02]  Razor: 92
+[04/16/2023 11:02]  Razor: 93
+[04/16/2023 11:02]  Razor: 94
+[04/16/2023 11:02]  Razor: 95
+[04/16/2023 11:02]  Razor: 96
+[04/16/2023 11:02]  Razor: 97
+[04/16/2023 11:02]  Razor: 98
+[04/16/2023 11:02]  [Guild][Himmel]: he will camp there
+[04/16/2023 11:02]  Razor: 0
+[04/16/2023 11:02]  Razor: 1
+[04/16/2023 11:02]  Razor: 2
+[04/16/2023 11:02]  Razor: 3
+[04/16/2023 11:02]  Razor: 4
+[04/16/2023 11:02]  Razor: 5
+[04/16/2023 11:02]  Razor: 6
+[04/16/2023 11:02]  Razor: 7
+[04/16/2023 11:02]  Razor: 8
+[04/16/2023 11:02]  Razor: 9
+[04/16/2023 11:02]  Razor: 10
+[04/16/2023 11:02]  Razor: 11
+[04/16/2023 11:02]  Razor: 12
+[04/16/2023 11:02]  Razor: 13
+[04/16/2023 11:02]  Razor: 14
+[04/16/2023 11:02]  Razor: 15
+[04/16/2023 11:02]  Razor: 16
+[04/16/2023 11:02]  Razor: 17
+[04/16/2023 11:02]  Razor: 18
+[04/16/2023 11:02]  Razor: 19
+[04/16/2023 11:02]  Razor: 20
+[04/16/2023 11:02]  Razor: 21
+[04/16/2023 11:02]  Razor: 22
+[04/16/2023 11:02]  Razor: 23
+[04/16/2023 11:02]  Razor: 24
+[04/16/2023 11:02]  Razor: 25
+[04/16/2023 11:02]  Razor: 26
+[04/16/2023 11:02]  Razor: 27
+[04/16/2023 11:03]  System: Cybernetic has completed the achievement: Savant (Basic).
+[04/16/2023 11:05]  System: Gablett has completed the achievement: Monster Hunter Associate.
+[04/16/2023 11:07]  System: Explousion has completed the achievement: Artificers Enclave Dignitary.
+[04/16/2023 11:10]  System: Lamorek has completed the achievement: Alchemist (Basic).
+[04/16/2023 11:10]  System: The world will save in 15 seconds.
+[04/16/2023 11:11]  System: The world is saving, please wait.
+[04/16/2023 11:11]  System: World save complete. The entire process took 4.1 seconds.
+[04/16/2023 11:12]  System: Hoschpruegel has completed the achievement: Skinner (Basic).
+[04/16/2023 11:14]  [Alliance][Pikel Sliverbow]: [SQzD] 3 pec reds in ageis
+[04/16/2023 11:18]  Wulf of Wyrd: Rel Sanct [Bless]
+[04/16/2023 11:18]  Wulf of Wyrd: Wulf of Wyrd
+[04/16/2023 11:18]  System: Your strength has changed by 10.  It is now 110
+[04/16/2023 11:18]  System: Your dexterity has changed by 10.  It is now 110
+[04/16/2023 11:18]  System: Your intelligence has changed by 10.  It is now 35
+[04/16/2023 11:18]  Razor: [+Strength (600s)]
+[04/16/2023 11:18]  Razor: Str: +10 - 110
+[04/16/2023 11:18]  Razor: [-Strength (s)]
+[04/16/2023 11:18]  Razor: [+Strength (600s)]
+[04/16/2023 11:18]  Razor: [+Agility (600s)]
+[04/16/2023 11:18]  Razor: Dex: +10 - 110
+[04/16/2023 11:18]  Razor: [-Agility (s)]
+[04/16/2023 11:18]  Razor: [+Agility (600s)]
+[04/16/2023 11:18]  Razor: [+Cunning (600s)]
+[04/16/2023 11:18]  Razor: Int: +10 - 35
+[04/16/2023 11:18]  Razor: [-Cunning (s)]
+[04/16/2023 11:18]  Razor: [+Cunning (600s)]
+[04/16/2023 11:18]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[04/16/2023 11:18]  Razor: [+Protection (600s)]
+[04/16/2023 11:18]  Razor: World save coming soon..
+[04/16/2023 11:18]  System: No one matching that was found on your screen.
+[04/16/2023 11:18]  Razor: found no one
+[04/16/2023 11:18]  Stink Fist: The food is delectable and is intensely satisfying.
+[04/16/2023 11:18]  Razor: [+Food Satisfaction (3600s)]
+[04/16/2023 11:18]  System: Who will you use the bandages on?
+[04/16/2023 11:18]  System: You begin applying the bandages.
+[04/16/2023 11:18]  Razor: Bandage: 10s
+[04/16/2023 11:18]  Razor: Bandage: 9s
+[04/16/2023 11:19]  Razor: Bandage: 8s
+[04/16/2023 11:19]  Razor: Bandage: 7s
+[04/16/2023 11:19]  System: PlanesWalker has completed the achievement: Guardian of The Mausoleum (Intermediate).
+[04/16/2023 11:19]  Razor: Bandage: 6s
+[04/16/2023 11:19]  Razor: Bandage: 5s
+[04/16/2023 11:19]  Razor: Bandage: 4s
+[04/16/2023 11:19]  Razor: Bandage: 3s
+[04/16/2023 11:19]  Razor: Bandage: 2s
+[04/16/2023 11:19]  Razor: Bandage: 1s
+[04/16/2023 11:19]  System: You finish applying the bandages.
+[04/16/2023 11:19]  Stink Fist: +5
+[04/16/2023 11:19]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:19]  Razor: [+Paralyze (0s)]
+[04/16/2023 11:19]  Razor: [-Paralyze (s)]
+[04/16/2023 11:19]  System: You are no longer hindered.
+[04/16/2023 11:19]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:19]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:19]  Razor: [+Paralyze (0s)]
+[04/16/2023 11:19]  Razor: [-Paralyze (s)]
+[04/16/2023 11:19]  System: You are no longer hindered.
+[04/16/2023 11:19]  Rane: Rane the dockmaster
+[04/16/2023 11:20]  Razor: [+Hidden/Stealthing (0s)]
+[04/16/2023 11:20]  System: You are now under the protection of the town guards.
+[04/16/2023 11:20]  System: You receive a Sacred Journey damage bonus of 5.3% for the next 30 minutes.
+[04/16/2023 11:20]  Jake: Jake the barkeep
+[04/16/2023 11:20]  Colon: Colon the Town Crier
+[04/16/2023 11:20]  Len: Len the banker
+[04/16/2023 11:20]  Seneelya: [Recruit, O|P]
+[04/16/2023 11:20]  Seneelya: Seneelya
+[04/16/2023 11:20]  a sheep: (tame)
+[04/16/2023 11:20]  a sheep: a sheep
+[04/16/2023 11:20]  a sheep: (tame)
+[04/16/2023 11:20]  a sheep: a sheep
+[04/16/2023 11:20]  a sheep: (tame)
+[04/16/2023 11:20]  a sheep: a sheep
+[04/16/2023 11:20]  a sheep: (tame)
+[04/16/2023 11:20]  a sheep: a sheep
+[04/16/2023 11:20]  Jolanta: Jolanta the Paladin
+[04/16/2023 11:20]  Ayisha: Ayisha the weaponsmith
+[04/16/2023 11:20]  Nadia the one: Nadia the one
+[04/16/2023 11:20]  Amadis: Amadis the armorer
+[04/16/2023 11:20]  Meg: Meg the bowyer
+[04/16/2023 11:20]  Bilal: Bilal the blacksmith
+[04/16/2023 11:20]  Chane: Chane the carpenter
+[04/16/2023 11:20]  FastHands: [HapyBurdey, RK's]
+[04/16/2023 11:20]  FastHands: FastHands
+[04/16/2023 11:20]  Alicia: Alicia the tavern keeper
+[04/16/2023 11:20]  Razor: [-Hidden/Stealthing (s)]
+[04/16/2023 11:20]  Madre Tereso: Madre Tereso (Young)
+[04/16/2023 11:20]  Maluco: [Soldado, BRA]
+[04/16/2023 11:20]  Maluco: Maluco
+[04/16/2023 11:20]  Alicia: Alicia the tavern keeper
+[04/16/2023 11:20]  a horse: (bonded)
+[04/16/2023 11:20]  a horse: a horse
+[04/16/2023 11:20]  Please Ignore: Please Ignore
+[04/16/2023 11:20]  Wijdan: Wijdan the mapmaker
+[04/16/2023 11:20]  Ralph Sanchez: Ralph Sanchez
+[04/16/2023 11:20]  Rosaline: Rosaline the waiter
+[04/16/2023 11:20]  Discord Kitten: Discord Kitten (Young)
+[04/16/2023 11:20]  Nadia the one: selling mastery chain link  Red and a bronze one or trading for full spell book and bless runebook
+[04/16/2023 11:20]  Kenelm: Kenelm the tavern keeper
+[04/16/2023 11:20]  Carlton: Carlton the stablemaster
+[04/16/2023 11:20]  Glitter Goon: Wilderness Legend
+[04/16/2023 11:20]  Glitter Goon: [Scallywag, FS!]
+[04/16/2023 11:20]  Glitter Goon: Lady Glitter Goon
+[04/16/2023 11:20]  Penfifteen: [FS!]
+[04/16/2023 11:20]  Penfifteen: Lord Penfifteen
+[04/16/2023 11:20]  Jayne: Jayne the innkeeper
+[04/16/2023 11:20]  Tai: Tai the fisherman
+[04/16/2023 11:20]  Jordan: Jordan the beggar
+[04/16/2023 11:20]  Bly: Bly the fisherman
+[04/16/2023 11:20]  Lene: Lene the salvage foreman
+[04/16/2023 11:20]  OldCat: OldCat (Young)
+[04/16/2023 11:20]  Sherwin: Sherwin the mage
+[04/16/2023 11:20]  Zara: Zara the scribe
+[04/16/2023 11:20]  Zann: Zann the Necromancer
+[04/16/2023 11:20]  Kasinda: Kasinda the alchemist
+[04/16/2023 11:20]  Jtek: Jtek
+[04/16/2023 11:20]  a horse: (tame)
+[04/16/2023 11:20]  a horse: a horse
+[04/16/2023 11:20]  Jayne: Jayne the innkeeper
+[04/16/2023 11:20]  Fuller: Fuller the barkeep
+[04/16/2023 11:20]  Zlender: Zlender
+[04/16/2023 11:20]  Vermiliona: Vermiliona
+[04/16/2023 11:20]  Giles: Giles the thief
+[04/16/2023 11:20]  Marti: Marti the healer
+[04/16/2023 11:20]  Dusty: Dusty the cook
+[04/16/2023 11:20]  Lily Hmank: Lily Hmank
+[04/16/2023 11:20]  a pack llama: (tame)
+[04/16/2023 11:20]  a pack llama: [0/2000 stones]
+[04/16/2023 11:20]  a pack llama: a pack llama
+[04/16/2023 11:20]  POLSKA GILDIA: POLSKA GILDIA
+[04/16/2023 11:20]  Blacklow: Blacklow
+[04/16/2023 11:20]  a colossal frog: (tame)
+[04/16/2023 11:20]  a colossal frog: a colossal frog
+[04/16/2023 11:20]  Terry The Tamer: Terry The Tamer
+[04/16/2023 11:20]  Yub Nub: Yub Nub
+[04/16/2023 11:20]  a pack llama: (tame)
+[04/16/2023 11:20]  a pack llama: [0/2000 stones]
+[04/16/2023 11:20]  a pack llama: a pack llama
+[04/16/2023 11:20]  Bud: Bud the guard
+[04/16/2023 11:20]  Drazzel: Drazzel (Young)
+[04/16/2023 11:20]  a primordial: (bonded)
+[04/16/2023 11:20]  a primordial: a primordial
+[04/16/2023 11:20]  a primordial: (bonded)
+[04/16/2023 11:20]  a primordial: a primordial
+[04/16/2023 11:20]  a primordial: (bonded)
+[04/16/2023 11:20]  a primordial: a primordial
+[04/16/2023 11:20]  Fishercin: Fishercin
+[04/16/2023 11:20]  POLSKA GILDIA: Napisz na discordzie do Mustang#1702
+[04/16/2023 11:20]  System: You have left the protection of the town guards.
+[04/16/2023 11:20]  Stink Fist: Your mount finds a quiet place to rest safely.
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  a wounded harpy: a wounded harpy
+[04/16/2023 11:20]  Glabbo: Glabbo
+[04/16/2023 11:20]  Sat'uul: Sat'uul (Young)
+[04/16/2023 11:20]  a horse: (bonded)
+[04/16/2023 11:20]  a horse: a horse
+[04/16/2023 11:20]  Kuiui: Kuiui
+[04/16/2023 11:20]  Taslehoff: [rekt]
+[04/16/2023 11:20]  Taslehoff: Taslehoff
+[04/16/2023 11:20]  Beato: [-_-]
+[04/16/2023 11:20]  Beato: Beato
+[04/16/2023 11:20]  De Choppa: [1 chop 100 logz, LOGZ]
+[04/16/2023 11:20]  De Choppa: De Choppa
+[04/16/2023 11:20]  kiitn: kiitn
+[04/16/2023 11:20]  Glavos the Guard: [Knight, Sir.]
+[04/16/2023 11:20]  Glavos the Guard: Glavos the Guard
+[04/16/2023 11:20]  Dummy Character: [Rekrut, DoS]
+[04/16/2023 11:20]  Dummy Character: Dummy Character
+[04/16/2023 11:20]  Peitschenheinz: Lord Peitschenheinz
+[04/16/2023 11:20]  Adipose Finch: [Greenhorn Logger, LOGZ]
+[04/16/2023 11:20]  Adipose Finch: Adipose Finch
+[04/16/2023 11:20]  You see: a rotting corpse
+[04/16/2023 11:20]  Sat'uul: An Lor Xen [Invisibility]
+[04/16/2023 11:20]  System: You may not loot this corpse.
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a rotting corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a rotting corpse
+[04/16/2023 11:20]  a mongbat: a mongbat
+[04/16/2023 11:20]  a great hart: (tame)
+[04/16/2023 11:20]  a great hart: a great hart
+[04/16/2023 11:20]  a hind: (tame)
+[04/16/2023 11:20]  a hind: a hind
+[04/16/2023 11:20]  a great hart: (tame)
+[04/16/2023 11:20]  a great hart: a great hart
+[04/16/2023 11:20]  a hind: (tame)
+[04/16/2023 11:20]  a hind: a hind
+[04/16/2023 11:20]  Sandeeokan: Sandeeokan (Young)
+[04/16/2023 11:20]  View Legacy: View Legacy (Young)
+[04/16/2023 11:20]  WillTheIll: WillTheIll (Young)
+[04/16/2023 11:20]  You see: a headless corpse
+[04/16/2023 11:20]  You see: a skeletal corpse
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  System: You are currently prevented from performing criminal looting actions.
+[04/16/2023 11:20]  a zombie: a zombie
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  a giant rat: a giant rat
+[04/16/2023 11:20]  Glabbo: Glabbo
+[04/16/2023 11:20]  Beato: *focuses aggression*
+[04/16/2023 11:20]  a zombie: a zombie
+[04/16/2023 11:20]  Sandeeokan: Nice...
+[04/16/2023 11:20]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:20]  System: That is too far away.
+[04/16/2023 11:20]  You see: a giant frog corpse
+[04/16/2023 11:20]  You see: a headless corpse
+[04/16/2023 11:20]  You see: a headless corpse
+[04/16/2023 11:20]  Stink Fist: That is out of my line of sight.
+[04/16/2023 11:20]  You see: a skeletal corpse
+[04/16/2023 11:20]  Glabbo: Glabbo
+[04/16/2023 11:20]  You see: a mongbat corpse
+[04/16/2023 11:20]  You see: a headless corpse
+[04/16/2023 11:20]  a colossal frog: a colossal frog
+[04/16/2023 11:20]  You see: a corpser corpse
+[04/16/2023 11:20]  You see: a colossal frog corpse
+[04/16/2023 11:20]  a headless: a headless
+[04/16/2023 11:20]  Hmank Waerlathh: Hmank Waerlathh
+[04/16/2023 11:20]  You see: a corpser corpse
+[04/16/2023 11:20]  Sandeeokan: I've always wanted a pet like you.
+[04/16/2023 11:20]  Baldur Ironforge: Baldur Ironforge (Young)
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  You see: a giant rat corpse
+[04/16/2023 11:20]  System: That is too far away.
+[04/16/2023 11:20]  You see: a headless corpse
+[04/16/2023 11:20]  a headless: a headless
+[04/16/2023 11:20]  Stink Fist: That is out of my line of sight.
+[04/16/2023 11:20]  You see: a giant frog corpse
+[04/16/2023 11:20]  a colossal frog: a colossal frog
+[04/16/2023 11:20]  a giant frog: a giant frog
+[04/16/2023 11:20]  a giant frog: a giant frog
+[04/16/2023 11:20]  a skeleton: a skeleton
+[04/16/2023 11:20]  System: Opening door...
+[04/16/2023 11:20]  System: You are currently prevented from performing criminal looting actions. [2]
+[04/16/2023 11:20]  a corpser: a corpser
+[04/16/2023 11:20]  Baldur Ironforge: Baldur Ironforge (Young)
+[04/16/2023 11:20]  a skeleton: a skeleton
+[04/16/2023 11:20]  System: Opening door...
+[04/16/2023 11:20]  You see: a corpser corpse
+[04/16/2023 11:20]  a skeleton: a skeleton
+[04/16/2023 11:20]  a skeleton: a skeleton
+[04/16/2023 11:20]  System: That is too far away.
+[04/16/2023 11:20]  a ghoul: a ghoul
+[04/16/2023 11:20]  a skeleton: a skeleton
+[04/16/2023 11:20]  System: You are currently prevented from performing criminal looting actions. [5]
+[04/16/2023 11:20]  You see: a skeletal corpse
+[04/16/2023 11:20]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:20]  System: Your strike disarms your target!
+[04/16/2023 11:20]  a skeleton: -51
+[04/16/2023 11:20]  You see: a sickly lizardman corpse
+[04/16/2023 11:20]  You see: a skeletal corpse
+[04/16/2023 11:20]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:20]  a skeleton: -279
+[04/16/2023 11:20]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:20]  Stink Fist: +0
+[04/16/2023 11:20]  System: You have gained a little fame.
+[04/16/2023 11:20]  System: -70
+[04/16/2023 11:20]  You see: a skeletal corpse
+[04/16/2023 11:20]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:20]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:20]  System: What corpse or location do you wish to carve?
+[04/16/2023 11:20]  You see: a skeletal corpse
+[04/16/2023 11:20]  Razor: Target: Stink Fist
+[04/16/2023 11:20]  System: You carve materials from the corpse.
+[04/16/2023 11:20]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:20]  a skeleton: a skeleton
+[04/16/2023 11:20]  You see: a ghoul corpse
+[04/16/2023 11:21]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:21]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:21]  Razor: [DISARM]
+[04/16/2023 11:21]  Stink Fist: -1
+[04/16/2023 11:21]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:21]  Stink Fist: -6
+[04/16/2023 11:21]  Moridin Tedronai: Legendary Savant
+[04/16/2023 11:21]  Moridin Tedronai: [SQzD]
+[04/16/2023 11:21]  Moridin Tedronai: Lord Moridin Tedronai
+[04/16/2023 11:21]  Stink Fist: -4
+[04/16/2023 11:21]  Razor: Waiting for world save...
+[04/16/2023 11:21]  Razor: Save complete - continue on!
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  Razor: Target: a skeleton
+[04/16/2023 11:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:21]  Razor: Attack: a skeleton
+[04/16/2023 11:21]  System: Your strike disarms your target!
+[04/16/2023 11:21]  a skeleton: -148
+[04/16/2023 11:21]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:21]  Razor: chug
+[04/16/2023 11:21]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2023 11:21]  Razor: [+Magic Resist Potion (120s)]
+[04/16/2023 11:21]  Razor: Loading hotbar
+[04/16/2023 11:21]  Razor: Divine Fury
+[04/16/2023 11:21]  System: Divine Fury
+[04/16/2023 11:21]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:21]  System: Your attack hinders your target!
+[04/16/2023 11:21]  a skeleton: -78
+[04/16/2023 11:21]  System: Who will you use the bandages on?
+[04/16/2023 11:21]  System: You begin applying the bandages.
+[04/16/2023 11:21]  Razor: Bandage: 10s
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:21]  System: You have gained a little fame.
+[04/16/2023 11:21]  System: -174
+[04/16/2023 11:21]  You see: a skeletal corpse
+[04/16/2023 11:21]  Razor: Bandage: 9s
+[04/16/2023 11:21]  Razor: Bandage: 8s
+[04/16/2023 11:21]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:21]  System: You carve materials from the corpse.
+[04/16/2023 11:21]  Razor: Bandage: 7s
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: found no one
+[04/16/2023 11:21]  Razor: Bandage: 6s
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:21]  Razor: Bandage: 5s
+[04/16/2023 11:21]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:21]  Razor: Bandage: 4s
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: found no one
+[04/16/2023 11:21]  Razor: Bandage: 3s
+[04/16/2023 11:21]  Razor: Bandage: 2s
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: Bandage: 1s
+[04/16/2023 11:21]  System: You finish applying the bandages.
+[04/16/2023 11:21]  Stink Fist: +4
+[04/16/2023 11:21]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:21]  System: You carve materials from the corpse.
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: found no one
+[04/16/2023 11:21]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: found no one
+[04/16/2023 11:21]  System: You carve materials from the corpse. [2]
+[04/16/2023 11:21]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:21]  System: You must wait another moment before you may pick up an item from here.
+[04/16/2023 11:21]  System: You dont see anything nearby worth carving or investigating.
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: found no one
+[04/16/2023 11:21]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:21]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  Razor: found no one
+[04/16/2023 11:21]  System: No one matching that was found on your screen.
+[04/16/2023 11:21]  a sickly lizardman: a sickly lizardman
+[04/16/2023 11:21]  You see: a sickly lizardman corpse
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  Razor: Target: a sickly lizardman
+[04/16/2023 11:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:21]  Razor: Attack: a sickly lizardman
+[04/16/2023 11:21]  You see: a sickly lizardman corpse
+[04/16/2023 11:21]  Black Coal: Black Coal (Young)
+[04/16/2023 11:21]  a sickly lizardman: -72
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  System: Zzyzx has completed the achievement: Artificer (Advanced).
+[04/16/2023 11:21]  a sickly lizardman: -53
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:21]  a sickly lizardman: -53
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:21]  a sickly lizardman: -47
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:21]  a sickly lizardman: -29
+[04/16/2023 11:21]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:21]  System: New target set.
+[04/16/2023 11:22]  a sickly lizardman: -106
+[04/16/2023 11:22]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:22]  Razor: [DISARM]
+[04/16/2023 11:22]  Stink Fist: -1
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  System: Your strike disarms your target!
+[04/16/2023 11:22]  a sickly lizardman: -62
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  System: Who will you use the bandages on?
+[04/16/2023 11:22]  System: You begin applying the bandages.
+[04/16/2023 11:22]  Razor: Bandage: 10s
+[04/16/2023 11:22]  a sickly lizardman: -8
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  a sickly lizardman: -141
+[04/16/2023 11:22]  Razor: Bandage: 9s
+[04/16/2023 11:22]  a sickly lizardman: -26
+[04/16/2023 11:22]  Razor: Divine Fury
+[04/16/2023 11:22]  System: Divine Fury
+[04/16/2023 11:22]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:22]  System: You have gained a little fame.
+[04/16/2023 11:22]  System: -3
+[04/16/2023 11:22]  You see: a sickly lizardman corpse
+[04/16/2023 11:22]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:22]  Razor: Bandage: 8s
+[04/16/2023 11:22]  System: You carve materials from the corpse.
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  Razor: Bandage: 7s
+[04/16/2023 11:22]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: Bandage: 6s
+[04/16/2023 11:22]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:22]  Razor: Bandage: 5s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:22]  Razor: Bandage: 4s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: Bandage: 3s
+[04/16/2023 11:22]  Razor: Bandage: 2s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  Razor: Bandage: 1s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  a deformed troll: a deformed troll
+[04/16/2023 11:22]  You see: a deformed troll corpse
+[04/16/2023 11:22]  System: You heal what little damage you had.
+[04/16/2023 11:22]  a primordial whelp: a primordial whelp
+[04/16/2023 11:22]  You see: an injured ogre corpse
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Target: a deformed troll
+[04/16/2023 11:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Target: a primordial whelp
+[04/16/2023 11:22]  a primordial: a primordial
+[04/16/2023 11:22]  a primordial whelp: a primordial whelp
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Attack: a primordial whelp
+[04/16/2023 11:22]  a primordial whelp: -88
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  a primordial whelp: -191
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  a primordial whelp: -46
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  a primordial whelp: -169
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  a primordial whelp: -48
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:22]  a primordial whelp: -102
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Stink Fist: -1
+[04/16/2023 11:22]  a primordial whelp: -61
+[04/16/2023 11:22]  System: Who will you use the bandages on?
+[04/16/2023 11:22]  System: You begin applying the bandages.
+[04/16/2023 11:22]  Razor: Bandage: 10s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Bandage: 9s
+[04/16/2023 11:22]  a primordial whelp: -52
+[04/16/2023 11:22]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:22]  Stink Fist: +1
+[04/16/2023 11:22]  System: some damage has been healed : 1
+[04/16/2023 11:22]  System: You have gained a little fame.
+[04/16/2023 11:22]  System: -43
+[04/16/2023 11:22]  You see: a primordial whelp corpse
+[04/16/2023 11:22]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:22]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:22]  System: You carve materials from the corpse.
+[04/16/2023 11:22]  Razor: Bandage: 8s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  Razor: Bandage: 7s
+[04/16/2023 11:22]  Razor: Bandage: 6s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: Bandage: 5s
+[04/16/2023 11:22]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:22]  Razor: [DISARM]
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:22]  Razor: Bandage: 4s
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: Bandage: 3s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Target: a primordial
+[04/16/2023 11:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:22]  Razor: Attack: a primordial
+[04/16/2023 11:22]  Razor: Bandage: 1s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Stink Fist: -12
+[04/16/2023 11:22]  System: You fail to disarm your opponent.
+[04/16/2023 11:22]  System: You finish applying the bandages.
+[04/16/2023 11:22]  Stink Fist: +12
+[04/16/2023 11:22]  Razor: Divine Fury
+[04/16/2023 11:22]  System: Divine Fury
+[04/16/2023 11:22]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  a primordial: -50
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:22]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:22]  a primordial: -109
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Stink Fist: -1
+[04/16/2023 11:22]  a primordial: -75
+[04/16/2023 11:22]  System: Who will you use the bandages on?
+[04/16/2023 11:22]  System: You begin applying the bandages.
+[04/16/2023 11:22]  Razor: Bandage: 10s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  a primordial: -46
+[04/16/2023 11:22]  Razor: Bandage: 9s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Bandage: 8s
+[04/16/2023 11:22]  a primordial: -42
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Stink Fist: -1
+[04/16/2023 11:22]  System: Your fingers slip!
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  Razor: Bandage: 7s
+[04/16/2023 11:22]  a primordial: -57
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Bandage: 6s
+[04/16/2023 11:22]  a primordial: -82
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  Razor: Bandage: 5s
+[04/16/2023 11:22]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:22]  a primordial: -37
+[04/16/2023 11:22]  Stink Fist: -5
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Bandage: 4s
+[04/16/2023 11:22]  a primordial: -44
+[04/16/2023 11:22]  Razor: Bandage: 3s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  a primordial: -93
+[04/16/2023 11:22]  Razor: Bandage: 2s
+[04/16/2023 11:22]  Razor: Bandage: 1s
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  a primordial: -130
+[04/16/2023 11:22]  System: You evade an attack (Dispel Evil).
+[04/16/2023 11:22]  Stink Fist: -1
+[04/16/2023 11:22]  System: Your fingers slip!
+[04/16/2023 11:22]  a primordial: *frenzies*
+[04/16/2023 11:22]  System: You finish applying the bandages.
+[04/16/2023 11:22]  Stink Fist: +6
+[04/16/2023 11:22]  a primordial: -187
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:22]  System: Your strike disarms your target!
+[04/16/2023 11:22]  System: You have gained some fame.
+[04/16/2023 11:22]  System: -48
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  You see: a primordial corpse
+[04/16/2023 11:22]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: Target: Stink Fist
+[04/16/2023 11:22]  System: You carve materials from the corpse.
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  Razor: found no one
+[04/16/2023 11:22]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:22]  System: No one matching that was found on your screen.
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:22]  Razor: Target: a primordial whelp
+[04/16/2023 11:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:22]  System: New target set.
+[04/16/2023 11:23]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:23]  Razor: Attack: a primordial whelp
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:23]  a primordial whelp: -153
+[04/16/2023 11:23]  Stink Fist: -1
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  System: Your attack hinders your target!
+[04/16/2023 11:23]  a primordial whelp: -99
+[04/16/2023 11:23]  System: Who will you use the bandages on?
+[04/16/2023 11:23]  System: You begin applying the bandages.
+[04/16/2023 11:23]  Razor: Bandage: 10s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a primordial whelp: -112
+[04/16/2023 11:23]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a primordial whelp: -58
+[04/16/2023 11:23]  Razor: Bandage: 9s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a primordial whelp: -70
+[04/16/2023 11:23]  Razor: Bandage: 8s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Bandage: 7s
+[04/16/2023 11:23]  a primordial whelp: -172
+[04/16/2023 11:23]  Stink Fist: -6
+[04/16/2023 11:23]  Razor: Divine Fury
+[04/16/2023 11:23]  System: Divine Fury
+[04/16/2023 11:23]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:23]  Razor: Bandage: 6s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a primordial whelp: -30
+[04/16/2023 11:23]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:23]  Stink Fist: +6
+[04/16/2023 11:23]  System: some damage has been healed : 6
+[04/16/2023 11:23]  System: You have gained a little fame.
+[04/16/2023 11:23]  System: -43
+[04/16/2023 11:23]  You see: a primordial whelp corpse
+[04/16/2023 11:23]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:23]  Razor: Bandage: 5s
+[04/16/2023 11:23]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:23]  System: You carve materials from the corpse.
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  Razor: Bandage: 3s
+[04/16/2023 11:23]  Razor: Bandage: 2s
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  Razor: found no one
+[04/16/2023 11:23]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:23]  Razor: Bandage: 1s
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  System: You heal what little damage you had.
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  Razor: found no one
+[04/16/2023 11:23]  a drake whelp: a drake whelp
+[04/16/2023 11:23]  a drake whelp: a drake whelp
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Target: a drake whelp
+[04/16/2023 11:23]  a chameleon: a chameleon
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:23]  Razor: Attack: a drake whelp
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a drake whelp: -61
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a drake whelp: -33
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a drake whelp: -59
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Stink Fist: -8
+[04/16/2023 11:23]  System: Your strike disarms your target!
+[04/16/2023 11:23]  a drake whelp: -54
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:23]  Razor: [DISARM]
+[04/16/2023 11:23]  System: Who will you use the bandages on?
+[04/16/2023 11:23]  System: You begin applying the bandages.
+[04/16/2023 11:23]  Razor: Bandage: 10s
+[04/16/2023 11:23]  a drake whelp: -59
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Stink Fist: -1
+[04/16/2023 11:23]  System: Your fingers slip!
+[04/16/2023 11:23]  a drake whelp: -54
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  Razor: Bandage: 8s
+[04/16/2023 11:23]  a drake whelp: -91
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a drake whelp: -55
+[04/16/2023 11:23]  Razor: Bandage: 7s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a drake whelp: -41
+[04/16/2023 11:23]  Razor: Bandage: 6s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Bandage: 5s
+[04/16/2023 11:23]  a drake whelp: -216
+[04/16/2023 11:23]  Razor: Bandage: 4s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a drake whelp: -58
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  Stink Fist: -5
+[04/16/2023 11:23]  System: Your magic resist potion has worn off.
+[04/16/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[04/16/2023 11:23]  Razor: chug
+[04/16/2023 11:23]  Razor: Bandage: 3s
+[04/16/2023 11:23]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2023 11:23]  Razor: [+Magic Resist Potion (120s)]
+[04/16/2023 11:23]  System: Your attack hinders your target!
+[04/16/2023 11:23]  System: You have gained a little fame.
+[04/16/2023 11:23]  System: -19
+[04/16/2023 11:23]  You see: a drake whelp corpse
+[04/16/2023 11:23]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:23]  System: You carve materials from the corpse.
+[04/16/2023 11:23]  Razor: Bandage: 2s
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  Razor: found no one
+[04/16/2023 11:23]  Razor: Bandage: 1s
+[04/16/2023 11:23]  System: You finish applying the bandages.
+[04/16/2023 11:23]  Stink Fist: +12
+[04/16/2023 11:23]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  Razor: found no one
+[04/16/2023 11:23]  System: No one matching that was found on your screen.
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Target: a drake whelp
+[04/16/2023 11:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:23]  Razor: Attack: a drake whelp
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a drake whelp: -58
+[04/16/2023 11:23]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:23]  Razor: Divine Fury
+[04/16/2023 11:23]  System: Divine Fury
+[04/16/2023 11:23]  System: You must wait a moment before attempting to use another Chivalry ability.
+[04/16/2023 11:23]  Stink Fist: -15
+[04/16/2023 11:23]  a drake whelp: -52
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  System: Who will you use the bandages on?
+[04/16/2023 11:23]  System: You begin applying the bandages.
+[04/16/2023 11:23]  Razor: Bandage: 10s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a drake whelp: -47
+[04/16/2023 11:23]  Razor: Bandage: 9s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a drake whelp: -75
+[04/16/2023 11:23]  Razor: Bandage: 8s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Stink Fist: -2
+[04/16/2023 11:23]  System: Your fingers slip!
+[04/16/2023 11:23]  a chameleon: a chameleon
+[04/16/2023 11:23]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:23]  Razor: Bandage: 7s
+[04/16/2023 11:23]  a drake whelp: -68
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Target: a chameleon
+[04/16/2023 11:23]  Razor: Bandage: 6s
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  Razor: Attack: a chameleon
+[04/16/2023 11:23]  a chameleon: -49
+[04/16/2023 11:23]  Razor: Bandage: 5s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Bandage: 4s
+[04/16/2023 11:23]  a chameleon: -121
+[04/16/2023 11:23]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  Razor: Bandage: 3s
+[04/16/2023 11:23]  Stink Fist: -3
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Bandage: 2s
+[04/16/2023 11:23]  a chameleon: -42
+[04/16/2023 11:23]  Razor: Bandage: 1s
+[04/16/2023 11:23]  a chameleon: -24
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  System: You finish applying the bandages.
+[04/16/2023 11:23]  Stink Fist: +18
+[04/16/2023 11:23]  System: Your strike disarms your target!
+[04/16/2023 11:23]  System: You smash through the remainder of their armor, dealing grevious damage!
+[04/16/2023 11:23]  a chameleon: -118
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:23]  Razor: [DISARM]
+[04/16/2023 11:23]  System: Your attack hinders your target!
+[04/16/2023 11:23]  a chameleon: -141
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  a chameleon: -30
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  a chameleon: -62
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Stink Fist: -10
+[04/16/2023 11:23]  a chameleon: -75
+[04/16/2023 11:23]  System: Who will you use the bandages on?
+[04/16/2023 11:23]  System: You begin applying the bandages.
+[04/16/2023 11:23]  Razor: Bandage: 10s
+[04/16/2023 11:23]  a chameleon: -30
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:23]  Stink Fist: -3
+[04/16/2023 11:23]  System: Your fingers slip!
+[04/16/2023 11:23]  a chameleon: -154
+[04/16/2023 11:23]  Razor: Bandage: 9s
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:23]  Razor: Bandage: 8s
+[04/16/2023 11:23]  a chameleon: -46
+[04/16/2023 11:23]  System: New target set.
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a chameleon: -30
+[04/16/2023 11:24]  Razor: Bandage: 7s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a drake whelp
+[04/16/2023 11:24]  Razor: Bandage: 6s
+[04/16/2023 11:24]  Razor: Attack: a drake whelp
+[04/16/2023 11:24]  a drake whelp: -29
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Bandage: 5s
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a drake whelp: -91
+[04/16/2023 11:24]  System: -24
+[04/16/2023 11:24]  Razor: Bandage: 4s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  a drake whelp: -33
+[04/16/2023 11:24]  Razor: Bandage: 3s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  Stink Fist: -2
+[04/16/2023 11:24]  a chameleon: *frenzies*
+[04/16/2023 11:24]  a chameleon: a chameleon
+[04/16/2023 11:24]  Razor: Bandage: 2s
+[04/16/2023 11:24]  a drake whelp: -32
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a chameleon
+[04/16/2023 11:24]  Razor: Bandage: 1s
+[04/16/2023 11:24]  Razor: Attack: a chameleon
+[04/16/2023 11:24]  System: You finish applying the bandages.
+[04/16/2023 11:24]  Stink Fist: +13
+[04/16/2023 11:24]  a chameleon: -68
+[04/16/2023 11:24]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:24]  Stink Fist: +0
+[04/16/2023 11:24]  a chameleon: -208
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Stink Fist: -5
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  System: Who will you use the bandages on?
+[04/16/2023 11:24]  System: You begin applying the bandages.
+[04/16/2023 11:24]  Razor: Bandage: 10s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Bandage: 9s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: You have gained some fame.
+[04/16/2023 11:24]  System: -28
+[04/16/2023 11:24]  You see: a chameleon corpse
+[04/16/2023 11:24]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:24]  Razor: Bandage: 8s
+[04/16/2023 11:24]  Stink Fist: -10
+[04/16/2023 11:24]  System: Your fingers slip!
+[04/16/2023 11:24]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:24]  System: You carve materials from the corpse.
+[04/16/2023 11:24]  Razor: Bandage: 7s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a drake whelp
+[04/16/2023 11:24]  Razor: Attack: a drake whelp
+[04/16/2023 11:24]  a drake whelp: -152
+[04/16/2023 11:24]  Razor: Divine Fury
+[04/16/2023 11:24]  System: Divine Fury
+[04/16/2023 11:24]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:24]  Razor: Bandage: 6s
+[04/16/2023 11:24]  Stink Fist: -4
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a drake whelp: -122
+[04/16/2023 11:24]  Razor: Bandage: 5s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Bandage: 4s
+[04/16/2023 11:24]  Razor: Bandage: 3s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: You have gained a little fame.
+[04/16/2023 11:24]  System: -10
+[04/16/2023 11:24]  You see: a drake whelp corpse
+[04/16/2023 11:24]  Razor: Bandage: 2s
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  Razor: Bandage: 1s
+[04/16/2023 11:24]  System: What do you wish to carve, investigate, or research? [2]
+[04/16/2023 11:24]  System: You finish applying the bandages.
+[04/16/2023 11:24]  Stink Fist: +17
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  Razor: found no one
+[04/16/2023 11:24]  Razor: Target: Stink Fist
+[04/16/2023 11:24]  System: You carve materials from the corpse.
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  Razor: found no one
+[04/16/2023 11:24]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:24]  Razor: [DISARM]
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  Razor: found no one
+[04/16/2023 11:24]  System: No one matching that was found on your screen.
+[04/16/2023 11:24]  a corpse eater: a corpse eater
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a corpse eater
+[04/16/2023 11:24]  a cave bear: a cave bear
+[04/16/2023 11:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:24]  a skeletal mage: a skeletal mage
+[04/16/2023 11:24]  a corpse eater: a corpse eater
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Attack: a corpse eater
+[04/16/2023 11:24]  Stink Fist: -2
+[04/16/2023 11:24]  System: Your strike disarms your target!
+[04/16/2023 11:24]  a corpse eater: -40
+[04/16/2023 11:24]  System: Who will you use the bandages on?
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: You begin applying the bandages.
+[04/16/2023 11:24]  Razor: Bandage: 10s
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a corpse eater: -204
+[04/16/2023 11:24]  Razor: Bandage: 9s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:24]  a corpse eater: -75
+[04/16/2023 11:24]  Razor: Bandage: 8s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: Your attack hinders your target!
+[04/16/2023 11:24]  a corpse eater: -76
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  Razor: Bandage: 7s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: Your attack crushes their armor!
+[04/16/2023 11:24]  a corpse eater: -216
+[04/16/2023 11:24]  Razor: Bandage: 6s
+[04/16/2023 11:24]  a corpse eater: -88
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Bandage: 5s
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a corpse eater: -62
+[04/16/2023 11:24]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Bandage: 4s
+[04/16/2023 11:24]  Razor: Bandage: 3s
+[04/16/2023 11:24]  System: You have gained a little fame.
+[04/16/2023 11:24]  System: -39
+[04/16/2023 11:24]  You see: a corpse eater corpse
+[04/16/2023 11:24]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:24]  System: You carve materials from the corpse.
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a cave bear
+[04/16/2023 11:24]  Razor: Bandage: 2s
+[04/16/2023 11:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:24]  Razor: Bandage: 1s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: You heal what little damage you had.
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:24]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:24]  Razor: Attack: a cave bear
+[04/16/2023 11:24]  a gazer larva: a gazer larva
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  a terathan larva: a terathan larva
+[04/16/2023 11:24]  a cave bear: a cave bear
+[04/16/2023 11:24]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a corpse eater
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  Razor: Attack: a corpse eater
+[04/16/2023 11:24]  a corpse eater: -53
+[04/16/2023 11:24]  Razor: Divine Fury
+[04/16/2023 11:24]  System: Divine Fury
+[04/16/2023 11:24]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Target: a cave bear
+[04/16/2023 11:24]  Razor: Attack: a cave bear
+[04/16/2023 11:24]  a cave bear: -62
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a cave bear: -123
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: You parry the spell.
+[04/16/2023 11:24]  a cave bear: -119
+[04/16/2023 11:24]  Stink Fist: -2
+[04/16/2023 11:24]  System: Who will you use the bandages on?
+[04/16/2023 11:24]  System: You begin applying the bandages.
+[04/16/2023 11:24]  Razor: Bandage: 10s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  a cave bear: -37
+[04/16/2023 11:24]  Razor: Bandage: 9s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Stink Fist: -2
+[04/16/2023 11:24]  Razor: Bandage: 8s
+[04/16/2023 11:24]  a cave bear: -58
+[04/16/2023 11:24]  Stink Fist: -5
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: Bandage: 7s
+[04/16/2023 11:24]  a cave bear: -94
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  Razor: Bandage: 6s
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  a cave bear: -39
+[04/16/2023 11:24]  Razor: Bandage: 5s
+[04/16/2023 11:24]  a cave bear: -59
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:24]  Razor: Bandage: 4s
+[04/16/2023 11:24]  a cave bear: -98
+[04/16/2023 11:24]  Stink Fist: -9
+[04/16/2023 11:24]  System: Your fingers slip!
+[04/16/2023 11:24]  System: New target set.
+[04/16/2023 11:24]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:24]  Razor: Bandage: 3s
+[04/16/2023 11:24]  Razor: [DISARM]
+[04/16/2023 11:24]  System: Your strike disarms your target!
+[04/16/2023 11:24]  a cave bear: -38
+[04/16/2023 11:24]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:25]  Razor: Bandage: 2s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: You parry the spell.
+[04/16/2023 11:25]  Stink Fist: -1
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 1s
+[04/16/2023 11:25]  a cave bear: -88
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: You finish applying the bandages.
+[04/16/2023 11:25]  Stink Fist: +17
+[04/16/2023 11:25]  a cave bear: -360
+[04/16/2023 11:25]  a cave bear: -10
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  a cave bear: -38
+[04/16/2023 11:25]  Stink Fist: -5
+[04/16/2023 11:25]  System: Who will you use the bandages on?
+[04/16/2023 11:25]  System: You begin applying the bandages.
+[04/16/2023 11:25]  Razor: Bandage: 10s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: You have gained some fame.
+[04/16/2023 11:25]  System: -27
+[04/16/2023 11:25]  You see: a cave bear corpse
+[04/16/2023 11:25]  System: Spell siphon max bonus reached (18.8%).
+[04/16/2023 11:25]  Razor: Bandage: 9s
+[04/16/2023 11:25]  Stink Fist: -9
+[04/16/2023 11:25]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:25]  System: You carve materials from the corpse.
+[04/16/2023 11:25]  Razor: Bandage: 8s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a corpse eater
+[04/16/2023 11:25]  Stink Fist: -2
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Attack: a corpse eater
+[04/16/2023 11:25]  System: Your attack hinders your target!
+[04/16/2023 11:25]  a corpse eater: -125
+[04/16/2023 11:25]  Razor: Bandage: 7s
+[04/16/2023 11:25]  Stink Fist: -7
+[04/16/2023 11:25]  System: Your fingers slip!
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:25]  Razor: Bandage: 6s
+[04/16/2023 11:25]  a corpse eater: -52
+[04/16/2023 11:25]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Bandage: 5s
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  a corpse eater: -45
+[04/16/2023 11:25]  Razor: Bandage: 4s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a corpse eater: -124
+[04/16/2023 11:25]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:25]  System: You parry the spell.
+[04/16/2023 11:25]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:25]  Stink Fist: -1
+[04/16/2023 11:25]  Razor: Bandage: 3s
+[04/16/2023 11:25]  System: Your fingers slip!
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2023 11:25]  a corpse eater: -185
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 2s
+[04/16/2023 11:25]  a corpse eater: -53
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Bandage: 1s
+[04/16/2023 11:25]  a corpse eater: -25
+[04/16/2023 11:25]  System: You finish applying the bandages.
+[04/16/2023 11:25]  Stink Fist: +22
+[04/16/2023 11:25]  System: You absorb their spell.
+[04/16/2023 11:25]  a corpse eater: -61
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Stink Fist: -1
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  System: Who will you use the bandages on?
+[04/16/2023 11:25]  System: You begin applying the bandages.
+[04/16/2023 11:25]  Razor: Bandage: 10s
+[04/16/2023 11:25]  a corpse eater: -34
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:25]  Razor: Bandage: 9s
+[04/16/2023 11:25]  a corpse eater: -35
+[04/16/2023 11:25]  System: You have gained a little fame.
+[04/16/2023 11:25]  System: -8
+[04/16/2023 11:25]  You see: a corpse eater corpse
+[04/16/2023 11:25]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:25]  Razor: Bandage: 8s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a gazer larva
+[04/16/2023 11:25]  Stink Fist: -6
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 7s
+[04/16/2023 11:25]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:25]  Razor: Bandage: 6s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: That is too far away.
+[04/16/2023 11:25]  Razor: Bandage: 5s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a gazer larva
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 4s
+[04/16/2023 11:25]  Stink Fist: -6
+[04/16/2023 11:25]  Razor: Bandage: 3s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: What corpse or location do you wish to carve?
+[04/16/2023 11:25]  Razor: Target: Stink Fist
+[04/16/2023 11:25]  System: You carve materials from the corpse.
+[04/16/2023 11:25]  Razor: Bandage: 2s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a gazer larva
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:25]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:25]  Razor: Bandage: 1s
+[04/16/2023 11:25]  System: You parry the spell.
+[04/16/2023 11:25]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:25]  Stink Fist: -2
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: You finish applying the bandages.
+[04/16/2023 11:25]  Stink Fist: +13
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:25]  Razor: Attack: a gazer larva
+[04/16/2023 11:25]  a terathan larva: a terathan larva
+[04/16/2023 11:25]  Stink Fist: -8
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a gazer larva: -78
+[04/16/2023 11:25]  a skeletal knight: a skeletal knight
+[04/16/2023 11:25]  System: Who will you use the bandages on?
+[04/16/2023 11:25]  System: You begin applying the bandages.
+[04/16/2023 11:25]  Razor: Bandage: 10s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  System: Your strike disarms your target!
+[04/16/2023 11:25]  a gazer larva: -54
+[04/16/2023 11:25]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:25]  Razor: [DISARM]
+[04/16/2023 11:25]  Razor: Divine Fury
+[04/16/2023 11:25]  System: Divine Fury
+[04/16/2023 11:25]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:25]  System: You parry the spell.
+[04/16/2023 11:25]  System: Your magic resist potion has worn off.
+[04/16/2023 11:25]  Razor: Bandage: 9s
+[04/16/2023 11:25]  Razor: [-Magic Resist Potion (s)]
+[04/16/2023 11:25]  Stink Fist: -3
+[04/16/2023 11:25]  System: Your fingers slip!
+[04/16/2023 11:25]  a gazer larva: -69
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 8s
+[04/16/2023 11:25]  Razor: chug
+[04/16/2023 11:25]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2023 11:25]  Razor: [+Magic Resist Potion (120s)]
+[04/16/2023 11:25]  a gazer larva: -99
+[04/16/2023 11:25]  Razor: Bandage: 7s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Stink Fist: -5
+[04/16/2023 11:25]  System: Your attack hinders your target!
+[04/16/2023 11:25]  a gazer larva: -76
+[04/16/2023 11:25]  Stink Fist: -6
+[04/16/2023 11:25]  Razor: Bandage: 6s
+[04/16/2023 11:25]  System: Your fingers slip!
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2023 11:25]  a gazer larva: -238
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 5s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a gazer larva: -235
+[04/16/2023 11:25]  Razor: Bandage: 4s
+[04/16/2023 11:25]  Razor: Bandage: 2s
+[04/16/2023 11:25]  Stink Fist: -6
+[04/16/2023 11:25]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:25]  System: You have gained some fame.
+[04/16/2023 11:25]  System: -151
+[04/16/2023 11:25]  You see: a gazer larva corpse
+[04/16/2023 11:25]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:25]  System: You carve materials from the corpse.
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a terathan larva
+[04/16/2023 11:25]  Razor: Bandage: 1s
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Attack: a terathan larva
+[04/16/2023 11:25]  System: Your fingers slip!
+[04/16/2023 11:25]  System: You smash through the remainder of their armor, dealing grevious damage!
+[04/16/2023 11:25]  a terathan larva: -238
+[04/16/2023 11:25]  System: You finish applying the bandages.
+[04/16/2023 11:25]  Stink Fist: +26
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a terathan larva: -110
+[04/16/2023 11:25]  Stink Fist: -5
+[04/16/2023 11:25]  a terathan larva: -72
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  System: Holy symbols remaining: 7/10
+[04/16/2023 11:25]  System: Who will you use the bandages on?
+[04/16/2023 11:25]  System: You must wait to perform another action.
+[04/16/2023 11:25]  System: You begin applying the bandages.
+[04/16/2023 11:25]  Razor: Bandage: 10s
+[04/16/2023 11:25]  a terathan larva: -44
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Bandage: 9s
+[04/16/2023 11:25]  a terathan larva: -91
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 8s
+[04/16/2023 11:25]  System: You have gained a little fame.
+[04/16/2023 11:25]  System: -45
+[04/16/2023 11:25]  You see: a terathan larva corpse
+[04/16/2023 11:25]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:25]  System: You carve materials from the corpse.
+[04/16/2023 11:25]  System: The world will save in 15 seconds.
+[04/16/2023 11:25]  Razor: World save coming soon..
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a cave bear
+[04/16/2023 11:25]  Razor: Bandage: 7s
+[04/16/2023 11:25]  System: You must wait to perform another action.
+[04/16/2023 11:25]  Razor: Attack: a cave bear
+[04/16/2023 11:25]  Razor: Bandage: 6s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:25]  Razor: Bandage: 5s
+[04/16/2023 11:25]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Bandage: 4s
+[04/16/2023 11:25]  a cave bear: -66
+[04/16/2023 11:25]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:25]  Razor: Bandage: 3s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  a cave bear: -106
+[04/16/2023 11:25]  Razor: Bandage: 2s
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a cave bear: -54
+[04/16/2023 11:25]  System: What corpse or location do you wish to carve?
+[04/16/2023 11:25]  Razor: Bandage: 1s
+[04/16/2023 11:25]  Razor: Target: Stink Fist
+[04/16/2023 11:25]  System: You dont see anything nearby worth carving or investigating.
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: Target: a cave bear
+[04/16/2023 11:25]  a cave bear: -53
+[04/16/2023 11:25]  System: You finish applying the bandages.
+[04/16/2023 11:25]  Stink Fist: +3
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a cave bear: -93
+[04/16/2023 11:25]  a cave bear: -61
+[04/16/2023 11:25]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:25]  a skeletal marksman: a skeletal marksman
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:25]  a cave bear: -70
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:25]  a cave bear: -95
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:25]  a cave bear: -12
+[04/16/2023 11:25]  a cave bear: -52
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  a terathan larva: a terathan larva
+[04/16/2023 11:25]  a terathan larva: a terathan larva
+[04/16/2023 11:25]  System: New target set.
+[04/16/2023 11:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:26]  System: The world is saving, please wait.
+[04/16/2023 11:26]  Razor: [DISARM]
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  Razor: Waiting for world save...
+[04/16/2023 11:26]  System: World save complete. The entire process took 4.0 seconds.
+[04/16/2023 11:26]  Razor: Save complete - continue on!
+[04/16/2023 11:26]  a cave bear: -12
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  System: Your strike disarms your target!
+[04/16/2023 11:26]  a cave bear: -81
+[04/16/2023 11:26]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:26]  a terathan larva: a terathan larva
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:26]  Razor: Attack: a terathan larva
+[04/16/2023 11:26]  a terathan larva: -181
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a cave bear
+[04/16/2023 11:26]  Razor: Attack: a cave bear
+[04/16/2023 11:26]  a cave bear: -81
+[04/16/2023 11:26]  a cave bear: -15
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  Stink Fist: -3
+[04/16/2023 11:26]  a cave bear: *enraged*
+[04/16/2023 11:26]  a cave bear: -68
+[04/16/2023 11:26]  System: Who will you use the bandages on?
+[04/16/2023 11:26]  System: You begin applying the bandages.
+[04/16/2023 11:26]  Razor: Bandage: 10s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Divine Fury
+[04/16/2023 11:26]  System: Divine Fury
+[04/16/2023 11:26]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:26]  a cave bear: -108
+[04/16/2023 11:26]  a cave bear: -15
+[04/16/2023 11:26]  Razor: Bandage: 9s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  a cave bear: -70
+[04/16/2023 11:26]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:26]  Stink Fist: +3
+[04/16/2023 11:26]  System: some damage has been healed : 3
+[04/16/2023 11:26]  System: You have gained some fame.
+[04/16/2023 11:26]  System: -138
+[04/16/2023 11:26]  You see: a cave bear corpse
+[04/16/2023 11:26]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:26]  Razor: Bandage: 8s
+[04/16/2023 11:26]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:26]  System: You carve materials from the corpse.
+[04/16/2023 11:26]  Stink Fist: -1
+[04/16/2023 11:26]  System: Your fingers slip!
+[04/16/2023 11:26]  Razor: Bandage: 7s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  Razor: Attack: a terathan larva
+[04/16/2023 11:26]  Razor: Bandage: 6s
+[04/16/2023 11:26]  Razor: Bandage: 5s
+[04/16/2023 11:26]  Stink Fist: -1
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  a terathan larva: -80
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  Razor: Attack: a terathan larva
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  Razor: Bandage: 4s
+[04/16/2023 11:26]  a terathan larva: -65
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Bandage: 3s
+[04/16/2023 11:26]  a terathan larva: -154
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Stink Fist: -5
+[04/16/2023 11:26]  System: Your fingers slip!
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  Razor: Bandage: 2s
+[04/16/2023 11:26]  a terathan larva: -42
+[04/16/2023 11:26]  Razor: Bandage: 1s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  System: You finish applying the bandages.
+[04/16/2023 11:26]  Stink Fist: +6
+[04/16/2023 11:26]  a terathan larva: -135
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  a terathan larva: -93
+[04/16/2023 11:26]  Stink Fist: -3
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  System: Your attack hinders your target!
+[04/16/2023 11:26]  a terathan larva: -82
+[04/16/2023 11:26]  System: Who will you use the bandages on?
+[04/16/2023 11:26]  System: You begin applying the bandages.
+[04/16/2023 11:26]  Razor: Bandage: 10s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Stink Fist: -3
+[04/16/2023 11:26]  System: Your fingers slip!
+[04/16/2023 11:26]  System: You have gained a little fame.
+[04/16/2023 11:26]  System: -29
+[04/16/2023 11:26]  You see: a terathan larva corpse
+[04/16/2023 11:26]  Razor: Bandage: 9s
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:26]  System: You carve materials from the corpse.
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  Razor: Bandage: 8s
+[04/16/2023 11:26]  Razor: Attack: a terathan larva
+[04/16/2023 11:26]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:26]  a terathan larva: -107
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  Razor: Bandage: 7s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  a terathan larva: -57
+[04/16/2023 11:26]  Razor: Bandage: 6s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  a terathan larva: -48
+[04/16/2023 11:26]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:26]  Razor: Bandage: 5s
+[04/16/2023 11:26]  a terathan larva: -61
+[04/16/2023 11:26]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:26]  Stink Fist: +5
+[04/16/2023 11:26]  System: some damage has been healed : 5
+[04/16/2023 11:26]  System: You have gained a little fame.
+[04/16/2023 11:26]  System: -66
+[04/16/2023 11:26]  Razor: Bandage: 4s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  You see: a terathan larva corpse
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  Razor: Bandage: 3s
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  System: You carve materials from the corpse.
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  Razor: Bandage: 2s
+[04/16/2023 11:26]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  Razor: Bandage: 1s
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  System: You heal what little damage you had.
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Attack: a terathan larva
+[04/16/2023 11:26]  System: Your strike disarms your target!
+[04/16/2023 11:26]  a terathan larva: -60
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:26]  Razor: [DISARM]
+[04/16/2023 11:26]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:26]  a terathan larva: -82
+[04/16/2023 11:26]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  a terathan larva: -135
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  Stink Fist: -6
+[04/16/2023 11:26]  a terathan larva: -56
+[04/16/2023 11:26]  a terathan larva: -20
+[04/16/2023 11:26]  System: Who will you use the bandages on?
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  System: You begin applying the bandages.
+[04/16/2023 11:26]  Razor: Bandage: 10s
+[04/16/2023 11:26]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:26]  a terathan larva: -125
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  a terathan larva: -122
+[04/16/2023 11:26]  System: You have gained a little fame.
+[04/16/2023 11:26]  You see: a terathan larva corpse
+[04/16/2023 11:26]  Razor: Bandage: 9s
+[04/16/2023 11:26]  Razor: Divine Fury
+[04/16/2023 11:26]  System: Divine Fury
+[04/16/2023 11:26]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:26]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:26]  Razor: Bandage: 8s
+[04/16/2023 11:26]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  System: You carve materials from the corpse.
+[04/16/2023 11:26]  Razor: Bandage: 7s
+[04/16/2023 11:26]  System: No one matching that was found on your screen.
+[04/16/2023 11:26]  Razor: found no one
+[04/16/2023 11:26]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:26]  Razor: Bandage: 6s
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  System: No one matching that was found on your screen.
+[04/16/2023 11:26]  Razor: Bandage: 5s
+[04/16/2023 11:26]  System: No one matching that was found on your screen.
+[04/16/2023 11:26]  Razor: found no one
+[04/16/2023 11:26]  Razor: Bandage: 4s
+[04/16/2023 11:26]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:26]  You see: a terathan larva corpse
+[04/16/2023 11:26]  You see: a gazer larva corpse
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a terathan larva
+[04/16/2023 11:26]  Razor: Bandage: 3s
+[04/16/2023 11:26]  Razor: Bandage: 2s
+[04/16/2023 11:26]  Razor: Bandage: 1s
+[04/16/2023 11:26]  System: You finish applying the bandages.
+[04/16/2023 11:26]  Stink Fist: +4
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  Razor: Attack: a terathan larva
+[04/16/2023 11:26]  a terathan larva: a terathan larva
+[04/16/2023 11:26]  a terathan larva: -147
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  a terathan larva: -67
+[04/16/2023 11:26]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:26]  a terathan larva: -86
+[04/16/2023 11:26]  a terathan drone: a terathan drone
+[04/16/2023 11:26]  a terathan larva: -71
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:26]  a terathan larva: -13
+[04/16/2023 11:26]  a terathan larva: -55
+[04/16/2023 11:26]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:26]  Stink Fist: +0
+[04/16/2023 11:26]  System: You have gained a little fame.
+[04/16/2023 11:26]  System: -161
+[04/16/2023 11:26]  You see: a terathan larva corpse
+[04/16/2023 11:26]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:26]  System: You carve materials from the corpse.
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: Target: a monitor hatchling
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:26]  System: New target set.
+[04/16/2023 11:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:27]  You see: a corpse eater corpse
+[04/16/2023 11:27]  You see: a cave bear corpse
+[04/16/2023 11:27]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: Attack: a monitor hatchling
+[04/16/2023 11:27]  Stink Fist: -4
+[04/16/2023 11:27]  a monitor hatchling: -35
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  a monitor hatchling: -41
+[04/16/2023 11:27]  System: Who will you use the bandages on?
+[04/16/2023 11:27]  System: You begin applying the bandages.
+[04/16/2023 11:27]  Razor: Bandage: 10s
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -66
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: Bandage: 9s
+[04/16/2023 11:27]  Stink Fist: -1
+[04/16/2023 11:27]  System: They bite down on your armor, temporarily reducing its effectiveness!
+[04/16/2023 11:27]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:27]  Razor: [DISARM]
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  System: You fail to disarm your opponent.
+[04/16/2023 11:27]  Razor: Bandage: 8s
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -46
+[04/16/2023 11:27]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:27]  Razor: Bandage: 7s
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  System: Your attack hinders your target!
+[04/16/2023 11:27]  a monitor hatchling: -82
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  Razor: Bandage: 6s
+[04/16/2023 11:27]  Razor: Bandage: 5s
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -40
+[04/16/2023 11:27]  Razor: Bandage: 4s
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  Razor: Bandage: 3s
+[04/16/2023 11:27]  a monitor hatchling: -55
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:27]  Razor: Bandage: 2s
+[04/16/2023 11:27]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:27]  a monitor hatchling: -107
+[04/16/2023 11:27]  Stink Fist: -2
+[04/16/2023 11:27]  System: Your fingers slip!
+[04/16/2023 11:27]  Razor: Divine Fury
+[04/16/2023 11:27]  System: Divine Fury
+[04/16/2023 11:27]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:27]  Razor: Bandage: 1s
+[04/16/2023 11:27]  System: You finish applying the bandages.
+[04/16/2023 11:27]  Stink Fist: +5
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  a monitor hatchling: -37
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  System: Your attack crushes their armor!
+[04/16/2023 11:27]  a monitor hatchling: -113
+[04/16/2023 11:27]  a monitor hatchling: -97
+[04/16/2023 11:27]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  a monitor hatchling: -64
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -115
+[04/16/2023 11:27]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:27]  Stink Fist: +0
+[04/16/2023 11:27]  System: You have gained a little fame.
+[04/16/2023 11:27]  System: -102
+[04/16/2023 11:27]  You see: a monitor hatchling corpse
+[04/16/2023 11:27]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:27]  System: You carve materials from the corpse.
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  Razor: found no one
+[04/16/2023 11:27]  System: Your armor is no longer pierced.
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  Razor: found no one
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  Razor: found no one
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  System: No one matching that was found on your screen.
+[04/16/2023 11:27]  Razor: found no one
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: Target: a monitor hatchling
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor: a monitor
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:27]  a terathan larva: a terathan larva
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: Attack: a monitor hatchling
+[04/16/2023 11:27]  System: Your magic resist potion has worn off.
+[04/16/2023 11:27]  Razor: [-Magic Resist Potion (s)]
+[04/16/2023 11:27]  a gazer larva: a gazer larva
+[04/16/2023 11:27]  a terathan drone: a terathan drone
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  System: Your strike disarms your target!
+[04/16/2023 11:27]  a monitor hatchling: -61
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:27]  Razor: chug
+[04/16/2023 11:27]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2023 11:27]  Razor: [+Magic Resist Potion (120s)]
+[04/16/2023 11:27]  a monitor hatchling: -39
+[04/16/2023 11:27]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -61
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  System: Your attack crushes their armor!
+[04/16/2023 11:27]  a monitor hatchling: -152
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -10
+[04/16/2023 11:27]  a monitor hatchling: -90
+[04/16/2023 11:27]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  a monitor hatchling: -65
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -10
+[04/16/2023 11:27]  a monitor hatchling: -89
+[04/16/2023 11:27]  Razor: Divine Fury
+[04/16/2023 11:27]  System: Divine Fury
+[04/16/2023 11:27]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  System: Your attack hinders your target!
+[04/16/2023 11:27]  a monitor hatchling: -280
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor hatchling: -114
+[04/16/2023 11:27]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:27]  Stink Fist: +0
+[04/16/2023 11:27]  System: You have gained a little fame.
+[04/16/2023 11:27]  System: -29
+[04/16/2023 11:27]  You see: a monitor hatchling corpse
+[04/16/2023 11:27]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:27]  System: You carve materials from the corpse.
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: Target: a monitor
+[04/16/2023 11:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:27]  a terathan larva: a terathan larva
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: Attack: a monitor
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor: -60
+[04/16/2023 11:27]  a monitor: -28
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  a monitor: -53
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor: -33
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:27]  a monitor: -173
+[04/16/2023 11:27]  System: New target set.
+[04/16/2023 11:27]  a monitor: -39
+[04/16/2023 11:28]  Stink Fist: -4
+[04/16/2023 11:28]  System: They bite down on your armor, temporarily reducing its effectiveness!
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  a monitor: -66
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  System: Who will you use the bandages on?
+[04/16/2023 11:28]  System: You begin applying the bandages.
+[04/16/2023 11:28]  Razor: Bandage: 10s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  a monitor: -56
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: Bandage: 9s
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  Razor: Bandage: 8s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: Bandage: 7s
+[04/16/2023 11:28]  a monitor: -96
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: Bandage: 6s
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  a monitor: -133
+[04/16/2023 11:28]  Razor: Bandage: 5s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  System: Your strike disarms your target!
+[04/16/2023 11:28]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:28]  a monitor: -126
+[04/16/2023 11:28]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:28]  Razor: Bandage: 4s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:28]  Razor: [DISARM]
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  a monitor: -28
+[04/16/2023 11:28]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:28]  Stink Fist: +2
+[04/16/2023 11:28]  System: some damage has been healed : 2
+[04/16/2023 11:28]  a monitor: -82
+[04/16/2023 11:28]  Razor: Bandage: 3s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  a monitor: -69
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: Bandage: 2s
+[04/16/2023 11:28]  Razor: Bandage: 1s
+[04/16/2023 11:28]  a monitor: -101
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  System: You heal what little damage you had.
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  a monitor: -44
+[04/16/2023 11:28]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:28]  System: Your attack crushes their armor!
+[04/16/2023 11:28]  System: You have gained some fame.
+[04/16/2023 11:28]  System: -63
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  You see: a monitor corpse
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:28]  System: You carve materials from the corpse.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: Your armor is no longer pierced.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  You see: a blessed codex of parrying
+[04/16/2023 11:28]  You see: (Bulwark and Last Stand)
+[04/16/2023 11:28]  System: You deactivate your stance.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Stink Fist: Bulwark stance activated.
+[04/16/2023 11:28]  a terathan drone: a terathan drone
+[04/16/2023 11:28]  System: You deactivate your finisher.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:28]  Razor: [DISARM]
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  System: Wrestling stance adoption expired.
+[04/16/2023 11:28]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:28]  Stink Fist: Last Stand finisher activated.
+[04/16/2023 11:28]  System: No one matching that was found on your screen.
+[04/16/2023 11:28]  Razor: found no one
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: Target: a gazer larva
+[04/16/2023 11:28]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:28]  Razor: Attack: a gazer larva
+[04/16/2023 11:28]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  System: You parry the spell.
+[04/16/2023 11:28]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:28]  Stink Fist: -4
+[04/16/2023 11:28]  System: Who will you use the bandages on?
+[04/16/2023 11:28]  System: You begin applying the bandages.
+[04/16/2023 11:28]  Razor: Bandage: 10s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  System: Your strike disarms your target!
+[04/16/2023 11:28]  a gazer larva: -71
+[04/16/2023 11:28]  System: Your strength has changed by -10.  It is now 100
+[04/16/2023 11:28]  System: Your dexterity has changed by -10.  It is now 100
+[04/16/2023 11:28]  System: Your intelligence has changed by -10.  It is now 25
+[04/16/2023 11:28]  Razor: [-Strength (s)]
+[04/16/2023 11:28]  Razor: [-Agility (s)]
+[04/16/2023 11:28]  Razor: [-Cunning (s)]
+[04/16/2023 11:28]  Razor: Str: -10 - 100
+[04/16/2023 11:28]  Razor: Dex: -10 - 100
+[04/16/2023 11:28]  Razor: Int: -10 - 25
+[04/16/2023 11:28]  Razor: Bandage: 9s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  a gazer larva: -155
+[04/16/2023 11:28]  Razor: chug
+[04/16/2023 11:28]  System: Your dexterity has changed by 20.  It is now 120
+[04/16/2023 11:28]  Razor: [+Agility (120s)]
+[04/16/2023 11:28]  Razor: Dex: +20 - 120
+[04/16/2023 11:28]  Razor: Bandage: 8s
+[04/16/2023 11:28]  Razor: [-Agility (s)]
+[04/16/2023 11:28]  Razor: [+Agility (120s)]
+[04/16/2023 11:28]  Razor: chug refresh
+[04/16/2023 11:28]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:28]  Razor: chug
+[04/16/2023 11:28]  Stink Fist: -13
+[04/16/2023 11:28]  System: Your fingers slip!
+[04/16/2023 11:28]  Razor: Divine Fury
+[04/16/2023 11:28]  System: Divine Fury
+[04/16/2023 11:28]  a gazer larva: -90
+[04/16/2023 11:28]  Razor: Bandage: 7s
+[04/16/2023 11:28]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:28]  System: Your strength has changed by 20.  It is now 120
+[04/16/2023 11:28]  Razor: [+Strength (120s)]
+[04/16/2023 11:28]  Razor: Str: +20 - 120
+[04/16/2023 11:28]  Razor: [-Strength (s)]
+[04/16/2023 11:28]  Razor: [+Strength (120s)]
+[04/16/2023 11:28]  System: Finished 3 queued actions in 1.2 seconds.
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  Razor: Bandage: 6s
+[04/16/2023 11:28]  a gazer larva: -140
+[04/16/2023 11:28]  Razor: [-Protection (s)]
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: Bandage: 5s
+[04/16/2023 11:28]  System: You parry the spell.
+[04/16/2023 11:28]  a gazer larva: -65
+[04/16/2023 11:28]  Stink Fist: -2
+[04/16/2023 11:28]  Razor: Bandage: 4s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  a gazer larva: -44
+[04/16/2023 11:28]  Razor: Bandage: 3s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  a gazer larva: -34
+[04/16/2023 11:28]  Razor: Bandage: 2s
+[04/16/2023 11:28]  System: New target set.
+[04/16/2023 11:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:28]  Stink Fist: -5
+[04/16/2023 11:28]  System: Your fingers slip!
+[04/16/2023 11:28]  a gazer larva: -84
+[04/16/2023 11:28]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:28]  Stink Fist: +25
+[04/16/2023 11:28]  System: some damage has been healed : 25
+[04/16/2023 11:28]  System: You have gained some fame.
+[04/16/2023 11:28]  System: -317
+[04/16/2023 11:28]  Razor: Bandage: 1s
+[04/16/2023 11:28]  System: You finish applying the bandages.
+[04/16/2023 11:28]  Stink Fist: +14
+[04/16/2023 11:28]  You see: a gazer larva corpse
+[04/16/2023 11:29]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:29]  System: You carve materials from the corpse.
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  Razor: found no one
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  Razor: found no one
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  Razor: found no one
+[04/16/2023 11:29]  a terathan drone: a terathan drone
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  You see: a blessed codex of parrying
+[04/16/2023 11:29]  You see: (Bulwark and Last Stand)
+[04/16/2023 11:29]  System: You deactivate your stance.
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan drone
+[04/16/2023 11:29]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Attack: a terathan drone
+[04/16/2023 11:29]  a terathan larva: a terathan larva
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  a terathan drone: -47
+[04/16/2023 11:29]  Stink Fist: -2
+[04/16/2023 11:29]  a terathan larva: a terathan larva
+[04/16/2023 11:29]  System: Who will you use the bandages on?
+[04/16/2023 11:29]  System: You begin applying the bandages.
+[04/16/2023 11:29]  Razor: Bandage: 10s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan drone: -97
+[04/16/2023 11:29]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:29]  Stink Fist: -16
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Razor: Bandage: 9s
+[04/16/2023 11:29]  System: Your attack crushes their armor!
+[04/16/2023 11:29]  a terathan drone: -119
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Bandage: 8s
+[04/16/2023 11:29]  a terathan drone: -36
+[04/16/2023 11:29]  Stink Fist: -5
+[04/16/2023 11:29]  System: Your fingers slip!
+[04/16/2023 11:29]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:29]  Razor: Bandage: 7s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  a terathan drone: -91
+[04/16/2023 11:29]  Razor: Bandage: 6s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan drone: -68
+[04/16/2023 11:29]  Razor: Bandage: 5s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  System: Your strike disarms your target!
+[04/16/2023 11:29]  System: Your attack hinders your target!
+[04/16/2023 11:29]  a terathan drone: -198
+[04/16/2023 11:29]  Stink Fist: Bulwark stance activated.
+[04/16/2023 11:29]  Razor: Bandage: 4s
+[04/16/2023 11:29]  System: You deactivate your finisher.
+[04/16/2023 11:29]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:29]  Razor: [DISARM]
+[04/16/2023 11:29]  a terathan drone: -180
+[04/16/2023 11:29]  Razor: Bandage: 3s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:29]  Razor: Bandage: 2s
+[04/16/2023 11:29]  a terathan drone: -75
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Razor: Bandage: 1s
+[04/16/2023 11:29]  System: You finish applying the bandages.
+[04/16/2023 11:29]  Stink Fist: +21
+[04/16/2023 11:29]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2023 11:29]  System: You have gained some fame.
+[04/16/2023 11:29]  System: -89
+[04/16/2023 11:29]  You see: a terathan drone corpse
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan larva
+[04/16/2023 11:29]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:29]  System: You carve materials from the corpse.
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan larva
+[04/16/2023 11:29]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:29]  Razor: Attack: a terathan larva
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan larva: -170
+[04/16/2023 11:29]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Razor: Divine Fury
+[04/16/2023 11:29]  System: Divine Fury
+[04/16/2023 11:29]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:29]  a terathan larva: -53
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan larva: -68
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: Wrestling stance adoption expired.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  a terathan larva: -127
+[04/16/2023 11:29]  Stink Fist: Last Stand finisher activated.
+[04/16/2023 11:29]  a terathan larva: -54
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Stink Fist: -2
+[04/16/2023 11:29]  a terathan larva: -67
+[04/16/2023 11:29]  System: Who will you use the bandages on?
+[04/16/2023 11:29]  System: You begin applying the bandages.
+[04/16/2023 11:29]  Razor: Bandage: 10s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:29]  System: You have gained a little fame.
+[04/16/2023 11:29]  System: -61
+[04/16/2023 11:29]  You see: a terathan larva corpse
+[04/16/2023 11:29]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:29]  System: You carve materials from the corpse.
+[04/16/2023 11:29]  Razor: Bandage: 9s
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  Razor: found no one
+[04/16/2023 11:29]  Razor: Bandage: 7s
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  System: Your magic resist potion has worn off.
+[04/16/2023 11:29]  Razor: Bandage: 6s
+[04/16/2023 11:29]  Razor: [-Magic Resist Potion (s)]
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  Razor: found no one
+[04/16/2023 11:29]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:29]  Razor: Bandage: 5s
+[04/16/2023 11:29]  Razor: Bandage: 4s
+[04/16/2023 11:29]  System: No one matching that was found on your screen.
+[04/16/2023 11:29]  Razor: Bandage: 3s
+[04/16/2023 11:29]  a terathan drone: a terathan drone
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan larva
+[04/16/2023 11:29]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:29]  Razor: Bandage: 2s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Bandage: 1s
+[04/16/2023 11:29]  Razor: Attack: a terathan larva
+[04/16/2023 11:29]  a terathan larva: -75
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: You heal what little damage you had.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  a terathan larva: -50
+[04/16/2023 11:29]  Razor: chug
+[04/16/2023 11:29]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2023 11:29]  Razor: [+Magic Resist Potion (120s)]
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan larva: -61
+[04/16/2023 11:29]  Stink Fist: -1
+[04/16/2023 11:29]  System: Holy symbols remaining: 8/10
+[04/16/2023 11:29]  a terathan larva: -56
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  System: Who will you use the bandages on?
+[04/16/2023 11:29]  System: You begin applying the bandages.
+[04/16/2023 11:29]  Razor: Bandage: 10s
+[04/16/2023 11:29]  a terathan larva: -76
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: Your attack hinders your target!
+[04/16/2023 11:29]  a terathan larva: -90
+[04/16/2023 11:29]  Stink Fist: -11
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan drone
+[04/16/2023 11:29]  Razor: Bandage: 9s
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Razor: Attack: a terathan drone
+[04/16/2023 11:29]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:29]  Razor: [DISARM]
+[04/16/2023 11:29]  System: Your strike disarms your target!
+[04/16/2023 11:29]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:29]  a terathan drone: -200
+[04/16/2023 11:29]  Razor: Bandage: 8s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Stink Fist: -1
+[04/16/2023 11:29]  System: Your attack crushes their armor!
+[04/16/2023 11:29]  a terathan drone: -120
+[04/16/2023 11:29]  Razor: Bandage: 7s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan drone: -70
+[04/16/2023 11:29]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:29]  Razor: Bandage: 6s
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Razor: Bandage: 5s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  a terathan drone: -154
+[04/16/2023 11:29]  Stink Fist: -2
+[04/16/2023 11:29]  Razor: Bandage: 4s
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  System: Your attack hinders your target!
+[04/16/2023 11:29]  a terathan drone: -134
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  Razor: Bandage: 3s
+[04/16/2023 11:29]  System: You have gained some fame.
+[04/16/2023 11:29]  System: -322
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan larva
+[04/16/2023 11:29]  You see: a terathan drone corpse
+[04/16/2023 11:29]  Razor: Attack: a terathan larva
+[04/16/2023 11:29]  Razor: Bandage: 2s
+[04/16/2023 11:29]  Stink Fist: -1
+[04/16/2023 11:29]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:29]  a terathan larva: -55
+[04/16/2023 11:29]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:29]  System: You finish applying the bandages.
+[04/16/2023 11:29]  Stink Fist: +14
+[04/16/2023 11:29]  System: New target set.
+[04/16/2023 11:29]  Razor: Target: a terathan larva
+[04/16/2023 11:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:29]  a terathan larva: -77
+[04/16/2023 11:29]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:29]  Stink Fist: +0
+[04/16/2023 11:29]  System: You have gained a little fame.
+[04/16/2023 11:29]  System: -60
+[04/16/2023 11:29]  You see: a terathan larva corpse
+[04/16/2023 11:29]  Razor: Divine Fury
+[04/16/2023 11:29]  System: Divine Fury
+[04/16/2023 11:29]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: Target: Stink Fist
+[04/16/2023 11:30]  System: You carve materials from the corpse.
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: found no one
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:30]  System: You carve materials from the corpse.
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: found no one
+[04/16/2023 11:30]  Razor: Target: Stink Fist
+[04/16/2023 11:30]  System: You dont see anything nearby worth carving or investigating.
+[04/16/2023 11:30]  System: What do you wish to carve, investigate, or research? [3]
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: found no one
+[04/16/2023 11:30]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: found no one
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: found no one
+[04/16/2023 11:30]  You see: a terathan larva corpse
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  a terathan warrior: a terathan warrior
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: found no one
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: Target: a terathan warrior
+[04/16/2023 11:30]  You see: a terathan larva corpse
+[04/16/2023 11:30]  a terathan warrior: a terathan warrior
+[04/16/2023 11:30]  System: Holy symbols remaining: 8/10
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:30]  Razor: Attack: a terathan warrior
+[04/16/2023 11:30]  a terathan warrior: -46
+[04/16/2023 11:30]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -92
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  System: Your strike disarms your target!
+[04/16/2023 11:30]  a terathan warrior: -56
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:30]  Razor: [DISARM]
+[04/16/2023 11:30]  a terathan warrior: -11
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:30]  a terathan warrior: -130
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -72
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -75
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -11
+[04/16/2023 11:30]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:30]  a terathan warrior: -88
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -88
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -11
+[04/16/2023 11:30]  a terathan warrior: -62
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -44
+[04/16/2023 11:30]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -66
+[04/16/2023 11:30]  a terathan warrior: -11
+[04/16/2023 11:30]  Razor: Divine Fury
+[04/16/2023 11:30]  System: Divine Fury
+[04/16/2023 11:30]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:30]  Stink Fist: -4
+[04/16/2023 11:30]  System: Who will you use the bandages on?
+[04/16/2023 11:30]  System: You begin applying the bandages.
+[04/16/2023 11:30]  Razor: Bandage: 10s
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -81
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -37
+[04/16/2023 11:30]  Razor: Bandage: 9s
+[04/16/2023 11:30]  a terathan warrior: -9
+[04/16/2023 11:30]  Razor: Bandage: 8s
+[04/16/2023 11:30]  a terathan warrior: -66
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  Razor: Bandage: 7s
+[04/16/2023 11:30]  a terathan warrior: -68
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: Bandage: 6s
+[04/16/2023 11:30]  a terathan warrior: -28
+[04/16/2023 11:30]  Stink Fist: -31
+[04/16/2023 11:30]  System: Your fingers slip!
+[04/16/2023 11:30]  System: Doomgirl has completed the achievement: Hardened Veteran.
+[04/16/2023 11:30]  Razor: Bandage: 5s
+[04/16/2023 11:30]  a terathan warrior: -40
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  Razor: Bandage: 4s
+[04/16/2023 11:30]  a terathan warrior: -39
+[04/16/2023 11:30]  Razor: Bandage: 3s
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -34
+[04/16/2023 11:30]  Razor: Bandage: 2s
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -90
+[04/16/2023 11:30]  Razor: Bandage: 1s
+[04/16/2023 11:30]  System: You finish applying the bandages.
+[04/16/2023 11:30]  Stink Fist: +33
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -70
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:30]  a terathan warrior: -88
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  System: Your attack hinders your target!
+[04/16/2023 11:30]  a terathan warrior: -96
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -67
+[04/16/2023 11:30]  System: Holy symbols remaining: 8/10
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -57
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  a terathan warrior: -75
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: chug
+[04/16/2023 11:30]  System: You must wait 1 second before you may use another agility potion.
+[04/16/2023 11:30]  a terathan warrior: -52
+[04/16/2023 11:30]  System: You may now use an agility potion.
+[04/16/2023 11:30]  System: Your dexterity has changed by -20.  It is now 100
+[04/16/2023 11:30]  Razor: [-Agility (s)]
+[04/16/2023 11:30]  Razor: Dex: -20 - 100
+[04/16/2023 11:30]  Stink Fist: -15
+[04/16/2023 11:30]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:30]  Razor: [DISARM]
+[04/16/2023 11:30]  System: Who will you use the bandages on?
+[04/16/2023 11:30]  System: You begin applying the bandages.
+[04/16/2023 11:30]  Razor: Bandage: 10s
+[04/16/2023 11:30]  System: Your strike disarms your target!
+[04/16/2023 11:30]  a terathan warrior: -28
+[04/16/2023 11:30]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  System: You may now use a strength potion.
+[04/16/2023 11:30]  System: Your strength has changed by -20.  It is now 100
+[04/16/2023 11:30]  Razor: [-Strength (s)]
+[04/16/2023 11:30]  Razor: Str: -20 - 100
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  Stink Fist: -27
+[04/16/2023 11:30]  System: Your fingers slip!
+[04/16/2023 11:30]  Razor: chug
+[04/16/2023 11:30]  System: Your dexterity has changed by 20.  It is now 120
+[04/16/2023 11:30]  Razor: [+Agility (120s)]
+[04/16/2023 11:30]  Razor: Dex: +20 - 120
+[04/16/2023 11:30]  Razor: Bandage: 9s
+[04/16/2023 11:30]  Razor: [-Agility (s)]
+[04/16/2023 11:30]  Razor: [+Agility (120s)]
+[04/16/2023 11:30]  Razor: chug refresh
+[04/16/2023 11:30]  Razor: chug
+[04/16/2023 11:30]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2023 11:30]  a terathan warrior: -166
+[04/16/2023 11:30]  System: Your strength has changed by 20.  It is now 120
+[04/16/2023 11:30]  Razor: [+Strength (120s)]
+[04/16/2023 11:30]  Razor: Str: +20 - 120
+[04/16/2023 11:30]  Razor: Bandage: 8s
+[04/16/2023 11:30]  Razor: [-Strength (s)]
+[04/16/2023 11:30]  Razor: [+Strength (120s)]
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  a terathan warrior: -42
+[04/16/2023 11:30]  System: Finished 3 queued actions in 1.2 seconds.
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  Stink Fist: -7
+[04/16/2023 11:30]  a terathan warrior: -8
+[04/16/2023 11:30]  Razor: Bandage: 7s
+[04/16/2023 11:30]  System: Your attack crushes their armor!
+[04/16/2023 11:30]  a terathan warrior: -128
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:30]  Razor: Bandage: 6s
+[04/16/2023 11:30]  System: You smash through the remainder of their armor, dealing grevious damage!
+[04/16/2023 11:30]  a terathan warrior: -234
+[04/16/2023 11:30]  System: New target set.
+[04/16/2023 11:30]  Razor: Bandage: 5s
+[04/16/2023 11:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:30]  System: You have gained a good amount of fame.
+[04/16/2023 11:30]  System: -34
+[04/16/2023 11:30]  You see: a terathan warrior corpse
+[04/16/2023 11:30]  Razor: Bandage: 4s
+[04/16/2023 11:30]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:30]  System: You carve materials from the corpse.
+[04/16/2023 11:30]  System: No one matching that was found on your screen.
+[04/16/2023 11:30]  Razor: Bandage: 3s
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  Razor: Bandage: 2s
+[04/16/2023 11:31]  Razor: Bandage: 1s
+[04/16/2023 11:31]  System: You finish applying the bandages.
+[04/16/2023 11:31]  Stink Fist: +52
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Target: a terathan warrior
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Attack: a terathan warrior
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:31]  a terathan warrior: -46
+[04/16/2023 11:31]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Divine Fury
+[04/16/2023 11:31]  System: Divine Fury
+[04/16/2023 11:31]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:31]  a terathan warrior: -64
+[04/16/2023 11:31]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -9
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: Your attack hinders your target!
+[04/16/2023 11:31]  a terathan warrior: -131
+[04/16/2023 11:31]  a terathan warrior: -185
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -9
+[04/16/2023 11:31]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2023 11:31]  a terathan warrior: -147
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  a terathan warrior: -57
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  a terathan warrior: -178
+[04/16/2023 11:31]  a terathan warrior: -9
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: Your strike disarms your target!
+[04/16/2023 11:31]  a terathan warrior: -78
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:31]  Razor: [DISARM]
+[04/16/2023 11:31]  Stink Fist: -31
+[04/16/2023 11:31]  System: Who will you use the bandages on?
+[04/16/2023 11:31]  System: You begin applying the bandages.
+[04/16/2023 11:31]  Razor: Bandage: 10s
+[04/16/2023 11:31]  a terathan warrior: -165
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  a terathan warrior: -11
+[04/16/2023 11:31]  a terathan warrior: -84
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Bandage: 9s
+[04/16/2023 11:31]  Stink Fist: -11
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  Razor: Bandage: 8s
+[04/16/2023 11:31]  a terathan warrior: -85
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Bandage: 7s
+[04/16/2023 11:31]  a terathan warrior: -59
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  a terathan warrior: -11
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  Razor: Bandage: 6s
+[04/16/2023 11:31]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:31]  a terathan warrior: -146
+[04/16/2023 11:31]  Stink Fist: -15
+[04/16/2023 11:31]  System: Your fingers slip!
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Bandage: 5s
+[04/16/2023 11:31]  a terathan warrior: -60
+[04/16/2023 11:31]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Bandage: 4s
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -51
+[04/16/2023 11:31]  Stink Fist: -35
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Bandage: 3s
+[04/16/2023 11:31]  Razor: chug heal
+[04/16/2023 11:31]  Stink Fist: +35
+[04/16/2023 11:31]  System: some damage has been healed : 35
+[04/16/2023 11:31]  a terathan warrior: -110
+[04/16/2023 11:31]  Razor: Bandage: 2s
+[04/16/2023 11:31]  a terathan warrior: -12
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  Razor: Bandage: 1s
+[04/16/2023 11:31]  a terathan warrior: -90
+[04/16/2023 11:31]  System: You finish applying the bandages.
+[04/16/2023 11:31]  Stink Fist: +43
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  a terathan warrior: -19
+[04/16/2023 11:31]  System: Who will you use the bandages on?
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: You begin applying the bandages.
+[04/16/2023 11:31]  Razor: Bandage: 10s
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -40
+[04/16/2023 11:31]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:31]  Stink Fist: +11
+[04/16/2023 11:31]  System: some damage has been healed : 11
+[04/16/2023 11:31]  a terathan warrior: -106
+[04/16/2023 11:31]  a terathan warrior: -12
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: Bandage: 9s
+[04/16/2023 11:31]  Stink Fist: -8
+[04/16/2023 11:31]  a terathan warrior: -130
+[04/16/2023 11:31]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:31]  Razor: Bandage: 8s
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -48
+[04/16/2023 11:31]  Razor: Bandage: 7s
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  a terathan warrior: -12
+[04/16/2023 11:31]  Stink Fist: -35
+[04/16/2023 11:31]  System: Your fingers slip!
+[04/16/2023 11:31]  Razor: Bandage: 6s
+[04/16/2023 11:31]  a terathan warrior: -60
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -26
+[04/16/2023 11:31]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:31]  Razor: Bandage: 5s
+[04/16/2023 11:31]  a terathan warrior: -75
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  Stink Fist: -2
+[04/16/2023 11:31]  Razor: Bandage: 4s
+[04/16/2023 11:31]  System: Your attack hinders your target!
+[04/16/2023 11:31]  a terathan warrior: -88
+[04/16/2023 11:31]  a terathan warrior: -12
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: Kay Fey has completed the achievement: Summoning (Basic).
+[04/16/2023 11:31]  Razor: Bandage: 3s
+[04/16/2023 11:31]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:31]  a terathan warrior: -42
+[04/16/2023 11:31]  a terathan warrior: -26
+[04/16/2023 11:31]  Razor: Bandage: 2s
+[04/16/2023 11:31]  System: New target set.
+[04/16/2023 11:31]  System: You have gained a good amount of fame.
+[04/16/2023 11:31]  System: -7
+[04/16/2023 11:31]  You see: a terathan warrior corpse
+[04/16/2023 11:31]  Razor: Bandage: 1s
+[04/16/2023 11:31]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:31]  System: You carve materials from the corpse.
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  System: Your magic resist potion has worn off.
+[04/16/2023 11:31]  Razor: [-Magic Resist Potion (s)]
+[04/16/2023 11:31]  System: You finish applying the bandages.
+[04/16/2023 11:31]  Stink Fist: +43
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  a terathan larva: a terathan larva
+[04/16/2023 11:31]  a terathan larva: a terathan larva
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:31]  Razor: [DISARM]
+[04/16/2023 11:31]  You see: a terathan larva corpse
+[04/16/2023 11:31]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  You see: a terathan drone corpse
+[04/16/2023 11:31]  You see: a terathan larva corpse
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  a terathan larva: a terathan larva
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  You see: a terathan larva corpse
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:31]  Razor: found no one
+[04/16/2023 11:31]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:31]  You see: a terathan larva corpse
+[04/16/2023 11:31]  You see: a terathan drone corpse
+[04/16/2023 11:31]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  Razor: found no one
+[04/16/2023 11:32]  You see: a monitor corpse
+[04/16/2023 11:32]  You see: a monitor hatchling corpse
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  Razor: found no one
+[04/16/2023 11:32]  System: Lost in Time (LT) guild has reached prestige level 307.
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a monitor hatchling
+[04/16/2023 11:32]  You see: a gazer larva corpse
+[04/16/2023 11:32]  a monitor hatchling: a monitor hatchling
+[04/16/2023 11:32]  You see: a monitor hatchling corpse
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:32]  Razor: Attack: a monitor hatchling
+[04/16/2023 11:32]  System: Your strike disarms your target!
+[04/16/2023 11:32]  a monitor hatchling: -49
+[04/16/2023 11:32]  Stink Fist: -9
+[04/16/2023 11:32]  a cave bear: a cave bear
+[04/16/2023 11:32]  System: Who will you use the bandages on?
+[04/16/2023 11:32]  System: You begin applying the bandages.
+[04/16/2023 11:32]  Razor: Bandage: 10s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  Razor: Divine Fury
+[04/16/2023 11:32]  System: Divine Fury
+[04/16/2023 11:32]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Bandage: 9s
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  a terathan larva: a terathan larva
+[04/16/2023 11:32]  You see: a cave bear corpse
+[04/16/2023 11:32]  a corpse eater: a corpse eater
+[04/16/2023 11:32]  a terathan larva: a terathan larva
+[04/16/2023 11:32]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:32]  Razor: Bandage: 8s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a monitor hatchling: -202
+[04/16/2023 11:32]  Razor: Bandage: 7s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  System: Your attack crushes their armor!
+[04/16/2023 11:32]  a monitor hatchling: -275
+[04/16/2023 11:32]  Razor: Bandage: 6s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a monitor hatchling: -90
+[04/16/2023 11:32]  Razor: Bandage: 5s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a monitor hatchling
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Attack: a monitor hatchling
+[04/16/2023 11:32]  a monitor hatchling: -46
+[04/16/2023 11:32]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:32]  Razor: Bandage: 4s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Bandage: 3s
+[04/16/2023 11:32]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:32]  a monitor hatchling: -108
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Bandage: 2s
+[04/16/2023 11:32]  a monitor hatchling: -63
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a monitor hatchling: -9
+[04/16/2023 11:32]  Razor: Bandage: 1s
+[04/16/2023 11:32]  Stink Fist: -2
+[04/16/2023 11:32]  System: You finish applying the bandages.
+[04/16/2023 11:32]  Stink Fist: +9
+[04/16/2023 11:32]  System: Your attack crushes their armor!
+[04/16/2023 11:32]  a monitor hatchling: -90
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  System: Your attack hinders your target!
+[04/16/2023 11:32]  a monitor hatchling: -131
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: Holy symbols remaining: 7/10
+[04/16/2023 11:32]  a monitor hatchling: -13
+[04/16/2023 11:32]  a monitor hatchling: -131
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a monitor hatchling: -9
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:32]  a monitor hatchling: -68
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:32]  a monitor hatchling: -110
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  a monitor hatchling: -13
+[04/16/2023 11:32]  a monitor hatchling: -9
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[04/16/2023 11:32]  System: You have gained a little fame.
+[04/16/2023 11:32]  System: -200
+[04/16/2023 11:32]  You see: a monitor hatchling corpse
+[04/16/2023 11:32]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:32]  System: You carve materials from the corpse.
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a monitor hatchling
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Attack: a monitor hatchling
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a monitor hatchling: -72
+[04/16/2023 11:32]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  a monitor hatchling: -44
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a monitor hatchling: -46
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  a monitor hatchling: -60
+[04/16/2023 11:32]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:32]  Stink Fist: +0
+[04/16/2023 11:32]  a monitor hatchling: -155
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Stink Fist: -2
+[04/16/2023 11:32]  System: They bite down on your armor, temporarily reducing its effectiveness!
+[04/16/2023 11:32]  System: Who will you use the bandages on?
+[04/16/2023 11:32]  System: You begin applying the bandages.
+[04/16/2023 11:32]  Razor: Bandage: 10s
+[04/16/2023 11:32]  System: You have gained a little fame.
+[04/16/2023 11:32]  System: -7
+[04/16/2023 11:32]  You see: a monitor hatchling corpse
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  Razor: found no one
+[04/16/2023 11:32]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:32]  Razor: Bandage: 9s
+[04/16/2023 11:32]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:32]  System: You carve materials from the corpse.
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  Razor: Bandage: 8s
+[04/16/2023 11:32]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  Razor: Bandage: 7s
+[04/16/2023 11:32]  Razor: found no one
+[04/16/2023 11:32]  a terathan larva: a terathan larva
+[04/16/2023 11:32]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:32]  a terathan larva: a terathan larva
+[04/16/2023 11:32]  You see: a corpse eater corpse
+[04/16/2023 11:32]  System: No one matching that was found on your screen.
+[04/16/2023 11:32]  You see: a cave bear corpse
+[04/16/2023 11:32]  Razor: Bandage: 6s
+[04/16/2023 11:32]  a cave bear: a cave bear
+[04/16/2023 11:32]  a gazer larva: a gazer larva
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a terathan larva
+[04/16/2023 11:32]  You see: a gazer larva corpse
+[04/16/2023 11:32]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:32]  Razor: Attack: a terathan larva
+[04/16/2023 11:32]  Razor: Bandage: 5s
+[04/16/2023 11:32]  a terathan larva: a terathan larva
+[04/16/2023 11:32]  a terathan larva: a terathan larva
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a terathan larva
+[04/16/2023 11:32]  Razor: Bandage: 4s
+[04/16/2023 11:32]  Razor: Attack: a terathan larva
+[04/16/2023 11:32]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:32]  Razor: [DISARM]
+[04/16/2023 11:32]  Razor: Bandage: 3s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:32]  Razor: Bandage: 2s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a cave bear: a cave bear
+[04/16/2023 11:32]  Razor: Bandage: 1s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a terathan larva
+[04/16/2023 11:32]  Stink Fist: -3
+[04/16/2023 11:32]  System: Your fingers slip!
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Attack: a terathan larva
+[04/16/2023 11:32]  System: Your strike disarms your target!
+[04/16/2023 11:32]  a terathan larva: -119
+[04/16/2023 11:32]  System: You finish applying the bandages.
+[04/16/2023 11:32]  Stink Fist: +3
+[04/16/2023 11:32]  Razor: Divine Fury
+[04/16/2023 11:32]  System: Divine Fury
+[04/16/2023 11:32]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a skeletal marksman: a skeletal marksman
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:32]  a terathan larva: -195
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: You smash through the remainder of their armor, dealing grevious damage!
+[04/16/2023 11:32]  a terathan larva: -192
+[04/16/2023 11:32]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:32]  Stink Fist: +0
+[04/16/2023 11:32]  System: You have gained a little fame.
+[04/16/2023 11:32]  System: -94
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:32]  System: You carve materials from the corpse.
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a terathan larva
+[04/16/2023 11:32]  System: Your armor is no longer pierced.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Attack: a terathan larva
+[04/16/2023 11:32]  a terathan larva: -65
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a terathan larva: -64
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  a terathan larva: -40
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:32]  System: Your attack hinders your target!
+[04/16/2023 11:32]  a terathan larva: -120
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  a terathan larva: -128
+[04/16/2023 11:32]  Stink Fist: -4
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Stink Fist: -3
+[04/16/2023 11:32]  System: Who will you use the bandages on?
+[04/16/2023 11:32]  a terathan larva: -56
+[04/16/2023 11:32]  System: You begin applying the bandages.
+[04/16/2023 11:32]  Razor: Bandage: 10s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  a terathan larva: -122
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Bandage: 9s
+[04/16/2023 11:32]  Razor: chug
+[04/16/2023 11:32]  System: You must wait 1 second before you may use another agility potion.
+[04/16/2023 11:32]  System: You may now use an agility potion.
+[04/16/2023 11:32]  System: Your dexterity has changed by -20.  It is now 100
+[04/16/2023 11:32]  Razor: [-Agility (s)]
+[04/16/2023 11:32]  Razor: Dex: -20 - 100
+[04/16/2023 11:32]  System: You have gained a little fame.
+[04/16/2023 11:32]  System: -5
+[04/16/2023 11:32]  You see: a terathan larva corpse
+[04/16/2023 11:32]  Razor: Bandage: 8s
+[04/16/2023 11:32]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:32]  System: You carve materials from the corpse.
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Razor: Target: a terathan larva
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Attack: a terathan larva
+[04/16/2023 11:32]  System: You may now use a strength potion.
+[04/16/2023 11:32]  System: Your strength has changed by -20.  It is now 100
+[04/16/2023 11:32]  Razor: [-Strength (s)]
+[04/16/2023 11:32]  Razor: Str: -20 - 100
+[04/16/2023 11:32]  Razor: Bandage: 7s
+[04/16/2023 11:32]  Razor: chug
+[04/16/2023 11:32]  a terathan larva: -46
+[04/16/2023 11:32]  System: Your dexterity has changed by 20.  It is now 120
+[04/16/2023 11:32]  Razor: [+Agility (120s)]
+[04/16/2023 11:32]  Razor: Dex: +20 - 120
+[04/16/2023 11:32]  Razor: [-Agility (s)]
+[04/16/2023 11:32]  Razor: [+Agility (120s)]
+[04/16/2023 11:32]  Razor: chug refresh
+[04/16/2023 11:32]  Razor: chug
+[04/16/2023 11:32]  System: You must wait to perform another action.
+[04/16/2023 11:32]  Razor: Bandage: 6s
+[04/16/2023 11:32]  a terathan larva: -93
+[04/16/2023 11:32]  System: Your strength has changed by 20.  It is now 120
+[04/16/2023 11:32]  Razor: [+Strength (120s)]
+[04/16/2023 11:32]  Razor: Str: +20 - 120
+[04/16/2023 11:32]  Razor: [-Strength (s)]
+[04/16/2023 11:32]  Razor: [+Strength (120s)]
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: Finished 3 queued actions in 1.2 seconds.
+[04/16/2023 11:32]  Razor: Bandage: 5s
+[04/16/2023 11:32]  a terathan larva: -40
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  Stink Fist: -3
+[04/16/2023 11:32]  System: Your fingers slip!
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Bandage: 4s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:32]  Razor: Bandage: 3s
+[04/16/2023 11:32]  System: New target set.
+[04/16/2023 11:32]  a terathan larva: -51
+[04/16/2023 11:32]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:32]  Razor: Bandage: 2s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a terathan larva: -51
+[04/16/2023 11:33]  Stink Fist: -3
+[04/16/2023 11:33]  Razor: Bandage: 1s
+[04/16/2023 11:33]  System: Your fingers slip!
+[04/16/2023 11:33]  System: You finish applying the bandages.
+[04/16/2023 11:33]  Stink Fist: +25
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  a terathan larva: -72
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a terathan larva: -41
+[04/16/2023 11:33]  a terathan larva: -24
+[04/16/2023 11:33]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:33]  Stink Fist: +0
+[04/16/2023 11:33]  a terathan larva: -75
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  a terathan larva: -48
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:33]  a terathan larva: -48
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  Stink Fist: -5
+[04/16/2023 11:33]  System: Who will you use the bandages on?
+[04/16/2023 11:33]  System: You begin applying the bandages.
+[04/16/2023 11:33]  Razor: Bandage: 10s
+[04/16/2023 11:33]  System: You have gained a little fame.
+[04/16/2023 11:33]  System: -11
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Target: a terathan larva
+[04/16/2023 11:33]  You see: a terathan larva corpse
+[04/16/2023 11:33]  System: You must wait to perform another action.
+[04/16/2023 11:33]  Razor: Attack: a terathan larva
+[04/16/2023 11:33]  Razor: Bandage: 9s
+[04/16/2023 11:33]  a terathan larva: -108
+[04/16/2023 11:33]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:33]  System: You carve materials from the corpse.
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Target: a terathan larva
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  Razor: Bandage: 8s
+[04/16/2023 11:33]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:33]  a terathan larva: -252
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Stink Fist: -4
+[04/16/2023 11:33]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:33]  Razor: [DISARM]
+[04/16/2023 11:33]  Razor: Bandage: 7s
+[04/16/2023 11:33]  System: Your strike disarms your target!
+[04/16/2023 11:33]  a terathan larva: -79
+[04/16/2023 11:33]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:33]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:33]  Stink Fist: +8
+[04/16/2023 11:33]  System: some damage has been healed : 8
+[04/16/2023 11:33]  System: You have gained a little fame.
+[04/16/2023 11:33]  System: -161
+[04/16/2023 11:33]  You see: a terathan larva corpse
+[04/16/2023 11:33]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Target: a cave bear
+[04/16/2023 11:33]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:33]  Razor: Bandage: 6s
+[04/16/2023 11:33]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:33]  a cave bear: a cave bear
+[04/16/2023 11:33]  Razor: Bandage: 5s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Target: a cave bear
+[04/16/2023 11:33]  System: That is too far away.
+[04/16/2023 11:33]  Razor: Bandage: 4s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Target: a cave bear
+[04/16/2023 11:33]  Razor: Bandage: 3s
+[04/16/2023 11:33]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Bandage: 2s
+[04/16/2023 11:33]  System: What do you wish to carve, investigate, or research? [2]
+[04/16/2023 11:33]  Razor: Attack: a cave bear
+[04/16/2023 11:33]  Razor: Bandage: 1s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -67
+[04/16/2023 11:33]  Stink Fist: -4
+[04/16/2023 11:33]  System: Your fingers slip!
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  System: You finish applying the bandages.
+[04/16/2023 11:33]  Stink Fist: +4
+[04/16/2023 11:33]  Razor: Divine Fury
+[04/16/2023 11:33]  System: Divine Fury
+[04/16/2023 11:33]  System: Holy symbols remaining: 6/10
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:33]  a cave bear: -46
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -85
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  System: Your attack hinders your target!
+[04/16/2023 11:33]  a cave bear: -98
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -64
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -88
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -180
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -76
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -68
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -100
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Stink Fist: -8
+[04/16/2023 11:33]  System: Who will you use the bandages on?
+[04/16/2023 11:33]  System: You begin applying the bandages.
+[04/16/2023 11:33]  Razor: Bandage: 10s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  a cave bear: -60
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  a cave bear: -67
+[04/16/2023 11:33]  Razor: Bandage: 9s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  Razor: Bandage: 8s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Bandage: 7s
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  Razor: Bandage: 6s
+[04/16/2023 11:33]  a cave bear: -58
+[04/16/2023 11:33]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Bandage: 5s
+[04/16/2023 11:33]  Stink Fist: -2
+[04/16/2023 11:33]  System: Your fingers slip!
+[04/16/2023 11:33]  a cave bear: -100
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:33]  Razor: Bandage: 3s
+[04/16/2023 11:33]  a cave bear: -92
+[04/16/2023 11:33]  System: New target set.
+[04/16/2023 11:33]  Razor: Bandage: 2s
+[04/16/2023 11:33]  System: You have gained some fame.
+[04/16/2023 11:33]  System: -1
+[04/16/2023 11:33]  You see: a cave bear corpse
+[04/16/2023 11:33]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:33]  System: You carve materials from the corpse.
+[04/16/2023 11:33]  Razor: Bandage: 1s
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  System: You finish applying the bandages.
+[04/16/2023 11:33]  Stink Fist: +8
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:33]  Razor: [DISARM]
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  System: You are now under the protection of the town guards.
+[04/16/2023 11:33]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[04/16/2023 11:33]  Razor: [+Hidden/Stealthing (0s)]
+[04/16/2023 11:33]  Stink Fist: Your mount returns.
+[04/16/2023 11:33]  Slevin: Slevin the scribe
+[04/16/2023 11:33]  Kelli: Kelli the mage
+[04/16/2023 11:33]  Shani: Shani the mage
+[04/16/2023 11:33]  Mae: Mae the herbalist
+[04/16/2023 11:33]  Ines: Ines the alchemist
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: [-Hidden/Stealthing (s)]
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Leiko: Leiko the tinker
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  an andarian mage: an andarian mage
+[04/16/2023 11:33]  Killian: Killian the jeweler
+[04/16/2023 11:33]  Stoyan: Stoyan the tinker
+[04/16/2023 11:33]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:33]  a cat: a cat
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  System: Opening door...
+[04/16/2023 11:33]  System: No one matching that was found on your screen.
+[04/16/2023 11:33]  Piano Man: [The Tavern], [tT]
+[04/16/2023 11:33]  Piano Man: Piano Man
+[04/16/2023 11:33]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  Killian: Killian the jeweler
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  Leiko: Leiko the tinker
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  an andarian mage: an andarian mage
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Shani: Shani the mage
+[04/16/2023 11:34]  Kelli: Kelli the mage
+[04/16/2023 11:34]  Slevin: Slevin the scribe
+[04/16/2023 11:34]  Mae: Mae the herbalist
+[04/16/2023 11:34]  Ines: Ines the alchemist
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: Your skill in Tactics has decreased by 14.0.  It is now 100.0.
+[04/16/2023 11:34]  Stink Fist: Kal Ort Por [Recall]
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: You have left the protection of the town guards.
+[04/16/2023 11:34]  Rane: Rane the dockmaster
+[04/16/2023 11:34]  a gargoyle: a gargoyle
+[04/16/2023 11:34]  an eagle: an eagle
+[04/16/2023 11:34]  an ogre: an ogre
+[04/16/2023 11:34]  a cougar: a cougar
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: Opening door...
+[04/16/2023 11:34]  System: Your house and its contents have been refreshed. 19 days 22 hours 25 minutes remaining until owner refresh required.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor: found no one
+[04/16/2023 11:34]  System: No one matching that was found on your screen.
+[04/16/2023 11:34]  Razor:  Scanning for rat 
+[04/16/2023 11:34]  System: Where will you search?
+[04/16/2023 11:34]  System: You search the home and find no one hiding within.
+[04/16/2023 11:34]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[04/16/2023 11:34]  Rane: Rane the dockmaster
+[04/16/2023 11:34]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[04/16/2023 11:34]  System: 18 items were added.
+[04/16/2023 11:34]  System: Finished 3 queued actions in 1.2 seconds.
+[04/16/2023 11:34]  Razor: Ignoring surpassingly accurate earth aspect martial manual
+[04/16/2023 11:34]  System: Resupply complete.
+[04/16/2023 11:34]  System: Set Grab Item HotBag
+[04/16/2023 11:34]  System: Grab Item HotBag Set
+[04/16/2023 11:34]  System: The Minoc Syndicate (Syn) guild has reached prestige level 1981.
+[04/16/2023 11:34]  Razor: Organize Open Pouches
+[04/16/2023 11:34]  System: You must wait to perform another action.
+[04/16/2023 11:34]  System: Finished 2 queued actions in 0.6 seconds.
+[04/16/2023 11:34]  Razor: Organize Trapped Pouches
+[04/16/2023 11:34]  Razor: Organize Trapped Pouches
+[04/16/2023 11:34]  Razor: Organize Trapped Pouches
+[04/16/2023 11:34]  Razor: Organize Trapped Pouches
+[04/16/2023 11:34]  Razor: Organize Trapped Pouches
+[04/16/2023 11:34]  Razor: Organize Orange Potions
+[04/16/2023 11:34]  Razor: Organize Red Potions
+[04/16/2023 11:34]  Razor: Organize Yellow Potions
+[04/16/2023 11:34]  Razor: Organize White Potions
+[04/16/2023 11:34]  Razor: Organize Blue Potions
+[04/16/2023 11:34]  Razor: Organize Aids
+[04/16/2023 11:34]  Razor: Organize Rope
+[04/16/2023 11:34]  Razor: Open Untrapped Pouches
+[04/16/2023 11:34]  System: You may now use an agility potion.
+[04/16/2023 11:34]  System: Your dexterity has changed by -20.  It is now 100
+[04/16/2023 11:34]  Razor: [-Agility (s)]
+[04/16/2023 11:34]  Razor: Dex: -20 - 100
+[04/16/2023 11:34]  Razor: Out of scrolls!
+[04/16/2023 11:34]  Razor: Out of scrolls!
+[04/16/2023 11:34]  System: You may now use a strength potion.
+[04/16/2023 11:34]  System: Your strength has changed by -20.  It is now 100
+[04/16/2023 11:34]  Razor: [-Strength (s)]
+[04/16/2023 11:34]  Razor: Str: -20 - 100
+[04/16/2023 11:35]  System: Your skill in Tactics has increased by 14.0.  It is now 114.0.
+[04/16/2023 11:35]  a gargoyle: a gargoyle
+[04/16/2023 11:35]  System: You pour some of the keg's contents into an empty bottle...
+[04/16/2023 11:35]  System: ...and place it into your backpack.
+[04/16/2023 11:35]  System: Wisdom. has completed the achievement: Skill Proficiency (Advanced).
+[04/16/2023 11:35]  System: ...and place it into your backpack. [2]
+[04/16/2023 11:35]  System: You pour some of the keg's contents into an empty bottle... [4]
+[04/16/2023 11:35]  System: ...and place it into your backpack. [2]
+[04/16/2023 11:35]  Rane: Rane the dockmaster
+[04/16/2023 11:36]  Wulf of Wyrd: Wulf of Wyrd
+[04/16/2023 11:36]  Wulf of Wyrd: Rel Sanct [Bless]
+[04/16/2023 11:36]  System: Your strength has changed by 10.  It is now 110
+[04/16/2023 11:36]  System: Your dexterity has changed by 10.  It is now 110
+[04/16/2023 11:36]  System: Your intelligence has changed by 10.  It is now 35
+[04/16/2023 11:36]  Razor: [+Strength (600s)]
+[04/16/2023 11:36]  Razor: Str: +10 - 110
+[04/16/2023 11:36]  Razor: [-Strength (s)]
+[04/16/2023 11:36]  Razor: [+Strength (600s)]
+[04/16/2023 11:36]  Razor: [+Agility (600s)]
+[04/16/2023 11:36]  Razor: Dex: +10 - 110
+[04/16/2023 11:36]  Razor: [-Agility (s)]
+[04/16/2023 11:36]  Razor: [+Agility (600s)]
+[04/16/2023 11:36]  Razor: [+Cunning (600s)]
+[04/16/2023 11:36]  Razor: Int: +10 - 35
+[04/16/2023 11:36]  Razor: [-Cunning (s)]
+[04/16/2023 11:36]  Razor: [+Cunning (600s)]
+[04/16/2023 11:36]  System: Wex has completed the achievement: Order of Armorers Associate.
+[04/16/2023 11:36]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[04/16/2023 11:36]  Razor: [+Protection (600s)]
+[04/16/2023 11:36]  a gargoyle: a gargoyle
+[04/16/2023 11:36]  System: Opening door...
+[04/16/2023 11:36]  System: Your house and its contents have been refreshed. 19 days 22 hours 23 minutes remaining until owner refresh required.
+[04/16/2023 11:36]  a cougar: a cougar
+[04/16/2023 11:36]  an ogre: an ogre
+[04/16/2023 11:36]  System: No one matching that was found on your screen.
+[04/16/2023 11:36]  Razor: found no one
+[04/16/2023 11:36]  System: Who will you use the bandages on?
+[04/16/2023 11:36]  System: You begin applying the bandages.
+[04/16/2023 11:36]  Razor: Bandage: 10s
+[04/16/2023 11:36]  Rane: Rane the dockmaster
+[04/16/2023 11:36]  Riodan: Riodan the barkeeper
+[04/16/2023 11:36]  a great hart: a great hart
+[04/16/2023 11:36]  a hind: a hind
+[04/16/2023 11:36]  Razor: Bandage: 9s
+[04/16/2023 11:36]  System: New target set.
+[04/16/2023 11:36]  Razor: Target: a gargoyle
+[04/16/2023 11:36]  an eagle: an eagle
+[04/16/2023 11:36]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:36]  a gazer larva: a gazer larva
+[04/16/2023 11:36]  Razor: Bandage: 8s
+[04/16/2023 11:36]  Razor: Bandage: 7s
+[04/16/2023 11:36]  System: You fail to disarm your opponent.
+[04/16/2023 11:36]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:36]  Razor: Bandage: 6s
+[04/16/2023 11:36]  System: New target set.
+[04/16/2023 11:36]  Razor: Target: an ogre
+[04/16/2023 11:36]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:36]  Razor: Attack: an ogre
+[04/16/2023 11:36]  Razor: Bandage: 5s
+[04/16/2023 11:36]  System: Heldarus has completed the achievement: Versatility (Basic).
+[04/16/2023 11:36]  an ogre: -48
+[04/16/2023 11:36]  Razor: chug
+[04/16/2023 11:36]  System: You increase your damage resistance to creature-casted spells.
+[04/16/2023 11:36]  Razor: [+Magic Resist Potion (120s)]
+[04/16/2023 11:36]  Razor: Bandage: 4s
+[04/16/2023 11:36]  System: You parry the spell.
+[04/16/2023 11:37]  Razor: Divine Fury
+[04/16/2023 11:37]  System: Divine Fury
+[04/16/2023 11:37]  System: Holy symbols remaining: 5/10
+[04/16/2023 11:37]  an ogre: -73
+[04/16/2023 11:37]  Stink Fist: -2
+[04/16/2023 11:37]  System: Your fingers slip!
+[04/16/2023 11:37]  Razor: Bandage: 3s
+[04/16/2023 11:37]  Stink Fist: -8
+[04/16/2023 11:37]  System: Your attack hinders your target!
+[04/16/2023 11:37]  an ogre: -71
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: Bandage: 2s
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  an ogre: -46
+[04/16/2023 11:37]  Razor: Bandage: 1s
+[04/16/2023 11:37]  System: You finish applying the bandages.
+[04/16/2023 11:37]  Stink Fist: +10
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[04/16/2023 11:37]  an ogre: -213
+[04/16/2023 11:37]  System: You deliver a zen strike to your opponent.
+[04/16/2023 11:37]  Stink Fist: +0
+[04/16/2023 11:37]  System: You have gained some fame.
+[04/16/2023 11:37]  Stink Fist: (Earth Aspect 543.3/4000 xp)
+[04/16/2023 11:37]  System: -599
+[04/16/2023 11:37]  You see: an ogre corpse
+[04/16/2023 11:37]  Stink Fist: -9
+[04/16/2023 11:37]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: Target: a hind
+[04/16/2023 11:37]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:37]  Razor: Attack: a hind
+[04/16/2023 11:37]  Stink Fist: -1
+[04/16/2023 11:37]  a hind: -54
+[04/16/2023 11:37]  System: Who will you use the bandages on?
+[04/16/2023 11:37]  System: You begin applying the bandages.
+[04/16/2023 11:37]  Razor: Bandage: 10s
+[04/16/2023 11:37]  System: You absorb their spell.
+[04/16/2023 11:37]  Stink Fist: -8
+[04/16/2023 11:37]  System: Your fingers slip!
+[04/16/2023 11:37]  Stink Fist: -2
+[04/16/2023 11:37]  System: You have gained a little fame.
+[04/16/2023 11:37]  Stink Fist: (Earth Aspect 543.9/4000 xp)
+[04/16/2023 11:37]  System: -46
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: Target: a gargoyle
+[04/16/2023 11:37]  You see: a hind corpse
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  System: Captcha successful.
+[04/16/2023 11:37]  System: You carve materials from the corpse.
+[04/16/2023 11:37]  Razor: Attack: a gargoyle
+[04/16/2023 11:37]  Razor: Bandage: 9s
+[04/16/2023 11:37]  a gargoyle: -32
+[04/16/2023 11:37]  Stink Fist: -2
+[04/16/2023 11:37]  Razor: Bandage: 8s
+[04/16/2023 11:37]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:37]  Razor: Bandage: 7s
+[04/16/2023 11:37]  System: You dont see anything nearby worth carving or investigating.
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: Target: a gargoyle
+[04/16/2023 11:37]  System: Your fingers slip!
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  System: Your strike disarms your target!
+[04/16/2023 11:37]  a gargoyle: -50
+[04/16/2023 11:37]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:37]  Razor: Bandage: 6s
+[04/16/2023 11:37]  System: You carve materials from the corpse.
+[04/16/2023 11:37]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:37]  Razor: Bandage: 5s
+[04/16/2023 11:37]  a gargoyle: -54
+[04/16/2023 11:37]  a gargoyle: -56
+[04/16/2023 11:37]  Razor: Bandage: 4s
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  System: You absorb their spell.
+[04/16/2023 11:37]  Stink Fist: -4
+[04/16/2023 11:37]  Razor: Bandage: 3s
+[04/16/2023 11:37]  a gargoyle: -60
+[04/16/2023 11:37]  Razor: Bandage: 2s
+[04/16/2023 11:37]  Stink Fist: -4
+[04/16/2023 11:37]  a gargoyle: -56
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  Razor: Bandage: 1s
+[04/16/2023 11:37]  System: You finish applying the bandages.
+[04/16/2023 11:37]  Stink Fist: +27
+[04/16/2023 11:37]  a gargoyle: -96
+[04/16/2023 11:37]  a gargoyle: -34
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  Stink Fist: -2
+[04/16/2023 11:37]  a gargoyle: -46
+[04/16/2023 11:37]  System: Who will you use the bandages on?
+[04/16/2023 11:37]  System: You begin applying the bandages.
+[04/16/2023 11:37]  Razor: Bandage: 10s
+[04/16/2023 11:37]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:37]  a gargoyle: -285
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  Razor: Bandage: 9s
+[04/16/2023 11:37]  a gargoyle: -21
+[04/16/2023 11:37]  Razor: Bandage: 8s
+[04/16/2023 11:37]  a gargoyle: -44
+[04/16/2023 11:37]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  Razor: Bandage: 7s
+[04/16/2023 11:37]  a gargoyle: -217
+[04/16/2023 11:37]  Razor: Bandage: 6s
+[04/16/2023 11:37]  System: You absorb their spell.
+[04/16/2023 11:37]  a gargoyle: -35
+[04/16/2023 11:37]  Stink Fist: -2
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:37]  Razor: Bandage: 5s
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  a gargoyle: -9
+[04/16/2023 11:37]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:37]  a gargoyle: -95
+[04/16/2023 11:37]  Razor: Bandage: 4s
+[04/16/2023 11:37]  Razor: Bandage: 3s
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼▼ HERE ▼▼ ●
+[04/16/2023 11:37]  Stink Fist: -10
+[04/16/2023 11:37]  System: Your fingers slip!
+[04/16/2023 11:37]  Razor: Bandage: 2s
+[04/16/2023 11:37]  a gargoyle: -85
+[04/16/2023 11:37]  System: You have gained a good amount of fame.
+[04/16/2023 11:37]  Stink Fist: (Earth Aspect 549.9/4000 xp)
+[04/16/2023 11:37]  System: -725
+[04/16/2023 11:37]  You see: a gargoyle corpse
+[04/16/2023 11:37]  Razor: Bandage: 1s
+[04/16/2023 11:37]  System: What do you wish to carve, investigate, or research?
+[04/16/2023 11:37]  System: You finish applying the bandages.
+[04/16/2023 11:37]  Stink Fist: +12
+[04/16/2023 11:37]  System: You carve materials from the corpse.
+[04/16/2023 11:37]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: Target: a great hart
+[04/16/2023 11:37]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  System: Your attack cripples your target, lowering their defense!
+[04/16/2023 11:37]  System: [GridLoot]: Corpse is empty!
+[04/16/2023 11:37]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:37]  System: New target set.
+[04/16/2023 11:37]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[04/16/2023 11:37]  Riodan: Riodan the barkeeper
+[04/16/2023 11:37]  Rane: Rane the dockmaster
+[04/16/2023 11:37]  System: Opening door...
+[04/16/2023 11:37]  System: Your house and its contents have been refreshed. 19 days 22 hours 22 minutes remaining until owner refresh required.
+[04/16/2023 11:37]  System: No one matching that was found on your screen.
+[04/16/2023 11:37]  Razor: found no one
+[04/16/2023 11:37]  System: You may now attempt to disarm your opponent again.
+[04/16/2023 11:37]  Razor: [DISARM]
+[04/16/2023 11:37]  System: No one matching that was found on your screen.
+[04/16/2023 11:37]  Razor: found no one
+[04/16/2023 11:37]  Razor:  Scanning for rat 
+[04/16/2023 11:37]  System: Where will you search?
+[04/16/2023 11:37]  System: You search the home and find no one hiding within.
+[04/16/2023 11:37]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[04/16/2023 11:37]  Rane: Rane the dockmaster
+[04/16/2023 11:37]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[04/16/2023 11:37]  System: 16 items were added.
+[04/16/2023 11:37]  System: Finished 3 queued actions in 1.2 seconds.
+[04/16/2023 11:37]  System: Resupply complete.
+[04/16/2023 11:37]  System: Set Grab Item HotBag
+[04/16/2023 11:37]  System: Grab Item HotBag Set
+[04/16/2023 11:37]  Razor: Organize Open Pouches
+[04/16/2023 11:37]  System: You must wait to perform another action.
+[04/16/2023 11:37]  System: Finished 2 queued actions in 0.6 seconds.
+[04/16/2023 11:37]  Razor: Organize Trapped Pouches
+[04/16/2023 11:37]  Razor: Organize Trapped Pouches
+[04/16/2023 11:37]  Razor: Organize Trapped Pouches
+[04/16/2023 11:37]  Razor: Organize Trapped Pouches
+[04/16/2023 11:37]  System: Holy symbols remaining: 9/10
+[04/16/2023 11:37]  Razor: Organize Trapped Pouches
+[04/16/2023 11:37]  Razor: Organize Orange Potions
+[04/16/2023 11:38]  Razor: Organize Red Potions
+[04/16/2023 11:38]  Razor: Organize Yellow Potions
+[04/16/2023 11:38]  Razor: Organize White Potions
+[04/16/2023 11:38]  Razor: Organize Black Potions
+[04/16/2023 11:38]  System: Max holy symbols earned (10/10)
+[04/16/2023 11:38]  Razor: Organize Blue Potions
+[04/16/2023 11:38]  Razor: Organize Aids
+[04/16/2023 11:38]  Razor: Organize Rope
+[04/16/2023 11:38]  Razor: Open Untrapped Pouches
+[04/16/2023 11:38]  Razor: Out of scrolls!
+[04/16/2023 11:38]  Razor: Out of scrolls!
+[04/16/2023 11:38]  You see: gold coin : 3102
+[04/16/2023 11:38]  You see: unidentified chainmail gloves
+[04/16/2023 11:38]  System: Your magic resist potion has worn off.
+[04/16/2023 11:38]  Razor: [-Magic Resist Potion (s)]
+[04/16/2023 11:39]  System: SoggyWaffles has completed the achievement: Artificers Enclave Associate.
+[04/16/2023 11:40]  System: The world will save in 15 seconds.
+[04/16/2023 11:40]  System: The world is saving, please wait.
+[04/16/2023 11:40]  System: World save complete. The entire process took 3.7 seconds.
+[04/16/2023 11:41]  System: Laffiar has completed the achievement: Guardian of Shadowspire (Basic).
+[04/16/2023 11:41]  System: Tar Vardamir has completed the achievement: Triggered (Basic).
+[04/16/2023 11:42]  System: Defenders of Steel (DoS) guild has reached prestige level 67.
+[04/16/2023 11:43]  Razor: World save coming soon..
+[04/16/2023 11:43]  System: No one matching that was found on your screen.
+[04/16/2023 11:43]  Razor: found no one
+[04/16/2023 11:44]  Razor: Waiting for world save...
+[04/16/2023 11:44]  Razor: Save complete - continue on!
+[04/16/2023 11:44]  System: No one matching that was found on your screen.
+[04/16/2023 11:44]  Razor: found no one
+[04/16/2023 11:44]  Razor: Loading hotbar
+[04/16/2023 11:44]  System: No one matching that was found on your screen.
+[04/16/2023 11:44]  Razor: found no one
+[04/16/2023 11:44]  System: No one matching that was found on your screen.
+[04/16/2023 11:44]  Razor: found no one
+[04/16/2023 11:44]  System: No one matching that was found on your screen.
+[04/16/2023 11:44]  Razor: found no one

@@ -1,0 +1,409 @@
+[06/19/2023 11:16]  System: WorldMap loading...
+[06/19/2023 11:16]  System: Loading WorldMap markers..
+[06/19/2023 11:16]  System: ..Banks_and_Healers.xml (20)
+[06/19/2023 11:16]  System: ..Dungeons.xml (12)
+[06/19/2023 11:16]  System: ..Dungeon_Gates.xml (349)
+[06/19/2023 11:16]  System: ..Healer_Caravans.xml (32)
+[06/19/2023 11:16]  System: ..Moongates.xml (9)
+[06/19/2023 11:16]  System: ..POI.xml (176)
+[06/19/2023 11:16]  System: ..PvP_Locations.xml (71)
+[06/19/2023 11:16]  System: ..Shrines.xml (9)
+[06/19/2023 11:16]  System: ..Subterranean.xml (6)
+[06/19/2023 11:16]  System: ..Townships.xml (9)
+[06/19/2023 11:16]  System: WorldMap markers loaded (693)
+[06/19/2023 11:16]  System: Welcome Rabbi Tuckman!
+[06/19/2023 11:16]  System: Your food satisfaction effect has expired.
+[06/19/2023 11:16]  Rabbi Tuckman: Rabbi Tuckman
+[06/19/2023 11:16]  Rane: Rane the dockmaster
+[06/19/2023 11:16]  a black bear: a black bear
+[06/19/2023 11:16]  Sir Lady Beard: Savant
+[06/19/2023 11:16]  Sir Lady Beard: Sir Lady Beard
+[06/19/2023 11:16]  System: WorldMap loaded!
+[06/19/2023 11:16]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:16]  You see: The keg is about one quarter full.
+[06/19/2023 11:17]  Razor: Target your restock container (kegs)
+[06/19/2023 11:17]  [Razor]: 'restock_container' not found, creating new variable
+[06/19/2023 11:17]  [Razor]: Select target for variable 'restock_container'
+[06/19/2023 11:17]  [Razor]: 'restock_container' script variable updated to '0x47A75579'
+[06/19/2023 11:17]  Razor: Resupply
+[06/19/2023 11:17]  System: Resupply complete.
+[06/19/2023 11:17]  [Razor]: Target a container to restock from, or target yourself to use your bank box.
+[06/19/2023 11:17]  [Razor]: Restock request in progress....
+[06/19/2023 11:17]  [Razor]: Restock done, queued 0 items.
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  System: You have worn out your tool!
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  System: You must wait to perform another action.
+[06/19/2023 11:17]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 9.5.
+[06/19/2023 11:17]  System: Your skill in Alchemy has increased by 0.1.  It is now 69.9.
+[06/19/2023 11:17]  Razor: [ArmsLore] -0.1 9.5 (-0.1)
+[06/19/2023 11:17]  Razor: [Alchemy] +0.1 69.9 (+0.1)
+[06/19/2023 11:17]  Razor: [+Food Satisfaction (3600s)]
+[06/19/2023 11:17]  System: You must wait to perform another action.
+[06/19/2023 11:17]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:17]  System: The world will save in 15 seconds.
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  System: The world is saving, please wait.
+[06/19/2023 11:18]  System: World save complete. The entire process took 4.3 seconds.
+[06/19/2023 11:18]  System: You must wait to perform another action.
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  System: Your campfire is now secure.
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:18]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 9.4.
+[06/19/2023 11:19]  System: Your skill in Alchemy has increased by 0.1.  It is now 70.0.
+[06/19/2023 11:19]  Razor: [ArmsLore] -0.1 9.4 (-0.2)
+[06/19/2023 11:19]  Razor: [Alchemy] +0.1 70.0 (+0.2)
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 9.3.
+[06/19/2023 11:19]  System: Your skill in Alchemy has increased by 0.1.  It is now 70.1.
+[06/19/2023 11:19]  Razor: [ArmsLore] -0.1 9.3 (-0.3)
+[06/19/2023 11:19]  Razor: [Alchemy] +0.1 70.1 (+0.3)
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:19]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 9.2.
+[06/19/2023 11:20]  System: Your skill in Alchemy has increased by 0.1.  It is now 70.2.
+[06/19/2023 11:20]  Razor: [ArmsLore] -0.1 9.2 (-0.4)
+[06/19/2023 11:20]  Razor: [Alchemy] +0.1 70.2 (+0.4)
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:20]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  System: Hemmings Forge has completed the achievement: Tailor (Advanced).
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:21]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  System: You increase your damage resistance to creature-casted spells.
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:22]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:22]  System: You increase your damage resistance to creature-casted spells.
+[06/19/2023 11:22]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:22]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:22]  System: You increase your damage resistance to creature-casted spells. [2]
+[06/19/2023 11:22]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  System: You increase your damage resistance to creature-casted spells.
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  System: mistic hunter has completed the achievement: Paragon Hunter (Basic).
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:22]  System: You increase your damage resistance to creature-casted spells.
+[06/19/2023 11:22]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:22]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:22]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:22]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:23]  You see: The keg is completely full.
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  System: You increase your damage resistance to creature-casted spells.
+[06/19/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:23]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  System: You have worn out your tool!
+[06/19/2023 11:23]  System: Hoocho has completed the achievement: Connoisseur (Epic).
+[06/19/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:23]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  System: You increase your damage resistance to creature-casted spells. [2]
+[06/19/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:23]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  System: Verhoeven has completed the achievement: Monster Hunter Associate.
+[06/19/2023 11:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:23]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  System: You increase your damage resistance to creature-casted spells. [2]
+[06/19/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:23]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:23]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:23]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:23]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:23]  System: You increase your damage resistance to creature-casted spells. [2]
+[06/19/2023 11:23]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:23]  You see: The keg is completely full.
+[06/19/2023 11:23]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:23]  You see: The keg is completely full.
+[06/19/2023 11:23]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:23]  You see: The keg is very full.
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  System: You increase your damage resistance to creature-casted spells.
+[06/19/2023 11:24]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:24]  Razor: [+Magic Resist Potion (456s)]
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 9.1.
+[06/19/2023 11:24]  System: Your skill in Alchemy has increased by 0.1.  It is now 70.3.
+[06/19/2023 11:24]  Razor: [ArmsLore] -0.1 9.1 (-0.5)
+[06/19/2023 11:24]  Razor: [Alchemy] +0.1 70.3 (+0.5)
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:24]  You see: nightshade : 10
+[06/19/2023 11:24]  System: You must wait to perform another action.
+[06/19/2023 11:24]  You see: spider's silk : 447
+[06/19/2023 11:24]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Wulf of Wyrd: Wulf of Wyrd
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:25]  Wulf of Wyrd: Rel Sanct [Bless]
+[06/19/2023 11:25]  System: Your strength has changed by 10.  It is now 110
+[06/19/2023 11:25]  System: Your dexterity has changed by 10.  It is now 110
+[06/19/2023 11:25]  System: Your intelligence has changed by 10.  It is now 35
+[06/19/2023 11:25]  Razor: [+Strength (600s)]
+[06/19/2023 11:25]  Razor: Str: +10 - 110
+[06/19/2023 11:25]  Razor: [-Strength (s)]
+[06/19/2023 11:25]  Razor: [+Strength (600s)]
+[06/19/2023 11:25]  Razor: [+Agility (600s)]
+[06/19/2023 11:25]  Razor: Dex: +10 - 110
+[06/19/2023 11:25]  Razor: [-Agility (s)]
+[06/19/2023 11:25]  Razor: [+Agility (600s)]
+[06/19/2023 11:25]  Razor: [+Cunning (600s)]
+[06/19/2023 11:25]  Razor: Int: +10 - 35
+[06/19/2023 11:25]  Razor: [-Cunning (s)]
+[06/19/2023 11:25]  Razor: [+Cunning (600s)]
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:26]  System: Goosebump has completed the achievement: Construct Slayer (Advanced).
+[06/19/2023 11:26]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 9.0.
+[06/19/2023 11:27]  System: Your skill in Alchemy has increased by 0.1.  It is now 70.4.
+[06/19/2023 11:27]  Razor: [ArmsLore] -0.1 9.0 (-0.6)
+[06/19/2023 11:27]  Razor: [Alchemy] +0.1 70.4 (+0.6)
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Bukid: [Prospect, brg]
+[06/19/2023 11:27]  Bukid: Bukid
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:27]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  You see: spider's silk : 282
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Bukid: [Prospect, brg]
+[06/19/2023 11:28]  Bukid: Bukid
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  System: Hankeye has completed the achievement: Affluent (Epic).
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:28]  You see: The keg is more than half full.
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:28]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  System: You have worn out your tool!
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  System: Cookin Poison has completed the achievement: Guardian of Darkmire Temple (Basic).
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:29]  System: DemonSharks has completed the achievement: Monstrous Slayer (Basic).
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  You see: a potion keg: lesser magic resistance
+[06/19/2023 11:30]  You see: The keg is very full.
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  System: Arkanis Rel has completed the achievement: Scribe (Epic).
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:30]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  System: Tesco Value has completed the achievement: Seasoned Strategist.
+[06/19/2023 11:31]  System: MayhemMike has completed the achievement: Seasoned Strategist.
+[06/19/2023 11:31]  System: Kendall Roy CEO has completed the achievement: Hardened Skirmisher.
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  System: Your skill in Arms Lore has decreased by 0.1.  It is now 8.9.
+[06/19/2023 11:31]  System: Your skill in Alchemy has increased by 0.1.  It is now 70.5.
+[06/19/2023 11:31]  Razor: [ArmsLore] -0.1 8.9 (-0.7)
+[06/19/2023 11:31]  Razor: [Alchemy] +0.1 70.5 (+0.7)
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  Razor: 55 - 75: Lesser Magic Resist
+[06/19/2023 11:31]  System: Your magic resist potion has worn off.
+[06/19/2023 11:31]  Razor: [-Magic Resist Potion (s)]
+[06/19/2023 11:31]  Bukid: [Prospect, brg]
+[06/19/2023 11:31]  Bukid: Bukid
+[06/19/2023 11:31]  Rabbi Tuckman: Rabbi Tuckman
+[06/19/2023 11:32]  : floor
+[06/19/2023 11:32]  Wulf of Wyrd: Wulf of Wyrd
+[06/19/2023 11:32]  You see: robe
+[06/19/2023 11:32]  You see: [mastercrafted by Duluth Trading]

@@ -1,0 +1,9 @@
+if findtype "wizard's hat" backpack and findtype "scissors" backpack
+        gumpclose 
+        overhead 'Recycle!' 88
+        dclicktype "scissors" backpack
+        waitfortarget 
+        targettype "wizard's hat" backpack
+        wait 2000
+    endif
+    loop

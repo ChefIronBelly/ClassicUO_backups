@@ -1,0 +1,949 @@
+[07/29/2023 16:21]  System: WorldMap loading...
+[07/29/2023 16:21]  System: Loading WorldMap markers..
+[07/29/2023 16:21]  System: ..Banks_and_Healers.xml (20)
+[07/29/2023 16:21]  System: ..Dungeons.xml (12)
+[07/29/2023 16:21]  System: ..Dungeon_Gates.xml (349)
+[07/29/2023 16:21]  System: ..Healer_Caravans.xml (32)
+[07/29/2023 16:21]  System: ..Moongates.xml (9)
+[07/29/2023 16:21]  System: ..POI.xml (176)
+[07/29/2023 16:21]  System: ..PvP_Locations.xml (71)
+[07/29/2023 16:21]  System: ..Shrines.xml (9)
+[07/29/2023 16:21]  System: ..Subterranean.xml (6)
+[07/29/2023 16:21]  System: ..Townships.xml (9)
+[07/29/2023 16:21]  System: WorldMap markers loaded (693)
+[07/29/2023 16:21]  System: Welcome Stink Fist!
+[07/29/2023 16:21]  Stink Fist: Stink Fist
+[07/29/2023 16:21]  Rane: Rane the dockmaster
+[07/29/2023 16:21]  Blood Draw: Legendarily Triggered
+[07/29/2023 16:21]  Blood Draw: [Emissary, brg]
+[07/29/2023 16:21]  Blood Draw: Blood Draw
+[07/29/2023 16:21]  System: WorldMap loaded!
+[07/29/2023 16:22]  System: Holy symbols remaining: 7/12
+[07/29/2023 16:22]  Razor: [+Paralyze (0s)]
+[07/29/2023 16:22]  Razor: [-Paralyze (s)]
+[07/29/2023 16:22]  System: You are no longer hindered.
+[07/29/2023 16:22]  Rane: Rane the dockmaster
+[07/29/2023 16:22]  System: You are now under the protection of the town guards.
+[07/29/2023 16:22]  System: You receive a Sacred Journey damage bonus of 6.0% for the next 30 minutes.
+[07/29/2023 16:22]  Razor: [+Hidden/Stealthing (0s)]
+[07/29/2023 16:22]  Linnea: Linnea the Prevalian stylist
+[07/29/2023 16:22]  Lower Chef: Lower Chef
+[07/29/2023 16:22]  Konrad: Konrad the Prevalian Exchange Officer
+[07/29/2023 16:22]  Barnett: Barnett the tinker
+[07/29/2023 16:22]  Gwenyth: Gwenyth the Lottery Official
+[07/29/2023 16:22]  Silva: Silva the armorer
+[07/29/2023 16:22]  Chicki Incarnate: Lord Chicki Incarnate
+[07/29/2023 16:22]  Razor: [-Hidden/Stealthing (s)]
+[07/29/2023 16:22]  Di of do: Di of do
+[07/29/2023 16:22]  Duane: Duane the blacksmith
+[07/29/2023 16:22]  Astera: Astera the miner
+[07/29/2023 16:22]  Azina: Azina the alchemist
+[07/29/2023 16:22]  Datil Blue Light: [Shop Blue Light, NDA]
+[07/29/2023 16:22]  Datil Blue Light: Datil Blue Light
+[07/29/2023 16:22]  Eztli: [NC]
+[07/29/2023 16:22]  Eztli: Eztli
+[07/29/2023 16:22]  Crang: Crang
+[07/29/2023 16:22]  a horse: (tame)
+[07/29/2023 16:22]  a horse: a horse
+[07/29/2023 16:22]  Edwin: Edwin the scribe
+[07/29/2023 16:22]  AMYR: [Gatekeeper, Amyr]
+[07/29/2023 16:22]  AMYR: AMYR
+[07/29/2023 16:22]  Marden: Marden the alchemist
+[07/29/2023 16:22]  a cat: a cat
+[07/29/2023 16:22]  Damone: Artificer Initiate
+[07/29/2023 16:22]  Damone: Lord Damone
+[07/29/2023 16:22]  Sir Cloud: Sir Cloud
+[07/29/2023 16:22]  FRND VENDOR MALL: [Friends, FRND]
+[07/29/2023 16:22]  FRND VENDOR MALL: FRND VENDOR MALL
+[07/29/2023 16:22]  Tele: Shadowspire Guardian
+[07/29/2023 16:22]  Tele: [Papa Franku, LOGZ]
+[07/29/2023 16:22]  Tele: Lady Tele
+[07/29/2023 16:22]  redjedi: Distinguished Beastmaster
+[07/29/2023 16:22]  redjedi: redjedi
+[07/29/2023 16:22]  Sir Cloud: Kal Vas Xen An Flam [Water Elemental]
+[07/29/2023 16:22]  Onideus: Onideus
+[07/29/2023 16:22]  Tamma: Tamma the banker
+[07/29/2023 16:22]  a cat: a cat
+[07/29/2023 16:22]  Spinster: Spinster
+[07/29/2023 16:22]  LoLLeX: [Veteran, NP$]
+[07/29/2023 16:22]  LoLLeX: LoLLeX
+[07/29/2023 16:22]  Garonak: Garonak
+[07/29/2023 16:22]  a deep crawler: (bonded)
+[07/29/2023 16:22]  a deep crawler: a deep crawler
+[07/29/2023 16:22]  Poke em Deep: Poke em Deep
+[07/29/2023 16:22]  Alpacinoo: Alpacinoo
+[07/29/2023 16:22]  Liadan: Liadan the scribe
+[07/29/2023 16:22]  Garrett: Garrett the mage
+[07/29/2023 16:22]  a cat: a cat
+[07/29/2023 16:22]  Sanity Keeper: [Journeyman, Path]
+[07/29/2023 16:22]  Sanity Keeper: Sanity Keeper
+[07/29/2023 16:22]  Creepio: Creepio
+[07/29/2023 16:22]  Raynor: Raynor the herbalist
+[07/29/2023 16:22]  Calendonia: Calendonia the banker
+[07/29/2023 16:22]  Duncan: Duncan the mage
+[07/29/2023 16:22]  Elantra: [Recruit, RAQ]
+[07/29/2023 16:22]  Elantra: Elantra
+[07/29/2023 16:22]  itemmmmmmm: itemmmmmmm
+[07/29/2023 16:22]  Adder Freeman: Adder Freeman
+[07/29/2023 16:22]  Yo Yo: Yo Yo
+[07/29/2023 16:22]  Yo Yo: Leather Armor /W Satchel
+[07/29/2023 16:22]  zoker-: zoker-
+[07/29/2023 16:22]  Sivan: Sivan the stablemaster
+[07/29/2023 16:22]  Sukatai: Sukatai the animal wrangler
+[07/29/2023 16:22]  a horse: *released*
+[07/29/2023 16:22]  a horse: a horse
+[07/29/2023 16:22]  LoLLeX: CRAFTS 120, HELP TO NEW PLAYERS AND FREE STUFF, REPAIR STATION, BOSSES RAIDS
+[07/29/2023 16:22]  Cheap Ocean Good: Cheap Ocean Good
+[07/29/2023 16:22]  Quackletown: Quackletown
+[07/29/2023 16:22]  a frenzied ostard: (bonded)
+[07/29/2023 16:22]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:22]  a forest ostard: (bonded)
+[07/29/2023 16:22]  a forest ostard: a forest ostard
+[07/29/2023 16:22]  a forest ostard: (bonded)
+[07/29/2023 16:22]  a forest ostard: a forest ostard
+[07/29/2023 16:22]  Alula: Alula the Necromancer
+[07/29/2023 16:22]  a book wyrm: a book wyrm
+[07/29/2023 16:22]  a frenzied ostard: (bonded)
+[07/29/2023 16:22]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:22]  Cat wheel: Cat wheel
+[07/29/2023 16:22]  a frenzied ostard: (bonded)
+[07/29/2023 16:22]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:22]  a vampire thrall: (summoned)
+[07/29/2023 16:22]  a vampire thrall: a vampire thrall
+[07/29/2023 16:22]  an ancient mummy: (summoned)
+[07/29/2023 16:22]  an ancient mummy: an ancient mummy
+[07/29/2023 16:22]  Luisa: Luisa the Librarian
+[07/29/2023 16:22]  Cheap Ocean Good: Also find other great NKB vendors with just about everything you need!
+[07/29/2023 16:22]  a prevalian knight: a prevalian knight
+[07/29/2023 16:22]  Necrominer: [rekt]
+[07/29/2023 16:22]  Necrominer: Necrominer
+[07/29/2023 16:22]  an earth elemental: (summoned)
+[07/29/2023 16:22]  an earth elemental: an earth elemental
+[07/29/2023 16:22]  Kreuzberg City: Boss Slayer
+[07/29/2023 16:22]  Kreuzberg City: [Syn]
+[07/29/2023 16:22]  Kreuzberg City: Lord Kreuzberg City
+[07/29/2023 16:22]  a prevalian knight: a prevalian knight
+[07/29/2023 16:22]  Foonch: Foonch
+[07/29/2023 16:22]  a prevalian knight: a prevalian knight
+[07/29/2023 16:22]  a prevalian marksman: a prevalian marksman
+[07/29/2023 16:22]  a scarab: (bonded)
+[07/29/2023 16:22]  a scarab: a scarab
+[07/29/2023 16:22]  System: Max holy symbols earned (12/12)
+[07/29/2023 16:22]  Angelika Teach: Angelika Teach
+[07/29/2023 16:22]  Theo Punk: Serial Killer
+[07/29/2023 16:22]  Theo Punk: Lord Theo Punk
+[07/29/2023 16:22]  CARPENTRY GEAR!: CARPENTRY GEAR!
+[07/29/2023 16:22]  TAILORING GEAR!: TAILORING GEAR!
+[07/29/2023 16:22]  WIZARD'S SATCHELS: WIZARD'S SATCHELS
+[07/29/2023 16:22]  ...: ...
+[07/29/2023 16:22]  Spellbooks 52K: Spellbooks 52K
+[07/29/2023 16:22]  Billy Bob Cletus: Billy Bob Cletus
+[07/29/2023 16:22]  Lou Sassou: [The Tavern], [tT]
+[07/29/2023 16:22]  Lou Sassou: Lou Sassou
+[07/29/2023 16:22]  Hey you! Yeah, you!: Hey you! Yeah, you!
+[07/29/2023 16:22]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[07/29/2023 16:22]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[07/29/2023 16:22]  Lockpickers Emporium: Lockpickers Emporium
+[07/29/2023 16:22]  Good Food: Good Food
+[07/29/2023 16:22]  Prev Coins in Stock!: Prev Coins in Stock!
+[07/29/2023 16:22]  Mutilates SS/Misc: Mutilates SS/Misc
+[07/29/2023 16:22]  a  WES CORES: a  WES CORES
+[07/29/2023 16:22]  aWes SCROLLS: aWes SCROLLS
+[07/29/2023 16:22]  Prevs and More: Prevs and More
+[07/29/2023 16:22]  PREVS: PREVS
+[07/29/2023 16:22]  MutilatesAspektKits: MutilatesAspektKits
+[07/29/2023 16:22]  **SHADOW FURN* 12/7: **SHADOW FURN* 12/7
+[07/29/2023 16:22]  Theo Punk: In Nox Grav [Poison Field]
+[07/29/2023 16:22]  XTREME LOOT 4/6: XTREME LOOT 4/6
+[07/29/2023 16:22]  Entity: Entity
+[07/29/2023 16:22]  The Wonder Woman: The Wonder Woman
+[07/29/2023 16:22]  Kisya: Kisya
+[07/29/2023 16:22]  MistuhTee: MistuhTee
+[07/29/2023 16:22]  BroloK: BroloK
+[07/29/2023 16:22]  Softhands: [Branch Bucker, LOGZ]
+[07/29/2023 16:22]  Softhands: Softhands
+[07/29/2023 16:22]  Hank the Hick: Hank the Hick
+[07/29/2023 16:22]  Sundamar: Sundamar
+[07/29/2023 16:22]  PsychadelikII: PsychadelikII
+[07/29/2023 16:22]  mise en abyme: mise en abyme
+[07/29/2023 16:22]  Fledbrak: Fledbrak
+[07/29/2023 16:22]  Raziel Bloodfang: Raziel Bloodfang
+[07/29/2023 16:22]  Tamuhh: Tamuhh
+[07/29/2023 16:22]  Relapsed: Relapsed
+[07/29/2023 16:22]  Lydea: Lydea
+[07/29/2023 16:22]  AIXI: AIXI
+[07/29/2023 16:22]  Norb: Norb
+[07/29/2023 16:22]  lll: lll
+[07/29/2023 16:22]  Tuckazor: Tuckazor
+[07/29/2023 16:22]  a desert ostard: (bonded)
+[07/29/2023 16:22]  a desert ostard: a desert ostard
+[07/29/2023 16:22]  Sibongile: Sibongile the battle trainer
+[07/29/2023 16:22]  Juggleberry Tuck: Juggleberry Tuck
+[07/29/2023 16:22]  BandidoOoO: BandidoOoO
+[07/29/2023 16:22]  a forest ostard: (bonded)
+[07/29/2023 16:22]  a forest ostard: a forest ostard
+[07/29/2023 16:22]  System: You have left the protection of the town guards.
+[07/29/2023 16:22]  Tea's Scam Vendor: Tea's Scam Vendor
+[07/29/2023 16:22]  MEGA RESTOCK 6/6: MEGA RESTOCK 6/6
+[07/29/2023 16:22]  EXCEEDS & SUPREME: EXCEEDS & SUPREME
+[07/29/2023 16:22]  PREV MG - CORES/ORBS: PREV MG - CORES/ORBS
+[07/29/2023 16:22]  Smithy Shop: Smithy Shop
+[07/29/2023 16:22]  CLOTHES/WOOD RESTOCK: CLOTHES/WOOD RESTOCK
+[07/29/2023 16:22]  This and That!: This and That!
+[07/29/2023 16:22]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[07/29/2023 16:22]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:22]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:22]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:22]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:22]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:22]  mise en abyme: * mise en abyme stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Fledbrak: * Fledbrak stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:22]  System: Ex Por has completed the achievement: Black Marketeer (Basic).
+[07/29/2023 16:22]  AIXI: * AIXI stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Norb: * Norb stumbles around in confusion and pain. *
+[07/29/2023 16:22]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Theo Punk: In Nox Grav [Poison Field]
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Stink Fist: You have hidden yourself well.
+[07/29/2023 16:23]  Razor: [+Hidden/Stealthing (0s)]
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:23]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:23]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Theo Punk: 5
+[07/29/2023 16:23]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:23]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:23]  mise en abyme: * mise en abyme stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Fledbrak: * Fledbrak stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:23]  AIXI: * AIXI stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Norb: * Norb stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Greater Explosion potion: 3
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  Greater Explosion potion: 2
+[07/29/2023 16:23]  Greater Explosion potion: 1
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:23]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:23]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:23]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:23]  mise en abyme: * mise en abyme stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Relapsed: *resists poison*
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  AIXI: * AIXI stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Norb: * Norb stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:23]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:23]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:23]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:23]  mise en abyme: * mise en abyme stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:23]  AIXI: * AIXI stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Norb: * Norb stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Theo Punk: 5
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Theo Punk: 4
+[07/29/2023 16:23]  BandidoOoO: *resists poison*
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lower Chef: Lower Chef
+[07/29/2023 16:23]  Greater Explosion potion: 3
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  Greater Explosion potion: 2
+[07/29/2023 16:23]  Greater Explosion potion: 1
+[07/29/2023 16:23]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:23]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:23]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:23]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:23]  mise en abyme: * mise en abyme stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Relapsed: *resists poison*
+[07/29/2023 16:23]  AIXI: * AIXI stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Norb: * Norb stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Theo Punk: Serial Killer
+[07/29/2023 16:23]  Theo Punk: Lord Theo Punk
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:23]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:23]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:23]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:23]  mise en abyme: * mise en abyme stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Relapsed: *resists poison*
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of mise en abyme
+[07/29/2023 16:23]  AIXI: * AIXI stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Norb: * Norb stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of AIXI
+[07/29/2023 16:23]  a llama: (tame)
+[07/29/2023 16:23]  a llama: a llama
+[07/29/2023 16:23]  You see: the remains of Norb
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Softhands: guards
+[07/29/2023 16:23]  Entity: * Entity stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Kisya: * Kisya stumbles around in confusion and pain. *
+[07/29/2023 16:23]  MistuhTee: * MistuhTee stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Lydea: * Lydea stumbles around in confusion and pain. *
+[07/29/2023 16:23]  BroloK: * BroloK stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Hank the Hick: * Hank the Hick stumbles around in confusion and pain. *
+[07/29/2023 16:23]  lll: * lll stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Raziel Bloodfang: *resists poison*
+[07/29/2023 16:23]  Tuckazor: * Tuckazor stumbles around in confusion and pain. *
+[07/29/2023 16:23]  a llama: (bonded)
+[07/29/2023 16:23]  a llama: a llama
+[07/29/2023 16:23]  You see: the remains of Entity
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of Kisya
+[07/29/2023 16:23]  You see: the remains of MistuhTee
+[07/29/2023 16:23]  You see: the remains of Lydea
+[07/29/2023 16:23]  You see: the remains of BroloK
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of Hank the Hick
+[07/29/2023 16:23]  You see: the remains of lll
+[07/29/2023 16:23]  You see: the remains of Tuckazor
+[07/29/2023 16:23]  Softhands: * Softhands stumbles around in confusion and pain. *
+[07/29/2023 16:23]  PsychadelikII: * PsychadelikII stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Tamuhh: * Tamuhh stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:23]  You see: the remains of Softhands
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of PsychadelikII
+[07/29/2023 16:23]  You see: the remains of Tamuhh
+[07/29/2023 16:23]  Sundamar: * Sundamar stumbles around in confusion and pain. *
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of Sundamar
+[07/29/2023 16:23]  [Razor]: New target set.
+[07/29/2023 16:23]  Razor: Target: Tea's Scam Vendor
+[07/29/2023 16:23]  Razor: Target: a horse
+[07/29/2023 16:23]  Razor: Target: CLOTHES/WOOD RESTOCK
+[07/29/2023 16:23]  Razor: Target: aWes SCROLLS
+[07/29/2023 16:23]  Razor: Target: XTREME LOOT 4/6
+[07/29/2023 16:23]  Razor: Target: ...
+[07/29/2023 16:23]  Razor: Target: WIZARD'S SATCHELS
+[07/29/2023 16:23]  Razor: Target: This and That!
+[07/29/2023 16:23]  Razor: Target: Mutilates SS/Misc
+[07/29/2023 16:23]  Razor: Target: a  WES CORES
+[07/29/2023 16:23]  Razor: Target: Good Food
+[07/29/2023 16:23]  Razor: Target: TAILORING GEAR!
+[07/29/2023 16:23]  Razor: Target: MutilatesAspektKits
+[07/29/2023 16:23]  Razor: Target: a horse
+[07/29/2023 16:23]  Razor: Target: PREVS
+[07/29/2023 16:23]  Razor: Target: Prevs and More
+[07/29/2023 16:23]  Razor: Target: CARPENTRY GEAR!
+[07/29/2023 16:23]  Razor: Target: Spellbooks 52K
+[07/29/2023 16:23]  Razor: Target: a desert ostard
+[07/29/2023 16:23]  Razor: Target: Sibongile
+[07/29/2023 16:23]  Razor: Target: a forest ostard
+[07/29/2023 16:23]  Razor: Target: MEGA RESTOCK 6/6
+[07/29/2023 16:23]  Razor: Target: EXCEEDS & SUPREME
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Razor: Target: PREV MG - CORES/ORBS
+[07/29/2023 16:23]  PREV MG - CORES/ORBS: Take a look at my goods.
+[07/29/2023 16:23]  Theo Punk: Serial Killer
+[07/29/2023 16:23]  Theo Punk: Lord Theo Punk
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  [Razor]: New target set. [23]
+[07/29/2023 16:23]  You see: Price: 8000
+[07/29/2023 16:23]  You see: Earth Aspect Core : 2
+[07/29/2023 16:23]  Raziel Bloodfang: *resists poison*
+[07/29/2023 16:23]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:23]  The Wonder Woman: * The Wonder Woman stumbles around in confusion and pain. *
+[07/29/2023 16:23]  a frenzied ostard: (bonded)
+[07/29/2023 16:23]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:23]  You see: the remains of The Wonder Woman
+[07/29/2023 16:23]  BandidoOoO: * BandidoOoO stumbles around in confusion and pain. *
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  You see: the remains of BandidoOoO
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  System: You purchase the item.
+[07/29/2023 16:23]  System: TunT has completed the achievement: Domestication (Epic).
+[07/29/2023 16:23]  a horse: (tame)
+[07/29/2023 16:23]  a horse: a horse
+[07/29/2023 16:23]  Fledbrak: Fledbrak
+[07/29/2023 16:23]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:23]  Theo Punk: Serial Killer
+[07/29/2023 16:23]  Theo Punk: Lord Theo Punk
+[07/29/2023 16:23]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:23]  You see: Price: 8000
+[07/29/2023 16:23]  You see: Earth Aspect Core : 2
+[07/29/2023 16:23]  System: Xunaka has completed the achievement: Wizard (Basic).
+[07/29/2023 16:23]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:23]  System: You purchase the item.
+[07/29/2023 16:24]  Lower Chef: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+[07/29/2023 16:24]  Raziel Bloodfang: * Raziel Bloodfang stumbles around in confusion and pain. *
+[07/29/2023 16:24]  You see: the remains of Raziel Bloodfang
+[07/29/2023 16:24]  Relapsed: * Relapsed stumbles around in confusion and pain. *
+[07/29/2023 16:24]  You see: the remains of Relapsed
+[07/29/2023 16:24]  Fledbrak: Fledbrak
+[07/29/2023 16:24]  Angelika Teach: * Angelika Teach stumbles around in confusion and pain. *
+[07/29/2023 16:24]  a forest ostard: (bonded)
+[07/29/2023 16:24]  a forest ostard: a forest ostard
+[07/29/2023 16:24]  You see: the remains of Angelika Teach
+[07/29/2023 16:24]  Shadow of Meep: Shadow of Meep
+[07/29/2023 16:24]  You see: Price: 8000
+[07/29/2023 16:24]  You see: Earth Aspect Core : 2
+[07/29/2023 16:24]  System: You purchase the item.
+[07/29/2023 16:24]  Dartela: Dartela
+[07/29/2023 16:24]  a horse: (tame)
+[07/29/2023 16:24]  a horse: a horse
+[07/29/2023 16:24]  You see: Price: 8000
+[07/29/2023 16:24]  You see: Earth Aspect Core : 2
+[07/29/2023 16:24]  Lower Chef: guard
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  System: You purchase the item.
+[07/29/2023 16:24]  You see: a llama corpse
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  You see: a llama corpse
+[07/29/2023 16:24]  a llama: (bonded)
+[07/29/2023 16:24]  a llama: a llama
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  You see: a horse corpse
+[07/29/2023 16:24]  Razor: [-Hidden/Stealthing (s)]
+[07/29/2023 16:24]  Prev Coins! 18.8k: Prev Coins! 18.8k
+[07/29/2023 16:24]  Lockpickers Emporium: Lockpickers Emporium
+[07/29/2023 16:24]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[07/29/2023 16:24]  Prev Coins in Stock!: Prev Coins in Stock!
+[07/29/2023 16:24]  Hey you! Yeah, you!: Hey you! Yeah, you!
+[07/29/2023 16:24]  Theo Punk: Serial Killer
+[07/29/2023 16:24]  Theo Punk: Lord Theo Punk
+[07/29/2023 16:24]  Lou Sassou: [The Tavern], [tT]
+[07/29/2023 16:24]  Lou Sassou: Lou Sassou
+[07/29/2023 16:24]  Billy Bob Cletus: Billy Bob Cletus
+[07/29/2023 16:24]  System: You are now under the protection of the town guards.
+[07/29/2023 16:24]  a prevalian marksman: a prevalian marksman
+[07/29/2023 16:24]  a prevalian knight: a prevalian knight
+[07/29/2023 16:24]  HP OfficeJet: [Soldier, SOF]
+[07/29/2023 16:24]  HP OfficeJet: HP OfficeJet
+[07/29/2023 16:24]  a prevalian knight: a prevalian knight
+[07/29/2023 16:24]  a prevalian knight: a prevalian knight
+[07/29/2023 16:24]  a scarab: (bonded)
+[07/29/2023 16:24]  a scarab: a scarab
+[07/29/2023 16:24]  Eliane: Eliane
+[07/29/2023 16:24]  Quackletown: Quackletown
+[07/29/2023 16:24]  a llama: (bonded)
+[07/29/2023 16:24]  a llama: a llama
+[07/29/2023 16:24]  a llama: (bonded)
+[07/29/2023 16:24]  a llama: a llama
+[07/29/2023 16:24]  a frenzied ostard: (bonded)
+[07/29/2023 16:24]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:24]  a frenzied ostard: (bonded)
+[07/29/2023 16:24]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:24]  a forest ostard: (bonded)
+[07/29/2023 16:24]  a forest ostard: a forest ostard
+[07/29/2023 16:24]  a frenzied ostard: (bonded)
+[07/29/2023 16:24]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:24]  a forest ostard: (bonded)
+[07/29/2023 16:24]  a forest ostard: a forest ostard
+[07/29/2023 16:24]  a frenzied ostard: (bonded)
+[07/29/2023 16:25]  a frenzied ostard: a frenzied ostard
+[07/29/2023 16:25]  a llama: (bonded)
+[07/29/2023 16:25]  a llama: a llama
+[07/29/2023 16:25]  a horse: (bonded)
+[07/29/2023 16:25]  a horse: a horse
+[07/29/2023 16:25]  a horse: (bonded)
+[07/29/2023 16:25]  a horse: a horse
+[07/29/2023 16:25]  Mary Sue: Mary Sue
+[07/29/2023 16:25]  DrakeWhelp: (bonded)
+[07/29/2023 16:25]  DrakeWhelp: DrakeWhelp
+[07/29/2023 16:25]  DrakenA: (bonded)
+[07/29/2023 16:25]  DrakenA: DrakenA
+[07/29/2023 16:25]  DrakenB: (bonded)
+[07/29/2023 16:25]  DrakenB: DrakenB
+[07/29/2023 16:25]  Luisa: Luisa the Librarian
+[07/29/2023 16:25]  a book wyrm: a book wyrm
+[07/29/2023 16:25]  Foonch: Foonch
+[07/29/2023 16:25]  Cheap Ocean Good: Cheap Ocean Good
+[07/29/2023 16:25]  Sedro Panchez: Sedro Panchez
+[07/29/2023 16:25]  an ancient mummy: (summoned)
+[07/29/2023 16:25]  an ancient mummy: an ancient mummy
+[07/29/2023 16:25]  Necrominer: [rekt]
+[07/29/2023 16:25]  Necrominer: Necrominer
+[07/29/2023 16:25]  Cat wheel: Cat wheel
+[07/29/2023 16:25]  a skeleton: (summoned)
+[07/29/2023 16:25]  a skeleton: a skeleton
+[07/29/2023 16:25]  a vampire thrall: (summoned)
+[07/29/2023 16:25]  a vampire thrall: a vampire thrall
+[07/29/2023 16:25]  zoker-: zoker-
+[07/29/2023 16:25]  an ancient mummy: (summoned)
+[07/29/2023 16:25]  an ancient mummy: an ancient mummy
+[07/29/2023 16:25]  a vampire thrall: (summoned)
+[07/29/2023 16:25]  a vampire thrall: a vampire thrall
+[07/29/2023 16:25]  Nenloa: Monster Hunter Associate
+[07/29/2023 16:25]  Nenloa: [Witch DoctoR, UNW]
+[07/29/2023 16:25]  Nenloa: Nenloa
+[07/29/2023 16:25]  Verissimus: Verissimus
+[07/29/2023 16:25]  Eliane: Eliane
+[07/29/2023 16:25]  System: Your skill in Tactics has decreased by 40.0.  It is now 100.0.
+[07/29/2023 16:25]  Stink Fist: Kal Ort Por [Recall]
+[07/29/2023 16:25]  Cheap Ocean Good: MASSIVE NET Restock! Fishing Nets, Event Items, Cores, Links! TreasureRestock 7/27
+[07/29/2023 16:25]  Quackletown: Road Side Vendors in South Prev come shop our cheap goods! Rent a spot for only 5k/week
+[07/29/2023 16:25]  Cheap Ocean Good: NKB VENDOR HOUSE! MASSIVE NET Restock. All sorts of rares. TreasureRestock 7/27
+[07/29/2023 16:25]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[07/29/2023 16:25]  System: You have left the protection of the town guards.
+[07/29/2023 16:25]  Rane: Rane the dockmaster
+[07/29/2023 16:25]  System: Your skill in Tactics has increased by 40.0.  It is now 140.0.
+[07/29/2023 16:25]  Blood Draw: Legendarily Triggered
+[07/29/2023 16:25]  Blood Draw: [Emissary, brg]
+[07/29/2023 16:25]  Blood Draw: Blood Draw
+[07/29/2023 16:25]  System: Opening door...
+[07/29/2023 16:25]  System: Your house and its contents have been refreshed. 19 days 16 hours 34 minutes remaining until owner refresh required.
+[07/29/2023 16:25]  Razor:  Scanning for rat 
+[07/29/2023 16:25]  System: Where will you search?
+[07/29/2023 16:25]  System: You search the home and find no one hiding within.
+[07/29/2023 16:25]  [Razor]: No one matching that was found on your screen.
+[07/29/2023 16:25]  System: Target the individual to ban from this house.
+[07/29/2023 16:25]  Stink Fist: I ban thee
+[07/29/2023 16:25]  System: You cannot eject a friend of the house!
+[07/29/2023 16:25]  Rane: Rane the dockmaster
+[07/29/2023 16:25]  [Razor]: No one matching that was found on your screen. [4]
+[07/29/2023 16:25]  You see: Earth Aspect Core : 19
+[07/29/2023 16:25]  You see: Earth Aspect Distillation : 4
+[07/29/2023 16:26]  [Guild][Ikea.]: i se you sly!
+[07/29/2023 16:26]  [Guild][Slyvester]: Which char lol
+[07/29/2023 16:26]  [Guild][Ikea.]: slyvester miner lol
+[07/29/2023 16:26]  You see: Earth Aspect Core : 19
+[07/29/2023 16:26]  [Guild][Ikea.]: im below you
+[07/29/2023 16:26]  [Guild][Slyvester Miner]: ha
+[07/29/2023 16:26]  You see: Earth Aspect Distillation : 4
+[07/29/2023 16:27]  [Guild][Slyvester Miner]: this char i don't even turn tracking on
+[07/29/2023 16:27]  [Guild][Slyvester Miner]: wait to see who wants to fight me
+[07/29/2023 16:27]  [Guild][Ikea.]: lol
+[07/29/2023 16:27]  [Alliance][Lillath]: [SQzD] anyone made a tamer recently?
+[07/29/2023 16:27]  [Guild][Ikea.]: Cecil did
+[07/29/2023 16:27]  [Alliance][Bardotron]: [NC] sorta
+[07/29/2023 16:27]  [Alliance][Bardotron]: [NC] about a month ago
+[07/29/2023 16:27]  [Guild][Ikea.]: he just got 120
+[07/29/2023 16:28]  [Alliance][Lillath]: [SQzD] im trying to get the script to work but its really outdated and the cavebear for 60-80 has been 
+[07/29/2023 16:28]  [Alliance][Lillath]: [SQzD] moved to lvl 2 its impossible
+[07/29/2023 16:28]  [Guild][Ikea.]: not impossible
+[07/29/2023 16:28]  [Alliance][Bardotron]: [NC] idk about scripts i did everything by hand
+[07/29/2023 16:29]  [Guild][Ikea.]: same
+[07/29/2023 16:29]  [Guild][Ikea.]: same
+[07/29/2023 16:29]  System: Moriah has completed the achievement: Pilferer (Basic).
+[07/29/2023 16:29]  [Guild][Ikea.]: cecil didnt script it either we did it by hand but mines only 80
+[07/29/2023 16:29]  [Alliance][Bardotron]: [NC] finished to 120/120 in about 2 and a half days
+[07/29/2023 16:29]  System: Holy symbols remaining: 7/12
+[07/29/2023 16:29]  Razor: [+Paralyze (0s)]
+[07/29/2023 16:29]  Razor: [-Paralyze (s)]
+[07/29/2023 16:29]  System: You are no longer hindered.
+[07/29/2023 16:30]  System: You are now under the protection of the town guards.
+[07/29/2023 16:30]  System: You receive a Sacred Journey damage bonus of 6.0% for the next 30 minutes.
+[07/29/2023 16:30]  Razor: [+Hidden/Stealthing (0s)]
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  a cat: a cat
+[07/29/2023 16:30]  Avasa: Avasa the healer
+[07/29/2023 16:30]  Canton: Canton the healer
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  an andarian marksman: an andarian marksman
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  Gerry: Gerry the healer
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  an andarian knight: an andarian knight
+[07/29/2023 16:30]  a cat: a cat
+[07/29/2023 16:30]  Razor: [-Hidden/Stealthing (s)]
+[07/29/2023 16:30]  Germain: Germain the weaponsmith
+[07/29/2023 16:30]  Abbott: Abbott the blacksmith
+[07/29/2023 16:30]  Gaye: Gaye the armorer
+[07/29/2023 16:30]  Lydde: Lydde
+[07/29/2023 16:30]  Nasiche: Nasiche the bard
+[07/29/2023 16:30]  Orlantha: Orlantha the banker
+[07/29/2023 16:30]  a defunct andarian golem (sieg: a defunct andarian golem (siege of King's Manor relic)
+[07/29/2023 16:30]  Roi: Roi the banker
+[07/29/2023 16:30]  Malagos: (bonded)
+[07/29/2023 16:30]  Malagos: Malagos
+[07/29/2023 16:30]  PyCharm Tamer: PyCharm Tamer
+[07/29/2023 16:30]  Jamie: Jamie the butcher
+[07/29/2023 16:30]  Sarvoth: [Civilian, Yew]
+[07/29/2023 16:30]  Sarvoth: Sarvoth
+[07/29/2023 16:30]  Baelon: (bonded)
+[07/29/2023 16:30]  Baelon: Baelon
+[07/29/2023 16:30]  DonSey: DonSey
+[07/29/2023 16:30]  Bart: Bart the Town Crier
+[07/29/2023 16:30]  Britta: Britta the banker
+[07/29/2023 16:30]  Bart: A 1 vs 1 Order Tournament will commence within the hour!
+[07/29/2023 16:30]  VinnySmeags: VinnySmeags
+[07/29/2023 16:30]  Nelson: Nelson the baker
+[07/29/2023 16:30]  Marley-: Marley-
+[07/29/2023 16:30]  Greger: Greger the cook
+[07/29/2023 16:30]  popipo: popipo
+[07/29/2023 16:30]  YvesSaintLaurent: YvesSaintLaurent
+[07/29/2023 16:30]  MartinLongbow: [Beard Brother, BB]
+[07/29/2023 16:30]  MartinLongbow: MartinLongbow
+[07/29/2023 16:30]  Xryz: Triggered
+[07/29/2023 16:30]  Xryz: Lord Xryz
+[07/29/2023 16:30]  Piano Man: [The Tavern], [tT]
+[07/29/2023 16:30]  Piano Man: Piano Man
+[07/29/2023 16:30]  Budo: Budo the stablemaster
+[07/29/2023 16:30]  an andarian mage: an andarian mage
+[07/29/2023 16:30]  Kevin Gates: Legendary Domesticator
+[07/29/2023 16:30]  Kevin Gates: [Unit, DPS]
+[07/29/2023 16:30]  Kevin Gates: Kevin Gates
+[07/29/2023 16:30]  Candida: Candida the cobbler
+[07/29/2023 16:30]  Leiko: Leiko the tinker
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  a dog: a dog
+[07/29/2023 16:30]  a cat: a cat
+[07/29/2023 16:30]  Kelli: Kelli the mage
+[07/29/2023 16:30]  Shani: Shani the mage
+[07/29/2023 16:30]  Mae: Mae the herbalist
+[07/29/2023 16:30]  System: Max holy symbols earned (12/12)
+[07/29/2023 16:30]  Kelli: Kelli the mage
+[07/29/2023 16:30]  Ines: Ines the alchemist
+[07/29/2023 16:30]  a sheep: a sheep
+[07/29/2023 16:30]  a cow: a cow
+[07/29/2023 16:30]  Ravi: Ravi the farmer
+[07/29/2023 16:30]  Anissa: Anissa the farmer
+[07/29/2023 16:30]  System: You have left the protection of the town guards.
+[07/29/2023 16:30]  a sheep: a sheep
+[07/29/2023 16:30]  a sheep: a sheep
+[07/29/2023 16:30]  a goat: a goat
+[07/29/2023 16:30]  Marjorie: Marjorie the lumberjack
+[07/29/2023 16:30]  ** ANDARIA GATE **: ** ANDARIA GATE **
+[07/29/2023 16:30]  Armi Surplus: Armi Surplus
+[07/29/2023 16:30]  Mimmios Merch: Mimmios Merch
+[07/29/2023 16:30]  BULK REGS 3.5 GP!: BULK REGS 3.5 GP!
+[07/29/2023 16:30]  CAPSLOCK BUTTON STUC: CAPSLOCK BUTTON STUC
+[07/29/2023 16:30]  Cheapest Chet: Cheapest Chet
+[07/29/2023 16:30]  Ish's Goodies: Ish's Goodies
+[07/29/2023 16:30]  Corner Store: Corner Store
+[07/29/2023 16:30]  Stuff & Things: Stuff & Things
+[07/29/2023 16:30]  Starter Mage/Vet: Starter Mage/Vet
+[07/29/2023 16:30]  BEAGLE EMPORIUM: BEAGLE EMPORIUM
+[07/29/2023 16:30]  Greek: Greek
+[07/29/2023 16:30]  Urk Vendor itemz: Urk Vendor itemz
+[07/29/2023 16:30]  Shimmer Kit Rare: Shimmer Kit Rare
+[07/29/2023 16:30]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[07/29/2023 16:30]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[07/29/2023 16:30]  Color Wood: Color Wood
+[07/29/2023 16:30]  DANGEON LOOT: DANGEON LOOT
+[07/29/2023 16:30]  BULK REGS 3.5GP PER!: BULK REGS 3.5GP PER!
+[07/29/2023 16:30]  -FRESH MEAT-: -FRESH MEAT-
+[07/29/2023 16:30]  Oil Bundle Foci: Oil Bundle Foci
+[07/29/2023 16:30]  Top Tinker: Top Tinker
+[07/29/2023 16:30]  CONTAINER WAND: CONTAINER WAND
+[07/29/2023 16:30]  FOOD/INGOTS/LEATHER: FOOD/INGOTS/LEATHER
+[07/29/2023 16:30]  Crossbow&Quiver: Crossbow&Quiver
+[07/29/2023 16:30]  YOUR BEST CHOICE: YOUR BEST CHOICE
+[07/29/2023 16:30]  Core&Extract&Maps: Core&Extract&Maps
+[07/29/2023 16:30]  CHEAP AS FACKS: CHEAP AS FACKS
+[07/29/2023 16:30]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[07/29/2023 16:30]  Skill Mastery Scroll: Skill Mastery Scroll
+[07/29/2023 16:30]  BOARDS BOARDS BOARDS: BOARDS BOARDS BOARDS
+[07/29/2023 16:30]  ALCH, LOOT. STOLEN.: ALCH, LOOT. STOLEN.
+[07/29/2023 16:30]  prevalian coins: prevalian coins
+[07/29/2023 16:30]  SHIP UPGRADES / CREW: SHIP UPGRADES / CREW
+[07/29/2023 16:30]  BULK REGS 3.5GP!: BULK REGS 3.5GP!
+[07/29/2023 16:30]  Drough: Drough
+[07/29/2023 16:30]  EvilFireblades Goods: EvilFireblades Goods
+[07/29/2023 16:30]  EvilFireblade 2: EvilFireblade 2
+[07/29/2023 16:30]  Cores/Extract/Scroll: Cores/Extract/Scroll
+[07/29/2023 16:30]  WTS Ruffled Blouse: WTS Ruffled Blouse
+[07/29/2023 16:30]  CheaperVendor: CheaperVendor
+[07/29/2023 16:30]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[07/29/2023 16:30]  Tainn: Tainn
+[07/29/2023 16:30]  **Consumer Goods**: **Consumer Goods**
+[07/29/2023 16:30]  CHEAP MAN: CHEAP MAN
+[07/29/2023 16:30]  BestHouse WEAPONS: BestHouse WEAPONS
+[07/29/2023 16:30]  Drough: An Lor Xen [Invisibility]
+[07/29/2023 16:30]  System: You are now under the protection of the town guards.
+[07/29/2023 16:30]  Razor: [+Hidden/Stealthing (0s)]
+[07/29/2023 16:30]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[07/29/2023 16:30]  CIA KILLED KENNEDY: CIA KILLED KENNEDY
+[07/29/2023 16:30]  RESTOCKED DAILY: RESTOCKED DAILY
+[07/29/2023 16:30]  CORES/DISTILS/CLOTH: CORES/DISTILS/CLOTH
+[07/29/2023 16:30]  WIZARD'S SATCHELS!: WIZARD'S SATCHELS!
+[07/29/2023 16:30]  CARPENTRY: CARPENTRY
+[07/29/2023 16:30]  ID WANDS!: ID WANDS!
+[07/29/2023 16:30]  TAILORING: TAILORING
+[07/29/2023 16:30]  QUIVERS R US!: QUIVERS R US!
+[07/29/2023 16:30]  JUNK LINKS - CHEAP!!: JUNK LINKS - CHEAP!!
+[07/29/2023 16:30]  120 FOOD: 120 FOOD
+[07/29/2023 16:30]  Rares/MCD/Orbs: Rares/MCD/Orbs
+[07/29/2023 16:30]  Omni Loot: Omni Loot
+[07/29/2023 16:30]  Levana: Levana
+[07/29/2023 16:30]  Bodoshop: Bodoshop
+[07/29/2023 16:30]  JamiliahEtc: JamiliahEtc
+[07/29/2023 16:30]  Shadow/Copper Plate: Shadow/Copper Plate
+[07/29/2023 16:30]  Bronze/Gold Plate: Bronze/Gold Plate
+[07/29/2023 16:30]  Iron/DC Plate: Iron/DC Plate
+[07/29/2023 16:30]  Buyukada: Buyukada
+[07/29/2023 16:30]  Torneko's Shop: Torneko's Shop
+[07/29/2023 16:30]  Ag/Ver/Val/Av Plate: Ag/Ver/Val/Av Plate
+[07/29/2023 16:30]  Core&Leather ETC: Core&Leather ETC
+[07/29/2023 16:30]  BBBaattle Commssssss: BBBaattle Commssssss
+[07/29/2023 16:30]  CacheGoods: CacheGoods
+[07/29/2023 16:30]  BULK INGOTS: BULK INGOTS
+[07/29/2023 16:30]  @@TAMER STUFF@@: @@TAMER STUFF@@
+[07/29/2023 16:30]  Av/Val 120 Tinker: Av/Val 120 Tinker
+[07/29/2023 16:30]  DAILY RENEW: DAILY RENEW
+[07/29/2023 16:30]  Jerzy: Jerzy
+[07/29/2023 16:30]  Leather&Misc&Cores: Leather&Misc&Cores
+[07/29/2023 16:30]  REGS REGS REGS REGS: REGS REGS REGS REGS
+[07/29/2023 16:30]  **Distil Core GEM: **Distil Core GEM
+[07/29/2023 16:30]  BULK REGS 3.5 GP PER: BULK REGS 3.5 GP PER
+[07/29/2023 16:30]  !Reg*Bottle*LEATHER: !Reg*Bottle*LEATHER
+[07/29/2023 16:30]  Battle Commendations: Battle Commendations
+[07/29/2023 16:30]  LEATHER-MCD-ARCANE: LEATHER-MCD-ARCANE
+[07/29/2023 16:30]  GOOD STUFF!: GOOD STUFF!
+[07/29/2023 16:30]  PLATE RES BC: PLATE RES BC
+[07/29/2023 16:30]  CLOTH/BATTLECOMS: CLOTH/BATTLECOMS
+[07/29/2023 16:30]  OrbMCDAspext: OrbMCDAspext
+[07/29/2023 16:30]  Iron Weapons (999gp): Iron Weapons (999gp)
+[07/29/2023 16:30]  120 Armor: 120 Armor
+[07/29/2023 16:30]  30k Asepckt Kits: 30k Asepckt Kits
+[07/29/2023 16:30]  Copper Weps (1900gp): Copper Weps (1900gp)
+[07/29/2023 16:30]  120 Leather: 120 Leather
+[07/29/2023 16:30]  System: A 1 vs 1 Order Tournament will begin in 30 minutes.
+[07/29/2023 16:30]  [Razor]: New target set.
+[07/29/2023 16:30]  Razor: Target: JamiliahEtc
+[07/29/2023 16:30]  Razor: Target: Bodoshop
+[07/29/2023 16:30]  Razor: Target: **Distil Core GEM
+[07/29/2023 16:30]  Razor: Target: Levana
+[07/29/2023 16:30]  Razor: Target: Omni Loot
+[07/29/2023 16:30]  Razor: Target: REGS REGS REGS REGS
+[07/29/2023 16:30]  Razor: Target: Rares/MCD/Orbs
+[07/29/2023 16:30]  Razor: Target: 120 FOOD
+[07/29/2023 16:30]  Razor: Target: JUNK LINKS - CHEAP!!
+[07/29/2023 16:30]  Razor: Target: QUIVERS R US!
+[07/29/2023 16:30]  Razor: Target: TAILORING
+[07/29/2023 16:30]  Razor: Target: ID WANDS!
+[07/29/2023 16:30]  Razor: Target: CARPENTRY
+[07/29/2023 16:30]  Razor: Target: WIZARD'S SATCHELS!
+[07/29/2023 16:30]  Razor: Target: CORES/DISTILS/CLOTH
+[07/29/2023 16:30]  Razor: Target: RESTOCKED DAILY
+[07/29/2023 16:30]  Razor: Target: LEATHER-MCD-ARCANE
+[07/29/2023 16:30]  Razor: Target: !Reg*Bottle*LEATHER
+[07/29/2023 16:30]  Razor: Target: 120 Armor
+[07/29/2023 16:30]  Razor: Target: CIA KILLED KENNEDY
+[07/29/2023 16:30]  Razor: Target: Jerzy
+[07/29/2023 16:30]  Razor: Target: Leather&Misc&Cores
+[07/29/2023 16:30]  Razor: Target: PLATE RES BC
+[07/29/2023 16:30]  Razor: Target: Battle Commendations
+[07/29/2023 16:30]  Razor: Target: DAILY RENEW
+[07/29/2023 16:30]  Razor: Target: Av/Val 120 Tinker
+[07/29/2023 16:30]  Razor: Target: Copper Weps (1900gp)
+[07/29/2023 16:30]  Razor: Target: Iron Weapons (999gp)
+[07/29/2023 16:30]  Razor: Target: @@TAMER STUFF@@
+[07/29/2023 16:30]  Razor: Target: GOOD STUFF!
+[07/29/2023 16:30]  Razor: Target: BULK INGOTS
+[07/29/2023 16:30]  Razor: Target: CacheGoods
+[07/29/2023 16:30]  Razor: Target: BBBaattle Commssssss
+[07/29/2023 16:30]  Razor: Target: Core&Leather ETC
+[07/29/2023 16:30]  Razor: Target: OrbMCDAspext
+[07/29/2023 16:30]  Razor: Target: Ag/Ver/Val/Av Plate
+[07/29/2023 16:30]  Razor: Target: 120 Leather
+[07/29/2023 16:30]  Razor: Target: Torneko's Shop
+[07/29/2023 16:30]  Torneko's Shop: Take a look at my goods.
+[07/29/2023 16:30]  [Razor]: New target set. [37]
+[07/29/2023 16:30]  You see: Price: 29999
+[07/29/2023 16:30]  You see: Holy Aspect Distillation : 5
+[07/29/2023 16:30]  You see: Price: 14999
+[07/29/2023 16:30]  You see: Earth Aspect Distillation : 5
+[07/29/2023 16:30]  System: You purchase the item.
+[07/29/2023 16:31]  You see: Price: 49999
+[07/29/2023 16:31]  You see: Fortune Aspect Distillation : 5
+[07/29/2023 16:31]  Dirty Joe: Legendary Versatility
+[07/29/2023 16:31]  Dirty Joe: Dirty Joe
+[07/29/2023 16:31]  System: Your guild's prestige has increased by 1
+[07/29/2023 16:31]  **Distil Core GEM: Take a look at my goods.
+[07/29/2023 16:31]  Dirty Joe: Legendary Versatility
+[07/29/2023 16:31]  Dirty Joe: Dirty Joe
+[07/29/2023 16:31]  System: The world will save in 15 seconds.
+[07/29/2023 16:32]  System: The world is saving, please wait.
+[07/29/2023 16:32]  System: World save complete. The entire process took 4.6 seconds.
+[07/29/2023 16:32]  Razor: [-Hidden/Stealthing (s)]
+[07/29/2023 16:32]  120 Scribe: 120 Scribe
+[07/29/2023 16:32]  Razor: [+Hidden/Stealthing (0s)]
+[07/29/2023 16:32]  EvilFireblades Goods: EvilFireblades Goods
+[07/29/2023 16:32]  EvilFireblade 2: EvilFireblade 2
+[07/29/2023 16:32]  Cores/Extract/Scroll: Cores/Extract/Scroll
+[07/29/2023 16:32]  CheaperVendor: CheaperVendor
+[07/29/2023 16:32]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[07/29/2023 16:32]  YOUR BEST CHOICE: YOUR BEST CHOICE
+[07/29/2023 16:32]  Core&Extract&Maps: Core&Extract&Maps
+[07/29/2023 16:32]  CHEAP AS FACKS: CHEAP AS FACKS
+[07/29/2023 16:32]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[07/29/2023 16:32]  Skill Mastery Scroll: Skill Mastery Scroll
+[07/29/2023 16:32]  Tainn: Tainn
+[07/29/2023 16:32]  **Consumer Goods**: **Consumer Goods**
+[07/29/2023 16:32]  CHEAP MAN: CHEAP MAN
+[07/29/2023 16:32]  BestHouse WEAPONS: BestHouse WEAPONS
+[07/29/2023 16:32]  BOARDS BOARDS BOARDS: BOARDS BOARDS BOARDS
+[07/29/2023 16:32]  ALCH, LOOT. STOLEN.: ALCH, LOOT. STOLEN.
+[07/29/2023 16:32]  prevalian coins: prevalian coins
+[07/29/2023 16:32]  SHIP UPGRADES / CREW: SHIP UPGRADES / CREW
+[07/29/2023 16:32]  BULK REGS 3.5GP!: BULK REGS 3.5GP!
+[07/29/2023 16:32]  CAPSLOCK BUTTON STUC: CAPSLOCK BUTTON STUC
+[07/29/2023 16:32]  Armi Surplus: Armi Surplus
+[07/29/2023 16:32]  Corner Store: Corner Store
+[07/29/2023 16:32]  Stuff & Things: Stuff & Things
+[07/29/2023 16:32]  Cheapest Chet: Cheapest Chet
+[07/29/2023 16:32]  Starter Mage/Vet: Starter Mage/Vet
+[07/29/2023 16:32]  Mimmios Merch: Mimmios Merch
+[07/29/2023 16:32]  ** ANDARIA GATE **: ** ANDARIA GATE **
+[07/29/2023 16:32]  Ish's Goodies: Ish's Goodies
+[07/29/2023 16:32]  BULK REGS 3.5 GP!: BULK REGS 3.5 GP!
+[07/29/2023 16:32]  [Razor]: New target set.
+[07/29/2023 16:32]  Razor: Target: Tainn
+[07/29/2023 16:32]  Razor: Target: Skill Mastery Scroll
+[07/29/2023 16:32]  Razor: Target: CORES DISTILLS SHIT
+[07/29/2023 16:32]  Razor: Target: CHEAP AS FACKS
+[07/29/2023 16:32]  Razor: Target: Core&Extract&Maps
+[07/29/2023 16:32]  Razor: Target: YOUR BEST CHOICE
+[07/29/2023 16:32]  Razor: Target: MCD/MAPS/RARES/LINKS
+[07/29/2023 16:32]  Razor: Target: CheaperVendor
+[07/29/2023 16:32]  Razor: Target: Cores/Extract/Scroll
+[07/29/2023 16:32]  Razor: Target: EvilFireblade 2
+[07/29/2023 16:32]  Razor: Target: EvilFireblades Goods
+[07/29/2023 16:32]  EvilFireblades Goods: Take a look at my goods.
+[07/29/2023 16:32]  : tree
+[07/29/2023 16:32]  [Razor]: New target set. [10]
+[07/29/2023 16:32]  lll: lll
+[07/29/2023 16:32]  [Alliance][Killy Clarkson]: [NC] PETTY MINI UP
+[07/29/2023 16:32]  You see: Price: 3999
+[07/29/2023 16:32]  You see: Earth Aspect Core
+[07/29/2023 16:32]  System: You purchase the item.
+[07/29/2023 16:32]  [Alliance][Mexican]: [NC] MINI BOSS IN MT PETTY
+[07/29/2023 16:32]  [Alliance][Mexican]: [NC] MINI BOSS IN MT PETTY
+[07/29/2023 16:32]  Drough: Drough
+[07/29/2023 16:32]  You see: Price: 2999
+[07/29/2023 16:32]  You see: Earth Aspect Distillation
+[07/29/2023 16:32]  Feluria: Feluria
+[07/29/2023 16:32]  Razor: [-Hidden/Stealthing (s)]
+[07/29/2023 16:32]  WTS Ruffled Blouse: WTS Ruffled Blouse
+[07/29/2023 16:32]  Color Wood: Color Wood
+[07/29/2023 16:32]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[07/29/2023 16:32]  FOOD/INGOTS/LEATHER: FOOD/INGOTS/LEATHER
+[07/29/2023 16:32]  Greek: Greek
+[07/29/2023 16:32]  Crossbow&Quiver: Crossbow&Quiver
+[07/29/2023 16:32]  Urk Vendor itemz: Urk Vendor itemz
+[07/29/2023 16:32]  BULK REGS 3.5GP PER!: BULK REGS 3.5GP PER!
+[07/29/2023 16:32]  Top Tinker: Top Tinker
+[07/29/2023 16:32]  Shimmer Kit Rare: Shimmer Kit Rare
+[07/29/2023 16:32]  DANGEON LOOT: DANGEON LOOT
+[07/29/2023 16:32]  a goat: a goat
+[07/29/2023 16:32]  CONTAINER WAND: CONTAINER WAND
+[07/29/2023 16:32]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[07/29/2023 16:32]  -FRESH MEAT-: -FRESH MEAT-
+[07/29/2023 16:32]  Oil Bundle Foci: Oil Bundle Foci
+[07/29/2023 16:32]  BEAGLE EMPORIUM: BEAGLE EMPORIUM
+[07/29/2023 16:32]  Anissa: Anissa the farmer
+[07/29/2023 16:32]  System: You have left the protection of the town guards.
+[07/29/2023 16:32]  Marjorie: Marjorie the lumberjack
+[07/29/2023 16:32]  Ravi: Ravi the farmer
+[07/29/2023 16:32]  a cow: a cow
+[07/29/2023 16:32]  a sheep: a sheep
+[07/29/2023 16:32]  a sheep: a sheep
+[07/29/2023 16:32]  a sheep: a sheep
+[07/29/2023 16:33]  System: You are now under the protection of the town guards.
+[07/29/2023 16:33]  Ines: Ines the alchemist
+[07/29/2023 16:33]  Mae: Mae the herbalist
+[07/29/2023 16:33]  [Alliance][Mexican]: [NC] NVM
+[07/29/2023 16:33]  [Alliance][Switch Quietsoul]: [SQzD] WHo goes?
+[07/29/2023 16:33]  [Alliance][Mexican]: [NC] NVM
+[07/29/2023 16:33]  System: Your skill in Tactics has decreased by 40.0.  It is now 100.0.
+[07/29/2023 16:33]  Stink Fist: Kal Ort Por [Recall]
+[07/29/2023 16:33]  [Alliance][Mexican]: [NC] NVM
+[07/29/2023 16:33]  System: You have left the protection of the town guards.
+[07/29/2023 16:33]  Rane: Rane the dockmaster
+[07/29/2023 16:33]  System: Your skill in Tactics has increased by 40.0.  It is now 140.0.
+[07/29/2023 16:33]  Blood Draw: Legendarily Triggered
+[07/29/2023 16:33]  Blood Draw: [Emissary, brg]
+[07/29/2023 16:33]  Blood Draw: Blood Draw
+[07/29/2023 16:33]  System: Opening door...
+[07/29/2023 16:33]  System: Your house and its contents have been refreshed. 19 days 16 hours 26 minutes remaining until owner refresh required.
+[07/29/2023 16:33]  Razor:  Scanning for rat 
+[07/29/2023 16:33]  System: Where will you search?
+[07/29/2023 16:33]  System: You search the home and find no one hiding within.
+[07/29/2023 16:33]  [Razor]: No one matching that was found on your screen.
+[07/29/2023 16:33]  System: Target the individual to ban from this house.
+[07/29/2023 16:33]  Stink Fist: I ban thee
+[07/29/2023 16:33]  System: You cannot eject a friend of the house!
+[07/29/2023 16:33]  [Alliance][a minor nuisance]: [NC] nvm
+[07/29/2023 16:33]  Rane: Rane the dockmaster
+[07/29/2023 16:33]  [Razor]: No one matching that was found on your screen. [4]
+[07/29/2023 16:33]  [Alliance][a minor nuisance]: [NC] nvm
+[07/29/2023 16:33]  [Alliance][Switch Quietsoul]: [SQzD]  I know you are going to save the loot for yourself!
+[07/29/2023 16:33]  You see: Earth Aspect Core : 20
+[07/29/2023 16:33]  You see: Earth Aspect Distillation : 9
+[07/29/2023 16:33]  You see: a bank deposit safe
+[07/29/2023 16:33]  You see: (2,073,497 gold balance)
+[07/29/2023 16:33]  You see: [locked down]
+[07/29/2023 16:35]  System: MinerSituation has completed the achievement: Order of Armorers Patrician.
+[07/29/2023 16:36]  System: Babydoll has completed the achievement: Order of Armorers Luminary.

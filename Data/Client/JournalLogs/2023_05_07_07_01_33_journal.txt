@@ -1,0 +1,3779 @@
+[05/07/2023 07:01]  System: WorldMap loading...
+[05/07/2023 07:01]  System: Loading WorldMap markers..
+[05/07/2023 07:01]  System: ..Banks_and_Healers.xml (20)
+[05/07/2023 07:01]  System: ..Dungeons.xml (12)
+[05/07/2023 07:01]  System: ..Dungeon_Gates.xml (325)
+[05/07/2023 07:01]  System: ..Healer_Caravans.xml (32)
+[05/07/2023 07:01]  System: ..Moongates.xml (9)
+[05/07/2023 07:01]  System: ..POI.xml (176)
+[05/07/2023 07:01]  System: ..PvP_Locations.xml (71)
+[05/07/2023 07:01]  System: ..Shrines.xml (9)
+[05/07/2023 07:01]  System: ..Subterranean.xml (6)
+[05/07/2023 07:01]  System: ..Townships.xml (9)
+[05/07/2023 07:01]  System: WorldMap markers loaded (669)
+[05/07/2023 07:01]  System: Welcome Stink Fist!
+[05/07/2023 07:01]  Stink Fist: Stink Fist
+[05/07/2023 07:01]  Rane: Rane the dockmaster
+[05/07/2023 07:01]  a giant rat: a giant rat
+[05/07/2023 07:01]  Wulf of Wyrd: Wulf of Wyrd
+[05/07/2023 07:01]  an ogre: an ogre
+[05/07/2023 07:01]  System: WorldMap loaded!
+[05/07/2023 07:02]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/07/2023 07:02]  System: Your strength has changed by 10.  It is now 110
+[05/07/2023 07:02]  System: Your dexterity has changed by 10.  It is now 110
+[05/07/2023 07:02]  System: Your intelligence has changed by 10.  It is now 35
+[05/07/2023 07:02]  Razor: [+Strength (600s)]
+[05/07/2023 07:02]  Razor: Str: +10 - 110
+[05/07/2023 07:02]  Razor: [-Strength (s)]
+[05/07/2023 07:02]  Razor: [+Strength (600s)]
+[05/07/2023 07:02]  Razor: [+Agility (600s)]
+[05/07/2023 07:02]  Razor: Dex: +10 - 110
+[05/07/2023 07:02]  Razor: [-Agility (s)]
+[05/07/2023 07:02]  Razor: [+Agility (600s)]
+[05/07/2023 07:02]  Razor: [+Cunning (600s)]
+[05/07/2023 07:02]  Razor: Int: +10 - 35
+[05/07/2023 07:02]  Razor: [-Cunning (s)]
+[05/07/2023 07:02]  Razor: [+Cunning (600s)]
+[05/07/2023 07:03]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/07/2023 07:03]  Razor: [+Protection (600s)]
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Target: an ogre
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Stink Fist: The food is delectable and is intensely satisfying.
+[05/07/2023 07:03]  Razor: [+Food Satisfaction (3600s)]
+[05/07/2023 07:03]  Razor: Loading hotbar
+[05/07/2023 07:03]  System: Who will you use the bandages on?
+[05/07/2023 07:03]  System: You begin applying the bandages.
+[05/07/2023 07:03]  Razor: Bandage: 10s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Razor: Bandage: 9s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Bandage: 8s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Razor: Bandage: 7s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Bandage: 6s
+[05/07/2023 07:03]  Razor: Bandage: 5s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Razor: Bandage: 4s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Bandage: 3s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Razor: Bandage: 2s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Bandage: 1s
+[05/07/2023 07:03]  System: You finish applying the bandages.
+[05/07/2023 07:03]  Stink Fist: +5
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Stink Fist: Stink Fist
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Razor: Attack: an ogre
+[05/07/2023 07:03]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Target: a giant rat
+[05/07/2023 07:03]  Razor: Attack: a giant rat
+[05/07/2023 07:03]  System: Holy symbols remaining: 7/10
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Target: an ogre
+[05/07/2023 07:03]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:03]  Razor: Attack: an ogre
+[05/07/2023 07:03]  System: Your strike disarms your target!
+[05/07/2023 07:03]  an ogre: -162
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Stink Fist: -1
+[05/07/2023 07:03]  Razor: Divine Fury
+[05/07/2023 07:03]  System: Divine Fury
+[05/07/2023 07:03]  an ogre: -72
+[05/07/2023 07:03]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:03]  System: Who will you use the bandages on?
+[05/07/2023 07:03]  System: You begin applying the bandages.
+[05/07/2023 07:03]  Razor: Bandage: 10s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Target: a giant rat
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  Razor: Attack: a giant rat
+[05/07/2023 07:03]  an ogre: -72
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Bandage: 9s
+[05/07/2023 07:03]  System: Your attack hinders your target!
+[05/07/2023 07:03]  a giant rat: -104
+[05/07/2023 07:03]  Razor: Bandage: 8s
+[05/07/2023 07:03]  a giant rat: -48
+[05/07/2023 07:03]  Razor: Bandage: 7s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[05/07/2023 07:03]  System: You have gained a little fame.
+[05/07/2023 07:03]  Stink Fist: (Earth Aspect 2,908.9/4000 xp)
+[05/07/2023 07:03]  System: -48
+[05/07/2023 07:03]  You see: a giant rat corpse
+[05/07/2023 07:03]  Razor: Bandage: 6s
+[05/07/2023 07:03]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:03]  Razor: Bandage: 5s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: Target: an ogre
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  Razor: Attack: an ogre
+[05/07/2023 07:03]  an ogre: -74
+[05/07/2023 07:03]  Razor: Bandage: 4s
+[05/07/2023 07:03]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:03]  an ogre: -108
+[05/07/2023 07:03]  Razor: Bandage: 3s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Stink Fist: -9
+[05/07/2023 07:03]  an ogre: -61
+[05/07/2023 07:03]  Razor: Bandage: 2s
+[05/07/2023 07:03]  System: Captcha successful.
+[05/07/2023 07:03]  System: You carve materials from the corpse.
+[05/07/2023 07:03]  Razor: Bandage: 1s
+[05/07/2023 07:03]  System: You finish applying the bandages.
+[05/07/2023 07:03]  Stink Fist: +9
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  an ogre: -79
+[05/07/2023 07:03]  an ogre: -39
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -106
+[05/07/2023 07:03]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -51
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  an ogre: -27
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -144
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -102
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  an ogre: -63
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -194
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  an ogre: -32
+[05/07/2023 07:03]  an ogre: -53
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -77
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  System: Holy symbols remaining: 8/10
+[05/07/2023 07:03]  an ogre: -29
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  Stink Fist: -10
+[05/07/2023 07:03]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:03]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:03]  Razor: [DISARM]
+[05/07/2023 07:03]  System: You fail to disarm your opponent.
+[05/07/2023 07:03]  System: Who will you use the bandages on?
+[05/07/2023 07:03]  System: You begin applying the bandages.
+[05/07/2023 07:03]  Razor: Bandage: 10s
+[05/07/2023 07:03]  System: New target set.
+[05/07/2023 07:03]  an ogre: -61
+[05/07/2023 07:04]  Razor: Divine Fury
+[05/07/2023 07:04]  System: Divine Fury
+[05/07/2023 07:04]  Razor: Bandage: 9s
+[05/07/2023 07:04]  an ogre: -57
+[05/07/2023 07:04]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:04]  Stink Fist: +10
+[05/07/2023 07:04]  System: some damage has been healed : 10
+[05/07/2023 07:04]  an ogre: -181
+[05/07/2023 07:04]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:04]  Razor: Bandage: 8s
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:04]  Razor: Bandage: 7s
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  an ogre: -37
+[05/07/2023 07:04]  Razor: Bandage: 6s
+[05/07/2023 07:04]  Razor: Bandage: 5s
+[05/07/2023 07:04]  an ogre: -45
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:04]  Razor: Bandage: 4s
+[05/07/2023 07:04]  System: You have gained some fame.
+[05/07/2023 07:04]  Stink Fist: (Earth Aspect 2,912.5/4000 xp)
+[05/07/2023 07:04]  System: -74
+[05/07/2023 07:04]  You see: an ogre corpse
+[05/07/2023 07:04]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:04]  Razor: Bandage: 3s
+[05/07/2023 07:04]  System: You carve materials from the corpse.
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  Razor: Bandage: 2s
+[05/07/2023 07:04]  Razor: Bandage: 1s
+[05/07/2023 07:04]  System: You heal what little damage you had.
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: What corpse or location do you wish to carve?
+[05/07/2023 07:04]  Razor: Target: Stink Fist
+[05/07/2023 07:04]  System: You dont see anything nearby worth carving or investigating.
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: Opening door...
+[05/07/2023 07:04]  System: Your house and its contents have been refreshed. 24 days 1 hour 16 minutes remaining until owner refresh required.
+[05/07/2023 07:04]  System: Holy symbols remaining: 7/10
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  Rane: Rane the dockmaster
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: You have been in combat too recently to use that ability.
+[05/07/2023 07:04]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: [+Paralyze (0s)]
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  Razor: [-Paralyze (s)]
+[05/07/2023 07:04]  System: You are no longer hindered.
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  Razor: found no one
+[05/07/2023 07:04]  System: You receive a Sacred Journey damage bonus of 5.3% for the next 30 minutes.
+[05/07/2023 07:04]  a snow flurry: a snow flurry
+[05/07/2023 07:04]  System: No one matching that was found on your screen.
+[05/07/2023 07:04]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:04]  a snow elemental: a snow elemental
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  Razor: Target: a snow flurry
+[05/07/2023 07:04]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:04]  Razor: Attack: a snow flurry
+[05/07/2023 07:04]  Stink Fist: -10
+[05/07/2023 07:04]  System: You fail to disarm your opponent.
+[05/07/2023 07:04]  System: Who will you use the bandages on?
+[05/07/2023 07:04]  System: You begin applying the bandages.
+[05/07/2023 07:04]  Razor: Bandage: 10s
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  a snow flurry: -256
+[05/07/2023 07:04]  Razor: Bandage: 9s
+[05/07/2023 07:04]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:04]  Razor: Bandage: 8s
+[05/07/2023 07:04]  a snow flurry: -52
+[05/07/2023 07:04]  Razor: Bandage: 7s
+[05/07/2023 07:04]  a snow flurry: -225
+[05/07/2023 07:04]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:04]  Stink Fist: -3
+[05/07/2023 07:04]  System: Your fingers slip!
+[05/07/2023 07:04]  Razor: Bandage: 6s
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:04]  Stink Fist: -2
+[05/07/2023 07:04]  Razor: Bandage: 5s
+[05/07/2023 07:04]  a snow flurry: -146
+[05/07/2023 07:04]  You see: exceptional earth aspect rosewood martial manual
+[05/07/2023 07:04]  You see: [mastercrafted by Stitchface]
+[05/07/2023 07:04]  Razor: Divine Fury
+[05/07/2023 07:04]  System: Divine Fury
+[05/07/2023 07:04]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:04]  Razor: Bandage: 4s
+[05/07/2023 07:04]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:04]  a snow flurry: -166
+[05/07/2023 07:04]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:04]  Stink Fist: +13
+[05/07/2023 07:04]  System: some damage has been healed : 13
+[05/07/2023 07:04]  System: You have gained some fame.
+[05/07/2023 07:04]  Stink Fist: (Earth Aspect 2,915.7/4000 xp)
+[05/07/2023 07:04]  System: -155
+[05/07/2023 07:04]  You see: a snow flurry corpse
+[05/07/2023 07:04]  Razor: Bandage: 3s
+[05/07/2023 07:04]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:04]  System: You carve materials from the corpse.
+[05/07/2023 07:04]  System: Your fingers slip!
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:04]  Razor: Bandage: 2s
+[05/07/2023 07:04]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:04]  Razor: Bandage: 1s
+[05/07/2023 07:04]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:04]  System: You heal what little damage you had.
+[05/07/2023 07:04]  System: New target set.
+[05/07/2023 07:04]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:05]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:05]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:05]  a snow elemental: a snow elemental
+[05/07/2023 07:05]  System: Holy symbols remaining: 0/10
+[05/07/2023 07:05]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a snow elemental
+[05/07/2023 07:05]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:05]  Razor: Attack: a snow elemental
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:05]  System: Your strike disarms your target!
+[05/07/2023 07:05]  a frostbane acolyte: -74
+[05/07/2023 07:05]  a frostbane acolyte: -36
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Stink Fist: -5
+[05/07/2023 07:05]  a frostbane acolyte: -40
+[05/07/2023 07:05]  System: Indika has completed the achievement: Scribe (Epic).
+[05/07/2023 07:05]  System: Who will you use the bandages on?
+[05/07/2023 07:05]  System: You begin applying the bandages.
+[05/07/2023 07:05]  Razor: Bandage: 10s
+[05/07/2023 07:05]  a frostbane acolyte: -156
+[05/07/2023 07:05]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Bandage: 9s
+[05/07/2023 07:05]  a frostbane acolyte: -66
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Bandage: 8s
+[05/07/2023 07:05]  a frostbane acolyte: -54
+[05/07/2023 07:05]  a ghoul: a ghoul
+[05/07/2023 07:05]  Razor: Bandage: 7s
+[05/07/2023 07:05]  a frostbane acolyte: -116
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Bandage: 6s
+[05/07/2023 07:05]  a frostbane acolyte: -59
+[05/07/2023 07:05]  Razor: Bandage: 5s
+[05/07/2023 07:05]  Stink Fist: -5
+[05/07/2023 07:05]  System: Your fingers slip!
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  a frostbane acolyte: -70
+[05/07/2023 07:05]  Razor: Bandage: 4s
+[05/07/2023 07:05]  a frostbane acolyte: -37
+[05/07/2023 07:05]  Razor: Bandage: 3s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  System: You absorb their spell.
+[05/07/2023 07:05]  Razor: Bandage: 2s
+[05/07/2023 07:05]  Stink Fist: -1
+[05/07/2023 07:05]  a frostbane acolyte: -163
+[05/07/2023 07:05]  System: Your fingers slip!
+[05/07/2023 07:05]  Razor: Bandage: 1s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:05]  a frostbane acolyte: -155
+[05/07/2023 07:05]  System: You finish applying the bandages.
+[05/07/2023 07:05]  Stink Fist: +9
+[05/07/2023 07:05]  a frostbane acolyte: -122
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Stink Fist: -5
+[05/07/2023 07:05]  System: Spell siphon max bonus reached (18.8%).
+[05/07/2023 07:05]  System: You parry the spell.
+[05/07/2023 07:05]  Stink Fist: -2
+[05/07/2023 07:05]  Razor: [+Magic Reflection (0s)]
+[05/07/2023 07:05]  Razor: [-Magic Reflection (s)]
+[05/07/2023 07:05]  System: Who will you use the bandages on?
+[05/07/2023 07:05]  System: You begin applying the bandages.
+[05/07/2023 07:05]  Razor: Bandage: 10s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Stink Fist: -1
+[05/07/2023 07:05]  a frostbane acolyte: -76
+[05/07/2023 07:05]  Razor: Bandage: 9s
+[05/07/2023 07:05]  a frostbane acolyte: -136
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Bandage: 8s
+[05/07/2023 07:05]  Stink Fist: -6
+[05/07/2023 07:05]  System: Your fingers slip!
+[05/07/2023 07:05]  a frostbane acolyte: -94
+[05/07/2023 07:05]  Razor: Bandage: 7s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:05]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:05]  System: Your attack hinders your target!
+[05/07/2023 07:05]  System: You have gained some fame.
+[05/07/2023 07:05]  Stink Fist: (Earth Aspect 2,920.7/4000 xp)
+[05/07/2023 07:05]  System: You have unlocked a codex upgrade point for Parry (1 available).
+[05/07/2023 07:05]  System: -35
+[05/07/2023 07:05]  You see: a frostbane acolyte corpse
+[05/07/2023 07:05]  System: Holy symbols remaining: 4/10
+[05/07/2023 07:05]  Razor: Bandage: 6s
+[05/07/2023 07:05]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:05]  System: You carve materials from the corpse.
+[05/07/2023 07:05]  Razor: Bandage: 5s
+[05/07/2023 07:05]  Razor: Bandage: 4s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a ghoul
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Attack: a ghoul
+[05/07/2023 07:05]  a ghoul: -246
+[05/07/2023 07:05]  Razor: Bandage: 3s
+[05/07/2023 07:05]  Razor: Bandage: 2s
+[05/07/2023 07:05]  a ghoul: -90
+[05/07/2023 07:05]  Stink Fist: -3
+[05/07/2023 07:05]  System: Your fingers slip!
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Bandage: 1s
+[05/07/2023 07:05]  a ghoul: -41
+[05/07/2023 07:05]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:05]  Stink Fist: +15
+[05/07/2023 07:05]  System: some damage has been healed : 15
+[05/07/2023 07:05]  System: You have gained a little fame.
+[05/07/2023 07:05]  Stink Fist: (Earth Aspect 2,921.5/4000 xp)
+[05/07/2023 07:05]  System: -23
+[05/07/2023 07:05]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:05]  You see: a ghoul corpse
+[05/07/2023 07:05]  System: You heal what little damage you had.
+[05/07/2023 07:05]  System: You carve materials from the corpse.
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a snow elemental
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Attack: a snow elemental
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:05]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:05]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:05]  Razor: [DISARM]
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  a snow elemental: a snow elemental
+[05/07/2023 07:05]  a snowdrift: a snowdrift
+[05/07/2023 07:05]  a snowdrift: a snowdrift
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:05]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:05]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:05]  System: Your strike disarms your target!
+[05/07/2023 07:05]  a frostbane acolyte: -49
+[05/07/2023 07:05]  You see: a ghoul corpse
+[05/07/2023 07:05]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  a frostbane acolyte: -111
+[05/07/2023 07:05]  Razor: Divine Fury
+[05/07/2023 07:05]  System: Divine Fury
+[05/07/2023 07:05]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:05]  a zombie: a zombie
+[05/07/2023 07:05]  a frostbane acolyte: -66
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  a frostbane acolyte: -91
+[05/07/2023 07:05]  Stink Fist: -5
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a zombie
+[05/07/2023 07:05]  a frostbane acolyte: -74
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Razor: Attack: a zombie
+[05/07/2023 07:05]  Stink Fist: -3
+[05/07/2023 07:05]  a frostbane acolyte: -51
+[05/07/2023 07:05]  System: Who will you use the bandages on?
+[05/07/2023 07:05]  System: You begin applying the bandages.
+[05/07/2023 07:05]  Razor: Bandage: 10s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  a zombie: -67
+[05/07/2023 07:05]  Razor: Bandage: 9s
+[05/07/2023 07:05]  a zombie: -104
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Bandage: 8s
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  Stink Fist: -4
+[05/07/2023 07:05]  a zombie: -58
+[05/07/2023 07:05]  Razor: Bandage: 7s
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  a zombie: -46
+[05/07/2023 07:05]  Razor: Bandage: 6s
+[05/07/2023 07:05]  Stink Fist: -5
+[05/07/2023 07:05]  Stink Fist: -9
+[05/07/2023 07:05]  Razor: Bandage: 5s
+[05/07/2023 07:05]  a zombie: -58
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:05]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:05]  Razor: Bandage: 4s
+[05/07/2023 07:05]  a zombie: -55
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Bandage: 3s
+[05/07/2023 07:05]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:05]  a zombie: -166
+[05/07/2023 07:05]  Razor: Bandage: 2s
+[05/07/2023 07:05]  System: You have gained a little fame.
+[05/07/2023 07:05]  Stink Fist: (Earth Aspect 2,921.9/4000 xp)
+[05/07/2023 07:05]  System: -46
+[05/07/2023 07:05]  You see: a rotting corpse
+[05/07/2023 07:05]  System: New target set.
+[05/07/2023 07:05]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:05]  Razor: Bandage: 1s
+[05/07/2023 07:06]  Stink Fist: -10
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:06]  System: You finish applying the bandages.
+[05/07/2023 07:06]  Stink Fist: +33
+[05/07/2023 07:06]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:06]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:06]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:06]  System: You carve materials from the corpse.
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  System: You absorb their spell.
+[05/07/2023 07:06]  Stink Fist: -2
+[05/07/2023 07:06]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -37
+[05/07/2023 07:06]  System: Who will you use the bandages on?
+[05/07/2023 07:06]  System: You begin applying the bandages.
+[05/07/2023 07:06]  Razor: Bandage: 10s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -70
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Stink Fist: -6
+[05/07/2023 07:06]  System: Your fingers slip!
+[05/07/2023 07:06]  a frostbane acolyte: -31
+[05/07/2023 07:06]  Razor: Bandage: 9s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Bandage: 8s
+[05/07/2023 07:06]  Stink Fist: -5
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Bandage: 7s
+[05/07/2023 07:06]  a frostbane acolyte: -36
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  System: Your fingers slip!
+[05/07/2023 07:06]  Razor: Bandage: 5s
+[05/07/2023 07:06]  a frostbane acolyte: -34
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -108
+[05/07/2023 07:06]  Stink Fist: -5
+[05/07/2023 07:06]  Razor: Bandage: 4s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  a frostbane acolyte: -58
+[05/07/2023 07:06]  Razor: Bandage: 2s
+[05/07/2023 07:06]  System: Your fingers slip!
+[05/07/2023 07:06]  System: Your strike disarms your target!
+[05/07/2023 07:06]  a frostbane acolyte: -85
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:06]  Razor: [DISARM]
+[05/07/2023 07:06]  System: You finish applying the bandages.
+[05/07/2023 07:06]  Stink Fist: +16
+[05/07/2023 07:06]  a frostbane acolyte: -98
+[05/07/2023 07:06]  a snowdrift: a snowdrift
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -89
+[05/07/2023 07:06]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:06]  System: You parry the spell.
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Stink Fist: -2
+[05/07/2023 07:06]  System: Who will you use the bandages on?
+[05/07/2023 07:06]  System: You begin applying the bandages.
+[05/07/2023 07:06]  Razor: Bandage: 10s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  System: Your attack hinders your target!
+[05/07/2023 07:06]  a frostbane acolyte: -85
+[05/07/2023 07:06]  Razor: Divine Fury
+[05/07/2023 07:06]  System: Divine Fury
+[05/07/2023 07:06]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:06]  Razor: Bandage: 9s
+[05/07/2023 07:06]  a frostbane acolyte: -75
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -22
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Razor: Bandage: 8s
+[05/07/2023 07:06]  a frostbane acolyte: -41
+[05/07/2023 07:06]  Razor: Bandage: 7s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -66
+[05/07/2023 07:06]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:06]  Stink Fist: +1
+[05/07/2023 07:06]  System: some damage has been healed : 1
+[05/07/2023 07:06]  System: You have gained some fame.
+[05/07/2023 07:06]  Stink Fist: (Earth Aspect 2,926.9/4000 xp)
+[05/07/2023 07:06]  System: You have unlocked a codex upgrade point for Wrestling (13 available).
+[05/07/2023 07:06]  System: -123
+[05/07/2023 07:06]  You see: a frostbane acolyte corpse
+[05/07/2023 07:06]  Razor: Bandage: 6s
+[05/07/2023 07:06]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:06]  Razor: Bandage: 5s
+[05/07/2023 07:06]  System: No one matching that was found on your screen.
+[05/07/2023 07:06]  Razor: Bandage: 4s
+[05/07/2023 07:06]  Razor: found no one
+[05/07/2023 07:06]  Razor: Bandage: 3s
+[05/07/2023 07:06]  System: No one matching that was found on your screen.
+[05/07/2023 07:06]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:06]  Razor: Bandage: 2s
+[05/07/2023 07:06]  Razor: Bandage: 1s
+[05/07/2023 07:06]  Razor: Target: Stink Fist
+[05/07/2023 07:06]  System: You carve materials from the corpse.
+[05/07/2023 07:06]  System: No one matching that was found on your screen.
+[05/07/2023 07:06]  Razor: found no one
+[05/07/2023 07:06]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:06]  System: You heal what little damage you had.
+[05/07/2023 07:06]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:06]  System: No one matching that was found on your screen.
+[05/07/2023 07:06]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:06]  System: No one matching that was found on your screen.
+[05/07/2023 07:06]  Razor: found no one
+[05/07/2023 07:06]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:06]  a snow elemental: a snow elemental
+[05/07/2023 07:06]  System: No one matching that was found on your screen.
+[05/07/2023 07:06]  a snow elemental: a snow elemental
+[05/07/2023 07:06]  Razor: found no one
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Target: a snow elemental
+[05/07/2023 07:06]  an ice elemental: an ice elemental
+[05/07/2023 07:06]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:06]  an ice elemental: an ice elemental
+[05/07/2023 07:06]  a snow elemental: a snow elemental
+[05/07/2023 07:06]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:06]  a snow elemental: a snow elemental
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:06]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:06]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:06]  a snowdrift: a snowdrift
+[05/07/2023 07:06]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:06]  a snow flurry: a snow flurry
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:06]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:06]  a frostbane acolyte: -158
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  a frostbane acolyte: -210
+[05/07/2023 07:06]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -123
+[05/07/2023 07:06]  a frostbane acolyte: -84
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  a zombie: a zombie
+[05/07/2023 07:06]  System: Your strike disarms your target!
+[05/07/2023 07:06]  a frostbane acolyte: -64
+[05/07/2023 07:06]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:06]  Razor: [DISARM]
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Target: a zombie
+[05/07/2023 07:06]  Razor: Attack: a zombie
+[05/07/2023 07:06]  System: You absorb their spell.
+[05/07/2023 07:06]  Stink Fist: -1
+[05/07/2023 07:06]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:06]  a zombie: -128
+[05/07/2023 07:06]  System: Who will you use the bandages on?
+[05/07/2023 07:06]  System: You begin applying the bandages.
+[05/07/2023 07:06]  Razor: Bandage: 10s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a zombie: -204
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Stink Fist: -3
+[05/07/2023 07:06]  System: Your fingers slip!
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a zombie: -107
+[05/07/2023 07:06]  Razor: Bandage: 9s
+[05/07/2023 07:06]  Razor: Bandage: 8s
+[05/07/2023 07:06]  a zombie: -58
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Razor: Bandage: 7s
+[05/07/2023 07:06]  Stink Fist: -4
+[05/07/2023 07:06]  System: You increase your damage resistance to creature-casted spells.
+[05/07/2023 07:06]  Razor: [+Magic Resist Potion (120s)]
+[05/07/2023 07:06]  Razor: Bandage: 6s
+[05/07/2023 07:06]  a zombie: -102
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  System: You have gained a little fame.
+[05/07/2023 07:06]  Stink Fist: (Earth Aspect 2,927.3/4000 xp)
+[05/07/2023 07:06]  System: -1
+[05/07/2023 07:06]  Razor: Bandage: 5s
+[05/07/2023 07:06]  You see: a rotting corpse
+[05/07/2023 07:06]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:06]  System: You carve materials from the corpse.
+[05/07/2023 07:06]  Stink Fist: -9
+[05/07/2023 07:06]  System: Your fingers slip!
+[05/07/2023 07:06]  Razor: [+Magic Reflection (0s)]
+[05/07/2023 07:06]  Razor: [-Magic Reflection (s)]
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:06]  Razor: Bandage: 4s
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:06]  a frostbane acolyte: -48
+[05/07/2023 07:06]  Razor: Divine Fury
+[05/07/2023 07:06]  System: Divine Fury
+[05/07/2023 07:06]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:06]  Razor: Bandage: 3s
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: Bandage: 2s
+[05/07/2023 07:06]  a frostbane acolyte: -154
+[05/07/2023 07:06]  System: You parry the spell.
+[05/07/2023 07:06]  Stink Fist: -1
+[05/07/2023 07:06]  a frostbane acolyte: -49
+[05/07/2023 07:06]  Razor: Bandage: 1s
+[05/07/2023 07:06]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  System: You finish applying the bandages.
+[05/07/2023 07:06]  Stink Fist: +16
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:06]  a frostbane acolyte: -52
+[05/07/2023 07:06]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  a frostbane acolyte: -64
+[05/07/2023 07:06]  System: New target set.
+[05/07/2023 07:06]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  Stink Fist: -5
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  a frostbane acolyte: -180
+[05/07/2023 07:07]  System: Who will you use the bandages on?
+[05/07/2023 07:07]  System: You begin applying the bandages.
+[05/07/2023 07:07]  Razor: Bandage: 10s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  System: Holy symbols remaining: 0/10
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:07]  a frostbane acolyte: -116
+[05/07/2023 07:07]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:07]  Stink Fist: +5
+[05/07/2023 07:07]  System: some damage has been healed : 5
+[05/07/2023 07:07]  System: You have gained some fame.
+[05/07/2023 07:07]  Stink Fist: (Earth Aspect 2,932.3/4000 xp)
+[05/07/2023 07:07]  System: -184
+[05/07/2023 07:07]  Razor: Bandage: 8s
+[05/07/2023 07:07]  You see: a frostbane acolyte corpse
+[05/07/2023 07:07]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:07]  System: You carve materials from the corpse.
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Target: a snow elemental
+[05/07/2023 07:07]  Razor: Bandage: 7s
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  Razor: Attack: a snow elemental
+[05/07/2023 07:07]  Razor: Bandage: 6s
+[05/07/2023 07:07]  Razor: Bandage: 5s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Bandage: 4s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  Razor: Bandage: 3s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Bandage: 2s
+[05/07/2023 07:07]  Razor: Bandage: 1s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: You heal what little damage you had.
+[05/07/2023 07:07]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:07]  Razor: [DISARM]
+[05/07/2023 07:07]  an ice elemental: an ice elemental
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  a snow elemental: a snow elemental
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  a snow flurry: a snow flurry
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  a snow elemental: a snow elemental
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  System: Your strike disarms your target!
+[05/07/2023 07:07]  a frostbane acolyte: -156
+[05/07/2023 07:07]  a snow flurry: a snow flurry
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  System: You absorb their spell.
+[05/07/2023 07:07]  Stink Fist: -4
+[05/07/2023 07:07]  System: Holy symbols remaining: 4/10
+[05/07/2023 07:07]  System: Who will you use the bandages on?
+[05/07/2023 07:07]  System: You begin applying the bandages.
+[05/07/2023 07:07]  Razor: Bandage: 10s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Bandage: 9s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Stink Fist: -8
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  Razor: Bandage: 8s
+[05/07/2023 07:07]  a frostbane acolyte: -191
+[05/07/2023 07:07]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:07]  Razor: Bandage: 7s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:07]  Razor: Bandage: 6s
+[05/07/2023 07:07]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:07]  a frostbane acolyte: -129
+[05/07/2023 07:07]  a snow flurry: a snow flurry
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Bandage: 5s
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  a skeleton: a skeleton
+[05/07/2023 07:07]  a frostbane acolyte: -94
+[05/07/2023 07:07]  Razor: Bandage: 4s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Bandage: 3s
+[05/07/2023 07:07]  a frostbane acolyte: -77
+[05/07/2023 07:07]  System: You parry the spell.
+[05/07/2023 07:07]  Stink Fist: -1
+[05/07/2023 07:07]  System: Your fingers slip!
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  Razor: Bandage: 2s
+[05/07/2023 07:07]  a frostbane acolyte: -66
+[05/07/2023 07:07]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:07]  Stink Fist: -1
+[05/07/2023 07:07]  Razor: Bandage: 1s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: You finish applying the bandages.
+[05/07/2023 07:07]  Stink Fist: +12
+[05/07/2023 07:07]  a frostbane acolyte: -50
+[05/07/2023 07:07]  System: Your attack crushes their armor!
+[05/07/2023 07:07]  a frostbane acolyte: -198
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  a frostbane acolyte: -13
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  Stink Fist: -3
+[05/07/2023 07:07]  Stink Fist: -8
+[05/07/2023 07:07]  a frostbane acolyte: -67
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: Who will you use the bandages on?
+[05/07/2023 07:07]  System: You begin applying the bandages.
+[05/07/2023 07:07]  Razor: Bandage: 10s
+[05/07/2023 07:07]  a snow elemental: a snow elemental
+[05/07/2023 07:07]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:07]  a frostbane acolyte: -150
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  a frostbane acolyte: -13
+[05/07/2023 07:07]  Razor: Bandage: 9s
+[05/07/2023 07:07]  Razor: Divine Fury
+[05/07/2023 07:07]  System: Divine Fury
+[05/07/2023 07:07]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:07]  a frostbane acolyte: -65
+[05/07/2023 07:07]  Razor: Bandage: 8s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  a frostbane acolyte: -165
+[05/07/2023 07:07]  Razor: Bandage: 7s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  a frostbane acolyte: -13
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  System: You have gained some fame.
+[05/07/2023 07:07]  Stink Fist: (Earth Aspect 2,937.3/4000 xp)
+[05/07/2023 07:07]  System: -53
+[05/07/2023 07:07]  You see: a frostbane acolyte corpse
+[05/07/2023 07:07]  Razor: Bandage: 6s
+[05/07/2023 07:07]  System: You parry the spell.
+[05/07/2023 07:07]  Stink Fist: -2
+[05/07/2023 07:07]  Stink Fist: -1
+[05/07/2023 07:07]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:07]  Razor: Bandage: 5s
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Target: a skeleton
+[05/07/2023 07:07]  Razor: Bandage: 4s
+[05/07/2023 07:07]  Razor: Bandage: 3s
+[05/07/2023 07:07]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:07]  System: You must wait another moment before you may pick up an item from here.
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  Razor: Attack: a skeleton
+[05/07/2023 07:07]  a skeleton: -91
+[05/07/2023 07:07]  Razor: Bandage: 2s
+[05/07/2023 07:07]  Stink Fist: -1
+[05/07/2023 07:07]  System: Your fingers slip!
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: You carve materials from the corpse.
+[05/07/2023 07:07]  a skeleton: -48
+[05/07/2023 07:07]  Razor: Bandage: 1s
+[05/07/2023 07:07]  a skeleton: -33
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Target: a skeleton
+[05/07/2023 07:07]  System: You finish applying the bandages.
+[05/07/2023 07:07]  Stink Fist: +13
+[05/07/2023 07:07]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:07]  a skeleton: -121
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:07]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:07]  System: Your strike disarms your target!
+[05/07/2023 07:07]  System: You have gained a little fame.
+[05/07/2023 07:07]  Stink Fist: (Earth Aspect 2,937.9/4000 xp)
+[05/07/2023 07:07]  System: -107
+[05/07/2023 07:07]  You see: a skeletal corpse
+[05/07/2023 07:07]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:07]  Razor: [DISARM]
+[05/07/2023 07:07]  System: You carve materials from the corpse.
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: Target: a snow elemental
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:07]  Razor: Attack: a snow elemental
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:07]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:07]  System: New target set.
+[05/07/2023 07:07]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snowdrift: a snowdrift
+[05/07/2023 07:08]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:08]  a snow elemental: -24
+[05/07/2023 07:08]  Stink Fist: -8
+[05/07/2023 07:08]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:08]  Stink Fist: -17
+[05/07/2023 07:08]  System: Who will you use the bandages on?
+[05/07/2023 07:08]  System: You begin applying the bandages.
+[05/07/2023 07:08]  Razor: Bandage: 10s
+[05/07/2023 07:08]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:08]  a snow elemental: -288
+[05/07/2023 07:08]  Stink Fist: -3
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 9s
+[05/07/2023 07:08]  a snow elemental: -147
+[05/07/2023 07:08]  Razor: Bandage: 8s
+[05/07/2023 07:08]  Stink Fist: -8
+[05/07/2023 07:08]  a snow elemental: -54
+[05/07/2023 07:08]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 7s
+[05/07/2023 07:08]  a snow elemental: -101
+[05/07/2023 07:08]  Razor: Bandage: 6s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snow elemental: a snow elemental
+[05/07/2023 07:08]  a snow elemental: -47
+[05/07/2023 07:08]  Razor: Bandage: 5s
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 4s
+[05/07/2023 07:08]  a snow elemental: -34
+[05/07/2023 07:08]  Stink Fist: -2
+[05/07/2023 07:08]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:08]  Razor: Bandage: 3s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snow elemental: -119
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 2s
+[05/07/2023 07:08]  a snow elemental: -158
+[05/07/2023 07:08]  Razor: Bandage: 1s
+[05/07/2023 07:08]  System: You finish applying the bandages.
+[05/07/2023 07:08]  Stink Fist: +36
+[05/07/2023 07:08]  a snow elemental: -87
+[05/07/2023 07:08]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:08]  Stink Fist: +0
+[05/07/2023 07:08]  System: You have gained some fame.
+[05/07/2023 07:08]  Stink Fist: (Earth Aspect 2,940.3/4000 xp)
+[05/07/2023 07:08]  System: -191
+[05/07/2023 07:08]  You see: a snow elemental corpse
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Target: a snowdrift
+[05/07/2023 07:08]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:08]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:08]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:08]  System: You carve materials from the corpse.
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Target: a snowdrift
+[05/07/2023 07:08]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:08]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Rope a dope
+[05/07/2023 07:08]  System: Where do you wish to traverse to?
+[05/07/2023 07:08]  Razor: [+Paralyze (0s)]
+[05/07/2023 07:08]  System: You are no longer hindered.
+[05/07/2023 07:08]  Razor: [-Paralyze (s)]
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Target: a snowdrift
+[05/07/2023 07:08]  a snow flurry: a snow flurry
+[05/07/2023 07:08]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:08]  Razor: Attack: a snowdrift
+[05/07/2023 07:08]  Stink Fist: -3
+[05/07/2023 07:08]  a snowdrift: -123
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Divine Fury
+[05/07/2023 07:08]  System: Divine Fury
+[05/07/2023 07:08]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:08]  a snowdrift: -17
+[05/07/2023 07:08]  System: Who will you use the bandages on?
+[05/07/2023 07:08]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:08]  Stink Fist: -9
+[05/07/2023 07:08]  System: You begin applying the bandages.
+[05/07/2023 07:08]  Razor: Bandage: 10s
+[05/07/2023 07:08]  a snowdrift: *regens*
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snowdrift: -68
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 9s
+[05/07/2023 07:08]  System: Your strike disarms your target!
+[05/07/2023 07:08]  a snowdrift: -29
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Bandage: 8s
+[05/07/2023 07:08]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:08]  Razor: [DISARM]
+[05/07/2023 07:08]  a snowdrift: -102
+[05/07/2023 07:08]  Razor: Bandage: 7s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  a snowdrift: -65
+[05/07/2023 07:08]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:08]  Razor: Bandage: 6s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snowdrift: -148
+[05/07/2023 07:08]  Razor: Bandage: 5s
+[05/07/2023 07:08]  Razor: Bandage: 4s
+[05/07/2023 07:08]  a snowdrift: -56
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 3s
+[05/07/2023 07:08]  a snowdrift: -104
+[05/07/2023 07:08]  Razor: Bandage: 2s
+[05/07/2023 07:08]  Stink Fist: -1
+[05/07/2023 07:08]  System: Your fingers slip!
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snowdrift: -122
+[05/07/2023 07:08]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:08]  Razor: Bandage: 1s
+[05/07/2023 07:08]  System: You finish applying the bandages.
+[05/07/2023 07:08]  Stink Fist: +11
+[05/07/2023 07:08]  System: You have gained a little fame.
+[05/07/2023 07:08]  Stink Fist: (Earth Aspect 2,942.3/4000 xp)
+[05/07/2023 07:08]  System: -25
+[05/07/2023 07:08]  You see: a snowdrift corpse
+[05/07/2023 07:08]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:08]  System: You carve materials from the corpse.
+[05/07/2023 07:08]  System: No one matching that was found on your screen.
+[05/07/2023 07:08]  Razor: found no one
+[05/07/2023 07:08]  System: No one matching that was found on your screen.
+[05/07/2023 07:08]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:08]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Target: a snow elemental
+[05/07/2023 07:08]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:08]  a snowdrift: a snowdrift
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Target: a snow flurry
+[05/07/2023 07:08]  Razor: Attack: a snow flurry
+[05/07/2023 07:08]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:08]  a snow flurry: -199
+[05/07/2023 07:08]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:08]  Stink Fist: -4
+[05/07/2023 07:08]  System: Who will you use the bandages on?
+[05/07/2023 07:08]  System: You begin applying the bandages.
+[05/07/2023 07:08]  Razor: Bandage: 10s
+[05/07/2023 07:08]  System: Your attack hinders your target!
+[05/07/2023 07:08]  a snow flurry: -42
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  a snow flurry: -62
+[05/07/2023 07:08]  Razor: Bandage: 9s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Bandage: 8s
+[05/07/2023 07:08]  a snow flurry: -40
+[05/07/2023 07:08]  Razor: Bandage: 7s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Bandage: 6s
+[05/07/2023 07:08]  a snow flurry: -71
+[05/07/2023 07:08]  Razor: Bandage: 5s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snow flurry: -126
+[05/07/2023 07:08]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:08]  Razor: Bandage: 4s
+[05/07/2023 07:08]  a snow flurry: -109
+[05/07/2023 07:08]  Razor: Bandage: 3s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  System: Your attack hinders your target!
+[05/07/2023 07:08]  a snow flurry: -176
+[05/07/2023 07:08]  Razor: Bandage: 2s
+[05/07/2023 07:08]  a snow flurry: -25
+[05/07/2023 07:08]  System: Your magic resist potion has worn off.
+[05/07/2023 07:08]  Razor: [-Magic Resist Potion (s)]
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Bandage: 1s
+[05/07/2023 07:08]  a snow flurry: -53
+[05/07/2023 07:08]  System: You finish applying the bandages.
+[05/07/2023 07:08]  Stink Fist: +2
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  a snow flurry: -34
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  a snow flurry: -25
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Divine Fury
+[05/07/2023 07:08]  System: Divine Fury
+[05/07/2023 07:08]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:08]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:08]  Stink Fist: -6
+[05/07/2023 07:08]  System: You feel chilled and your metabolism slowed!
+[05/07/2023 07:08]  Stink Fist: -11
+[05/07/2023 07:08]  System: You have gained some fame.
+[05/07/2023 07:08]  Stink Fist: (Earth Aspect 2,945.5/4000 xp)
+[05/07/2023 07:08]  System: -38
+[05/07/2023 07:08]  You see: a snow flurry corpse
+[05/07/2023 07:08]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:08]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:08]  Razor: [DISARM]
+[05/07/2023 07:08]  System: You carve materials from the corpse.
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: Target: a snow elemental
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:08]  Razor: Attack: a snow elemental
+[05/07/2023 07:08]  System: Who will you use the bandages on?
+[05/07/2023 07:08]  System: You begin applying the bandages.
+[05/07/2023 07:08]  Razor: Bandage: 10s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:08]  Razor: Bandage: 9s
+[05/07/2023 07:08]  Razor: Bandage: 8s
+[05/07/2023 07:08]  System: New target set.
+[05/07/2023 07:08]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  Razor: Bandage: 7s
+[05/07/2023 07:09]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Bandage: 6s
+[05/07/2023 07:09]  Razor: Bandage: 5s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  System: Holy symbols remaining: 0/10
+[05/07/2023 07:09]  Razor: Bandage: 4s
+[05/07/2023 07:09]  a snowdrift: a snowdrift
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  Razor: Bandage: 3s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a snowdrift
+[05/07/2023 07:09]  Razor: Bandage: 2s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a snowdrift
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  Razor: Attack: a snowdrift
+[05/07/2023 07:09]  Razor: Bandage: 1s
+[05/07/2023 07:09]  System: You finish applying the bandages.
+[05/07/2023 07:09]  Stink Fist: +14
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  System: Your strike disarms your target!
+[05/07/2023 07:09]  a snowdrift: -80
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a snowdrift: *regens*
+[05/07/2023 07:09]  a snowdrift: -331
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  a snowdrift: -118
+[05/07/2023 07:09]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:09]  a snowdrift: -170
+[05/07/2023 07:09]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:09]  Stink Fist: +0
+[05/07/2023 07:09]  System: You have gained a little fame.
+[05/07/2023 07:09]  Stink Fist: (Earth Aspect 2,947.5/4000 xp)
+[05/07/2023 07:09]  System: -181
+[05/07/2023 07:09]  You see: a snowdrift corpse
+[05/07/2023 07:09]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:09]  System: You carve materials from the corpse.
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a snow elemental: a snow elemental
+[05/07/2023 07:09]  Ramon: Ramon the wandering healer
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  a snowdrift: a snowdrift
+[05/07/2023 07:09]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  a snowdrift: a snowdrift
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a snowdrift
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  Razor: Rope a dope
+[05/07/2023 07:09]  System: Where do you wish to traverse to?
+[05/07/2023 07:09]  Razor: [+Paralyze (0s)]
+[05/07/2023 07:09]  Razor: [-Paralyze (s)]
+[05/07/2023 07:09]  System: You are no longer hindered.
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a snowdrift
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  a snow flurry: a snow flurry
+[05/07/2023 07:09]  Razor: Attack: a snowdrift
+[05/07/2023 07:09]  a snowdrift: a snowdrift
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  Ramon: Ramon the wandering healer
+[05/07/2023 07:09]  a snow elemental: a snow elemental
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  System: Holy symbols remaining: 4/10
+[05/07/2023 07:09]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  You see: a snowdrift corpse
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  Stink Fist: -10
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  System: Who will you use the bandages on?
+[05/07/2023 07:09]  System: You begin applying the bandages.
+[05/07/2023 07:09]  Razor: Bandage: 10s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:09]  a frostbane acolyte: -60
+[05/07/2023 07:09]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:09]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a snowdrift: a snowdrift
+[05/07/2023 07:09]  Razor: Bandage: 8s
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a snowdrift
+[05/07/2023 07:09]  You see: a snow flurry corpse
+[05/07/2023 07:09]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:09]  Razor: Attack: a snowdrift
+[05/07/2023 07:09]  a snow elemental: a snow elemental
+[05/07/2023 07:09]  Razor: Bandage: 7s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  Razor: Bandage: 5s
+[05/07/2023 07:09]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:09]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:09]  Razor: [DISARM]
+[05/07/2023 07:09]  Razor: Bandage: 4s
+[05/07/2023 07:09]  System: Your strike disarms your target!
+[05/07/2023 07:09]  a frostbane acolyte: -245
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  Razor: Bandage: 3s
+[05/07/2023 07:09]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:09]  a frostbane acolyte: -290
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Bandage: 2s
+[05/07/2023 07:09]  Razor: Bandage: 1s
+[05/07/2023 07:09]  a skeleton: a skeleton
+[05/07/2023 07:09]  System: Your attack hinders your target!
+[05/07/2023 07:09]  a frostbane acolyte: -91
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  System: You finish applying the bandages.
+[05/07/2023 07:09]  Stink Fist: +8
+[05/07/2023 07:09]  a frostbane acolyte: -295
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a skeleton
+[05/07/2023 07:09]  Razor: Attack: a skeleton
+[05/07/2023 07:09]  a skeleton: -72
+[05/07/2023 07:09]  Razor: Divine Fury
+[05/07/2023 07:09]  System: Divine Fury
+[05/07/2023 07:09]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:09]  Stink Fist: -4
+[05/07/2023 07:09]  System: Who will you use the bandages on?
+[05/07/2023 07:09]  System: You begin applying the bandages.
+[05/07/2023 07:09]  Razor: Bandage: 10s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  a skeleton: -54
+[05/07/2023 07:09]  Razor: Bandage: 9s
+[05/07/2023 07:09]  System: Your attack hinders your target!
+[05/07/2023 07:09]  a skeleton: -129
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Bandage: 8s
+[05/07/2023 07:09]  a skeleton: -64
+[05/07/2023 07:09]  Stink Fist: -6
+[05/07/2023 07:09]  Razor: Bandage: 7s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  System: You have gained a little fame.
+[05/07/2023 07:09]  Stink Fist: (Earth Aspect 2,948.1/4000 xp)
+[05/07/2023 07:09]  System: -81
+[05/07/2023 07:09]  You see: a skeletal corpse
+[05/07/2023 07:09]  Razor: Bandage: 6s
+[05/07/2023 07:09]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:09]  System: You carve materials from the corpse.
+[05/07/2023 07:09]  Razor: Bandage: 5s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:09]  Razor: Bandage: 4s
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a frostbane acolyte: -156
+[05/07/2023 07:09]  Razor: Bandage: 3s
+[05/07/2023 07:09]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:09]  Stink Fist: -9
+[05/07/2023 07:09]  System: Your fingers slip!
+[05/07/2023 07:09]  Razor: Bandage: 2s
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  Stink Fist: -5
+[05/07/2023 07:09]  Razor: Bandage: 1s
+[05/07/2023 07:09]  a frostbane acolyte: -45
+[05/07/2023 07:09]  System: You finish applying the bandages.
+[05/07/2023 07:09]  Stink Fist: +22
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:09]  a frostbane acolyte: -40
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  a frostbane acolyte: -89
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  a frostbane acolyte: -111
+[05/07/2023 07:09]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:09]  Stink Fist: -6
+[05/07/2023 07:09]  System: New target set.
+[05/07/2023 07:09]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:09]  a frostbane acolyte: -45
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  System: Who will you use the bandages on?
+[05/07/2023 07:10]  System: You begin applying the bandages.
+[05/07/2023 07:10]  Razor: Bandage: 10s
+[05/07/2023 07:10]  Stink Fist: -5
+[05/07/2023 07:10]  System: Your fingers slip!
+[05/07/2023 07:10]  a frostbane acolyte: -71
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Razor: Bandage: 9s
+[05/07/2023 07:10]  System: You have gained some fame.
+[05/07/2023 07:10]  Stink Fist: (Earth Aspect 2,953.1/4000 xp)
+[05/07/2023 07:10]  System: -22
+[05/07/2023 07:10]  You see: a frostbane acolyte corpse
+[05/07/2023 07:10]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:10]  System: You carve materials from the corpse.
+[05/07/2023 07:10]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:10]  Razor: Bandage: 8s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Target: a snowdrift
+[05/07/2023 07:10]  Razor: Bandage: 7s
+[05/07/2023 07:10]  Razor: Bandage: 6s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 5s
+[05/07/2023 07:10]  Razor: Bandage: 4s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:10]  Razor: Bandage: 3s
+[05/07/2023 07:10]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:10]  Razor: Bandage: 2s
+[05/07/2023 07:10]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:10]  Razor: [DISARM]
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a snow elemental: a snow elemental
+[05/07/2023 07:10]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:10]  You see: a snowdrift corpse
+[05/07/2023 07:10]  Razor: Bandage: 1s
+[05/07/2023 07:10]  System: You finish applying the bandages.
+[05/07/2023 07:10]  Stink Fist: +8
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:10]  a ghoul: a ghoul
+[05/07/2023 07:10]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:10]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:10]  System: Your strike disarms your target!
+[05/07/2023 07:10]  a frostbane acolyte: -144
+[05/07/2023 07:10]  System: Being perfectly rested, you shove them out of the way.
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: chug refresh
+[05/07/2023 07:10]  a frostbane acolyte: -72
+[05/07/2023 07:10]  System: You absorb their spell.
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -46
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Stink Fist: -4
+[05/07/2023 07:10]  System: Who will you use the bandages on?
+[05/07/2023 07:10]  System: You begin applying the bandages.
+[05/07/2023 07:10]  Razor: Bandage: 10s
+[05/07/2023 07:10]  System: Your attack hinders your target!
+[05/07/2023 07:10]  a frostbane acolyte: -164
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 9s
+[05/07/2023 07:10]  a frostbane acolyte: -69
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Stink Fist: -5
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Razor: Bandage: 8s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -71
+[05/07/2023 07:10]  Razor: Bandage: 7s
+[05/07/2023 07:10]  Razor: Bandage: 6s
+[05/07/2023 07:10]  Razor: Divine Fury
+[05/07/2023 07:10]  System: Divine Fury
+[05/07/2023 07:10]  a frostbane acolyte: -75
+[05/07/2023 07:10]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  System: You parry the spell.
+[05/07/2023 07:10]  Razor: Bandage: 5s
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Stink Fist: -2
+[05/07/2023 07:10]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[05/07/2023 07:10]  a frostbane acolyte: -272
+[05/07/2023 07:10]  Razor: Bandage: 4s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -48
+[05/07/2023 07:10]  Razor: Bandage: 3s
+[05/07/2023 07:10]  Stink Fist: -3
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  a frostbane acolyte: -117
+[05/07/2023 07:10]  Razor: Bandage: 2s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 1s
+[05/07/2023 07:10]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:10]  a frostbane acolyte: -136
+[05/07/2023 07:10]  System: You finish applying the bandages.
+[05/07/2023 07:10]  Stink Fist: +12
+[05/07/2023 07:10]  Stink Fist: -10
+[05/07/2023 07:10]  System: You absorb their spell.
+[05/07/2023 07:10]  Stink Fist: -2
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -66
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  System: Who will you use the bandages on?
+[05/07/2023 07:10]  System: You begin applying the bandages.
+[05/07/2023 07:10]  Razor: Bandage: 10s
+[05/07/2023 07:10]  System: Your attack hinders your target!
+[05/07/2023 07:10]  a frostbane acolyte: -143
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  System: You have gained some fame.
+[05/07/2023 07:10]  Stink Fist: (Earth Aspect 2,958.1/4000 xp)
+[05/07/2023 07:10]  System: -17
+[05/07/2023 07:10]  You see: a frostbane acolyte corpse
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Target: a ghoul
+[05/07/2023 07:10]  Stink Fist: -6
+[05/07/2023 07:10]  System: Holy symbols remaining: 2/10
+[05/07/2023 07:10]  Razor: Bandage: 9s
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Razor: Attack: a ghoul
+[05/07/2023 07:10]  a ghoul: -68
+[05/07/2023 07:10]  Razor: Bandage: 8s
+[05/07/2023 07:10]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:10]  System: You carve materials from the corpse.
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Target: a ghoul
+[05/07/2023 07:10]  a ghoul: -117
+[05/07/2023 07:10]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:10]  Razor: Bandage: 7s
+[05/07/2023 07:10]  System: You increase your damage resistance to creature-casted spells.
+[05/07/2023 07:10]  Razor: [+Magic Resist Potion (120s)]
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 6s
+[05/07/2023 07:10]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:10]  a ghoul: -94
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Razor: Bandage: 5s
+[05/07/2023 07:10]  a ghoul: -62
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 4s
+[05/07/2023 07:10]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:10]  a ghoul: -23
+[05/07/2023 07:10]  System: You absorb their spell.
+[05/07/2023 07:10]  System: You have gained a little fame.
+[05/07/2023 07:10]  Stink Fist: (Earth Aspect 2,958.9/4000 xp)
+[05/07/2023 07:10]  System: -36
+[05/07/2023 07:10]  You see: a ghoul corpse
+[05/07/2023 07:10]  Razor: Bandage: 3s
+[05/07/2023 07:10]  Stink Fist: -2
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  Razor: found no one
+[05/07/2023 07:10]  Razor: Bandage: 2s
+[05/07/2023 07:10]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  Razor: Bandage: 1s
+[05/07/2023 07:10]  System: What do you wish to carve, investigate, or research? [2]
+[05/07/2023 07:10]  System: You finish applying the bandages.
+[05/07/2023 07:10]  Stink Fist: +18
+[05/07/2023 07:10]  Razor: Target: Stink Fist
+[05/07/2023 07:10]  System: You carve materials from the corpse.
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  Razor: found no one
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  Razor: found no one
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  Razor: found no one
+[05/07/2023 07:10]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:10]  Razor: [DISARM]
+[05/07/2023 07:10]  Ramon: Ramon the wandering healer
+[05/07/2023 07:10]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:10]  System: No one matching that was found on your screen.
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:10]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:10]  a snowdrift: a snowdrift
+[05/07/2023 07:10]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:10]  System: Your strike disarms your target!
+[05/07/2023 07:10]  a frostbane acolyte: -42
+[05/07/2023 07:10]  a frostbane acolyte: -85
+[05/07/2023 07:10]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -108
+[05/07/2023 07:10]  Stink Fist: -13
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  a frostbane acolyte: -30
+[05/07/2023 07:10]  System: Who will you use the bandages on?
+[05/07/2023 07:10]  a frostbane acolyte: -21
+[05/07/2023 07:10]  System: You begin applying the bandages.
+[05/07/2023 07:10]  Razor: Bandage: 10s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -162
+[05/07/2023 07:10]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Razor: Bandage: 9s
+[05/07/2023 07:10]  a frostbane acolyte: -119
+[05/07/2023 07:10]  a frostbane acolyte: -8
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 8s
+[05/07/2023 07:10]  a frostbane acolyte: -21
+[05/07/2023 07:10]  a skeleton: a skeleton
+[05/07/2023 07:10]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:10]  a frostbane acolyte: -154
+[05/07/2023 07:10]  Razor: Bandage: 7s
+[05/07/2023 07:10]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  Razor: Bandage: 6s
+[05/07/2023 07:10]  System: Your attack hinders your target!
+[05/07/2023 07:10]  a frostbane acolyte: -108
+[05/07/2023 07:10]  Razor: Divine Fury
+[05/07/2023 07:10]  System: Divine Fury
+[05/07/2023 07:10]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:10]  a frostbane acolyte: -8
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: Bandage: 5s
+[05/07/2023 07:10]  a frostbane acolyte: -17
+[05/07/2023 07:10]  Stink Fist: -1
+[05/07/2023 07:10]  System: Your fingers slip!
+[05/07/2023 07:10]  Razor: Bandage: 4s
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:10]  a frostbane acolyte: -76
+[05/07/2023 07:10]  Razor: Bandage: 3s
+[05/07/2023 07:10]  a frostbane acolyte: -6
+[05/07/2023 07:10]  System: New target set.
+[05/07/2023 07:10]  a frostbane acolyte: -94
+[05/07/2023 07:10]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:10]  Razor: Bandage: 2s
+[05/07/2023 07:10]  a frostbane acolyte: -17
+[05/07/2023 07:11]  a frostbane acolyte: -102
+[05/07/2023 07:11]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:11]  Stink Fist: +12
+[05/07/2023 07:11]  System: some damage has been healed : 12
+[05/07/2023 07:11]  a frostbane acolyte: -245
+[05/07/2023 07:11]  Razor: Bandage: 1s
+[05/07/2023 07:11]  Stink Fist: Crane stance activated.
+[05/07/2023 07:11]  System: You heal what little damage you had.
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  System: You have gained some fame.
+[05/07/2023 07:11]  Stink Fist: (Earth Aspect 2,963.9/4000 xp)
+[05/07/2023 07:11]  System: -77
+[05/07/2023 07:11]  You see: a frostbane acolyte corpse
+[05/07/2023 07:11]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:11]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:11]  System: You carve materials from the corpse.
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Target: a skeleton
+[05/07/2023 07:11]  Razor: Attack: a skeleton
+[05/07/2023 07:11]  a skeleton: -69
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: Holy symbols remaining: 0/10
+[05/07/2023 07:11]  a skeleton: -189
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: You have gained a little fame.
+[05/07/2023 07:11]  Stink Fist: (Earth Aspect 2,964.5/4000 xp)
+[05/07/2023 07:11]  System: -142
+[05/07/2023 07:11]  You see: a skeletal corpse
+[05/07/2023 07:11]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:11]  System: You must wait to perform another action.
+[05/07/2023 07:11]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:11]  System: You carve materials from the corpse.
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  Razor: found no one
+[05/07/2023 07:11]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  Razor: found no one
+[05/07/2023 07:11]  System: Wrestling stance adoption expired.
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  Razor: found no one
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  Stink Fist: Monkey stance activated.
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  Razor: found no one
+[05/07/2023 07:11]  System: No one matching that was found on your screen.
+[05/07/2023 07:11]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:11]  Razor: [DISARM]
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Target: a snowdrift
+[05/07/2023 07:11]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:11]  a snowdrift: a snowdrift
+[05/07/2023 07:11]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:11]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:11]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:11]  a snowdrift: a snowdrift
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:11]  System: Wrestling stance adoption expired.
+[05/07/2023 07:11]  System: Your strike disarms your target!
+[05/07/2023 07:11]  a frostbane acolyte: -70
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: You absorb their spell.
+[05/07/2023 07:11]  a frostbane acolyte: -115
+[05/07/2023 07:11]  Stink Fist: -3
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  System: Who will you use the bandages on?
+[05/07/2023 07:11]  System: Your attack crushes their armor!
+[05/07/2023 07:11]  a frostbane acolyte: -221
+[05/07/2023 07:11]  System: You begin applying the bandages.
+[05/07/2023 07:11]  Razor: Bandage: 10s
+[05/07/2023 07:11]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  a frostbane acolyte: -95
+[05/07/2023 07:11]  System: Holy symbols remaining: 4/10
+[05/07/2023 07:11]  Razor: Bandage: 9s
+[05/07/2023 07:11]  Razor: Bandage: 8s
+[05/07/2023 07:11]  a ghoul: a ghoul
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: Your attack hinders your target!
+[05/07/2023 07:11]  a frostbane acolyte: -132
+[05/07/2023 07:11]  a snowdrift: a snowdrift
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  Razor: Bandage: 7s
+[05/07/2023 07:11]  a frostbane acolyte: -172
+[05/07/2023 07:11]  Razor: Bandage: 6s
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  Razor: Bandage: 5s
+[05/07/2023 07:11]  a frostbane acolyte: -111
+[05/07/2023 07:11]  Razor: Bandage: 4s
+[05/07/2023 07:11]  a frostbane acolyte: -100
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Bandage: 3s
+[05/07/2023 07:11]  Razor: Divine Fury
+[05/07/2023 07:11]  a frostbane acolyte: -102
+[05/07/2023 07:11]  System: Divine Fury
+[05/07/2023 07:11]  System: Holy symbols remaining: 1/10
+[05/07/2023 07:11]  Razor: Bandage: 2s
+[05/07/2023 07:11]  Stink Fist: -5
+[05/07/2023 07:11]  System: Your fingers slip!
+[05/07/2023 07:11]  Razor: Bandage: 1s
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: You finish applying the bandages.
+[05/07/2023 07:11]  Stink Fist: +6
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  a frostbane acolyte: -52
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:11]  a frostbane acolyte: -111
+[05/07/2023 07:11]  Stink Fist: -2
+[05/07/2023 07:11]  Stink Fist: -5
+[05/07/2023 07:11]  a frostbane acolyte: -63
+[05/07/2023 07:11]  System: Who will you use the bandages on?
+[05/07/2023 07:11]  System: You begin applying the bandages.
+[05/07/2023 07:11]  Razor: Bandage: 10s
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  a frostbane acolyte: -52
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  Razor: Bandage: 9s
+[05/07/2023 07:11]  a frostbane acolyte: -51
+[05/07/2023 07:11]  Stink Fist: -6
+[05/07/2023 07:11]  System: Your fingers slip!
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Bandage: 8s
+[05/07/2023 07:11]  System: You have gained some fame.
+[05/07/2023 07:11]  Stink Fist: (Earth Aspect 2,969.5/4000 xp)
+[05/07/2023 07:11]  System: -53
+[05/07/2023 07:11]  You see: a frostbane acolyte corpse
+[05/07/2023 07:11]  Stink Fist: -9
+[05/07/2023 07:11]  Razor: Bandage: 7s
+[05/07/2023 07:11]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:11]  Razor: Bandage: 6s
+[05/07/2023 07:11]  System: You carve materials from the corpse.
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Target: a ghoul
+[05/07/2023 07:11]  Razor: Bandage: 5s
+[05/07/2023 07:11]  Stink Fist: -3
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  Razor: Attack: a ghoul
+[05/07/2023 07:11]  a ghoul: -44
+[05/07/2023 07:11]  System: Your fingers slip!
+[05/07/2023 07:11]  Razor: Bandage: 4s
+[05/07/2023 07:11]  a ghoul: -82
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:11]  Razor: Bandage: 3s
+[05/07/2023 07:11]  a ghoul: -72
+[05/07/2023 07:11]  Razor: Bandage: 2s
+[05/07/2023 07:11]  a ghoul: -35
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:11]  Razor: Bandage: 1s
+[05/07/2023 07:11]  System: You finish applying the bandages.
+[05/07/2023 07:11]  Stink Fist: +23
+[05/07/2023 07:11]  a ghoul: -75
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  System: You have gained a little fame.
+[05/07/2023 07:11]  Stink Fist: (Earth Aspect 2,970.3/4000 xp)
+[05/07/2023 07:11]  System: -92
+[05/07/2023 07:11]  You see: a ghoul corpse
+[05/07/2023 07:11]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:11]  System: That is too far away.
+[05/07/2023 07:11]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:11]  Razor: [DISARM]
+[05/07/2023 07:11]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:11]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:11]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:11]  System: New target set.
+[05/07/2023 07:11]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:11]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:11]  System: What corpse or location do you wish to carve?
+[05/07/2023 07:11]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:12]  Razor: Target: Stink Fist
+[05/07/2023 07:12]  System: You carve materials from the corpse.
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:12]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:12]  You see: a ghoul corpse
+[05/07/2023 07:12]  System: You absorb their spell.
+[05/07/2023 07:12]  You see: a frostbane acolyte corpse
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  a snow elemental: a snow elemental
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  Razor: Divine Fury
+[05/07/2023 07:12]  Stink Fist: -2
+[05/07/2023 07:12]  System: Divine Fury
+[05/07/2023 07:12]  a snow flurry: a snow flurry
+[05/07/2023 07:12]  You see: a snow flurry corpse
+[05/07/2023 07:12]  System: Holy symbols remaining: 3/10
+[05/07/2023 07:12]  System: Who will you use the bandages on?
+[05/07/2023 07:12]  System: You begin applying the bandages.
+[05/07/2023 07:12]  Razor: Bandage: 10s
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:12]  You see: a frostbane acolyte corpse
+[05/07/2023 07:12]  You see: a rotting corpse
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  System: Your strike disarms your target!
+[05/07/2023 07:12]  System: Your attack hinders your target!
+[05/07/2023 07:12]  a frostbane acolyte: -114
+[05/07/2023 07:12]  Razor: Bandage: 9s
+[05/07/2023 07:12]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:12]  Razor: Bandage: 8s
+[05/07/2023 07:12]  a frostbane acolyte: -51
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Bandage: 7s
+[05/07/2023 07:12]  a frostbane acolyte: -131
+[05/07/2023 07:12]  a ghoul: a ghoul
+[05/07/2023 07:12]  Razor: Bandage: 6s
+[05/07/2023 07:12]  a frostbane acolyte: -255
+[05/07/2023 07:12]  Razor: Bandage: 5s
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a ghoul
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Attack: a ghoul
+[05/07/2023 07:12]  a frostbane acolyte: -64
+[05/07/2023 07:12]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:12]  Razor: Bandage: 4s
+[05/07/2023 07:12]  a ghoul: -97
+[05/07/2023 07:12]  Razor: Bandage: 3s
+[05/07/2023 07:12]  System: You absorb their spell.
+[05/07/2023 07:12]  System: You parry the spell.
+[05/07/2023 07:12]  Stink Fist: -1
+[05/07/2023 07:12]  System: Your fingers slip!
+[05/07/2023 07:12]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:12]  a ghoul: -145
+[05/07/2023 07:12]  Razor: Bandage: 2s
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  a frostbane acolyte: -16
+[05/07/2023 07:12]  Razor: Bandage: 1s
+[05/07/2023 07:12]  Stink Fist: -5
+[05/07/2023 07:12]  a ghoul: -27
+[05/07/2023 07:12]  System: You finish applying the bandages.
+[05/07/2023 07:12]  Stink Fist: +6
+[05/07/2023 07:12]  System: You have gained a little fame.
+[05/07/2023 07:12]  Stink Fist: (Earth Aspect 2,971.1/4000 xp)
+[05/07/2023 07:12]  System: -131
+[05/07/2023 07:12]  You see: a ghoul corpse
+[05/07/2023 07:12]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:12]  Stink Fist: -6
+[05/07/2023 07:12]  System: Your fingers slip!
+[05/07/2023 07:12]  System: You carve materials from the corpse.
+[05/07/2023 07:12]  a frostbane acolyte: -13
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:12]  a frostbane acolyte: -56
+[05/07/2023 07:12]  a frostbane acolyte: -71
+[05/07/2023 07:12]  System: Who will you use the bandages on?
+[05/07/2023 07:12]  System: You must wait to perform another action.
+[05/07/2023 07:12]  System: You begin applying the bandages.
+[05/07/2023 07:12]  Razor: Bandage: 10s
+[05/07/2023 07:12]  Stink Fist: -6
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  a frostbane acolyte: -88
+[05/07/2023 07:12]  a frostbane acolyte: -13
+[05/07/2023 07:12]  Razor: Bandage: 9s
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Bandage: 8s
+[05/07/2023 07:12]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:12]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Stink Fist: -4
+[05/07/2023 07:12]  System: Your fingers slip!
+[05/07/2023 07:12]  Razor: Bandage: 7s
+[05/07/2023 07:12]  a frostbane acolyte: -65
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  a frostbane acolyte: -13
+[05/07/2023 07:12]  Razor: Bandage: 6s
+[05/07/2023 07:12]  a frostbane acolyte: -56
+[05/07/2023 07:12]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:12]  System: Your magic resist potion has worn off.
+[05/07/2023 07:12]  Razor: [-Magic Resist Potion (s)]
+[05/07/2023 07:12]  Razor: Bandage: 5s
+[05/07/2023 07:12]  a frostbane acolyte: -79
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Bandage: 4s
+[05/07/2023 07:12]  a frostbane acolyte: -13
+[05/07/2023 07:12]  a frostbane acolyte: -84
+[05/07/2023 07:12]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:12]  Stink Fist: +14
+[05/07/2023 07:12]  System: some damage has been healed : 14
+[05/07/2023 07:12]  a frostbane acolyte: -227
+[05/07/2023 07:12]  Razor: Bandage: 3s
+[05/07/2023 07:12]  Stink Fist: -6
+[05/07/2023 07:12]  a frostbane acolyte: -11
+[05/07/2023 07:12]  System: You have gained some fame.
+[05/07/2023 07:12]  Stink Fist: (Earth Aspect 2,976.1/4000 xp)
+[05/07/2023 07:12]  System: -80
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a snow flurry
+[05/07/2023 07:12]  You see: a frostbane acolyte corpse
+[05/07/2023 07:12]  Razor: Bandage: 2s
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  Razor: Attack: a snow flurry
+[05/07/2023 07:12]  Razor: Bandage: 1s
+[05/07/2023 07:12]  System: You finish applying the bandages.
+[05/07/2023 07:12]  Stink Fist: +6
+[05/07/2023 07:12]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:12]  System: You carve materials from the corpse.
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a snow flurry
+[05/07/2023 07:12]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  a snowdrift: a snowdrift
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a snowdrift
+[05/07/2023 07:12]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:12]  Razor: Attack: a snowdrift
+[05/07/2023 07:12]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:12]  Razor: [DISARM]
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:12]  System: Your strike disarms your target!
+[05/07/2023 07:12]  a frostbane acolyte: -100
+[05/07/2023 07:12]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:12]  Razor: Divine Fury
+[05/07/2023 07:12]  System: Divine Fury
+[05/07/2023 07:12]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:12]  a frostbane acolyte: -72
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  a frostbane acolyte: -68
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  a skeleton: a skeleton
+[05/07/2023 07:12]  System: Your attack hinders your target!
+[05/07/2023 07:12]  a frostbane acolyte: -172
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  a frostbane acolyte: -81
+[05/07/2023 07:12]  a frostbane acolyte: -59
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  a frostbane acolyte: -92
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  a frostbane acolyte: -74
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  a frostbane acolyte: -66
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  System: You absorb their spell.
+[05/07/2023 07:12]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:12]  a frostbane acolyte: -96
+[05/07/2023 07:12]  Stink Fist: -3
+[05/07/2023 07:12]  System: Who will you use the bandages on?
+[05/07/2023 07:12]  System: You begin applying the bandages.
+[05/07/2023 07:12]  Razor: Bandage: 10s
+[05/07/2023 07:12]  a frostbane acolyte: -28
+[05/07/2023 07:12]  System: Your strength has changed by -10.  It is now 100
+[05/07/2023 07:12]  System: Your dexterity has changed by -10.  It is now 100
+[05/07/2023 07:12]  System: Your intelligence has changed by -10.  It is now 25
+[05/07/2023 07:12]  Razor: [-Strength (s)]
+[05/07/2023 07:12]  Razor: [-Agility (s)]
+[05/07/2023 07:12]  Razor: [-Cunning (s)]
+[05/07/2023 07:12]  Razor: Str: -10 - 100
+[05/07/2023 07:12]  Razor: Dex: -10 - 100
+[05/07/2023 07:12]  Razor: Int: -10 - 25
+[05/07/2023 07:12]  System: New target set.
+[05/07/2023 07:12]  Razor: Bandage: 9s
+[05/07/2023 07:12]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:12]  Stink Fist: -5
+[05/07/2023 07:12]  System: Your fingers slip!
+[05/07/2023 07:12]  a frostbane acolyte: -68
+[05/07/2023 07:13]  Razor: chug
+[05/07/2023 07:13]  System: Your dexterity has changed by 20.  It is now 120
+[05/07/2023 07:13]  Razor: [+Agility (120s)]
+[05/07/2023 07:13]  Razor: Dex: +20 - 120
+[05/07/2023 07:13]  Razor: [-Agility (s)]
+[05/07/2023 07:13]  Razor: [+Agility (120s)]
+[05/07/2023 07:13]  System: Holy symbols remaining: 7/10
+[05/07/2023 07:13]  Razor: Bandage: 8s
+[05/07/2023 07:13]  Razor: chug refresh
+[05/07/2023 07:13]  Razor: chug
+[05/07/2023 07:13]  a frostbane acolyte: -47
+[05/07/2023 07:13]  Razor: Bandage: 7s
+[05/07/2023 07:13]  System: Finished 3 queued actions in 1.2 seconds.
+[05/07/2023 07:13]  System: Your strength has changed by 20.  It is now 120
+[05/07/2023 07:13]  Razor: [+Strength (120s)]
+[05/07/2023 07:13]  Razor: Str: +20 - 120
+[05/07/2023 07:13]  Razor: [-Strength (s)]
+[05/07/2023 07:13]  Razor: [+Strength (120s)]
+[05/07/2023 07:13]  a frostbane acolyte: -59
+[05/07/2023 07:13]  Razor: Bandage: 6s
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  Razor: Bandage: 5s
+[05/07/2023 07:13]  Razor: [-Protection (s)]
+[05/07/2023 07:13]  a frostbane acolyte: -28
+[05/07/2023 07:13]  Razor: [+Magic Reflection (0s)]
+[05/07/2023 07:13]  Razor: [-Magic Reflection (s)]
+[05/07/2023 07:13]  Razor: Bandage: 4s
+[05/07/2023 07:13]  a frostbane acolyte: -69
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  Razor: Bandage: 3s
+[05/07/2023 07:13]  a frostbane acolyte: -54
+[05/07/2023 07:13]  Razor: Bandage: 2s
+[05/07/2023 07:13]  a frostbane acolyte: -203
+[05/07/2023 07:13]  Stink Fist: -6
+[05/07/2023 07:13]  System: Your fingers slip!
+[05/07/2023 07:13]  Razor: Bandage: 1s
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  System: You have gained some fame.
+[05/07/2023 07:13]  Stink Fist: (Earth Aspect 2,981.1/4000 xp)
+[05/07/2023 07:13]  System: -48
+[05/07/2023 07:13]  You see: a frostbane acolyte corpse
+[05/07/2023 07:13]  System: You finish applying the bandages.
+[05/07/2023 07:13]  Stink Fist: +29
+[05/07/2023 07:13]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: Target: a skeleton
+[05/07/2023 07:13]  System: You carve materials from the corpse.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  Razor: Attack: a skeleton
+[05/07/2023 07:13]  a skeleton: -50
+[05/07/2023 07:13]  System: The world will save in 15 seconds.
+[05/07/2023 07:13]  a skeleton: -45
+[05/07/2023 07:13]  Razor: World save coming soon..
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: Target: a skeleton
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:13]  a skeleton: -157
+[05/07/2023 07:13]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:13]  a skeleton: -52
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:13]  System: You have gained a little fame.
+[05/07/2023 07:13]  Stink Fist: (Earth Aspect 2,981.7/4000 xp)
+[05/07/2023 07:13]  System: -96
+[05/07/2023 07:13]  You see: a skeletal corpse
+[05/07/2023 07:13]  System: You carve materials from the corpse.
+[05/07/2023 07:13]  System: What do you wish to carve, investigate, or research? [2]
+[05/07/2023 07:13]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:13]  Razor: [DISARM]
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: Target: a snowdrift
+[05/07/2023 07:13]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:13]  Razor: Attack: a snowdrift
+[05/07/2023 07:13]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  You see: a ghoul corpse
+[05/07/2023 07:13]  You see: a frostbane acolyte corpse
+[05/07/2023 07:13]  a snowdrift: a snowdrift
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:13]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:13]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:13]  a snowdrift: a snowdrift
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  System: The world is saving, please wait.
+[05/07/2023 07:13]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  System: World save complete. The entire process took 4.0 seconds.
+[05/07/2023 07:13]  Razor: Waiting for world save...
+[05/07/2023 07:13]  Razor: Save complete - continue on!
+[05/07/2023 07:13]  a snowdrift: a snowdrift
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:13]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:13]  You see: a frostbane acolyte corpse
+[05/07/2023 07:13]  You see: a skeletal corpse
+[05/07/2023 07:13]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:13]  System: You absorb their spell.
+[05/07/2023 07:13]  System: You parry the spell.
+[05/07/2023 07:13]  Stink Fist: -1
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  System: You fail to disarm your opponent.
+[05/07/2023 07:13]  a frostbane acolyte: -113
+[05/07/2023 07:13]  Razor: Divine Fury
+[05/07/2023 07:13]  System: Divine Fury
+[05/07/2023 07:13]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:13]  a frostbane acolyte: *raises the frozen dead*
+[05/07/2023 07:13]  System: Who will you use the bandages on?
+[05/07/2023 07:13]  System: You begin applying the bandages.
+[05/07/2023 07:13]  Razor: Bandage: 10s
+[05/07/2023 07:13]  a frostbane acolyte: -40
+[05/07/2023 07:13]  Razor: Bandage: 9s
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  a ghoul: a ghoul
+[05/07/2023 07:13]  Razor: Bandage: 8s
+[05/07/2023 07:13]  Stink Fist: -8
+[05/07/2023 07:13]  a frostbane acolyte: -52
+[05/07/2023 07:13]  Razor: Bandage: 7s
+[05/07/2023 07:13]  Razor: Bandage: 6s
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: Target: a ghoul
+[05/07/2023 07:13]  Stink Fist: -7
+[05/07/2023 07:13]  Razor: Bandage: 5s
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  Razor: Attack: a ghoul
+[05/07/2023 07:13]  a frostbane acolyte: -133
+[05/07/2023 07:13]  Razor: Bandage: 4s
+[05/07/2023 07:13]  a ghoul: -41
+[05/07/2023 07:13]  Stink Fist: -2
+[05/07/2023 07:13]  System: Your fingers slip!
+[05/07/2023 07:13]  Razor: Bandage: 3s
+[05/07/2023 07:13]  a ghoul: -100
+[05/07/2023 07:13]  Razor: Bandage: 2s
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  a ghoul: -56
+[05/07/2023 07:13]  Razor: Bandage: 1s
+[05/07/2023 07:13]  Stink Fist: -9
+[05/07/2023 07:13]  System: You finish applying the bandages.
+[05/07/2023 07:13]  Stink Fist: +25
+[05/07/2023 07:13]  a ghoul: -66
+[05/07/2023 07:13]  System: Your fingers slip!
+[05/07/2023 07:13]  Stink Fist: -5
+[05/07/2023 07:13]  a ghoul: -86
+[05/07/2023 07:13]  Stink Fist: -8
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  System: You have gained a little fame.
+[05/07/2023 07:13]  Stink Fist: (Earth Aspect 2,982.5/4000 xp)
+[05/07/2023 07:13]  System: -51
+[05/07/2023 07:13]  You see: a ghoul corpse
+[05/07/2023 07:13]  System: Who will you use the bandages on?
+[05/07/2023 07:13]  System: You absorb their spell.
+[05/07/2023 07:13]  System: You parry the spell.
+[05/07/2023 07:13]  Stink Fist: -1
+[05/07/2023 07:13]  System: Crixus has completed the achievement: Aspect Mastery (Basic).
+[05/07/2023 07:13]  System: You begin applying the bandages.
+[05/07/2023 07:13]  System: You must wait to perform another action.
+[05/07/2023 07:13]  Razor: Bandage: 10s
+[05/07/2023 07:13]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:13]  Razor: Bandage: 9s
+[05/07/2023 07:13]  System: New target set.
+[05/07/2023 07:13]  Razor: Target: a frostbane acolyte
+[05/07/2023 07:13]  Razor: Bandage: 8s
+[05/07/2023 07:13]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:13]  Razor: Bandage: 7s
+[05/07/2023 07:13]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:13]  Razor: Attack: a frostbane acolyte
+[05/07/2023 07:13]  Razor: Bandage: 5s
+[05/07/2023 07:14]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:14]  Razor: Bandage: 4s
+[05/07/2023 07:14]  Stink Fist: -5
+[05/07/2023 07:14]  System: Your fingers slip!
+[05/07/2023 07:14]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:14]  Razor: Bandage: 3s
+[05/07/2023 07:14]  System: You parry the spell.
+[05/07/2023 07:14]  Stink Fist: -2
+[05/07/2023 07:14]  Razor: Bandage: 2s
+[05/07/2023 07:14]  Razor: Bandage: 1s
+[05/07/2023 07:14]  System: You finish applying the bandages.
+[05/07/2023 07:14]  Stink Fist: +18
+[05/07/2023 07:14]  System: Your fingers slip!
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  System: You carve materials from the corpse.
+[05/07/2023 07:14]  a frostbane acolyte: a frostbane acolyte
+[05/07/2023 07:14]  System: You must wait another moment before you may pick up an item from here.
+[05/07/2023 07:14]  System: Your strike disarms your target!
+[05/07/2023 07:14]  System: Your attack hinders your target!
+[05/07/2023 07:14]  a frostbane acolyte: -98
+[05/07/2023 07:14]  You see: a blessed codex of parrying
+[05/07/2023 07:14]  You see: (Bulwark and Last Stand)
+[05/07/2023 07:14]  System: You deactivate your stance.
+[05/07/2023 07:14]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:14]  a frostbane acolyte: -105
+[05/07/2023 07:14]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:14]  a frostbane acolyte: -88
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  a frostbane acolyte: -45
+[05/07/2023 07:14]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:14]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:14]  a frostbane acolyte: -148
+[05/07/2023 07:14]  a frostbane acolyte: -138
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Stink Fist: -7
+[05/07/2023 07:14]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:14]  a frostbane acolyte: -55
+[05/07/2023 07:14]  Stink Fist: Bulwark stance activated.
+[05/07/2023 07:14]  System: You deactivate your finisher.
+[05/07/2023 07:14]  a frostbane acolyte: -102
+[05/07/2023 07:14]  Razor: Divine Fury
+[05/07/2023 07:14]  System: Divine Fury
+[05/07/2023 07:14]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:14]  System: Who will you use the bandages on?
+[05/07/2023 07:14]  System: You begin applying the bandages.
+[05/07/2023 07:14]  Razor: Bandage: 10s
+[05/07/2023 07:14]  a frostbane acolyte: -63
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:14]  Razor: Bandage: 9s
+[05/07/2023 07:14]  a frostbane acolyte: -220
+[05/07/2023 07:14]  Razor: Bandage: 8s
+[05/07/2023 07:14]  Stink Fist: -5
+[05/07/2023 07:14]  System: Your fingers slip!
+[05/07/2023 07:14]  a frostbane acolyte: -99
+[05/07/2023 07:14]  Stink Fist: -9
+[05/07/2023 07:14]  Razor: Bandage: 7s
+[05/07/2023 07:14]  System: You have gained some fame.
+[05/07/2023 07:14]  Stink Fist: (Earth Aspect 2,987.5/4000 xp)
+[05/07/2023 07:14]  System: -1
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: Target: a snowdrift
+[05/07/2023 07:14]  You see: a frostbane acolyte corpse
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  Razor: Bandage: 6s
+[05/07/2023 07:14]  Razor: Bandage: 5s
+[05/07/2023 07:14]  System: Your fingers slip!
+[05/07/2023 07:14]  Razor: Bandage: 4s
+[05/07/2023 07:14]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:14]  Razor: Bandage: 3s
+[05/07/2023 07:14]  System: You carve materials from the corpse.
+[05/07/2023 07:14]  System: Wrestling stance adoption expired.
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: Target: a snowdrift
+[05/07/2023 07:14]  Razor: Bandage: 2s
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  Razor: Bandage: 1s
+[05/07/2023 07:14]  Stink Fist: Last Stand finisher activated.
+[05/07/2023 07:14]  System: You finish applying the bandages.
+[05/07/2023 07:14]  Stink Fist: +18
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: Holy symbols remaining: 8/10
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:14]  Razor: [DISARM]
+[05/07/2023 07:14]  System: Your skill in Tactics has decreased by 30.0.  It is now 100.0.
+[05/07/2023 07:14]  Stink Fist: Kal Ort Por [Recall]
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[05/07/2023 07:14]  You see: a giant rat corpse
+[05/07/2023 07:14]  You see: an ogre corpse
+[05/07/2023 07:14]  Rane: Rane the dockmaster
+[05/07/2023 07:14]  an ettin: an ettin
+[05/07/2023 07:14]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: Target: an ettin
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: Attack: an ettin
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  Razor: Attack: an ettin
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:14]  System: Your strike disarms your target!
+[05/07/2023 07:14]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:14]  an ettin: -101
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  an ettin: -156
+[05/07/2023 07:14]  Razor: Divine Fury
+[05/07/2023 07:14]  System: Divine Fury
+[05/07/2023 07:14]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:14]  an ettin: -88
+[05/07/2023 07:14]  System: New target set.
+[05/07/2023 07:14]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:14]  Stink Fist: -12
+[05/07/2023 07:14]  an ettin: -235
+[05/07/2023 07:14]  System: Who will you use the bandages on?
+[05/07/2023 07:14]  System: You begin applying the bandages.
+[05/07/2023 07:14]  Razor: Bandage: 10s
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  an ettin: -101
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  Razor: chug
+[05/07/2023 07:15]  System: You must wait 4 seconds before you may use another agility potion.
+[05/07/2023 07:15]  Razor: Bandage: 9s
+[05/07/2023 07:15]  an ettin: -45
+[05/07/2023 07:15]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:15]  Razor: Bandage: 8s
+[05/07/2023 07:15]  an ettin: -80
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  Razor: Bandage: 7s
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  System: Your attack hinders your target!
+[05/07/2023 07:15]  an ettin: -102
+[05/07/2023 07:15]  System: You may now use an agility potion.
+[05/07/2023 07:15]  System: Your dexterity has changed by -20.  It is now 100
+[05/07/2023 07:15]  Razor: [-Agility (s)]
+[05/07/2023 07:15]  Razor: Dex: -20 - 100
+[05/07/2023 07:15]  Razor: Bandage: 6s
+[05/07/2023 07:15]  an ettin: -54
+[05/07/2023 07:15]  Razor: Bandage: 5s
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  System: Your dexterity has changed by 20.  It is now 120
+[05/07/2023 07:15]  Razor: [+Agility (120s)]
+[05/07/2023 07:15]  Razor: Dex: +20 - 120
+[05/07/2023 07:15]  Razor: Bandage: 4s
+[05/07/2023 07:15]  Razor: [-Agility (s)]
+[05/07/2023 07:15]  Razor: [+Agility (120s)]
+[05/07/2023 07:15]  System: You may now use a strength potion.
+[05/07/2023 07:15]  System: Your strength has changed by -20.  It is now 100
+[05/07/2023 07:15]  Razor: [-Strength (s)]
+[05/07/2023 07:15]  Razor: Str: -20 - 100
+[05/07/2023 07:15]  an ettin: -124
+[05/07/2023 07:15]  Razor: chug
+[05/07/2023 07:15]  Razor: chug refresh
+[05/07/2023 07:15]  Razor: Bandage: 3s
+[05/07/2023 07:15]  an ettin: -91
+[05/07/2023 07:15]  Razor: Bandage: 2s
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  System: Your strength has changed by 20.  It is now 120
+[05/07/2023 07:15]  Razor: [+Strength (120s)]
+[05/07/2023 07:15]  Razor: Str: +20 - 120
+[05/07/2023 07:15]  Razor: [-Strength (s)]
+[05/07/2023 07:15]  Razor: [+Strength (120s)]
+[05/07/2023 07:15]  an ettin: -30
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  Razor: Bandage: 1s
+[05/07/2023 07:15]  System: You finish applying the bandages.
+[05/07/2023 07:15]  Stink Fist: +20
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  an ettin: -145
+[05/07/2023 07:15]  an ettin: -71
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  an ettin: -98
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  an ettin: -75
+[05/07/2023 07:15]  an ettin: -51
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  an ettin: -162
+[05/07/2023 07:15]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:15]  an ettin: -41
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  System: You increase your damage resistance to creature-casted spells.
+[05/07/2023 07:15]  Razor: [+Magic Resist Potion (120s)]
+[05/07/2023 07:15]  Stink Fist: -10
+[05/07/2023 07:15]  an ettin: -46
+[05/07/2023 07:15]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:15]  Stink Fist: +10
+[05/07/2023 07:15]  System: some damage has been healed : 10
+[05/07/2023 07:15]  an ettin: -147
+[05/07/2023 07:15]  an ettin: -32
+[05/07/2023 07:15]  an ettin: -83
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:15]  an ettin: -33
+[05/07/2023 07:15]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:15]  an ettin: -157
+[05/07/2023 07:15]  System: New target set.
+[05/07/2023 07:15]  an ettin: -32
+[05/07/2023 07:15]  System: You have gained some fame.
+[05/07/2023 07:15]  Stink Fist: (Earth Aspect 2,991.5/4000 xp)
+[05/07/2023 07:15]  System: -120
+[05/07/2023 07:15]  You see: an ettin corpse
+[05/07/2023 07:15]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:15]  System: You carve materials from the corpse.
+[05/07/2023 07:15]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:15]  Razor: [DISARM]
+[05/07/2023 07:15]  System: No one matching that was found on your screen.
+[05/07/2023 07:15]  Razor: found no one
+[05/07/2023 07:15]  System: No one matching that was found on your screen.
+[05/07/2023 07:15]  Razor: found no one
+[05/07/2023 07:15]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:15]  System: No one matching that was found on your screen.
+[05/07/2023 07:15]  Razor: found no one
+[05/07/2023 07:15]  System: Opening door...
+[05/07/2023 07:15]  System: Your house and its contents have been refreshed. 24 days 1 hour 5 minutes remaining until owner refresh required.
+[05/07/2023 07:15]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:15]  System: No one matching that was found on your screen.
+[05/07/2023 07:15]  Razor: found no one
+[05/07/2023 07:15]  System: No one matching that was found on your screen.
+[05/07/2023 07:15]  Razor: found no one
+[05/07/2023 07:15]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:15]  System: No one matching that was found on your screen.
+[05/07/2023 07:15]  Razor: found no one
+[05/07/2023 07:15]  Razor:  Scanning for rat 
+[05/07/2023 07:15]  System: Where will you search?
+[05/07/2023 07:15]  System: You reveal what was hidden.
+[05/07/2023 07:15]  Wulf of Wyrd: Wulf of Wyrd
+[05/07/2023 07:15]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[05/07/2023 07:15]  Rane: Rane the dockmaster
+[05/07/2023 07:15]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[05/07/2023 07:15]  System: 36 items were added.
+[05/07/2023 07:15]  System: Finished 3 queued actions in 1.2 seconds.
+[05/07/2023 07:15]  System: Resupply complete.
+[05/07/2023 07:15]  System: Set Grab Item HotBag
+[05/07/2023 07:15]  System: Grab Item HotBag Set
+[05/07/2023 07:15]  Razor: Organize Open Pouches
+[05/07/2023 07:15]  System: Finished 2 queued actions in 0.6 seconds.
+[05/07/2023 07:15]  Razor: Organize Trapped Pouches
+[05/07/2023 07:15]  Razor: Organize Trapped Pouches
+[05/07/2023 07:16]  Razor: Organize Trapped Pouches
+[05/07/2023 07:16]  Razor: Organize Trapped Pouches
+[05/07/2023 07:16]  Razor: Organize Trapped Pouches
+[05/07/2023 07:16]  Razor: Organize Orange Potions
+[05/07/2023 07:16]  Razor: Organize Red Potions
+[05/07/2023 07:16]  Razor: Organize Yellow Potions
+[05/07/2023 07:16]  Razor: Organize White Potions
+[05/07/2023 07:16]  Razor: Organize Black Potions
+[05/07/2023 07:16]  Razor: Organize Black Potions
+[05/07/2023 07:16]  Razor: Organize Blue Potions
+[05/07/2023 07:16]  System: You must wait another moment before you may pick up an item from here.
+[05/07/2023 07:16]  Razor: Organize Blue Potions
+[05/07/2023 07:16]  Razor: Organize Aids
+[05/07/2023 07:16]  Razor: Organize Rope
+[05/07/2023 07:16]  Razor: Open Untrapped Pouches
+[05/07/2023 07:16]  Razor: recall scroll : 319
+[05/07/2023 07:16]  System: You add 9 recall charges to the rune tome.
+[05/07/2023 07:17]  System: You may now use an agility potion.
+[05/07/2023 07:17]  System: Your dexterity has changed by -20.  It is now 100
+[05/07/2023 07:17]  Razor: [-Agility (s)]
+[05/07/2023 07:17]  Razor: Dex: -20 - 100
+[05/07/2023 07:17]  System: You may now use a strength potion.
+[05/07/2023 07:17]  System: Your strength has changed by -20.  It is now 100
+[05/07/2023 07:17]  Razor: [-Strength (s)]
+[05/07/2023 07:17]  Razor: Str: -20 - 100
+[05/07/2023 07:17]  System: Your magic resist potion has worn off.
+[05/07/2023 07:17]  Razor: [-Magic Resist Potion (s)]
+[05/07/2023 07:18]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/07/2023 07:18]  System: Your strength has changed by 10.  It is now 110
+[05/07/2023 07:18]  System: Your dexterity has changed by 10.  It is now 110
+[05/07/2023 07:18]  System: Your intelligence has changed by 10.  It is now 35
+[05/07/2023 07:18]  Razor: [+Strength (600s)]
+[05/07/2023 07:18]  Razor: Str: +10 - 110
+[05/07/2023 07:18]  Razor: [-Strength (s)]
+[05/07/2023 07:18]  Razor: [+Strength (600s)]
+[05/07/2023 07:18]  Razor: [+Agility (600s)]
+[05/07/2023 07:18]  Razor: Dex: +10 - 110
+[05/07/2023 07:18]  Razor: [-Agility (s)]
+[05/07/2023 07:18]  Razor: [+Agility (600s)]
+[05/07/2023 07:18]  Razor: [+Cunning (600s)]
+[05/07/2023 07:18]  Razor: Int: +10 - 35
+[05/07/2023 07:18]  Razor: [-Cunning (s)]
+[05/07/2023 07:18]  Razor: [+Cunning (600s)]
+[05/07/2023 07:18]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/07/2023 07:18]  Razor: [+Protection (600s)]
+[05/07/2023 07:18]  System: Your skill in Tactics has decreased by 30.0.  It is now 100.0.
+[05/07/2023 07:18]  Stink Fist: Kal Ort Por [Recall]
+[05/07/2023 07:18]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[05/07/2023 07:18]  a swamp spider: a swamp spider
+[05/07/2023 07:18]  a jaguar: a jaguar
+[05/07/2023 07:18]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:18]  Stink Fist: -4
+[05/07/2023 07:18]  System: You fail to disarm your opponent.
+[05/07/2023 07:18]  a swamp spider: -71
+[05/07/2023 07:18]  a swamp spider: -65
+[05/07/2023 07:18]  Stink Fist: -6
+[05/07/2023 07:18]  Stink Fist: * You begin to feel pain throughout your body! *
+[05/07/2023 07:18]  Razor: [+Greater Poison (70s)]
+[05/07/2023 07:18]  System: Your attack hinders your target!
+[05/07/2023 07:18]  a swamp spider: -81
+[05/07/2023 07:18]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:18]  a swamp spider: -61
+[05/07/2023 07:18]  System: You feel cured of poison!
+[05/07/2023 07:18]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[05/07/2023 07:18]  Razor: [-Greater Poison (s)]
+[05/07/2023 07:18]  a swamp spider: -44
+[05/07/2023 07:18]  a swamp spider: -95
+[05/07/2023 07:18]  a swamp spider: -77
+[05/07/2023 07:18]  a swamp spider: -70
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  Razor: Target: a swamp spider
+[05/07/2023 07:18]  Stink Fist: -1
+[05/07/2023 07:18]  Stink Fist: * You begin to feel pain throughout your body! *
+[05/07/2023 07:18]  Razor: [+Greater Poison (70s)]
+[05/07/2023 07:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:18]  Razor: Attack: a swamp spider
+[05/07/2023 07:18]  a swamp spider: -105
+[05/07/2023 07:18]  Stink Fist: Warding stance activated.
+[05/07/2023 07:18]  Stink Fist: Barrier finisher activated.
+[05/07/2023 07:18]  Razor: Cleanse by fire
+[05/07/2023 07:18]  System: Cleanse by fire
+[05/07/2023 07:18]  System: Holy symbols remaining: 8/10
+[05/07/2023 07:18]  System: Who will you use the bandages on?
+[05/07/2023 07:18]  System: You begin applying the bandages.
+[05/07/2023 07:18]  Razor: Bandage: 10s
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  Razor: Divine Fury
+[05/07/2023 07:18]  System: Divine Fury
+[05/07/2023 07:18]  Razor: Bandage: 9s
+[05/07/2023 07:18]  System: Holy symbols remaining: 4/10
+[05/07/2023 07:18]  System: Your strike disarms your target!
+[05/07/2023 07:18]  a swamp spider: -50
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  Razor: Bandage: 8s
+[05/07/2023 07:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:18]  Stink Fist: * You begin to feel pain throughout your body! *
+[05/07/2023 07:18]  Stink Fist: -7
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:18]  System: You have gained a little fame.
+[05/07/2023 07:18]  Stink Fist: (Earth Aspect 2,993.1/4000 xp)
+[05/07/2023 07:18]  System: -81
+[05/07/2023 07:18]  Razor: Bandage: 7s
+[05/07/2023 07:18]  You see: a swamp spider corpse
+[05/07/2023 07:18]  Razor: Bandage: 6s
+[05/07/2023 07:18]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:18]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:18]  System: You carve materials from the corpse.
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  Razor: found no one
+[05/07/2023 07:18]  Razor: Bandage: 5s
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:18]  Razor: Bandage: 4s
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  Razor: Bandage: 3s
+[05/07/2023 07:18]  Razor: found no one
+[05/07/2023 07:18]  System: You feel cured of poison!
+[05/07/2023 07:18]  Razor: [-Greater Poison (s)]
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  Razor: Bandage: 2s
+[05/07/2023 07:18]  Razor: Bandage: 1s
+[05/07/2023 07:18]  System: Wrestling stance adoption expired.
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  Razor: found no one
+[05/07/2023 07:18]  System: You finish applying the bandages.
+[05/07/2023 07:18]  Stink Fist: +17
+[05/07/2023 07:18]  Stink Fist: Bulwark stance activated.
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  System: No one matching that was found on your screen.
+[05/07/2023 07:18]  Razor: found no one
+[05/07/2023 07:18]  a giant swamp slug: a giant swamp slug
+[05/07/2023 07:18]  a lizardman: a lizardman
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  Razor: Target: a giant swamp slug
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:18]  Razor: Attack: a giant swamp slug
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  a giant swamp slug: -383
+[05/07/2023 07:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:18]  System: New target set.
+[05/07/2023 07:18]  a giant swamp slug: -48
+[05/07/2023 07:18]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a giant swamp slug: -44
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  Stink Fist: Last Stand finisher activated.
+[05/07/2023 07:19]  Stink Fist: -11
+[05/07/2023 07:19]  System: Wrestling stance adoption expired.
+[05/07/2023 07:19]  a giant swamp slug: -101
+[05/07/2023 07:19]  System: Who will you use the bandages on?
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Target: a lizardman
+[05/07/2023 07:19]  System: You begin applying the bandages.
+[05/07/2023 07:19]  Razor: Bandage: 10s
+[05/07/2023 07:19]  Razor: Attack: a lizardman
+[05/07/2023 07:19]  a giant swamp slug: -10
+[05/07/2023 07:19]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:19]  a lizardman: Salthisals! Syl.
+[05/07/2023 07:19]  a lizardman: No, kill me not!
+[05/07/2023 07:19]  a lizardman: -103
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 9s
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  a giant swamp slug: -9
+[05/07/2023 07:19]  a lizardman: -73
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 8s
+[05/07/2023 07:19]  Stink Fist: -1
+[05/07/2023 07:19]  System: Your fingers slip!
+[05/07/2023 07:19]  a lizardman: -80
+[05/07/2023 07:19]  Razor: Bandage: 7s
+[05/07/2023 07:19]  a giant swamp slug: -10
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  Razor: Bandage: 6s
+[05/07/2023 07:19]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:19]  a lizardman: -71
+[05/07/2023 07:19]  a giant swamp slug: -9
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 5s
+[05/07/2023 07:19]  a lizardman: -47
+[05/07/2023 07:19]  Stink Fist: -8
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 4s
+[05/07/2023 07:19]  a giant swamp slug: -10
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  System: Your attack crushes their armor!
+[05/07/2023 07:19]  a lizardman: -174
+[05/07/2023 07:19]  Razor: Bandage: 3s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a giant swamp slug: -9
+[05/07/2023 07:19]  a lizardman: -85
+[05/07/2023 07:19]  Razor: Bandage: 2s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  a lizardman: -71
+[05/07/2023 07:19]  a giant swamp slug: -10
+[05/07/2023 07:19]  Razor: Bandage: 1s
+[05/07/2023 07:19]  System: You finish applying the bandages.
+[05/07/2023 07:19]  Stink Fist: +18
+[05/07/2023 07:19]  Stink Fist: -5
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a lizardman: -87
+[05/07/2023 07:19]  a giant swamp slug: -9
+[05/07/2023 07:19]  System: Who will you use the bandages on?
+[05/07/2023 07:19]  System: You begin applying the bandages.
+[05/07/2023 07:19]  Razor: Bandage: 10s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:19]  Razor: [DISARM]
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  System: Your strike disarms your target!
+[05/07/2023 07:19]  a lizardman: -306
+[05/07/2023 07:19]  a giant swamp slug: -10
+[05/07/2023 07:19]  Razor: Divine Fury
+[05/07/2023 07:19]  System: Divine Fury
+[05/07/2023 07:19]  Razor: Bandage: 9s
+[05/07/2023 07:19]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a lizardman: -89
+[05/07/2023 07:19]  Razor: Bandage: 8s
+[05/07/2023 07:19]  a giant swamp slug: -9
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 7s
+[05/07/2023 07:19]  System: You have gained a little fame.
+[05/07/2023 07:19]  Stink Fist: (Earth Aspect 2,995.1/4000 xp)
+[05/07/2023 07:19]  System: -64
+[05/07/2023 07:19]  You see: a lizardman corpse
+[05/07/2023 07:19]  Razor: Bandage: 6s
+[05/07/2023 07:19]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:19]  System: You carve materials from the corpse.
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Target: a giant swamp slug
+[05/07/2023 07:19]  Razor: Attack: a giant swamp slug
+[05/07/2023 07:19]  System: Your attack hinders your target!
+[05/07/2023 07:19]  a giant swamp slug: -90
+[05/07/2023 07:19]  Razor: Bandage: 5s
+[05/07/2023 07:19]  Razor: Bandage: 4s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a giant swamp slug: -62
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  Razor: Bandage: 3s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a giant swamp slug: -68
+[05/07/2023 07:19]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:19]  Stink Fist: +3
+[05/07/2023 07:19]  System: some damage has been healed : 3
+[05/07/2023 07:19]  a giant swamp slug: -214
+[05/07/2023 07:19]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:19]  Razor: Bandage: 2s
+[05/07/2023 07:19]  a giant swamp slug: -81
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  Razor: Bandage: 1s
+[05/07/2023 07:19]  System: You heal what little damage you had.
+[05/07/2023 07:19]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[05/07/2023 07:19]  System: You have gained a little fame.
+[05/07/2023 07:19]  Stink Fist: (Earth Aspect 2,996.5/4000 xp)
+[05/07/2023 07:19]  System: -64
+[05/07/2023 07:19]  You see: a giant swamp slug corpse
+[05/07/2023 07:19]  System: You carve materials from the corpse.
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  System: Holy symbols remaining: 7/10
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  a lizardman: a lizardman
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Target: a lizardman
+[05/07/2023 07:19]  a colossal frog: a colossal frog
+[05/07/2023 07:19]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:19]  Razor: Attack: a lizardman
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  System: You evade an attack (Dispel Evil).
+[05/07/2023 07:19]  Stink Fist: -1
+[05/07/2023 07:19]  a lizardman: -88
+[05/07/2023 07:19]  System: Who will you use the bandages on?
+[05/07/2023 07:19]  System: You begin applying the bandages.
+[05/07/2023 07:19]  Razor: Bandage: 10s
+[05/07/2023 07:19]  a lizardman: -59
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:19]  a lizardman: -47
+[05/07/2023 07:19]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:19]  Razor: Bandage: 9s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 8s
+[05/07/2023 07:19]  a lizardman: -218
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 7s
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  System: Your strike disarms your target!
+[05/07/2023 07:19]  a lizardman: -70
+[05/07/2023 07:19]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:19]  Razor: [DISARM]
+[05/07/2023 07:19]  a lizardman: -11
+[05/07/2023 07:19]  Razor: Bandage: 6s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:19]  a lizardman: Sthiyss aisysth.
+[05/07/2023 07:19]  a lizardman: Ouch! Me hurt!
+[05/07/2023 07:19]  a lizardman: -271
+[05/07/2023 07:19]  Razor: Bandage: 5s
+[05/07/2023 07:19]  Razor: Divine Fury
+[05/07/2023 07:19]  System: Divine Fury
+[05/07/2023 07:19]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:19]  a lizardman: -109
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 4s
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  a lizardman: -11
+[05/07/2023 07:19]  a lizardman: -75
+[05/07/2023 07:19]  Razor: Bandage: 3s
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Bandage: 2s
+[05/07/2023 07:19]  a lizardman: -45
+[05/07/2023 07:19]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:19]  Stink Fist: +0
+[05/07/2023 07:19]  a lizardman: -141
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:19]  Razor: Bandage: 1s
+[05/07/2023 07:19]  System: You heal what little damage you had.
+[05/07/2023 07:19]  a lizardman: -90
+[05/07/2023 07:19]  a lizardman: -11
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  a lizardman: Sthiys. Kth ath.
+[05/07/2023 07:19]  a lizardman: Revenge!
+[05/07/2023 07:19]  System: You have gained a little fame.
+[05/07/2023 07:19]  Stink Fist: (Earth Aspect 2,998.5/4000 xp)
+[05/07/2023 07:19]  System: -4
+[05/07/2023 07:19]  You see: a lizardman corpse
+[05/07/2023 07:19]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:19]  System: You carve materials from the corpse.
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:19]  Razor: found no one
+[05/07/2023 07:19]  a jaguar: a jaguar
+[05/07/2023 07:19]  System: No one matching that was found on your screen.
+[05/07/2023 07:19]  System: Holy symbols remaining: 7/10
+[05/07/2023 07:19]  System: New target set.
+[05/07/2023 07:19]  Razor: Target: a jaguar
+[05/07/2023 07:19]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:19]  Razor: Attack: a jaguar
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  a jaguar: -78
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  a jaguar: -125
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  Stink Fist: -1
+[05/07/2023 07:20]  a jaguar: -183
+[05/07/2023 07:20]  System: Who will you use the bandages on?
+[05/07/2023 07:20]  System: You begin applying the bandages.
+[05/07/2023 07:20]  Razor: Bandage: 10s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Bandage: 9s
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  System: Your attack hinders your target!
+[05/07/2023 07:20]  a jaguar: -118
+[05/07/2023 07:20]  Razor: Bandage: 8s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  a jaguar: -81
+[05/07/2023 07:20]  Razor: Bandage: 7s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Bandage: 6s
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Bandage: 5s
+[05/07/2023 07:20]  a jaguar: -78
+[05/07/2023 07:20]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:20]  Razor: Bandage: 4s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  a jaguar: -45
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  Razor: Bandage: 3s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: You have gained a little fame.
+[05/07/2023 07:20]  Stink Fist: (Earth Aspect 3,000.3/4000 xp)
+[05/07/2023 07:20]  System: -92
+[05/07/2023 07:20]  You see: a jaguar corpse
+[05/07/2023 07:20]  Razor: Bandage: 2s
+[05/07/2023 07:20]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Target: a colossal frog
+[05/07/2023 07:20]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:20]  Razor: [DISARM]
+[05/07/2023 07:20]  Razor: Bandage: 1s
+[05/07/2023 07:20]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:20]  Razor: Attack: a colossal frog
+[05/07/2023 07:20]  System: You heal what little damage you had.
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: That is too far away.
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Target: a colossal frog
+[05/07/2023 07:20]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:20]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:20]  System: Your strike disarms your target!
+[05/07/2023 07:20]  a colossal frog: -95
+[05/07/2023 07:20]  a colossal frog: *regens*
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Divine Fury
+[05/07/2023 07:20]  System: Divine Fury
+[05/07/2023 07:20]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:20]  System: Your attack hinders your target!
+[05/07/2023 07:20]  a colossal frog: -151
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  a colossal frog: -89
+[05/07/2023 07:20]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:20]  System: You have gained a little fame.
+[05/07/2023 07:20]  Stink Fist: (Earth Aspect 3,000.9/4000 xp)
+[05/07/2023 07:20]  System: -105
+[05/07/2023 07:20]  You see: a colossal frog corpse
+[05/07/2023 07:20]  System: You carve materials from the corpse.
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  Razor: found no one
+[05/07/2023 07:20]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  Razor: found no one
+[05/07/2023 07:20]  System: You carve materials from the corpse.
+[05/07/2023 07:20]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:20]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  Gin: Gin the stablemaster
+[05/07/2023 07:20]  Razor: found no one
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  Razor: found no one
+[05/07/2023 07:20]  System: No one matching that was found on your screen.
+[05/07/2023 07:20]  Razor: found no one
+[05/07/2023 07:20]  an ophidian warrior: an ophidian warrior
+[05/07/2023 07:20]  sentient vines: sentient vines
+[05/07/2023 07:20]  a colossal swamp slug: a colossal swamp slug
+[05/07/2023 07:20]  a giant swamp slug: a giant swamp slug
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Target: an ophidian warrior
+[05/07/2023 07:20]  a giant swamp slug: a giant swamp slug
+[05/07/2023 07:20]  Razor: Attack: an ophidian warrior
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  an ophidian warrior: -49
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  an ophidian warrior: -61
+[05/07/2023 07:20]  System: You increase your damage resistance to creature-casted spells.
+[05/07/2023 07:20]  Razor: [+Magic Resist Potion (120s)]
+[05/07/2023 07:20]  an ophidian warrior: Aisith lilsyth.
+[05/07/2023 07:20]  an ophidian warrior: Good blow!
+[05/07/2023 07:20]  an ophidian warrior: -54
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  an ophidian warrior: -55
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: Your attack hinders your target!
+[05/07/2023 07:20]  an ophidian warrior: -94
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  System: Your attack crushes their armor!
+[05/07/2023 07:20]  an ophidian warrior: -133
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:20]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:20]  an ophidian warrior: -115
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:20]  an ophidian warrior: -138
+[05/07/2023 07:20]  Stink Fist: -2
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  an ophidian warrior: -102
+[05/07/2023 07:20]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:20]  Razor: [DISARM]
+[05/07/2023 07:20]  System: Who will you use the bandages on?
+[05/07/2023 07:20]  System: You begin applying the bandages.
+[05/07/2023 07:20]  Razor: Bandage: 10s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  System: You fail to disarm your opponent.
+[05/07/2023 07:20]  Razor: Bandage: 9s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Stink Fist: -2
+[05/07/2023 07:20]  an ophidian warrior: -155
+[05/07/2023 07:20]  Razor: Divine Fury
+[05/07/2023 07:20]  System: Divine Fury
+[05/07/2023 07:20]  Razor: Bandage: 8s
+[05/07/2023 07:20]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  an ophidian warrior: -89
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  Razor: Bandage: 7s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  Razor: Bandage: 6s
+[05/07/2023 07:20]  an ophidian warrior: -116
+[05/07/2023 07:20]  Stink Fist: -10
+[05/07/2023 07:20]  System: Your fingers slip!
+[05/07/2023 07:20]  Razor: Bandage: 5s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  an ophidian warrior: -111
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  Razor: Bandage: 4s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  an ophidian warrior: -80
+[05/07/2023 07:20]  Razor: Bandage: 3s
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  an ophidian warrior: -137
+[05/07/2023 07:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:20]  Razor: Bandage: 2s
+[05/07/2023 07:20]  Stink Fist: -7
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:20]  System: Your attack crushes their armor!
+[05/07/2023 07:20]  an ophidian warrior: -114
+[05/07/2023 07:20]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:20]  Razor: Bandage: 1s
+[05/07/2023 07:20]  System: You finish applying the bandages.
+[05/07/2023 07:20]  Stink Fist: +19
+[05/07/2023 07:20]  an ophidian warrior: -94
+[05/07/2023 07:20]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  an ophidian warrior: -153
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Stink Fist: -13
+[05/07/2023 07:21]  an ophidian warrior: Raysthasth. Sithssysssy. Ceysthis!
+[05/07/2023 07:21]  an ophidian warrior: Away with thee!
+[05/07/2023 07:21]  an ophidian warrior: -45
+[05/07/2023 07:21]  System: Who will you use the bandages on?
+[05/07/2023 07:21]  System: You begin applying the bandages.
+[05/07/2023 07:21]  Razor: Bandage: 10s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  Stink Fist: -5
+[05/07/2023 07:21]  System: Your fingers slip!
+[05/07/2023 07:21]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:21]  an ophidian warrior: -82
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Bandage: 9s
+[05/07/2023 07:21]  an anaconda: an anaconda
+[05/07/2023 07:21]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:21]  an ophidian warrior: Sitthys lish.
+[05/07/2023 07:21]  an ophidian warrior: Away with thee!
+[05/07/2023 07:21]  an ophidian warrior: -148
+[05/07/2023 07:21]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:21]  Stink Fist: +18
+[05/07/2023 07:21]  System: some damage has been healed : 18
+[05/07/2023 07:21]  System: You have gained a good amount of fame.
+[05/07/2023 07:21]  Stink Fist: (Earth Aspect 3,008.9/4000 xp)
+[05/07/2023 07:21]  System: -375
+[05/07/2023 07:21]  You see: an ophidian warrior corpse
+[05/07/2023 07:21]  Razor: Bandage: 8s
+[05/07/2023 07:21]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:21]  System: You carve materials from the corpse.
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Target: a giant swamp slug
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  Razor: Attack: a giant swamp slug
+[05/07/2023 07:21]  System: Your strike disarms your target!
+[05/07/2023 07:21]  a giant swamp slug: -65
+[05/07/2023 07:21]  Razor: Bandage: 7s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Stink Fist: -8
+[05/07/2023 07:21]  Razor: Bandage: 6s
+[05/07/2023 07:21]  a giant swamp slug: -191
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Bandage: 5s
+[05/07/2023 07:21]  a giant swamp slug: -125
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:21]  Razor: Bandage: 4s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a giant swamp slug: -60
+[05/07/2023 07:21]  Razor: Bandage: 3s
+[05/07/2023 07:21]  a giant swamp slug: -102
+[05/07/2023 07:21]  Razor: Bandage: 2s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:21]  a giant swamp slug: -79
+[05/07/2023 07:21]  Razor: Bandage: 1s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  System: You finish applying the bandages.
+[05/07/2023 07:21]  Stink Fist: +7
+[05/07/2023 07:21]  a giant swamp slug: -105
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  a giant swamp slug: -100
+[05/07/2023 07:21]  Stink Fist: -5
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a giant swamp slug: -126
+[05/07/2023 07:21]  System: Who will you use the bandages on?
+[05/07/2023 07:21]  System: You begin applying the bandages.
+[05/07/2023 07:21]  Razor: Bandage: 10s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  a giant swamp slug: -38
+[05/07/2023 07:21]  Razor: Bandage: 9s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a giant swamp slug: -66
+[05/07/2023 07:21]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:21]  Stink Fist: +5
+[05/07/2023 07:21]  System: some damage has been healed : 5
+[05/07/2023 07:21]  System: You have gained a little fame.
+[05/07/2023 07:21]  Stink Fist: (Earth Aspect 3,010.3/4000 xp)
+[05/07/2023 07:21]  System: -193
+[05/07/2023 07:21]  You see: a giant swamp slug corpse
+[05/07/2023 07:21]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:21]  Razor: Bandage: 8s
+[05/07/2023 07:21]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:21]  System: You carve materials from the corpse.
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: Bandage: 7s
+[05/07/2023 07:21]  Razor: found no one
+[05/07/2023 07:21]  Razor: Bandage: 6s
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:21]  Razor: Bandage: 5s
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: found no one
+[05/07/2023 07:21]  Razor: Bandage: 4s
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: Bandage: 3s
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: found no one
+[05/07/2023 07:21]  Razor: Bandage: 2s
+[05/07/2023 07:21]  a colossal frog: a colossal frog
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: Bandage: 1s
+[05/07/2023 07:21]  System: You heal what little damage you had.
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Target: a colossal frog
+[05/07/2023 07:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:21]  a colossal frog: a colossal frog
+[05/07/2023 07:21]  a silverback: a silverback
+[05/07/2023 07:21]  a colossal swamp slug: a colossal swamp slug
+[05/07/2023 07:21]  a plover: a plover
+[05/07/2023 07:21]  a giant frog: a giant frog
+[05/07/2023 07:21]  a corpser: a corpser
+[05/07/2023 07:21]  a plover: a plover
+[05/07/2023 07:21]  a chameleon: a chameleon
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Attack: a colossal frog
+[05/07/2023 07:21]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a colossal frog: -131
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  Razor: Divine Fury
+[05/07/2023 07:21]  System: Divine Fury
+[05/07/2023 07:21]  a colossal frog: *regens*
+[05/07/2023 07:21]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:21]  a colossal frog: -161
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a colossal frog: -94
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  System: You have gained a little fame.
+[05/07/2023 07:21]  Stink Fist: (Earth Aspect 3,010.9/4000 xp)
+[05/07/2023 07:21]  System: -54
+[05/07/2023 07:21]  You see: a colossal frog corpse
+[05/07/2023 07:21]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:21]  System: You carve materials from the corpse.
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: found no one
+[05/07/2023 07:21]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:21]  Razor: [DISARM]
+[05/07/2023 07:21]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: found no one
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  System: No one matching that was found on your screen.
+[05/07/2023 07:21]  Razor: found no one
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Target: a plover
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:21]  a tribal hunter: a tribal hunter
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a tribal shaman: a tribal shaman
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Target: a tribal hunter
+[05/07/2023 07:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:21]  a tribal chieftain: a tribal chieftain
+[05/07/2023 07:21]  a tribal hunter: a tribal hunter
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Attack: a tribal hunter
+[05/07/2023 07:21]  System: You fail to disarm your opponent.
+[05/07/2023 07:21]  a tribal hunter: -197
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:21]  a plover: a plover
+[05/07/2023 07:21]  a tribal shaman: a tribal shaman
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Stink Fist: -11
+[05/07/2023 07:21]  System: Who will you use the bandages on?
+[05/07/2023 07:21]  System: You begin applying the bandages.
+[05/07/2023 07:21]  Razor: Bandage: 10s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:21]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:21]  Razor: Bandage: 9s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  a tribal hunter: -34
+[05/07/2023 07:21]  Razor: Bandage: 8s
+[05/07/2023 07:21]  a tribal hunter: -83
+[05/07/2023 07:21]  Razor: Bandage: 7s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  Razor: Bandage: 6s
+[05/07/2023 07:21]  a tribal hunter: -139
+[05/07/2023 07:21]  Stink Fist: -2
+[05/07/2023 07:21]  System: Your fingers slip!
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: Bandage: 5s
+[05/07/2023 07:21]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:21]  Razor: Bandage: 4s
+[05/07/2023 07:21]  System: New target set.
+[05/07/2023 07:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:21]  a tribal hunter: -73
+[05/07/2023 07:22]  Razor: Bandage: 3s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal hunter: -85
+[05/07/2023 07:22]  System: Sdelal has completed the achievement: Tailor (Epic).
+[05/07/2023 07:22]  Razor: Bandage: 2s
+[05/07/2023 07:22]  Razor: Divine Fury
+[05/07/2023 07:22]  System: Divine Fury
+[05/07/2023 07:22]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:22]  Razor: Bandage: 1s
+[05/07/2023 07:22]  a tribal hunter: -79
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  System: You finish applying the bandages.
+[05/07/2023 07:22]  Stink Fist: +11
+[05/07/2023 07:22]  System: You fail to disarm your opponent.
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  a tribal hunter: -50
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal hunter: -61
+[05/07/2023 07:22]  Stink Fist: -9
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  System: Who will you use the bandages on?
+[05/07/2023 07:22]  System: You begin applying the bandages.
+[05/07/2023 07:22]  Razor: Bandage: 10s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: Bandage: 9s
+[05/07/2023 07:22]  a tribal hunter: -176
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Razor: Bandage: 8s
+[05/07/2023 07:22]  a tribal hunter: -56
+[05/07/2023 07:22]  Razor: Bandage: 7s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal hunter: -277
+[05/07/2023 07:22]  Razor: Bandage: 6s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Stink Fist: -7
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  a tribal hunter: -199
+[05/07/2023 07:22]  Razor: Bandage: 5s
+[05/07/2023 07:22]  Razor: Bandage: 4s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal hunter: -122
+[05/07/2023 07:22]  Razor: Bandage: 3s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Razor: Bandage: 2s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: Bandage: 1s
+[05/07/2023 07:22]  System: Your strike disarms your target!
+[05/07/2023 07:22]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:22]  a tribal hunter: -128
+[05/07/2023 07:22]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:22]  Stink Fist: +14
+[05/07/2023 07:22]  System: some damage has been healed : 14
+[05/07/2023 07:22]  System: You have gained some fame.
+[05/07/2023 07:22]  Stink Fist: (Earth Aspect 3,014.9/4000 xp)
+[05/07/2023 07:22]  System: -241
+[05/07/2023 07:22]  System: You heal what little damage you had.
+[05/07/2023 07:22]  You see: a forest ostard corpse
+[05/07/2023 07:22]  You see: a tribal hunter corpse
+[05/07/2023 07:22]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:22]  System: You carve materials from the corpse.
+[05/07/2023 07:22]  System: No one matching that was found on your screen.
+[05/07/2023 07:22]  Razor: found no one
+[05/07/2023 07:22]  System: No one matching that was found on your screen.
+[05/07/2023 07:22]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:22]  System: You carve materials from the corpse.
+[05/07/2023 07:22]  System: You dont see anything nearby worth carving or investigating.
+[05/07/2023 07:22]  System: No one matching that was found on your screen.
+[05/07/2023 07:22]  Razor: found no one
+[05/07/2023 07:22]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:22]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:22]  System: No one matching that was found on your screen.
+[05/07/2023 07:22]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:22]  System: No one matching that was found on your screen.
+[05/07/2023 07:22]  a tribal chieftain: a tribal chieftain
+[05/07/2023 07:22]  Razor: found no one
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: Target: a tribal shaman
+[05/07/2023 07:22]  a tribal hunter: a tribal hunter
+[05/07/2023 07:22]  Razor: Attack: a tribal shaman
+[05/07/2023 07:22]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:22]  a tribal shaman: *rattles bones*
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Stink Fist: -4
+[05/07/2023 07:22]  a tribal shaman: -76
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Stink Fist: -4
+[05/07/2023 07:22]  System: Who will you use the bandages on?
+[05/07/2023 07:22]  System: You begin applying the bandages.
+[05/07/2023 07:22]  Razor: Bandage: 10s
+[05/07/2023 07:22]  Stink Fist: -5
+[05/07/2023 07:22]  System: Your fingers slip!
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Stink Fist: -5
+[05/07/2023 07:22]  Razor: Divine Fury
+[05/07/2023 07:22]  System: Divine Fury
+[05/07/2023 07:22]  a tribal shaman: -56
+[05/07/2023 07:22]  System: Holy symbols remaining: 5/10
+[05/07/2023 07:22]  Razor: Bandage: 9s
+[05/07/2023 07:22]  Stink Fist: -3
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Razor: Bandage: 8s
+[05/07/2023 07:22]  a tribal shaman: -58
+[05/07/2023 07:22]  Razor: Bandage: 7s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal shaman: -100
+[05/07/2023 07:22]  Razor: Bandage: 6s
+[05/07/2023 07:22]  a tribal shaman: -57
+[05/07/2023 07:22]  Stink Fist: -9
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: Bandage: 5s
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Razor: Bandage: 4s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  System: You absorb their spell.
+[05/07/2023 07:22]  a tribal shaman: -57
+[05/07/2023 07:22]  Stink Fist: -2
+[05/07/2023 07:22]  Razor: Bandage: 3s
+[05/07/2023 07:22]  System: Your magic resist potion has worn off.
+[05/07/2023 07:22]  Razor: [-Magic Resist Potion (s)]
+[05/07/2023 07:22]  System: You increase your damage resistance to creature-casted spells.
+[05/07/2023 07:22]  Razor: [+Magic Resist Potion (120s)]
+[05/07/2023 07:22]  Razor: Bandage: 2s
+[05/07/2023 07:22]  a tribal shaman: -63
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Razor: Bandage: 1s
+[05/07/2023 07:22]  System: You finish applying the bandages.
+[05/07/2023 07:22]  Stink Fist: +30
+[05/07/2023 07:22]  a tribal shaman: -142
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Stink Fist: -7
+[05/07/2023 07:22]  a tribal shaman: -66
+[05/07/2023 07:22]  System: Who will you use the bandages on?
+[05/07/2023 07:22]  System: You begin applying the bandages.
+[05/07/2023 07:22]  Razor: Bandage: 10s
+[05/07/2023 07:22]  a tribal shaman: -46
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  a tribal shaman: -93
+[05/07/2023 07:22]  Razor: Bandage: 9s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  System: You parry the spell.
+[05/07/2023 07:22]  a tribal shaman: -58
+[05/07/2023 07:22]  Razor: Bandage: 8s
+[05/07/2023 07:22]  Stink Fist: -3
+[05/07/2023 07:22]  System: Your fingers slip!
+[05/07/2023 07:22]  a tribal shaman: *rattles bones*
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Stink Fist: -5
+[05/07/2023 07:22]  Razor: Bandage: 6s
+[05/07/2023 07:22]  a tribal shaman: -81
+[05/07/2023 07:22]  Stink Fist: -3
+[05/07/2023 07:22]  Razor: Bandage: 5s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal shaman: -139
+[05/07/2023 07:22]  Stink Fist: -3
+[05/07/2023 07:22]  Razor: Bandage: 4s
+[05/07/2023 07:22]  Stink Fist: -3
+[05/07/2023 07:22]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:22]  Razor: [DISARM]
+[05/07/2023 07:22]  System: Your strike disarms your target!
+[05/07/2023 07:22]  a tribal shaman: -76
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  System: Your fingers slip! [2]
+[05/07/2023 07:22]  Stink Fist: -4
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  Razor: Bandage: 3s
+[05/07/2023 07:22]  a tribal shaman: -64
+[05/07/2023 07:22]  Razor: Bandage: 2s
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal shaman: -102
+[05/07/2023 07:22]  Razor: Bandage: 1s
+[05/07/2023 07:22]  Stink Fist: -8
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:22]  a tribal shaman: -38
+[05/07/2023 07:22]  System: You finish applying the bandages.
+[05/07/2023 07:22]  Stink Fist: +34
+[05/07/2023 07:22]  System: Your fingers slip!
+[05/07/2023 07:22]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  a tribal shaman: -65
+[05/07/2023 07:22]  a tribal shaman: -136
+[05/07/2023 07:22]  System: You deliver a zen strike to your opponent.
+[05/07/2023 07:22]  Stink Fist: +0
+[05/07/2023 07:22]  System: You have gained a good amount of fame.
+[05/07/2023 07:22]  Stink Fist: (Earth Aspect 3,020.9/4000 xp)
+[05/07/2023 07:22]  System: You have unlocked a codex upgrade point for Parry (2 available).
+[05/07/2023 07:22]  System: -427
+[05/07/2023 07:22]  You see: a tribal shaman corpse
+[05/07/2023 07:22]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:22]  System: You carve materials from the corpse.
+[05/07/2023 07:22]  Stink Fist: -6
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: Target: a tribal chieftain
+[05/07/2023 07:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:22]  Razor: Attack: a tribal chieftain
+[05/07/2023 07:22]  System: Who will you use the bandages on?
+[05/07/2023 07:22]  System: You begin applying the bandages.
+[05/07/2023 07:22]  Razor: Bandage: 10s
+[05/07/2023 07:22]  System: You must wait to perform another action.
+[05/07/2023 07:22]  System: New target set.
+[05/07/2023 07:22]  Razor: Bandage: 9s
+[05/07/2023 07:22]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:23]  Razor: Bandage: 8s
+[05/07/2023 07:23]  Razor: Bandage: 7s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Bandage: 6s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:23]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:23]  Razor: Bandage: 5s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:23]  Razor: Bandage: 4s
+[05/07/2023 07:23]  Razor: Bandage: 3s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:23]  Razor: Bandage: 2s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Bandage: 1s
+[05/07/2023 07:23]  System: You finish applying the bandages.
+[05/07/2023 07:23]  Stink Fist: +4
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Target: a tribal hunter
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  Razor: Attack: a tribal hunter
+[05/07/2023 07:23]  Stink Fist: -13
+[05/07/2023 07:23]  Razor: Divine Fury
+[05/07/2023 07:23]  System: Divine Fury
+[05/07/2023 07:23]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:23]  System: Who will you use the bandages on?
+[05/07/2023 07:23]  System: You begin applying the bandages.
+[05/07/2023 07:23]  Razor: Bandage: 10s
+[05/07/2023 07:23]  Stink Fist: -5
+[05/07/2023 07:23]  System: Your fingers slip!
+[05/07/2023 07:23]  a tribal hunter: -55
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  a tribal hunter: -168
+[05/07/2023 07:23]  Razor: Bandage: 9s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  a tribal hunter: -111
+[05/07/2023 07:23]  Stink Fist: -3
+[05/07/2023 07:23]  Razor: Bandage: 8s
+[05/07/2023 07:23]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:23]  a tribal hunter: -105
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Bandage: 7s
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  a tribal hunter: -47
+[05/07/2023 07:23]  Razor: Bandage: 6s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Bandage: 5s
+[05/07/2023 07:23]  a tribal hunter: -144
+[05/07/2023 07:23]  Stink Fist: -4
+[05/07/2023 07:23]  System: Your fingers slip!
+[05/07/2023 07:23]  Razor: Bandage: 4s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  Stink Fist: -4
+[05/07/2023 07:23]  Razor: Bandage: 3s
+[05/07/2023 07:23]  System: Your strike disarms your target!
+[05/07/2023 07:23]  a tribal hunter: -75
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:23]  Razor: [DISARM]
+[05/07/2023 07:23]  Razor: Bandage: 2s
+[05/07/2023 07:23]  a tribal hunter: -86
+[05/07/2023 07:23]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:23]  System: Your fingers slip!
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  System: You finish applying the bandages.
+[05/07/2023 07:23]  Stink Fist: +27
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:23]  System: Your attack hinders your target!
+[05/07/2023 07:23]  a tribal hunter: -209
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  a tribal hunter: -59
+[05/07/2023 07:23]  a tribal hunter: -21
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[05/07/2023 07:23]  a tribal hunter: -161
+[05/07/2023 07:23]  a tribal hunter: -156
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  a tribal hunter: -361
+[05/07/2023 07:23]  a tribal hunter: -21
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  a tribal hunter: -38
+[05/07/2023 07:23]  Stink Fist: -2
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:23]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:23]  System: You have gained some fame.
+[05/07/2023 07:23]  Stink Fist: (Earth Aspect 3,024.9/4000 xp)
+[05/07/2023 07:23]  System: You have unlocked a codex upgrade point for Wrestling (14 available).
+[05/07/2023 07:23]  System: -183
+[05/07/2023 07:23]  You see: a forest ostard corpse
+[05/07/2023 07:23]  You see: a tribal hunter corpse
+[05/07/2023 07:23]  System: Holy symbols remaining: 8/10
+[05/07/2023 07:23]  System: You must wait to perform another action.
+[05/07/2023 07:23]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:23]  System: You carve materials from the corpse.
+[05/07/2023 07:23]  System: You must wait a few moments before carving again.
+[05/07/2023 07:23]  System: You dont see anything nearby worth carving or investigating.
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: found no one
+[05/07/2023 07:23]  System: Who will you use the bandages on?
+[05/07/2023 07:23]  System: You begin applying the bandages.
+[05/07/2023 07:23]  Razor: Bandage: 10s
+[05/07/2023 07:23]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: found no one
+[05/07/2023 07:23]  System: You carve materials from the corpse.
+[05/07/2023 07:23]  Razor: Bandage: 9s
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: Bandage: 8s
+[05/07/2023 07:23]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:23]  Razor: Bandage: 7s
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: found no one
+[05/07/2023 07:23]  System: What do you wish to carve, investigate, or research? [2]
+[05/07/2023 07:23]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:23]  Razor: Bandage: 6s
+[05/07/2023 07:23]  System: You dont see anything nearby worth carving or investigating.
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: Bandage: 5s
+[05/07/2023 07:23]  Razor: Bandage: 4s
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: found no one
+[05/07/2023 07:23]  Razor: Bandage: 3s
+[05/07/2023 07:23]  System: No one matching that was found on your screen.
+[05/07/2023 07:23]  Razor: Bandage: 2s
+[05/07/2023 07:23]  Razor: Bandage: 1s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Target: a tribal chieftain
+[05/07/2023 07:23]  System: You heal what little damage you had.
+[05/07/2023 07:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:23]  Razor: Attack: a tribal chieftain
+[05/07/2023 07:23]  You see: a tribal hunter corpse
+[05/07/2023 07:23]  You see: a forest ostard corpse
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  a tribal chieftain: -98
+[05/07/2023 07:23]  System: Your attacker scythes through you, causing you to bleed!
+[05/07/2023 07:23]  Stink Fist: -3
+[05/07/2023 07:23]  Razor: [+Bleed (15s)]
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  System: Your strike disarms your target!
+[05/07/2023 07:23]  a tribal chieftain: -78
+[05/07/2023 07:23]  Stink Fist: Warding stance activated.
+[05/07/2023 07:23]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:23]  Razor: [DISARM]
+[05/07/2023 07:23]  Razor: Close Wounds
+[05/07/2023 07:23]  System: Close Wounds
+[05/07/2023 07:23]  Stink Fist: Barrier finisher activated.
+[05/07/2023 07:23]  System: Who will you use the bandages on?
+[05/07/2023 07:23]  System: You begin applying the bandages.
+[05/07/2023 07:23]  Razor: Bandage: 10s
+[05/07/2023 07:23]  a tribal chieftain: -239
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  Stink Fist: -8
+[05/07/2023 07:23]  Stink Fist: -5
+[05/07/2023 07:23]  Razor: Divine Fury
+[05/07/2023 07:23]  System: Divine Fury
+[05/07/2023 07:23]  Razor: Bandage: 9s
+[05/07/2023 07:23]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:23]  a tribal chieftain: -134
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Bandage: 8s
+[05/07/2023 07:23]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:23]  a tribal chieftain: -220
+[05/07/2023 07:23]  Razor: Bandage: 7s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  a tribal chieftain: -189
+[05/07/2023 07:23]  Stink Fist: -5
+[05/07/2023 07:23]  Razor: Bandage: 6s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  a tribal chieftain: -84
+[05/07/2023 07:23]  Razor: Bandage: 5s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  Razor: Bandage: 4s
+[05/07/2023 07:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:23]  a tribal chieftain: -182
+[05/07/2023 07:23]  Stink Fist: -5
+[05/07/2023 07:23]  Razor: Bandage: 3s
+[05/07/2023 07:23]  System: New target set.
+[05/07/2023 07:23]  a tribal chieftain: -201
+[05/07/2023 07:24]  System: Holy symbols remaining: 6/10
+[05/07/2023 07:24]  Razor: Bandage: 2s
+[05/07/2023 07:24]  a tribal chieftain: -58
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  System: Wrestling stance adoption expired.
+[05/07/2023 07:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:24]  Razor: Bandage: 1s
+[05/07/2023 07:24]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:24]  Stink Fist: -5
+[05/07/2023 07:24]  System: You finish applying the bandages.
+[05/07/2023 07:24]  Stink Fist: +29
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Stink Fist: -16
+[05/07/2023 07:24]  a tribal chieftain: -71
+[05/07/2023 07:24]  System: Who will you use the bandages on?
+[05/07/2023 07:24]  System: You begin applying the bandages.
+[05/07/2023 07:24]  Razor: Bandage: 10s
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:24]  a tribal chieftain: -80
+[05/07/2023 07:24]  Stink Fist: Bulwark stance activated.
+[05/07/2023 07:24]  Stink Fist: Last Stand finisher activated.
+[05/07/2023 07:24]  Stink Fist: -7
+[05/07/2023 07:24]  System: Your fingers slip!
+[05/07/2023 07:24]  System: You are no longer bleeding.
+[05/07/2023 07:24]  Razor: [-Bleed (s)]
+[05/07/2023 07:24]  Razor: Bandage: 9s
+[05/07/2023 07:24]  System: Your attacker scythes through you, causing you to bleed!
+[05/07/2023 07:24]  Stink Fist: -9
+[05/07/2023 07:24]  Razor: [+Bleed (15s)]
+[05/07/2023 07:24]  a tribal chieftain: -131
+[05/07/2023 07:24]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Razor: Bandage: 8s
+[05/07/2023 07:24]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/07/2023 07:24]  a tribal chieftain: -107
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Razor: Bandage: 7s
+[05/07/2023 07:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:24]  a tribal chieftain: -111
+[05/07/2023 07:24]  Razor: Bandage: 6s
+[05/07/2023 07:24]  Stink Fist: -7
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  a tribal chieftain: -26
+[05/07/2023 07:24]  a tribal chieftain: -91
+[05/07/2023 07:24]  Razor: Bandage: 5s
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:24]  Razor: Bandage: 4s
+[05/07/2023 07:24]  a tribal chieftain: -76
+[05/07/2023 07:24]  Stink Fist: +36
+[05/07/2023 07:24]  System: some damage has been healed : 36
+[05/07/2023 07:24]  Razor: Bandage: 3s
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Stink Fist: -7
+[05/07/2023 07:24]  System: Your fingers slip!
+[05/07/2023 07:24]  a tribal chieftain: -62
+[05/07/2023 07:24]  a tribal chieftain: -26
+[05/07/2023 07:24]  Razor: Bandage: 2s
+[05/07/2023 07:24]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:24]  a tribal chieftain: -241
+[05/07/2023 07:24]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/07/2023 07:24]  Razor: Bandage: 1s
+[05/07/2023 07:24]  System: You finish applying the bandages.
+[05/07/2023 07:24]  Stink Fist: +8
+[05/07/2023 07:24]  a tribal chieftain: -156
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  Stink Fist: -7
+[05/07/2023 07:24]  a tribal chieftain: -12
+[05/07/2023 07:24]  System: Wrestling stance adoption expired.
+[05/07/2023 07:24]  a tribal chieftain: -26
+[05/07/2023 07:24]  Stink Fist: Warding stance activated.
+[05/07/2023 07:24]  Stink Fist: Barrier finisher activated.
+[05/07/2023 07:24]  Stink Fist: -10
+[05/07/2023 07:24]  a tribal chieftain: -67
+[05/07/2023 07:24]  System: Who will you use the bandages on?
+[05/07/2023 07:24]  System: You begin applying the bandages.
+[05/07/2023 07:24]  Razor: Bandage: 10s
+[05/07/2023 07:24]  System: New target set.
+[05/07/2023 07:24]  System: You have gained a good amount of fame.
+[05/07/2023 07:24]  Stink Fist: (Earth Aspect 3,030.9/4000 xp)
+[05/07/2023 07:24]  System: -234
+[05/07/2023 07:24]  You see: a tribal chieftain corpse
+[05/07/2023 07:24]  Razor: Bandage: 9s
+[05/07/2023 07:24]  Stink Fist: -5
+[05/07/2023 07:24]  System: Your fingers slip!
+[05/07/2023 07:24]  System: What do you wish to carve, investigate, or research?
+[05/07/2023 07:24]  System: You carve materials from the corpse.
+[05/07/2023 07:24]  System: No one matching that was found on your screen.
+[05/07/2023 07:24]  Razor: Bandage: 8s
+[05/07/2023 07:24]  Razor: Bandage: 7s
+[05/07/2023 07:24]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:24]  System: No one matching that was found on your screen.
+[05/07/2023 07:24]  Razor: found no one
+[05/07/2023 07:24]  System: Your attack cripples your target, lowering their defense!
+[05/07/2023 07:24]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[05/07/2023 07:24]  Razor: Bandage: 6s
+[05/07/2023 07:24]  Stink Fist: -5
+[05/07/2023 07:24]  System: You are no longer bleeding.
+[05/07/2023 07:24]  Razor: [-Bleed (s)]
+[05/07/2023 07:24]  System: No one matching that was found on your screen.
+[05/07/2023 07:24]  System: [GridLoot]: Corpse is empty!
+[05/07/2023 07:24]  System: Your fingers slip!
+[05/07/2023 07:24]  Razor: Bandage: 5s
+[05/07/2023 07:24]  System: You may now attempt to disarm your opponent again.
+[05/07/2023 07:24]  Razor: [DISARM]
+[05/07/2023 07:24]  System: No one matching that was found on your screen.
+[05/07/2023 07:24]  Razor: Bandage: 4s
+[05/07/2023 07:24]  Razor: found no one
+[05/07/2023 07:24]  Razor: Bandage: 3s
+[05/07/2023 07:24]  Razor: Bandage: 2s
+[05/07/2023 07:24]  System: Your skill in Tactics has decreased by 30.0.  It is now 100.0.
+[05/07/2023 07:24]  Stink Fist: Kal Ort Por [Recall]
+[05/07/2023 07:24]  Razor: Bandage: 1s
+[05/07/2023 07:24]  System: You finish applying the bandages.
+[05/07/2023 07:24]  Stink Fist: +25
+[05/07/2023 07:24]  System: You are now under the protection of the town guards.
+[05/07/2023 07:24]  Greger: Greger the cook
+[05/07/2023 07:24]  an andarian mage: an andarian mage
+[05/07/2023 07:24]  Candida: Candida the cobbler
+[05/07/2023 07:24]  Leiko: Leiko the tinker
+[05/07/2023 07:24]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[05/07/2023 07:24]  System: Holy symbols remaining: 9/10
+[05/07/2023 07:24]  Zero Absoluto: [Soldado, BRA]
+[05/07/2023 07:24]  Zero Absoluto: Zero Absoluto
+[05/07/2023 07:24]  Stoyan: Stoyan the tinker
+[05/07/2023 07:24]  Bart: Bart the Town Crier
+[05/07/2023 07:24]  Merganser: [Archon, T^C]
+[05/07/2023 07:24]  Merganser: Merganser
+[05/07/2023 07:24]  Blacksmith Bob: Blacksmith Bob
+[05/07/2023 07:24]  a dog: a dog
+[05/07/2023 07:24]  Killian: Killian the jeweler
+[05/07/2023 07:24]  System: Max holy symbols earned (10/10)
+[05/07/2023 07:24]  an andarian mage: an andarian mage
+[05/07/2023 07:24]  System: Your magic resist potion has worn off.
+[05/07/2023 07:24]  Razor: [-Magic Resist Potion (s)]
+[05/07/2023 07:24]  System: Your skill in Tactics has decreased by 30.0.  It is now 100.0.
+[05/07/2023 07:24]  Stink Fist: Kal Ort Por [Recall]
+[05/07/2023 07:24]  System: You have left the protection of the town guards.
+[05/07/2023 07:24]  You see: an ettin corpse
+[05/07/2023 07:24]  Rane: Rane the dockmaster
+[05/07/2023 07:24]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[05/07/2023 07:24]  System: Opening door...
+[05/07/2023 07:24]  System: Your house and its contents have been refreshed. 24 days 55 minutes remaining until owner refresh required.
+[05/07/2023 07:24]  Razor:  Scanning for rat 
+[05/07/2023 07:24]  System: Where will you search?
+[05/07/2023 07:24]  System: You reveal what was hidden.
+[05/07/2023 07:24]  Wulf of Wyrd: Wulf of Wyrd
+[05/07/2023 07:24]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[05/07/2023 07:24]  Rane: Rane the dockmaster
+[05/07/2023 07:24]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[05/07/2023 07:24]  System: 16 items were added.
+[05/07/2023 07:24]  System: Finished 3 queued actions in 1.2 seconds.
+[05/07/2023 07:25]  System: Resupply complete.
+[05/07/2023 07:25]  System: Set Grab Item HotBag
+[05/07/2023 07:25]  System: Grab Item HotBag Set
+[05/07/2023 07:25]  Razor: Organize Open Pouches
+[05/07/2023 07:25]  System: Finished 2 queued actions in 0.6 seconds.
+[05/07/2023 07:25]  Razor: Organize Trapped Pouches
+[05/07/2023 07:25]  Razor: Organize Trapped Pouches
+[05/07/2023 07:25]  Razor: Organize Trapped Pouches
+[05/07/2023 07:25]  Razor: Organize Trapped Pouches
+[05/07/2023 07:25]  Razor: Organize Trapped Pouches
+[05/07/2023 07:25]  Razor: Organize Orange Potions
+[05/07/2023 07:25]  Razor: Organize Red Potions
+[05/07/2023 07:25]  Razor: Organize Yellow Potions
+[05/07/2023 07:25]  Razor: Organize White Potions
+[05/07/2023 07:25]  Razor: Organize Blue Potions
+[05/07/2023 07:25]  Razor: Organize Aids
+[05/07/2023 07:25]  Razor: Organize Rope
+[05/07/2023 07:25]  Razor: Open Untrapped Pouches
+[05/07/2023 07:25]  Razor: recall scroll : 5
+[05/07/2023 07:25]  System: You add 3 recall charges to the rune tome.
+[05/07/2023 07:25]  System: bongeR II has completed the achievement: Animal Bond (Advanced).
+[05/07/2023 07:26]  You see: gold coin : 8095
+[05/07/2023 07:27]  System: Dagen has completed the achievement: Tinker (Advanced).
+[05/07/2023 07:28]  System: The world will save in 15 seconds.
+[05/07/2023 07:28]  System: Your strength has changed by -10.  It is now 100
+[05/07/2023 07:28]  System: Your dexterity has changed by -10.  It is now 100
+[05/07/2023 07:28]  System: Your intelligence has changed by -10.  It is now 25
+[05/07/2023 07:28]  Razor: [-Strength (s)]
+[05/07/2023 07:28]  Razor: [-Agility (s)]
+[05/07/2023 07:28]  Razor: [-Cunning (s)]
+[05/07/2023 07:28]  Razor: Str: -10 - 100
+[05/07/2023 07:28]  Razor: Dex: -10 - 100
+[05/07/2023 07:28]  Razor: Int: -10 - 25
+[05/07/2023 07:28]  Razor: [-Protection (s)]
+[05/07/2023 07:28]  System: The world is saving, please wait.
+[05/07/2023 07:28]  System: World save complete. The entire process took 3.9 seconds.
+[05/07/2023 07:28]  System: Nathalia has completed the achievement: Affluent (Basic).
+[05/07/2023 07:30]  You see: plant chemicals : 18
+[05/07/2023 07:30]  You see: winter cracker
+[05/07/2023 07:30]  You see: [blessed]
+[05/07/2023 07:30]  You see: (hue 1465: dark blood)
+[05/07/2023 07:30]  You see: [double-click to open and receive prize]
+[05/07/2023 07:30]  You see: rare cloth : 7
+[05/07/2023 07:30]  You see: (hue 1465: dark blood)
+[05/07/2023 07:30]  You see: winter cracker
+[05/07/2023 07:30]  You see: [blessed]
+[05/07/2023 07:30]  You see: (hue 1465: dark blood)
+[05/07/2023 07:30]  You see: [double-click to open and receive prize]
+[05/07/2023 07:30]  System: Ruta has completed the achievement: Guardian of Ossuary (Basic).
+[05/07/2023 07:31]  System: Zokathra has completed the achievement: Order of Armorers Associate.
+[05/07/2023 07:31]  System: Section 9 (s9) guild has reached prestige level 17.

@@ -23,7 +23,7 @@
 	<gump type="20" x="1282" y="510" serial="0" minimized="False" />
 	<gump type="9" x="1508" y="-41" serial="149785" isminimized="False" />
 	<gump type="2" x="1455" y="225" serial="1083172291" graphic="60" isminimized="False" />
-	<gump type="12" x="1120" y="851" serial="0" />
+	<gump type="2" x="1694" y="253" serial="1521162403" graphic="61" isminimized="False" />
 	<gump type="3" x="675" y="30" serial="0" rows="1" columns="13" rectsize="40">
 		<controls>
 			<control graphic="3617" hue="0" />
@@ -44,6 +44,7 @@
 	<gump type="5" x="701" y="4" serial="0" />
 	<gump type="16" x="1339" y="794" serial="0" id="14" />
 	<gump type="1" x="1203" y="76" serial="0" graphic="30080" direction="1" />
+	<gump type="12" x="1120" y="851" serial="0" />
 	<gump type="18" x="1520" y="613" serial="0" />
-	<gump type="6" x="1514" y="-2" serial="0" />
+	<gump type="6" x="1507" y="-30" serial="0" />
 </gumps>

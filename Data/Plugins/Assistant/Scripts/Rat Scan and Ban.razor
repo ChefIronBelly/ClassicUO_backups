@@ -1,0 +1,14 @@
+overhead ' Scanning for rat '
+skill 'detectinghidden'
+waitfortarget
+target 'self'
+pause 300
+for 5
+    hotkey "Next non-friendly player target"
+    if insysmsg 'New target set.'
+        say 'I ban thee'
+        waitfortarget 
+        lasttarget 
+    endif
+    pause 650
+endfor

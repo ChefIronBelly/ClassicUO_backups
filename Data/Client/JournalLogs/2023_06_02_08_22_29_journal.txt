@@ -1,0 +1,92 @@
+[06/02/2023 08:22]  System: WorldMap loading...
+[06/02/2023 08:22]  System: Loading WorldMap markers..
+[06/02/2023 08:22]  System: ..Banks_and_Healers.xml (20)
+[06/02/2023 08:22]  System: ..Dungeons.xml (12)
+[06/02/2023 08:22]  System: ..Dungeon_Gates.xml (325)
+[06/02/2023 08:22]  System: ..Healer_Caravans.xml (32)
+[06/02/2023 08:22]  System: ..Moongates.xml (9)
+[06/02/2023 08:22]  System: ..POI.xml (176)
+[06/02/2023 08:22]  System: ..PvP_Locations.xml (71)
+[06/02/2023 08:22]  System: ..Shrines.xml (9)
+[06/02/2023 08:22]  System: ..Subterranean.xml (6)
+[06/02/2023 08:22]  System: ..Townships.xml (9)
+[06/02/2023 08:22]  System: WorldMap markers loaded (669)
+[06/02/2023 08:22]  System: Welcome Schwanzstuker!
+[06/02/2023 08:22]  Razor: [- (s)]
+[06/02/2023 08:22]  Razor: [+Food Satisfaction (2155s)]
+[06/02/2023 08:22]  Schwanzstuker: Schwanzstuker
+[06/02/2023 08:22]  Rane: Rane the dockmaster
+[06/02/2023 08:22]  Rane: Rane the dockmaster
+[06/02/2023 08:22]  Wulf of Wyrd: Wulf of Wyrd
+[06/02/2023 08:22]  Wulf of Wyrd: Wulf of Wyrd
+[06/02/2023 08:22]  System: WorldMap loaded!
+[06/02/2023 08:23]  You see: leather : 3877
+[06/02/2023 08:23]  You see: raw ribs : 1528
+[06/02/2023 08:24]  Wulf of Wyrd: Rel Sanct [Bless]
+[06/02/2023 08:24]  System: Your strength has changed by 10.  It is now 110
+[06/02/2023 08:24]  System: Your dexterity has changed by 10.  It is now 110
+[06/02/2023 08:24]  System: Your intelligence has changed by 10.  It is now 35
+[06/02/2023 08:24]  Razor: [+Strength (600s)]
+[06/02/2023 08:24]  Razor: Str: +10 - 110
+[06/02/2023 08:24]  Razor: [-Strength (s)]
+[06/02/2023 08:24]  Razor: [+Strength (600s)]
+[06/02/2023 08:24]  Razor: [+Agility (600s)]
+[06/02/2023 08:24]  Razor: Dex: +10 - 110
+[06/02/2023 08:24]  Razor: [-Agility (s)]
+[06/02/2023 08:24]  Razor: [+Agility (600s)]
+[06/02/2023 08:24]  Razor: [+Cunning (600s)]
+[06/02/2023 08:24]  Razor: Int: +10 - 35
+[06/02/2023 08:24]  Razor: [-Cunning (s)]
+[06/02/2023 08:24]  Razor: [+Cunning (600s)]
+[06/02/2023 08:24]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[06/02/2023 08:24]  Razor: [+Protection (600s)]
+[06/02/2023 08:24]  System: Select target for variable 'plz_id_this'
+[06/02/2023 08:24]  System: The world will save in 15 seconds.
+[06/02/2023 08:24]  System: What do you wish to appraise and identify?
+[06/02/2023 08:24]  System: ItemID skillgain: 3.014%
+[06/02/2023 08:24]  System: You are not certain.
+[06/02/2023 08:24]  System: You must wait a few moments to use another skill.
+[06/02/2023 08:24]  System: You identify the magical item.
+[06/02/2023 08:24]  You see: accurate gnarled staff
+[06/02/2023 08:24]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/02/2023 08:24]  Razor: accurate gnarled staff
+[06/02/2023 08:24]  System: ItemID skillgain: 3.014%
+[06/02/2023 08:24]  System: What do you wish to appraise and identify?
+[06/02/2023 08:24]  System: Select target for variable 'plz_id_this'
+[06/02/2023 08:24]  System: You are not certain.
+[06/02/2023 08:24]  System: You must wait a few moments to use another skill.
+[06/02/2023 08:24]  System: You identify the magical item.
+[06/02/2023 08:24]  You see: substantial guarding buckler
+[06/02/2023 08:24]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/02/2023 08:24]  Razor: substantial guarding buckler
+[06/02/2023 08:24]  System: ItemID skillgain: 3.014% [3]
+[06/02/2023 08:24]  System: What do you wish to appraise and identify? [3]
+[06/02/2023 08:24]  System: You are not certain.
+[06/02/2023 08:24]  System: You must wait a few moments to use another skill.
+[06/02/2023 08:24]  System: Select target for variable 'plz_id_this'
+[06/02/2023 08:24]  System: What do you wish to appraise and identify?
+[06/02/2023 08:24]  System: ItemID skillgain: 3.014%
+[06/02/2023 08:24]  System: You identify the magical item.
+[06/02/2023 08:24]  You see: durable guarding norse helm
+[06/02/2023 08:24]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/02/2023 08:24]  Razor: durable guarding norse helm
+[06/02/2023 08:24]  System: The world is saving, please wait.
+[06/02/2023 08:24]  System: Select target for variable 'plz_id_this'
+[06/02/2023 08:24]  Razor: desc
+[06/02/2023 08:24]  System: World save complete. The entire process took 4.5 seconds.
+[06/02/2023 08:24]  You see: unidentified norse helm
+[06/02/2023 08:24]  System: Select target for variable 'plz_id_this'
+[06/02/2023 08:24]  System: What do you wish to appraise and identify?
+[06/02/2023 08:24]  System: ItemID skillgain: 3.014%
+[06/02/2023 08:24]  System: You identify the magical item.
+[06/02/2023 08:24]  You see: defense norse helm
+[06/02/2023 08:24]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/02/2023 08:24]  Razor: defense norse helm
+[06/02/2023 08:25]  System: Select target for variable 'plz_id_this'
+[06/02/2023 08:25]  System: What do you wish to appraise and identify?
+[06/02/2023 08:25]  System: ItemID skillgain: 3.014%
+[06/02/2023 08:25]  System: You identify the magical item.
+[06/02/2023 08:25]  You see: surpassingly potent magic spellbook
+[06/02/2023 08:25]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/02/2023 08:25]  Razor: surpassingly potent magic spellbook
+[06/02/2023 08:25]  You see: surpassingly potent magic spellbook

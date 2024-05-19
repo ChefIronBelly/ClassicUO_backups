@@ -1,0 +1,208 @@
+# Add Outlands Commands to HotKey's Razor Menus
+# WARNING: Adding entity here will not apply LocalizationString correctly,
+# We have to manualy edit Languages.cs file and extend enum (
+# Id | Command | SubMenu | LanguageStringId
+
+# Menus (SubCategory Id = 1000)
+[Help | 1000 | 2500
+[Website | 1000 | 2501
+[Wiki | 1000 | 2502
+[Forums | 1000 | 2503
+[Discord | 1000 | 2504
+[HelpRequest | 1000 | 2505
+[Achievements | 1000 | 2506
+[Societies | 1000 | 2507
+[AspectMastery | 1000 | 2508
+[SkillMastery | 1000 | 2509
+[Customizations | 1000 | 2510
+[Titles | 1000 | 2511
+[TownStruggle | 1000 | 2512
+[Criminality | 1000 | 2513
+[Hunger | 1000 | 2514
+[PlayerStats | 1000 | 2515
+[DamageTracker | 1000 | 2516
+[Atlas | 1000 | 2517
+[ServerRankings | 1000 | 2518
+[Commands | 1000 | 2519
+[Donate | 1000 | 2520
+[Party | 1000 | 2521
+[Survey | 1000 | 2522
+[Vendor | 1000 | 2523
+
+# Mechanics (SubCategory Id = 1001)
+[AutoUseSpellScrolls | 1001 | 2524
+[AutoStealth | 1001 | 2525
+[UnequipOnCast | 1001 | 2526
+[Pouch | 1001 | 2527
+[Taunt | 1001 | 2528
+[Rope | 1001 | 2529
+[SmokeBomb | 1001 | 2530
+[Disarm | 1001 | 2531
+[DisarmUntoggleMode | 1001 | 2532
+[Hamstring | 1001 | 2533
+[HamstringUntoggleMode | 1001 | 2534
+[SpellFizzle | 1001 | 2535
+[Echo | 1001 | 2536
+[BossResults | 1001 | 2537
+[MasteryChain | 1001 | 2538
+[Artisan | 1001 | 2539
+[Fortune | 1001 | 2540
+[Coord or [Coords or [Coordinates | 1001 | 2541
+[PullFollowers | 1001 | 2542
+[PreventCriminalHealing | 1001 | 2543
+[PreventCriminalLooting | 1001 | 2544
+[LowerWeaponAspect | 1001 | 2545
+[RaiseWeaponAspect | 1001 | 2546
+[LowerSpellAspect | 1001 | 2547
+[RaiseSpellAspect | 1001 | 2548
+[LowerArmorAspect | 1001 | 2549
+[RaiseArmorAspect | 1001 | 2550
+[WizardrySounds | 1001 | 2551
+[CraftingQueue | 1001 | 2552
+[GhostVisible | 1001 | 2553
+[SingleClickPoisonTicks | 1001 | 2554
+[FocusAggression | 1001 | 2555
+[FocusAggressionAllKill | 1001 | 2556
+
+# Text Display (SubCategory 1002)
+[ShowMeleeDamage | 1002 | 2557
+[ShowSpellDamage | 1002 | 2558
+[ShowPoisonDamage | 1002 | 2559
+[ShowSpecialDamage | 1002 | 2560
+[ShowProvocationDamage | 1002 | 2561
+[ShowFollowerDamage | 1002 | 2562
+[ShowDamageTaken | 1002 | 2563
+[ShowFollowerDamageTaken | 1002 | 2564
+[ShowHealing | 1002 | 2565
+[ShowTamedExperience | 1002 | 2566
+[ShowAspectExperience | 1002 | 2567
+[ShowSummonersTomeExperience | 1002 | 2568
+[ShowStealthSteps | 1002 | 2569
+[ShowBardingDurations | 1002 | 2570
+[ShowTownStruggleAnnouncements | 1002 | 2571
+[ShowDungeonFlashpointAnnouncements | 1002 | 2572
+[ShowCorpseCreekContestAnnouncements | 1002 | 2573
+[ShowCastleSiegeAnnouncements | 1002 | 2574
+[ShowShrineCorruptionAnnouncements | 1002 | 2575
+[ShowStygianRiftsAnnouncements | 1002 | 2576
+[ShowStrangelandsAnnouncements | 1002 | 2577
+[ShowOmniBossAnnouncements | 1002 | 2578
+[ShowContestedBossAnnouncements | 1002 | 2579
+
+# Ships (SubCategory 1003)
+[Stop | 1003 | 2580
+[Forward | 1003 | 2581
+[ForwardLeft | 1003 | 2582
+[ForwardRight | 1003 | 2583
+[Left | 1003 | 2584
+[Right | 1003 | 2585
+[Backward | 1003 | 2586
+[BackwardLeft | 1003 | 2587
+[BackwardRight | 1003 | 2588
+[TurnLeft | 1003 | 2589
+[TurnRight | 1003 | 2590
+[ForwardOne | 1003 | 2591
+[ForwardLeftOne | 1003 | 2592
+[ForwardRightOne | 1003 | 2593
+[LeftOne | 1003 | 2594
+[RightOne | 1003 | 2595
+[BackwardOne | 1003 | 2596
+[BackwardLeftOne | 1003 | 2597
+[BackwardRightOne | 1003 | 2598
+[Ship or [ShipMenu | 1003 | 2599
+[ShipHotbars | 1003 | 2600
+[Embark | 1003 | 2601
+[Disembark | 1003 | 2602
+[EmbarkFollowers | 1003 | 2603
+[DisembarkFollowers | 1003 | 2604
+[TargetingMode | 1003 | 2605
+[Reload | 1003 | 2606
+[Dock | 1003 | 2607
+[ThrowSelfOverboard | 1003 | 2608
+[ClearTheDeck | 1003 | 2609
+[ReadyCrew | 1003 | 2610
+[SendCrewBelow | 1003 | 2611
+[CrewAttack or [CrewTarget | 1003 | 2612
+[CrewStop or [CrewHalt | 1003 | 2613
+[Ram or [RamShip | 1003 | 2614
+[SendBoardingParty or [SendBoarding | 1003 | 2615
+[RecallBoarding or [RecallBoardingParty | 1003 | 2616
+[BoardingParty | 1003 | 2617
+[Repair | 1003 | 2618
+[RepairHull | 1003 | 2619
+[RepairSails | 1003 | 2620
+[RepairGuns | 1003 | 2621
+[AddFriend | 1003 | 2622
+[AddCoOwner | 1003 | 2623
+[FireCannons | 1003 | 2624
+[LesserAbility | 1003 | 2625
+[SecondLesserAbility | 1003 | 2626
+[RegularAbility | 1003 | 2627
+[SecondRegularAbility | 1003 | 2628
+[GreaterAbility | 1003 | 2629
+[SecondGreaterAbility | 1003 | 2630
+[AutoJoinBoardingParties | 1003 | 2631
+
+# Codex (SubCategory 1004)
+[CodexHotbar | 1004 | 2632
+[ArcheryAmmunition1 | 1004 | 2633
+[ArcheryAmmunition2 | 1004 | 2634
+[ArcheryAmmunition3 | 1004 | 2635
+[ArcheryAmmunition4 | 1004 | 2636
+[ArcheryAmmunition5 | 1004 | 2637
+[ArcheryFinisher1 | 1004 | 2638
+[ArcheryFinisher2 | 1004 | 2639
+[FencingStance1 | 1004 | 2640
+[FencingStance2 | 1004 | 2641
+[FencingStance3 | 1004 | 2642
+[FencingStance4 | 1004 | 2643
+[FencingStance5 | 1004 | 2644
+[FencingFinisher1 | 1004 | 2645
+[FencingFinisher2 | 1004 | 2646
+[MacingStance1 | 1004 | 2647
+[MacingStance2 | 1004 | 2648
+[MacingStance3 | 1004 | 2649
+[MacingStance4 | 1004 | 2650
+[MacingStance5 | 1004 | 2651
+[MacingFinisher1 | 1004 | 2652
+[MacingFinisher2 | 1004 | 2653
+[SwordsStance1 | 1004 | 2654
+[SwordsStance2 | 1004 | 2655
+[SwordsStance3 | 1004 | 2656
+[SwordsStance4 | 1004 | 2657
+[SwordsStance5 | 1004 | 2658
+[SwordsFinisher1 | 1004 | 2659
+[SwordsFinisher2 | 1004 | 2660
+[ShieldsStance1 | 1004 | 2661
+[ShieldsStance2 | 1004 | 2662
+[ShieldsStance3 | 1004 | 2663
+[ShieldsStance4 | 1004 | 2664
+[ShieldsStance5 | 1004 | 2665
+[ShieldsFinisher1 | 1004 | 2666
+[ShieldsFinisher2 | 1004 | 2667
+[StanceAutoRenewThroughMeditation | 1004 | 2668
+[WrestlingStance1 | 1004 | 2669
+[WrestlingStance2 | 1004 | 2670
+[WrestlingStance3 | 1004 | 2671
+[WrestlingStance4 | 1004 | 2672
+[WrestlingStance5 | 1004 | 2673
+[WrestlingFinisher1 | 1004 | 2674
+[WrestlingFinisher2 | 1004 | 2675
+[Stance1AutoRenew | 1004 | 2676
+[Stance2AutoRenew | 1004 | 2677
+[Stance3AutoRenew | 1004 | 2678
+[Stance4AutoRenew | 1004 | 2679
+[Stance5AutoRenew | 1004 | 2680
+
+# Guild (SubCategory 1005)
+[Guild | 1005 | 2681
+[Resign | 1005 | 2682
+[Overview | 1005 | 2683
+[Members | 1005 | 2684
+[Battle | 1005 | 2685
+[Candidates | 1005 | 2686
+[Diplomacy | 1005 | 2687
+[Dungeons | 1005 | 2688
+[Treasury | 1005 | 2689
+[BloodFeuds | 1005 | 2690
+[Rewards | 1005 | 2691

@@ -1,0 +1,937 @@
+[10/21/2023 08:16]  System: WorldMap loading...
+[10/21/2023 08:16]  System: Loading WorldMap markers..
+[10/21/2023 08:16]  System: ..Banks_and_Healers.xml (20)
+[10/21/2023 08:16]  System: ..Dungeons.xml (12)
+[10/21/2023 08:16]  System: ..Dungeon_Gates.xml (349)
+[10/21/2023 08:16]  System: ..Healer_Caravans.xml (32)
+[10/21/2023 08:16]  System: ..Kings_Faire.xml (43)
+[10/21/2023 08:16]  System: ..Moongates.xml (9)
+[10/21/2023 08:16]  System: ..POI.xml (176)
+[10/21/2023 08:16]  System: ..PvP_Locations.xml (71)
+[10/21/2023 08:16]  System: ..Shrines.xml (9)
+[10/21/2023 08:16]  System: ..Subterranean.xml (6)
+[10/21/2023 08:16]  System: ..Townships.xml (9)
+[10/21/2023 08:16]  System: WorldMap markers loaded (736)
+[10/21/2023 08:16]  System: Welcome Duluth Trading!
+[10/21/2023 08:16]  Razor: [- (s)]
+[10/21/2023 08:16]  Razor: [+Hidden/Stealthing (0s)]
+[10/21/2023 08:16]  Razor: [-Hidden/Stealthing (s)]
+[10/21/2023 08:16]  Sterling: Sterling the bard
+[10/21/2023 08:16]  Sterling: Sterling the bard
+[10/21/2023 08:16]  BaHiAnO: Chef
+[10/21/2023 08:16]  BaHiAnO: [BRA]
+[10/21/2023 08:16]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:16]  BaHiAnO: Chef
+[10/21/2023 08:16]  BaHiAnO: [BRA]
+[10/21/2023 08:16]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:16]  Ventaca: [Soldado, BRA]
+[10/21/2023 08:16]  Ventaca: Ventaca
+[10/21/2023 08:16]  Ventaca: [Soldado, BRA]
+[10/21/2023 08:16]  Ventaca: Ventaca
+[10/21/2023 08:16]  an eagle: an eagle
+[10/21/2023 08:16]  an eagle: an eagle
+[10/21/2023 08:16]  a great hart: a great hart
+[10/21/2023 08:16]  a great hart: a great hart
+[10/21/2023 08:16]  a gargoyle: a gargoyle
+[10/21/2023 08:16]  a gargoyle: a gargoyle
+[10/21/2023 08:16]  System: WorldMap loaded!
+[10/21/2023 08:16]  Duluth Trading: Kal Ort Por [Recall]
+[10/21/2023 08:16]  System: You are now under the protection of the town guards.
+[10/21/2023 08:16]  a book wyrm: a book wyrm
+[10/21/2023 08:16]  a book wyrm: a book wyrm
+[10/21/2023 08:16]  Alula: Alula the Necromancer
+[10/21/2023 08:16]  Alula: Alula the Necromancer
+[10/21/2023 08:16]  BoneThug: (tame)
+[10/21/2023 08:16]  BoneThug: BoneThug
+[10/21/2023 08:16]  BoneThug: (tame)
+[10/21/2023 08:16]  BoneThug: BoneThug
+[10/21/2023 08:16]  Fadder: (bonded)
+[10/21/2023 08:16]  Fadder: Fadder
+[10/21/2023 08:16]  Fadder: (bonded)
+[10/21/2023 08:16]  Fadder: Fadder
+[10/21/2023 08:16]  a snowdrift: (bonded)
+[10/21/2023 08:16]  a snowdrift: a snowdrift
+[10/21/2023 08:16]  a snowdrift: (bonded)
+[10/21/2023 08:16]  a snowdrift: a snowdrift
+[10/21/2023 08:16]  Tamer Frank: [Legionary, -_-]
+[10/21/2023 08:16]  Tamer Frank: Tamer Frank
+[10/21/2023 08:16]  Tamer Frank: [Legionary, -_-]
+[10/21/2023 08:16]  Tamer Frank: Tamer Frank
+[10/21/2023 08:16]  Cheap Fence: [Loyal, NKB]
+[10/21/2023 08:16]  Cheap Fence: Cheap Fence
+[10/21/2023 08:16]  Cheap Fence: [Loyal, NKB]
+[10/21/2023 08:16]  Cheap Fence: Cheap Fence
+[10/21/2023 08:16]  Sivan: Sivan the stablemaster
+[10/21/2023 08:16]  Sivan: Sivan the stablemaster
+[10/21/2023 08:16]  Sukatai: Sukatai the animal wrangler
+[10/21/2023 08:16]  Sukatai: Sukatai the animal wrangler
+[10/21/2023 08:16]  Gnuhag Alkebulan: [Syn]
+[10/21/2023 08:16]  Gnuhag Alkebulan: Gnuhag Alkebulan
+[10/21/2023 08:16]  Gnuhag Alkebulan: [Syn]
+[10/21/2023 08:16]  Gnuhag Alkebulan: Gnuhag Alkebulan
+[10/21/2023 08:16]  Ingmar: Ingmar the banker
+[10/21/2023 08:16]  Ingmar: Ingmar the banker
+[10/21/2023 08:16]  Duncan: Duncan the mage
+[10/21/2023 08:16]  Duncan: Duncan the mage
+[10/21/2023 08:16]  You see: the remains of Lamanera
+[10/21/2023 08:16]  Uthorim: [Friends, FRND]
+[10/21/2023 08:16]  Uthorim: Uthorim
+[10/21/2023 08:16]  Uthorim: [Friends, FRND]
+[10/21/2023 08:16]  Uthorim: Uthorim
+[10/21/2023 08:16]  a cat: a cat
+[10/21/2023 08:16]  a cat: a cat
+[10/21/2023 08:16]  Calendonia: Calendonia the banker
+[10/21/2023 08:16]  Calendonia: Calendonia the banker
+[10/21/2023 08:16]  Wrong-long: Wrong-long
+[10/21/2023 08:16]  Wrong-long: Wrong-long
+[10/21/2023 08:16]  a pack llama: (tame)
+[10/21/2023 08:16]  a pack llama: [0/2000 stones]
+[10/21/2023 08:16]  a pack llama: a pack llama
+[10/21/2023 08:16]  a pack llama: (tame)
+[10/21/2023 08:16]  a pack llama: [0/2000 stones]
+[10/21/2023 08:16]  a pack llama: a pack llama
+[10/21/2023 08:16]  a pack llama: (tame)
+[10/21/2023 08:16]  a pack llama: [0/2000 stones]
+[10/21/2023 08:16]  a pack llama: a pack llama
+[10/21/2023 08:16]  a pack llama: (tame)
+[10/21/2023 08:16]  a pack llama: [0/2000 stones]
+[10/21/2023 08:16]  a pack llama: a pack llama
+[10/21/2023 08:16]  Raynor: Raynor the herbalist
+[10/21/2023 08:16]  Raynor: Raynor the herbalist
+[10/21/2023 08:16]  Liadan: Liadan the scribe
+[10/21/2023 08:16]  Liadan: Liadan the scribe
+[10/21/2023 08:16]  Garrett: Garrett the mage
+[10/21/2023 08:16]  Garrett: Garrett the mage
+[10/21/2023 08:16]  Kilnem: Kilnem
+[10/21/2023 08:16]  Kilnem: Kilnem
+[10/21/2023 08:16]  Geomog: [Veteran, Syn]
+[10/21/2023 08:16]  Geomog: Geomog
+[10/21/2023 08:16]  Geomog: [Veteran, Syn]
+[10/21/2023 08:16]  Geomog: Geomog
+[10/21/2023 08:16]  Mulister: Mulister
+[10/21/2023 08:16]  Mulister: Mulister
+[10/21/2023 08:16]  Dark Lava: [Veteran, Syn]
+[10/21/2023 08:16]  Dark Lava: Dark Lava
+[10/21/2023 08:16]  Dark Lava: [Veteran, Syn]
+[10/21/2023 08:16]  Dark Lava: Dark Lava
+[10/21/2023 08:16]  a dog: a dog
+[10/21/2023 08:16]  a dog: a dog
+[10/21/2023 08:16]  Tamma: Tamma the banker
+[10/21/2023 08:16]  Tamma: Tamma the banker
+[10/21/2023 08:16]  a dog: a dog
+[10/21/2023 08:16]  a dog: a dog
+[10/21/2023 08:16]  CKOMOPOX: Monster Hunter Initiate
+[10/21/2023 08:16]  CKOMOPOX: [Recruit, IDC]
+[10/21/2023 08:16]  CKOMOPOX: CKOMOPOX
+[10/21/2023 08:16]  CKOMOPOX: Monster Hunter Initiate
+[10/21/2023 08:16]  CKOMOPOX: [Recruit, IDC]
+[10/21/2023 08:16]  CKOMOPOX: CKOMOPOX
+[10/21/2023 08:16]  Holy Dexxer: Lifetime Guild [Prevalia]
+[10/21/2023 08:16]  Holy Dexxer: [Legionary, -_-]
+[10/21/2023 08:16]  Holy Dexxer: Holy Dexxer
+[10/21/2023 08:16]  Holy Dexxer: Lifetime Guild [Prevalia]
+[10/21/2023 08:16]  Holy Dexxer: [Legionary, -_-]
+[10/21/2023 08:16]  Holy Dexxer: Holy Dexxer
+[10/21/2023 08:16]  FRND VENDOR MALL: [Friends, FRND]
+[10/21/2023 08:16]  FRND VENDOR MALL: FRND VENDOR MALL
+[10/21/2023 08:16]  FRND VENDOR MALL: [Friends, FRND]
+[10/21/2023 08:16]  FRND VENDOR MALL: FRND VENDOR MALL
+[10/21/2023 08:16]  BabyAdamIder: BabyAdamIder
+[10/21/2023 08:16]  BabyAdamIder: BabyAdamIder
+[10/21/2023 08:16]  System: Looting this corpse will be a criminal act!
+[10/21/2023 08:16]  PonachkA: Wilderness Guardian
+[10/21/2023 08:16]  PonachkA: [Recruit, IDC]
+[10/21/2023 08:16]  PonachkA: PonachkA
+[10/21/2023 08:16]  PonachkA: Wilderness Guardian
+[10/21/2023 08:16]  PonachkA: [Recruit, IDC]
+[10/21/2023 08:16]  PonachkA: PonachkA
+[10/21/2023 08:16]  Alodie: Alodie the banker
+[10/21/2023 08:16]  Alodie: Alodie the banker
+[10/21/2023 08:16]  You see: the remains of Mr Hanky
+[10/21/2023 08:16]  Regardie: Regardie
+[10/21/2023 08:16]  Regardie: Regardie
+[10/21/2023 08:16]  Azina: Azina the alchemist
+[10/21/2023 08:16]  Azina: Azina the alchemist
+[10/21/2023 08:16]  Soph Soph: Soph Soph
+[10/21/2023 08:16]  Soph Soph: Soph Soph
+[10/21/2023 08:16]  a cat: a cat
+[10/21/2023 08:16]  a cat: a cat
+[10/21/2023 08:16]  a dog: a dog
+[10/21/2023 08:16]  a dog: a dog
+[10/21/2023 08:16]  Boris Vladesco: Boris Vladesco
+[10/21/2023 08:16]  Boris Vladesco: Boris Vladesco
+[10/21/2023 08:16]  a cat: a cat
+[10/21/2023 08:16]  a cat: a cat
+[10/21/2023 08:16]  FRND VENDOR MALL: GRAND RE-OPENING! NEW LOCATION
+[10/21/2023 08:16]  zehirliraki: zehirliraki
+[10/21/2023 08:16]  zehirliraki: zehirliraki
+[10/21/2023 08:16]  a nightmare: (bonded)
+[10/21/2023 08:16]  a nightmare: a nightmare
+[10/21/2023 08:16]  a nightmare: (bonded)
+[10/21/2023 08:16]  a nightmare: a nightmare
+[10/21/2023 08:16]  a skeletal dragon: (bonded)
+[10/21/2023 08:16]  a skeletal dragon: a skeletal dragon
+[10/21/2023 08:16]  a skeletal dragon: (bonded)
+[10/21/2023 08:16]  a skeletal dragon: a skeletal dragon
+[10/21/2023 08:16]  rzy: [Legionary, -_-]
+[10/21/2023 08:16]  rzy: rzy
+[10/21/2023 08:16]  rzy: [Legionary, -_-]
+[10/21/2023 08:16]  rzy: rzy
+[10/21/2023 08:16]  FRND VENDOR MALL: FRND VENDOR IS NOW OPEN TO THE PUBLIC
+[10/21/2023 08:16]  Linnea: Linnea the Prevalian stylist
+[10/21/2023 08:16]  Linnea: Linnea the Prevalian stylist
+[10/21/2023 08:16]  Regardie: Regardie
+[10/21/2023 08:16]  Regardie: Regardie
+[10/21/2023 08:16]  Alodie: Alodie the banker
+[10/21/2023 08:16]  Alodie: Alodie the banker
+[10/21/2023 08:16]  Mr Bloke: Mr Bloke
+[10/21/2023 08:16]  Mr Bloke: Mr Bloke
+[10/21/2023 08:16]  Aelina Laurentis: Aelina Laurentis
+[10/21/2023 08:16]  Aelina Laurentis: Aelina Laurentis
+[10/21/2023 08:16]  Astera: Astera the miner
+[10/21/2023 08:16]  Astera: Astera the miner
+[10/21/2023 08:16]  Barnett: Barnett the tinker
+[10/21/2023 08:16]  Barnett: Barnett the tinker
+[10/21/2023 08:16]  Konrad: Konrad the Prevalian Exchange Officer
+[10/21/2023 08:16]  Konrad: Konrad the Prevalian Exchange Officer
+[10/21/2023 08:16]  Duane: Duane the blacksmith
+[10/21/2023 08:16]  Duane: Duane the blacksmith
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Salim: Salim the weaponsmith
+[10/21/2023 08:16]  Salim: Salim the weaponsmith
+[10/21/2023 08:16]  Silva: Silva the armorer
+[10/21/2023 08:16]  Silva: Silva the armorer
+[10/21/2023 08:16]  Trag: [Juicy, SQzD]
+[10/21/2023 08:16]  Trag: Trag
+[10/21/2023 08:16]  Trag: [Juicy, SQzD]
+[10/21/2023 08:16]  Trag: Trag
+[10/21/2023 08:16]  Dear Esther: [Zakura Azalea, Oak]
+[10/21/2023 08:16]  Dear Esther: Lady Dear Esther
+[10/21/2023 08:16]  Dear Esther: [Zakura Azalea, Oak]
+[10/21/2023 08:16]  Dear Esther: Lady Dear Esther
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  a prevalian marksman: a prevalian marksman
+[10/21/2023 08:16]  a prevalian marksman: a prevalian marksman
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Penfifteen: [FS!]
+[10/21/2023 08:16]  Penfifteen: Lord Penfifteen
+[10/21/2023 08:16]  Penfifteen: [FS!]
+[10/21/2023 08:16]  Penfifteen: Lord Penfifteen
+[10/21/2023 08:16]  Soprano: Soprano
+[10/21/2023 08:16]  Soprano: Soprano
+[10/21/2023 08:16]  Okuz: (bonded)
+[10/21/2023 08:16]  Okuz: Okuz
+[10/21/2023 08:16]  Okuz: (bonded)
+[10/21/2023 08:16]  Okuz: Okuz
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:16]  Old Vescio: Old Vescio the Seafarer League Master
+[10/21/2023 08:16]  Old Vescio: Old Vescio the Seafarer League Master
+[10/21/2023 08:16]  Kaliya: Kaliya the Artificer Enclave Master
+[10/21/2023 08:16]  Kaliya: Kaliya the Artificer Enclave Master
+[10/21/2023 08:16]  Galvin: Galvin the Tradesman Union Master
+[10/21/2023 08:16]  Galvin: Galvin the Tradesman Union Master
+[10/21/2023 08:16]  Beradine: Beradine the Order of Armorers Master
+[10/21/2023 08:16]  Beradine: Beradine the Order of Armorers Master
+[10/21/2023 08:16]  Turbo Virgin: Seasoned Zoologist
+[10/21/2023 08:16]  Turbo Virgin: Turbo Virgin
+[10/21/2023 08:16]  Turbo Virgin: Seasoned Zoologist
+[10/21/2023 08:16]  Turbo Virgin: Turbo Virgin
+[10/21/2023 08:16]  DPS: (tame)
+[10/21/2023 08:16]  DPS: DPS
+[10/21/2023 08:16]  DPS: (tame)
+[10/21/2023 08:16]  DPS: DPS
+[10/21/2023 08:16]  Genotropin fin: Legendary Captain
+[10/21/2023 08:16]  Genotropin fin: [Officer, rekt]
+[10/21/2023 08:16]  Genotropin fin: Lady Genotropin fin
+[10/21/2023 08:16]  Genotropin fin: Legendary Captain
+[10/21/2023 08:16]  Genotropin fin: [Officer, rekt]
+[10/21/2023 08:16]  Genotropin fin: Lady Genotropin fin
+[10/21/2023 08:16]  Blantons: [Veteran, Path]
+[10/21/2023 08:16]  Blantons: Blantons
+[10/21/2023 08:16]  Blantons: [Veteran, Path]
+[10/21/2023 08:16]  Blantons: Blantons
+[10/21/2023 08:16]  DreamWisk: [Recruit, EVIL]
+[10/21/2023 08:16]  DreamWisk: DreamWisk
+[10/21/2023 08:16]  DreamWisk: [Recruit, EVIL]
+[10/21/2023 08:16]  DreamWisk: DreamWisk
+[10/21/2023 08:16]  Corrine: Corrine the Monster Hunter Society Master
+[10/21/2023 08:16]  Corrine: Corrine the Monster Hunter Society Master
+[10/21/2023 08:16]  Osgood: Osgood the Adventurer Lodge Master
+[10/21/2023 08:16]  Osgood: Osgood the Adventurer Lodge Master
+[10/21/2023 08:16]  Beradine: Beradine the Order of Armorers Master
+[10/21/2023 08:17]  Beradine: The Order of Armorers has the following jobs available this week.
+[10/21/2023 08:17]  Osgood: The Adventurer Lodge has the following jobs available this week.
+[10/21/2023 08:17]  DreamWisk: Kal Ort Por [Recall]
+[10/21/2023 08:17]  Beradine: The Order of Armorers has the following jobs available this week.
+[10/21/2023 08:17]  KATAMAPAH: [Recruit, IDC]
+[10/21/2023 08:17]  KATAMAPAH: KATAMAPAH
+[10/21/2023 08:17]  KATAMAPAH: [Recruit, IDC]
+[10/21/2023 08:17]  KATAMAPAH: KATAMAPAH
+[10/21/2023 08:17]  System: You accept the job.
+[10/21/2023 08:17]  System: 9 remaining jobs available for account.
+[10/21/2023 08:17]  Kaliya: The Artificer Enclave has the following jobs available this week.
+[10/21/2023 08:17]  System: 8 remaining jobs available for account.
+[10/21/2023 08:17]  System: You accept the job.
+[10/21/2023 08:17]  Neron: Pirate
+[10/21/2023 08:17]  Neron: [Sea Dog, FS!]
+[10/21/2023 08:17]  Neron: Neron
+[10/21/2023 08:17]  Neron: Pirate
+[10/21/2023 08:17]  Neron: [Sea Dog, FS!]
+[10/21/2023 08:17]  Neron: Neron
+[10/21/2023 08:17]  System: 7 remaining jobs available for account.
+[10/21/2023 08:17]  System: You accept the job.
+[10/21/2023 08:17]  Beradine: The Order of Armorers has the following jobs available this week.
+[10/21/2023 08:17]  System: You accept the job.
+[10/21/2023 08:17]  System: 6 remaining jobs available for account.
+[10/21/2023 08:17]  System: You accept the job.
+[10/21/2023 08:17]  System: 5 remaining jobs available for account.
+[10/21/2023 08:17]  Galvin: The Tradesman Union has the following jobs available this week.
+[10/21/2023 08:17]  System: 4 remaining jobs available for account.
+[10/21/2023 08:17]  System: You accept the job.
+[10/21/2023 08:17]  Kaliya: The Artificer Enclave has the following jobs available this week.
+[10/21/2023 08:17]  Old Vescio: The Seafarer League has the following jobs available this week.
+[10/21/2023 08:18]  KATAMAPAH: Kal Ort Por [Recall]
+[10/21/2023 08:18]  System: The world will save in 15 seconds.
+[10/21/2023 08:18]  Turbo Virgin: Kal Ort Por [Recall]
+[10/21/2023 08:18]  System: Doc Ringelpizz has completed the achievement: Wilderness Hunter (Advanced).
+[10/21/2023 08:18]  Old Vescio: The Seafarer League has the following jobs available this week.
+[10/21/2023 08:18]  Cardinal Fydheim: Cardinal Fydheim
+[10/21/2023 08:18]  Cardinal Fydheim: Cardinal Fydheim
+[10/21/2023 08:18]  Beradine: The Order of Armorers has the following jobs available this week.
+[10/21/2023 08:18]  System: The world is saving, please wait.
+[10/21/2023 08:18]  System: World save complete. The entire process took 1.8 seconds.
+[10/21/2023 08:18]  Galvin: The Tradesman Union has the following jobs available this week.
+[10/21/2023 08:18]  Neron: Kal Ort Por [Recall]
+[10/21/2023 08:18]  Kaliya: The Artificer Enclave has the following jobs available this week.
+[10/21/2023 08:18]  System: Sigiriya has completed the achievement: Order of Armorers Initiate.
+[10/21/2023 08:19]  Andy Warhol: Andy Warhol
+[10/21/2023 08:19]  Andy Warhol: Andy Warhol
+[10/21/2023 08:19]  Kaliya: The Artificer Enclave has the following jobs available this week.
+[10/21/2023 08:19]  guguts: [#]
+[10/21/2023 08:19]  guguts: guguts
+[10/21/2023 08:19]  guguts: [#]
+[10/21/2023 08:19]  guguts: guguts
+[10/21/2023 08:19]  Beradine: The Order of Armorers has the following jobs available this week.
+[10/21/2023 08:19]  Andy Warhol: Kal Ort Por [Recall]
+[10/21/2023 08:19]  Soprano: Soprano
+[10/21/2023 08:19]  Soprano: Soprano
+[10/21/2023 08:19]  Lil Slap: Lil Slap
+[10/21/2023 08:19]  Lil Slap: Lil Slap
+[10/21/2023 08:19]  Kaliya: The Artificer Enclave has the following jobs available this week.
+[10/21/2023 08:19]  Penfifteen: [FS!]
+[10/21/2023 08:19]  Penfifteen: Lord Penfifteen
+[10/21/2023 08:19]  Penfifteen: [FS!]
+[10/21/2023 08:19]  Penfifteen: Lord Penfifteen
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Trag: [Juicy, SQzD]
+[10/21/2023 08:19]  Trag: Trag
+[10/21/2023 08:19]  Trag: [Juicy, SQzD]
+[10/21/2023 08:19]  Trag: Trag
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Dear Esther: [Zakura Azalea, Oak]
+[10/21/2023 08:19]  Dear Esther: Lady Dear Esther
+[10/21/2023 08:19]  Dear Esther: [Zakura Azalea, Oak]
+[10/21/2023 08:19]  Dear Esther: Lady Dear Esther
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  Gwenyth: Gwenyth the Lottery Official
+[10/21/2023 08:19]  a prevalian marksman: a prevalian marksman
+[10/21/2023 08:19]  a prevalian marksman: a prevalian marksman
+[10/21/2023 08:19]  Silva: Silva the armorer
+[10/21/2023 08:19]  Silva: Silva the armorer
+[10/21/2023 08:19]  Duluth Trading: Kal Ort Por [Recall]
+[10/21/2023 08:19]  System: You have left the protection of the town guards.
+[10/21/2023 08:19]  a great hart: a great hart
+[10/21/2023 08:19]  a great hart: a great hart
+[10/21/2023 08:19]  Ventaca: [Soldado, BRA]
+[10/21/2023 08:19]  Ventaca: Ventaca
+[10/21/2023 08:19]  Ventaca: [Soldado, BRA]
+[10/21/2023 08:19]  Ventaca: Ventaca
+[10/21/2023 08:19]  an eagle: an eagle
+[10/21/2023 08:19]  an eagle: an eagle
+[10/21/2023 08:19]  a harpy: a harpy
+[10/21/2023 08:19]  a harpy: a harpy
+[10/21/2023 08:19]  a gargoyle: a gargoyle
+[10/21/2023 08:19]  a gargoyle: a gargoyle
+[10/21/2023 08:19]  BaHiAnO: Chef
+[10/21/2023 08:19]  BaHiAnO: [BRA]
+[10/21/2023 08:19]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:19]  BaHiAnO: Chef
+[10/21/2023 08:19]  BaHiAnO: [BRA]
+[10/21/2023 08:19]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:19]  System: Opening door...
+[10/21/2023 08:19]  System: Your house and its contents have been refreshed. 15 days 8 hours 6 minutes remaining until owner refresh required.
+[10/21/2023 08:19]  Sterling: Sterling the bard
+[10/21/2023 08:19]  Sterling: Sterling the bard
+[10/21/2023 08:19]  Razor:  Scanning for rat 
+[10/21/2023 08:19]  System: Where will you search?
+[10/21/2023 08:19]  System: You search the home and find no one hiding within.
+[10/21/2023 08:19]  [Razor]: No one matching that was found on your screen.
+[10/21/2023 08:19]  [Razor]: No one matching that was found on your screen.
+[10/21/2023 08:19]  [Razor]: No one matching that was found on your screen.
+[10/21/2023 08:19]  [Razor]: No one matching that was found on your screen.
+[10/21/2023 08:19]  [Razor]: No one matching that was found on your screen.
+[10/21/2023 08:20]  an eagle: an eagle
+[10/21/2023 08:20]  an eagle: an eagle
+[10/21/2023 08:20]  an earth elemental: (summoned)
+[10/21/2023 08:20]  an earth elemental: an earth elemental
+[10/21/2023 08:20]  an earth elemental: (summoned)
+[10/21/2023 08:20]  an earth elemental: an earth elemental
+[10/21/2023 08:21]  System: Item added to queue.
+[10/21/2023 08:21]  an earth elemental: (summoned)
+[10/21/2023 08:21]  an earth elemental: an earth elemental
+[10/21/2023 08:21]  an earth elemental: (summoned)
+[10/21/2023 08:21]  an earth elemental: an earth elemental
+[10/21/2023 08:21]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/21/2023 08:21]  System: Source container set: Resource Stockpile.
+[10/21/2023 08:21]  System: Crafting queue begun.
+[10/21/2023 08:21]  System: Studded Cap (1/9 made): You create the item.
+[10/21/2023 08:21]  System: Society Job Progress: 1/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (2/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:21]  System: Society Job Progress: 2/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (3/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:21]  System: Studded Cap (4/9 made): You create the item.
+[10/21/2023 08:21]  System: Society Job Progress: 3/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (5/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:21]  System: Studded Cap (6/9 made): You create the item.
+[10/21/2023 08:21]  System: Society Job Progress: 4/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (7/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:21]  System: Society Job Progress: 5/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (8/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:21]  System: Studded Cap (9/9 made): You create the item.
+[10/21/2023 08:21]  System: Studded Cap: 9 crafted complete.
+[10/21/2023 08:21]  System: Crafting queue complete.
+[10/21/2023 08:21]  System: Crafting queue begun.
+[10/21/2023 08:21]  System: Society Job Progress: 6/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (1/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:21]  System: Studded Cap (2/9 made): You create the item.
+[10/21/2023 08:21]  System: Society Job Progress: 7/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:21]  System: Studded Cap (3/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:22]  System: Studded Cap (4/9 made): You create the item.
+[10/21/2023 08:22]  System: Society Job Progress: 8/9 [Craft 9 Exceptional Studded Cap].
+[10/21/2023 08:22]  System: Studded Cap (5/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:22]  System: You have completed a society job [Craft 9 Exceptional Studded Cap] and have earned 3 points within the Order of Armorers!
+[10/21/2023 08:22]  System: Studded Cap (6/9 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:22]  System: Crafting queue stopped.
+[10/21/2023 08:22]  System: Item added to queue.
+[10/21/2023 08:23]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/21/2023 08:23]  System: Source container set: Resource Stockpile.
+[10/21/2023 08:23]  System: Crafting queue begun.
+[10/21/2023 08:23]  System: Society Job Progress: 1/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (1/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 2/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (2/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 3/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (3/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 4/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (4/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 5/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (5/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 6/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (6/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 7/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (7/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 8/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (8/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 9/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (9/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: BabyAdamScribe has completed the achievement: Skill Mastery (Basic).
+[10/21/2023 08:23]  System: Society Job Progress: 10/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (10/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 11/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (11/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 12/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (12/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Terezka of Bowie has completed the achievement: Trapper (Advanced).
+[10/21/2023 08:23]  System: Society Job Progress: 13/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (13/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 14/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (14/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 15/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (15/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 16/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (16/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 17/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (17/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 18/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (18/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Society Job Progress: 19/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (19/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 20/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (20/22 made): You create the item.
+[10/21/2023 08:23]  System: Society Job Progress: 21/22 [Craft 22 Leather Chest].
+[10/21/2023 08:23]  System: Leather Chest (21/22 made): You create the item.
+[10/21/2023 08:23]  System: You have completed a society job [Craft 22 Leather Chest] and have earned 4 points within the Order of Armorers!
+[10/21/2023 08:23]  System: Leather Chest (22/22 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:23]  System: Leather Chest: 22 crafted complete.
+[10/21/2023 08:23]  System: Crafting queue complete.
+[10/21/2023 08:24]  System: Item added to queue.
+[10/21/2023 08:24]  System: gifted child has completed the achievement: Order of Armorers Associate.
+[10/21/2023 08:24]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/21/2023 08:24]  System: Source container set: Resource Stockpile.
+[10/21/2023 08:25]  System: Crafting queue begun.
+[10/21/2023 08:25]  System: Wizard's Satchel (1/15 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:25]  System: Wizard's Satchel (2/15 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:25]  System: Wizard's Satchel (3/15 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:25]  System: Wizard's Satchel (4/15 made): You create the item.
+[10/21/2023 08:25]  System: Wizard's Satchel (5/15 made): You create the item.
+[10/21/2023 08:25]  System: Wizard's Satchel (6/15 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:25]  System: Wizard's Satchel (7/15 made): You create the item.
+[10/21/2023 08:25]  an ancient mummy: (summoned)
+[10/21/2023 08:25]  an ancient mummy: an ancient mummy
+[10/21/2023 08:25]  an ancient mummy: (summoned)
+[10/21/2023 08:25]  an ancient mummy: an ancient mummy
+[10/21/2023 08:25]  BaHiAnO: Chef
+[10/21/2023 08:25]  BaHiAnO: [BRA]
+[10/21/2023 08:25]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:25]  BaHiAnO: Chef
+[10/21/2023 08:25]  BaHiAnO: [BRA]
+[10/21/2023 08:25]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:25]  System: Wizard's Satchel (8/15 made): You create the item.
+[10/21/2023 08:25]  System: Wizard's Satchel (9/15 made): You create the item.
+[10/21/2023 08:25]  System: Crafting queue stopped.
+[10/21/2023 08:25]  You see: wizard's satchel
+[10/21/2023 08:25]  You see: (0 items, 0 stones)
+[10/21/2023 08:25]  You see: pouch
+[10/21/2023 08:25]  You see: (0 items, 0 stones)
+[10/21/2023 08:26]  You see: wizard's satchel
+[10/21/2023 08:26]  You see: (0 items, 0 stones)
+[10/21/2023 08:26]  You see: wizard's satchel
+[10/21/2023 08:26]  You see: (0 items, 0 stones)
+[10/21/2023 08:26]  System: Target an individual item to recycle.
+[10/21/2023 08:26]  System: Target an individual item to recycle.
+[10/21/2023 08:26]  System: Target the type of item you wish to recycle. All items of that type found in your pack will be recycled.
+[10/21/2023 08:26]  You see: leather : 63
+[10/21/2023 08:27]  System: Item added to queue.
+[10/21/2023 08:27]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/21/2023 08:27]  System: Source container set: Resource Stockpile.
+[10/21/2023 08:27]  System: Crafting queue begun.
+[10/21/2023 08:27]  System: Society Job Progress: 1/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (1/15 made): You create the item.
+[10/21/2023 08:27]  System: Society Job Progress: 2/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (2/15 made): You create the item.
+[10/21/2023 08:27]  You see: exceptional shadowhide wizard's satchel
+[10/21/2023 08:27]  You see: [mastercrafted by Duluth Trading]
+[10/21/2023 08:27]  You see: (0 items, 0 stones)
+[10/21/2023 08:27]  System: Society Job Progress: 3/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (3/15 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:27]  System: Lil Slap has completed the achievement: Order of Armorers Luminary.
+[10/21/2023 08:27]  System: Society Job Progress: 4/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (4/15 made): You create the item.
+[10/21/2023 08:27]  System: Society Job Progress: 5/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (5/15 made): You create the item.
+[10/21/2023 08:27]  You see: exceptional shadowhide wizard's satchel
+[10/21/2023 08:27]  You see: [mastercrafted by Duluth Trading]
+[10/21/2023 08:27]  You see: (0 items, 0 stones)
+[10/21/2023 08:27]  System: Society Job Progress: 6/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (6/15 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:27]  System: Society Job Progress: 7/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (7/15 made): You create the item.
+[10/21/2023 08:27]  System: Society Job Progress: 8/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (8/15 made): You create the item.
+[10/21/2023 08:27]  System: Society Job Progress: 9/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (9/15 made): You create the item.
+[10/21/2023 08:27]  System: Society Job Progress: 10/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (10/15 made): You create the item.
+[10/21/2023 08:27]  System: Society Job Progress: 11/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel (11/15 made): You create the item.
+[10/21/2023 08:27]  System: Shadowhide Wizard's Satchel: You don't have the resources required to make that item.
+[10/21/2023 08:27]  System: Crafting queue complete.
+[10/21/2023 08:28]  System: Shadowhide Wizard's Satchel: You don't have the resources required to make that item.
+[10/21/2023 08:28]  System: Crafting queue begun.
+[10/21/2023 08:28]  System: Crafting queue complete.
+[10/21/2023 08:28]  System: Shadowhide Wizard's Satchel: You don't have the resources required to make that item. [2]
+[10/21/2023 08:28]  System: Item added to queue.
+[10/21/2023 08:28]  System: Item added to queue.
+[10/21/2023 08:28]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/21/2023 08:28]  System: Source container set: Resource Stockpile.
+[10/21/2023 08:29]  System: Crafting queue begun.
+[10/21/2023 08:29]  System: Shadowhide Wizard's Satchel: Skipped
+[10/21/2023 08:29]  System: Society Job Progress: 1/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (1/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 2/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (2/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 3/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (3/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 4/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (4/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 5/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (5/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 6/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (6/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 7/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (7/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 8/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (8/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 9/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (9/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 10/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (10/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 11/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (11/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 12/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (12/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 13/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (13/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 14/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (14/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 15/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (15/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 16/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (16/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 17/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (17/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 18/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (18/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 19/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (19/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:29]  System: Society Job Progress: 20/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (20/113 made): You create the item.
+[10/21/2023 08:29]  System: Society Job Progress: 21/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:29]  System: Studded Gorget (21/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 22/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (22/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 23/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (23/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Tamer Frank has completed the achievement: Wilderness Hunter (Basic).
+[10/21/2023 08:30]  System: Society Job Progress: 24/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (24/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 25/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (25/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 26/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (26/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 27/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (27/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 28/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (28/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 29/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (29/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Target an item or container of items you wish to add to this Resource Stockpile. Target yourself to add all valid items in your backpack.
+[10/21/2023 08:30]  System: Society Job Progress: 30/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (30/113 made): You create the item.
+[10/21/2023 08:30]  System: You add 1 item(s) to the Resource Stockpile.
+[10/21/2023 08:30]  System: Society Job Progress: 31/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (31/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 32/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (32/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 33/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (33/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 34/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (34/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 35/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (35/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 36/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (36/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 37/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (37/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 38/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (38/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  M-DOG: M-DOG
+[10/21/2023 08:30]  M-DOG: M-DOG
+[10/21/2023 08:30]  System: Society Job Progress: 39/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (39/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 40/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (40/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 41/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (41/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 42/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (42/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 43/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: You have worn out your tool!
+[10/21/2023 08:30]  System: Studded Gorget (43/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  a banshee: *evasive*
+[10/21/2023 08:30]  a banshee: a banshee
+[10/21/2023 08:30]  a banshee: a banshee
+[10/21/2023 08:30]  System: Society Job Progress: 44/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (44/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 45/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (45/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 46/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (46/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 47/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (47/113 made): You create the item.
+[10/21/2023 08:30]  System: Society Job Progress: 48/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (48/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 49/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (49/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 50/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (50/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:30]  System: Society Job Progress: 51/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:30]  System: Studded Gorget (51/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 52/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (52/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 53/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (53/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 54/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (54/113 made): You create the item.
+[10/21/2023 08:31]  a banshee: *evasive*
+[10/21/2023 08:31]  a banshee: a banshee
+[10/21/2023 08:31]  a banshee: a banshee
+[10/21/2023 08:31]  a banshee: *chilled*
+[10/21/2023 08:31]  System: Society Job Progress: 55/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (55/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 56/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (56/113 made): You create the item.
+[10/21/2023 08:31]  a banshee: *materializes*
+[10/21/2023 08:31]  System: Society Job Progress: 57/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (57/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  a banshee: *dematerializes*
+[10/21/2023 08:31]  a banshee: *looks violently ill*
+[10/21/2023 08:31]  System: Society Job Progress: 58/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (58/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 59/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (59/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 60/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (60/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 61/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (61/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 62/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (62/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 63/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (63/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 64/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (64/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  BaHiAnO: Chef
+[10/21/2023 08:31]  BaHiAnO: [BRA]
+[10/21/2023 08:31]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:31]  BaHiAnO: Chef
+[10/21/2023 08:31]  BaHiAnO: [BRA]
+[10/21/2023 08:31]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:31]  System: Society Job Progress: 65/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (65/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 66/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (66/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 67/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (67/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 68/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (68/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Invocateura has completed the achievement: Artificers Enclave Luminary.
+[10/21/2023 08:31]  System: Society Job Progress: 69/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (69/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 70/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (70/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 71/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (71/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 72/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (72/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 73/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (73/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 74/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (74/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 75/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (75/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 76/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (76/113 made): You create the item.
+[10/21/2023 08:31]  System: Society Job Progress: 77/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (77/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 78/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (78/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 79/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (79/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 80/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (80/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:31]  System: Society Job Progress: 81/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:31]  System: Studded Gorget (81/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 82/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (82/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 83/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (83/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 84/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (84/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 85/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (85/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 86/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (86/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 87/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (87/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 88/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (88/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 89/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (89/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 90/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (90/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 91/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (91/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 92/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (92/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 93/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (93/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 94/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (94/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 95/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (95/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 96/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (96/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 97/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (97/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 98/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (98/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 99/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (99/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 100/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (100/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 101/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (101/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 102/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (102/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 103/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (103/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 104/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (104/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 105/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (105/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 106/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (106/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 107/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (107/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 108/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (108/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  an eagle: an eagle
+[10/21/2023 08:32]  an eagle: an eagle
+[10/21/2023 08:32]  System: Society Job Progress: 109/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (109/113 made): You create the item.
+[10/21/2023 08:32]  System: Society Job Progress: 110/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (110/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: Society Job Progress: 111/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:32]  System: Studded Gorget (111/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:32]  System: The world will save in 15 seconds.
+[10/21/2023 08:33]  System: Society Job Progress: 112/113 [Craft 113 Studded Gorget].
+[10/21/2023 08:33]  System: Studded Gorget (112/113 made): You create the item.
+[10/21/2023 08:33]  System: You have completed a society job [Craft 113 Studded Gorget] and have earned 8 points within the Order of Armorers!
+[10/21/2023 08:33]  System: Studded Gorget (113/113 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:33]  System: Studded Gorget: 113 crafted complete.
+[10/21/2023 08:33]  System: Crafting queue complete.
+[10/21/2023 08:33]  System: The world is saving, please wait.
+[10/21/2023 08:33]  System: World save complete. The entire process took 1.8 seconds.
+[10/21/2023 08:33]  System: Dumbasss has completed the achievement: Order of Armorers Initiate.
+[10/21/2023 08:34]  System: Item added to queue.
+[10/21/2023 08:34]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[10/21/2023 08:34]  System: Source container set: Resource Stockpile.
+[10/21/2023 08:34]  System: Crafting queue begun.
+[10/21/2023 08:34]  System: Shadowhide Wizard's Satchel: Skipped
+[10/21/2023 08:34]  System: Society Job Progress: 1/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (1/24 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:34]  System: Society Job Progress: 2/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (2/24 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:34]  System: Society Job Progress: 3/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (3/24 made): You create the item.
+[10/21/2023 08:34]  System: Society Job Progress: 4/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (4/24 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:34]  System: Society Job Progress: 5/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (5/24 made): You create the item.
+[10/21/2023 08:34]  System: Society Job Progress: 6/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (6/24 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:34]  System: Yi has completed the achievement: Weaponmastery (Basic).
+[10/21/2023 08:34]  System: Society Job Progress: 7/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (7/24 made): You create the item.
+[10/21/2023 08:34]  System: Society Job Progress: 8/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (8/24 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:34]  System: Society Job Progress: 9/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (9/24 made): You create the item.
+[10/21/2023 08:34]  System: Society Job Progress: 10/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:34]  System: Copperhide Leather Bustier (10/24 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:34]  System: Copperhide Leather Bustier: You don't have the resources required to make that item.
+[10/21/2023 08:34]  System: Busta has completed the achievement: Order of Armorers Associate.
+[10/21/2023 08:34]  System: Crafting queue complete.
+[10/21/2023 08:34]  System: Copperhide Leather Bustier: You don't have the resources required to make that item.
+[10/21/2023 08:36]  System: Map Boy has completed the achievement: Treasure Seeker (Advanced).
+[10/21/2023 08:36]  System: Shane Kristopher has completed the achievement: Order of Armorers Initiate.
+[10/21/2023 08:37]  System: Copenhagen Delights (CPH) guild has reached prestige level 158.
+[10/21/2023 08:38]  king of the huns: Maester
+[10/21/2023 08:38]  king of the huns: [BRA]
+[10/21/2023 08:38]  king of the huns: king of the huns
+[10/21/2023 08:38]  king of the huns: Maester
+[10/21/2023 08:38]  king of the huns: [BRA]
+[10/21/2023 08:38]  king of the huns: king of the huns
+[10/21/2023 08:40]  System: Katsa has completed the achievement: Undead Slayer (Basic).
+[10/21/2023 08:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[10/21/2023 08:45]  System: Bandidinho has completed the achievement: Tradesman Union Associate.
+[10/21/2023 08:45]  System: Latinka has completed the achievement: Domestication (Master).
+[10/21/2023 08:45]  System: TailorBla has completed the achievement: Tradesman Union Associate.
+[10/21/2023 08:46]  Rabbi Tuckman: Rabbi Tuckman
+[10/21/2023 08:46]  Rabbi Tuckman: Rabbi Tuckman
+[10/21/2023 08:46]  System: GrimmTailor has completed the achievement: Order of Armorers Luminary.
+[10/21/2023 08:47]  System: The world will save in 15 seconds.
+[10/21/2023 08:48]  System: The world is saving, please wait.
+[10/21/2023 08:48]  System: World save complete. The entire process took 1.8 seconds.
+[10/21/2023 08:48]  m a n t o o t h: [SQzD]
+[10/21/2023 08:48]  m a n t o o t h: m a n t o o t h
+[10/21/2023 08:48]  m a n t o o t h: [SQzD]
+[10/21/2023 08:48]  m a n t o o t h: m a n t o o t h
+[10/21/2023 08:48]  m a n t o o t h: Kal Ort Por [Recall]
+[10/21/2023 08:48]  System: Icequake has completed the achievement: Affluent (Basic).
+[10/21/2023 08:50]  m a n t o o t h: [SQzD]
+[10/21/2023 08:50]  m a n t o o t h: m a n t o o t h
+[10/21/2023 08:50]  m a n t o o t h: [SQzD]
+[10/21/2023 08:50]  m a n t o o t h: m a n t o o t h
+[10/21/2023 08:50]  Sterling: Sterling the bard
+[10/21/2023 08:50]  Sterling: Sterling the bard
+[10/21/2023 08:50]  BaHiAnO: Chef
+[10/21/2023 08:50]  BaHiAnO: [BRA]
+[10/21/2023 08:50]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:50]  BaHiAnO: Chef
+[10/21/2023 08:50]  BaHiAnO: [BRA]
+[10/21/2023 08:50]  BaHiAnO: Lord BaHiAnO
+[10/21/2023 08:50]  Ventaca: [Soldado, BRA]
+[10/21/2023 08:50]  Ventaca: Ventaca
+[10/21/2023 08:50]  Ventaca: [Soldado, BRA]
+[10/21/2023 08:50]  Ventaca: Ventaca
+[10/21/2023 08:51]  System: Crafting queue begun.
+[10/21/2023 08:51]  System: Society Job Progress: 12/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:51]  System: Shadowhide Wizard's Satchel (1/4 made): You create the item.
+[10/21/2023 08:51]  System: Society Job Progress: 13/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:51]  System: Shadowhide Wizard's Satchel (2/4 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:51]  System: Society Job Progress: 14/15 [Craft 15 Shadowhide Wizard's Satchel].
+[10/21/2023 08:51]  System: Shadowhide Wizard's Satchel (3/4 made): You create the item.
+[10/21/2023 08:51]  System: You have completed a society job [Craft 15 Shadowhide Wizard's Satchel] and have earned 8 points within the Order of Armorers!
+[10/21/2023 08:51]  System: Shadowhide Wizard's Satchel (4/4 made): You create the item.
+[10/21/2023 08:51]  System: Shadowhide Wizard's Satchel: 4 crafted complete.
+[10/21/2023 08:51]  System: Copperhide Leather Bustier: Skipped
+[10/21/2023 08:51]  System: Crafting queue complete.
+[10/21/2023 08:52]  System: Crafting queue begun.
+[10/21/2023 08:52]  System: Copperhide Leather Bustier: Skipped
+[10/21/2023 08:52]  System: Crafting queue complete.
+[10/21/2023 08:52]  System: Crafting queue begun.
+[10/21/2023 08:52]  System: Society Job Progress: 11/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (1/14 made): You create the item.
+[10/21/2023 08:52]  System: Society Job Progress: 12/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (2/14 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:52]  System: Society Job Progress: 13/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (3/14 made): You create the item.
+[10/21/2023 08:52]  System: Society Job Progress: 14/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (4/14 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:52]  System: Society Job Progress: 15/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (5/14 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:52]  System: Society Job Progress: 16/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (6/14 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:52]  System: Society Job Progress: 17/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (7/14 made): You create the item.
+[10/21/2023 08:52]  System: Society Job Progress: 18/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (8/14 made): You create the item.
+[10/21/2023 08:52]  System: Society Job Progress: 19/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (9/14 made): You create the item.
+[10/21/2023 08:52]  System: Society Job Progress: 20/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:52]  System: Copperhide Leather Bustier (10/14 made): You create the item.
+[10/21/2023 08:53]  System: Society Job Progress: 21/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:53]  System: Copperhide Leather Bustier (11/14 made): You create the item.
+[10/21/2023 08:53]  System: Society Job Progress: 22/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:53]  System: Copperhide Leather Bustier (12/14 made): You create an exceptional quality item and affix your maker's mark.
+[10/21/2023 08:53]  System: Society Job Progress: 23/24 [Craft 24 Copperhide Leather Bustier].
+[10/21/2023 08:53]  System: Copperhide Leather Bustier (13/14 made): You create the item.
+[10/21/2023 08:53]  System: You have completed the achievement: 'Order of Armorers Dignitary'.
+[10/21/2023 08:53]  System: You have unlocked the title [Armorer Dignitary].
+[10/21/2023 08:53]  System: You have completed a society job [Craft 24 Copperhide Leather Bustier] and have earned 11 points within the Order of Armorers!
+[10/21/2023 08:53]  System: Copperhide Leather Bustier (14/14 made): You create the item.
+[10/21/2023 08:53]  System: Busta has completed the achievement: Tailor (Basic).
+[10/21/2023 08:53]  System: Copperhide Leather Bustier: 14 crafted complete.
+[10/21/2023 08:53]  System: Crafting queue complete.
+[10/21/2023 08:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.

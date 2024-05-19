@@ -1,0 +1,19 @@
+// Example script explaining lift/drop
+
+
+@setvar! wheretoLook
+
+@setvar! wheretoDropOff
+
+
+
+// lute
+// 0x0EB3
+// 3763
+
+while findtype "crate" wheretoLook as item
+    overhead "We found a crate!"
+    lift item
+    drop wheretoDropOff -1 -1 -1
+    wait 650
+endwhile

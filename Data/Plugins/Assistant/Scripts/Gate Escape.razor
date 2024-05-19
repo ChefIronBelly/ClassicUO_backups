@@ -1,0 +1,57 @@
+overhead 'looking for a gate'
+while not findtype 3948|30528|27754|36326|36314 ground -1 -1 2
+endwhile
+
+if findtype 'portcullis' ground -1 -1 2 as 'factiongate'
+    dclick 'factiongate'
+    break
+endif
+
+if findtype 'enforced wall' ground -1 -1 2 as 'factiongate'
+    dclick 'factiongate'
+    break
+endif
+
+if findtype '30528' ground -1 -1 2  as chivgate
+    while 1 < 2
+        dclick 'chivgate'
+        if gumpexists 1482653814 or gumpexists 3899019871 or gumpexists 3773199800
+            stop
+        endif
+        pause 200
+    endwhile
+endif
+
+if findtype 'portcullis' ground -1 -1 1 as 'factiongate'
+    dclick 'factiongate'
+    break
+endif
+
+if findtype '27754' ground -1 -1 2  as omnigate
+    dclick 'omnigate'
+    stop
+endif
+    
+
+while not gumpexists 3773199800
+    dclicktype "blue moongate" ground -1 -1 2
+    if gumpexists 3899019871
+        gumpresponse 2 3899019871
+        stop
+    endif
+endwhile 
+
+if noto self = friend
+    gumpresponse 16 3773199800
+    waitforgump 3773199800
+else 
+    if ingump 'Shelter' 3773199800
+        gumpresponse 18 3773199800
+    else
+        gumpresponse 17 3773199800
+    endif
+    waitforgump 3773199800
+endif
+while findtype "blue moongate" ground -1 -1 2
+    gumpresponse 2 3773199800
+endwhile

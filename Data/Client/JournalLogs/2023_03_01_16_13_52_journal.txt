@@ -1,0 +1,737 @@
+[03/01/2023 16:13]  System: WorldMap loading...
+[03/01/2023 16:13]  System: Loading WorldMap markers..
+[03/01/2023 16:13]  System: ..Banks_and_Healers.xml (20)
+[03/01/2023 16:13]  System: ..Dungeons.xml (12)
+[03/01/2023 16:13]  System: ..Dungeon_Gates.xml (325)
+[03/01/2023 16:13]  System: ..Healer_Caravans.xml (32)
+[03/01/2023 16:13]  System: ..Moongates.xml (9)
+[03/01/2023 16:13]  System: ..POI.xml (176)
+[03/01/2023 16:13]  System: ..PvP_Locations.xml (71)
+[03/01/2023 16:13]  System: ..Shrines.xml (9)
+[03/01/2023 16:13]  System: ..Subterranean.xml (6)
+[03/01/2023 16:13]  System: ..Townships.xml (9)
+[03/01/2023 16:13]  System: WorldMap markers loaded (669)
+[03/01/2023 16:13]  System: Welcome Stink Fist!
+[03/01/2023 16:13]  System: Your food satisfaction effect has expired.
+[03/01/2023 16:13]  Stink Fist: Stink Fist
+[03/01/2023 16:13]  Rane: Rane the dockmaster
+[03/01/2023 16:13]  System: WorldMap loaded!
+[03/01/2023 16:14]  You see: alchemy skill mastery scroll
+[03/01/2023 16:14]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/01/2023 16:15]  You see: arms lore skill mastery scroll
+[03/01/2023 16:15]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/01/2023 16:15]  You see: taste id skill mastery scroll : 2
+[03/01/2023 16:15]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/01/2023 16:15]  You see: musicianship skill mastery scroll
+[03/01/2023 16:15]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/01/2023 16:15]  You see: poisoning skill mastery scroll
+[03/01/2023 16:15]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/01/2023 16:15]  You see: cartography skill mastery scroll
+[03/01/2023 16:15]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/01/2023 16:15]  System: Clear has registered an antiquity: Primordial Trophy
+[03/01/2023 16:16]  System: The world will save in 15 seconds.
+[03/01/2023 16:17]  System: The world is saving, please wait.
+[03/01/2023 16:17]  System: World save complete. The entire process took 5.1 seconds.
+[03/01/2023 16:17]  System: ViniS has completed the achievement: Monster Hunter Initiate.
+[03/01/2023 16:18]  System: Select an item or mobile to view/inspect
+[03/01/2023 16:18]  System: LanguageString "ScriptCopied" not found!
+[03/01/2023 16:18]  System: Select an item or mobile to view/inspect
+[03/01/2023 16:18]  System: LanguageString "ScriptCopied" not found!
+[03/01/2023 16:19]  You see: adventurer's rope : 23
+[03/01/2023 16:19]  You see: adventurer's rope : 24
+[03/01/2023 16:19]  You see: pouch
+[03/01/2023 16:19]  You see: (0 items, 0 stones)
+[03/01/2023 16:19]  You see: pouch
+[03/01/2023 16:19]  You see: (0 items, 0 stones)
+[03/01/2023 16:19]  You see: pouch
+[03/01/2023 16:19]  You see: (0 items, 0 stones)
+[03/01/2023 16:19]  You see: pouch
+[03/01/2023 16:19]  You see: (0 items, 0 stones)
+[03/01/2023 16:19]  You see: pouch
+[03/01/2023 16:19]  You see: (0 items, 0 stones)
+[03/01/2023 16:23]  Razor: Where should items go?
+[03/01/2023 16:23]  System: Select target for variable 'lootdropoff'
+[03/01/2023 16:23]  System: Finished 2 queued actions in 0.7 seconds.
+[03/01/2023 16:23]  System: Set Grab Item HotBag
+[03/01/2023 16:23]  System: Grab Item HotBag Set
+[03/01/2023 16:23]  Razor: Organize Trapped Pouches
+[03/01/2023 16:23]  Razor: Organize Trapped Pouches
+[03/01/2023 16:23]  Razor: Organize Trapped Pouches
+[03/01/2023 16:23]  Razor: Organize Trapped Pouches
+[03/01/2023 16:23]  Razor: Organize Trapped Pouches
+[03/01/2023 16:23]  Razor: Organize Orange Potions
+[03/01/2023 16:23]  Razor: Organize Yellow Potions
+[03/01/2023 16:23]  Razor: Organize White Potions
+[03/01/2023 16:24]  Razor: Organize Black Potions
+[03/01/2023 16:24]  Razor: Organize Blue Potions
+[03/01/2023 16:24]  Razor: Organize Rope
+[03/01/2023 16:24]  Razor: Organize Rope
+[03/01/2023 16:24]  Razor: Out of scrolls!
+[03/01/2023 16:25]  [Guild][Oya]: \
+[03/01/2023 16:26]  You see: a rune tome
+[03/01/2023 16:26]  You see: [blessed]
+[03/01/2023 16:27]  [Alliance][Scout Masta Bill]: [SQzD] BRB gotta get cores for next aspect level
+[03/01/2023 16:31]  System: The world will save in 15 seconds.
+[03/01/2023 16:31]  System: The world is saving, please wait.
+[03/01/2023 16:31]  System: World save complete. The entire process took 5.3 seconds.
+[03/01/2023 16:31]  You see: bandage : 275
+[03/01/2023 16:32]  System: You must wait to perform another action.
+[03/01/2023 16:32]  System: Set Grab Item HotBag
+[03/01/2023 16:32]  System: Grab Item HotBag Set
+[03/01/2023 16:32]  System: Finished 3 queued actions in 1.2 seconds.
+[03/01/2023 16:32]  Razor: Organize Trapped Pouches
+[03/01/2023 16:32]  System: Finished 2 queued actions in 0.6 seconds.
+[03/01/2023 16:32]  Razor: Organize Trapped Pouches
+[03/01/2023 16:32]  Razor: Organize Trapped Pouches
+[03/01/2023 16:32]  Razor: Organize Trapped Pouches
+[03/01/2023 16:32]  Razor: Organize Trapped Pouches
+[03/01/2023 16:32]  Razor: Organize Orange Potions
+[03/01/2023 16:32]  Razor: Organize Yellow Potions
+[03/01/2023 16:32]  Razor: Organize White Potions
+[03/01/2023 16:32]  Razor: Organize Black Potions
+[03/01/2023 16:32]  Razor: Organize Blue Potions
+[03/01/2023 16:32]  Razor: Organize Rope
+[03/01/2023 16:32]  Razor: Organize Rope
+[03/01/2023 16:32]  Razor: Out of scrolls!
+[03/01/2023 16:32]  You see: bandage : 275
+[03/01/2023 16:32]  : plaster wall
+[03/01/2023 16:33]  System: Finished 3 queued actions in 1.2 seconds.
+[03/01/2023 16:33]  System: Set Grab Item HotBag
+[03/01/2023 16:33]  System: Grab Item HotBag Set
+[03/01/2023 16:33]  You see: wooden chest
+[03/01/2023 16:33]  You see: [secure]
+[03/01/2023 16:33]  You see: (31 items, 173 stones)
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  System: You must wait to perform another action.
+[03/01/2023 16:33]  System: Finished 2 queued actions in 0.6 seconds.
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Orange Potions
+[03/01/2023 16:33]  Razor: Organize Yellow Potions
+[03/01/2023 16:33]  Razor: Organize White Potions
+[03/01/2023 16:33]  Razor: Organize Black Potions
+[03/01/2023 16:33]  Razor: Organize Blue Potions
+[03/01/2023 16:33]  Razor: Organize Rope
+[03/01/2023 16:33]  Razor: Organize Rope
+[03/01/2023 16:33]  Razor: Out of scrolls!
+[03/01/2023 16:33]  Razor: Out of scrolls!
+[03/01/2023 16:33]  You see: reactive armor scroll : 3
+[03/01/2023 16:33]  You see: bandage : 25
+[03/01/2023 16:33]  System: Set Grab Item HotBag
+[03/01/2023 16:33]  System: Grab Item HotBag Set
+[03/01/2023 16:33]  System: Finished 3 queued actions in 1.3 seconds.
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  System: Finished 2 queued actions in 0.6 seconds.
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Trapped Pouches
+[03/01/2023 16:33]  Razor: Organize Orange Potions
+[03/01/2023 16:33]  Razor: Organize Yellow Potions
+[03/01/2023 16:33]  Razor: Organize White Potions
+[03/01/2023 16:33]  Razor: Organize Black Potions
+[03/01/2023 16:33]  Razor: Organize Blue Potions
+[03/01/2023 16:33]  Razor: Organize Rope
+[03/01/2023 16:33]  Razor: Organize Rope
+[03/01/2023 16:33]  Razor: Out of scrolls!
+[03/01/2023 16:33]  You see: a rune tome
+[03/01/2023 16:33]  You see: [blessed]
+[03/01/2023 16:34]  You see: pouch
+[03/01/2023 16:34]  You see: (0 items, 0 stones)
+[03/01/2023 16:34]  You see: pouch
+[03/01/2023 16:34]  You see: (0 items, 0 stones)
+[03/01/2023 16:34]  You see: pouch
+[03/01/2023 16:34]  You see: (0 items, 0 stones)
+[03/01/2023 16:34]  You see: pouch
+[03/01/2023 16:34]  You see: (0 items, 0 stones)
+[03/01/2023 16:34]  You see: pouch
+[03/01/2023 16:34]  You see: (0 items, 0 stones)
+[03/01/2023 16:34]  You see: recall scroll : 139
+[03/01/2023 16:34]  : plaster wall window
+[03/01/2023 16:37]  System: Taugelchee has completed the achievement: Alchemist (Basic).
+[03/01/2023 16:38]  Razor: Not at home
+[03/01/2023 16:39]  System: Finished 2 queued actions in 0.7 seconds.
+[03/01/2023 16:39]  System: Set Grab Item HotBag
+[03/01/2023 16:39]  System: Grab Item HotBag Set
+[03/01/2023 16:39]  Razor: Organize Trapped Pouches
+[03/01/2023 16:39]  Razor: Organize Trapped Pouches
+[03/01/2023 16:39]  Razor: Organize Trapped Pouches
+[03/01/2023 16:39]  Razor: Organize Trapped Pouches
+[03/01/2023 16:40]  Razor: Organize Trapped Pouches
+[03/01/2023 16:40]  Razor: Organize Orange Potions
+[03/01/2023 16:40]  Razor: Organize Yellow Potions
+[03/01/2023 16:40]  Razor: Organize White Potions
+[03/01/2023 16:40]  Razor: Organize Black Potions
+[03/01/2023 16:40]  Razor: Organize Blue Potions
+[03/01/2023 16:40]  Razor: Organize Rope
+[03/01/2023 16:40]  Razor: recall scroll : 130
+[03/01/2023 16:40]  System: That rune tome is already at its maximum number of recall charges.
+[03/01/2023 16:40]  Razor: recall scroll : 130
+[03/01/2023 16:40]  System: This book already has the maximum amount of charges.
+[03/01/2023 16:40]  System: Alias Peace has completed the achievement: Affluent (Basic).
+[03/01/2023 16:40]  You see: bandage : 275
+[03/01/2023 16:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[03/01/2023 16:45]  System: Turkel has completed the achievement: Transmutation (Basic).
+[03/01/2023 16:45]  System: Finished 2 queued actions in 0.7 seconds.
+[03/01/2023 16:45]  System: Set Grab Item HotBag
+[03/01/2023 16:45]  System: Grab Item HotBag Set
+[03/01/2023 16:45]  Razor: Organize Trapped Pouches
+[03/01/2023 16:45]  Razor: Organize Trapped Pouches
+[03/01/2023 16:45]  Razor: Organize Trapped Pouches
+[03/01/2023 16:45]  Razor: Organize Trapped Pouches
+[03/01/2023 16:45]  Razor: Organize Trapped Pouches
+[03/01/2023 16:45]  Razor: Organize Orange Potions
+[03/01/2023 16:45]  Razor: Organize Yellow Potions
+[03/01/2023 16:45]  Razor: Organize White Potions
+[03/01/2023 16:45]  Razor: Organize Black Potions
+[03/01/2023 16:45]  Razor: Organize Blue Potions
+[03/01/2023 16:45]  Razor: Organize Rope
+[03/01/2023 16:46]  Razor: recall scroll : 130
+[03/01/2023 16:46]  System: That rune tome is already at its maximum number of recall charges.
+[03/01/2023 16:46]  Razor: recall scroll : 130
+[03/01/2023 16:46]  System: This book already has the maximum amount of charges.
+[03/01/2023 16:46]  [Guild][Alias Peace]: jiggy rez?
+[03/01/2023 16:46]  System: The world will save in 15 seconds.
+[03/01/2023 16:46]  System: The world is saving, please wait.
+[03/01/2023 16:46]  System: World save complete. The entire process took 5.0 seconds.
+[03/01/2023 16:47]  System: Goosebump has registered an antiquity: Ophidian Tail Trophy
+[03/01/2023 16:47]  System: Goosebump has registered an antiquity: Winter Wolf Trophy
+[03/01/2023 16:47]  System: Goosebump has completed the achievement: Dungeon Antiquities (Basic).
+[03/01/2023 16:47]  System: Goosebump has registered an antiquity: Defiler Sentinel Figurine
+[03/01/2023 16:47]  [Alliance][Red Rider]: [SQzD] WTB: 7x Cooking SS Amethysts/Ruby/Sapphire/Emeralds/Star Sapphire/Diamonds all at vendor + 25%
+[03/01/2023 16:47]  : cedar tree
+[03/01/2023 16:47]  System: Deaglan has completed the achievement: Savant (Basic).
+[03/01/2023 16:47]  [Alliance][Zepar]: [SQzD] i think i got more cooking for u red
+[03/01/2023 16:48]  System: Finished 2 queued actions in 0.8 seconds.
+[03/01/2023 16:48]  System: Set Grab Item HotBag
+[03/01/2023 16:48]  System: Grab Item HotBag Set
+[03/01/2023 16:48]  Razor: Organize Trapped Pouches
+[03/01/2023 16:48]  Razor: Organize Trapped Pouches
+[03/01/2023 16:48]  Razor: Organize Trapped Pouches
+[03/01/2023 16:48]  Razor: Organize Trapped Pouches
+[03/01/2023 16:48]  Razor: Organize Trapped Pouches
+[03/01/2023 16:48]  Razor: Organize Orange Potions
+[03/01/2023 16:48]  Razor: Organize Yellow Potions
+[03/01/2023 16:48]  Razor: Organize White Potions
+[03/01/2023 16:48]  Razor: Organize Black Potions
+[03/01/2023 16:48]  Razor: Organize Blue Potions
+[03/01/2023 16:48]  Razor: Organize Rope
+[03/01/2023 16:48]  Razor: recall scroll : 130
+[03/01/2023 16:48]  System: That rune tome is already at its maximum number of recall charges.
+[03/01/2023 16:48]  Razor: recall scroll : 130
+[03/01/2023 16:48]  System: This book already has the maximum amount of charges.
+[03/01/2023 16:49]  You see: bandage : 275
+[03/01/2023 16:49]  [Guild][Red Rider]: cool, lemme knwo
+[03/01/2023 16:49]  System: Finished 2 queued actions in 0.7 seconds.
+[03/01/2023 16:49]  System: Set Grab Item HotBag
+[03/01/2023 16:49]  System: Grab Item HotBag Set
+[03/01/2023 16:49]  Razor: Organize Trapped Pouches
+[03/01/2023 16:49]  Razor: Organize Trapped Pouches
+[03/01/2023 16:49]  Razor: Organize Trapped Pouches
+[03/01/2023 16:49]  Razor: Organize Trapped Pouches
+[03/01/2023 16:49]  Razor: Organize Trapped Pouches
+[03/01/2023 16:49]  Razor: Organize Orange Potions
+[03/01/2023 16:49]  Razor: Organize Yellow Potions
+[03/01/2023 16:49]  Razor: Organize White Potions
+[03/01/2023 16:49]  Razor: Organize Black Potions
+[03/01/2023 16:49]  Razor: Organize Blue Potions
+[03/01/2023 16:49]  Razor: Organize Rope
+[03/01/2023 16:49]  Razor: recall scroll : 130
+[03/01/2023 16:49]  System: This book already has the maximum amount of charges.
+[03/01/2023 16:50]  System: Brotherhood Of The Sea (BoS) guild has reached prestige level 40.
+[03/01/2023 16:50]  [Alliance][Zepar]: [SQzD] red rider i have 5 cooking scrolls 9k per
+[03/01/2023 16:50]  System: Monky D Luffy has completed the achievement: Beastial Slayer (Basic).
+[03/01/2023 16:50]  [Alliance][Red Rider]: [SQzD] lemme grab check and can meet at gh
+[03/01/2023 16:51]  [Guild][Zepar]: sounds good
+[03/01/2023 16:51]  [Guild][ImaMiner]: anyone want to buy fishing/skinning maps?
+[03/01/2023 16:51]  [Alliance][THESE NUTZ-]: [NC] any hunting going down?
+[03/01/2023 16:52]  System: Baro Verhaegen has completed the achievement: Triggered (Basic).
+[03/01/2023 16:52]  [Guild][Zepar]: redrider post your mess again i might have gems for sale
+[03/01/2023 16:53]  [Alliance][Mr JiggyFly]: [SQzD] anyone in ssc can rez?
+[03/01/2023 16:53]  System: Finished 2 queued actions in 0.7 seconds.
+[03/01/2023 16:53]  System: Set Grab Item HotBag
+[03/01/2023 16:53]  System: Grab Item HotBag Set
+[03/01/2023 16:53]  Razor: Organize Trapped Pouches
+[03/01/2023 16:53]  Razor: Organize Trapped Pouches
+[03/01/2023 16:53]  Razor: Organize Trapped Pouches
+[03/01/2023 16:53]  System: PlanesWalker has completed the achievement: Landowner (Basic).
+[03/01/2023 16:53]  System: PlanesWalker has completed the achievement: Landowner (Advanced).
+[03/01/2023 16:53]  Razor: Organize Trapped Pouches
+[03/01/2023 16:53]  Razor: Organize Trapped Pouches
+[03/01/2023 16:53]  Razor: Organize Orange Potions
+[03/01/2023 16:53]  [Guild][Taco Tom]: i can switch guys
+[03/01/2023 16:53]  Razor: Organize Yellow Potions
+[03/01/2023 16:53]  Razor: Organize White Potions
+[03/01/2023 16:53]  Razor: Organize Black Potions
+[03/01/2023 16:53]  Razor: Organize Blue Potions
+[03/01/2023 16:53]  System: Carr has completed the achievement: Landowner (Basic).
+[03/01/2023 16:53]  Razor: Organize Rope
+[03/01/2023 16:53]  You see: bandage : 275
+[03/01/2023 16:53]  Razor: recall scroll : 130
+[03/01/2023 16:53]  System: That rune tome is already at its maximum number of recall charges.
+[03/01/2023 16:53]  Razor: recall scroll : 130
+[03/01/2023 16:53]  System: This book already has the maximum amount of charges.
+[03/01/2023 16:53]  [Guild][Zepar]: redrider post your mess again i might have gems for sale
+[03/01/2023 16:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[03/01/2023 16:55]  [Guild][Red Rider]: WTB: 2x Cooking SS Amethysts/Ruby/Sapphire/Emeralds/Star Sapphire/Diamonds all at vendor + 25%
+[03/01/2023 16:56]  You see: bag
+[03/01/2023 16:56]  You see: (0 items, 0 stones)
+[03/01/2023 16:56]  System: V A X I U S has completed the achievement: Wilderness Hunter (Basic).
+[03/01/2023 16:57]  [Guild][Zepar]: looks like we need the same things... my tinker is 85skill 
+[03/01/2023 16:57]  [Guild][Mr JiggyFly]: this is getting so damn annoying
+[03/01/2023 16:57]  [Guild][Red Rider]: np
+[03/01/2023 16:58]  [Guild][Zepar]: ive almost supplied all your cooking scrolls tho lol
+[03/01/2023 16:58]  You see: bandage : 275
+[03/01/2023 16:58]  a wolf: a wolf
+[03/01/2023 16:58]  You see: bandage : 25
+[03/01/2023 16:58]  You see: bandage : 25
+[03/01/2023 16:58]  System: Select an item or mobile to view/inspect
+[03/01/2023 16:59]  System: LanguageString "ScriptCopied" not found!
+[03/01/2023 16:59]  [Guild][Red Rider]: lol
+[03/01/2023 16:59]  System: DaMing has completed the achievement: Blacksmith (Basic).
+[03/01/2023 17:00]  System: Select an item or mobile to view/inspect
+[03/01/2023 17:00]  [Alliance][Scout Masta Bill]: [SQzD] Its me
+[03/01/2023 17:01]  You see: bandage : 250
+[03/01/2023 17:01]  System: The world will save in 15 seconds.
+[03/01/2023 17:01]  System: Instrument has completed the achievement: Culinary Savvy (Advanced).
+[03/01/2023 17:01]  System: The world is saving, please wait.
+[03/01/2023 17:01]  System: World save complete. The entire process took 5.0 seconds.
+[03/01/2023 17:02]  System: MarieCalender has completed the achievement: Engineer (Advanced).
+[03/01/2023 17:03]  System: Finished 2 queued actions in 0.6 seconds.
+[03/01/2023 17:03]  System: Set Grab Item HotBag
+[03/01/2023 17:03]  System: Grab Item HotBag Set
+[03/01/2023 17:03]  Razor: Organize Trapped Pouches
+[03/01/2023 17:03]  Razor: Organize Trapped Pouches
+[03/01/2023 17:03]  Razor: Organize Trapped Pouches
+[03/01/2023 17:03]  Razor: Organize Trapped Pouches
+[03/01/2023 17:03]  Razor: Organize Trapped Pouches
+[03/01/2023 17:03]  Razor: Organize Orange Potions
+[03/01/2023 17:03]  Razor: Organize Yellow Potions
+[03/01/2023 17:03]  Razor: Organize White Potions
+[03/01/2023 17:03]  Razor: Organize Black Potions
+[03/01/2023 17:03]  Razor: Organize Blue Potions
+[03/01/2023 17:03]  Razor: Organize Rope
+[03/01/2023 17:03]  Razor: recall scroll : 130
+[03/01/2023 17:03]  System: That rune tome is already at its maximum number of recall charges.
+[03/01/2023 17:03]  Razor: recall scroll : 130
+[03/01/2023 17:03]  System: This book already has the maximum amount of charges.
+[03/01/2023 17:03]  You see: bandage : 275
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 17:05]  System: No one matching that was found on your screen.
+[03/01/2023 12:11]  System: No one matching that was found on your screen.
+[03/01/2023 12:11]  System: Select an item or mobile to view/inspect
+[03/01/2023 12:12]  You see: recall scroll : 9
+[03/01/2023 12:13]  System: Finished 2 queued actions in 0.8 seconds.
+[03/01/2023 12:13]  Razor: Organize Trapped Pouches
+[03/01/2023 12:13]  Razor: Organize Trapped Pouches
+[03/01/2023 12:13]  Razor: Organize Trapped Pouches
+[03/01/2023 12:13]  Razor: Organize Trapped Pouches
+[03/01/2023 12:13]  Razor: Organize Trapped Pouches
+[03/01/2023 12:13]  Razor: Organize Orange Potions
+[03/01/2023 12:13]  Razor: Organize Yellow Potions
+[03/01/2023 12:13]  Razor: Organize White Potions
+[03/01/2023 12:13]  Razor: Organize Black Potions
+[03/01/2023 12:13]  Razor: Organize Blue Potions
+[03/01/2023 12:13]  Razor: Organize Rope
+[03/01/2023 12:13]  Razor: recall scroll : 139
+[03/01/2023 12:13]  System: That rune tome is already at its maximum number of recall charges.
+[03/01/2023 12:13]  Razor: recall scroll : 139
+[03/01/2023 12:13]  System: This book already has the maximum amount of charges.
+[03/01/2023 12:14]  System: Magic McSpells has completed the achievement: Monstrous Slayer (Basic).
+[03/01/2023 12:15]  You see: bandage : 50
+[03/01/2023 12:16]  System: The world will save in 15 seconds.
+[03/01/2023 12:16]  System: The world is saving, please wait.
+[03/01/2023 12:16]  System: World save complete. The entire process took 5.0 seconds.
+[03/01/2023 12:17]  System: Daisy Domergue has completed the achievement: Backstabber (Advanced).
+[03/01/2023 12:18]  System: Melissa Ryan has completed the achievement: Illusionist (Basic).
+[03/01/2023 12:19]  Stink Fist: Stink Fist
+[03/01/2023 12:22]  System: Holy symbols remaining: 5/10
+[03/01/2023 12:22]  Razor: [+Paralyze (0s)]
+[03/01/2023 12:22]  System: You are no longer hindered.
+[03/01/2023 12:22]  Razor: [-Paralyze (s)]
+[03/01/2023 12:22]  Rane: Rane the dockmaster
+[03/01/2023 12:22]  System: You are now under the protection of the town guards.
+[03/01/2023 12:22]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[03/01/2023 12:22]  Razor: [+Hidden/Stealthing (0s)]
+[03/01/2023 12:22]  Lokelani: Lokelani the farmer
+[03/01/2023 12:22]  Bentley: Bentley the scribe
+[03/01/2023 12:22]  Brandy: Brandy the herbalist
+[03/01/2023 12:22]  Barten: [Veteran, NWO]
+[03/01/2023 12:22]  Barten: Lord Barten
+[03/01/2023 12:22]  Ginger: Ginger the mage
+[03/01/2023 12:22]  Latrodectus: [THM]
+[03/01/2023 12:22]  Latrodectus: Latrodectus
+[03/01/2023 12:22]  imwatchingyou: (bonded)
+[03/01/2023 12:22]  imwatchingyou: imwatchingyou
+[03/01/2023 12:22]  Terrill: Terrill the cook
+[03/01/2023 12:22]  Kickin Rocks: [Recruit, onyx]
+[03/01/2023 12:22]  Kickin Rocks: Kickin Rocks
+[03/01/2023 12:22]  Traveling Trader: [Master Merchant, BWTC]
+[03/01/2023 12:22]  Traveling Trader: Traveling Trader
+[03/01/2023 12:22]  Edwin: Edwin the scribe
+[03/01/2023 12:22]  Miles: Miles the innkeeper
+[03/01/2023 12:22]  Marden: Marden the alchemist
+[03/01/2023 12:22]  Aricin: Aricin the stablemaster
+[03/01/2023 12:22]  Moustache Mcgee: Moustache Mcgee
+[03/01/2023 12:22]  Latrodectus: bank guards room
+[03/01/2023 12:22]  Razor: [-Hidden/Stealthing (s)]
+[03/01/2023 12:22]  a prevalian marksman: a prevalian marksman
+[03/01/2023 12:22]  Miles: Miles the innkeeper
+[03/01/2023 12:22]  Ginger: Ginger the mage
+[03/01/2023 12:22]  Bentley: Bentley the scribe
+[03/01/2023 12:22]  Edwin: Edwin the scribe
+[03/01/2023 12:22]  Barten: [Veteran, NWO]
+[03/01/2023 12:22]  Barten: Lord Barten
+[03/01/2023 12:22]  System: Mhalik has completed the achievement: Tradesman Union Initiate.
+[03/01/2023 12:22]  Duncan: Duncan the mage
+[03/01/2023 12:22]  Moustache Mcgee: Moustache Mcgee
+[03/01/2023 12:22]  Raynor: Raynor the herbalist
+[03/01/2023 12:22]  Azina: Azina the alchemist
+[03/01/2023 12:22]  Liadan: Liadan the scribe
+[03/01/2023 12:22]  Garrett: Garrett the mage
+[03/01/2023 12:22]  an eldritch dragon: (bonded)
+[03/01/2023 12:22]  an eldritch dragon: an eldritch dragon
+[03/01/2023 12:22]  an eldritch drake: (bonded)
+[03/01/2023 12:22]  an eldritch drake: an eldritch drake
+[03/01/2023 12:22]  El Duderino: El Duderino
+[03/01/2023 12:22]  Birdie: Birdie
+[03/01/2023 12:22]  a dog: a dog
+[03/01/2023 12:22]  ThankYou: ThankYou
+[03/01/2023 12:22]  Kevlar North: [Einherjar, O_R]
+[03/01/2023 12:22]  Kevlar North: Kevlar North
+[03/01/2023 12:22]  FRND VENDOR MALL: [Friends, FRND]
+[03/01/2023 12:22]  FRND VENDOR MALL: FRND VENDOR MALL
+[03/01/2023 12:22]  a pack horse: (tame)
+[03/01/2023 12:22]  a pack horse: [89/2000 stones]
+[03/01/2023 12:22]  a pack horse: a pack horse
+[03/01/2023 12:22]  Yojacklumber: Yojacklumber
+[03/01/2023 12:22]  Necrodamus: Necrodamus
+[03/01/2023 12:22]  UomoQuaglia: [ICON]
+[03/01/2023 12:22]  UomoQuaglia: UomoQuaglia
+[03/01/2023 12:22]  Bloodmaster: Monster Hunter Initiate
+[03/01/2023 12:22]  Bloodmaster: [Loyal, NKB]
+[03/01/2023 12:22]  Bloodmaster: Bloodmaster
+[03/01/2023 12:22]  Gearloose: [Recruit, NWO]
+[03/01/2023 12:22]  Gearloose: Gearloose
+[03/01/2023 12:22]  Wooden: Wooden
+[03/01/2023 12:22]  Craftalia Tings: Craftalia Tings
+[03/01/2023 12:22]  Ping Xiao Po: Ping Xiao Po
+[03/01/2023 12:22]  Dakota Tyler: Dakota Tyler
+[03/01/2023 12:22]  Honest Workshop: [Recruit, -_-]
+[03/01/2023 12:22]  Honest Workshop: Honest Workshop
+[03/01/2023 12:22]  Datil Blue Light: [Shop Blue Light, NDA]
+[03/01/2023 12:22]  Datil Blue Light: Datil Blue Light
+[03/01/2023 12:22]  a dog: a dog
+[03/01/2023 12:22]  a dog: a dog
+[03/01/2023 12:22]  a cat: a cat
+[03/01/2023 12:22]  Aricin: Aricin the stablemaster
+[03/01/2023 12:22]  Gnuhag Darkbrew: [Henchman, Syn]
+[03/01/2023 12:22]  Gnuhag Darkbrew: Gnuhag Darkbrew
+[03/01/2023 12:22]  Tamma: Tamma the banker
+[03/01/2023 12:22]  Marden: Marden the alchemist
+[03/01/2023 12:22]  Gnuban Runeclaw: [Henchman, Syn]
+[03/01/2023 12:22]  Gnuban Runeclaw: Gnuban Runeclaw
+[03/01/2023 12:22]  System: Being perfectly rested, you shove them out of the way.
+[03/01/2023 12:22]  Calendonia: Calendonia the banker
+[03/01/2023 12:22]  AMYR: [Gatekeeper, Amyr]
+[03/01/2023 12:22]  AMYR: AMYR
+[03/01/2023 12:22]  Potato Peeler: Seasoned Veteran
+[03/01/2023 12:22]  Potato Peeler: [Seer, NKB]
+[03/01/2023 12:22]  Potato Peeler: Potato Peeler
+[03/01/2023 12:22]  Necrodamus: Kal Vas Xen Ylem [Earth Elemental]
+[03/01/2023 12:22]  an earth elemental: (summoned)
+[03/01/2023 12:22]  an earth elemental: an earth elemental
+[03/01/2023 12:22]  Duncan: Duncan the mage
+[03/01/2023 12:22]  Hanger: Hanger
+[03/01/2023 12:22]  a dog: a dog
+[03/01/2023 12:22]  Necrodamus: Kal Vas Xen Flam [Fire Elemental]
+[03/01/2023 12:22]  FarmerCass: [Civilian, Yew]
+[03/01/2023 12:22]  FarmerCass: FarmerCass
+[03/01/2023 12:22]  a wild horse: a wild horse
+[03/01/2023 12:22]  an ancient mummy: (summoned)
+[03/01/2023 12:22]  an ancient mummy: an ancient mummy
+[03/01/2023 12:22]  TOP G: TOP G
+[03/01/2023 12:22]  Sivan: Sivan the stablemaster
+[03/01/2023 12:22]  Sukatai: Sukatai the animal wrangler
+[03/01/2023 12:22]  a forest ostard: (bonded)
+[03/01/2023 12:22]  a forest ostard: a forest ostard
+[03/01/2023 12:22]  a llama: (bonded)
+[03/01/2023 12:22]  a llama: a llama
+[03/01/2023 12:22]  a llama: (bonded)
+[03/01/2023 12:22]  a llama: a llama
+[03/01/2023 12:22]  a llama: (bonded)
+[03/01/2023 12:22]  a llama: a llama
+[03/01/2023 12:22]  a frenzied ostard: (bonded)
+[03/01/2023 12:22]  a frenzied ostard: a frenzied ostard
+[03/01/2023 12:22]  a frenzied ostard: (bonded)
+[03/01/2023 12:22]  a frenzied ostard: a frenzied ostard
+[03/01/2023 12:22]  a forest ostard: (bonded)
+[03/01/2023 12:22]  a forest ostard: a forest ostard
+[03/01/2023 12:22]  Cheap Ocean Good: Cheap Ocean Good
+[03/01/2023 12:22]  Alula: Alula the Necromancer
+[03/01/2023 12:22]  a frenzied ostard: (bonded)
+[03/01/2023 12:22]  a frenzied ostard: a frenzied ostard
+[03/01/2023 12:22]  a frenzied ostard: (bonded)
+[03/01/2023 12:22]  a frenzied ostard: a frenzied ostard
+[03/01/2023 12:22]  Ingmar: Ingmar the banker
+[03/01/2023 12:22]  a llama: (bonded)
+[03/01/2023 12:22]  a llama: a llama
+[03/01/2023 12:22]  a horse: (bonded)
+[03/01/2023 12:22]  a horse: a horse
+[03/01/2023 12:22]  a book wyrm: a book wyrm
+[03/01/2023 12:22]  a horse: (bonded)
+[03/01/2023 12:22]  a horse: a horse
+[03/01/2023 12:22]  a horse: (bonded)
+[03/01/2023 12:22]  a horse: a horse
+[03/01/2023 12:22]  a horse: (bonded)
+[03/01/2023 12:22]  a horse: a horse
+[03/01/2023 12:22]  Bhalreed: Bhalreed
+[03/01/2023 12:22]  Aurelia: Aurelia the Town Crier
+[03/01/2023 12:22]  Alpha Male: Alpha Male
+[03/01/2023 12:22]  General Bardak: Nusero Legend
+[03/01/2023 12:22]  General Bardak: [RAQ]
+[03/01/2023 12:22]  General Bardak: Lord General Bardak
+[03/01/2023 12:22]  Disasterpiece: Disasterpiece
+[03/01/2023 12:22]  a prevalian knight: a prevalian knight
+[03/01/2023 12:22]  an earth elemental: (summoned)
+[03/01/2023 12:22]  an earth elemental: an earth elemental
+[03/01/2023 12:22]  an earth elemental: (summoned)
+[03/01/2023 12:22]  an earth elemental: an earth elemental
+[03/01/2023 12:22]  Necrominer: [rekt]
+[03/01/2023 12:22]  Necrominer: Necrominer
+[03/01/2023 12:22]  System: Max holy symbols earned (10/10)
+[03/01/2023 12:22]  Sivan: Sivan the stablemaster
+[03/01/2023 12:22]  Necrominer: [rekt]
+[03/01/2023 12:22]  Necrominer: Necrominer
+[03/01/2023 12:22]  Luisa: Luisa the Librarian
+[03/01/2023 12:22]  a: (bonded)
+[03/01/2023 12:22]  a: a
+[03/01/2023 12:22]  [Guild][Scout Masta Bill]: Those things are the worst
+[03/01/2023 12:22]  a prevalian knight: a prevalian knight
+[03/01/2023 12:22]  a prevalian marksman: a prevalian marksman
+[03/01/2023 12:22]  GailoKai: GailoKai
+[03/01/2023 12:22]  Cheap Ocean Good: Cheap Event Items, Cores, Rares! TreasureRestock 2/20
+[03/01/2023 12:22]  a prevalian knight: a prevalian knight
+[03/01/2023 12:22]  Iron Grim: Iron Grim
+[03/01/2023 12:22]  Star Mar: Star Mar
+[03/01/2023 12:22]  Ayinde: Ayinde
+[03/01/2023 12:22]  Moon Fish: Moon Fish
+[03/01/2023 12:22]  Duncan O'Toole: Duncan O'Toole
+[03/01/2023 12:22]  No PK No Money: No PK No Money
+[03/01/2023 12:22]  Carpentry Gear: Carpentry Gear
+[03/01/2023 12:22]  Wizard's Satchels: Wizard's Satchels
+[03/01/2023 12:22]  Tailoring Gear: Tailoring Gear
+[03/01/2023 12:22]  Quivers R Us: Quivers R Us
+[03/01/2023 12:22]  ...: ...
+[03/01/2023 12:22]  Spellbooks 52K: Spellbooks 52K
+[03/01/2023 12:22]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[03/01/2023 12:22]  Gold Weps & 18K Prev: Gold Weps & 18K Prev
+[03/01/2023 12:22]  PoisonCore & ID Wand: PoisonCore & ID Wand
+[03/01/2023 12:22]  Good Food: Good Food
+[03/01/2023 12:22]  Prev Coins in Stock!: Prev Coins in Stock!
+[03/01/2023 12:22]  Mutilates SS/Misc: Mutilates SS/Misc
+[03/01/2023 12:22]  a  WES CORES: a  WES CORES
+[03/01/2023 12:22]  aWes SCROLLS: aWes SCROLLS
+[03/01/2023 12:22]  Ill gotten Gains: Ill gotten Gains
+[03/01/2023 12:22]  PREVS: PREVS
+[03/01/2023 12:22]  MutilatesAspektKits: MutilatesAspektKits
+[03/01/2023 12:22]  Nobara Kugisaki: Nobara Kugisaki
+[03/01/2023 12:22]  Joan Rivers: Joan Rivers
+[03/01/2023 12:22]  System: You have left the protection of the town guards.
+[03/01/2023 12:22]  **SHADOW FURN* 21/2: **SHADOW FURN* 21/2
+[03/01/2023 12:22]  XTREME LOOT 22/2: XTREME LOOT 22/2
+[03/01/2023 12:22]  Polymorph: [Ripe, SQzD]
+[03/01/2023 12:22]  Polymorph: Polymorph
+[03/01/2023 12:22]  Vectsy: Vectsy
+[03/01/2023 12:22]  Ubernaught: Ubernaught
+[03/01/2023 12:22]  PeaceAndLove: PeaceAndLove
+[03/01/2023 12:22]  Vikingos: [Valhalla Rises, T^C]
+[03/01/2023 12:22]  Vikingos: Vikingos
+[03/01/2023 12:22]  Agrade Cido: Agrade Cido
+[03/01/2023 12:22]  Henna: [Crafter, IMPS]
+[03/01/2023 12:22]  Henna: Henna
+[03/01/2023 12:22]  Smooth Tamer: Smooth Tamer
+[03/01/2023 12:22]  IngLam: IngLam
+[03/01/2023 12:22]  RoadsterWa: RoadsterWa
+[03/01/2023 12:22]  Skull Hmank: Skull Hmank
+[03/01/2023 12:22]  Red Wicca: Red Wicca
+[03/01/2023 12:22]  Al'mithadar: Al'mithadar
+[03/01/2023 12:22]  Bilor: Bilor
+[03/01/2023 12:22]  Mr.Hill: Legendary Tailor
+[03/01/2023 12:22]  Mr.Hill: [Shop Blue Light, NDA]
+[03/01/2023 12:22]  Mr.Hill: Mr.Hill
+[03/01/2023 12:22]  Swatison: Swatison
+[03/01/2023 12:22]  Braxes: Braxes
+[03/01/2023 12:22]  YOKEDICI: YOKEDICI
+[03/01/2023 12:22]  SoverF: SoverF
+[03/01/2023 12:22]  EtherFields: EtherFields
+[03/01/2023 12:22]  K Mavrick: [Beard Brother, BB]
+[03/01/2023 12:22]  K Mavrick: K Mavrick
+[03/01/2023 12:22]  Cilmining: Cilmining
+[03/01/2023 12:22]  FishermanSteeve: FishermanSteeve
+[03/01/2023 12:22]  PK Action Barbie: PK Action Barbie
+[03/01/2023 12:22]  HaydiGidelim: [Henchman, Syn]
+[03/01/2023 12:22]  HaydiGidelim: HaydiGidelim
+[03/01/2023 12:22]  crazy homlessguy: crazy homlessguy
+[03/01/2023 12:22]  Izalude: Izalude
+[03/01/2023 12:22]  Sibongile: *pacified 26s discord 33s*
+[03/01/2023 12:22]  Sibongile: Sibongile the battle trainer
+[03/01/2023 12:22]  a horse: (tame)
+[03/01/2023 12:22]  a horse: a horse
+[03/01/2023 12:22]  Tea's Scam Vendor: Tea's Scam Vendor
+[03/01/2023 12:22]  RESTOCKED RARES 2/23: RESTOCKED RARES 2/23
+[03/01/2023 12:22]  PREV MG- CORES XTRAC: PREV MG- CORES XTRAC
+[03/01/2023 12:22]  PREV MG - GOOD LINKS: PREV MG - GOOD LINKS
+[03/01/2023 12:22]  CHEAPFROZEN FOUNTAIN: CHEAPFROZEN FOUNTAIN
+[03/01/2023 12:22]  Prev Coins!!: Prev Coins!!
+[03/01/2023 12:22]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[03/01/2023 12:22]  CORES AND SS CHEAP: CORES AND SS CHEAP
+[03/01/2023 12:22]  Mary Jane's Shop: Mary Jane's Shop
+[03/01/2023 12:22]  INGOTS and Loot: INGOTS and Loot
+[03/01/2023 12:22]  Don Slayote's Wares: Don Slayote's Wares
+[03/01/2023 12:22]  Amish Hammer's Shop: Amish Hammer's Shop
+[03/01/2023 12:22]  Slayote's Wife: Slayote's Wife
+[03/01/2023 12:22]  ThicChics' RideFree: ThicChics' RideFree
+[03/01/2023 12:22]  AvarVal Weps IRON: AvarVal Weps IRON
+[03/01/2023 12:22]  Smithy Shop: Smithy Shop
+[03/01/2023 12:22]  a frenzied ostard: (bonded)
+[03/01/2023 12:22]  a frenzied ostard: a frenzied ostard
+[03/01/2023 12:22]  Dizci Sulo: Dizci Sulo
+[03/01/2023 12:22]  JukkieZ: Brilliant
+[03/01/2023 12:22]  JukkieZ: [Farm Around Find Out, DTF]
+[03/01/2023 12:22]  JukkieZ: Lord JukkieZ
+[03/01/2023 12:22]  PREV COINS & SHELVES: Take a look at my goods.
+[03/01/2023 12:22]  You see: Price: 550000
+[03/01/2023 12:22]  You see: a storage shelf
+[03/01/2023 12:22]  Iron Grim: Iron Grim
+[03/01/2023 12:23]  Razor: [+Hidden/Stealthing (0s)]
+[03/01/2023 12:23]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[03/01/2023 12:23]  You see: a ghostly footman corpse
+[03/01/2023 12:23]  Cores/Extract/Scroll: Cores/Extract/Scroll
+[03/01/2023 12:23]  CheaperVendor: CheaperVendor
+[03/01/2023 12:23]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[03/01/2023 12:23]  Loot | Maps | SS: Loot | Maps | SS
+[03/01/2023 12:23]  YOUR BEST CHOICE: YOUR BEST CHOICE
+[03/01/2023 12:23]  irmersuu: irmersuu
+[03/01/2023 12:23]  Core&Extract&Maps: Core&Extract&Maps
+[03/01/2023 12:23]  CHEAP AS FACKS: CHEAP AS FACKS
+[03/01/2023 12:23]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[03/01/2023 12:23]  Skill Mastery Scroll: Skill Mastery Scroll
+[03/01/2023 12:23]  Aspcts Ingots Booty: Aspcts Ingots Booty
+[03/01/2023 12:23]  -R A W S - S H O P-: -R A W S - S H O P-
+[03/01/2023 12:23]  ALL ITEMS LOW PRICES: ALL ITEMS LOW PRICES
+[03/01/2023 12:23]  TAMBURINI TORT: TAMBURINI TORT
+[03/01/2023 12:23]  CHEAP MAN: CHEAP MAN
+[03/01/2023 12:23]  BestHouse WEAPONS: BestHouse WEAPONS
+[03/01/2023 12:23]  LOOT, BS, ALCH, TINK: LOOT, BS, ALCH, TINK
+[03/01/2023 12:23]  ONLY DISTILL: ONLY DISTILL
+[03/01/2023 12:23]  prevalian coins: prevalian coins
+[03/01/2023 12:23]  Orphan Skill Scrolls: Orphan Skill Scrolls
+[03/01/2023 12:23]  EVERYTHING: EVERYTHING
+[03/01/2023 12:23]  SHIP UPGRADES / CREW: SHIP UPGRADES / CREW
+[03/01/2023 12:23]  ARCANE ESSENCE: ARCANE ESSENCE
+[03/01/2023 12:23]  BULK REGS 3.5GP!: BULK REGS 3.5GP!
+[03/01/2023 12:23]  Pity the Foo: Pity the Foo
+[03/01/2023 12:23]  Cores/Dis/SScrolls/L: Cores/Dis/SScrolls/L
+[03/01/2023 12:23]  Cheapest Chet: Cheapest Chet
+[03/01/2023 12:23]  CORES: CORES
+[03/01/2023 12:23]  Starter Mage/Vet: Starter Mage/Vet
+[03/01/2023 12:23]  Mimmios Merch: Mimmios Merch
+[03/01/2023 12:23]  **ANDARIA GATE BM**: **ANDARIA GATE BM**
+[03/01/2023 12:23]  SKILL SCROLLS: SKILL SCROLLS
+[03/01/2023 12:23]  Ish's Goodies: Ish's Goodies
+[03/01/2023 12:23]  BULK REGS 3.5 GP!: BULK REGS 3.5 GP!
+[03/01/2023 12:23]  a magpie: a magpie
+[03/01/2023 12:23]  BULK REGS 3.5 GP!: Take a look at my goods.
+[03/01/2023 12:23]  [Guild][Scout Masta Bill]: Want me to grab your stuff?
+[03/01/2023 12:23]  Ish's Goodies: Take a look at my goods.
+[03/01/2023 12:23]  You see: Price: 20000
+[03/01/2023 12:23]  You see: Lyric Aspect Extract : 2
+[03/01/2023 12:23]  You see: Price: 55000
+[03/01/2023 12:23]  You see: a random spell hue deed
+[03/01/2023 12:23]  System: When used, it will unlock this spell hue for a randomized spell you do not currently have in this hue.
+[03/01/2023 12:23]  You see: Price: 350000
+[03/01/2023 12:23]  You see: lumberjack saw
+[03/01/2023 12:23]  You see: (crafting antiquity)
+[03/01/2023 12:23]  System: This antiquity has not yet been registered.
+[03/01/2023 12:23]  **ANDARIA GATE BM**: Take a look at my goods.
+[03/01/2023 12:23]  Tyr Odinson: Tyr Odinson
+[03/01/2023 12:23]  Razor: [-Hidden/Stealthing (s)]
+[03/01/2023 12:23]  WTS Ruffled Blouse: WTS Ruffled Blouse
+[03/01/2023 12:23]  Random Goods!: Random Goods!
+[03/01/2023 12:23]  Riane: Riane
+[03/01/2023 12:23]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[03/01/2023 12:23]  FOOD/INGOTS/LEATHER: FOOD/INGOTS/LEATHER
+[03/01/2023 12:23]  PREV / SHIPS STUFF: PREV / SHIPS STUFF
+[03/01/2023 12:23]  Greek: Greek
+[03/01/2023 12:23]  Cores/Distills: Cores/Distills
+[03/01/2023 12:23]  Skill Skrollz: Skill Skrollz
+[03/01/2023 12:23]  Crossbow&Quiver: Crossbow&Quiver
+[03/01/2023 12:23]  Master Weaponsmith: Master Weaponsmith
+[03/01/2023 12:23]  Urk Vendor itemz: Urk Vendor itemz
+[03/01/2023 12:23]  BULK REGS 3.5GP PER!: BULK REGS 3.5GP PER!
+[03/01/2023 12:23]  Master Armoursmith: Master Armoursmith
+[03/01/2023 12:23]  Top Tinker: Top Tinker
+[03/01/2023 12:23]  Leather & Ropes: Leather & Ropes
+[03/01/2023 12:23]  NotYourMothersGoods: NotYourMothersGoods
+[03/01/2023 12:23]  Shimmer Kit Rare: Shimmer Kit Rare
+[03/01/2023 12:23]  DANGEON LOOT: DANGEON LOOT
+[03/01/2023 12:23]  POWDER PEACH INSIDE: POWDER PEACH INSIDE
+[03/01/2023 12:23]  CONTAINER WAND: CONTAINER WAND
+[03/01/2023 12:23]  Coloured Chain/Plate: Coloured Chain/Plate
+[03/01/2023 12:23]  Battle Comms 12k: Battle Comms 12k
+[03/01/2023 12:23]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[03/01/2023 12:23]  Oil Bundle Foci: Oil Bundle Foci
+[03/01/2023 12:23]  More Plate: More Plate
+[03/01/2023 12:23]  ARROWS BOLTS THINGS: ARROWS BOLTS THINGS
+[03/01/2023 12:23]  Cheap Dope Shit: Cheap Dope Shit
+[03/01/2023 12:23]  a goat: a goat
+[03/01/2023 12:23]  Anissa: Anissa the farmer
+[03/01/2023 12:23]  Jackerton: Jackerton
+[03/01/2023 12:23]  Marjorie: Marjorie the lumberjack
+[03/01/2023 12:23]  Ravi: Ravi the farmer
+[03/01/2023 12:23]  a sheep: a sheep
+[03/01/2023 12:23]  a sheep: a sheep
+[03/01/2023 12:23]  a sheep: a sheep
+[03/01/2023 12:23]  a cow: a cow
+[03/01/2023 12:23]  a great hart: a great hart
+[03/01/2023 12:23]  Ines: Ines the alchemist
+[03/01/2023 12:23]  Mae: Mae the herbalist
+[03/01/2023 12:24]  System: Your skill in Tactics has decreased by 18.0.  It is now 100.0.
+[03/01/2023 12:24]  Stink Fist: Kal Ort Por [Recall]
+[03/01/2023 12:24]  a pack llama: (tame)
+[03/01/2023 12:24]  a pack llama: [0/2000 stones]
+[03/01/2023 12:24]  a pack llama: a pack llama
+[03/01/2023 12:24]  a pack llama: (tame)
+[03/01/2023 12:24]  a pack llama: [0/2000 stones]
+[03/01/2023 12:24]  a pack llama: a pack llama
+[03/01/2023 12:24]  a pack llama: (tame)
+[03/01/2023 12:24]  a pack llama: [0/2000 stones]
+[03/01/2023 12:24]  a pack llama: a pack llama
+[03/01/2023 12:24]  factiondryloot: (tame)
+[03/01/2023 12:24]  factiondryloot: [1492/2000 stones]
+[03/01/2023 12:24]  factiondryloot: factiondryloot
+[03/01/2023 12:24]  kiss: kiss
+[03/01/2023 12:24]  Rane: Rane the dockmaster
+[03/01/2023 12:24]  a crow: a crow
+[03/01/2023 12:24]  a forest ostard: a forest ostard
+[03/01/2023 12:24]  System: Opening door...
+[03/01/2023 12:24]  System: Your house and its contents have been refreshed. 29 days 20 hours 24 minutes remaining until owner refresh required.
+[03/01/2023 12:24]  System: Gunt has completed the achievement: Aspect Mastery (Advanced).
+[03/01/2023 12:24]  Razor:  Scanning for rat 
+[03/01/2023 12:24]  System: Where will you search?
+[03/01/2023 12:24]  System: You search the home and find no one hiding within.
+[03/01/2023 12:24]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[03/01/2023 12:24]  Rane: Rane the dockmaster
+[03/01/2023 12:24]  System: You must wait a few moments to use another skill.
+[03/01/2023 12:24]  Stink Fist: You have hidden yourself well.
+[03/01/2023 12:24]  Razor: [+Hidden/Stealthing (0s)]
+[03/01/2023 12:24]  System: Your skill in Tactics has increased by 18.0.  It is now 118.0.
+[03/01/2023 12:24]  [Guild][Scout Masta Bill]: Reds in Nus 3

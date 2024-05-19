@@ -1,0 +1,209 @@
+[06/07/2023 18:39]  System: WorldMap loading...
+[06/07/2023 18:39]  System: Loading WorldMap markers..
+[06/07/2023 18:39]  System: ..Banks_and_Healers.xml (20)
+[06/07/2023 18:39]  System: ..Dungeons.xml (12)
+[06/07/2023 18:39]  System: ..Dungeon_Gates.xml (349)
+[06/07/2023 18:39]  System: ..Healer_Caravans.xml (32)
+[06/07/2023 18:39]  System: ..Moongates.xml (9)
+[06/07/2023 18:39]  System: ..POI.xml (176)
+[06/07/2023 18:39]  System: ..PvP_Locations.xml (71)
+[06/07/2023 18:39]  System: ..Shrines.xml (9)
+[06/07/2023 18:39]  System: ..Subterranean.xml (6)
+[06/07/2023 18:39]  System: ..Townships.xml (9)
+[06/07/2023 18:39]  System: WorldMap markers loaded (693)
+[06/07/2023 18:39]  System: Welcome Stink Fist!
+[06/07/2023 18:39]  Razor: [Beneficial Target]
+[06/07/2023 18:39]  Razor: [Last Target]
+[06/07/2023 18:39]  Razor: [- (s)]
+[06/07/2023 18:39]  Razor: [+Strength (9s)]
+[06/07/2023 18:39]  Razor: [- (s)]
+[06/07/2023 18:39]  Razor: [+Agility (9s)]
+[06/07/2023 18:39]  Razor: [- (s)]
+[06/07/2023 18:39]  Razor: [+Cunning (9s)]
+[06/07/2023 18:39]  Razor: [- (s)]
+[06/07/2023 18:39]  Razor: [+Protection (12s)]
+[06/07/2023 18:39]  Stink Fist: Stink Fist
+[06/07/2023 18:39]  Rane: Rane the dockmaster
+[06/07/2023 18:39]  Blood Draw: Legendarily Triggered
+[06/07/2023 18:39]  Blood Draw: [Brigand, brg]
+[06/07/2023 18:39]  Blood Draw: Blood Draw
+[06/07/2023 18:39]  Fungo: Adventurer Initiate
+[06/07/2023 18:39]  Fungo: [Junior Phoenix, OFP]
+[06/07/2023 18:39]  Fungo: Fungo
+[06/07/2023 18:39]  You see: a giant rat corpse
+[06/07/2023 18:39]  You see: a gargoyle corpse
+[06/07/2023 18:39]  System: WorldMap loaded!
+[06/07/2023 18:39]  You see: gold coin : 502
+[06/07/2023 18:39]  System: Your strength has changed by -10.  It is now 100
+[06/07/2023 18:39]  System: Your dexterity has changed by -10.  It is now 100
+[06/07/2023 18:39]  System: Your intelligence has changed by -10.  It is now 25
+[06/07/2023 18:39]  Razor: [-Strength (s)]
+[06/07/2023 18:39]  Razor: [-Agility (s)]
+[06/07/2023 18:39]  Razor: [-Cunning (s)]
+[06/07/2023 18:39]  Razor: Str: -10 - 100
+[06/07/2023 18:39]  Razor: Dex: -10 - 100
+[06/07/2023 18:39]  Razor: Int: -10 - 25
+[06/07/2023 18:39]  System: Sucio Sanchez has completed the achievement: Adventurer Initiate.
+[06/07/2023 18:39]  Razor: [-Protection (s)]
+[06/07/2023 18:39]  You see: Discipline Aspect Core
+[06/07/2023 18:39]  You see: Discipline Aspect Core
+[06/07/2023 18:39]  : [locked down]
+[06/07/2023 18:39]  System: Lockdowns Used: 704 / 875
+[06/07/2023 18:40]  System: Holy symbols remaining: 7/12
+[06/07/2023 18:40]  Razor: [+Paralyze (0s)]
+[06/07/2023 18:40]  System: You are no longer hindered.
+[06/07/2023 18:40]  Razor: [-Paralyze (s)]
+[06/07/2023 18:40]  Rane: Rane the dockmaster
+[06/07/2023 18:40]  System: You are now under the protection of the town guards.
+[06/07/2023 18:40]  System: You receive a Sacred Journey damage bonus of 6.0% for the next 30 minutes.
+[06/07/2023 18:40]  Razor: [+Hidden/Stealthing (0s)]
+[06/07/2023 18:40]  Kellen: Kellen the stablemaster
+[06/07/2023 18:40]  Aristotle: Aristotle the stablemaster
+[06/07/2023 18:40]  Alden: Alden the stablemaster
+[06/07/2023 18:40]  an andarian footman: an andarian footman
+[06/07/2023 18:40]  Slim Charles: Slim Charles
+[06/07/2023 18:40]  Razor: [-Hidden/Stealthing (s)]
+[06/07/2023 18:40]  an andarian marksman: an andarian marksman
+[06/07/2023 18:40]  an andarian footman: an andarian footman
+[06/07/2023 18:40]  Ama: Ama the provisioner
+[06/07/2023 18:40]  Rhodanthe: Rhodanthe the cook
+[06/07/2023 18:40]  Raizel: Raizel the farmer
+[06/07/2023 18:40]  Elad: Elad the beekeeper
+[06/07/2023 18:40]  Morgan: Morgan the farmer
+[06/07/2023 18:40]  Standford: Standford the cook
+[06/07/2023 18:40]  Roxanne: Roxanne the cobbler
+[06/07/2023 18:40]  Ammon: Ammon the tanner
+[06/07/2023 18:40]  Anna: Anna the tanner
+[06/07/2023 18:40]  Kelvin: Kelvin the tinker
+[06/07/2023 18:40]  Bane: Bane the tanner
+[06/07/2023 18:40]  Gunther: Gunther the tailor
+[06/07/2023 18:40]  a cat: a cat
+[06/07/2023 18:40]  Bethany: Bethany the weaponsmith
+[06/07/2023 18:40]  Prescot: Prescot the tailor
+[06/07/2023 18:40]  Mercer: Mercer the blacksmith
+[06/07/2023 18:40]  Serilda: Serilda the armorer
+[06/07/2023 18:40]  Olivia: Olivia the miner
+[06/07/2023 18:40]  Feridwyn: Feridwyn the blacksmith
+[06/07/2023 18:40]  an andarian knight: an andarian knight
+[06/07/2023 18:40]  [Guild][Alukahs]: Outlandmarket bugged again? Says 30hr update
+[06/07/2023 18:40]  Deb: Deb the architect
+[06/07/2023 18:40]  Karlenne: Karlenne the real estate broker
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  a cat: a cat
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  a cat: a cat
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  a cat: a cat
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  Seymour: Seymour the carpenter
+[06/07/2023 18:40]  Candida: Candida the cobbler
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  Leiko: Leiko the tinker
+[06/07/2023 18:40]  a cat: a cat
+[06/07/2023 18:40]  an andarian mage: an andarian mage
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  a cat: a cat
+[06/07/2023 18:40]  a dog: a dog
+[06/07/2023 18:40]  Uber Blue Light: [Teetotaler, NDA]
+[06/07/2023 18:40]  Uber Blue Light: Uber Blue Light
+[06/07/2023 18:40]  Uber Blue Light: Vas Rel Por [Gate Travel]
+[06/07/2023 18:40]  Stoyan: Stoyan the tinker
+[06/07/2023 18:40]  beasty: (bonded)
+[06/07/2023 18:40]  beasty: beasty
+[06/07/2023 18:40]  a searing lizard: (bonded)
+[06/07/2023 18:40]  a searing lizard: a searing lizard
+[06/07/2023 18:40]  a fire crawler: (bonded)
+[06/07/2023 18:40]  a fire crawler: a fire crawler
+[06/07/2023 18:40]  IrishMist: Lord IrishMist
+[06/07/2023 18:40]  Bart: Bart the Town Crier
+[06/07/2023 18:40]  Bart: The Prevalian Stylist is now offering stylish new mustaches! Be sure to check them out!
+[06/07/2023 18:40]  Roi: Roi the banker
+[06/07/2023 18:40]  a horse: (tame)
+[06/07/2023 18:40]  a horse: a horse
+[06/07/2023 18:40]  Niekee: Niekee
+[06/07/2023 18:40]  Orlantha: Orlantha the banker
+[06/07/2023 18:40]  Britta: Britta the banker
+[06/07/2023 18:40]  Meatgrinder: Meatgrinder
+[06/07/2023 18:40]  System: Max holy symbols earned (12/12)
+[06/07/2023 18:40]  Uber Blue Light: Blue Light Special!! New-Colored leathers! Bigger and better deals! Come check us out!
+[06/07/2023 18:40]  System: Playing Macro 'bank'...
+[06/07/2023 18:40]  System: Macro 'bank' finished.
+[06/07/2023 18:40]  Stink Fist: Bank Guards Vendor sell I ban thee
+[06/07/2023 18:40]  Stink Fist: Items: 21/125
+[06/07/2023 18:40]  Stink Fist: Total Weight: 4,507
+[06/07/2023 18:40]  Bearded Angel: Legendary Brilliance
+[06/07/2023 18:40]  Bearded Angel: [Mademan, Syn]
+[06/07/2023 18:40]  Bearded Angel: Bearded Angel
+[06/07/2023 18:41]  Workman Job: Workman Job
+[06/07/2023 18:41]  Leiko: Leiko the tinker
+[06/07/2023 18:41]  an andarian mage: an andarian mage
+[06/07/2023 18:41]  Poundtown: Legendary Boss Slayer
+[06/07/2023 18:41]  Poundtown: [Captain, hood]
+[06/07/2023 18:41]  Poundtown: Poundtown
+[06/07/2023 18:41]  a ghoul: (summoned)
+[06/07/2023 18:41]  a ghoul: a ghoul
+[06/07/2023 18:41]  an earth elemental: (summoned)
+[06/07/2023 18:41]  an earth elemental: an earth elemental
+[06/07/2023 18:41]  a vampire thrall: (summoned)
+[06/07/2023 18:41]  a vampire thrall: a vampire thrall
+[06/07/2023 18:41]  Poundtown: Legendary Boss Slayer
+[06/07/2023 18:41]  Poundtown: [Captain, hood]
+[06/07/2023 18:41]  Poundtown: Poundtown
+[06/07/2023 18:41]  Candida: Candida the cobbler
+[06/07/2023 18:41]  a dog: a dog
+[06/07/2023 18:41]  Slevin: Slevin the scribe
+[06/07/2023 18:41]  a dog: a dog
+[06/07/2023 18:41]  a cat: a cat
+[06/07/2023 18:41]  Shani: Shani the mage
+[06/07/2023 18:41]  Kelli: Kelli the mage
+[06/07/2023 18:41]  Mae: Mae the herbalist
+[06/07/2023 18:41]  Ines: Ines the alchemist
+[06/07/2023 18:41]  System: Your skill in Tactics has decreased by 35.0.  It is now 100.0.
+[06/07/2023 18:41]  Stink Fist: Kal Ort Por [Recall]
+[06/07/2023 18:41]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[06/07/2023 18:41]  System: You have left the protection of the town guards.
+[06/07/2023 18:41]  Razor: [Beneficial Target]
+[06/07/2023 18:41]  Razor: [Last Target]
+[06/07/2023 18:41]  You see: a giant rat corpse
+[06/07/2023 18:41]  You see: a gargoyle corpse
+[06/07/2023 18:41]  Rane: Rane the dockmaster
+[06/07/2023 18:41]  a hind: a hind
+[06/07/2023 18:41]  Fungo: Adventurer Initiate
+[06/07/2023 18:41]  Fungo: [Junior Phoenix, OFP]
+[06/07/2023 18:41]  Fungo: Fungo
+[06/07/2023 18:41]  a great hart: a great hart
+[06/07/2023 18:41]  System: You must wait to perform another action.
+[06/07/2023 18:41]  System: Your skill in Tactics has increased by 35.0.  It is now 135.0.
+[06/07/2023 18:41]  System: Opening door...
+[06/07/2023 18:41]  System: Your house and its contents have been refreshed. 22 days 13 hours 29 minutes remaining until owner refresh required.
+[06/07/2023 18:41]  Razor:  Scanning for rat 
+[06/07/2023 18:41]  System: Where will you search?
+[06/07/2023 18:41]  System: You search the home and find no one hiding within.
+[06/07/2023 18:41]  System: No one matching that was found on your screen.
+[06/07/2023 18:41]  System: No one matching that was found on your screen.
+[06/07/2023 18:41]  Blood Draw: Legendarily Triggered
+[06/07/2023 18:41]  Blood Draw: [Brigand, brg]
+[06/07/2023 18:41]  Blood Draw: Blood Draw
+[06/07/2023 18:41]  System: No one matching that was found on your screen.
+[06/07/2023 18:41]  Rane: Rane the dockmaster
+[06/07/2023 18:41]  System: No one matching that was found on your screen.
+[06/07/2023 18:41]  System: No one matching that was found on your screen.
+[06/07/2023 18:43]  [Guild][Senhor Jeovah]: :)
+[06/07/2023 18:43]  System: Kazma Miner has completed the achievement: Prospector (Advanced).
+[06/07/2023 18:44]  [Guild][Senhor Jeovah]: you left aegis ? (im hearing you on discord)
+[06/07/2023 18:44]  a hind: a hind
+[06/07/2023 18:45]  a great hart: a great hart
+[06/07/2023 18:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[06/07/2023 18:46]  System: Stoned Summoner has completed the achievement: Guardian of The Mausoleum (Basic).
+[06/07/2023 18:47]  System: Dread Lord Drac has completed the achievement: Versatility (Basic).
+[06/07/2023 18:47]  System: Ancestralz has completed the achievement: Guardian of Cavernam (Basic).
+[06/07/2023 18:47]  a mongbat: a mongbat
+[06/07/2023 18:48]  System: Urban Outfitters has completed the achievement: Tradesman Union Initiate.
+[06/07/2023 18:50]  a mongbat: a mongbat
+[06/07/2023 18:50]  [Guild][Senhor Jeovah]: reds in aegis lvl 1
+[06/07/2023 18:51]  [Alliance][Puleece Ociffer]: [NC] 2 reds oss
+[06/07/2023 18:52]  [Alliance][Plitvicka Jezera]: [NC] at least 2 reds heading into maus
+[06/07/2023 18:52]  [Alliance][Plitvicka Jezera]: [NC] just saw them on level 1
+[06/07/2023 18:53]  System: The world will save in 15 seconds.

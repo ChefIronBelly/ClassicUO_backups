@@ -1,0 +1,3221 @@
+[03/27/2023 10:14]  System: WorldMap loading...
+[03/27/2023 10:14]  System: Loading WorldMap markers..
+[03/27/2023 10:14]  System: ..Banks_and_Healers.xml (20)
+[03/27/2023 10:14]  System: ..Dungeons.xml (12)
+[03/27/2023 10:14]  System: ..Dungeon_Gates.xml (325)
+[03/27/2023 10:14]  System: ..Healer_Caravans.xml (32)
+[03/27/2023 10:14]  System: ..Moongates.xml (9)
+[03/27/2023 10:14]  System: ..POI.xml (176)
+[03/27/2023 10:14]  System: ..PvP_Locations.xml (71)
+[03/27/2023 10:14]  System: ..Shrines.xml (9)
+[03/27/2023 10:14]  System: ..Subterranean.xml (6)
+[03/27/2023 10:14]  System: ..Townships.xml (9)
+[03/27/2023 10:14]  System: WorldMap markers loaded (669)
+[03/27/2023 10:14]  System: Welcome Stink Fist!
+[03/27/2023 10:14]  Razor: [- (s)]
+[03/27/2023 10:14]  Razor: [+Food Satisfaction (1164s)]
+[03/27/2023 10:14]  Stink Fist: Stink Fist
+[03/27/2023 10:14]  Rane: Rane the dockmaster
+[03/27/2023 10:14]  a troll: a troll
+[03/27/2023 10:14]  System: WorldMap loaded!
+[03/27/2023 10:15]  Razor: Attack: a troll
+[03/27/2023 10:15]  Wulf of Wyrd: Wulf of Wyrd
+[03/27/2023 10:15]  Wulf of Wyrd: Rel Sanct [Bless]
+[03/27/2023 10:15]  System: Your strength has changed by 10.  It is now 110
+[03/27/2023 10:15]  System: Your dexterity has changed by 10.  It is now 110
+[03/27/2023 10:15]  System: Your intelligence has changed by 10.  It is now 35
+[03/27/2023 10:15]  Razor: [+Strength (600s)]
+[03/27/2023 10:15]  Razor: Str: +10 - 110
+[03/27/2023 10:15]  Razor: [-Strength (s)]
+[03/27/2023 10:15]  Razor: [+Strength (600s)]
+[03/27/2023 10:15]  Razor: [+Agility (600s)]
+[03/27/2023 10:15]  Razor: Dex: +10 - 110
+[03/27/2023 10:15]  Razor: [-Agility (s)]
+[03/27/2023 10:15]  Razor: [+Agility (600s)]
+[03/27/2023 10:15]  Razor: [+Cunning (600s)]
+[03/27/2023 10:15]  Razor: Int: +10 - 35
+[03/27/2023 10:15]  Razor: [-Cunning (s)]
+[03/27/2023 10:15]  Razor: [+Cunning (600s)]
+[03/27/2023 10:15]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[03/27/2023 10:15]  Razor: [+Protection (600s)]
+[03/27/2023 10:16]  Wulf of Wyrd: This script was brought to you by youtube.com/Jaseowns
+[03/27/2023 10:16]  Wulf of Wyrd: Kal Vas Xen Flam [Fire Elemental]
+[03/27/2023 10:16]  Razor: chug
+[03/27/2023 10:16]  System: You increase your damage resistance to creature-casted spells.
+[03/27/2023 10:16]  Razor: [+Magic Resist Potion (159s)]
+[03/27/2023 10:16]  Razor: Loading hotbar
+[03/27/2023 10:16]  System: Who will you use the bandages on?
+[03/27/2023 10:16]  System: You begin applying the bandages.
+[03/27/2023 10:16]  Razor: Bandage: 10s
+[03/27/2023 10:16]  Razor: Bandage: 9s
+[03/27/2023 10:16]  Razor: Bandage: 8s
+[03/27/2023 10:16]  Razor: Bandage: 7s
+[03/27/2023 10:16]  Razor: Bandage: 6s
+[03/27/2023 10:16]  Razor: Bandage: 5s
+[03/27/2023 10:16]  Razor: Bandage: 4s
+[03/27/2023 10:16]  Razor: Bandage: 3s
+[03/27/2023 10:16]  Razor: Bandage: 2s
+[03/27/2023 10:16]  Stink Fist: Stink Fist
+[03/27/2023 10:16]  Razor: Bandage: 1s
+[03/27/2023 10:16]  System: You finish applying the bandages.
+[03/27/2023 10:16]  Stink Fist: +3
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.286%
+[03/27/2023 10:16]  System: Being perfectly rested, you shove them out of the way.
+[03/27/2023 10:16]  Razor: chug refresh
+[03/27/2023 10:16]  System: Your potion invigorates you, allowing you unparalleled freedom of movement.
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:16]  System: Your strike disarms your target!
+[03/27/2023 10:16]  a troll: -4
+[03/27/2023 10:16]  Stink Fist: -11
+[03/27/2023 10:16]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:16]  System: Who will you use the bandages on?
+[03/27/2023 10:16]  System: You begin applying the bandages.
+[03/27/2023 10:16]  Razor: Bandage: 10s
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:16]  a troll: -11
+[03/27/2023 10:16]  Razor: Bandage: 9s
+[03/27/2023 10:16]  Razor: Bandage: 7s
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:16]  a troll: -5
+[03/27/2023 10:16]  Razor: Bandage: 6s
+[03/27/2023 10:16]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:16]  a troll: -5
+[03/27/2023 10:16]  Razor: Bandage: 5s
+[03/27/2023 10:16]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:16]  Razor: Bandage: 4s
+[03/27/2023 10:16]  a troll: -159
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:16]  a troll: *regens*
+[03/27/2023 10:16]  Razor: Bandage: 2s
+[03/27/2023 10:16]  a troll: -69
+[03/27/2023 10:16]  Razor: Bandage: 1s
+[03/27/2023 10:16]  a troll: -62
+[03/27/2023 10:16]  System: You finish applying the bandages.
+[03/27/2023 10:16]  Stink Fist: +9
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:16]  System: Your attack hinders your target!
+[03/27/2023 10:16]  a troll: -106
+[03/27/2023 10:16]  a troll: -70
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:16]  a troll: -52
+[03/27/2023 10:16]  a troll: -89
+[03/27/2023 10:16]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[03/27/2023 10:16]  a troll: -171
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:16]  a troll: -38
+[03/27/2023 10:16]  a troll: -18
+[03/27/2023 10:16]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:16]  a troll: -91
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:16]  a troll: -256
+[03/27/2023 10:16]  System: You deliver a zen strike to your opponent.
+[03/27/2023 10:16]  Stink Fist: +0
+[03/27/2023 10:16]  System: You have gained some fame.
+[03/27/2023 10:16]  System: You have gained some karma.
+[03/27/2023 10:16]  Stink Fist: (Fire Aspect 816.2/1000 xp)
+[03/27/2023 10:16]  Stink Fist: (Earth Aspect 2,527.3/3500 xp)
+[03/27/2023 10:16]  System: -444
+[03/27/2023 10:16]  You see: a troll corpse
+[03/27/2023 10:16]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:16]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:16]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:16]  System: Captcha successful.
+[03/27/2023 10:16]  System: You carve materials from the corpse.
+[03/27/2023 10:16]  System: Grab Bag not found, setting to Backpack.
+[03/27/2023 10:17]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:17]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:17]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:17]  Razor: [DISARM]
+[03/27/2023 10:17]  System: Opening door...
+[03/27/2023 10:17]  System: Your house and its contents have been refreshed. 28 days 57 minutes remaining until owner refresh required.
+[03/27/2023 10:17]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:17]  Rane: Rane the dockmaster
+[03/27/2023 10:17]  System: Target the container to Grab items into.
+[03/27/2023 10:17]  System: Grab Bag set: 1187902917
+[03/27/2023 10:17]  System: Target the container to Grab items into.
+[03/27/2023 10:17]  System: Grab Bag set: 1187902917
+[03/27/2023 10:17]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[03/27/2023 10:17]  System: 14 items were added.
+[03/27/2023 10:17]  System: Finished 3 queued actions in 1.2 seconds.
+[03/27/2023 10:17]  System: Resupply complete.
+[03/27/2023 10:17]  System: Set Grab Item HotBag
+[03/27/2023 10:17]  System: Grab Item HotBag Set
+[03/27/2023 10:17]  Razor: Organize Open Pouches
+[03/27/2023 10:17]  System: Finished 2 queued actions in 0.6 seconds.
+[03/27/2023 10:17]  Razor: Organize Trapped Pouches
+[03/27/2023 10:17]  System: You must wait another moment before you may pick up an item from here.
+[03/27/2023 10:17]  Razor: Organize Trapped Pouches
+[03/27/2023 10:17]  Razor: Organize Trapped Pouches
+[03/27/2023 10:17]  Razor: Organize Trapped Pouches
+[03/27/2023 10:17]  Razor: Organize Trapped Pouches
+[03/27/2023 10:17]  Razor: Organize Trapped Pouches
+[03/27/2023 10:17]  Razor: Organize Orange Potions
+[03/27/2023 10:17]  Razor: Organize Red Potions
+[03/27/2023 10:17]  Razor: Organize Yellow Potions
+[03/27/2023 10:17]  Razor: Organize White Potions
+[03/27/2023 10:17]  Razor: Organize Black Potions
+[03/27/2023 10:17]  Razor: Organize Blue Potions
+[03/27/2023 10:17]  Razor: Organize Aids
+[03/27/2023 10:17]  Razor: Organize Rope
+[03/27/2023 10:17]  Razor: Open Untrapped Pouches
+[03/27/2023 10:17]  Razor: Out of scrolls!
+[03/27/2023 10:17]  Razor: Out of scrolls!
+[03/27/2023 10:18]  System: You pour some of the keg's contents into an empty bottle...
+[03/27/2023 10:18]  System: ...and place it into your backpack.
+[03/27/2023 10:18]  Rane: Rane the dockmaster
+[03/27/2023 10:18]  System: The blank commodity you wish to use must be in your backpack.
+[03/27/2023 10:18]  System: What resource to you wish to create a commodity for?
+[03/27/2023 10:18]  System: You create a commodity for the item.
+[03/27/2023 10:18]  You see: leather : 17
+[03/27/2023 10:18]  System: Your magic resist potion has worn off.
+[03/27/2023 10:18]  Razor: [-Magic Resist Potion (s)]
+[03/27/2023 10:18]  You see: raw ribs : 1976
+[03/27/2023 10:19]  System: What resource to you wish to create a commodity for?
+[03/27/2023 10:19]  System: Commodity for that item must be of at least 2500.
+[03/27/2023 10:19]  You see: raw ribs : 1976
+[03/27/2023 10:19]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:19]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:19]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  a writhing tentacle: a writhing tentacle
+[03/27/2023 10:19]  System: No one matching that was found on your screen.
+[03/27/2023 10:19]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: Kamehameha has completed the achievement: Guardian of Nusero (Basic).
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  fire elemental: fire elemental
+[03/27/2023 10:20]  a skeletal knight: a skeletal knight
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  System: No one matching that was found on your screen.
+[03/27/2023 10:20]  Razor: found no one
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Target: fire elemental
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:20]  Razor: Attack: fire elemental
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:20]  System: You fail to disarm your opponent.
+[03/27/2023 10:20]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: chug
+[03/27/2023 10:20]  System: You increase your damage resistance to creature-casted spells.
+[03/27/2023 10:20]  Razor: [+Magic Resist Potion (159s)]
+[03/27/2023 10:20]  Razor: Divine Fury
+[03/27/2023 10:20]  System: Divine Fury
+[03/27/2023 10:20]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:20]  fire elemental: -151
+[03/27/2023 10:20]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  Stink Fist: -13
+[03/27/2023 10:20]  fire elemental: -53
+[03/27/2023 10:20]  System: Who will you use the bandages on?
+[03/27/2023 10:20]  System: You begin applying the bandages.
+[03/27/2023 10:20]  Razor: Bandage: 10s
+[03/27/2023 10:20]  Stink Fist: -3
+[03/27/2023 10:20]  System: Your fingers slip!
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:20]  fire elemental: -72
+[03/27/2023 10:20]  Razor: Bandage: 9s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  fire elemental: -30
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:20]  fire elemental: -45
+[03/27/2023 10:20]  Razor: Bandage: 8s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  fire elemental: -11
+[03/27/2023 10:20]  Stink Fist: -8
+[03/27/2023 10:20]  Razor: Bandage: 7s
+[03/27/2023 10:20]  System: Your fingers slip!
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:20]  Razor: Bandage: 6s
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:20]  fire elemental: -36
+[03/27/2023 10:20]  fire elemental: -30
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Stink Fist: -10
+[03/27/2023 10:20]  Stink Fist: -9
+[03/27/2023 10:20]  Razor: Bandage: 5s
+[03/27/2023 10:20]  System: Your attack causes your target to bleed and become susceptible to special attacks! [2]
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:20]  fire elemental: -97
+[03/27/2023 10:20]  fire elemental: -11
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  Razor: Bandage: 4s
+[03/27/2023 10:20]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:20]  fire elemental: -32
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Your fingers slip!
+[03/27/2023 10:20]  Razor: Bandage: 3s
+[03/27/2023 10:20]  fire elemental: -30
+[03/27/2023 10:20]  fire elemental: -7
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:20]  fire elemental: -14
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Bandage: 2s
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  fire elemental: -11
+[03/27/2023 10:20]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:20]  fire elemental: -162
+[03/27/2023 10:20]  Stink Fist: -12
+[03/27/2023 10:20]  Razor: Bandage: 1s
+[03/27/2023 10:20]  System: You finish applying the bandages.
+[03/27/2023 10:20]  Stink Fist: +36
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.477%
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  fire elemental: -30
+[03/27/2023 10:20]  fire elemental: -7
+[03/27/2023 10:20]  fire elemental: -126
+[03/27/2023 10:20]  System: Who will you use the bandages on?
+[03/27/2023 10:20]  System: You begin applying the bandages.
+[03/27/2023 10:20]  Razor: Bandage: 10s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108% [2]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591% [2]
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:20]  fire elemental: -41
+[03/27/2023 10:20]  fire elemental: -11
+[03/27/2023 10:20]  Stink Fist: -7
+[03/27/2023 10:20]  Razor: Bandage: 9s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: Your strike disarms your target!
+[03/27/2023 10:20]  fire elemental: -131
+[03/27/2023 10:20]  Razor: Bandage: 8s
+[03/27/2023 10:20]  fire elemental: -9
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  fire elemental: -38
+[03/27/2023 10:20]  System: Your attack cripples your target, lowering their defense! [2]
+[03/27/2023 10:20]  fire elemental: -82
+[03/27/2023 10:20]  Razor: Bandage: 7s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  fire elemental: -14
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: You absorb their spell.
+[03/27/2023 10:20]  fire elemental: -96
+[03/27/2023 10:20]  System: You deliver a zen strike to your opponent.
+[03/27/2023 10:20]  Stink Fist: +23
+[03/27/2023 10:20]  System: some damage has been healed : 23
+[03/27/2023 10:20]  fire elemental: -420
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:20]  Razor: Bandage: 6s
+[03/27/2023 10:20]  Stink Fist: -2
+[03/27/2023 10:20]  System: Your fingers slip!
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Bandage: 5s
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:20]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:20]  fire elemental: -74
+[03/27/2023 10:20]  fire elemental: -9
+[03/27/2023 10:20]  Stink Fist: -6
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  Razor: Bandage: 4s
+[03/27/2023 10:20]  fire elemental: -39
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Bandage: 3s
+[03/27/2023 10:20]  System: You have gained a good amount of fame.
+[03/27/2023 10:20]  System: You have gained a good amount of karma.
+[03/27/2023 10:20]  Stink Fist: (Fire Aspect 819.8/1000 xp)
+[03/27/2023 10:20]  Stink Fist: (Earth Aspect 2,530.9/3500 xp)
+[03/27/2023 10:20]  System: -81
+[03/27/2023 10:20]  You see: a fire elemental corpse
+[03/27/2023 10:20]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:20]  System: You carve materials from the corpse.
+[03/27/2023 10:20]  Razor: Bandage: 2s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Target: a skeletal knight
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  Razor: Attack: a skeletal knight
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108% [2]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591% [2]
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:20]  a skeletal knight: -184
+[03/27/2023 10:20]  Razor: Bandage: 1s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: You finish applying the bandages.
+[03/27/2023 10:20]  Stink Fist: +7
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:20]  a skeletal knight: -16
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  Stink Fist: -2
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:20]  a skeletal knight: -22
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:20]  System: Who will you use the bandages on?
+[03/27/2023 10:20]  System: You begin applying the bandages.
+[03/27/2023 10:20]  Razor: Bandage: 10s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  System: Your attack hinders your target!
+[03/27/2023 10:20]  a skeletal knight: -93
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Bandage: 9s
+[03/27/2023 10:20]  Razor: Divine Fury
+[03/27/2023 10:20]  System: Divine Fury
+[03/27/2023 10:20]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:20]  Razor: Bandage: 8s
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:20]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:20]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  a skeletal knight: -87
+[03/27/2023 10:20]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:20]  Razor: Bandage: 7s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: Bandage: 6s
+[03/27/2023 10:20]  System: New target set.
+[03/27/2023 10:20]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:20]  Razor: Bandage: 5s
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 4s
+[03/27/2023 10:21]  a skeletal knight: -72
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 3s
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a skeletal knight: -74
+[03/27/2023 10:21]  Razor: Bandage: 2s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 1s
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: You heal what little damage you had.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  a skeletal knight: -90
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  Stink Fist: -1
+[03/27/2023 10:21]  System: Who will you use the bandages on?
+[03/27/2023 10:21]  System: You begin applying the bandages.
+[03/27/2023 10:21]  Razor: Bandage: 10s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 9s
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:21]  Razor: [DISARM]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 8s
+[03/27/2023 10:21]  System: Your skill in Alchemy has decreased by 0.1.  It is now 8.2.
+[03/27/2023 10:21]  System: Your skill in Chivalry has increased by 0.1.  It is now 101.5.
+[03/27/2023 10:21]  System: Your strike disarms your target!
+[03/27/2023 10:21]  a skeletal knight: -40
+[03/27/2023 10:21]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[03/27/2023 10:21]  Razor: [Alchemy] -0.1 8.2 (-0.1)
+[03/27/2023 10:21]  Razor: [Chivalry] +0.1 101.5 (+0.1)
+[03/27/2023 10:21]  Stink Fist: -8
+[03/27/2023 10:21]  Razor: Bandage: 7s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:21]  a skeletal knight: -115
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:21]  Razor: Bandage: 6s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  a skeletal knight: -106
+[03/27/2023 10:21]  Razor: Bandage: 5s
+[03/27/2023 10:21]  a skeletal knight: -10
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a skeletal knight: -116
+[03/27/2023 10:21]  Razor: Bandage: 4s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:21]  a skeletal knight: -38
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:21]  Razor: Bandage: 3s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: You have gained some fame.
+[03/27/2023 10:21]  System: You have gained some karma.
+[03/27/2023 10:21]  Stink Fist: (Fire Aspect 821.2/1000 xp)
+[03/27/2023 10:21]  Stink Fist: (Earth Aspect 2,532.4/3500 xp)
+[03/27/2023 10:21]  System: -187
+[03/27/2023 10:21]  Razor: Bandage: 2s
+[03/27/2023 10:21]  You see: a skeletal corpse
+[03/27/2023 10:21]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:21]  System: You carve materials from the corpse.
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  Razor: Bandage: 1s
+[03/27/2023 10:21]  System: You finish applying the bandages.
+[03/27/2023 10:21]  Stink Fist: +7
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  Razor: found no one
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:21]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  Razor: found no one
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  a scorpion: a scorpion
+[03/27/2023 10:21]  a stone harpy: a stone harpy
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  Razor: found no one
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Target: a scorpion
+[03/27/2023 10:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:21]  Razor: Attack: a scorpion
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:21]  a scorpion: -35
+[03/27/2023 10:21]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  Razor: Divine Fury
+[03/27/2023 10:21]  System: Divine Fury
+[03/27/2023 10:21]  System: Holy symbols remaining: 6/10
+[03/27/2023 10:21]  System: Your skill in Alchemy has decreased by 0.1.  It is now 8.1.
+[03/27/2023 10:21]  System: Your skill in Anatomy has increased by 0.1.  It is now 90.4.
+[03/27/2023 10:21]  a scorpion: -49
+[03/27/2023 10:21]  Razor: [Alchemy] -0.1 8.1 (-0.2)
+[03/27/2023 10:21]  Razor: [Anatomy] +0.1 90.4 (+0.1)
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  a scorpion: -83
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  Stink Fist: -3
+[03/27/2023 10:21]  Stink Fist: * You begin to feel pain throughout your body! *
+[03/27/2023 10:21]  Razor: [+Greater Poison (70s)]
+[03/27/2023 10:21]  Stink Fist: Warding stance activated.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:21]  Stink Fist: Barrier finisher activated.
+[03/27/2023 10:21]  a scorpion: -22
+[03/27/2023 10:21]  Razor: Cleanse by fire
+[03/27/2023 10:21]  System: Cleanse by fire
+[03/27/2023 10:21]  System: Holy symbols remaining: 4/10
+[03/27/2023 10:21]  System: Who will you use the bandages on?
+[03/27/2023 10:21]  System: You begin applying the bandages.
+[03/27/2023 10:21]  Razor: Bandage: 10s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Stink Fist: -9
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:21]  a scorpion: -66
+[03/27/2023 10:21]  Razor: Bandage: 9s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a scorpion: -65
+[03/27/2023 10:21]  Razor: Bandage: 8s
+[03/27/2023 10:21]  Stink Fist: -5
+[03/27/2023 10:21]  System: Your fingers slip!
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:21]  a scorpion: -58
+[03/27/2023 10:21]  Razor: Bandage: 7s
+[03/27/2023 10:21]  Stink Fist: * You begin to feel pain throughout your body! *
+[03/27/2023 10:21]  Stink Fist: -7
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  Razor: Bandage: 6s
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  a scorpion: -34
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 5s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: Your fingers slip!
+[03/27/2023 10:21]  System: You feel cured of poison!
+[03/27/2023 10:21]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[03/27/2023 10:21]  Razor: [-Greater Poison (s)]
+[03/27/2023 10:21]  Razor: Bandage: 4s
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 3s
+[03/27/2023 10:21]  Stink Fist: -2
+[03/27/2023 10:21]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:21]  Razor: [DISARM]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  System: Your strike disarms your target!
+[03/27/2023 10:21]  a scorpion: -51
+[03/27/2023 10:21]  Razor: Bandage: 2s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  a scorpion: -116
+[03/27/2023 10:21]  Razor: Bandage: 1s
+[03/27/2023 10:21]  System: Wrestling stance adoption expired.
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:21]  System: You finish applying the bandages.
+[03/27/2023 10:21]  Stink Fist: +24
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:21]  Stink Fist: Bulwark stance activated.
+[03/27/2023 10:21]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:21]  System: You have gained a little fame.
+[03/27/2023 10:21]  System: You have gained a little karma.
+[03/27/2023 10:21]  Stink Fist: (Fire Aspect 822.0/1000 xp)
+[03/27/2023 10:21]  Stink Fist: (Earth Aspect 2,533.1/3500 xp)
+[03/27/2023 10:21]  System: -221
+[03/27/2023 10:21]  Stink Fist: Last Stand finisher activated.
+[03/27/2023 10:21]  You see: a scorpion corpse
+[03/27/2023 10:21]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:21]  System: You carve materials from the corpse.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108% [2]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591% [2]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Target: a stone harpy
+[03/27/2023 10:21]  Razor: Attack: a stone harpy
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a stone harpy: -52
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:21]  Stink Fist: -1
+[03/27/2023 10:21]  a stone harpy: -27
+[03/27/2023 10:21]  System: Who will you use the bandages on?
+[03/27/2023 10:21]  System: You begin applying the bandages.
+[03/27/2023 10:21]  Razor: Bandage: 10s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a stone harpy: -84
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 8s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 7s
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  You see: a skeletal corpse
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  a stone harpy: -55
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  Razor: Bandage: 6s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Wrestling stance adoption expired.
+[03/27/2023 10:21]  Razor: Bandage: 5s
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:21]  Stink Fist: -2
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Holy symbols remaining: 7/10
+[03/27/2023 10:21]  Razor: Bandage: 4s
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a stone harpy: -93
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: Bandage: 3s
+[03/27/2023 10:21]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:21]  a stone harpy: -152
+[03/27/2023 10:21]  Razor: Bandage: 2s
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:21]  a stone harpy: -156
+[03/27/2023 10:21]  Stink Fist: -4
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:21]  Razor: Bandage: 1s
+[03/27/2023 10:21]  System: You finish applying the bandages.
+[03/27/2023 10:21]  Stink Fist: +6
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:21]  System: New target set.
+[03/27/2023 10:21]  System: Your attack crushes their armor!
+[03/27/2023 10:21]  a stone harpy: -96
+[03/27/2023 10:21]  System: You deliver a zen strike to your opponent.
+[03/27/2023 10:21]  Stink Fist: +0
+[03/27/2023 10:21]  System: You have gained some fame.
+[03/27/2023 10:21]  System: You have gained some karma.
+[03/27/2023 10:21]  Stink Fist: (Fire Aspect 823.4/1000 xp)
+[03/27/2023 10:21]  Stink Fist: (Earth Aspect 2,534.5/3500 xp)
+[03/27/2023 10:21]  System: -285
+[03/27/2023 10:21]  You see: a stone harpy corpse
+[03/27/2023 10:21]  You see: a skeletal corpse
+[03/27/2023 10:21]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:21]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:21]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:21]  System: You carve materials from the corpse.
+[03/27/2023 10:21]  System: No one matching that was found on your screen.
+[03/27/2023 10:21]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:22]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:22]  Razor: [DISARM]
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  You see: a skeletal corpse
+[03/27/2023 10:22]  You see: a fire elemental corpse
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:22]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:22]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:22]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  a primordial whelp: a primordial whelp
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  Razor: found no one
+[03/27/2023 10:22]  System: No one matching that was found on your screen.
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  Razor: Target: a primordial whelp
+[03/27/2023 10:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  Razor: Attack: a primordial whelp
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:22]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:22]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:22]  System: You fail to disarm your opponent.
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  Razor: Divine Fury
+[03/27/2023 10:22]  System: Divine Fury
+[03/27/2023 10:22]  System: Holy symbols remaining: 6/10
+[03/27/2023 10:22]  a primordial whelp: -66
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:22]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:22]  a primordial whelp: -72
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:22]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  a primordial whelp: -45
+[03/27/2023 10:22]  Stink Fist: -8
+[03/27/2023 10:22]  System: New target set.
+[03/27/2023 10:22]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:22]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:23]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:23]  System: Who will you use the bandages on?
+[03/27/2023 10:23]  System: You begin applying the bandages.
+[03/27/2023 10:23]  Razor: Bandage: 10s
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:23]  a primordial whelp: -92
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: Bandage: 9s
+[03/27/2023 10:23]  a primordial whelp: -49
+[03/27/2023 10:23]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[03/27/2023 10:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:23]  Razor: chug
+[03/27/2023 10:23]  System: You increase your damage resistance to creature-casted spells.
+[03/27/2023 10:23]  Razor: [-Magic Resist Potion (s)]
+[03/27/2023 10:23]  Razor: [+Magic Resist Potion (158s)]
+[03/27/2023 10:23]  Razor: Bandage: 8s
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:23]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:23]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:23]  a primordial whelp: -228
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: Bandage: 7s
+[03/27/2023 10:23]  a primordial whelp: -126
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:23]  Razor: Bandage: 6s
+[03/27/2023 10:23]  a primordial whelp: -10
+[03/27/2023 10:23]  Stink Fist: -3
+[03/27/2023 10:23]  a primordial whelp: -49
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: Bandage: 5s
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:23]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:23]  Razor: Bandage: 4s
+[03/27/2023 10:23]  System: Your attack hinders your target!
+[03/27/2023 10:23]  System: You have gained a little fame.
+[03/27/2023 10:23]  System: You have gained a little karma.
+[03/27/2023 10:23]  Stink Fist: (Fire Aspect 824.4/1000 xp)
+[03/27/2023 10:23]  Stink Fist: (Earth Aspect 2,535.5/3500 xp)
+[03/27/2023 10:23]  System: -63
+[03/27/2023 10:23]  You see: a primordial whelp corpse
+[03/27/2023 10:23]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:23]  System: You carve materials from the corpse.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: You smash through the remainder of their armor, dealing grevious damage! [2]
+[03/27/2023 10:23]  Razor: Bandage: 3s
+[03/27/2023 10:23]  Razor: Bandage: 2s
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: Bandage: 1s
+[03/27/2023 10:23]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:23]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: You finish applying the bandages.
+[03/27/2023 10:23]  Stink Fist: +9
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Gin: Gin the stablemaster
+[03/27/2023 10:23]  Erasma: Erasma the dockmaster
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  a tribal hunter: a tribal hunter
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  Razor: found no one
+[03/27/2023 10:23]  System: No one matching that was found on your screen.
+[03/27/2023 10:23]  a tribal shaman: a tribal shaman
+[03/27/2023 10:23]  a tribal hunter: a tribal hunter
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: Target: a tribal hunter
+[03/27/2023 10:23]  a tribal chieftain: a tribal chieftain
+[03/27/2023 10:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:23]  Razor: Attack: a tribal hunter
+[03/27/2023 10:23]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:23]  Stink Fist: -4
+[03/27/2023 10:23]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:23]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:23]  System: You fail to disarm your opponent.
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: Divine Fury
+[03/27/2023 10:23]  System: Divine Fury
+[03/27/2023 10:23]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:23]  System: Who will you use the bandages on?
+[03/27/2023 10:23]  System: You begin applying the bandages.
+[03/27/2023 10:23]  Razor: Bandage: 10s
+[03/27/2023 10:23]  a tribal hunter: -40
+[03/27/2023 10:23]  System: New target set.
+[03/27/2023 10:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:23]  Razor: Bandage: 9s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:24]  a tribal hunter: -56
+[03/27/2023 10:24]  Razor: Bandage: 8s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 7s
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  a tribal hunter: -58
+[03/27/2023 10:24]  Razor: Bandage: 6s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 5s
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: Sbeccabbeteo has completed the achievement: Wilderness Hunter (Basic).
+[03/27/2023 10:24]  Razor: Bandage: 4s
+[03/27/2023 10:24]  a tribal hunter: -50
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 3s
+[03/27/2023 10:24]  Stink Fist: -12
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:24]  a tribal hunter: -50
+[03/27/2023 10:24]  Razor: Bandage: 2s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:24]  Razor: Bandage: 1s
+[03/27/2023 10:24]  System: You finish applying the bandages.
+[03/27/2023 10:24]  Stink Fist: +14
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.477%
+[03/27/2023 10:24]  System: The world will save in 15 seconds.
+[03/27/2023 10:24]  Razor: World save coming soon..
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Stink Fist: -3
+[03/27/2023 10:24]  System: Who will you use the bandages on?
+[03/27/2023 10:24]  System: You begin applying the bandages.
+[03/27/2023 10:24]  Razor: Bandage: 10s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:24]  a tribal hunter: -46
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.594% [2]
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.113% [2]
+[03/27/2023 10:24]  Razor: Bandage: 9s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 8s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  System: Your strike disarms your target!
+[03/27/2023 10:24]  a tribal hunter: -51
+[03/27/2023 10:24]  Razor: Bandage: 7s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Stink Fist: -10
+[03/27/2023 10:24]  System: Your fingers slip!
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:24]  a tribal hunter: -35
+[03/27/2023 10:24]  Razor: Bandage: 6s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 5s
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  a tribal hunter: -228
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 4s
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  a tribal hunter: -220
+[03/27/2023 10:24]  Stink Fist: -11
+[03/27/2023 10:24]  Razor: Bandage: 3s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:24]  a tribal hunter: -59
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591% [2]
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  Razor: Bandage: 2s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:24]  a tribal hunter: -314
+[03/27/2023 10:24]  Razor: Bandage: 1s
+[03/27/2023 10:24]  System: You finish applying the bandages.
+[03/27/2023 10:24]  Stink Fist: +22
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.477%
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  a tribal hunter: -71
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  a tribal hunter: -76
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591% [2]
+[03/27/2023 10:24]  Stink Fist: -3
+[03/27/2023 10:24]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  a tribal hunter: -172
+[03/27/2023 10:24]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: Who will you use the bandages on?
+[03/27/2023 10:24]  System: You begin applying the bandages.
+[03/27/2023 10:24]  Razor: Bandage: 10s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  a tribal hunter: -85
+[03/27/2023 10:24]  System: The world is saving, please wait.
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  Razor: Waiting for world save...
+[03/27/2023 10:24]  System: World save complete. The entire process took 4.8 seconds.
+[03/27/2023 10:24]  You see: a blessed codex of parrying
+[03/27/2023 10:24]  You see: (Bulwark and Last Stand)
+[03/27/2023 10:24]  System: You deactivate your stance.
+[03/27/2023 10:24]  Razor: Save complete - continue on!
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:24]  a tribal hunter: -86
+[03/27/2023 10:24]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:24]  Stink Fist: -3
+[03/27/2023 10:24]  Razor: Bandage: 5s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  Razor: Divine Fury
+[03/27/2023 10:24]  System: Divine Fury
+[03/27/2023 10:24]  Razor: Bandage: 4s
+[03/27/2023 10:24]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 3s
+[03/27/2023 10:24]  Razor: Bandage: 2s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  a tribal hunter: -81
+[03/27/2023 10:24]  System: You deliver a zen strike to your opponent.
+[03/27/2023 10:24]  Stink Fist: +5
+[03/27/2023 10:24]  System: some damage has been healed : 5
+[03/27/2023 10:24]  System: You have gained some fame.
+[03/27/2023 10:24]  System: You have gained some karma.
+[03/27/2023 10:24]  Stink Fist: (Fire Aspect 826.8/1000 xp)
+[03/27/2023 10:24]  Stink Fist: (Earth Aspect 2,537.9/3500 xp)
+[03/27/2023 10:24]  System: -222
+[03/27/2023 10:24]  You see: a forest ostard corpse
+[03/27/2023 10:24]  You see: a tribal hunter corpse
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:24]  Razor: Bandage: 1s
+[03/27/2023 10:24]  System: You heal what little damage you had.
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:24]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:24]  System: You carve materials from the corpse.
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Target: a tribal shaman
+[03/27/2023 10:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:24]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: You dont see anything nearby worth carving or investigating.
+[03/27/2023 10:24]  System: You carve materials from the corpse.
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Target: a tribal shaman
+[03/27/2023 10:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:24]  Stink Fist: Bulwark stance activated.
+[03/27/2023 10:24]  System: You deactivate your finisher.
+[03/27/2023 10:24]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: No one matching that was found on your screen.
+[03/27/2023 10:24]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:24]  Razor: found no one
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Attack: a tribal shaman
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Target: a tribal hunter
+[03/27/2023 10:24]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:24]  Razor: [DISARM]
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  Razor: Attack: a tribal hunter
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  System: Your strike disarms your target!
+[03/27/2023 10:24]  a tribal hunter: -64
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  a tribal hunter: -135
+[03/27/2023 10:24]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:24]  a tribal hunter: -301
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Stink Fist: -14
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:24]  a tribal hunter: -79
+[03/27/2023 10:24]  System: Wrestling stance adoption expired.
+[03/27/2023 10:24]  Stink Fist: Last Stand finisher activated.
+[03/27/2023 10:24]  a tribal hunter: -128
+[03/27/2023 10:24]  System: Who will you use the bandages on?
+[03/27/2023 10:24]  System: You begin applying the bandages.
+[03/27/2023 10:24]  Razor: Bandage: 10s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  a tribal hunter: -59
+[03/27/2023 10:24]  Razor: Bandage: 9s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  Stink Fist: -3
+[03/27/2023 10:24]  System: Your fingers slip!
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:24]  a tribal hunter: -42
+[03/27/2023 10:24]  Razor: Bandage: 8s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[03/27/2023 10:24]  a tribal hunter: -166
+[03/27/2023 10:24]  Razor: Bandage: 7s
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  Razor: Bandage: 6s
+[03/27/2023 10:24]  a tribal hunter: -85
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 5s
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.108% [2]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.591% [2]
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:24]  Razor: Bandage: 4s
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:24]  a tribal hunter: -72
+[03/27/2023 10:24]  Razor: Bandage: 3s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: Bandage: 2s
+[03/27/2023 10:24]  a tribal shaman: a tribal shaman
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:24]  a tribal hunter: -65
+[03/27/2023 10:24]  Razor: Bandage: 1s
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:24]  System: You finish applying the bandages.
+[03/27/2023 10:24]  Stink Fist: +15
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:24]  Stink Fist: -3
+[03/27/2023 10:24]  System: Who will you use the bandages on?
+[03/27/2023 10:24]  System: You begin applying the bandages.
+[03/27/2023 10:24]  Razor: Bandage: 10s
+[03/27/2023 10:24]  a tribal hunter: -53
+[03/27/2023 10:24]  System: New target set.
+[03/27/2023 10:24]  Stink Fist: -17
+[03/27/2023 10:24]  System: Your fingers slip!
+[03/27/2023 10:24]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:24]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:24]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:25]  Razor: Bandage: 9s
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  a tribal hunter: -140
+[03/27/2023 10:25]  Razor: Bandage: 8s
+[03/27/2023 10:25]  Razor: Divine Fury
+[03/27/2023 10:25]  System: Divine Fury
+[03/27/2023 10:25]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 6s
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:25]  Razor: Bandage: 5s
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  Razor: Bandage: 4s
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 3s
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:25]  a tribal hunter: -59
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 2s
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:25]  Razor: Bandage: 1s
+[03/27/2023 10:25]  System: You finish applying the bandages.
+[03/27/2023 10:25]  Stink Fist: +18
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.477%
+[03/27/2023 10:25]  Stink Fist: -17
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:25]  a tribal hunter: -70
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: Who will you use the bandages on?
+[03/27/2023 10:25]  System: You begin applying the bandages.
+[03/27/2023 10:25]  Razor: Bandage: 10s
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  a tribal hunter: -56
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:25]  a tribal shaman: a tribal shaman
+[03/27/2023 10:25]  Razor: Bandage: 9s
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.594%
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.113%
+[03/27/2023 10:25]  Razor: Bandage: 8s
+[03/27/2023 10:25]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:25]  Razor: [DISARM]
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:25]  System: Your strike disarms your target!
+[03/27/2023 10:25]  System: You smash through the remainder of their armor, dealing grevious damage!
+[03/27/2023 10:25]  a tribal hunter: -124
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 7s
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  Razor: Bandage: 6s
+[03/27/2023 10:25]  a tribal hunter: -160
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:25]  Stink Fist: -2
+[03/27/2023 10:25]  System: Your fingers slip!
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 5s
+[03/27/2023 10:25]  a tribal hunter: -90
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 4s
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:25]  System: Your attack cripples your target, lowering their defense!
+[03/27/2023 10:25]  System: You have gained some fame.
+[03/27/2023 10:25]  System: You have gained some karma.
+[03/27/2023 10:25]  Stink Fist: (Fire Aspect 829.2/1000 xp)
+[03/27/2023 10:25]  Stink Fist: (Earth Aspect 2,540.3/3500 xp)
+[03/27/2023 10:25]  System: -52
+[03/27/2023 10:25]  You see: a forest ostard corpse
+[03/27/2023 10:25]  You see: a tribal hunter corpse
+[03/27/2023 10:25]  Razor: Bandage: 3s
+[03/27/2023 10:25]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:25]  System: You carve materials from the corpse.
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: Bandage: 2s
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  Razor: Bandage: 1s
+[03/27/2023 10:25]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:25]  System: You finish applying the bandages.
+[03/27/2023 10:25]  Stink Fist: +17
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  System: You carve materials from the corpse.
+[03/27/2023 10:25]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:25]  System: You dont see anything nearby worth carving or investigating.
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  a thrush: a thrush
+[03/27/2023 10:25]  a giant frog: a giant frog
+[03/27/2023 10:25]  a colossal frog: a colossal frog
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Target: a colossal frog
+[03/27/2023 10:25]  a magpie: a magpie
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:25]  Razor: Attack: a colossal frog
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:25]  System: Your attack hinders your target!
+[03/27/2023 10:25]  a colossal frog: -138
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  a colossal frog: *regens*
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  Razor: Divine Fury
+[03/27/2023 10:25]  System: Divine Fury
+[03/27/2023 10:25]  a colossal frog: -64
+[03/27/2023 10:25]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  a colossal frog: -38
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102% [2]
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588% [2]
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  a colossal frog: -48
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  a colossal frog: -79
+[03/27/2023 10:25]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  a colossal frog: -64
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102% [3]
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588% [3]
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: You have gained a little fame.
+[03/27/2023 10:25]  System: You have gained a little karma.
+[03/27/2023 10:25]  Stink Fist: (Fire Aspect 829.5/1000 xp)
+[03/27/2023 10:25]  Stink Fist: (Earth Aspect 2,540.6/3500 xp)
+[03/27/2023 10:25]  System: -9
+[03/27/2023 10:25]  You see: a colossal frog corpse
+[03/27/2023 10:25]  Razor: chug
+[03/27/2023 10:25]  System: You increase your damage resistance to creature-casted spells.
+[03/27/2023 10:25]  Razor: [-Magic Resist Potion (s)]
+[03/27/2023 10:25]  Razor: [+Magic Resist Potion (158s)]
+[03/27/2023 10:25]  System: You must wait to perform another action.
+[03/27/2023 10:25]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:25]  System: You carve materials from the corpse.
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Target: a giant frog
+[03/27/2023 10:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:25]  Razor: Attack: a giant frog
+[03/27/2023 10:25]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:25]  Razor: [DISARM]
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:25]  Stink Fist: -2
+[03/27/2023 10:25]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:25]  System: Your strike disarms your target!
+[03/27/2023 10:25]  a giant frog: -125
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:25]  a giant frog: *regens*
+[03/27/2023 10:25]  System: Who will you use the bandages on?
+[03/27/2023 10:25]  System: You begin applying the bandages.
+[03/27/2023 10:25]  Razor: Bandage: 10s
+[03/27/2023 10:25]  a giant frog: -54
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Bandage: 9s
+[03/27/2023 10:25]  System: You have gained a little fame.
+[03/27/2023 10:25]  System: You have gained a little karma.
+[03/27/2023 10:25]  Stink Fist: (Fire Aspect 829.8/1000 xp)
+[03/27/2023 10:25]  Stink Fist: (Earth Aspect 2,540.9/3500 xp)
+[03/27/2023 10:25]  System: -41
+[03/27/2023 10:25]  You see: a giant frog corpse
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.102%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.588%
+[03/27/2023 10:25]  System: You carve materials from the corpse.
+[03/27/2023 10:25]  Razor: Bandage: 8s
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.108%
+[03/27/2023 10:25]  System: Chivalry skillgain: 0.591%
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  Razor: Bandage: 7s
+[03/27/2023 10:25]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:25]  Razor: Bandage: 6s
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  Razor: Bandage: 5s
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: Bandage: 4s
+[03/27/2023 10:25]  a magpie: a magpie
+[03/27/2023 10:25]  Razor: Bandage: 3s
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  Razor: Bandage: 2s
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  an ophidian mage: an ophidian mage
+[03/27/2023 10:25]  Razor: Bandage: 1s
+[03/27/2023 10:25]  System: You heal what little damage you had.
+[03/27/2023 10:25]  System: Anatomy skillgain: 1.470%
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  Razor: found no one
+[03/27/2023 10:25]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:25]  Razor: [-Strength (s)]
+[03/27/2023 10:25]  Razor: [-Agility (s)]
+[03/27/2023 10:25]  Razor: [-Cunning (s)]
+[03/27/2023 10:25]  a corpser: a corpser
+[03/27/2023 10:25]  System: No one matching that was found on your screen.
+[03/27/2023 10:25]  System: New target set.
+[03/27/2023 10:25]  Razor: Target: an ophidian mage
+[03/27/2023 10:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:25]  Razor: Attack: an ophidian mage
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  System: You absorb their spell.
+[03/27/2023 10:26]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:26]  System: Your strength has changed by -10.  It is now 100
+[03/27/2023 10:26]  System: Your dexterity has changed by -10.  It is now 100
+[03/27/2023 10:26]  System: Your intelligence has changed by -10.  It is now 25
+[03/27/2023 10:26]  Razor: Str: -10 - 100
+[03/27/2023 10:26]  Razor: Dex: -10 - 100
+[03/27/2023 10:26]  Razor: Int: -10 - 25
+[03/27/2023 10:26]  Stink Fist: -3
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:26]  System: Who will you use the bandages on?
+[03/27/2023 10:26]  Razor: [-Protection (s)]
+[03/27/2023 10:26]  System: You begin applying the bandages.
+[03/27/2023 10:26]  Razor: Bandage: 10s
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Razor: Bandage: 9s
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:26]  Razor: Bandage: 8s
+[03/27/2023 10:26]  Stink Fist: -13
+[03/27/2023 10:26]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:26]  Razor: Bandage: 7s
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Razor: Bandage: 6s
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:26]  Razor: Bandage: 5s
+[03/27/2023 10:26]  Razor: Bandage: 4s
+[03/27/2023 10:26]  Razor: chug
+[03/27/2023 10:26]  Razor: Attack: an ophidian mage
+[03/27/2023 10:26]  System: Your dexterity has changed by 20.  It is now 120
+[03/27/2023 10:26]  Razor: [+Agility (158s)]
+[03/27/2023 10:26]  Razor: Dex: +20 - 120
+[03/27/2023 10:26]  Razor: [-Agility (s)]
+[03/27/2023 10:26]  Razor: [+Agility (158s)]
+[03/27/2023 10:26]  Razor: chug refresh
+[03/27/2023 10:26]  Stink Fist: -10
+[03/27/2023 10:26]  Razor: chug
+[03/27/2023 10:26]  Razor: Bandage: 3s
+[03/27/2023 10:26]  Razor: Attack: an ophidian mage
+[03/27/2023 10:26]  System: Your strength has changed by 20.  It is now 120
+[03/27/2023 10:26]  Razor: [+Strength (158s)]
+[03/27/2023 10:26]  Razor: Str: +20 - 120
+[03/27/2023 10:26]  Razor: [-Strength (s)]
+[03/27/2023 10:26]  Razor: [+Strength (158s)]
+[03/27/2023 10:26]  System: Finished 3 queued actions in 1.2 seconds.
+[03/27/2023 10:26]  Razor: Bandage: 2s
+[03/27/2023 10:26]  Razor: Bandage: 1s
+[03/27/2023 10:26]  System: You absorb their spell.
+[03/27/2023 10:26]  Stink Fist: -2
+[03/27/2023 10:26]  System: Your fingers slip!
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  System: You finish applying the bandages.
+[03/27/2023 10:26]  Stink Fist: +46
+[03/27/2023 10:26]  System: Anatomy skillgain: 1.286%
+[03/27/2023 10:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Stink Fist: -9
+[03/27/2023 10:26]  System: New target set.
+[03/27/2023 10:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:26]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:26]  Razor: [DISARM]
+[03/27/2023 10:26]  System: Who will you use the bandages on?
+[03/27/2023 10:26]  System: You begin applying the bandages.
+[03/27/2023 10:26]  Razor: Bandage: 10s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: Bandage: 9s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: found no one
+[03/27/2023 10:26]  Stink Fist: -13
+[03/27/2023 10:26]  System: Your fingers slip!
+[03/27/2023 10:26]  Razor: Bandage: 8s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: Bandage: 7s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: Bandage: 6s
+[03/27/2023 10:26]  Razor: found no one
+[03/27/2023 10:26]  Razor: Bandage: 5s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: Bandage: 4s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: found no one
+[03/27/2023 10:26]  Razor: Bandage: 3s
+[03/27/2023 10:26]  Razor: Bandage: 2s
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: Bandage: 1s
+[03/27/2023 10:26]  System: You finish applying the bandages.
+[03/27/2023 10:26]  Stink Fist: +20
+[03/27/2023 10:26]  System: Anatomy skillgain: 1.286%
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  Razor: found no one
+[03/27/2023 10:26]  System: No one matching that was found on your screen.
+[03/27/2023 10:26]  System: Playing Macro 'Escape'...
+[03/27/2023 10:26]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:26]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:26]  System: You are now under the protection of the town guards.
+[03/27/2023 10:26]  Catak: [Beard Brother, BB]
+[03/27/2023 10:26]  Catak: Catak
+[03/27/2023 10:26]  Devil's Spawn: Legendarily Triggered
+[03/27/2023 10:26]  Devil's Spawn: [Tru Poo Flinger, NDA]
+[03/27/2023 10:26]  Devil's Spawn: Devil's Spawn
+[03/27/2023 10:26]  Trampeiro Br: Trampeiro Br
+[03/27/2023 10:26]  an andarian mage: an andarian mage
+[03/27/2023 10:26]  Candida: Candida the cobbler
+[03/27/2023 10:26]  a: (tame)
+[03/27/2023 10:26]  a: a
+[03/27/2023 10:26]  Leiko: Leiko the tinker
+[03/27/2023 10:26]  System: Holy symbols remaining: 9/10
+[03/27/2023 10:26]  System: No item of type halberd (143E) found!
+[03/27/2023 10:26]  System: Macro 'Escape' finished.
+[03/27/2023 10:26]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:26]  Stoyan: Stoyan the tinker
+[03/27/2023 10:26]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:26]  Pimbo: Pimbo
+[03/27/2023 10:26]  Rigsby: [Path]
+[03/27/2023 10:26]  Rigsby: Rigsby
+[03/27/2023 10:26]  a horse: (tame)
+[03/27/2023 10:26]  a horse: a horse
+[03/27/2023 10:26]  Bart: Bart the Town Crier
+[03/27/2023 10:26]  Killian: Killian the jeweler
+[03/27/2023 10:26]  Piano Man: [The Tavern], [tT]
+[03/27/2023 10:26]  Piano Man: Piano Man
+[03/27/2023 10:26]  System: Opening door...
+[03/27/2023 10:26]  Hexiz: [The Tavern], [tT]
+[03/27/2023 10:26]  Hexiz: Hexiz
+[03/27/2023 10:26]  a: (bonded)
+[03/27/2023 10:26]  a: a
+[03/27/2023 10:26]  a: (bonded)
+[03/27/2023 10:26]  a: a
+[03/27/2023 10:26]  a: (bonded)
+[03/27/2023 10:26]  a: a
+[03/27/2023 10:26]  a: (bonded)
+[03/27/2023 10:26]  a: a
+[03/27/2023 10:26]  Poseman: [The Tavern], [tT]
+[03/27/2023 10:26]  Poseman: Poseman
+[03/27/2023 10:26]  Killian: Killian the jeweler
+[03/27/2023 10:26]  System: Opening door...
+[03/27/2023 10:26]  Leiko: Leiko the tinker
+[03/27/2023 10:27]  Shani: Shani the mage
+[03/27/2023 10:27]  a dog: a dog
+[03/27/2023 10:27]  a dog: a dog
+[03/27/2023 10:27]  a cat: a cat
+[03/27/2023 10:27]  a dog: a dog
+[03/27/2023 10:27]  a cat: a cat
+[03/27/2023 10:27]  Kelli: Kelli the mage
+[03/27/2023 10:27]  Brianna Love: Brianna Love
+[03/27/2023 10:27]  a dog: a dog
+[03/27/2023 10:27]  Slevin: Slevin the scribe
+[03/27/2023 10:27]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:27]  Stink Fist: Flam Sanct [Reactive Armor]
+[03/27/2023 10:27]  Razor: [+Reactive Armor (0s)]
+[03/27/2023 10:27]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:27]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:27]  Razor: [+Paralyze (0s)]
+[03/27/2023 10:27]  Razor: [-Paralyze (s)]
+[03/27/2023 10:27]  System: You are no longer hindered.
+[03/27/2023 10:27]  System: You have left the protection of the town guards.
+[03/27/2023 10:27]  System: You receive a Sacred Journey damage bonus of 5.1% for the next 30 minutes.
+[03/27/2023 10:27]  a snow flurry: a snow flurry
+[03/27/2023 10:27]  a frostbane acolyte: a frostbane acolyte
+[03/27/2023 10:27]  a snow elemental: a snow elemental
+[03/27/2023 10:27]  a snow elemental: a snow elemental
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052%
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561%
+[03/27/2023 10:27]  System: You fail to disarm your opponent.
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: Target: a snow flurry
+[03/27/2023 10:27]  System: Holy symbols remaining: 6/10
+[03/27/2023 10:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:27]  Razor: Attack: a snow flurry
+[03/27/2023 10:27]  System: You absorb their spell.
+[03/27/2023 10:27]  Stink Fist: -1
+[03/27/2023 10:27]  Razor: Divine Fury
+[03/27/2023 10:27]  System: Divine Fury
+[03/27/2023 10:27]  System: Holy symbols remaining: 2/10
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052% [2]
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561% [2]
+[03/27/2023 10:27]  System: Who will you use the bandages on?
+[03/27/2023 10:27]  System: You begin applying the bandages.
+[03/27/2023 10:27]  Razor: Bandage: 10s
+[03/27/2023 10:27]  Razor: Bandage: 9s
+[03/27/2023 10:27]  System: You absorb their spell.
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Stink Fist: -3
+[03/27/2023 10:27]  System: Your fingers slip!
+[03/27/2023 10:27]  Razor: Bandage: 8s
+[03/27/2023 10:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:27]  Razor: Bandage: 7s
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.057%
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.564%
+[03/27/2023 10:27]  a snow flurry: -65
+[03/27/2023 10:27]  Stink Fist: -3
+[03/27/2023 10:27]  Razor: Bandage: 6s
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: Bandage: 5s
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052%
+[03/27/2023 10:27]  System: Your skill in Alchemy has decreased by 0.1.  It is now 8.0.
+[03/27/2023 10:27]  System: Your skill in Anatomy has increased by 0.1.  It is now 90.5.
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561%
+[03/27/2023 10:27]  a snow flurry: -19
+[03/27/2023 10:27]  System: You feel chilled and your metabolism slowed!
+[03/27/2023 10:27]  System: Your reactive armor spell has expired.
+[03/27/2023 10:27]  System: Your reactive armor spell has been nullified.
+[03/27/2023 10:27]  Stink Fist: -3
+[03/27/2023 10:27]  Razor: [Alchemy] -0.1 8.0 (-0.3)
+[03/27/2023 10:27]  Razor: [Anatomy] +0.1 90.5 (+0.2)
+[03/27/2023 10:27]  Razor: [-Reactive Armor (s)]
+[03/27/2023 10:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:27]  System: Your fingers slip!
+[03/27/2023 10:27]  Razor: Bandage: 4s
+[03/27/2023 10:27]  System: Your attack hinders your target!
+[03/27/2023 10:27]  a snow flurry: -149
+[03/27/2023 10:27]  Razor: Bandage: 3s
+[03/27/2023 10:27]  a snow flurry: -140
+[03/27/2023 10:27]  Razor: Bandage: 2s
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052% [2]
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561% [2]
+[03/27/2023 10:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:27]  a snow flurry: -36
+[03/27/2023 10:27]  Razor: Bandage: 1s
+[03/27/2023 10:27]  System: You finish applying the bandages.
+[03/27/2023 10:27]  Stink Fist: +8
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.403%
+[03/27/2023 10:27]  a snow flurry: -86
+[03/27/2023 10:27]  System: You feel chilled and your metabolism slowed!
+[03/27/2023 10:27]  Stink Fist: -3
+[03/27/2023 10:27]  System: Who will you use the bandages on?
+[03/27/2023 10:27]  System: You begin applying the bandages.
+[03/27/2023 10:27]  Razor: Bandage: 10s
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.057%
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.564%
+[03/27/2023 10:27]  System: Your strike disarms your target!
+[03/27/2023 10:27]  a snow flurry: -86
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:27]  Razor: Bandage: 9s
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052% [2]
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561% [2]
+[03/27/2023 10:27]  a snow flurry: -116
+[03/27/2023 10:27]  Stink Fist: -2
+[03/27/2023 10:27]  Razor: Bandage: 8s
+[03/27/2023 10:27]  a snow flurry: -74
+[03/27/2023 10:27]  Razor: Bandage: 7s
+[03/27/2023 10:27]  a snow flurry: -25
+[03/27/2023 10:27]  System: You deliver a zen strike to your opponent.
+[03/27/2023 10:27]  Stink Fist: +4
+[03/27/2023 10:27]  System: some damage has been healed : 4
+[03/27/2023 10:27]  a snow flurry: -110
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: Bandage: 6s
+[03/27/2023 10:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052% [3]
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561% [3]
+[03/27/2023 10:27]  Razor: Bandage: 5s
+[03/27/2023 10:27]  Razor: Bandage: 4s
+[03/27/2023 10:27]  a snow flurry: -61
+[03/27/2023 10:27]  Stink Fist: -8
+[03/27/2023 10:27]  System: Your fingers slip!
+[03/27/2023 10:27]  Razor: Bandage: 3s
+[03/27/2023 10:27]  a snow flurry: -12
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[03/27/2023 10:27]  Razor: Bandage: 2s
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052% [3]
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561% [3]
+[03/27/2023 10:27]  System: You have gained some fame.
+[03/27/2023 10:27]  System: You have gained some karma.
+[03/27/2023 10:27]  Stink Fist: (Fire Aspect 831.7/1000 xp)
+[03/27/2023 10:27]  Stink Fist: (Earth Aspect 2,542.8/3500 xp)
+[03/27/2023 10:27]  System: -21
+[03/27/2023 10:27]  You see: a snow flurry corpse
+[03/27/2023 10:27]  Razor: Bandage: 1s
+[03/27/2023 10:27]  System: You finish applying the bandages.
+[03/27/2023 10:27]  Stink Fist: +8
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.403%
+[03/27/2023 10:27]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:27]  System: You carve materials from the corpse.
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: Target: a frostbane acolyte
+[03/27/2023 10:27]  System: Anatomy skillgain: 1.052%
+[03/27/2023 10:27]  System: Chivalry skillgain: 0.561%
+[03/27/2023 10:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:27]  System: [GridLoot]: Corpse is empty!
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:27]  System: Holy symbols remaining: 7/10
+[03/27/2023 10:27]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:27]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:27]  System: New target set.
+[03/27/2023 10:27]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[03/27/2023 10:27]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[03/27/2023 10:27]  You see: a troll corpse
+[03/27/2023 10:27]  Rane: Rane the dockmaster
+[03/27/2023 10:27]  System: What do you wish to carve, investigate, or research?
+[03/27/2023 10:27]  System: You dont see anything nearby worth carving or investigating.
+[03/27/2023 10:27]  System: Opening door...
+[03/27/2023 10:27]  System: Your house and its contents have been refreshed. 28 days 46 minutes remaining until owner refresh required.
+[03/27/2023 10:27]  System: No one matching that was found on your screen.
+[03/27/2023 10:27]  Razor: found no one
+[03/27/2023 10:27]  System: No one matching that was found on your screen.
+[03/27/2023 10:27]  Razor: found no one
+[03/27/2023 10:28]  Razor:  Scanning for rat 
+[03/27/2023 10:28]  System: Where will you search?
+[03/27/2023 10:28]  System: You search the home and find no one hiding within.
+[03/27/2023 10:28]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[03/27/2023 10:28]  Rane: Rane the dockmaster
+[03/27/2023 10:28]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:28]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[03/27/2023 10:28]  System: 17 items were added.
+[03/27/2023 10:28]  System: You may now attempt to disarm your opponent again.
+[03/27/2023 10:28]  Razor: [DISARM]
+[03/27/2023 10:28]  System: Finished 3 queued actions in 1.2 seconds.
+[03/27/2023 10:28]  System: You may now use an agility potion.
+[03/27/2023 10:28]  Razor: Ignoring force undead slaying fire aspect martial manual
+[03/27/2023 10:28]  System: You may now use a strength potion.
+[03/27/2023 10:28]  System: Resupply complete.
+[03/27/2023 10:28]  System: Set Grab Item HotBag
+[03/27/2023 10:28]  System: Grab Item HotBag Set
+[03/27/2023 10:28]  Razor: Organize Open Pouches
+[03/27/2023 10:28]  System: You must wait to perform another action.
+[03/27/2023 10:28]  System: Finished 2 queued actions in 0.6 seconds.
+[03/27/2023 10:28]  Razor: Organize Trapped Pouches
+[03/27/2023 10:28]  Razor: Organize Trapped Pouches
+[03/27/2023 10:28]  Razor: Organize Trapped Pouches
+[03/27/2023 10:28]  Razor: Organize Trapped Pouches
+[03/27/2023 10:28]  Razor: Organize Trapped Pouches
+[03/27/2023 10:28]  Razor: Organize Orange Potions
+[03/27/2023 10:28]  Razor: Organize Red Potions
+[03/27/2023 10:28]  Razor: Organize Yellow Potions
+[03/27/2023 10:28]  Razor: Organize White Potions
+[03/27/2023 10:28]  Razor: Organize Black Potions
+[03/27/2023 10:28]  Razor: Organize Blue Potions
+[03/27/2023 10:28]  System: Your magic resist potion has worn off.
+[03/27/2023 10:28]  Razor: [-Magic Resist Potion (s)]
+[03/27/2023 10:28]  Razor: Organize Aids
+[03/27/2023 10:28]  Razor: Organize Rope
+[03/27/2023 10:28]  Razor: Open Untrapped Pouches
+[03/27/2023 10:28]  Razor: Out of scrolls!
+[03/27/2023 10:28]  Razor: Out of scrolls!
+[03/27/2023 10:28]  Zanarkand: Boss Slayer
+[03/27/2023 10:28]  Zanarkand: [Recruit, -_-]
+[03/27/2023 10:28]  Zanarkand: Lord Zanarkand
+[03/27/2023 10:28]  an ancient mummy: (summoned)
+[03/27/2023 10:28]  an ancient mummy: an ancient mummy
+[03/27/2023 10:28]  an ancient mummy: (summoned)
+[03/27/2023 10:28]  an ancient mummy: an ancient mummy
+[03/27/2023 10:28]  an ancient mummy: *regens*
+[03/27/2023 10:28]  System: Your dexterity has changed by -20.  It is now 100
+[03/27/2023 10:28]  Razor: [-Agility (s)]
+[03/27/2023 10:28]  Razor: Dex: -20 - 100
+[03/27/2023 10:28]  System: Old Noodles has completed the achievement: Affluent (Basic).
+[03/27/2023 10:28]  System: Your strength has changed by -20.  It is now 100
+[03/27/2023 10:28]  Razor: [-Strength (s)]
+[03/27/2023 10:28]  Razor: Str: -20 - 100
+[03/27/2023 10:28]  an ancient mummy: *regens*
+[03/27/2023 10:29]  an ancient mummy: *regens*
+[03/27/2023 10:29]  an eagle: an eagle
+[03/27/2023 10:29]  System: You pour some of the keg's contents into an empty bottle...
+[03/27/2023 10:29]  System: ...and place it into your backpack.
+[03/27/2023 10:29]  System: ...and place it into your backpack. [2]
+[03/27/2023 10:29]  System: You pour some of the keg's contents into an empty bottle... [2]
+[03/27/2023 10:29]  Rane: Rane the dockmaster
+[03/27/2023 10:29]  an eagle: an eagle
+[03/27/2023 10:29]  You see: gold coin : 19788
+[03/27/2023 10:29]  You see: unidentified black staff
+[03/27/2023 10:29]  System: You add 25 recall charges to the rune tome.
+[03/27/2023 10:29]  You see: gold coin : 19788
+[03/27/2023 10:33]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:33]  Razor: [+Paralyze (0s)]
+[03/27/2023 10:33]  System: You are no longer hindered.
+[03/27/2023 10:33]  Razor: [-Paralyze (s)]
+[03/27/2023 10:33]  System: You are now under the protection of the town guards.
+[03/27/2023 10:33]  System: You receive a Sacred Journey damage bonus of 5.1% for the next 30 minutes.
+[03/27/2023 10:33]  Razor: [+Hidden/Stealthing (0s)]
+[03/27/2023 10:33]  Kellen: Kellen the stablemaster
+[03/27/2023 10:33]  Aristotle: Aristotle the stablemaster
+[03/27/2023 10:33]  Alden: Alden the stablemaster
+[03/27/2023 10:33]  an andarian footman: an andarian footman
+[03/27/2023 10:33]  Razor: [-Hidden/Stealthing (s)]
+[03/27/2023 10:33]  an andarian marksman: an andarian marksman
+[03/27/2023 10:33]  an andarian footman: an andarian footman
+[03/27/2023 10:33]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:33]  Ama: Ama the provisioner
+[03/27/2023 10:33]  Rhodanthe: Rhodanthe the cook
+[03/27/2023 10:33]  Raizel: Raizel the farmer
+[03/27/2023 10:33]  Elad: Elad the beekeeper
+[03/27/2023 10:33]  Morgan: Morgan the farmer
+[03/27/2023 10:33]  Azenitta: [Log Collector, LOGZ]
+[03/27/2023 10:33]  Azenitta: Azenitta
+[03/27/2023 10:33]  Roxanne: Roxanne the cobbler
+[03/27/2023 10:33]  Standford: Standford the cook
+[03/27/2023 10:33]  Ammon: Ammon the tanner
+[03/27/2023 10:33]  Anna: Anna the tanner
+[03/27/2023 10:33]  Kelvin: Kelvin the tinker
+[03/27/2023 10:33]  Bane: Bane the tanner
+[03/27/2023 10:33]  Anglerholic: Anglerholic
+[03/27/2023 10:33]  Prescot: Prescot the tailor
+[03/27/2023 10:33]  Gunther: Gunther the tailor
+[03/27/2023 10:33]  a dog: a dog
+[03/27/2023 10:33]  Bethany: Bethany the weaponsmith
+[03/27/2023 10:33]  Mercer: Mercer the blacksmith
+[03/27/2023 10:33]  Serilda: Serilda the armorer
+[03/27/2023 10:33]  You see: a dog corpse
+[03/27/2023 10:33]  a cat: a cat
+[03/27/2023 10:33]  a cat: a cat
+[03/27/2023 10:33]  an andarian marksman: an andarian marksman
+[03/27/2023 10:33]  a dog: a dog
+[03/27/2023 10:33]  System: That is too far away.
+[03/27/2023 10:33]  Iain: Iain the innkeeper
+[03/27/2023 10:33]  Budo: Budo the stablemaster
+[03/27/2023 10:33]  Ferrox: Ferrox
+[03/27/2023 10:33]  Imsorry: [Guildmaster, JFB]
+[03/27/2023 10:33]  Imsorry: Imsorry
+[03/27/2023 10:33]  a dog: a dog
+[03/27/2023 10:33]  DricoLoco: DricoLoco
+[03/27/2023 10:33]  a cat: a cat
+[03/27/2023 10:33]  an andarian mage: an andarian mage
+[03/27/2023 10:33]  Candida: Candida the cobbler
+[03/27/2023 10:33]  Leiko: Leiko the tinker
+[03/27/2023 10:33]  Brianna Love: Brianna Love
+[03/27/2023 10:33]  Trampeiro Br: Trampeiro Br
+[03/27/2023 10:33]  a: (tame)
+[03/27/2023 10:33]  a: a
+[03/27/2023 10:33]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:33]  Catak: [Beard Brother, BB]
+[03/27/2023 10:33]  Catak: Catak
+[03/27/2023 10:33]  Devil's Spawn: Legendarily Triggered
+[03/27/2023 10:33]  Devil's Spawn: [Tru Poo Flinger, NDA]
+[03/27/2023 10:33]  Devil's Spawn: Devil's Spawn
+[03/27/2023 10:33]  Killian: Killian the jeweler
+[03/27/2023 10:33]  Stoyan: Stoyan the tinker
+[03/27/2023 10:33]  Pimbo: Pimbo
+[03/27/2023 10:33]  Bart: Bart the Town Crier
+[03/27/2023 10:33]  THC Lover: [Soldado, BRA]
+[03/27/2023 10:33]  THC Lover: THC Lover
+[03/27/2023 10:33]  Rok'war: Roll Player
+[03/27/2023 10:33]  Rok'war: [Recruit, -_-]
+[03/27/2023 10:33]  Rok'war: Rok'war
+[03/27/2023 10:33]  Roi: Roi the banker
+[03/27/2023 10:33]  Piano Man: [The Tavern], [tT]
+[03/27/2023 10:33]  Piano Man: Piano Man
+[03/27/2023 10:33]  Vampirella: [Veteran, Syn]
+[03/27/2023 10:33]  Vampirella: Vampirella
+[03/27/2023 10:33]  Orlantha: Orlantha the banker
+[03/27/2023 10:33]  Britta: Britta the banker
+[03/27/2023 10:33]  Devils Rejectt: [rekt]
+[03/27/2023 10:33]  Devils Rejectt: Devils Rejectt
+[03/27/2023 10:33]  Cinderrr: (bonded)
+[03/27/2023 10:33]  Cinderrr: Cinderrr
+[03/27/2023 10:33]  Toothdecay: (bonded)
+[03/27/2023 10:33]  Toothdecay: Toothdecay
+[03/27/2023 10:33]  Hopperrr: (bonded)
+[03/27/2023 10:33]  Hopperrr: Hopperrr
+[03/27/2023 10:33]  Inlands: Inlands
+[03/27/2023 10:33]  a horse: (tame)
+[03/27/2023 10:33]  a horse: a horse
+[03/27/2023 10:33]  aquiva: [Einherjar, O_R]
+[03/27/2023 10:33]  aquiva: aquiva
+[03/27/2023 10:33]  System: Playing Macro 'bank'...
+[03/27/2023 10:33]  System: Macro 'bank' finished.
+[03/27/2023 10:33]  Stink Fist: Bank Guards Vendor I ban thee
+[03/27/2023 10:33]  Stink Fist: Items: 19/125
+[03/27/2023 10:33]  Stink Fist: Total Weight: 3,099
+[03/27/2023 10:33]  Catak: Come visit HR Guild Vendors!  Rares! Special Loot! Supplies!
+[03/27/2023 10:33]  Catak: GM Arms and Armor! All Colors!
+[03/27/2023 10:33]  Catak: RETURN GATE LEADS TO SHELTER ISLAND
+[03/27/2023 10:33]  Yellow King: Yellow King
+[03/27/2023 10:33]  Killian: Killian the jeweler
+[03/27/2023 10:33]  Leiko: Leiko the tinker
+[03/27/2023 10:33]  an andarian mage: an andarian mage
+[03/27/2023 10:33]  an andarian mage: an andarian mage
+[03/27/2023 10:33]  Shani: Shani the mage
+[03/27/2023 10:33]  Kelli: Kelli the mage
+[03/27/2023 10:33]  a dog: a dog
+[03/27/2023 10:33]  a cat: a cat
+[03/27/2023 10:33]  a dog: a dog
+[03/27/2023 10:33]  a cat: a cat
+[03/27/2023 10:33]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:33]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:33]  Lockra: [Junior Phoenix, OFP]
+[03/27/2023 10:33]  Lockra: Lockra
+[03/27/2023 10:33]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[03/27/2023 10:33]  System: You have left the protection of the town guards.
+[03/27/2023 10:33]  Rane: Rane the dockmaster
+[03/27/2023 10:33]  an eagle: an eagle
+[03/27/2023 10:33]  System: Opening door...
+[03/27/2023 10:33]  System: Your house and its contents have been refreshed. 28 days 40 minutes remaining until owner refresh required.
+[03/27/2023 10:33]  Razor:  Scanning for rat 
+[03/27/2023 10:33]  System: Where will you search?
+[03/27/2023 10:33]  System: You search the home and find no one hiding within.
+[03/27/2023 10:33]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[03/27/2023 10:34]  Rane: Rane the dockmaster
+[03/27/2023 10:34]  System: Your food satisfaction effect has expired.
+[03/27/2023 10:34]  Razor: [-Food Satisfaction (s)]
+[03/27/2023 10:34]  System: Alchemy.ww has completed the achievement: Artificers Enclave Associate.
+[03/27/2023 10:34]  You see: spellbook
+[03/27/2023 10:34]  You see: (11 spells)
+[03/27/2023 10:34]  You see: [blessed]
+[03/27/2023 10:34]  System: EL Mago Oli has completed the achievement: Guardian of Cavernam (Basic).
+[03/27/2023 10:34]  You see: spellbook
+[03/27/2023 10:34]  You see: (21 spells)
+[03/27/2023 10:34]  You see: [blessed]
+[03/27/2023 10:34]  You see: spellbook
+[03/27/2023 10:34]  You see: (48 spells)
+[03/27/2023 10:34]  You see: [blessed]
+[03/27/2023 10:34]  You see: spellbook
+[03/27/2023 10:34]  You see: (21 spells)
+[03/27/2023 10:34]  You see: [blessed]
+[03/27/2023 10:34]  You see: a clothing alteration kit
+[03/27/2023 10:34]  You see: tailoring repair kit
+[03/27/2023 10:35]  You see: iron lockpicks
+[03/27/2023 10:35]  You see: (100 uses remaining)
+[03/27/2023 10:35]  You see: iron trap tool
+[03/27/2023 10:35]  You see: (100 uses remaining)
+[03/27/2023 10:35]  You see: iron trap tool
+[03/27/2023 10:35]  You see: (100 uses remaining)
+[03/27/2023 10:35]  You see: skinning knife
+[03/27/2023 10:35]  You see: (500 uses remaining)
+[03/27/2023 10:35]  You see: blank scroll : 25
+[03/27/2023 10:36]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:36]  Razor: [+Paralyze (0s)]
+[03/27/2023 10:36]  Razor: [-Paralyze (s)]
+[03/27/2023 10:36]  System: You are no longer hindered.
+[03/27/2023 10:36]  Rane: Rane the dockmaster
+[03/27/2023 10:36]  System: You are now under the protection of the town guards.
+[03/27/2023 10:36]  System: You receive a Sacred Journey damage bonus of 5.1% for the next 30 minutes.
+[03/27/2023 10:36]  Razor: [+Hidden/Stealthing (0s)]
+[03/27/2023 10:36]  Brickyboo: Brickyboo
+[03/27/2023 10:36]  Germain: Germain the weaponsmith
+[03/27/2023 10:36]  Abbott: Abbott the blacksmith
+[03/27/2023 10:36]  Gaye: Gaye the armorer
+[03/27/2023 10:36]  a dog: a dog
+[03/27/2023 10:36]  a cat: a cat
+[03/27/2023 10:36]  Avasa: Avasa the healer
+[03/27/2023 10:36]  an andarian marksman: an andarian marksman
+[03/27/2023 10:36]  Razor: [-Hidden/Stealthing (s)]
+[03/27/2023 10:36]  System: Being perfectly rested, you shove something invisible out of the way.
+[03/27/2023 10:36]  Razor: [Stealther]
+[03/27/2023 10:36]  a dog: a dog
+[03/27/2023 10:36]  a dog: a dog
+[03/27/2023 10:36]  Gerry: Gerry the healer
+[03/27/2023 10:36]  Canton: Canton the healer
+[03/27/2023 10:36]  Nasiche: Nasiche the bard
+[03/27/2023 10:36]  Inlands: Inlands
+[03/27/2023 10:36]  Orlantha: Orlantha the banker
+[03/27/2023 10:36]  Vampirella: [Veteran, Syn]
+[03/27/2023 10:36]  Vampirella: Vampirella
+[03/27/2023 10:36]  Rok'war: Roll Player
+[03/27/2023 10:36]  Rok'war: [Recruit, -_-]
+[03/27/2023 10:36]  Rok'war: Rok'war
+[03/27/2023 10:36]  Roi: Roi the banker
+[03/27/2023 10:36]  a defunct andarian golem (sieg: a defunct andarian golem (siege of King's Manor relic)
+[03/27/2023 10:36]  a horse: (tame)
+[03/27/2023 10:36]  a horse: a horse
+[03/27/2023 10:36]  Britta: Britta the banker
+[03/27/2023 10:36]  Bart: Bart the Town Crier
+[03/27/2023 10:36]  a cat: a cat
+[03/27/2023 10:36]  Piano Man: [The Tavern], [tT]
+[03/27/2023 10:36]  Piano Man: Piano Man
+[03/27/2023 10:36]  an andarian mage: an andarian mage
+[03/27/2023 10:36]  Peyton: Peyton the mage
+[03/27/2023 10:36]  System: Playing Macro 'bank'...
+[03/27/2023 10:36]  System: Macro 'bank' finished.
+[03/27/2023 10:36]  Stink Fist: Bank Guards Vendor I ban thee
+[03/27/2023 10:36]  Stink Fist: Items: 19/125
+[03/27/2023 10:36]  Stink Fist: Total Weight: 3,229
+[03/27/2023 10:36]  System: Bouquetlyn has completed the achievement: Scribe (Epic).
+[03/27/2023 10:36]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:36]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:36]  System: Your spellbook generates mana for your spell.
+[03/27/2023 10:36]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[03/27/2023 10:36]  System: You have left the protection of the town guards.
+[03/27/2023 10:36]  Rane: Rane the dockmaster
+[03/27/2023 10:36]  an eagle: an eagle
+[03/27/2023 10:36]  System: Opening door...
+[03/27/2023 10:36]  System: Your house and its contents have been refreshed. 28 days 38 minutes remaining until owner refresh required.
+[03/27/2023 10:36]  Razor:  Scanning for rat 
+[03/27/2023 10:36]  System: Where will you search?
+[03/27/2023 10:36]  System: You search the home and find no one hiding within.
+[03/27/2023 10:36]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[03/27/2023 10:36]  Rane: Rane the dockmaster
+[03/27/2023 10:36]  : floor
+[03/27/2023 10:36]  You see: gold coin : 6288
+[03/27/2023 10:37]  System: Devils Rejectt has completed the achievement: Triggered (Basic).
+[03/27/2023 10:37]  an eagle: an eagle
+[03/27/2023 10:37]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:37]  Razor: [+Paralyze (0s)]
+[03/27/2023 10:37]  System: You are no longer hindered.
+[03/27/2023 10:37]  Razor: [-Paralyze (s)]
+[03/27/2023 10:37]  Rane: Rane the dockmaster
+[03/27/2023 10:37]  System: You are now under the protection of the town guards.
+[03/27/2023 10:37]  System: You receive a Sacred Journey damage bonus of 5.1% for the next 30 minutes.
+[03/27/2023 10:37]  Razor: [+Hidden/Stealthing (0s)]
+[03/27/2023 10:37]  an andarian knight: an andarian knight
+[03/27/2023 10:37]  a cat: a cat
+[03/27/2023 10:37]  a dog: a dog
+[03/27/2023 10:37]  a dog: a dog
+[03/27/2023 10:37]  a dog: a dog
+[03/27/2023 10:37]  Dane: Dane the mage
+[03/27/2023 10:37]  an andarian footman: an andarian footman
+[03/27/2023 10:37]  Amadis: Amadis the scribe
+[03/27/2023 10:37]  Peyton: Peyton the mage
+[03/27/2023 10:37]  Rudyard: Rudyard the mage
+[03/27/2023 10:37]  Abira: Abira the scribe
+[03/27/2023 10:37]  [Guild][Jane Says]: got some Tmaps two third and one forth
+[03/27/2023 10:37]  Razor: [-Hidden/Stealthing (s)]
+[03/27/2023 10:37]  Shunnar: Shunnar the alchemist
+[03/27/2023 10:37]  Adrian: Adrian the alchemist
+[03/27/2023 10:37]  System: Arelon Holydawn has completed the achievement: Triggered (Basic).
+[03/27/2023 10:37]  a cat: a cat
+[03/27/2023 10:37]  EandF: EandF
+[03/27/2023 10:37]  Jeremy: Jeremy the stablemaster
+[03/27/2023 10:37]  Oakley: Oakley the waiter
+[03/27/2023 10:37]  Afra: Afra the tavern keeper
+[03/27/2023 10:37]  Sarai: Sarai the barkeep
+[03/27/2023 10:37]  Webb: Webb the cook
+[03/27/2023 10:37]  Rudyard: Rudyard the mage
+[03/27/2023 10:37]  an andarian mage: an andarian mage
+[03/27/2023 10:37]  Peyton: Peyton the mage
+[03/27/2023 10:37]  Killian: Killian the jeweler
+[03/27/2023 10:37]  an andarian mage: an andarian mage
+[03/27/2023 10:37]  Stoyan: Stoyan the tinker
+[03/27/2023 10:37]  Leiko: Leiko the tinker
+[03/27/2023 10:37]  a: (tame)
+[03/27/2023 10:37]  a: a
+[03/27/2023 10:37]  an andarian mage: an andarian mage
+[03/27/2023 10:37]  Trampeiro Br: Trampeiro Br
+[03/27/2023 10:37]  Devil's Spawn: Legendarily Triggered
+[03/27/2023 10:37]  Devil's Spawn: [Tru Poo Flinger, NDA]
+[03/27/2023 10:37]  Devil's Spawn: Devil's Spawn
+[03/27/2023 10:37]  Bart: Bart the Town Crier
+[03/27/2023 10:37]  Pimbo: Pimbo
+[03/27/2023 10:37]  Rok'war: Roll Player
+[03/27/2023 10:37]  Rok'war: [Recruit, -_-]
+[03/27/2023 10:37]  Rok'war: Rok'war
+[03/27/2023 10:37]  Roi: Roi the banker
+[03/27/2023 10:37]  Piano Man: [The Tavern], [tT]
+[03/27/2023 10:37]  Piano Man: Piano Man
+[03/27/2023 10:37]  Britta: Britta the banker
+[03/27/2023 10:37]  Orlantha: Orlantha the banker
+[03/27/2023 10:37]  Catak: [Beard Brother, BB]
+[03/27/2023 10:37]  Catak: Catak
+[03/27/2023 10:37]  Inlands: Inlands
+[03/27/2023 10:37]  a horse: (tame)
+[03/27/2023 10:37]  a horse: a horse
+[03/27/2023 10:37]  Catak: Kegs 2.4k!
+[03/27/2023 10:37]  Catak: RETURN GATE LEADS TO SHELTER ISLAND
+[03/27/2023 10:37]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:37]  System: Playing Macro 'bank'...
+[03/27/2023 10:37]  System: Macro 'bank' finished.
+[03/27/2023 10:37]  Stink Fist: Bank Guards Vendor I ban thee
+[03/27/2023 10:37]  Stink Fist: Items: 19/125
+[03/27/2023 10:37]  Stink Fist: Total Weight: 3,369
+[03/27/2023 10:38]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:38]  Leiko: Leiko the tinker
+[03/27/2023 10:38]  an andarian mage: an andarian mage
+[03/27/2023 10:38]  Candida: Candida the cobbler
+[03/27/2023 10:38]  a cat: a cat
+[03/27/2023 10:38]  a dog: a dog
+[03/27/2023 10:38]  a cat: a cat
+[03/27/2023 10:38]  a cat: a cat
+[03/27/2023 10:38]  a dog: a dog
+[03/27/2023 10:38]  Brianna Love: Brianna Love
+[03/27/2023 10:38]  a dog: a dog
+[03/27/2023 10:38]  a dog: a dog
+[03/27/2023 10:38]  a dog: a dog
+[03/27/2023 10:38]  a dog: a dog
+[03/27/2023 10:38]  a cat: a cat
+[03/27/2023 10:38]  Slevin: Slevin the scribe
+[03/27/2023 10:38]  Kelli: Kelli the mage
+[03/27/2023 10:38]  Shani: Shani the mage
+[03/27/2023 10:38]  Ines: Ines the alchemist
+[03/27/2023 10:38]  Mae: Mae the herbalist
+[03/27/2023 10:38]  Drizzt-Do-Urden: Lady Drizzt-Do-Urden
+[03/27/2023 10:38]  You see: a cow corpse
+[03/27/2023 10:38]  You see: a sheep corpse
+[03/27/2023 10:38]  a sheep: a sheep
+[03/27/2023 10:38]  You see: a sheep corpse
+[03/27/2023 10:38]  a cow: a cow
+[03/27/2023 10:38]  a sheep: a sheep
+[03/27/2023 10:38]  You see: a sheep corpse
+[03/27/2023 10:38]  a sheep: a sheep
+[03/27/2023 10:38]  Ravi: Ravi the farmer
+[03/27/2023 10:38]  System: You have left the protection of the town guards.
+[03/27/2023 10:38]  Anissa: Anissa the farmer
+[03/27/2023 10:38]  You see: a goat corpse
+[03/27/2023 10:38]  a goat: a goat
+[03/27/2023 10:38]  Marjorie: Marjorie the lumberjack
+[03/27/2023 10:38]  INVULNERABLE ARMOR: INVULNERABLE ARMOR
+[03/27/2023 10:38]  Craftenstein: Craftenstein
+[03/27/2023 10:38]  Craftenstein: Craftenstein
+[03/27/2023 10:38]  a great hart: a great hart
+[03/27/2023 10:38]  **ANDARIA GATE BM**: **ANDARIA GATE BM**
+[03/27/2023 10:38]  You see: a bird corpse
+[03/27/2023 10:38]  Skill Skrollz: Skill Skrollz
+[03/27/2023 10:38]  Mimmios Merch: Mimmios Merch
+[03/27/2023 10:38]  SKILL SCROLLS: SKILL SCROLLS
+[03/27/2023 10:38]  BULK REGS 3.5 GP!: BULK REGS 3.5 GP!
+[03/27/2023 10:38]  Cheap Dope Shit: Cheap Dope Shit
+[03/27/2023 10:38]  DONKA Trading: DONKA Trading
+[03/27/2023 10:38]  NotYourMothersGoods: NotYourMothersGoods
+[03/27/2023 10:38]  Cores/Distills: Cores/Distills
+[03/27/2023 10:38]  Craftenstein: Craftenstein
+[03/27/2023 10:38]  Cheapest Chet: Cheapest Chet
+[03/27/2023 10:38]  Ish's Goodies: Ish's Goodies
+[03/27/2023 10:38]  CORES: CORES
+[03/27/2023 10:38]  Starter Mage/Vet: Starter Mage/Vet
+[03/27/2023 10:38]  Greek: Greek
+[03/27/2023 10:38]  ARROWS BOLTS THINGS: ARROWS BOLTS THINGS
+[03/27/2023 10:38]  Urk Vendor itemz: Urk Vendor itemz
+[03/27/2023 10:38]  Shimmer Kit Rare: Shimmer Kit Rare
+[03/27/2023 10:38]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[03/27/2023 10:38]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[03/27/2023 10:38]  Riane: Riane
+[03/27/2023 10:38]  DANGEON LOOT: DANGEON LOOT
+[03/27/2023 10:38]  BULK REGS 3.5GP PER!: BULK REGS 3.5GP PER!
+[03/27/2023 10:38]  You see: a ghostly footman corpse
+[03/27/2023 10:38]  More Plate: More Plate
+[03/27/2023 10:38]  PREV / SHIPS STUFF: PREV / SHIPS STUFF
+[03/27/2023 10:38]  Master Weaponsmith: Master Weaponsmith
+[03/27/2023 10:38]  Coloured Chain/Plate: Coloured Chain/Plate
+[03/27/2023 10:38]  Master Armoursmith: Master Armoursmith
+[03/27/2023 10:38]  Leather Armour: Leather Armour
+[03/27/2023 10:38]  Oil Bundle Foci: Oil Bundle Foci
+[03/27/2023 10:38]  Top Tinker: Top Tinker
+[03/27/2023 10:38]  CONTAINER WAND: CONTAINER WAND
+[03/27/2023 10:38]  FOOD/INGOTS/LEATHER: FOOD/INGOTS/LEATHER
+[03/27/2023 10:38]  Crossbow&Quiver: Crossbow&Quiver
+[03/27/2023 10:38]  YOUR BEST CHOICE: YOUR BEST CHOICE
+[03/27/2023 10:38]  irmersuu: irmersuu
+[03/27/2023 10:38]  Core&Extract&Maps: Core&Extract&Maps
+[03/27/2023 10:38]  CHEAP AS FACKS: CHEAP AS FACKS
+[03/27/2023 10:38]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[03/27/2023 10:38]  Skill Mastery Scroll: Skill Mastery Scroll
+[03/27/2023 10:38]  -RS-: -RS-
+[03/27/2023 10:38]  -RS-: -RS-
+[03/27/2023 10:38]  CRE DST SS LOOT CRFT: CRE DST SS LOOT CRFT
+[03/27/2023 10:38]  prevalian coins: prevalian coins
+[03/27/2023 10:38]  Orphan Skill Scrolls: Orphan Skill Scrolls
+[03/27/2023 10:38]  EVERYTHING: EVERYTHING
+[03/27/2023 10:38]  SHIP UPGRADES / CREW: SHIP UPGRADES / CREW
+[03/27/2023 10:38]  BULK REGS 3.5GP!: BULK REGS 3.5GP!
+[03/27/2023 10:38]  ALL XXXxxxXX: ALL XXXxxxXX
+[03/27/2023 10:38]  Cores/Extract/Scroll: Cores/Extract/Scroll
+[03/27/2023 10:38]  WTS Ruffled Blouse: WTS Ruffled Blouse
+[03/27/2023 10:38]  CheaperVendor: CheaperVendor
+[03/27/2023 10:38]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[03/27/2023 10:38]  CHEAP BOARDS 12.5gp!: CHEAP BOARDS 12.5gp!
+[03/27/2023 10:38]  Aspcts Ingots Booty: Aspcts Ingots Booty
+[03/27/2023 10:38]  Skillscrolls: Skillscrolls
+[03/27/2023 10:38]  CHEAP MAN: CHEAP MAN
+[03/27/2023 10:38]  BestHouse WEAPONS: BestHouse WEAPONS
+[03/27/2023 10:38]  Devils Rejectt: [rekt]
+[03/27/2023 10:38]  Devils Rejectt: Devils Rejectt
+[03/27/2023 10:38]  Toothdecay: (bonded)
+[03/27/2023 10:38]  Toothdecay: Toothdecay
+[03/27/2023 10:38]  ghostly footman: [Lethal Poison]
+[03/27/2023 10:38]  ghostly footman: ghostly footman
+[03/27/2023 10:38]  System: You are now under the protection of the town guards.
+[03/27/2023 10:38]  ghostly knight: ghostly knight
+[03/27/2023 10:38]  Cinderrr: (bonded)
+[03/27/2023 10:38]  Cinderrr: Cinderrr
+[03/27/2023 10:38]  Hopperrr: (bonded)
+[03/27/2023 10:38]  Hopperrr: Hopperrr
+[03/27/2023 10:38]  System: Being perfectly rested, you shove them out of the way.
+[03/27/2023 10:38]  ghostly footman: *looks violently ill*
+[03/27/2023 10:38]  Razor: [+Hidden/Stealthing (0s)]
+[03/27/2023 10:38]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[03/27/2023 10:38]  EVERYTHING: EVERYTHING
+[03/27/2023 10:38]  Hella Sick Avar..: Hella Sick Avar..
+[03/27/2023 10:38]  Fiend is BACK: Fiend is BACK
+[03/27/2023 10:38]  Rares SS Cores Links: Rares SS Cores Links
+[03/27/2023 10:38]  16k Prev Coins: 16k Prev Coins
+[03/27/2023 10:38]  Rasputin Borgia: Rasputin Borgia
+[03/27/2023 10:38]  Odegaard: Odegaard
+[03/27/2023 10:38]  Yks Vuan: Yks Vuan
+[03/27/2023 10:38]  Alieris: Lady Alieris
+[03/27/2023 10:38]  Estu: Estu
+[03/27/2023 10:38]  a pfniffel tradesman: a pfniffel tradesman
+[03/27/2023 10:38]  Arbor's Shop: Arbor's Shop
+[03/27/2023 10:38]  Kirby: Kirby the battle trainer
+[03/27/2023 10:38]  120 Adventurers Rope: 120 Adventurers Rope
+[03/27/2023 10:38]  CORES/SCROLLS 11/03: CORES/SCROLLS 11/03
+[03/27/2023 10:38]  120 Leather ARMOR: 120 Leather ARMOR
+[03/27/2023 10:38]  120 Leather ARMOR: 120 Leather ARMOR
+[03/27/2023 10:38]  Slava Ukraini!: Slava Ukraini!
+[03/27/2023 10:38]  120 Smith and REPAIR: 120 Smith and REPAIR
+[03/27/2023 10:38]  Razor: [-Hidden/Stealthing (s)]
+[03/27/2023 10:38]  BULK REGS 3.5GP: BULK REGS 3.5GP
+[03/27/2023 10:38]  Homes: Homes the house steward
+[03/27/2023 10:38]  McD Skill Scrolls: McD Skill Scrolls
+[03/27/2023 10:38]  Jamba Juice: Jamba Juice
+[03/27/2023 10:38]  120 Alchemist, KEGS: 120 Alchemist, KEGS
+[03/27/2023 10:38]  GreaterHealKegs: GreaterHealKegs
+[03/27/2023 10:38]  2/20 PIXEL CANDY: 2/20 PIXEL CANDY
+[03/27/2023 10:38]  3/1 DECO RARES Etc: 3/1 DECO RARES Etc
+[03/27/2023 10:38]  Plate & Chain: Plate & Chain
+[03/27/2023 10:38]  Shadowhide Bone Sets: Shadowhide Bone Sets
+[03/27/2023 10:38]  System: Repaired 6 items.
+[03/27/2023 10:38]  System: Playing Macro 'Escape'...
+[03/27/2023 10:38]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:38]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:38]  Catak: [Beard Brother, BB]
+[03/27/2023 10:38]  Catak: Catak
+[03/27/2023 10:38]  Devil's Spawn: Legendarily Triggered
+[03/27/2023 10:38]  Devil's Spawn: [Tru Poo Flinger, NDA]
+[03/27/2023 10:38]  Devil's Spawn: Devil's Spawn
+[03/27/2023 10:38]  Trampeiro Br: Trampeiro Br
+[03/27/2023 10:38]  an andarian mage: an andarian mage
+[03/27/2023 10:38]  Candida: Candida the cobbler
+[03/27/2023 10:38]  Stoyan: Stoyan the tinker
+[03/27/2023 10:38]  a: (tame)
+[03/27/2023 10:38]  a: a
+[03/27/2023 10:38]  Leiko: Leiko the tinker
+[03/27/2023 10:38]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:38]  System: No item of type halberd (143E) found!
+[03/27/2023 10:38]  System: Macro 'Escape' finished.
+[03/27/2023 10:38]  Pimbo: Pimbo
+[03/27/2023 10:38]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:38]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:38]  System: Your spellbook generates mana for your spell.
+[03/27/2023 10:38]  System: You have left the protection of the town guards.
+[03/27/2023 10:38]  Rane: Rane the dockmaster
+[03/27/2023 10:38]  an eagle: an eagle
+[03/27/2023 10:38]  System: The world will save in 15 seconds.
+[03/27/2023 10:38]  System: Opening door...
+[03/27/2023 10:38]  System: Your house and its contents have been refreshed. 28 days 35 minutes remaining until owner refresh required.
+[03/27/2023 10:39]  Razor:  Scanning for rat 
+[03/27/2023 10:39]  System: Where will you search?
+[03/27/2023 10:39]  System: You search the home and find no one hiding within.
+[03/27/2023 10:39]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[03/27/2023 10:39]  Rane: Rane the dockmaster
+[03/27/2023 10:39]  System: Tailoring.cc has completed the achievement: Artificers Enclave Initiate.
+[03/27/2023 10:39]  System: The world is saving, please wait.
+[03/27/2023 10:39]  System: World save complete. The entire process took 5.1 seconds.
+[03/27/2023 10:39]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:41]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:41]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:41]  Stink Fist: Your mount finds a quiet place to rest safely.
+[03/27/2023 10:41]  Judiec: [Ripe, SQzD]
+[03/27/2023 10:41]  Judiec: Judiec
+[03/27/2023 10:41]  Cookie Monzter: [Ripe, SQzD]
+[03/27/2023 10:41]  Cookie Monzter: Cookie Monzter
+[03/27/2023 10:41]  Insignia: Triggered
+[03/27/2023 10:41]  Insignia: [Ripe, SQzD]
+[03/27/2023 10:41]  Insignia: Insignia
+[03/27/2023 10:41]  Kicked Out: [Ripe, SQzD]
+[03/27/2023 10:41]  Kicked Out: Kicked Out
+[03/27/2023 10:41]  Joocer: Joocer the house steward
+[03/27/2023 10:41]  Joocey: Joocey the stablemaster
+[03/27/2023 10:41]  Daisy Seem Stres: [Ripe, SQzD]
+[03/27/2023 10:41]  Daisy Seem Stres: Daisy Seem Stres
+[03/27/2023 10:41]  Hangslow: Black Marketeer
+[03/27/2023 10:41]  Hangslow: [Juicy, SQzD]
+[03/27/2023 10:41]  Hangslow: Lord Hangslow
+[03/27/2023 10:41]  Cartwright: Cartwright
+[03/27/2023 10:41]  a scarab: (tame)
+[03/27/2023 10:41]  a scarab: a scarab
+[03/27/2023 10:41]  Brielle Hearne: [Ripe, SQzD]
+[03/27/2023 10:41]  Brielle Hearne: Brielle Hearne
+[03/27/2023 10:41]  JabMeHarder: JabMeHarder the battle trainer
+[03/27/2023 10:41]  Rad: Rad the barkeeper
+[03/27/2023 10:41]  Kiefer: Kiefer the barkeeper
+[03/27/2023 10:41]  GaiaID: [Ripe, SQzD]
+[03/27/2023 10:41]  GaiaID: GaiaID
+[03/27/2023 10:41]  Kissa: Kissa the barkeeper
+[03/27/2023 10:41]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:41]  System: Opening door...
+[03/27/2023 10:41]  System: Your house and its contents have been refreshed. 29 days 15 hours 56 minutes remaining until owner refresh required.
+[03/27/2023 10:41]  Carlin: [10% discount for SQzD]
+[03/27/2023 10:41]  Carlin: Carlin
+[03/27/2023 10:41]  Loot For You: Loot For You
+[03/27/2023 10:41]  This and That: [5% discount for SQzD]
+[03/27/2023 10:41]  This and That: This and That
+[03/27/2023 10:41]  Plate Armor Sets: [10% discount for SQzD]
+[03/27/2023 10:41]  Plate Armor Sets: Plate Armor Sets
+[03/27/2023 10:41]  Bits and Bobs: [10% discount for SQzD]
+[03/27/2023 10:41]  Bits and Bobs: Bits and Bobs
+[03/27/2023 10:41]  Hito's Vendor: [5% discount for SQzD]
+[03/27/2023 10:41]  Hito's Vendor: Hito's Vendor
+[03/27/2023 10:41]  CHEAP POISON KEGS: [5% discount for SQzD]
+[03/27/2023 10:41]  CHEAP POISON KEGS: CHEAP POISON KEGS
+[03/27/2023 10:41]  a shifty man: [10% discount for SQzD]
+[03/27/2023 10:41]  a shifty man: a shifty man
+[03/27/2023 10:41]  The Ingot Daddy: The Ingot Daddy
+[03/27/2023 10:41]  Matrika: [10% discount for SQzD]
+[03/27/2023 10:41]  Matrika: Matrika
+[03/27/2023 10:41]  Dung. Loot: [5% discount for SQzD]
+[03/27/2023 10:41]  Dung. Loot: Dung. Loot
+[03/27/2023 10:41]  CORE|Scroll|BrnzLink: [10% discount for SQzD]
+[03/27/2023 10:41]  CORE|Scroll|BrnzLink: CORE|Scroll|BrnzLink
+[03/27/2023 10:41]  THE BEES KNEES: THE BEES KNEES
+[03/27/2023 10:41]  Aren: Aren
+[03/27/2023 10:41]  Thara: Thara
+[03/27/2023 10:41]  Core Masta: [10% discount for SQzD]
+[03/27/2023 10:41]  Core Masta: Core Masta
+[03/27/2023 10:41]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:41]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:41]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:41]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:41]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:41]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:41]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:41]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:41]  Event items/Links: Event items/Links
+[03/27/2023 10:41]  All About Leather: All About Leather
+[03/27/2023 10:41]  Avery: Avery
+[03/27/2023 10:41]  P a l e f a c e: [5% discount for SQzD]
+[03/27/2023 10:41]  P a l e f a c e: P a l e f a c e
+[03/27/2023 10:41]  Bayard: [5% discount for SQzD]
+[03/27/2023 10:41]  Bayard: Bayard
+[03/27/2023 10:41]  Scrollz: [10% discount for SQzD]
+[03/27/2023 10:41]  Scrollz: Scrollz
+[03/27/2023 10:41]  Country Goods: Country Goods
+[03/27/2023 10:42]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:42]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:42]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:42]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:42]  Event items/Links: Event items/Links
+[03/27/2023 10:42]  All About Leather: All About Leather
+[03/27/2023 10:42]  Avery: Avery
+[03/27/2023 10:42]  GROWN PLANTS: [10% discount for SQzD]
+[03/27/2023 10:42]  GROWN PLANTS: GROWN PLANTS
+[03/27/2023 10:42]  SEEDS: SEEDS
+[03/27/2023 10:42]  LINKS: LINKS
+[03/27/2023 10:42]  CORES: [5% discount for SQzD]
+[03/27/2023 10:42]  CORES: CORES
+[03/27/2023 10:42]  PLANT ITEMS: PLANT ITEMS
+[03/27/2023 10:42]  DISTILLS: [5% discount for SQzD]
+[03/27/2023 10:42]  DISTILLS: DISTILLS
+[03/27/2023 10:42]  OTHER A.S.P.E.C.T.: [5% discount for SQzD]
+[03/27/2023 10:42]  OTHER A.S.P.E.C.T.: OTHER A.S.P.E.C.T.
+[03/27/2023 10:42]  WEAPON OILS: [10% discount for SQzD]
+[03/27/2023 10:42]  WEAPON OILS: WEAPON OILS
+[03/27/2023 10:42]  P a l e f a c e: [5% discount for SQzD]
+[03/27/2023 10:42]  P a l e f a c e: P a l e f a c e
+[03/27/2023 10:42]  Bayard: [5% discount for SQzD]
+[03/27/2023 10:42]  Bayard: Bayard
+[03/27/2023 10:42]  Scrollz: [10% discount for SQzD]
+[03/27/2023 10:42]  Scrollz: Scrollz
+[03/27/2023 10:42]  Country Goods: Country Goods
+[03/27/2023 10:42]  MARTIAL MANUALS: [10% discount for SQzD]
+[03/27/2023 10:42]  MARTIAL MANUALS: MARTIAL MANUALS
+[03/27/2023 10:42]  Stu Padasso: [SQzD only 5% discount]
+[03/27/2023 10:42]  Stu Padasso: Stu Padasso
+[03/27/2023 10:42]  ARMOR WEAPONS CORES: [10% discount for SQzD]
+[03/27/2023 10:42]  ARMOR WEAPONS CORES: ARMOR WEAPONS CORES
+[03/27/2023 10:42]  BASED GEAR SHREK: BASED GEAR SHREK
+[03/27/2023 10:42]  RAREZ AND CORES: [10% discount for SQzD]
+[03/27/2023 10:42]  RAREZ AND CORES: RAREZ AND CORES
+[03/27/2023 10:42]  Alchemi Kegs: [10% discount for SQzD]
+[03/27/2023 10:42]  Alchemi Kegs: Alchemi Kegs
+[03/27/2023 10:42]  DAGGERS & SPEARS: [5% discount for SQzD]
+[03/27/2023 10:42]  DAGGERS & SPEARS: DAGGERS & SPEARS
+[03/27/2023 10:42]  Melts Factory: [SQzD only 10% discount]
+[03/27/2023 10:42]  Melts Factory: Melts Factory
+[03/27/2023 10:42]  MACES & STAFFS: [5% discount for SQzD]
+[03/27/2023 10:42]  MACES & STAFFS: MACES & STAFFS
+[03/27/2023 10:42]  SWORDS & AXES: [5% discount for SQzD]
+[03/27/2023 10:42]  SWORDS & AXES: SWORDS & AXES
+[03/27/2023 10:42]  CORE MAPS SCROLLS: CORE MAPS SCROLLS
+[03/27/2023 10:42]  Severeal's Shop: Severeal's Shop
+[03/27/2023 10:42]  PULMA HUE DEED 45K: [5% discount for SQzD]
+[03/27/2023 10:42]  PULMA HUE DEED 45K: PULMA HUE DEED 45K
+[03/27/2023 10:42]  GoodsStoned: GoodsStoned
+[03/27/2023 10:42]  Leather goods +: [10% discount for SQzD]
+[03/27/2023 10:42]  Leather goods +: Leather goods +
+[03/27/2023 10:42]  Birgitte Bardot: [5% discount for SQzD]
+[03/27/2023 10:42]  Birgitte Bardot: Birgitte Bardot
+[03/27/2023 10:42]  FULL IRON PLATE SETS: [10% discount for SQzD]
+[03/27/2023 10:42]  FULL IRON PLATE SETS: FULL IRON PLATE SETS
+[03/27/2023 10:42]  Yumiako-1227 STOCKED: [5% discount for SQzD]
+[03/27/2023 10:42]  Yumiako-1227 STOCKED: Yumiako-1227 STOCKED
+[03/27/2023 10:42]  Dollar Store Weapons: [10% discount for SQzD]
+[03/27/2023 10:42]  Dollar Store Weapons: Dollar Store Weapons
+[03/27/2023 10:42]  Calxens Boutique: [5% discount for SQzD]
+[03/27/2023 10:42]  Calxens Boutique: Calxens Boutique
+[03/27/2023 10:42]  Kozachok: [5% discount for SQzD]
+[03/27/2023 10:42]  Kozachok: Kozachok
+[03/27/2023 10:42]  MACES & STAFFS: [5% discount for SQzD]
+[03/27/2023 10:42]  MACES & STAFFS: MACES & STAFFS
+[03/27/2023 10:42]  MARTIAL MANUALS: [10% discount for SQzD]
+[03/27/2023 10:42]  MARTIAL MANUALS: MARTIAL MANUALS
+[03/27/2023 10:42]  DAGGERS & SPEARS: [5% discount for SQzD]
+[03/27/2023 10:42]  DAGGERS & SPEARS: DAGGERS & SPEARS
+[03/27/2023 10:42]  SWORDS & AXES: [5% discount for SQzD]
+[03/27/2023 10:42]  SWORDS & AXES: SWORDS & AXES
+[03/27/2023 10:42]  GROWN PLANTS: [10% discount for SQzD]
+[03/27/2023 10:42]  GROWN PLANTS: GROWN PLANTS
+[03/27/2023 10:42]  SEEDS: SEEDS
+[03/27/2023 10:42]  WEAPON OILS: [10% discount for SQzD]
+[03/27/2023 10:42]  WEAPON OILS: WEAPON OILS
+[03/27/2023 10:42]  LINKS: LINKS
+[03/27/2023 10:42]  CORES: [5% discount for SQzD]
+[03/27/2023 10:42]  CORES: CORES
+[03/27/2023 10:42]  PLANT ITEMS: PLANT ITEMS
+[03/27/2023 10:42]  DISTILLS: [5% discount for SQzD]
+[03/27/2023 10:42]  DISTILLS: DISTILLS
+[03/27/2023 10:42]  OTHER A.S.P.E.C.T.: [5% discount for SQzD]
+[03/27/2023 10:42]  OTHER A.S.P.E.C.T.: OTHER A.S.P.E.C.T.
+[03/27/2023 10:42]  Kissa: Kissa the barkeeper
+[03/27/2023 10:42]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:42]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:42]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:42]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:42]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:42]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:42]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:42]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:42]  Event items/Links: Event items/Links
+[03/27/2023 10:42]  All About Leather: All About Leather
+[03/27/2023 10:42]  Avery: Avery
+[03/27/2023 10:42]  You see: paragon chest (swamp drake)
+[03/27/2023 10:42]  You see: [secure]
+[03/27/2023 10:42]  You see: (0 items, 0 stones)
+[03/27/2023 10:42]  You see: (sealed)
+[03/27/2023 10:42]  You see: greater paragon chest (snowdrift)
+[03/27/2023 10:42]  Avery: Avery
+[03/27/2023 10:42]  All About Leather: All About Leather
+[03/27/2023 10:42]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:42]  Event items/Links: Event items/Links
+[03/27/2023 10:42]  Core Masta: [10% discount for SQzD]
+[03/27/2023 10:42]  Core Masta: Core Masta
+[03/27/2023 10:42]  Thara: Thara
+[03/27/2023 10:42]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:42]  Aren: Aren
+[03/27/2023 10:42]  THE BEES KNEES: THE BEES KNEES
+[03/27/2023 10:42]  CORE|Scroll|BrnzLink: [10% discount for SQzD]
+[03/27/2023 10:42]  CORE|Scroll|BrnzLink: CORE|Scroll|BrnzLink
+[03/27/2023 10:42]  Dung. Loot: [5% discount for SQzD]
+[03/27/2023 10:42]  Dung. Loot: Dung. Loot
+[03/27/2023 10:42]  Matrika: [10% discount for SQzD]
+[03/27/2023 10:42]  Matrika: Matrika
+[03/27/2023 10:42]  The Ingot Daddy: The Ingot Daddy
+[03/27/2023 10:42]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:42]  a shifty man: [10% discount for SQzD]
+[03/27/2023 10:42]  a shifty man: a shifty man
+[03/27/2023 10:42]  CHEAP POISON KEGS: [5% discount for SQzD]
+[03/27/2023 10:42]  CHEAP POISON KEGS: CHEAP POISON KEGS
+[03/27/2023 10:42]  Hito's Vendor: [5% discount for SQzD]
+[03/27/2023 10:42]  Hito's Vendor: Hito's Vendor
+[03/27/2023 10:42]  Bits and Bobs: [10% discount for SQzD]
+[03/27/2023 10:42]  Bits and Bobs: Bits and Bobs
+[03/27/2023 10:42]  Plate Armor Sets: [10% discount for SQzD]
+[03/27/2023 10:42]  Plate Armor Sets: Plate Armor Sets
+[03/27/2023 10:42]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:42]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:42]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:42]  This and That: [5% discount for SQzD]
+[03/27/2023 10:42]  This and That: This and That
+[03/27/2023 10:42]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:42]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:42]  Hangslow: Black Marketeer
+[03/27/2023 10:42]  Hangslow: [Juicy, SQzD]
+[03/27/2023 10:42]  Hangslow: Lord Hangslow
+[03/27/2023 10:42]  Daisy Seem Stres: [Ripe, SQzD]
+[03/27/2023 10:42]  Daisy Seem Stres: Daisy Seem Stres
+[03/27/2023 10:42]  Joocey: Joocey the stablemaster
+[03/27/2023 10:42]  Joocer: Joocer the house steward
+[03/27/2023 10:42]  Kicked Out: [Ripe, SQzD]
+[03/27/2023 10:42]  Kicked Out: Kicked Out
+[03/27/2023 10:42]  Insignia: Triggered
+[03/27/2023 10:42]  Insignia: [Ripe, SQzD]
+[03/27/2023 10:42]  Insignia: Insignia
+[03/27/2023 10:42]  Cookie Monzter: [Ripe, SQzD]
+[03/27/2023 10:42]  Cookie Monzter: Cookie Monzter
+[03/27/2023 10:42]  Judiec: [Ripe, SQzD]
+[03/27/2023 10:42]  Judiec: Judiec
+[03/27/2023 10:42]  GaiaID: [Ripe, SQzD]
+[03/27/2023 10:42]  GaiaID: GaiaID
+[03/27/2023 10:42]  Kiefer: Kiefer the barkeeper
+[03/27/2023 10:42]  Rad: Rad the barkeeper
+[03/27/2023 10:42]  JabMeHarder: JabMeHarder the battle trainer
+[03/27/2023 10:42]  Brielle Hearne: [Ripe, SQzD]
+[03/27/2023 10:42]  Brielle Hearne: Brielle Hearne
+[03/27/2023 10:42]  a scarab: (tame)
+[03/27/2023 10:42]  a scarab: a scarab
+[03/27/2023 10:42]  Cartwright: Cartwright
+[03/27/2023 10:42]  Loot For You: Loot For You
+[03/27/2023 10:42]  Carlin: [10% discount for SQzD]
+[03/27/2023 10:42]  Carlin: Carlin
+[03/27/2023 10:43]  Avery: Avery
+[03/27/2023 10:43]  All About Leather: All About Leather
+[03/27/2023 10:43]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Event items/Links: Event items/Links
+[03/27/2023 10:43]  Core Masta: [10% discount for SQzD]
+[03/27/2023 10:43]  Core Masta: Core Masta
+[03/27/2023 10:43]  Thara: Thara
+[03/27/2023 10:43]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:43]  Aren: Aren
+[03/27/2023 10:43]  THE BEES KNEES: THE BEES KNEES
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: [10% discount for SQzD]
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: CORE|Scroll|BrnzLink
+[03/27/2023 10:43]  Dung. Loot: [5% discount for SQzD]
+[03/27/2023 10:43]  Dung. Loot: Dung. Loot
+[03/27/2023 10:43]  Matrika: [10% discount for SQzD]
+[03/27/2023 10:43]  Matrika: Matrika
+[03/27/2023 10:43]  The Ingot Daddy: The Ingot Daddy
+[03/27/2023 10:43]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:43]  a shifty man: [10% discount for SQzD]
+[03/27/2023 10:43]  a shifty man: a shifty man
+[03/27/2023 10:43]  CHEAP POISON KEGS: [5% discount for SQzD]
+[03/27/2023 10:43]  CHEAP POISON KEGS: CHEAP POISON KEGS
+[03/27/2023 10:43]  Hito's Vendor: [5% discount for SQzD]
+[03/27/2023 10:43]  Hito's Vendor: Hito's Vendor
+[03/27/2023 10:43]  Bits and Bobs: [10% discount for SQzD]
+[03/27/2023 10:43]  Bits and Bobs: Bits and Bobs
+[03/27/2023 10:43]  Plate Armor Sets: [10% discount for SQzD]
+[03/27/2023 10:43]  Plate Armor Sets: Plate Armor Sets
+[03/27/2023 10:43]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:43]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:43]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:43]  This and That: [5% discount for SQzD]
+[03/27/2023 10:43]  This and That: This and That
+[03/27/2023 10:43]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:43]  Hangslow: Black Marketeer
+[03/27/2023 10:43]  Hangslow: [Juicy, SQzD]
+[03/27/2023 10:43]  Hangslow: Lord Hangslow
+[03/27/2023 10:43]  Daisy Seem Stres: [Ripe, SQzD]
+[03/27/2023 10:43]  Daisy Seem Stres: Daisy Seem Stres
+[03/27/2023 10:43]  Joocey: Joocey the stablemaster
+[03/27/2023 10:43]  Joocer: Joocer the house steward
+[03/27/2023 10:43]  Kicked Out: [Ripe, SQzD]
+[03/27/2023 10:43]  Kicked Out: Kicked Out
+[03/27/2023 10:43]  Insignia: Triggered
+[03/27/2023 10:43]  Insignia: [Ripe, SQzD]
+[03/27/2023 10:43]  Insignia: Insignia
+[03/27/2023 10:43]  Cookie Monzter: [Ripe, SQzD]
+[03/27/2023 10:43]  Cookie Monzter: Cookie Monzter
+[03/27/2023 10:43]  Judiec: [Ripe, SQzD]
+[03/27/2023 10:43]  Judiec: Judiec
+[03/27/2023 10:43]  GaiaID: [Ripe, SQzD]
+[03/27/2023 10:43]  GaiaID: GaiaID
+[03/27/2023 10:43]  Kiefer: Kiefer the barkeeper
+[03/27/2023 10:43]  Rad: Rad the barkeeper
+[03/27/2023 10:43]  JabMeHarder: JabMeHarder the battle trainer
+[03/27/2023 10:43]  Brielle Hearne: [Ripe, SQzD]
+[03/27/2023 10:43]  Brielle Hearne: Brielle Hearne
+[03/27/2023 10:43]  a scarab: (tame)
+[03/27/2023 10:43]  a scarab: a scarab
+[03/27/2023 10:43]  Cartwright: Cartwright
+[03/27/2023 10:43]  Loot For You: Loot For You
+[03/27/2023 10:43]  Carlin: [10% discount for SQzD]
+[03/27/2023 10:43]  Carlin: Carlin
+[03/27/2023 10:43]  Avery: Avery
+[03/27/2023 10:43]  All About Leather: All About Leather
+[03/27/2023 10:43]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Event items/Links: Event items/Links
+[03/27/2023 10:43]  Core Masta: [10% discount for SQzD]
+[03/27/2023 10:43]  Core Masta: Core Masta
+[03/27/2023 10:43]  Thara: Thara
+[03/27/2023 10:43]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:43]  Aren: Aren
+[03/27/2023 10:43]  THE BEES KNEES: THE BEES KNEES
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: [10% discount for SQzD]
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: CORE|Scroll|BrnzLink
+[03/27/2023 10:43]  Dung. Loot: [5% discount for SQzD]
+[03/27/2023 10:43]  Dung. Loot: Dung. Loot
+[03/27/2023 10:43]  Matrika: [10% discount for SQzD]
+[03/27/2023 10:43]  Matrika: Matrika
+[03/27/2023 10:43]  The Ingot Daddy: The Ingot Daddy
+[03/27/2023 10:43]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:43]  a shifty man: [10% discount for SQzD]
+[03/27/2023 10:43]  a shifty man: a shifty man
+[03/27/2023 10:43]  CHEAP POISON KEGS: [5% discount for SQzD]
+[03/27/2023 10:43]  CHEAP POISON KEGS: CHEAP POISON KEGS
+[03/27/2023 10:43]  Hito's Vendor: [5% discount for SQzD]
+[03/27/2023 10:43]  Hito's Vendor: Hito's Vendor
+[03/27/2023 10:43]  Bits and Bobs: [10% discount for SQzD]
+[03/27/2023 10:43]  Bits and Bobs: Bits and Bobs
+[03/27/2023 10:43]  Plate Armor Sets: [10% discount for SQzD]
+[03/27/2023 10:43]  Plate Armor Sets: Plate Armor Sets
+[03/27/2023 10:43]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:43]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:43]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:43]  This and That: [5% discount for SQzD]
+[03/27/2023 10:43]  This and That: This and That
+[03/27/2023 10:43]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:43]  Hangslow: Black Marketeer
+[03/27/2023 10:43]  Hangslow: [Juicy, SQzD]
+[03/27/2023 10:43]  Hangslow: Lord Hangslow
+[03/27/2023 10:43]  Daisy Seem Stres: [Ripe, SQzD]
+[03/27/2023 10:43]  Daisy Seem Stres: Daisy Seem Stres
+[03/27/2023 10:43]  Joocey: Joocey the stablemaster
+[03/27/2023 10:43]  Joocer: Joocer the house steward
+[03/27/2023 10:43]  Kicked Out: [Ripe, SQzD]
+[03/27/2023 10:43]  Kicked Out: Kicked Out
+[03/27/2023 10:43]  Insignia: Triggered
+[03/27/2023 10:43]  Insignia: [Ripe, SQzD]
+[03/27/2023 10:43]  Insignia: Insignia
+[03/27/2023 10:43]  Cookie Monzter: [Ripe, SQzD]
+[03/27/2023 10:43]  Cookie Monzter: Cookie Monzter
+[03/27/2023 10:43]  Judiec: [Ripe, SQzD]
+[03/27/2023 10:43]  Judiec: Judiec
+[03/27/2023 10:43]  GaiaID: [Ripe, SQzD]
+[03/27/2023 10:43]  GaiaID: GaiaID
+[03/27/2023 10:43]  Kiefer: Kiefer the barkeeper
+[03/27/2023 10:43]  Rad: Rad the barkeeper
+[03/27/2023 10:43]  JabMeHarder: JabMeHarder the battle trainer
+[03/27/2023 10:43]  Brielle Hearne: [Ripe, SQzD]
+[03/27/2023 10:43]  Brielle Hearne: Brielle Hearne
+[03/27/2023 10:43]  a scarab: (tame)
+[03/27/2023 10:43]  a scarab: a scarab
+[03/27/2023 10:43]  Cartwright: Cartwright
+[03/27/2023 10:43]  Loot For You: Loot For You
+[03/27/2023 10:43]  Carlin: [10% discount for SQzD]
+[03/27/2023 10:43]  Carlin: Carlin
+[03/27/2023 10:43]  Avery: Avery
+[03/27/2023 10:43]  All About Leather: All About Leather
+[03/27/2023 10:43]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Event items/Links: Event items/Links
+[03/27/2023 10:43]  Core Masta: [10% discount for SQzD]
+[03/27/2023 10:43]  Core Masta: Core Masta
+[03/27/2023 10:43]  Thara: Thara
+[03/27/2023 10:43]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:43]  Aren: Aren
+[03/27/2023 10:43]  THE BEES KNEES: THE BEES KNEES
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: [10% discount for SQzD]
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: CORE|Scroll|BrnzLink
+[03/27/2023 10:43]  Dung. Loot: [5% discount for SQzD]
+[03/27/2023 10:43]  Dung. Loot: Dung. Loot
+[03/27/2023 10:43]  Matrika: [10% discount for SQzD]
+[03/27/2023 10:43]  Matrika: Matrika
+[03/27/2023 10:43]  The Ingot Daddy: The Ingot Daddy
+[03/27/2023 10:43]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:43]  a shifty man: [10% discount for SQzD]
+[03/27/2023 10:43]  a shifty man: a shifty man
+[03/27/2023 10:43]  CHEAP POISON KEGS: [5% discount for SQzD]
+[03/27/2023 10:43]  CHEAP POISON KEGS: CHEAP POISON KEGS
+[03/27/2023 10:43]  Hito's Vendor: [5% discount for SQzD]
+[03/27/2023 10:43]  Hito's Vendor: Hito's Vendor
+[03/27/2023 10:43]  Bits and Bobs: [10% discount for SQzD]
+[03/27/2023 10:43]  Bits and Bobs: Bits and Bobs
+[03/27/2023 10:43]  Plate Armor Sets: [10% discount for SQzD]
+[03/27/2023 10:43]  Plate Armor Sets: Plate Armor Sets
+[03/27/2023 10:43]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:43]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:43]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:43]  This and That: [5% discount for SQzD]
+[03/27/2023 10:43]  This and That: This and That
+[03/27/2023 10:43]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:43]  Hangslow: Black Marketeer
+[03/27/2023 10:43]  Hangslow: [Juicy, SQzD]
+[03/27/2023 10:43]  Hangslow: Lord Hangslow
+[03/27/2023 10:43]  Daisy Seem Stres: [Ripe, SQzD]
+[03/27/2023 10:43]  Daisy Seem Stres: Daisy Seem Stres
+[03/27/2023 10:43]  Joocey: Joocey the stablemaster
+[03/27/2023 10:43]  Joocer: Joocer the house steward
+[03/27/2023 10:43]  Kicked Out: [Ripe, SQzD]
+[03/27/2023 10:43]  Kicked Out: Kicked Out
+[03/27/2023 10:43]  Insignia: Triggered
+[03/27/2023 10:43]  Insignia: [Ripe, SQzD]
+[03/27/2023 10:43]  Insignia: Insignia
+[03/27/2023 10:43]  Cookie Monzter: [Ripe, SQzD]
+[03/27/2023 10:43]  Cookie Monzter: Cookie Monzter
+[03/27/2023 10:43]  Judiec: [Ripe, SQzD]
+[03/27/2023 10:43]  Judiec: Judiec
+[03/27/2023 10:43]  GaiaID: [Ripe, SQzD]
+[03/27/2023 10:43]  GaiaID: GaiaID
+[03/27/2023 10:43]  Kiefer: Kiefer the barkeeper
+[03/27/2023 10:43]  Rad: Rad the barkeeper
+[03/27/2023 10:43]  JabMeHarder: JabMeHarder the battle trainer
+[03/27/2023 10:43]  Brielle Hearne: [Ripe, SQzD]
+[03/27/2023 10:43]  Brielle Hearne: Brielle Hearne
+[03/27/2023 10:43]  a scarab: (tame)
+[03/27/2023 10:43]  a scarab: a scarab
+[03/27/2023 10:43]  Cartwright: Cartwright
+[03/27/2023 10:43]  Loot For You: Loot For You
+[03/27/2023 10:43]  Carlin: [10% discount for SQzD]
+[03/27/2023 10:43]  Carlin: Carlin
+[03/27/2023 10:43]  GROWN PLANTS: [10% discount for SQzD]
+[03/27/2023 10:43]  GROWN PLANTS: GROWN PLANTS
+[03/27/2023 10:43]  SEEDS: SEEDS
+[03/27/2023 10:43]  LINKS: LINKS
+[03/27/2023 10:43]  CORES: [5% discount for SQzD]
+[03/27/2023 10:43]  CORES: CORES
+[03/27/2023 10:43]  PLANT ITEMS: PLANT ITEMS
+[03/27/2023 10:43]  DISTILLS: [5% discount for SQzD]
+[03/27/2023 10:43]  DISTILLS: DISTILLS
+[03/27/2023 10:43]  OTHER A.S.P.E.C.T.: [5% discount for SQzD]
+[03/27/2023 10:43]  OTHER A.S.P.E.C.T.: OTHER A.S.P.E.C.T.
+[03/27/2023 10:43]  WEAPON OILS: [10% discount for SQzD]
+[03/27/2023 10:43]  WEAPON OILS: WEAPON OILS
+[03/27/2023 10:43]  P a l e f a c e: [5% discount for SQzD]
+[03/27/2023 10:43]  P a l e f a c e: P a l e f a c e
+[03/27/2023 10:43]  Bayard: [5% discount for SQzD]
+[03/27/2023 10:43]  Bayard: Bayard
+[03/27/2023 10:43]  Scrollz: [10% discount for SQzD]
+[03/27/2023 10:43]  Scrollz: Scrollz
+[03/27/2023 10:43]  Country Goods: Country Goods
+[03/27/2023 10:43]  MARTIAL MANUALS: [10% discount for SQzD]
+[03/27/2023 10:43]  MARTIAL MANUALS: MARTIAL MANUALS
+[03/27/2023 10:43]  Stu Padasso: [SQzD only 5% discount]
+[03/27/2023 10:43]  Stu Padasso: Stu Padasso
+[03/27/2023 10:43]  ARMOR WEAPONS CORES: [10% discount for SQzD]
+[03/27/2023 10:43]  ARMOR WEAPONS CORES: ARMOR WEAPONS CORES
+[03/27/2023 10:43]  BASED GEAR SHREK: BASED GEAR SHREK
+[03/27/2023 10:43]  RAREZ AND CORES: [10% discount for SQzD]
+[03/27/2023 10:43]  RAREZ AND CORES: RAREZ AND CORES
+[03/27/2023 10:43]  Alchemi Kegs: [10% discount for SQzD]
+[03/27/2023 10:43]  Alchemi Kegs: Alchemi Kegs
+[03/27/2023 10:43]  DAGGERS & SPEARS: [5% discount for SQzD]
+[03/27/2023 10:43]  DAGGERS & SPEARS: DAGGERS & SPEARS
+[03/27/2023 10:43]  Melts Factory: [SQzD only 10% discount]
+[03/27/2023 10:43]  Melts Factory: Melts Factory
+[03/27/2023 10:43]  MACES & STAFFS: [5% discount for SQzD]
+[03/27/2023 10:43]  MACES & STAFFS: MACES & STAFFS
+[03/27/2023 10:43]  CORE MAPS SCROLLS: CORE MAPS SCROLLS
+[03/27/2023 10:43]  Severeal's Shop: Severeal's Shop
+[03/27/2023 10:43]  PULMA HUE DEED 45K: [5% discount for SQzD]
+[03/27/2023 10:43]  PULMA HUE DEED 45K: PULMA HUE DEED 45K
+[03/27/2023 10:43]  GoodsStoned: GoodsStoned
+[03/27/2023 10:43]  Leather goods +: [10% discount for SQzD]
+[03/27/2023 10:43]  Leather goods +: Leather goods +
+[03/27/2023 10:43]  Birgitte Bardot: [5% discount for SQzD]
+[03/27/2023 10:43]  Birgitte Bardot: Birgitte Bardot
+[03/27/2023 10:43]  FULL IRON PLATE SETS: [10% discount for SQzD]
+[03/27/2023 10:43]  FULL IRON PLATE SETS: FULL IRON PLATE SETS
+[03/27/2023 10:43]  Yumiako-1227 STOCKED: [5% discount for SQzD]
+[03/27/2023 10:43]  Yumiako-1227 STOCKED: Yumiako-1227 STOCKED
+[03/27/2023 10:43]  Dollar Store Weapons: [10% discount for SQzD]
+[03/27/2023 10:43]  Dollar Store Weapons: Dollar Store Weapons
+[03/27/2023 10:43]  Calxens Boutique: [5% discount for SQzD]
+[03/27/2023 10:43]  Calxens Boutique: Calxens Boutique
+[03/27/2023 10:43]  Kozachok: [5% discount for SQzD]
+[03/27/2023 10:43]  Kozachok: Kozachok
+[03/27/2023 10:43]  Jef's CORE DIST MAP: [10% discount for SQzD]
+[03/27/2023 10:43]  Jef's CORE DIST MAP: Jef's CORE DIST MAP
+[03/27/2023 10:43]  Alchemi Kegs: [10% discount for SQzD]
+[03/27/2023 10:43]  Alchemi Kegs: Alchemi Kegs
+[03/27/2023 10:43]  RAREZ AND CORES: [10% discount for SQzD]
+[03/27/2023 10:43]  RAREZ AND CORES: RAREZ AND CORES
+[03/27/2023 10:43]  BASED GEAR SHREK: BASED GEAR SHREK
+[03/27/2023 10:43]  ARMOR WEAPONS CORES: [10% discount for SQzD]
+[03/27/2023 10:43]  ARMOR WEAPONS CORES: ARMOR WEAPONS CORES
+[03/27/2023 10:43]  Stu Padasso: [SQzD only 5% discount]
+[03/27/2023 10:43]  Stu Padasso: Stu Padasso
+[03/27/2023 10:43]  Avery: Avery
+[03/27/2023 10:43]  Country Goods: Country Goods
+[03/27/2023 10:43]  Scrollz: [10% discount for SQzD]
+[03/27/2023 10:43]  Scrollz: Scrollz
+[03/27/2023 10:43]  All About Leather: All About Leather
+[03/27/2023 10:43]  Bayard: [5% discount for SQzD]
+[03/27/2023 10:43]  Bayard: Bayard
+[03/27/2023 10:43]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Event items/Links: Event items/Links
+[03/27/2023 10:43]  Core Masta: [10% discount for SQzD]
+[03/27/2023 10:43]  Core Masta: Core Masta
+[03/27/2023 10:43]  Thara: Thara
+[03/27/2023 10:43]  P a l e f a c e: [5% discount for SQzD]
+[03/27/2023 10:43]  P a l e f a c e: P a l e f a c e
+[03/27/2023 10:43]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:43]  Aren: Aren
+[03/27/2023 10:43]  THE BEES KNEES: THE BEES KNEES
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: [10% discount for SQzD]
+[03/27/2023 10:43]  CORE|Scroll|BrnzLink: CORE|Scroll|BrnzLink
+[03/27/2023 10:43]  Dung. Loot: [5% discount for SQzD]
+[03/27/2023 10:43]  Dung. Loot: Dung. Loot
+[03/27/2023 10:43]  Matrika: [10% discount for SQzD]
+[03/27/2023 10:43]  Matrika: Matrika
+[03/27/2023 10:43]  The Ingot Daddy: The Ingot Daddy
+[03/27/2023 10:43]  LEATHER COMMS: LEATHER COMMS
+[03/27/2023 10:43]  a shifty man: [10% discount for SQzD]
+[03/27/2023 10:43]  a shifty man: a shifty man
+[03/27/2023 10:43]  CHEAP POISON KEGS: [5% discount for SQzD]
+[03/27/2023 10:43]  CHEAP POISON KEGS: CHEAP POISON KEGS
+[03/27/2023 10:43]  Hito's Vendor: [5% discount for SQzD]
+[03/27/2023 10:43]  Hito's Vendor: Hito's Vendor
+[03/27/2023 10:43]  Bits and Bobs: [10% discount for SQzD]
+[03/27/2023 10:43]  Bits and Bobs: Bits and Bobs
+[03/27/2023 10:43]  Plate Armor Sets: [10% discount for SQzD]
+[03/27/2023 10:43]  Plate Armor Sets: Plate Armor Sets
+[03/27/2023 10:43]  Ingot Vendor: Ingot Vendor
+[03/27/2023 10:43]  Drizzits Emporium: [5% discount for SQzD]
+[03/27/2023 10:43]  Drizzits Emporium: Drizzits Emporium
+[03/27/2023 10:43]  Melts Factory: [SQzD only 10% discount]
+[03/27/2023 10:43]  Melts Factory: Melts Factory
+[03/27/2023 10:43]  This and That: [5% discount for SQzD]
+[03/27/2023 10:43]  This and That: This and That
+[03/27/2023 10:43]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:43]  Hangslow: Black Marketeer
+[03/27/2023 10:43]  Hangslow: [Juicy, SQzD]
+[03/27/2023 10:43]  Hangslow: Lord Hangslow
+[03/27/2023 10:43]  Daisy Seem Stres: [Ripe, SQzD]
+[03/27/2023 10:43]  Daisy Seem Stres: Daisy Seem Stres
+[03/27/2023 10:43]  Joocey: Joocey the stablemaster
+[03/27/2023 10:43]  Joocer: Joocer the house steward
+[03/27/2023 10:43]  Kicked Out: [Ripe, SQzD]
+[03/27/2023 10:43]  Kicked Out: Kicked Out
+[03/27/2023 10:43]  Insignia: Triggered
+[03/27/2023 10:43]  Insignia: [Ripe, SQzD]
+[03/27/2023 10:43]  Insignia: Insignia
+[03/27/2023 10:43]  Cookie Monzter: [Ripe, SQzD]
+[03/27/2023 10:43]  Cookie Monzter: Cookie Monzter
+[03/27/2023 10:43]  Judiec: [Ripe, SQzD]
+[03/27/2023 10:43]  Judiec: Judiec
+[03/27/2023 10:43]  GaiaID: [Ripe, SQzD]
+[03/27/2023 10:43]  GaiaID: GaiaID
+[03/27/2023 10:43]  Kiefer: Kiefer the barkeeper
+[03/27/2023 10:43]  Rad: Rad the barkeeper
+[03/27/2023 10:43]  JabMeHarder: JabMeHarder the battle trainer
+[03/27/2023 10:43]  Brielle Hearne: [Ripe, SQzD]
+[03/27/2023 10:43]  Brielle Hearne: Brielle Hearne
+[03/27/2023 10:43]  a scarab: (tame)
+[03/27/2023 10:43]  a scarab: a scarab
+[03/27/2023 10:43]  Cartwright: Cartwright
+[03/27/2023 10:43]  Loot For You: Loot For You
+[03/27/2023 10:43]  Carlin: [10% discount for SQzD]
+[03/27/2023 10:43]  Carlin: Carlin
+[03/27/2023 10:43]  Jef's CORE DIST MAP: [10% discount for SQzD]
+[03/27/2023 10:43]  Jef's CORE DIST MAP: Jef's CORE DIST MAP
+[03/27/2023 10:43]  Kozachok: [5% discount for SQzD]
+[03/27/2023 10:43]  Kozachok: Kozachok
+[03/27/2023 10:43]  Calxens Boutique: [5% discount for SQzD]
+[03/27/2023 10:43]  Calxens Boutique: Calxens Boutique
+[03/27/2023 10:43]  Dollar Store Weapons: [10% discount for SQzD]
+[03/27/2023 10:43]  Dollar Store Weapons: Dollar Store Weapons
+[03/27/2023 10:43]  Yumiako-1227 STOCKED: [5% discount for SQzD]
+[03/27/2023 10:43]  Yumiako-1227 STOCKED: Yumiako-1227 STOCKED
+[03/27/2023 10:43]  FULL IRON PLATE SETS: [10% discount for SQzD]
+[03/27/2023 10:43]  FULL IRON PLATE SETS: FULL IRON PLATE SETS
+[03/27/2023 10:43]  Birgitte Bardot: [5% discount for SQzD]
+[03/27/2023 10:43]  Birgitte Bardot: Birgitte Bardot
+[03/27/2023 10:43]  Leather goods +: [10% discount for SQzD]
+[03/27/2023 10:43]  Leather goods +: Leather goods +
+[03/27/2023 10:43]  GoodsStoned: GoodsStoned
+[03/27/2023 10:43]  PULMA HUE DEED 45K: [5% discount for SQzD]
+[03/27/2023 10:43]  PULMA HUE DEED 45K: PULMA HUE DEED 45K
+[03/27/2023 10:43]  Severeal's Shop: Severeal's Shop
+[03/27/2023 10:43]  CORE MAPS SCROLLS: CORE MAPS SCROLLS
+[03/27/2023 10:43]  MACES & STAFFS: [5% discount for SQzD]
+[03/27/2023 10:43]  MACES & STAFFS: MACES & STAFFS
+[03/27/2023 10:43]  MARTIAL MANUALS: [10% discount for SQzD]
+[03/27/2023 10:43]  MARTIAL MANUALS: MARTIAL MANUALS
+[03/27/2023 10:43]  DAGGERS & SPEARS: [5% discount for SQzD]
+[03/27/2023 10:43]  DAGGERS & SPEARS: DAGGERS & SPEARS
+[03/27/2023 10:43]  SWORDS & AXES: [5% discount for SQzD]
+[03/27/2023 10:43]  SWORDS & AXES: SWORDS & AXES
+[03/27/2023 10:43]  GROWN PLANTS: [10% discount for SQzD]
+[03/27/2023 10:43]  GROWN PLANTS: GROWN PLANTS
+[03/27/2023 10:43]  SEEDS: SEEDS
+[03/27/2023 10:43]  WEAPON OILS: [10% discount for SQzD]
+[03/27/2023 10:43]  WEAPON OILS: WEAPON OILS
+[03/27/2023 10:43]  LINKS: LINKS
+[03/27/2023 10:43]  CORES: [5% discount for SQzD]
+[03/27/2023 10:43]  CORES: CORES
+[03/27/2023 10:43]  PLANT ITEMS: PLANT ITEMS
+[03/27/2023 10:43]  DISTILLS: [5% discount for SQzD]
+[03/27/2023 10:43]  DISTILLS: DISTILLS
+[03/27/2023 10:43]  OTHER A.S.P.E.C.T.: [5% discount for SQzD]
+[03/27/2023 10:43]  OTHER A.S.P.E.C.T.: OTHER A.S.P.E.C.T.
+[03/27/2023 10:43]  System: Romanoff has completed the achievement: Monster Hunter Associate.
+[03/27/2023 10:43]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:43]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:43]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:43]  Event items/Links: Event items/Links
+[03/27/2023 10:43]  All About Leather: All About Leather
+[03/27/2023 10:43]  Avery: Avery
+[03/27/2023 10:43]  P a l e f a c e: [5% discount for SQzD]
+[03/27/2023 10:43]  P a l e f a c e: P a l e f a c e
+[03/27/2023 10:43]  Bayard: [5% discount for SQzD]
+[03/27/2023 10:43]  Bayard: Bayard
+[03/27/2023 10:43]  Scrollz: [10% discount for SQzD]
+[03/27/2023 10:43]  Scrollz: Scrollz
+[03/27/2023 10:43]  Country Goods: Country Goods
+[03/27/2023 10:43]  Stu Padasso: [SQzD only 5% discount]
+[03/27/2023 10:43]  Stu Padasso: Stu Padasso
+[03/27/2023 10:43]  ARMOR WEAPONS CORES: [10% discount for SQzD]
+[03/27/2023 10:43]  ARMOR WEAPONS CORES: ARMOR WEAPONS CORES
+[03/27/2023 10:43]  BASED GEAR SHREK: BASED GEAR SHREK
+[03/27/2023 10:43]  RAREZ AND CORES: [10% discount for SQzD]
+[03/27/2023 10:43]  RAREZ AND CORES: RAREZ AND CORES
+[03/27/2023 10:43]  Alchemi Kegs: [10% discount for SQzD]
+[03/27/2023 10:43]  Alchemi Kegs: Alchemi Kegs
+[03/27/2023 10:43]  Melts Factory: [SQzD only 10% discount]
+[03/27/2023 10:43]  Melts Factory: Melts Factory
+[03/27/2023 10:43]  CORE MAPS SCROLLS: CORE MAPS SCROLLS
+[03/27/2023 10:43]  Severeal's Shop: Severeal's Shop
+[03/27/2023 10:43]  PULMA HUE DEED 45K: [5% discount for SQzD]
+[03/27/2023 10:43]  PULMA HUE DEED 45K: PULMA HUE DEED 45K
+[03/27/2023 10:43]  GoodsStoned: GoodsStoned
+[03/27/2023 10:43]  Leather goods +: [10% discount for SQzD]
+[03/27/2023 10:43]  Leather goods +: Leather goods +
+[03/27/2023 10:43]  Birgitte Bardot: [5% discount for SQzD]
+[03/27/2023 10:43]  Birgitte Bardot: Birgitte Bardot
+[03/27/2023 10:43]  FULL IRON PLATE SETS: [10% discount for SQzD]
+[03/27/2023 10:43]  FULL IRON PLATE SETS: FULL IRON PLATE SETS
+[03/27/2023 10:43]  Yumiako-1227 STOCKED: [5% discount for SQzD]
+[03/27/2023 10:43]  Yumiako-1227 STOCKED: Yumiako-1227 STOCKED
+[03/27/2023 10:43]  Dollar Store Weapons: [10% discount for SQzD]
+[03/27/2023 10:43]  Dollar Store Weapons: Dollar Store Weapons
+[03/27/2023 10:43]  Calxens Boutique: [5% discount for SQzD]
+[03/27/2023 10:43]  Calxens Boutique: Calxens Boutique
+[03/27/2023 10:43]  Kozachok: [5% discount for SQzD]
+[03/27/2023 10:43]  Kozachok: Kozachok
+[03/27/2023 10:44]  You see: Vendor House
+[03/27/2023 10:44]  You see: Beekeepers
+[03/27/2023 10:44]  You see: G.G. Courtyard
+[03/27/2023 10:44]  You see: idoc
+[03/27/2023 10:44]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:44]  Honorary Mule: Honorary Mule
+[03/27/2023 10:44]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:44]  Honorary Mule: Honorary Mule
+[03/27/2023 10:44]  Honorary Mule: heya
+[03/27/2023 10:44]  Stink Fist: hey
+[03/27/2023 10:44]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:44]  Honorary Mule: Honorary Mule
+[03/27/2023 10:44]  Joocer: Joocer the house steward
+[03/27/2023 10:44]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:44]  Honorary Mule: Honorary Mule
+[03/27/2023 10:45]  : wooden plank
+[03/27/2023 10:45]  System: [TS] A Town Struggle (mountless) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[03/27/2023 10:45]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:45]  Honorary Mule: Honorary Mule
+[03/27/2023 10:45]  You see: death robe
+[03/27/2023 10:45]  You see: [blessed]
+[03/27/2023 10:45]  System: Pirtik has completed the achievement: Nobility (Basic).
+[03/27/2023 10:46]  System: Jonny Nminer has completed the achievement: Tradesman Union Associate.
+[03/27/2023 10:46]  You see: exceptional goldenhide fortune aspect bone helm
+[03/27/2023 10:46]  You see: [mastercrafted by Rek Blackhammer]
+[03/27/2023 10:46]  You see: exceptional goldenhide fortune aspect bone helm
+[03/27/2023 10:46]  You see: [mastercrafted by Rek Blackhammer]
+[03/27/2023 10:46]  You see: exceptional goldenhide fortune aspect bone gloves
+[03/27/2023 10:46]  You see: [mastercrafted by Rek Blackhammer]
+[03/27/2023 10:46]  Honorary Mule: if i die can you rez?
+[03/27/2023 10:47]  Stink Fist: yeah
+[03/27/2023 10:47]  Stink Fist: finding you will be the hard part
+[03/27/2023 10:47]  You see: the remains of Honorary Mule
+[03/27/2023 10:47]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:47]  Honorary Mule: Honorary Mule
+[03/27/2023 10:47]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:47]  Honorary Mule: Honorary Mule
+[03/27/2023 10:47]  : wooden plank
+[03/27/2023 10:47]  System: Who will you use the bandages on?
+[03/27/2023 10:47]  Razor: Target: Honorary Mule
+[03/27/2023 10:47]  System: You begin applying the bandages.
+[03/27/2023 10:47]  Razor: Bandage: 10s
+[03/27/2023 10:47]  Razor: Bandage: 9s
+[03/27/2023 10:47]  Razor: Bandage: 8s
+[03/27/2023 10:47]  Razor: Bandage: 7s
+[03/27/2023 10:47]  Razor: Bandage: 6s
+[03/27/2023 10:47]  Razor: Bandage: 5s
+[03/27/2023 10:47]  Razor: Bandage: 4s
+[03/27/2023 10:47]  Razor: Bandage: 3s
+[03/27/2023 10:47]  Razor: Bandage: 2s
+[03/27/2023 10:48]  Razor: Bandage: 1s
+[03/27/2023 10:48]  System: You fail to resurrect your patient.
+[03/27/2023 10:48]  System: Anatomy skillgain: 1.286%
+[03/27/2023 10:48]  System: Who will you use the bandages on?
+[03/27/2023 10:48]  System: You begin applying the bandages.
+[03/27/2023 10:48]  Razor: Bandage: 10s
+[03/27/2023 10:48]  Razor: Bandage: 9s
+[03/27/2023 10:48]  Razor: Bandage: 8s
+[03/27/2023 10:48]  Razor: Bandage: 7s
+[03/27/2023 10:48]  Razor: Bandage: 6s
+[03/27/2023 10:48]  Razor: Bandage: 5s
+[03/27/2023 10:48]  Razor: Bandage: 4s
+[03/27/2023 10:48]  Razor: Bandage: 3s
+[03/27/2023 10:48]  Razor: Bandage: 2s
+[03/27/2023 10:48]  Razor: Bandage: 1s
+[03/27/2023 10:48]  System: You fail to resurrect your patient.
+[03/27/2023 10:48]  System: Anatomy skillgain: 1.286%
+[03/27/2023 10:48]  System: Who will you use the bandages on?
+[03/27/2023 10:48]  System: You begin applying the bandages.
+[03/27/2023 10:48]  Razor: Bandage: 10s
+[03/27/2023 10:48]  Razor: Bandage: 9s
+[03/27/2023 10:48]  Razor: Bandage: 7s
+[03/27/2023 10:48]  Razor: Bandage: 6s
+[03/27/2023 10:48]  Razor: Bandage: 5s
+[03/27/2023 10:48]  Razor: Bandage: 4s
+[03/27/2023 10:48]  Razor: Bandage: 3s
+[03/27/2023 10:48]  Razor: Bandage: 2s
+[03/27/2023 10:48]  Razor: Bandage: 1s
+[03/27/2023 10:48]  System: You are able to resurrect your patient.
+[03/27/2023 10:48]  System: Anatomy skillgain: 1.286%
+[03/27/2023 10:48]  Razor: [Beneficial Target]
+[03/27/2023 10:48]  Razor: [Last Target]
+[03/27/2023 10:48]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:48]  Honorary Mule: Honorary Mule
+[03/27/2023 10:48]  System: Who will you use the bandages on?
+[03/27/2023 10:48]  System: You begin applying the bandages.
+[03/27/2023 10:48]  Razor: Bandage: 5s
+[03/27/2023 10:48]  Razor: Bandage: 4s
+[03/27/2023 10:48]  Razor: Bandage: 3s
+[03/27/2023 10:48]  Razor: Bandage: 2s
+[03/27/2023 10:48]  Razor: Bandage: 1s
+[03/27/2023 10:48]  System: You finish applying the bandages.
+[03/27/2023 10:48]  Honorary Mule: +55
+[03/27/2023 10:48]  System: Anatomy skillgain: 0.643%
+[03/27/2023 10:48]  System: Who will you use the bandages on?
+[03/27/2023 10:48]  System: You begin applying the bandages.
+[03/27/2023 10:48]  Razor: Bandage: 5s
+[03/27/2023 10:48]  Razor: Bandage: 4s
+[03/27/2023 10:48]  Razor: Bandage: 3s
+[03/27/2023 10:48]  Razor: Bandage: 2s
+[03/27/2023 10:48]  Razor: Bandage: 1s
+[03/27/2023 10:48]  System: You finish applying the bandages.
+[03/27/2023 10:48]  Honorary Mule: +40
+[03/27/2023 10:48]  System: Anatomy skillgain: 0.643%
+[03/27/2023 10:49]  System: No one matching that was found on your screen.
+[03/27/2023 10:49]  System: What do you wish to track?
+[03/27/2023 10:49]  System: You will only be able to track individuals and creatures currently within this house.
+[03/27/2023 10:49]  System: You must wait a few moments to use another skill.
+[03/27/2023 10:49]  Stink Fist: you meant trap
+[03/27/2023 10:49]  Honorary Mule: yeah
+[03/27/2023 10:49]  Honorary Mule: eqasier than clearinbg
+[03/27/2023 10:49]  Stink Fist: didnt know that
+[03/27/2023 10:49]  You see: idoc
+[03/27/2023 10:49]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:49]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:49]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:49]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:49]  Event items/Links: Event items/Links
+[03/27/2023 10:49]  All About Leather: All About Leather
+[03/27/2023 10:49]  Avery: Avery
+[03/27/2023 10:49]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:49]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:49]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:49]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:49]  Event items/Links: Event items/Links
+[03/27/2023 10:49]  All About Leather: All About Leather
+[03/27/2023 10:49]  Avery: Avery
+[03/27/2023 10:50]  Razor: [Beneficial Target]
+[03/27/2023 10:50]  Razor: [Last Target]
+[03/27/2023 10:50]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:50]  Honorary Mule: Honorary Mule
+[03/27/2023 10:50]  You see: exceptional goldenhide bone chest
+[03/27/2023 10:50]  You see: [mastercrafted by Rek Blackhammer]
+[03/27/2023 10:50]  You see: exceptional goldenhide bone legs
+[03/27/2023 10:50]  You see: [mastercrafted by Rek Blackhammer]
+[03/27/2023 10:50]  System: hehexd- has completed the achievement: Transmutation (Basic).
+[03/27/2023 10:50]  Razor: [Beneficial Target]
+[03/27/2023 10:50]  Razor: [Last Target]
+[03/27/2023 10:50]  Honorary Mule: [Ripe, SQzD]
+[03/27/2023 10:50]  Honorary Mule: Honorary Mule
+[03/27/2023 10:52]  You see: exceptional goldenhide fortune aspect bone gorget
+[03/27/2023 10:52]  You see: [mastercrafted by Rek Blackhammer]
+[03/27/2023 10:52]  System: Rehab Jericho has completed the achievement: Weaponmastery (Basic).
+[03/27/2023 10:52]  Honorary Mule: thx
+[03/27/2023 10:52]  Stink Fist: thank you sir
+[03/27/2023 10:52]  Honorary Mule: anytime
+[03/27/2023 10:53]  Stink Fist: have a good day
+[03/27/2023 10:53]  You see: provocation skill mastery scroll
+[03/27/2023 10:53]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/27/2023 10:53]  You see: provocation skill mastery scroll
+[03/27/2023 10:53]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/27/2023 10:53]  You see: expertly drawn treasure map: level 2
+[03/27/2023 10:53]  You see: (undeciphered)
+[03/27/2023 10:53]  Wheezard: Wheezard
+[03/27/2023 10:53]  You see: an arcane scroll : 4
+[03/27/2023 10:53]  You see: unidentified magic spellbook
+[03/27/2023 10:53]  You see: a rune tome
+[03/27/2023 10:53]  You see: [blessed]
+[03/27/2023 10:53]  System: Holy symbols remaining: 5/10
+[03/27/2023 10:53]  Razor: [+Paralyze (0s)]
+[03/27/2023 10:53]  Razor: [-Paralyze (s)]
+[03/27/2023 10:53]  System: You are no longer hindered.
+[03/27/2023 10:53]  System: The world will save in 15 seconds.
+[03/27/2023 10:53]  Cores Maps Links: [5% discount for SQzD]
+[03/27/2023 10:53]  Cores Maps Links: Cores Maps Links
+[03/27/2023 10:53]  CHEAP THRILL: CHEAP THRILL
+[03/27/2023 10:53]  Event items/Links: [5% discount for SQzD]
+[03/27/2023 10:53]  Event items/Links: Event items/Links
+[03/27/2023 10:53]  All About Leather: All About Leather
+[03/27/2023 10:53]  Avery: Avery
+[03/27/2023 10:53]  System: You are now under the protection of the town guards.
+[03/27/2023 10:53]  System: You receive a Sacred Journey damage bonus of 5.1% for the next 30 minutes.
+[03/27/2023 10:53]  Razor: [+Hidden/Stealthing (0s)]
+[03/27/2023 10:53]  One OF: One OF
+[03/27/2023 10:53]  Killian: Killian the jeweler
+[03/27/2023 10:53]  an andarian mage: an andarian mage
+[03/27/2023 10:53]  Sarai: Sarai the barkeep
+[03/27/2023 10:53]  Afra: Afra the tavern keeper
+[03/27/2023 10:53]  Webb: Webb the cook
+[03/27/2023 10:53]  Stink Fist: Your mount returns.
+[03/27/2023 10:53]  System: Your skill in Tactics has decreased by 17.0.  It is now 100.0.
+[03/27/2023 10:53]  Razor: [-Hidden/Stealthing (s)]
+[03/27/2023 10:53]  Stink Fist: Kal Ort Por [Recall]
+[03/27/2023 10:53]  System: Your spellbook generates mana for your spell.
+[03/27/2023 10:53]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[03/27/2023 10:53]  System: You have left the protection of the town guards.
+[03/27/2023 10:53]  Rane: Rane the dockmaster
+[03/27/2023 10:53]  an eagle: an eagle
+[03/27/2023 10:53]  a giant rat: a giant rat
+[03/27/2023 10:53]  System: Opening door...
+[03/27/2023 10:53]  System: Your house and its contents have been refreshed. 28 days 20 minutes remaining until owner refresh required.
+[03/27/2023 10:53]  System: The world is saving, please wait.
+[03/27/2023 10:54]  System: World save complete. The entire process took 5.3 seconds.
+[03/27/2023 10:54]  System: You must wait to perform another action.
+[03/27/2023 10:54]  Razor:  Scanning for rat 
+[03/27/2023 10:54]  System: Where will you search?
+[03/27/2023 10:54]  System: You search the home and find no one hiding within.
+[03/27/2023 10:54]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[03/27/2023 10:54]  Rane: Rane the dockmaster
+[03/27/2023 10:54]  System: Max holy symbols earned (10/10)
+[03/27/2023 10:54]  You see: an arcane scroll : 4
+[03/27/2023 10:54]  You see: expertly drawn treasure map: level 2
+[03/27/2023 10:54]  You see: (undeciphered)
+[03/27/2023 10:54]  You see: provocation skill mastery scroll
+[03/27/2023 10:54]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/27/2023 10:54]  You see: chemistry rune
+[03/27/2023 10:54]  You see: (double click to place)
+[03/27/2023 10:54]  System: Chemistry runes increase the effectiveness of all potions used by nearby players by 15.00%. Radius and duration are increased by user's inscription skill.
+[03/27/2023 10:54]  You see: essence rune
+[03/27/2023 10:54]  You see: (double click to place)
+[03/27/2023 10:54]  System: Essence runes lower the Arcane Essence usage rate of all nearby players by 50.00%. Radius and duration are increased by user's inscription skill.
+[03/27/2023 10:54]  You see: empowerment rune
+[03/27/2023 10:54]  You see: (double click to place)
+[03/27/2023 10:54]  System: Empowerment runes increase spell damage caused by nearby players by 10.00%. Radius and duration are increased by user's inscription skill.
+[03/27/2023 10:55]  a giant rat: a giant rat
+[03/27/2023 10:56]  You see: provocation skill mastery scroll
+[03/27/2023 10:56]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/27/2023 10:56]  You see: taste id skill mastery scroll : 3
+[03/27/2023 10:56]  You see: (used to increase a player's skill cap for a skill by 1)
+[03/27/2023 10:56]  You see: empowerment rune
+[03/27/2023 10:56]  You see: (double click to place)
+[03/27/2023 10:56]  System: Empowerment runes increase spell damage caused by nearby players by 10.00%. Radius and duration are increased by user's inscription skill.
+[03/27/2023 10:56]  Razor: [Last Target]
+[03/27/2023 10:56]  Stink Fist: Stink Fist
+[03/27/2023 10:56]  System: Your skill in Tactics has increased by 17.0.  It is now 117.0.
+[03/27/2023 10:56]  System: Willys has registered an antiquity: Golden Harpy Statue

@@ -1,0 +1,660 @@
+[02/09/2023 15:03]  System: WorldMap loading...
+[02/09/2023 15:03]  System: Loading WorldMap markers..
+[02/09/2023 15:03]  System: ..Banks_and_Healers.xml (20)
+[02/09/2023 15:03]  System: ..Dungeons.xml (12)
+[02/09/2023 15:03]  System: ..Dungeon_Gates.xml (325)
+[02/09/2023 15:03]  System: ..Healer_Caravans.xml (32)
+[02/09/2023 15:03]  System: ..Moongates.xml (9)
+[02/09/2023 15:03]  System: ..POI.xml (176)
+[02/09/2023 15:03]  System: ..PvP_Locations.xml (71)
+[02/09/2023 15:03]  System: ..Shrines.xml (9)
+[02/09/2023 15:03]  System: ..Subterranean.xml (6)
+[02/09/2023 15:03]  System: ..Townships.xml (9)
+[02/09/2023 15:03]  System: WorldMap markers loaded (669)
+[02/09/2023 15:03]  System: Welcome Stink Fist!
+[02/09/2023 15:03]  Razor: [- (s)]
+[02/09/2023 15:03]  Razor: [+Hidden/Stealthing (0s)]
+[02/09/2023 15:03]  Rane: Rane the dockmaster
+[02/09/2023 15:03]  a great hart: a great hart
+[02/09/2023 15:03]  a gazer larva: a gazer larva
+[02/09/2023 15:03]  a crow: a crow
+[02/09/2023 15:03]  System: WorldMap loaded!
+[02/09/2023 15:03]  Razor:  Scanning for rat 
+[02/09/2023 15:03]  System: Where will you search?
+[02/09/2023 15:03]  Razor: [-Hidden/Stealthing (s)]
+[02/09/2023 15:03]  System: You search the home and find no one hiding within.
+[02/09/2023 15:03]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[02/09/2023 15:03]  You see: rosehide skinning map
+[02/09/2023 15:03]  You see: (undeciphered)
+[02/09/2023 15:04]  You see: rosescale fishing map
+[02/09/2023 15:04]  You see: (undeciphered)
+[02/09/2023 15:04]  You see: plainly drawn treasure map: level 1
+[02/09/2023 15:04]  You see: (undeciphered)
+[02/09/2023 15:04]  You see: musicianship skill mastery scroll
+[02/09/2023 15:04]  You see: (used to increase a player's skill cap for a skill by 1)
+[02/09/2023 15:04]  You see: taste id skill mastery scroll : 2
+[02/09/2023 15:04]  You see: (used to increase a player's skill cap for a skill by 1)
+[02/09/2023 15:04]  You see: poisoning skill mastery scroll
+[02/09/2023 15:04]  You see: (used to increase a player's skill cap for a skill by 1)
+[02/09/2023 15:04]  You see: alchemy skill mastery scroll
+[02/09/2023 15:04]  You see: (used to increase a player's skill cap for a skill by 1)
+[02/09/2023 15:04]  You see: an arcane scroll : 67
+[02/09/2023 15:04]  You see: vanquishing lesser monstrous slaying magic spellbook
+[02/09/2023 15:04]  You see: a tarnished gold coin bearing the impression of The Lycaeum dated 322 AC
+[02/09/2023 15:05]  You see: alchemy skill mastery scroll
+[02/09/2023 15:05]  You see: (used to increase a player's skill cap for a skill by 1)
+[02/09/2023 15:05]  You see: Void Aspect Core
+[02/09/2023 15:06]  You see: Air Aspect Extract
+[02/09/2023 15:06]  You see: Eldritch Aspect Core
+[02/09/2023 15:06]  System: Tomas Turbado has completed the achievement: Tailor (Advanced).
+[02/09/2023 15:06]  System: Kektrocity has completed the achievement: Colorful (Epic).
+[02/09/2023 15:06]  a wolf: a wolf
+[02/09/2023 15:08]  Wulf of Wyrd: Rel Sanct [Bless]
+[02/09/2023 15:08]  Wulf of Wyrd: Wulf of Wyrd
+[02/09/2023 15:08]  System: Your strength has changed by 10.  It is now 110
+[02/09/2023 15:08]  System: Your dexterity has changed by 10.  It is now 110
+[02/09/2023 15:08]  System: Your intelligence has changed by 10.  It is now 35
+[02/09/2023 15:08]  Razor: [+Strength (600s)]
+[02/09/2023 15:08]  Razor: Str: +10 - 110
+[02/09/2023 15:08]  Razor: [-Strength (s)]
+[02/09/2023 15:08]  Razor: [+Strength (600s)]
+[02/09/2023 15:08]  Razor: [+Agility (600s)]
+[02/09/2023 15:08]  Razor: Dex: +10 - 110
+[02/09/2023 15:08]  Razor: [-Agility (s)]
+[02/09/2023 15:08]  Razor: [+Agility (600s)]
+[02/09/2023 15:08]  Razor: [+Cunning (600s)]
+[02/09/2023 15:08]  Razor: Int: +10 - 35
+[02/09/2023 15:08]  Razor: [-Cunning (s)]
+[02/09/2023 15:08]  Razor: [+Cunning (600s)]
+[02/09/2023 15:08]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[02/09/2023 15:08]  Razor: [+Protection (600s)]
+[02/09/2023 15:08]  Stink Fist: The food is delectable and is intensely satisfying.
+[02/09/2023 15:08]  Razor: [+Food Satisfaction (3600s)]
+[02/09/2023 15:08]  System: Your strength has changed by 10.  It is now 120
+[02/09/2023 15:08]  Razor: [-Strength (s)]
+[02/09/2023 15:08]  Razor: [+Strength (216s)]
+[02/09/2023 15:08]  Razor: [-Strength (s)]
+[02/09/2023 15:08]  Razor: Str: +10 - 120
+[02/09/2023 15:08]  Razor: [+Strength (216s)]
+[02/09/2023 15:08]  [Guild][Thompson]: Does anyone know where find orc lords for society quest??
+[02/09/2023 15:08]  System: Your dexterity has changed by 10.  It is now 120
+[02/09/2023 15:08]  Razor: [-Agility (s)]
+[02/09/2023 15:08]  Razor: [+Agility (216s)]
+[02/09/2023 15:08]  Razor: [-Agility (s)]
+[02/09/2023 15:08]  Razor: Dex: +10 - 120
+[02/09/2023 15:08]  Razor: [+Agility (216s)]
+[02/09/2023 15:08]  Stink Fist: Flam Sanct [Reactive Armor]
+[02/09/2023 15:08]  Stink Fist: The spell fizzles.
+[02/09/2023 15:08]  Stink Fist: Flam Sanct [Reactive Armor]
+[02/09/2023 15:08]  Razor: [+Reactive Armor (0s)]
+[02/09/2023 15:08]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/09/2023 15:08]  Razor: [Last Target]
+[02/09/2023 15:08]  Stink Fist: Stink Fist
+[02/09/2023 15:08]  a raven: a raven
+[02/09/2023 15:08]  Riodan: Riodan the barkeeper
+[02/09/2023 15:08]  System: Your strike disarms your target!
+[02/09/2023 15:08]  a gazer larva: -221
+[02/09/2023 15:08]  Razor: Attack: a gazer larva
+[02/09/2023 15:08]  System: Holy symbols remaining: 6/10
+[02/09/2023 15:08]  a gazer larva: -51
+[02/09/2023 15:08]  System: Your attack hinders your target!
+[02/09/2023 15:08]  a gazer larva: -64
+[02/09/2023 15:08]  a gazer larva: -40
+[02/09/2023 15:08]  System: Playing Macro 'Escape'...
+[02/09/2023 15:08]  System: You absorb their spell.
+[02/09/2023 15:08]  Stink Fist: -3
+[02/09/2023 15:08]  a gazer larva: -82
+[02/09/2023 15:08]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/09/2023 15:08]  Stink Fist: Kal Ort Por [Recall]
+[02/09/2023 15:08]  a gazer larva: -11
+[02/09/2023 15:08]  System: You are now under the protection of the town guards.
+[02/09/2023 15:08]  Dathi: [BoW] [C]
+[02/09/2023 15:08]  Dathi: Dathi
+[02/09/2023 15:08]  Death Poet: Renowned Strategist
+[02/09/2023 15:08]  Death Poet: [hood] [C]
+[02/09/2023 15:08]  Death Poet: Death Poet
+[02/09/2023 15:08]  an andarian mage: an andarian mage
+[02/09/2023 15:08]  Candida: Candida the cobbler
+[02/09/2023 15:08]  Leiko: Leiko the tinker
+[02/09/2023 15:08]  Buddy Lee: Buddy Lee
+[02/09/2023 15:08]  System: No item of type halberd (143E) found!
+[02/09/2023 15:08]  System: Macro 'Escape' finished.
+[02/09/2023 15:08]  System: Carter McFarter has completed the achievement: Tailor (Basic).
+[02/09/2023 15:09]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/09/2023 15:09]  high and tight: [#1 SYN Shitter, Syn] [O]
+[02/09/2023 15:09]  high and tight: high and tight
+[02/09/2023 15:09]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/09/2023 15:09]  Stink Fist: Kal Ort Por [Recall]
+[02/09/2023 15:09]  System: Max holy symbols earned (10/10)
+[02/09/2023 15:09]  Dathi: [BoW] [C]
+[02/09/2023 15:09]  Dathi: Dathi
+[02/09/2023 15:09]  System: You have left the protection of the town guards.
+[02/09/2023 15:09]  Rane: Rane the dockmaster
+[02/09/2023 15:09]  a great hart: a great hart
+[02/09/2023 15:09]  a gazer larva: a gazer larva
+[02/09/2023 15:09]  a crow: a crow
+[02/09/2023 15:09]  a raven: a raven
+[02/09/2023 15:09]  a wolf: a wolf
+[02/09/2023 15:09]  Stink Fist: -8
+[02/09/2023 15:09]  Razor: Attack: a gazer larva
+[02/09/2023 15:09]  a gazer larva: -3
+[02/09/2023 15:09]  a gazer larva: -3
+[02/09/2023 15:09]  System: You absorb their spell.
+[02/09/2023 15:09]  Stink Fist: -3
+[02/09/2023 15:09]  a gazer larva: -3
+[02/09/2023 15:09]  System: You may now attempt to disarm your opponent again.
+[02/09/2023 15:09]  Razor: [DISARM]
+[02/09/2023 15:09]  System: Holy symbols remaining: 6/10
+[02/09/2023 15:09]  System: Being perfectly rested, you shove them out of the way.
+[02/09/2023 15:09]  System: Your strike disarms your target!
+[02/09/2023 15:09]  a gazer larva: -4
+[02/09/2023 15:09]  System: You absorb their spell.
+[02/09/2023 15:09]  Stink Fist: -3
+[02/09/2023 15:09]  a gazer larva: -11
+[02/09/2023 15:09]  a gazer larva: -4
+[02/09/2023 15:09]  a gazer larva: -4
+[02/09/2023 15:09]  System: Spell siphon max bonus reached (20.0%).
+[02/09/2023 15:09]  Stink Fist: -11
+[02/09/2023 15:09]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/09/2023 15:09]  System: Your attack cripples your target, lowering their defense!
+[02/09/2023 15:09]  a gazer larva: -140
+[02/09/2023 15:09]  a gazer larva: -26
+[02/09/2023 15:09]  System: You absorb their spell.
+[02/09/2023 15:09]  a gazer larva: -70
+[02/09/2023 15:09]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[02/09/2023 15:09]  Stink Fist: -3
+[02/09/2023 15:09]  a gazer larva: -48
+[02/09/2023 15:09]  a gazer larva: -62
+[02/09/2023 15:09]  System: You parry the spell.
+[02/09/2023 15:09]  Stink Fist: -2
+[02/09/2023 15:09]  a gazer larva: -14
+[02/09/2023 15:09]  System: You have gained some fame.
+[02/09/2023 15:09]  System: You have gained some karma.
+[02/09/2023 15:09]  Stink Fist: (Earth Aspect 949.8/3500 xp)
+[02/09/2023 15:09]  System: -139
+[02/09/2023 15:09]  You see: a gazer larva corpse
+[02/09/2023 15:09]  System: [GridLoot]: Corpse is empty!
+[02/09/2023 15:09]  System: Opening door...
+[02/09/2023 15:09]  System: Your house and its contents have been refreshed. 29 days 1 hour 39 minutes remaining until owner refresh required.
+[02/09/2023 15:09]  System: Max holy symbols earned (10/10)
+[02/09/2023 15:09]  Razor:  Scanning for rat 
+[02/09/2023 15:09]  System: Where will you search?
+[02/09/2023 15:09]  System: You search the home and find no one hiding within.
+[02/09/2023 15:09]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[02/09/2023 15:09]  System: Holy symbols remaining: 6/10
+[02/09/2023 15:09]  System: You may now attempt to disarm your opponent again.
+[02/09/2023 15:09]  Razor: [DISARM]
+[02/09/2023 15:09]  Razor: Loading hotbar
+[02/09/2023 15:09]  System: Who will you use the bandages on?
+[02/09/2023 15:09]  System: You begin applying the bandages.
+[02/09/2023 15:09]  Razor: Bandage: 10s
+[02/09/2023 15:09]  Razor: Bandage: 9s
+[02/09/2023 15:10]  Razor: Bandage: 8s
+[02/09/2023 15:10]  Razor: Bandage: 7s
+[02/09/2023 15:10]  Razor: Bandage: 6s
+[02/09/2023 15:10]  Razor: Bandage: 5s
+[02/09/2023 15:10]  Razor: Bandage: 4s
+[02/09/2023 15:10]  Razor: Bandage: 3s
+[02/09/2023 15:10]  System: Holy symbols remaining: 4/10
+[02/09/2023 15:10]  Razor: [+Paralyze (0s)]
+[02/09/2023 15:10]  Razor: Bandage: 2s
+[02/09/2023 15:10]  Razor: [-Paralyze (s)]
+[02/09/2023 15:10]  System: You are no longer hindered.
+[02/09/2023 15:10]  Razor: Bandage: 1s
+[02/09/2023 15:10]  System: You finish applying the bandages.
+[02/09/2023 15:10]  Stink Fist: +25
+[02/09/2023 15:10]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[02/09/2023 15:10]  a snow flurry: a snow flurry
+[02/09/2023 15:10]  a frostbane acolyte: a frostbane acolyte
+[02/09/2023 15:10]  a snow elemental: a snow elemental
+[02/09/2023 15:10]  System: You absorb their spell.
+[02/09/2023 15:10]  System: You parry the spell.
+[02/09/2023 15:10]  Razor: Attack: a snow flurry
+[02/09/2023 15:10]  System: Your strike disarms your target!
+[02/09/2023 15:10]  a snow flurry: -81
+[02/09/2023 15:10]  Stink Fist: -1
+[02/09/2023 15:10]  System: Who will you use the bandages on?
+[02/09/2023 15:10]  a snow flurry: -76
+[02/09/2023 15:10]  System: You feel chilled and your metabolism slowed!
+[02/09/2023 15:10]  System: Your reactive armor spell has expired.
+[02/09/2023 15:10]  System: Your reactive armor spell has been nullified.
+[02/09/2023 15:10]  Stink Fist: -2
+[02/09/2023 15:10]  Razor: [-Reactive Armor (s)]
+[02/09/2023 15:10]  System: You begin applying the bandages.
+[02/09/2023 15:10]  Razor: Bandage: 10s
+[02/09/2023 15:10]  System: Holy symbols remaining: 3/10
+[02/09/2023 15:10]  a snow flurry: -86
+[02/09/2023 15:10]  Stink Fist: -4
+[02/09/2023 15:10]  System: Your fingers slip!
+[02/09/2023 15:10]  Razor: Bandage: 9s
+[02/09/2023 15:10]  a snow flurry: -58
+[02/09/2023 15:10]  Razor: Bandage: 8s
+[02/09/2023 15:10]  a snow flurry: -165
+[02/09/2023 15:10]  System: You feel chilled and your metabolism slowed!
+[02/09/2023 15:10]  Stink Fist: -2
+[02/09/2023 15:10]  Razor: Bandage: 7s
+[02/09/2023 15:10]  a snow flurry: -20
+[02/09/2023 15:10]  Razor: Bandage: 6s
+[02/09/2023 15:10]  System: Your fingers slip!
+[02/09/2023 15:10]  a snow flurry: -165
+[02/09/2023 15:10]  Razor: Bandage: 5s
+[02/09/2023 15:10]  Razor: Bandage: 4s
+[02/09/2023 15:10]  System: Your attack cripples your target, lowering their defense!
+[02/09/2023 15:10]  a snow flurry: -49
+[02/09/2023 15:10]  Stink Fist: -10
+[02/09/2023 15:10]  Razor: Bandage: 3s
+[02/09/2023 15:10]  a snow flurry: -76
+[02/09/2023 15:10]  Razor: Bandage: 2s
+[02/09/2023 15:10]  a snow flurry: -54
+[02/09/2023 15:10]  System: You deliver a zen strike to your opponent.
+[02/09/2023 15:10]  Stink Fist: +17
+[02/09/2023 15:10]  System: some damage has been healed : 17
+[02/09/2023 15:10]  System: You have gained some fame.
+[02/09/2023 15:10]  System: You have gained some karma.
+[02/09/2023 15:10]  Stink Fist: (Earth Aspect 953.7/3500 xp)
+[02/09/2023 15:10]  System: -170
+[02/09/2023 15:10]  You see: a snow flurry corpse
+[02/09/2023 15:10]  System: What do you wish to carve, investigate, or research?
+[02/09/2023 15:10]  Razor: Bandage: 1s
+[02/09/2023 15:10]  System: You heal what little damage you had.
+[02/09/2023 15:10]  System: You may now use a strength potion.
+[02/09/2023 15:10]  System: Captcha successful.
+[02/09/2023 15:10]  System: You carve materials from the corpse.
+[02/09/2023 15:10]  System: You may now use an agility potion.
+[02/09/2023 15:10]  System: [GridLoot]: Corpse is empty!
+[02/09/2023 15:10]  a frostbane acolyte: a frostbane acolyte
+[02/09/2023 15:10]  a frostbane acolyte: a frostbane acolyte
+[02/09/2023 15:10]  Stink Fist: -3
+[02/09/2023 15:10]  System: Who will you use the bandages on?
+[02/09/2023 15:10]  System: You begin applying the bandages.
+[02/09/2023 15:10]  Razor: Bandage: 10s
+[02/09/2023 15:10]  a snowdrift: a snowdrift
+[02/09/2023 15:10]  Razor: Bandage: 9s
+[02/09/2023 15:10]  System: You may now attempt to disarm your opponent again.
+[02/09/2023 15:10]  Razor: [DISARM]
+[02/09/2023 15:10]  Razor: Attack: a frostbane acolyte
+[02/09/2023 15:10]  System: Your strike disarms your target!
+[02/09/2023 15:10]  a frostbane acolyte: -48
+[02/09/2023 15:10]  Razor: Bandage: 8s
+[02/09/2023 15:10]  System: Holy symbols remaining: 5/10
+[02/09/2023 15:10]  Razor: Bandage: 7s
+[02/09/2023 15:10]  a frostbane acolyte: -88
+[02/09/2023 15:10]  System: You absorb their spell.
+[02/09/2023 15:10]  Stink Fist: -3
+[02/09/2023 15:10]  System: Your fingers slip!
+[02/09/2023 15:10]  Razor: Bandage: 6s
+[02/09/2023 15:10]  a frostbane acolyte: -42
+[02/09/2023 15:10]  Razor: Attack: a snow elemental
+[02/09/2023 15:10]  a frostbane acolyte: *raises the frozen dead*
+[02/09/2023 15:10]  Razor: Bandage: 5s
+[02/09/2023 15:10]  Stink Fist: -6
+[02/09/2023 15:10]  System: You feel chilled and your metabolism slowed!
+[02/09/2023 15:10]  Stink Fist: -15
+[02/09/2023 15:10]  a snow elemental: -42
+[02/09/2023 15:10]  Stink Fist: -3
+[02/09/2023 15:10]  Razor: Bandage: 4s
+[02/09/2023 15:10]  a snow elemental: -29
+[02/09/2023 15:10]  a skeleton: a skeleton
+[02/09/2023 15:10]  Razor: Bandage: 2s
+[02/09/2023 15:10]  System: Your fingers slip!
+[02/09/2023 15:10]  a snow elemental: -34
+[02/09/2023 15:10]  Stink Fist: -11
+[02/09/2023 15:10]  System: You feel chilled and your metabolism slowed!
+[02/09/2023 15:10]  Stink Fist: -5
+[02/09/2023 15:10]  a snow elemental: -66
+[02/09/2023 15:10]  Razor: Bandage: 1s
+[02/09/2023 15:10]  System: You finish applying the bandages.
+[02/09/2023 15:10]  Stink Fist: +44
+[02/09/2023 15:10]  a snow elemental: -40
+[02/09/2023 15:10]  System: Your fingers slip! [2]
+[02/09/2023 15:10]  System: You have gained some fame.
+[02/09/2023 15:10]  System: You have gained some karma.
+[02/09/2023 15:10]  Stink Fist: (Earth Aspect 956.5/3500 xp)
+[02/09/2023 15:10]  System: -114
+[02/09/2023 15:10]  You see: a snow elemental corpse
+[02/09/2023 15:10]  System: What do you wish to carve, investigate, or research?
+[02/09/2023 15:10]  System: You carve materials from the corpse.
+[02/09/2023 15:10]  System: You absorb their spell.
+[02/09/2023 15:10]  System: You parry the spell.
+[02/09/2023 15:10]  Stink Fist: -1
+[02/09/2023 15:10]  System: Who will you use the bandages on?
+[02/09/2023 15:10]  System: You begin applying the bandages.
+[02/09/2023 15:10]  Razor: Bandage: 10s
+[02/09/2023 15:10]  Razor: Attack: a frostbane acolyte
+[02/09/2023 15:11]  System: You must wait another moment before you may pick up an item from here.
+[02/09/2023 15:11]  a frostbane acolyte: -173
+[02/09/2023 15:11]  Razor: Bandage: 9s
+[02/09/2023 15:11]  Razor: Bandage: 8s
+[02/09/2023 15:11]  System: [GridLoot]: Corpse is empty!
+[02/09/2023 15:11]  a frostbane acolyte: -34
+[02/09/2023 15:11]  System: You absorb their spell.
+[02/09/2023 15:11]  System: You parry the spell.
+[02/09/2023 15:11]  Razor: Attack: a frostbane acolyte
+[02/09/2023 15:11]  Razor: Bandage: 7s
+[02/09/2023 15:11]  a frostbane acolyte: -39
+[02/09/2023 15:11]  Stink Fist: -1
+[02/09/2023 15:11]  System: Your fingers slip!
+[02/09/2023 15:11]  Razor: Bandage: 6s
+[02/09/2023 15:11]  a frostbane acolyte: -59
+[02/09/2023 15:11]  Razor: Bandage: 5s
+[02/09/2023 15:11]  a frostbane acolyte: -41
+[02/09/2023 15:11]  Razor: Bandage: 4s
+[02/09/2023 15:11]  Stink Fist: -5
+[02/09/2023 15:11]  System: Your fingers slip!
+[02/09/2023 15:11]  a frostbane acolyte: -32
+[02/09/2023 15:11]  Razor: Bandage: 3s
+[02/09/2023 15:11]  Razor: Bandage: 2s
+[02/09/2023 15:11]  a frostbane acolyte: -55
+[02/09/2023 15:11]  Razor: Bandage: 1s
+[02/09/2023 15:11]  System: You absorb their spell.
+[02/09/2023 15:11]  System: You parry the spell.
+[02/09/2023 15:11]  Stink Fist: -1
+[02/09/2023 15:11]  a frostbane acolyte: -40
+[02/09/2023 15:11]  System: You finish applying the bandages.
+[02/09/2023 15:11]  Stink Fist: +7
+[02/09/2023 15:11]  System: Your fingers slip!
+[02/09/2023 15:11]  a frostbane acolyte: -32
+[02/09/2023 15:11]  a frostbane acolyte: -65
+[02/09/2023 15:11]  Stink Fist: -1
+[02/09/2023 15:11]  System: You parry the spell.
+[02/09/2023 15:11]  a frostbane acolyte: -26
+[02/09/2023 15:11]  System: Who will you use the bandages on?
+[02/09/2023 15:11]  System: You begin applying the bandages.
+[02/09/2023 15:11]  Razor: Bandage: 10s
+[02/09/2023 15:11]  Stink Fist: -5
+[02/09/2023 15:11]  System: Your fingers slip!
+[02/09/2023 15:11]  a frostbane acolyte: -52
+[02/09/2023 15:11]  System: Max holy symbols earned (10/10)
+[02/09/2023 15:11]  Razor: Bandage: 9s
+[02/09/2023 15:11]  Razor: Bandage: 8s
+[02/09/2023 15:11]  a frostbane acolyte: -53
+[02/09/2023 15:11]  Stink Fist: -6
+[02/09/2023 15:11]  Razor: Bandage: 7s
+[02/09/2023 15:11]  Stink Fist: -7
+[02/09/2023 15:11]  a frostbane acolyte: -49
+[02/09/2023 15:11]  System: Your fingers slip!
+[02/09/2023 15:11]  Razor: Bandage: 6s
+[02/09/2023 15:11]  System: Your strike disarms your target!
+[02/09/2023 15:11]  a frostbane acolyte: -91
+[02/09/2023 15:11]  Razor: Bandage: 5s
+[02/09/2023 15:11]  System: You may now attempt to disarm your opponent again.
+[02/09/2023 15:11]  Razor: [DISARM]
+[02/09/2023 15:11]  System: Holy symbols remaining: 6/10
+[02/09/2023 15:11]  a frostbane acolyte: -66
+[02/09/2023 15:11]  Razor: Bandage: 4s
+[02/09/2023 15:11]  System: You absorb their spell.
+[02/09/2023 15:11]  Stink Fist: -1
+[02/09/2023 15:11]  Razor: Bandage: 3s
+[02/09/2023 15:11]  Stink Fist: -3
+[02/09/2023 15:11]  System: Your fingers slip!
+[02/09/2023 15:11]  a frostbane acolyte: -56
+[02/09/2023 15:11]  Razor: Bandage: 2s
+[02/09/2023 15:11]  a frostbane acolyte: -31
+[02/09/2023 15:11]  Razor: Bandage: 1s
+[02/09/2023 15:11]  System: You finish applying the bandages.
+[02/09/2023 15:11]  Stink Fist: +21
+[02/09/2023 15:11]  Stink Fist: -7
+[02/09/2023 15:11]  a frostbane acolyte: -41
+[02/09/2023 15:11]  System: Who will you use the bandages on?
+[02/09/2023 15:11]  Stink Fist: -7
+[02/09/2023 15:11]  System: You begin applying the bandages.
+[02/09/2023 15:11]  Razor: Bandage: 10s
+[02/09/2023 15:11]  a frostbane acolyte: -38
+[02/09/2023 15:11]  Razor: Bandage: 9s
+[02/09/2023 15:11]  a frostbane acolyte: -45
+[02/09/2023 15:11]  Razor: Bandage: 8s
+[02/09/2023 15:11]  a frostbane acolyte: -46
+[02/09/2023 15:11]  System: You deliver a zen strike to your opponent.
+[02/09/2023 15:11]  Stink Fist: +14
+[02/09/2023 15:11]  System: some damage has been healed : 14
+[02/09/2023 15:11]  System: You have gained some fame.
+[02/09/2023 15:11]  System: You have gained some karma.
+[02/09/2023 15:11]  Stink Fist: (Earth Aspect 962.5/3500 xp)
+[02/09/2023 15:11]  System: -158
+[02/09/2023 15:11]  You see: a frostbane acolyte corpse
+[02/09/2023 15:11]  System: What do you wish to carve, investigate, or research?
+[02/09/2023 15:11]  System: You carve materials from the corpse.
+[02/09/2023 15:11]  Razor: Bandage: 7s
+[02/09/2023 15:11]  Razor: Bandage: 6s
+[02/09/2023 15:11]  Razor: Bandage: 5s
+[02/09/2023 15:11]  Razor: Bandage: 4s
+[02/09/2023 15:11]  Razor: Bandage: 3s
+[02/09/2023 15:11]  System: [GridLoot]: Corpse is empty!
+[02/09/2023 15:11]  Razor: Bandage: 2s
+[02/09/2023 15:11]  Razor: Bandage: 1s
+[02/09/2023 15:11]  System: You heal what little damage you had.
+[02/09/2023 15:11]  System: Max holy symbols earned (10/10)
+[02/09/2023 15:11]  Stink Fist: -2
+[02/09/2023 15:11]  System: Who will you use the bandages on?
+[02/09/2023 15:11]  System: You begin applying the bandages.
+[02/09/2023 15:11]  Razor: Bandage: 10s
+[02/09/2023 15:11]  Razor: Bandage: 9s
+[02/09/2023 15:11]  System: You may now attempt to disarm your opponent again.
+[02/09/2023 15:11]  Razor: [DISARM]
+[02/09/2023 15:11]  System: Holy symbols remaining: 6/10
+[02/09/2023 15:11]  Razor: Attack: a skeleton
+[02/09/2023 15:11]  Razor: Bandage: 8s
+[02/09/2023 15:11]  System: Your strike disarms your target!
+[02/09/2023 15:11]  a skeleton: -215
+[02/09/2023 15:11]  Razor: Bandage: 7s
+[02/09/2023 15:11]  a skeleton: -172
+[02/09/2023 15:11]  Razor: Bandage: 6s
+[02/09/2023 15:11]  System: You have gained a little fame.
+[02/09/2023 15:11]  System: You have gained a little karma.
+[02/09/2023 15:11]  Stink Fist: (Earth Aspect 963.3/3500 xp)
+[02/09/2023 15:11]  System: -13
+[02/09/2023 15:11]  You see: a skeletal corpse
+[02/09/2023 15:11]  Razor: Bandage: 5s
+[02/09/2023 15:11]  System: What do you wish to carve, investigate, or research?
+[02/09/2023 15:11]  System: You carve materials from the corpse.
+[02/09/2023 15:11]  Razor: Bandage: 4s
+[02/09/2023 15:11]  Razor: Bandage: 3s
+[02/09/2023 15:11]  System: [GridLoot]: Corpse is empty!
+[02/09/2023 15:11]  Razor: Bandage: 2s
+[02/09/2023 15:11]  Razor: Bandage: 1s
+[02/09/2023 15:11]  System: You heal what little damage you had.
+[02/09/2023 15:12]  System: Playing Macro 'Escape'...
+[02/09/2023 15:12]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/09/2023 15:12]  Stink Fist: Kal Ort Por [Recall]
+[02/09/2023 15:12]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[02/09/2023 15:12]  System: You are now under the protection of the town guards.
+[02/09/2023 15:12]  You see: the remains of Goat Eye
+[02/09/2023 15:12]  Toth Magog: Toth Magog
+[02/09/2023 15:12]  an andarian mage: an andarian mage
+[02/09/2023 15:12]  Candida: Candida the cobbler
+[02/09/2023 15:12]  Stoyan: Stoyan the tinker
+[02/09/2023 15:12]  Leiko: Leiko the tinker
+[02/09/2023 15:12]  System: No item of type halberd (143E) found!
+[02/09/2023 15:12]  System: Macro 'Escape' finished.
+[02/09/2023 15:12]  System: Your strength has changed by -20.  It is now 100
+[02/09/2023 15:12]  Razor: [-Strength (s)]
+[02/09/2023 15:12]  Razor: Str: -20 - 100
+[02/09/2023 15:12]  Death Poet: Renowned Strategist
+[02/09/2023 15:12]  Death Poet: [hood] [C]
+[02/09/2023 15:12]  Death Poet: Death Poet
+[02/09/2023 15:12]  high and tight: [#1 SYN Shitter, Syn] [O]
+[02/09/2023 15:12]  high and tight: high and tight
+[02/09/2023 15:12]  Shalala: [PEC] [O]
+[02/09/2023 15:12]  Shalala: Shalala
+[02/09/2023 15:12]  Goat Eye: Lifetime Soldier
+[02/09/2023 15:12]  Goat Eye: [RAQ] [O]
+[02/09/2023 15:12]  Goat Eye: Lady Goat Eye
+[02/09/2023 15:12]  Death Poet: Kal Vas Flam [Flamestrike]
+[02/09/2023 15:12]  Shalala: Corp Por [Energy Bolt]
+[02/09/2023 15:12]  Goat Eye: Rel Por [Teleport]
+[02/09/2023 15:12]  System: Your dexterity has changed by -20.  It is now 100
+[02/09/2023 15:12]  Razor: [-Agility (s)]
+[02/09/2023 15:12]  Razor: Dex: -20 - 100
+[02/09/2023 15:12]  Iskenderun: [Noble of North Korea, PEC] [O]
+[02/09/2023 15:12]  Iskenderun: Iskenderun
+[02/09/2023 15:12]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/09/2023 15:12]  System: Max holy symbols earned (10/10)
+[02/09/2023 15:12]  Toth Magog: Kal Por Ylem [Mark]
+[02/09/2023 15:12]  Goat Eye: In Por Ylem [Magic Arrow]
+[02/09/2023 15:12]  Stoyan: Stoyan the tinker
+[02/09/2023 15:12]  You see: the remains of Dathi
+[02/09/2023 15:12]  Sco: Sco
+[02/09/2023 15:12]  Hack n Slash: Legendary Versatility
+[02/09/2023 15:12]  Hack n Slash: [Bruce Wayne, LT] [C]
+[02/09/2023 15:12]  Hack n Slash: Lord Hack n Slash
+[02/09/2023 15:12]  Bart: Bart the Town Crier
+[02/09/2023 15:12]  JasnahKholin: JasnahKholin
+[02/09/2023 15:12]  Darkeye: Darkeye
+[02/09/2023 15:12]  HUGO BOSSTA: HUGO BOSSTA
+[02/09/2023 15:12]  You see: the remains of Hack n Slash
+[02/09/2023 15:12]  Sir Kliit: Sir Kliit
+[02/09/2023 15:12]  Aenul Sored: Aenul Sored
+[02/09/2023 15:12]  Goat Eye: Des Mani [Weaken]
+[02/09/2023 15:12]  You see: the remains of wafflesplz
+[02/09/2023 15:12]  a dog: a dog
+[02/09/2023 15:12]  Minelab: Treasure Hunter
+[02/09/2023 15:12]  Minelab: [Henchman, Syn]
+[02/09/2023 15:12]  Minelab: Minelab
+[02/09/2023 15:12]  I am Your Mamma: I am Your Mamma
+[02/09/2023 15:12]  Roi: Roi the banker
+[02/09/2023 15:12]  a pack horse: (tame)
+[02/09/2023 15:12]  a pack horse: [4/2000 stones]
+[02/09/2023 15:12]  a pack horse: a pack horse
+[02/09/2023 15:12]  Piano Man: [The Tavern], [tT]
+[02/09/2023 15:12]  Piano Man: Piano Man
+[02/09/2023 15:12]  Dorsia: Transmuter
+[02/09/2023 15:12]  Dorsia: Dorsia
+[02/09/2023 15:12]  Orlantha: Orlantha the banker
+[02/09/2023 15:12]  a walrus: (tame)
+[02/09/2023 15:12]  a walrus: a walrus
+[02/09/2023 15:12]  Boogie Man: [Champion, ICON]
+[02/09/2023 15:12]  Boogie Man: Boogie Man
+[02/09/2023 15:12]  Death Poet: Renowned Strategist
+[02/09/2023 15:12]  Death Poet: [hood] [C]
+[02/09/2023 15:12]  Death Poet: Death Poet
+[02/09/2023 15:12]  Malediction: [Rookie, NKB]
+[02/09/2023 15:12]  Malediction: Malediction
+[02/09/2023 15:12]  Britta: Britta the banker
+[02/09/2023 15:12]  JAM MONSTER: JAM MONSTER
+[02/09/2023 15:12]  a dog: a dog
+[02/09/2023 15:12]  Yagoo: (tame)
+[02/09/2023 15:12]  Yagoo: [680/2000 stones]
+[02/09/2023 15:12]  Yagoo: Yagoo
+[02/09/2023 15:12]  Tokino Sora: Armorer Associate
+[02/09/2023 15:12]  Tokino Sora: Tokino Sora
+[02/09/2023 15:12]  Abalister: Monster Hunter Initiate
+[02/09/2023 15:12]  Abalister: [Associate, THM]
+[02/09/2023 15:12]  Abalister: Abalister
+[02/09/2023 15:12]  Jamie: Jamie the butcher
+[02/09/2023 15:12]  System: Playing Macro 'bank'...
+[02/09/2023 15:12]  System: Macro 'bank' finished.
+[02/09/2023 15:12]  Stink Fist: Bank Guards Vendor I ban thee
+[02/09/2023 15:12]  System: MillerTime has completed the achievement: Transmutation (Advanced).
+[02/09/2023 15:12]  System: Holy symbols remaining: 6/10
+[02/09/2023 15:12]  a dog: a dog
+[02/09/2023 15:12]  System: You may now attempt to disarm your opponent again.
+[02/09/2023 15:12]  Razor: [DISARM]
+[02/09/2023 15:12]  Tokino Sora: bank
+[02/09/2023 15:12]  System: Playing Macro 'bank'...
+[02/09/2023 15:12]  System: Macro 'bank' finished.
+[02/09/2023 15:12]  Stink Fist: Bank Guards Vendor I ban thee
+[02/09/2023 15:12]  Jamie: Jamie the butcher
+[02/09/2023 15:12]  Ayicikk: (bonded)
+[02/09/2023 15:12]  Ayicikk: Ayicikk
+[02/09/2023 15:12]  Bocek: (bonded)
+[02/09/2023 15:12]  Bocek: Bocek
+[02/09/2023 15:12]  HamamBOCEGI: (bonded)
+[02/09/2023 15:12]  HamamBOCEGI: HamamBOCEGI
+[02/09/2023 15:12]  MadenStyLee: [Syn]
+[02/09/2023 15:12]  MadenStyLee: MadenStyLee
+[02/09/2023 15:12]  GUCCI STAR: GUCCI STAR
+[02/09/2023 15:12]  a scarab: (bonded)
+[02/09/2023 15:12]  a scarab: a scarab
+[02/09/2023 15:12]  a scarab: (bonded)
+[02/09/2023 15:12]  a scarab: a scarab
+[02/09/2023 15:12]  Lil Baby One Eye: Lil Baby One Eye
+[02/09/2023 15:12]  ggwsd: ggwsd
+[02/09/2023 15:12]  Acolte: [Magistrate, T^C]
+[02/09/2023 15:12]  Acolte: Acolte
+[02/09/2023 15:12]  Toth Magog: Kal Por Ylem [Mark]
+[02/09/2023 15:12]  System: Playing Macro 'bank'...
+[02/09/2023 15:12]  System: Macro 'bank' finished.
+[02/09/2023 15:12]  Stink Fist: Bank Guards Vendor I ban thee
+[02/09/2023 15:12]  Greger: Greger the cook
+[02/09/2023 15:12]  Nelson: Nelson the baker
+[02/09/2023 15:12]  Bart: Over 90 new (highly anticipated!) hair styles will be released permanently on Saturday, February 11!
+[02/09/2023 15:12]  Zogor: [Militia, Yew]
+[02/09/2023 15:12]  Zogor: Lord Zogor
+[02/09/2023 15:12]  System: Opening door...
+[02/09/2023 15:12]  Pocket Peeker: Pocket Peeker
+[02/09/2023 15:12]  Orlantha: Your gold balance is 6,438,734.
+[02/09/2023 15:12]  System: Playing Macro 'hammie'...
+[02/09/2023 15:12]  System: Macro 'hammie' finished.
+[02/09/2023 15:12]  System: You will now attempt to hamstring your opponents.
+[02/09/2023 15:12]  Razor: [HAM ON]
+[02/09/2023 15:12]  System: Playing Macro 'hammie'...
+[02/09/2023 15:12]  System: Macro 'hammie' finished.
+[02/09/2023 15:12]  System: You refrain from making hamstring attempts.
+[02/09/2023 15:12]  System: No one matching that was found on your screen.
+[02/09/2023 15:12]  System: Max holy symbols earned (10/10)
+[02/09/2023 15:12]  Stink Fist: bank
+[02/09/2023 15:12]  Stink Fist: Items: 14/125
+[02/09/2023 15:12]  Stink Fist: Total Weight: 2,872
+[02/09/2023 15:12]  Goat Eye: Lifetime Soldier
+[02/09/2023 15:12]  Goat Eye: [RAQ] [O]
+[02/09/2023 15:12]  Goat Eye: Lady Goat Eye
+[02/09/2023 15:12]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/09/2023 15:12]  Stink Fist: Kal Ort Por [Recall]
+[02/09/2023 15:12]  System: You have left the protection of the town guards.
+[02/09/2023 15:12]  You see: a gazer larva corpse
+[02/09/2023 15:12]  Rane: Rane the dockmaster
+[02/09/2023 15:12]  a great hart: a great hart
+[02/09/2023 15:12]  a raven: a raven
+[02/09/2023 15:12]  a crow: a crow
+[02/09/2023 15:12]  a wolf: a wolf
+[02/09/2023 15:13]  System: Being perfectly rested, you shove them out of the way.
+[02/09/2023 15:13]  System: Opening door...
+[02/09/2023 15:13]  System: Your house and its contents have been refreshed. 29 days 1 hour 36 minutes remaining until owner refresh required.
+[02/09/2023 15:13]  You see: wooden door
+[02/09/2023 15:13]  Razor: [Last Target]
+[02/09/2023 15:13]  Stink Fist: Stink Fist
+[02/09/2023 15:13]  Rane: Rane the dockmaster
+[02/09/2023 15:13]  System: Random: 1
+[02/09/2023 15:13]  System: Random: 1
+[02/09/2023 15:13]  System: Random: 2
+[02/09/2023 15:13]  System: Random: 1
+[02/09/2023 15:13]  System: Random: 2
+[02/09/2023 15:13]  System: Random: 1
+[02/09/2023 15:13]  Stink Fist:  I gots to say na nay no.
+[02/09/2023 15:13]  System: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[02/09/2023 15:13]  System: Finished 3 queued actions in 1.2 seconds.
+[02/09/2023 15:13]  System: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[02/09/2023 15:13]  System: Finished 3 queued actions in 1.2 seconds.
+[02/09/2023 15:13]  System: Warning: ribs amount is now 0!
+[02/09/2023 15:13]  You see: amethyst : 2
+[02/09/2023 15:14]  Stink Fist: You have hidden yourself well.
+[02/09/2023 15:14]  Razor: [+Hidden/Stealthing (0s)]
+[02/09/2023 15:14]  You see: shadow aspect long overcoat
+[02/09/2023 15:14]  You see: (hue 1790)
+[02/09/2023 15:14]  You see: [blessed and mastercrafted by Duluth Trading]
+[02/09/2023 15:14]  Razor: [-Hidden/Stealthing (s)]
+[02/09/2023 15:14]  a raven: a raven
+[02/09/2023 15:14]  System: You pour some of the keg's contents into an empty bottle...
+[02/09/2023 15:14]  System: ...and place it into your backpack.
+[02/09/2023 15:14]  System: ...and place it into your backpack.
+[02/09/2023 15:14]  System: You pour some of the keg's contents into an empty bottle...
+[02/09/2023 15:15]  Rane: Rane the dockmaster
+[02/09/2023 15:15]  Stink Fist: You have hidden yourself well.
+[02/09/2023 15:15]  Razor: [+Hidden/Stealthing (0s)]
+[02/09/2023 15:15]  System: Bolt Thrower has registered an antiquity: Golden Cyclops Statue
+[02/09/2023 15:15]  System: Bolt Thrower has registered an antiquity: Golden Troll Statue
+[02/09/2023 15:16]  System: The world will save in 15 seconds.
+[02/09/2023 15:17]  System: The world is saving, please wait.
+[02/09/2023 15:17]  System: World save complete. The entire process took 5.9 seconds.
+[02/09/2023 15:18]  Razor: [-Cunning (s)]
+[02/09/2023 15:18]  System: Your intelligence has changed by -10.  It is now 25
+[02/09/2023 15:18]  Razor: Int: -10 - 25
+[02/09/2023 15:18]  Razor: [-Protection (s)]
+[02/09/2023 15:19]  System: Osti has completed the achievement: Enhanced (Basic).
+[02/09/2023 15:19]  System: Brandt Einar has completed the achievement: Monster Hunter Associate.
+[02/09/2023 15:19]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/09/2023 15:20]  System: You do not have enough upgrade points available to unlock that stance.
+[02/09/2023 15:20]  System: You do not have enough upgrade points available to unlock that stance. [2]
+[02/09/2023 15:20]  System: Gary Holt has completed the achievement: Monster Hunter Initiate.
+[02/09/2023 15:20]  System: an Afghan ally has completed the achievement: Leatherworker (Basic).
+[02/09/2023 15:20]  You see: reactive armor scroll : 2

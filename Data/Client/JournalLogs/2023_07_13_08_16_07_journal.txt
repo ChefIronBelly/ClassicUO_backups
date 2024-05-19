@@ -1,0 +1,1875 @@
+[07/13/2023 08:16]  System: WorldMap loading...
+[07/13/2023 08:16]  System: Loading WorldMap markers..
+[07/13/2023 08:16]  System: ..Banks_and_Healers.xml (20)
+[07/13/2023 08:16]  System: ..Dungeons.xml (12)
+[07/13/2023 08:16]  System: ..Dungeon_Gates.xml (349)
+[07/13/2023 08:16]  System: ..Healer_Caravans.xml (32)
+[07/13/2023 08:16]  System: ..Moongates.xml (9)
+[07/13/2023 08:16]  System: ..POI.xml (176)
+[07/13/2023 08:16]  System: ..PvP_Locations.xml (71)
+[07/13/2023 08:16]  System: ..Shrines.xml (9)
+[07/13/2023 08:16]  System: ..Subterranean.xml (6)
+[07/13/2023 08:16]  System: ..Townships.xml (9)
+[07/13/2023 08:16]  System: WorldMap markers loaded (693)
+[07/13/2023 08:16]  System: Welcome Stink Fist!
+[07/13/2023 08:16]  Razor: [- (s)]
+[07/13/2023 08:16]  Razor: [+Food Satisfaction (1070s)]
+[07/13/2023 08:16]  Stink Fist: Stink Fist
+[07/13/2023 08:16]  Rane: Rane the dockmaster
+[07/13/2023 08:16]  Wulf of Wyrd: Wulf of Wyrd
+[07/13/2023 08:16]  System: WorldMap loaded!
+[07/13/2023 08:16]  Wulf of Wyrd: Rel Sanct [Bless]
+[07/13/2023 08:16]  System: Your strength has changed by 10.  It is now 110
+[07/13/2023 08:16]  System: Your dexterity has changed by 10.  It is now 110
+[07/13/2023 08:16]  System: Your intelligence has changed by 10.  It is now 35
+[07/13/2023 08:16]  Razor: [+Strength (600s)]
+[07/13/2023 08:16]  Razor: Str: +10 - 110
+[07/13/2023 08:16]  Razor: [-Strength (s)]
+[07/13/2023 08:16]  Razor: [+Strength (600s)]
+[07/13/2023 08:16]  Razor: [+Agility (600s)]
+[07/13/2023 08:16]  Razor: Dex: +10 - 110
+[07/13/2023 08:16]  Razor: [-Agility (s)]
+[07/13/2023 08:16]  Razor: [+Agility (600s)]
+[07/13/2023 08:16]  Razor: [+Cunning (600s)]
+[07/13/2023 08:16]  Razor: Int: +10 - 35
+[07/13/2023 08:16]  Razor: [-Cunning (s)]
+[07/13/2023 08:16]  Razor: [+Cunning (600s)]
+[07/13/2023 08:16]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[07/13/2023 08:16]  Razor: [+Protection (600s)]
+[07/13/2023 08:16]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:16]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:16]  Razor: [-Paralyze (s)]
+[07/13/2023 08:16]  System: You are no longer hindered.
+[07/13/2023 08:16]  Rane: Rane the dockmaster
+[07/13/2023 08:16]  System: You are now under the protection of the town guards.
+[07/13/2023 08:16]  System: You receive a Sacred Journey damage bonus of 6.0% for the next 30 minutes.
+[07/13/2023 08:16]  Razor: [+Hidden/Stealthing (0s)]
+[07/13/2023 08:16]  Roxanne: Roxanne the cobbler
+[07/13/2023 08:16]  an andarian footman: an andarian footman
+[07/13/2023 08:16]  Morgan: Morgan the farmer
+[07/13/2023 08:16]  Standford: Standford the cook
+[07/13/2023 08:16]  an andarian mage: an andarian mage
+[07/13/2023 08:16]  Thurston: Thurston the carpenter
+[07/13/2023 08:16]  Razor: [-Hidden/Stealthing (s)]
+[07/13/2023 08:16]  Tertia: Tertia the blacksmith
+[07/13/2023 08:16]  Kelvin: Kelvin the tinker
+[07/13/2023 08:16]  Stephani: Stephani the ranger
+[07/13/2023 08:16]  Prescot: Prescot the tailor
+[07/13/2023 08:16]  Gunther: Gunther the tailor
+[07/13/2023 08:16]  a cat: a cat
+[07/13/2023 08:16]  Deb: Deb the architect
+[07/13/2023 08:16]  Karlenne: Karlenne the real estate broker
+[07/13/2023 08:16]  an andarian knight: an andarian knight
+[07/13/2023 08:16]  Feridwyn: Feridwyn the blacksmith
+[07/13/2023 08:16]  Olivia: Olivia the miner
+[07/13/2023 08:16]  a dog: a dog
+[07/13/2023 08:16]  a cat: a cat
+[07/13/2023 08:16]  a dog: a dog
+[07/13/2023 08:16]  a dog: a dog
+[07/13/2023 08:16]  a dog: a dog
+[07/13/2023 08:16]  a cat: a cat
+[07/13/2023 08:16]  a cat: a cat
+[07/13/2023 08:16]  Seymour: Seymour the carpenter
+[07/13/2023 08:16]  Soldilocks: Soldilocks
+[07/13/2023 08:16]  Candida: Candida the cobbler
+[07/13/2023 08:16]  Leiko: Leiko the tinker
+[07/13/2023 08:16]  Slevin: Slevin the scribe
+[07/13/2023 08:16]  Kelli: Kelli the mage
+[07/13/2023 08:16]  Shani: Shani the mage
+[07/13/2023 08:17]  Killian: Killian the jeweler
+[07/13/2023 08:17]  Stoyan: Stoyan the tinker
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  System: Opening door...
+[07/13/2023 08:17]  System: Opening door...
+[07/13/2023 08:17]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:17]  Killian: Killian the jeweler
+[07/13/2023 08:17]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:17]  a pack horse: (tame)
+[07/13/2023 08:17]  a pack horse: [468/2000 stones]
+[07/13/2023 08:17]  a pack horse: a pack horse
+[07/13/2023 08:17]  Elf'eXe.: Lady Elf'eXe.
+[07/13/2023 08:17]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:17]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:17]  System: Opening door...
+[07/13/2023 08:17]  Leiko: Leiko the tinker
+[07/13/2023 08:17]  Plantadorzin: [Soldado, BRA]
+[07/13/2023 08:17]  Plantadorzin: Plantadorzin
+[07/13/2023 08:17]  JOAO MINEIRO: JOAO MINEIRO
+[07/13/2023 08:17]  an andarian mage: an andarian mage
+[07/13/2023 08:17]  mcpickles: mcpickles
+[07/13/2023 08:17]  Bart: Bart the Town Crier
+[07/13/2023 08:17]  BrenowOw: BrenowOw
+[07/13/2023 08:17]  The Passenger: [Blue Light Special, NDA]
+[07/13/2023 08:17]  The Passenger: The Passenger
+[07/13/2023 08:17]  System: Opening door...
+[07/13/2023 08:17]  a pack horse: (tame)
+[07/13/2023 08:17]  a pack horse: [0/2000 stones]
+[07/13/2023 08:17]  a pack horse: a pack horse
+[07/13/2023 08:17]  Roi: Roi the banker
+[07/13/2023 08:17]  Orlantha: Orlantha the banker
+[07/13/2023 08:17]  Britta: Britta the banker
+[07/13/2023 08:17]  Stabbitha: Stabbitha
+[07/13/2023 08:17]  an andarian mage: an andarian mage
+[07/13/2023 08:17]  Leiko: Leiko the tinker
+[07/13/2023 08:17]  The Passenger: Blue Light Special! Visit our beautiful new vendor house with all your favorite goods and much more! New- Colored Leathers!!
+[07/13/2023 08:17]  Candida: Candida the cobbler
+[07/13/2023 08:17]  Soldilocks: Soldilocks
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a cat: a cat
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a cat: a cat
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a dog: a dog
+[07/13/2023 08:17]  a cat: a cat
+[07/13/2023 08:17]  System: Your skill in Tactics has decreased by 37.0.  It is now 100.0.
+[07/13/2023 08:17]  Stink Fist: Kal Ort Por [Recall]
+[07/13/2023 08:17]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[07/13/2023 08:17]  System: You have left the protection of the town guards.
+[07/13/2023 08:17]  Freshh: Freshh the stablemaster
+[07/13/2023 08:17]  Squeezed: Squeezed the house steward
+[07/13/2023 08:17]  Dujek: [High Fist, SQzD]
+[07/13/2023 08:17]  Dujek: Dujek
+[07/13/2023 08:17]  Alukahs: [Juicy, SQzD]
+[07/13/2023 08:17]  Alukahs: Lord Alukahs
+[07/13/2023 08:17]  Vesar the mage: [Juicy AF, SQzD]
+[07/13/2023 08:17]  Vesar the mage: Lord Vesar the mage
+[07/13/2023 08:17]  Morrigann: [SQzD]
+[07/13/2023 08:17]  Morrigann: Lady Morrigann
+[07/13/2023 08:17]  Noxious Nancy: [Juicy, SQzD]
+[07/13/2023 08:17]  Noxious Nancy: Noxious Nancy
+[07/13/2023 08:17]  FreshSteve: FreshSteve the battle trainer
+[07/13/2023 08:17]  Bakeneko: [Ripe, SQzD]
+[07/13/2023 08:17]  Bakeneko: Bakeneko
+[07/13/2023 08:17]  System: Your skill in Tactics has increased by 37.0.  It is now 137.0.
+[07/13/2023 08:17]  SweetWulf: Alchemist
+[07/13/2023 08:17]  SweetWulf: [Ripe, SQzD]
+[07/13/2023 08:17]  SweetWulf: SweetWulf
+[07/13/2023 08:17]  PortalID Assist: [SQzD]
+[07/13/2023 08:17]  PortalID Assist: PortalID Assist
+[07/13/2023 08:17]  System: Opening door...
+[07/13/2023 08:17]  System: Your house and its contents have been refreshed. 29 days 16 hours 55 minutes remaining until owner refresh required.
+[07/13/2023 08:17]  Gromph: [Ripe, SQzD]
+[07/13/2023 08:17]  Gromph: Gromph
+[07/13/2023 08:17]  a horse: (tame)
+[07/13/2023 08:17]  a horse: a horse
+[07/13/2023 08:18]  System: Opening door...
+[07/13/2023 08:18]  System: Your house and its contents have been refreshed. 29 days 16 hours 55 minutes remaining until owner refresh required.
+[07/13/2023 08:18]  System: You deposit 1,480 gold into your bank box.
+[07/13/2023 08:18]  Razor: [You deposit $ 1,480 gold...]
+[07/13/2023 08:18]  : That is secure.
+[07/13/2023 08:18]  You see: magic item recycler
+[07/13/2023 08:18]  You see: [secure]
+[07/13/2023 08:18]  You see: (68 items, 314 stones)
+[07/13/2023 08:18]  : That is secure.
+[07/13/2023 08:18]  System: Opening door...
+[07/13/2023 08:18]  System: Your house and its contents have been refreshed. 29 days 16 hours 54 minutes remaining until owner refresh required.
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:18]  Juca Silva: Triggered
+[07/13/2023 08:18]  Juca Silva: [Syn]
+[07/13/2023 08:18]  Juca Silva: Lord Juca Silva
+[07/13/2023 08:18]  Fallon: Fallon the wandering healer
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:18]  Fencing Supplies: Fencing Supplies
+[07/13/2023 08:18]  Plate AR: Plate AR
+[07/13/2023 08:18]  Swordsmith: Swordsmith
+[07/13/2023 08:18]  Chain AR: Chain AR
+[07/13/2023 08:18]  Bakeneko: [Ripe, SQzD]
+[07/13/2023 08:18]  Bakeneko: Bakeneko
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:18]  Fallon: Fallon the wandering healer
+[07/13/2023 08:18]  Bakeneko: [Ripe, SQzD]
+[07/13/2023 08:18]  Bakeneko: Bakeneko
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:18]  Stink Fist: Stink Fist
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:18]  System: The world will save in 15 seconds.
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:18]  System: Repaired 1 item.
+[07/13/2023 08:18]  Gromph: *focuses aggression*
+[07/13/2023 08:19]  Gromph: *focuses aggression*
+[07/13/2023 08:19]  System: Target the container you wish to pull recyclable items (items must match your current property settings) from and place into this magic item recycler. You may target yourself to pull items from your backpack.
+[07/13/2023 08:19]  Gromph: *focuses aggression*
+[07/13/2023 08:19]  Jim Hand: Legendary Captain
+[07/13/2023 08:19]  Jim Hand: [Juicy, SQzD]
+[07/13/2023 08:19]  Jim Hand: Jim Hand
+[07/13/2023 08:19]  System: 34 recyclable items found matching your current property settings and added.
+[07/13/2023 08:19]  Gromph: *focuses aggression*
+[07/13/2023 08:19]  Gromph: *focuses aggression*
+[07/13/2023 08:19]  System: The world is saving, please wait.
+[07/13/2023 08:19]  System: World save complete. The entire process took 4.4 seconds.
+[07/13/2023 08:19]  Jim Hand: Kal Vas Xen Ylem [Earth Elemental]
+[07/13/2023 08:19]  Dujek: [High Fist, SQzD]
+[07/13/2023 08:19]  Dujek: Dujek
+[07/13/2023 08:19]  Jim Hand: Kal Vas Xen Flam [Fire Elemental]
+[07/13/2023 08:19]  an ancient mummy: (summoned)
+[07/13/2023 08:19]  an ancient mummy: an ancient mummy
+[07/13/2023 08:19]  Jim Hand: Kal Xen [Summ. Creature]
+[07/13/2023 08:19]  a lich: (summoned)
+[07/13/2023 08:19]  a lich: a lich
+[07/13/2023 08:19]  a rotting flesh: (summoned)
+[07/13/2023 08:19]  a rotting flesh: a rotting flesh
+[07/13/2023 08:19]  Fallon: Fallon the wandering healer
+[07/13/2023 08:19]  You see: arcane essence : 326
+[07/13/2023 08:19]  Jim Hand: Kal Ort Por [Recall]
+[07/13/2023 08:19]  System: Target arcane essence you wish to consume and add to this character.
+[07/13/2023 08:19]  System: You consume 326 arcane essence.
+[07/13/2023 08:20]  System: Your skill in Tactics has decreased by 37.0.  It is now 100.0.
+[07/13/2023 08:20]  Stink Fist: Kal Ort Por [Recall]
+[07/13/2023 08:20]  System: You generate mana for your spell.
+[07/13/2023 08:20]  Rane: Rane the dockmaster
+[07/13/2023 08:20]  Wulf of Wyrd: Wulf of Wyrd
+[07/13/2023 08:20]  System: Your skill in Tactics has increased by 37.0.  It is now 137.0.
+[07/13/2023 08:20]  System: Opening door...
+[07/13/2023 08:20]  System: Your house and its contents have been refreshed. 16 days 5 hours remaining until owner refresh required.
+[07/13/2023 08:20]  Razor:  Scanning for rat 
+[07/13/2023 08:20]  System: Where will you search?
+[07/13/2023 08:20]  System: You search the home and find no one hiding within.
+[07/13/2023 08:20]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:20]  System: kipper has completed the achievement: Seafarer Initiate.
+[07/13/2023 08:20]  Rane: Rane the dockmaster
+[07/13/2023 08:20]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:21]  System: Your campfire is now secure.
+[07/13/2023 08:21]  System: Your skill in Tactics has decreased by 37.0.  It is now 100.0.
+[07/13/2023 08:21]  Stink Fist: Kal Ort Por [Recall]
+[07/13/2023 08:21]  System: You generate mana for your spell.
+[07/13/2023 08:21]  System: Your skill in Tactics has increased by 37.0.  It is now 137.0.
+[07/13/2023 08:21]  a raven: a raven
+[07/13/2023 08:21]  Razor: World save coming soon..
+[07/13/2023 08:21]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:21]  Razor: found no one
+[07/13/2023 08:21]  Razor: Waiting for world save...
+[07/13/2023 08:21]  Razor: Save complete - continue on!
+[07/13/2023 08:21]  [Razor]: New target set.
+[07/13/2023 08:21]  Razor: Target: a raven
+[07/13/2023 08:21]  Razor: Attack: a raven
+[07/13/2023 08:21]  Razor: Loading hotbar
+[07/13/2023 08:21]  System: Holy symbols remaining: 11/12
+[07/13/2023 08:21]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:21]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:21]  [Razor]: New target set.
+[07/13/2023 08:21]  Razor: found no one
+[07/13/2023 08:21]  a colossal frog: a colossal frog
+[07/13/2023 08:21]  Razor: Target: a colossal frog
+[07/13/2023 08:21]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:21]  Razor: Attack: a colossal frog
+[07/13/2023 08:21]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:21]  System: Your strike disarms your target!
+[07/13/2023 08:21]  a colossal frog: -95
+[07/13/2023 08:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:21]  wOke': Shadowspire Legend
+[07/13/2023 08:21]  wOke': [hood]
+[07/13/2023 08:21]  wOke': Lady wOke'
+[07/13/2023 08:21]  [Razor]: New target set. [2]
+[07/13/2023 08:21]  a colossal frog: *regens*
+[07/13/2023 08:21]  Razor: Divine Fury
+[07/13/2023 08:21]  [Razor]: Divine Fury
+[07/13/2023 08:21]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:21]  a colossal frog: -42
+[07/13/2023 08:21]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:21]  a colossal frog: -131
+[07/13/2023 08:21]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:21]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:21]  Stink Fist: (Earth Aspect 4,575.7/25000 xp)
+[07/13/2023 08:21]  System: -172
+[07/13/2023 08:21]  You see: a colossal frog corpse
+[07/13/2023 08:21]  [Razor]: New target set. [2]
+[07/13/2023 08:21]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:21]  System: You carve materials from the corpse.
+[07/13/2023 08:21]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:21]  System: You must wait another moment before you may pick up an item from here.
+[07/13/2023 08:21]  Razor: found no one
+[07/13/2023 08:21]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:21]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:21]  Razor: found no one
+[07/13/2023 08:21]  Razor: found no one
+[07/13/2023 08:21]  [Razor]: No one matching that was found on your screen. [3]
+[07/13/2023 08:21]  a magpie: a magpie
+[07/13/2023 08:22]  Razor: found no one
+[07/13/2023 08:22]  a magpie: a magpie
+[07/13/2023 08:22]  a giant frog: a giant frog
+[07/13/2023 08:22]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:22]  a raven: a raven
+[07/13/2023 08:22]  [Razor]: New target set.
+[07/13/2023 08:22]  Razor: Target: a magpie
+[07/13/2023 08:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:22]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:22]  [Razor]: New target set.
+[07/13/2023 08:22]  Razor: found no one
+[07/13/2023 08:22]  a raven: a raven
+[07/13/2023 08:22]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:22]  a tribal hunter: a tribal hunter
+[07/13/2023 08:22]  Razor: found no one
+[07/13/2023 08:22]  [Razor]: No one matching that was found on your screen. [3]
+[07/13/2023 08:22]  a tribal shaman: a tribal shaman
+[07/13/2023 08:22]  System: Holy symbols remaining: 11/12
+[07/13/2023 08:22]  a tribal chieftain: a tribal chieftain
+[07/13/2023 08:22]  [Razor]: New target set.
+[07/13/2023 08:22]  Razor: Target: a tribal hunter
+[07/13/2023 08:22]  Razor: Attack: a tribal hunter
+[07/13/2023 08:22]  a tribal hunter: -66
+[07/13/2023 08:22]  a tribal hunter: -47
+[07/13/2023 08:22]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  a tribal hunter: -36
+[07/13/2023 08:22]  Stink Fist: -2
+[07/13/2023 08:22]  System: Who will you use the bandages on?
+[07/13/2023 08:22]  System: You begin applying the bandages.
+[07/13/2023 08:22]  System: Holy symbols remaining: 9/12
+[07/13/2023 08:22]  [Razor]: New target set.
+[07/13/2023 08:22]  a tribal hunter: -161
+[07/13/2023 08:22]  a tribal hunter: -9
+[07/13/2023 08:22]  a tribal hunter: -113
+[07/13/2023 08:22]  Stink Fist: -4
+[07/13/2023 08:22]  System: Your fingers slip!
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  System: Your strike disarms your target!
+[07/13/2023 08:22]  a tribal hunter: -82
+[07/13/2023 08:22]  System: You increase your damage resistance to creature-casted spells.
+[07/13/2023 08:22]  Razor: [+Magic Resist Potion (312s)]
+[07/13/2023 08:22]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:22]  Razor: [DISARM]
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  a tribal hunter: -66
+[07/13/2023 08:22]  a tribal hunter: -11
+[07/13/2023 08:22]  a tribal hunter: -252
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  Stink Fist: -4
+[07/13/2023 08:22]  System: Your fingers slip!
+[07/13/2023 08:22]  Razor: Divine Fury
+[07/13/2023 08:22]  [Razor]: Divine Fury
+[07/13/2023 08:22]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:22]  a tribal hunter: -64
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  a tribal hunter: -11
+[07/13/2023 08:22]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[07/13/2023 08:22]  a tribal hunter: -314
+[07/13/2023 08:22]  a tribal hunter: -120
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  System: You finish applying the bandages.
+[07/13/2023 08:22]  Stink Fist: +8
+[07/13/2023 08:22]  Stink Fist: -1
+[07/13/2023 08:22]  a tribal hunter: -54
+[07/13/2023 08:22]  a tribal hunter: -11
+[07/13/2023 08:22]  [Razor]: New target set. [3]
+[07/13/2023 08:22]  a tribal hunter: -66
+[07/13/2023 08:22]  System: Who will you use the bandages on?
+[07/13/2023 08:22]  System: You begin applying the bandages.
+[07/13/2023 08:22]  System: Your attack hinders your target!
+[07/13/2023 08:22]  a tribal hunter: -175
+[07/13/2023 08:22]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:22]  Stink Fist: +1
+[07/13/2023 08:22]  System: some damage has been healed : 1
+[07/13/2023 08:22]  Stink Fist: (Earth Aspect 4,580.7/25000 xp)
+[07/13/2023 08:22]  System: -342
+[07/13/2023 08:22]  You see: a forest ostard corpse
+[07/13/2023 08:22]  You see: a tribal hunter corpse
+[07/13/2023 08:22]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:22]  System: You carve materials from the corpse.
+[07/13/2023 08:22]  [Razor]: New target set.
+[07/13/2023 08:22]  Razor: Target: a tribal shaman
+[07/13/2023 08:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:22]  Razor: Attack: a tribal shaman
+[07/13/2023 08:22]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:22]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:22]  System: You carve materials from the corpse.
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  System: You dont see anything nearby worth carving or investigating.
+[07/13/2023 08:22]  Razor: Target: a tribal shaman
+[07/13/2023 08:22]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:22]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  System: You heal what little damage you had.
+[07/13/2023 08:22]  a tribal shaman: -44
+[07/13/2023 08:22]  a tribal shaman: *rattles bones*
+[07/13/2023 08:22]  Stink Fist: -5
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  a tribal shaman: -65
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  System: Who will you use the bandages on?
+[07/13/2023 08:22]  System: You begin applying the bandages.
+[07/13/2023 08:22]  Stink Fist: -2
+[07/13/2023 08:22]  System: Your fingers slip!
+[07/13/2023 08:22]  a tribal shaman: -212
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  Stink Fist: -2
+[07/13/2023 08:22]  a tribal shaman: -76
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  System: Your attack hinders your target!
+[07/13/2023 08:22]  a tribal shaman: -67
+[07/13/2023 08:22]  System: Holy symbols remaining: 10/12
+[07/13/2023 08:22]  System: Your fingers slip! [2]
+[07/13/2023 08:22]  a tribal shaman: -90
+[07/13/2023 08:22]  a tribal shaman: -54
+[07/13/2023 08:22]  [Razor]: New target set. [3]
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  a tribal shaman: -42
+[07/13/2023 08:22]  a tribal shaman: -50
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  System: Your strike disarms your target!
+[07/13/2023 08:22]  a tribal shaman: -76
+[07/13/2023 08:22]  System: You finish applying the bandages.
+[07/13/2023 08:22]  Stink Fist: +13
+[07/13/2023 08:22]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:22]  Razor: [DISARM]
+[07/13/2023 08:22]  Stink Fist: -7
+[07/13/2023 08:22]  a tribal shaman: -82
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  System: Holy symbols remaining: 9/12
+[07/13/2023 08:22]  System: Who will you use the bandages on?
+[07/13/2023 08:22]  System: You begin applying the bandages.
+[07/13/2023 08:22]  a tribal shaman: -34
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  System: You parry the spell.
+[07/13/2023 08:22]  Stink Fist: -1
+[07/13/2023 08:22]  System: Your fingers slip!
+[07/13/2023 08:22]  a tribal shaman: -116
+[07/13/2023 08:22]  a tribal shaman: *rattles bones*
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  a tribal shaman: -60
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  Razor: Divine Fury
+[07/13/2023 08:22]  [Razor]: Divine Fury
+[07/13/2023 08:22]  System: Holy symbols remaining: 6/12
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  a tribal shaman: -41
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  System: Your fingers slip! [4]
+[07/13/2023 08:22]  Stink Fist: -3
+[07/13/2023 08:22]  a tribal shaman: -132
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  a tribal shaman: -240
+[07/13/2023 08:22]  a tribal shaman: -78
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:22]  Razor: [+Magic Reflection (0s)]
+[07/13/2023 08:22]  Razor: [-Magic Reflection (s)]
+[07/13/2023 08:22]  System: Your fingers slip!
+[07/13/2023 08:22]  a tribal shaman: -156
+[07/13/2023 08:22]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:22]  System: You finish applying the bandages.
+[07/13/2023 08:22]  Stink Fist: +21
+[07/13/2023 08:22]  a tribal shaman: -191
+[07/13/2023 08:22]  a tribal shaman: -44
+[07/13/2023 08:22]  Stink Fist: -5
+[07/13/2023 08:22]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  Stink Fist: (Earth Aspect 4,589.4/25000 xp)
+[07/13/2023 08:23]  System: -35
+[07/13/2023 08:23]  You see: a tribal shaman corpse
+[07/13/2023 08:23]  System: You must wait to perform another action.
+[07/13/2023 08:23]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:23]  System: You carve materials from the corpse.
+[07/13/2023 08:23]  System: You must wait a few moments before carving again.
+[07/13/2023 08:23]  Razor: Target: a tribal chieftain
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:23]  Razor: Attack: a tribal chieftain
+[07/13/2023 08:23]  System: Who will you use the bandages on?
+[07/13/2023 08:23]  System: You begin applying the bandages.
+[07/13/2023 08:23]  System: You must wait to perform another action.
+[07/13/2023 08:23]  System: You must wait a few moments before carving again.
+[07/13/2023 08:23]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:23]  System: What do you wish to carve, investigate, or research? [2]
+[07/13/2023 08:23]  a tribal hunter: a tribal hunter
+[07/13/2023 08:23]  System: Being perfectly rested, you shove them out of the way.
+[07/13/2023 08:23]  System: Holy symbols remaining: 9/12
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  Stink Fist: -13
+[07/13/2023 08:23]  System: Your fingers slip!
+[07/13/2023 08:23]  a tribal chieftain: -73
+[07/13/2023 08:23]  Razor: chug refresh
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal chieftain: -60
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  System: You finish applying the bandages.
+[07/13/2023 08:23]  Stink Fist: +15
+[07/13/2023 08:23]  System: You evade an attack (Dispel Evil).
+[07/13/2023 08:23]  Stink Fist: -1
+[07/13/2023 08:23]  System: Who will you use the bandages on?
+[07/13/2023 08:23]  System: You begin applying the bandages.
+[07/13/2023 08:23]  a tribal chieftain: -56
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:23]  Razor: [DISARM]
+[07/13/2023 08:23]  System: Your strike disarms your target!
+[07/13/2023 08:23]  a tribal chieftain: -59
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  Stink Fist: -1
+[07/13/2023 08:23]  System: Your fingers slip!
+[07/13/2023 08:23]  a tribal chieftain: -80
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal chieftain: -188
+[07/13/2023 08:23]  a tribal chieftain: -42
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal chieftain: -75
+[07/13/2023 08:23]  a tribal chieftain: -254
+[07/13/2023 08:23]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:23]  Razor: Divine Fury
+[07/13/2023 08:23]  [Razor]: Divine Fury
+[07/13/2023 08:23]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:23]  Stink Fist: -2
+[07/13/2023 08:23]  System: Your fingers slip!
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  a tribal chieftain: -210
+[07/13/2023 08:23]  System: You finish applying the bandages.
+[07/13/2023 08:23]  Stink Fist: +2
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:23]  a tribal chieftain: -106
+[07/13/2023 08:23]  a tribal chieftain: -64
+[07/13/2023 08:23]  a tribal chieftain: -198
+[07/13/2023 08:23]  a tribal chieftain: -42
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal chieftain: -77
+[07/13/2023 08:23]  [Razor]: New target set. [3]
+[07/13/2023 08:23]  a tribal chieftain: -77
+[07/13/2023 08:23]  a tribal chieftain: -51
+[07/13/2023 08:23]  System: Your attack causes your target to bleed and become susceptible to special attacks! [2]
+[07/13/2023 08:23]  a tribal chieftain: -173
+[07/13/2023 08:23]  a tribal chieftain: -42
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal chieftain: -15
+[07/13/2023 08:23]  a tribal chieftain: -64
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  a tribal chieftain: -51
+[07/13/2023 08:23]  a tribal chieftain: -60
+[07/13/2023 08:23]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:23]  a tribal chieftain: -35
+[07/13/2023 08:23]  Stink Fist: -6
+[07/13/2023 08:23]  a tribal chieftain: -42
+[07/13/2023 08:23]  a tribal chieftain: -142
+[07/13/2023 08:23]  a tribal chieftain: -15
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  System: Who will you use the bandages on?
+[07/13/2023 08:23]  System: You begin applying the bandages.
+[07/13/2023 08:23]  a tribal chieftain: -51
+[07/13/2023 08:23]  a tribal chieftain: -51
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  a tribal chieftain: -86
+[07/13/2023 08:23]  a tribal chieftain: -35
+[07/13/2023 08:23]  a tribal chieftain: -42
+[07/13/2023 08:23]  a tribal chieftain: -28
+[07/13/2023 08:23]  Stink Fist: -1
+[07/13/2023 08:23]  System: Your fingers slip!
+[07/13/2023 08:23]  a tribal chieftain: -15
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  System: Your attack causes your target to bleed and become susceptible to special attacks! [2]
+[07/13/2023 08:23]  a tribal chieftain: -51
+[07/13/2023 08:23]  a tribal chieftain: -94
+[07/13/2023 08:23]  [Razor]: New target set. [3]
+[07/13/2023 08:23]  a tribal chieftain: -35
+[07/13/2023 08:23]  a tribal chieftain: -90
+[07/13/2023 08:23]  a tribal chieftain: -42
+[07/13/2023 08:23]  a tribal chieftain: -28
+[07/13/2023 08:23]  Stink Fist: (Earth Aspect 4,596.5/25000 xp)
+[07/13/2023 08:23]  System: -1
+[07/13/2023 08:23]  You see: a tribal chieftain corpse
+[07/13/2023 08:23]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:23]  System: Holy symbols remaining: 10/12
+[07/13/2023 08:23]  Razor: found no one
+[07/13/2023 08:23]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:23]  System: You carve materials from the corpse.
+[07/13/2023 08:23]  Razor: found no one
+[07/13/2023 08:23]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:23]  System: You finish applying the bandages.
+[07/13/2023 08:23]  Stink Fist: +5
+[07/13/2023 08:23]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:23]  Razor: found no one
+[07/13/2023 08:23]  [Razor]: New target set.
+[07/13/2023 08:23]  Razor: Target: a tribal hunter
+[07/13/2023 08:23]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:23]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:23]  Razor: [DISARM]
+[07/13/2023 08:23]  Razor: Attack: a tribal hunter
+[07/13/2023 08:23]  System: You fail to disarm your opponent.
+[07/13/2023 08:23]  Stink Fist: -3
+[07/13/2023 08:23]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[07/13/2023 08:23]  a tribal hunter: -131
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal hunter: -157
+[07/13/2023 08:23]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:23]  System: Who will you use the bandages on?
+[07/13/2023 08:23]  System: You begin applying the bandages.
+[07/13/2023 08:23]  [Razor]: New target set.
+[07/13/2023 08:23]  a tribal hunter: -122
+[07/13/2023 08:23]  Stink Fist: -1
+[07/13/2023 08:23]  System: Your fingers slip!
+[07/13/2023 08:23]  System: Your attack hinders your target!
+[07/13/2023 08:23]  a tribal hunter: -97
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal hunter: -54
+[07/13/2023 08:23]  [Razor]: New target set. [2]
+[07/13/2023 08:23]  a tribal hunter: -120
+[07/13/2023 08:23]  Razor: Divine Fury
+[07/13/2023 08:23]  [Razor]: Divine Fury
+[07/13/2023 08:23]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:23]  a tribal hunter: -88
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:23]  a tribal hunter: -50
+[07/13/2023 08:23]  Stink Fist: -2
+[07/13/2023 08:23]  System: Your fingers slip!
+[07/13/2023 08:23]  [Razor]: New target set. [3]
+[07/13/2023 08:23]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:23]  a tribal hunter: -142
+[07/13/2023 08:23]  Stink Fist: -1
+[07/13/2023 08:23]  a tribal hunter: -172
+[07/13/2023 08:23]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  System: You finish applying the bandages.
+[07/13/2023 08:24]  Stink Fist: +5
+[07/13/2023 08:24]  a tribal hunter: -57
+[07/13/2023 08:24]  System: Your fingers slip!
+[07/13/2023 08:24]  [Razor]: New target set. [2]
+[07/13/2023 08:24]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:24]  a tribal hunter: -136
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  System: Your strike disarms your target!
+[07/13/2023 08:24]  a tribal hunter: -224
+[07/13/2023 08:24]  a tribal hunter: -96
+[07/13/2023 08:24]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:24]  Stink Fist: +0
+[07/13/2023 08:24]  Stink Fist: (Earth Aspect 4,601.5/25000 xp)
+[07/13/2023 08:24]  System: -354
+[07/13/2023 08:24]  You see: a forest ostard corpse
+[07/13/2023 08:24]  You see: a tribal hunter corpse
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:24]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:24]  System: You carve materials from the corpse.
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:24]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:24]  System: You carve materials from the corpse.
+[07/13/2023 08:24]  System: You dont see anything nearby worth carving or investigating.
+[07/13/2023 08:24]  You see: a tribal hunter corpse
+[07/13/2023 08:24]  You see: a forest ostard corpse
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  System: Holy symbols remaining: 9/12
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:24]  a raven: a raven
+[07/13/2023 08:24]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  Razor: Target: a raven
+[07/13/2023 08:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  a silverback: a silverback
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen. [3]
+[07/13/2023 08:24]  a frenzied ostard: a frenzied ostard
+[07/13/2023 08:24]  System: Khazad Goldbeard has completed the achievement: Savant (Advanced).
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  Razor: Target: a silverback
+[07/13/2023 08:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:24]  Razor: Attack: a silverback
+[07/13/2023 08:24]  Oakes: Oakes the mage
+[07/13/2023 08:24]  a silverback: -62
+[07/13/2023 08:24]  System: You evade an attack (Dispel Evil).
+[07/13/2023 08:24]  Stink Fist: -1
+[07/13/2023 08:24]  a silverback: -221
+[07/13/2023 08:24]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:24]  System: Who will you use the bandages on?
+[07/13/2023 08:24]  System: You begin applying the bandages.
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  a silverback: -25
+[07/13/2023 08:24]  [Razor]: New target set. [2]
+[07/13/2023 08:24]  Stink Fist: -3
+[07/13/2023 08:24]  System: Your fingers slip!
+[07/13/2023 08:24]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:24]  a silverback: -155
+[07/13/2023 08:24]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:24]  a silverback: -62
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  a silverback: -56
+[07/13/2023 08:24]  [Razor]: New target set. [3]
+[07/13/2023 08:24]  Razor: Divine Fury
+[07/13/2023 08:24]  [Razor]: Divine Fury
+[07/13/2023 08:24]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:24]  Stink Fist: -1
+[07/13/2023 08:24]  System: Your fingers slip!
+[07/13/2023 08:24]  a silverback: -150
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  a silverback: -81
+[07/13/2023 08:24]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:24]  a silverback: -60
+[07/13/2023 08:24]  [Razor]: New target set. [2]
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  a silverback: -126
+[07/13/2023 08:24]  Stink Fist: (Earth Aspect 4,604.1/25000 xp)
+[07/13/2023 08:24]  System: -2
+[07/13/2023 08:24]  System: You finish applying the bandages.
+[07/13/2023 08:24]  Stink Fist: +3
+[07/13/2023 08:24]  You see: a silverback corpse
+[07/13/2023 08:24]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:24]  System: You carve materials from the corpse.
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:24]  Razor: [DISARM]
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  a forest ostard: a forest ostard
+[07/13/2023 08:24]  a frenzied ostard: a frenzied ostard
+[07/13/2023 08:24]  a forest ostard: a forest ostard
+[07/13/2023 08:24]  System: Holy symbols remaining: 9/12
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  a colossal frog: a colossal frog
+[07/13/2023 08:24]  a silverback: a silverback
+[07/13/2023 08:24]  a colossal frog: a colossal frog
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:24]  Razor: found no one
+[07/13/2023 08:24]  a silverback: a silverback
+[07/13/2023 08:24]  a frenzied ostard: a frenzied ostard
+[07/13/2023 08:24]  a forest ostard: a forest ostard
+[07/13/2023 08:24]  a forest ostard: a forest ostard
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  Razor: Target: a silverback
+[07/13/2023 08:24]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:24]  Razor: Attack: a silverback
+[07/13/2023 08:24]  Boyden: Boyden the stablemaster
+[07/13/2023 08:24]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:24]  System: Your strike disarms your target!
+[07/13/2023 08:24]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:24]  a silverback: -144
+[07/13/2023 08:24]  Stink Fist: -2
+[07/13/2023 08:24]  a giant frog: a giant frog
+[07/13/2023 08:24]  a silverback: -42
+[07/13/2023 08:24]  System: Who will you use the bandages on?
+[07/13/2023 08:24]  System: You begin applying the bandages.
+[07/13/2023 08:24]  a silverback: -164
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  a silverback: -80
+[07/13/2023 08:24]  a silverback: -100
+[07/13/2023 08:24]  a silverback: -174
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:24]  [Razor]: New target set.
+[07/13/2023 08:24]  Stink Fist: -4
+[07/13/2023 08:24]  System: Your fingers slip!
+[07/13/2023 08:24]  a silverback: *frenzies*
+[07/13/2023 08:24]  a silverback: -58
+[07/13/2023 08:24]  a silverback: -61
+[07/13/2023 08:24]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Stink Fist: (Earth Aspect 4,606.7/25000 xp)
+[07/13/2023 08:25]  System: -177
+[07/13/2023 08:25]  You see: a silverback corpse
+[07/13/2023 08:25]  Razor: Divine Fury
+[07/13/2023 08:25]  [Razor]: Divine Fury
+[07/13/2023 08:25]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:25]  System: You finish applying the bandages.
+[07/13/2023 08:25]  Stink Fist: +4
+[07/13/2023 08:25]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:25]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:25]  System: You carve materials from the corpse.
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: Target: a frenzied ostard
+[07/13/2023 08:25]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  Razor: Target: a forest ostard
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  a colossal frog: a colossal frog
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  Razor: found no one
+[07/13/2023 08:25]  Razor: Boogity Boogity
+[07/13/2023 08:25]  System: Where do you wish to traverse to?
+[07/13/2023 08:25]  System: That location is blocked.
+[07/13/2023 08:25]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:25]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:25]  Razor: [-Paralyze (s)]
+[07/13/2023 08:25]  System: You are no longer hindered.
+[07/13/2023 08:25]  Razor: found no one
+[07/13/2023 08:25]  Razor: Boogity Boogity
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:25]  Razor: [-Paralyze (s)]
+[07/13/2023 08:25]  System: Where do you wish to traverse to?
+[07/13/2023 08:25]  Razor: Boogity Boogity
+[07/13/2023 08:25]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:25]  System: That location is blocked.
+[07/13/2023 08:25]  System: You are no longer hindered.
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: Target: a colossal frog
+[07/13/2023 08:25]  Razor: [-Paralyze (s)]
+[07/13/2023 08:25]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:25]  Razor: [-Paralyze (s)]
+[07/13/2023 08:25]  a colossal frog: a colossal frog
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  Razor: Attack: a colossal frog
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  System: Where do you wish to traverse to?
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  a colossal frog: -160
+[07/13/2023 08:25]  Stink Fist: -2
+[07/13/2023 08:25]  a colossal frog: *regens*
+[07/13/2023 08:25]  System: You are no longer hindered.
+[07/13/2023 08:25]  System: Who will you use the bandages on?
+[07/13/2023 08:25]  System: You begin applying the bandages.
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  a colossal frog: -43
+[07/13/2023 08:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:25]  System: Your strike disarms your target!
+[07/13/2023 08:25]  a colossal frog: -106
+[07/13/2023 08:25]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:25]  Razor: [DISARM]
+[07/13/2023 08:25]  a colossal frog: -64
+[07/13/2023 08:25]  [Razor]: New target set. [2]
+[07/13/2023 08:25]  a colossal frog: -66
+[07/13/2023 08:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:25]  Stink Fist: (Earth Aspect 4,607.5/25000 xp)
+[07/13/2023 08:25]  System: -1
+[07/13/2023 08:25]  You see: a colossal frog corpse
+[07/13/2023 08:25]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:25]  System: You carve materials from the corpse.
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  Razor: found no one
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:25]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:25]  a crow: a crow
+[07/13/2023 08:25]  a crow: a crow
+[07/13/2023 08:25]  System: You heal what little damage you had.
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  Razor: found no one
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: Target: a crow
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  Razor: Target: a crow
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  [Razor]: New target set. [2]
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  System: Holy symbols remaining: 11/12
+[07/13/2023 08:25]  Razor: found no one
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:25]  Razor: found no one
+[07/13/2023 08:25]  a skeletal knight: a skeletal knight
+[07/13/2023 08:25]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:25]  a skeletal guardian: a skeletal guardian
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: Target: a skeletal knight
+[07/13/2023 08:25]  a skeletal mage: a skeletal mage
+[07/13/2023 08:25]  a skeletal marksman: a skeletal marksman
+[07/13/2023 08:25]  a lich magus: a lich magus
+[07/13/2023 08:25]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:25]  a skeletal mage: a skeletal mage
+[07/13/2023 08:25]  a lich magus: a lich magus
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  a lich magus: a lich magus
+[07/13/2023 08:25]  [Razor]: New target set. [2]
+[07/13/2023 08:25]  a lich magus: a lich magus
+[07/13/2023 08:25]  Sutherland: Sutherland the stablemaster
+[07/13/2023 08:25]  Jahi: Cambria
+[07/13/2023 08:25]  Jahi: [xBu]
+[07/13/2023 08:25]  Jahi: Jahi
+[07/13/2023 08:25]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:25]  Razor: [DISARM]
+[07/13/2023 08:25]  Razor: Target: a skeletal guardian
+[07/13/2023 08:25]  a tribal hunter: a tribal hunter
+[07/13/2023 08:25]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:25]  Razor: Attack: a skeletal guardian
+[07/13/2023 08:25]  a lich: a lich
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  Razor: Target: a tribal hunter
+[07/13/2023 08:25]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:25]  Razor: Attack: a tribal hunter
+[07/13/2023 08:25]  Stink Fist: -3
+[07/13/2023 08:25]  System: Your strike disarms your target!
+[07/13/2023 08:25]  a tribal hunter: -80
+[07/13/2023 08:25]  [Razor]: New target set.
+[07/13/2023 08:25]  a tribal hunter: -70
+[07/13/2023 08:25]  a skeletal knight: a skeletal knight
+[07/13/2023 08:25]  Razor: Divine Fury
+[07/13/2023 08:25]  [Razor]: Divine Fury
+[07/13/2023 08:25]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:25]  System: Who will you use the bandages on?
+[07/13/2023 08:25]  System: You begin applying the bandages.
+[07/13/2023 08:25]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:25]  a tribal hunter: -209
+[07/13/2023 08:25]  System: Holy symbols remaining: 6/12
+[07/13/2023 08:26]  a tribal hunter: -120
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Stink Fist: -6
+[07/13/2023 08:26]  System: Your fingers slip!
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  a tribal hunter: -118
+[07/13/2023 08:26]  a tribal hunter: -79
+[07/13/2023 08:26]  a tribal hunter: -85
+[07/13/2023 08:26]  a skeletal knight: a skeletal knight
+[07/13/2023 08:26]  Stink Fist: -7
+[07/13/2023 08:26]  System: Your fingers slip!
+[07/13/2023 08:26]  a tribal hunter: -70
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: Target: a skeletal guardian
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  Razor: Attack: a skeletal guardian
+[07/13/2023 08:26]  a tribal hunter: -148
+[07/13/2023 08:26]  Stink Fist: -3
+[07/13/2023 08:26]  a skeletal guardian: -129
+[07/13/2023 08:26]  Stink Fist: -6
+[07/13/2023 08:26]  a skeletal guardian: -43
+[07/13/2023 08:26]  System: Your fingers slip! [2]
+[07/13/2023 08:26]  Stink Fist: -4
+[07/13/2023 08:26]  System: You finish applying the bandages.
+[07/13/2023 08:26]  Stink Fist: +26
+[07/13/2023 08:26]  a skeletal guardian: -85
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  a skeletal guardian: -45
+[07/13/2023 08:26]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:26]  Stink Fist: -5
+[07/13/2023 08:26]  a skeletal guardian: -28
+[07/13/2023 08:26]  System: Your fingers slip!
+[07/13/2023 08:26]  System: Who will you use the bandages on?
+[07/13/2023 08:26]  System: You begin applying the bandages.
+[07/13/2023 08:26]  a skeletal guardian: -58
+[07/13/2023 08:26]  a skeletal guardian: -28
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  Stink Fist: -1
+[07/13/2023 08:26]  a skeletal guardian: -72
+[07/13/2023 08:26]  System: Your fingers slip!
+[07/13/2023 08:26]  a skeletal guardian: -70
+[07/13/2023 08:26]  a skeletal guardian: -37
+[07/13/2023 08:26]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:26]  Stink Fist: -5
+[07/13/2023 08:26]  a skeletal guardian: -123
+[07/13/2023 08:26]  System: Your fingers slip!
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  a skeletal guardian: -123
+[07/13/2023 08:26]  a skeletal guardian: -7
+[07/13/2023 08:26]  a skeletal guardian: -93
+[07/13/2023 08:26]  Stink Fist: -1
+[07/13/2023 08:26]  a skeletal guardian: -69
+[07/13/2023 08:26]  System: Your fingers slip!
+[07/13/2023 08:26]  System: Your strength has changed by -10.  It is now 100
+[07/13/2023 08:26]  System: Your dexterity has changed by -10.  It is now 100
+[07/13/2023 08:26]  System: Your intelligence has changed by -10.  It is now 25
+[07/13/2023 08:26]  Razor: [-Strength (s)]
+[07/13/2023 08:26]  Razor: [-Agility (s)]
+[07/13/2023 08:26]  Razor: [-Cunning (s)]
+[07/13/2023 08:26]  Razor: Str: -10 - 100
+[07/13/2023 08:26]  Razor: Dex: -10 - 100
+[07/13/2023 08:26]  Razor: Int: -10 - 25
+[07/13/2023 08:26]  System: You heal what little damage you had.
+[07/13/2023 08:26]  System: Your attack crushes their armor!
+[07/13/2023 08:26]  a skeletal guardian: -109
+[07/13/2023 08:26]  a skeletal guardian: -7
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  a skeletal guardian: -108
+[07/13/2023 08:26]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:26]  Stink Fist: +0
+[07/13/2023 08:26]  Stink Fist: (Earth Aspect 4,610.9/25000 xp)
+[07/13/2023 08:26]  System: -266
+[07/13/2023 08:26]  You see: a skeleton guardian corpse
+[07/13/2023 08:26]  Razor: [-Protection (s)]
+[07/13/2023 08:26]  Razor: chug
+[07/13/2023 08:26]  System: You must wait to perform another action.
+[07/13/2023 08:26]  Razor: chug
+[07/13/2023 08:26]  System: Your strength has changed by 20.  It is now 120
+[07/13/2023 08:26]  Razor: [+Strength (312s)]
+[07/13/2023 08:26]  Razor: Str: +20 - 120
+[07/13/2023 08:26]  Razor: [-Strength (s)]
+[07/13/2023 08:26]  Razor: [+Strength (312s)]
+[07/13/2023 08:26]  Stink Fist: -2
+[07/13/2023 08:26]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[07/13/2023 08:26]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:26]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:26]  Razor: [DISARM]
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: Target: a tribal hunter
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  Razor: Attack: a tribal hunter
+[07/13/2023 08:26]  System: Your strike disarms your target!
+[07/13/2023 08:26]  a tribal hunter: -64
+[07/13/2023 08:26]  Stink Fist: -3
+[07/13/2023 08:26]  Razor: chug
+[07/13/2023 08:26]  System: Your dexterity has changed by 20.  It is now 120
+[07/13/2023 08:26]  Razor: [+Agility (312s)]
+[07/13/2023 08:26]  Razor: Dex: +20 - 120
+[07/13/2023 08:26]  Razor: [-Agility (s)]
+[07/13/2023 08:26]  Razor: [+Agility (312s)]
+[07/13/2023 08:26]  a tribal hunter: -92
+[07/13/2023 08:26]  Razor: chug refresh
+[07/13/2023 08:26]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[07/13/2023 08:26]  a tribal hunter: -56
+[07/13/2023 08:26]  Razor: Divine Fury
+[07/13/2023 08:26]  [Razor]: Divine Fury
+[07/13/2023 08:26]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:26]  System: Captcha successful.
+[07/13/2023 08:26]  System: You carve materials from the corpse.
+[07/13/2023 08:26]  System: Who will you use the bandages on?
+[07/13/2023 08:26]  System: You begin applying the bandages.
+[07/13/2023 08:26]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[07/13/2023 08:26]  a tribal hunter: -152
+[07/13/2023 08:26]  a tribal hunter: -228
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:26]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:26]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:26]  a tribal hunter: -154
+[07/13/2023 08:26]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:26]  Stink Fist: +23
+[07/13/2023 08:26]  System: some damage has been healed : 23
+[07/13/2023 08:26]  Stink Fist: (Earth Aspect 4,615.9/25000 xp)
+[07/13/2023 08:26]  System: -275
+[07/13/2023 08:26]  You see: a forest ostard corpse
+[07/13/2023 08:26]  You see: a tribal hunter corpse
+[07/13/2023 08:26]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:26]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:26]  System: You carve materials from the corpse.
+[07/13/2023 08:26]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:26]  Razor: found no one
+[07/13/2023 08:26]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:26]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:26]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:26]  System: You carve materials from the corpse.
+[07/13/2023 08:26]  System: You heal what little damage you had.
+[07/13/2023 08:26]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:26]  a fen daemon: a fen daemon
+[07/13/2023 08:26]  Razor: found no one
+[07/13/2023 08:26]  a tribal shaman: a tribal shaman
+[07/13/2023 08:26]  a fen daemon: a fen daemon
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: Target: a fen daemon
+[07/13/2023 08:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:26]  Razor: Attack: a fen daemon
+[07/13/2023 08:26]  Stink Fist: -20
+[07/13/2023 08:26]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:26]  [Razor]: New target set.
+[07/13/2023 08:26]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:26]  System: You have been ensnared and poisoned!
+[07/13/2023 08:26]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:26]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:26]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:26]  Stink Fist: -10
+[07/13/2023 08:26]  Stink Fist: Warding stance activated.
+[07/13/2023 08:26]  Razor: [-Paralyze (s)]
+[07/13/2023 08:26]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:26]  Stink Fist: Barrier finisher activated.
+[07/13/2023 08:26]  Razor: [-Paralyze (s)]
+[07/13/2023 08:26]  System: You are no longer entangled.
+[07/13/2023 08:26]  Razor: Cleanse by fire
+[07/13/2023 08:26]  System: You increase your damage resistance to creature-casted spells.
+[07/13/2023 08:26]  Razor: [-Magic Resist Potion (s)]
+[07/13/2023 08:26]  Razor: [+Magic Resist Potion (312s)]
+[07/13/2023 08:26]  [Razor]: Cleanse by fire
+[07/13/2023 08:26]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:26]  System: You absorb their spell.
+[07/13/2023 08:26]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:26]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:27]  System: Who will you use the bandages on?
+[07/13/2023 08:27]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:27]  System: You begin applying the bandages.
+[07/13/2023 08:27]  Stink Fist: -5
+[07/13/2023 08:27]  System: Your fingers slip!
+[07/13/2023 08:27]  System: You have been ensnared and poisoned!
+[07/13/2023 08:27]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:27]  Razor: [DISARM]
+[07/13/2023 08:27]  System: Your strike disarms your target!
+[07/13/2023 08:27]  a fen daemon: -64
+[07/13/2023 08:27]  System: You cleanse yourself of poison.
+[07/13/2023 08:27]  a fen daemon: -150
+[07/13/2023 08:27]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:27]  System: Your attack hinders your target!
+[07/13/2023 08:27]  a fen daemon: -215
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  System: You are no longer entangled.
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  a fen daemon: -171
+[07/13/2023 08:27]  a fen daemon: -192
+[07/13/2023 08:27]  Razor: Divine Fury
+[07/13/2023 08:27]  [Razor]: Divine Fury
+[07/13/2023 08:27]  System: Holy symbols remaining: 4/12
+[07/13/2023 08:27]  a fen daemon: -142
+[07/13/2023 08:27]  Stink Fist: Crane stance activated.
+[07/13/2023 08:27]  a fen daemon: -106
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:27]  a fen daemon: -159
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  System: You have been ensnared and poisoned!
+[07/13/2023 08:27]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:27]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:27]  a fen daemon: -186
+[07/13/2023 08:27]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:27]  Stink Fist: -18
+[07/13/2023 08:27]  System: Your fingers slip!
+[07/13/2023 08:27]  Stink Fist: -3
+[07/13/2023 08:27]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:27]  a fen daemon: -194
+[07/13/2023 08:27]  System: You finish applying the bandages.
+[07/13/2023 08:27]  System: You fail to cure yourself.
+[07/13/2023 08:27]  Stink Fist: +20
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:27]  System: Who will you use the bandages on?
+[07/13/2023 08:27]  System: You begin applying the bandages.
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  System: You are no longer entangled.
+[07/13/2023 08:27]  a fen daemon: -39
+[07/13/2023 08:27]  Stink Fist: +5
+[07/13/2023 08:27]  System: some damage has been healed : 5
+[07/13/2023 08:27]  System: Restored 5 health with Crane stance.
+[07/13/2023 08:27]  System: Holy symbols remaining: 5/12
+[07/13/2023 08:27]  a fen daemon: -204
+[07/13/2023 08:27]  Stink Fist: +5
+[07/13/2023 08:27]  System: some damage has been healed : 5
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  System: Your fingers slip!
+[07/13/2023 08:27]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:27]  Stink Fist: -8
+[07/13/2023 08:27]  Stink Fist: -5
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  a fen daemon: -56
+[07/13/2023 08:27]  Stink Fist: +5
+[07/13/2023 08:27]  System: some damage has been healed : 5
+[07/13/2023 08:27]  a fen daemon: -77
+[07/13/2023 08:27]  System: Restored 5 health with Crane stance. [2]
+[07/13/2023 08:27]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:27]  a fen daemon: a fen daemon
+[07/13/2023 08:27]  a fen daemon: -64
+[07/13/2023 08:27]  System: Wrestling stance adoption expired.
+[07/13/2023 08:27]  System: Your fingers slip! [2]
+[07/13/2023 08:27]  a fen daemon: -73
+[07/13/2023 08:27]  a fen daemon: -43
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:27]  a fen daemon: -180
+[07/13/2023 08:27]  Stink Fist: +5
+[07/13/2023 08:27]  System: some damage has been healed : 5
+[07/13/2023 08:27]  System: Restored 5 health with Crane stance.
+[07/13/2023 08:27]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:27]  Stink Fist: -8
+[07/13/2023 08:27]  Razor: [+Magic Reflection (0s)]
+[07/13/2023 08:27]  Razor: [-Magic Reflection (s)]
+[07/13/2023 08:27]  System: Your fingers slip!
+[07/13/2023 08:27]  a fen daemon: -81
+[07/13/2023 08:27]  System: You finish applying the bandages.
+[07/13/2023 08:27]  System: You fail to cure yourself.
+[07/13/2023 08:27]  Stink Fist: +24
+[07/13/2023 08:27]  System: Who will you use the bandages on?
+[07/13/2023 08:27]  System: You begin applying the bandages.
+[07/13/2023 08:27]  a fen daemon: -81
+[07/13/2023 08:27]  Stink Fist: -5
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  Stink Fist: -17
+[07/13/2023 08:27]  System: Your fingers slip! [2]
+[07/13/2023 08:27]  System: That potion was not strong enough to cure your ailment!
+[07/13/2023 08:27]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  a fen daemon: -180
+[07/13/2023 08:27]  a fen daemon: -73
+[07/13/2023 08:27]  System: You cleanse yourself of poison.
+[07/13/2023 08:27]  a fen daemon: -120
+[07/13/2023 08:27]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:27]  System: You are not poisoned.
+[07/13/2023 08:27]  a fen daemon: -156
+[07/13/2023 08:27]  System: Your attack hinders your target!
+[07/13/2023 08:27]  a fen daemon: -72
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  a fen daemon: -56
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  Stink Fist: Bulwark stance activated.
+[07/13/2023 08:27]  Stink Fist: Last Stand finisher activated.
+[07/13/2023 08:27]  System: Your strike disarms your target!
+[07/13/2023 08:27]  a fen daemon: -91
+[07/13/2023 08:27]  Stink Fist: +10
+[07/13/2023 08:27]  System: some damage has been healed : 10
+[07/13/2023 08:27]  System: Restored 10 health with Crane stance.
+[07/13/2023 08:27]  System: You finish applying the bandages.
+[07/13/2023 08:27]  Stink Fist: +16
+[07/13/2023 08:27]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:27]  Razor: [DISARM]
+[07/13/2023 08:27]  a fen daemon: -66
+[07/13/2023 08:27]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[07/13/2023 08:27]  a fen daemon: -148
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  a fen daemon: -190
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  System: You have been ensnared and poisoned!
+[07/13/2023 08:27]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:27]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:27]  Stink Fist: -8
+[07/13/2023 08:27]  a fen daemon: -88
+[07/13/2023 08:27]  Stink Fist: +5
+[07/13/2023 08:27]  System: some damage has been healed : 5
+[07/13/2023 08:27]  System: Restored 5 health with Crane stance.
+[07/13/2023 08:27]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:27]  Stink Fist: -1
+[07/13/2023 08:27]  a tribal shaman: a tribal shaman
+[07/13/2023 08:27]  Razor: Cleanse by fire
+[07/13/2023 08:27]  [Razor]: Cleanse by fire
+[07/13/2023 08:27]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:27]  System: You feel cured of poison!
+[07/13/2023 08:27]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:27]  a fen daemon: -104
+[07/13/2023 08:27]  Stink Fist: +4
+[07/13/2023 08:27]  System: some damage has been healed : 4
+[07/13/2023 08:27]  System: Restored 4 health with Crane stance.
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  System: You are no longer entangled.
+[07/13/2023 08:27]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:27]  a fen daemon: -102
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:27]  a fen daemon: -182
+[07/13/2023 08:27]  System: Wrestling stance adoption expired.
+[07/13/2023 08:27]  System: Your attack hinders your target!
+[07/13/2023 08:27]  a fen daemon: -90
+[07/13/2023 08:27]  Stink Fist: -8
+[07/13/2023 08:27]  Razor: Divine Fury
+[07/13/2023 08:27]  [Razor]: Divine Fury
+[07/13/2023 08:27]  System: Holy symbols remaining: 5/12
+[07/13/2023 08:27]  System: You must wait a moment before attempting to use another Chivalry ability.
+[07/13/2023 08:27]  a fen daemon: -51
+[07/13/2023 08:27]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:27]  System: Who will you use the bandages on?
+[07/13/2023 08:27]  System: You begin applying the bandages.
+[07/13/2023 08:27]  System: Holy symbols remaining: 3/12
+[07/13/2023 08:27]  a fen daemon: -56
+[07/13/2023 08:27]  System: Holy symbols remaining: 2/12
+[07/13/2023 08:27]  a fen daemon: -192
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  a fen daemon: -10
+[07/13/2023 08:27]  a fen daemon: -216
+[07/13/2023 08:27]  a fen daemon: -77
+[07/13/2023 08:27]  System: You parry the spell.
+[07/13/2023 08:27]  System: You have been ensnared and poisoned!
+[07/13/2023 08:27]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:27]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:27]  a fen daemon: -93
+[07/13/2023 08:27]  System: You cleanse yourself of poison.
+[07/13/2023 08:27]  a fen daemon: -120
+[07/13/2023 08:27]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:27]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:27]  a fen daemon: -10
+[07/13/2023 08:27]  Stink Fist: -3
+[07/13/2023 08:27]  System: Your fingers slip!
+[07/13/2023 08:27]  Stink Fist: -11
+[07/13/2023 08:27]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:27]  a fen daemon: -123
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:27]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  Razor: [-Paralyze (s)]
+[07/13/2023 08:27]  System: You are no longer entangled.
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  a fen daemon: -126
+[07/13/2023 08:27]  a fen daemon: -19
+[07/13/2023 08:27]  a fen daemon: -10
+[07/13/2023 08:27]  a fen daemon: -60
+[07/13/2023 08:27]  Stink Fist: +10
+[07/13/2023 08:27]  System: some damage has been healed : 10
+[07/13/2023 08:27]  System: Restored 10 health with Crane stance.
+[07/13/2023 08:27]  System: Your fingers slip!
+[07/13/2023 08:27]  System: You finish applying the bandages.
+[07/13/2023 08:27]  Stink Fist: +10
+[07/13/2023 08:27]  a fen daemon: -152
+[07/13/2023 08:27]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:27]  a fen daemon: -381
+[07/13/2023 08:27]  a fen daemon: -19
+[07/13/2023 08:27]  a fen daemon: -10
+[07/13/2023 08:27]  Stink Fist: Monkey stance activated.
+[07/13/2023 08:27]  a fen daemon: -12
+[07/13/2023 08:27]  [Razor]: New target set.
+[07/13/2023 08:27]  a fen daemon: -64
+[07/13/2023 08:27]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:27]  Stink Fist: -13
+[07/13/2023 08:27]  System: You evade an attack (Dispel Evil).
+[07/13/2023 08:27]  Stink Fist: -1
+[07/13/2023 08:27]  a fen daemon: -94
+[07/13/2023 08:27]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:27]  a fen daemon: -19
+[07/13/2023 08:27]  a fen daemon: -10
+[07/13/2023 08:27]  a fen daemon: -161
+[07/13/2023 08:27]  a fen daemon: -12
+[07/13/2023 08:27]  System: Who will you use the bandages on?
+[07/13/2023 08:27]  System: You begin applying the bandages.
+[07/13/2023 08:27]  a fen daemon: -34
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  a fen daemon: -19
+[07/13/2023 08:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:28]  a fen daemon: -12
+[07/13/2023 08:28]  System: Your strike disarms your target!
+[07/13/2023 08:28]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:28]  a fen daemon: -396
+[07/13/2023 08:28]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:28]  Stink Fist: +13
+[07/13/2023 08:28]  System: some damage has been healed : 13
+[07/13/2023 08:28]  System: You have unlocked a codex upgrade point for Parry (26 available).
+[07/13/2023 08:28]  System: You have unlocked a codex upgrade point for Wrestling (26 available).
+[07/13/2023 08:28]  Stink Fist: (Earth Aspect 4,650.1/25000 xp)
+[07/13/2023 08:28]  System: -1228
+[07/13/2023 08:28]  You see: a fen daemon corpse
+[07/13/2023 08:28]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:28]  Razor: [DISARM]
+[07/13/2023 08:28]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:28]  System: You carve materials from the corpse.
+[07/13/2023 08:28]  System: Wrestling stance adoption expired.
+[07/13/2023 08:28]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:28]  Razor: found no one
+[07/13/2023 08:28]  System: You heal what little damage you had.
+[07/13/2023 08:28]  Razor: found no one
+[07/13/2023 08:28]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:28]  Razor: found no one
+[07/13/2023 08:28]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:28]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:28]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:28]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:28]  Razor: found no one
+[07/13/2023 08:28]  a fen daemon: a fen daemon
+[07/13/2023 08:28]  a tribal hunter: a tribal hunter
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  Razor: Target: a fen daemon
+[07/13/2023 08:28]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:28]  Razor: Attack: a fen daemon
+[07/13/2023 08:28]  Stink Fist: -9
+[07/13/2023 08:28]  System: Holy symbols remaining: 7/12
+[07/13/2023 08:28]  System: You may now use a strength potion.
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:28]  System: You absorb their spell.
+[07/13/2023 08:28]  System: You parry the spell.
+[07/13/2023 08:28]  System: You have been ensnared and poisoned!
+[07/13/2023 08:28]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:28]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:28]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:28]  Stink Fist: Warding stance activated.
+[07/13/2023 08:28]  Stink Fist: -1
+[07/13/2023 08:28]  Stink Fist: Barrier finisher activated.
+[07/13/2023 08:28]  Razor: [-Paralyze (s)]
+[07/13/2023 08:28]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:28]  Razor: Cleanse by fire
+[07/13/2023 08:28]  [Razor]: Cleanse by fire
+[07/13/2023 08:28]  System: Holy symbols remaining: 6/12
+[07/13/2023 08:28]  Razor: [-Paralyze (s)]
+[07/13/2023 08:28]  System: You are no longer entangled.
+[07/13/2023 08:28]  System: You feel cured of poison!
+[07/13/2023 08:28]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[07/13/2023 08:28]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:28]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:28]  Razor: [DISARM]
+[07/13/2023 08:28]  System: You may now use an agility potion.
+[07/13/2023 08:28]  System: Who will you use the bandages on?
+[07/13/2023 08:28]  System: You begin applying the bandages.
+[07/13/2023 08:28]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[07/13/2023 08:28]  System: Your strike disarms your target!
+[07/13/2023 08:28]  a fen daemon: -71
+[07/13/2023 08:28]  Stink Fist: -16
+[07/13/2023 08:28]  System: Your fingers slip!
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  a fen daemon: -109
+[07/13/2023 08:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:28]  a fen daemon: -64
+[07/13/2023 08:28]  Razor: Divine Fury
+[07/13/2023 08:28]  [Razor]: Divine Fury
+[07/13/2023 08:28]  System: Holy symbols remaining: 3/12
+[07/13/2023 08:28]  System: Your attack hinders your target!
+[07/13/2023 08:28]  a fen daemon: -175
+[07/13/2023 08:28]  Stink Fist: -17
+[07/13/2023 08:28]  System: Your fingers slip!
+[07/13/2023 08:28]  a fen daemon: -135
+[07/13/2023 08:28]  a fen daemon: -64
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  System: Wrestling stance adoption expired.
+[07/13/2023 08:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:28]  a fen daemon: -109
+[07/13/2023 08:28]  Stink Fist: +38
+[07/13/2023 08:28]  System: some damage has been healed : 38
+[07/13/2023 08:28]  Stink Fist: Bulwark stance activated.
+[07/13/2023 08:28]  a fen daemon: -221
+[07/13/2023 08:28]  Stink Fist: Last Stand finisher activated.
+[07/13/2023 08:28]  System: You finish applying the bandages.
+[07/13/2023 08:28]  Stink Fist: +2
+[07/13/2023 08:28]  a fen daemon: -116
+[07/13/2023 08:28]  a fen daemon: -39
+[07/13/2023 08:28]  Stink Fist: -14
+[07/13/2023 08:28]  System: Holy symbols remaining: 4/12
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:28]  a fen daemon: -143
+[07/13/2023 08:28]  a fen daemon: -240
+[07/13/2023 08:28]  System: Who will you use the bandages on?
+[07/13/2023 08:28]  System: You begin applying the bandages.
+[07/13/2023 08:28]  a fen daemon: -68
+[07/13/2023 08:28]  System: You smash through the remainder of their armor, dealing grevious damage!
+[07/13/2023 08:28]  a fen daemon: -111
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  a fen daemon: -287
+[07/13/2023 08:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:28]  System: You parry the spell.
+[07/13/2023 08:28]  System: You have been ensnared and poisoned!
+[07/13/2023 08:28]  Stink Fist: * You feel extremely weak and are in severe pain! *
+[07/13/2023 08:28]  Razor: [+Deadly Poison (60s)]
+[07/13/2023 08:28]  Razor: [+Paralyze (1s)]
+[07/13/2023 08:28]  System: Wrestling stance adoption expired.
+[07/13/2023 08:28]  Stink Fist: -4
+[07/13/2023 08:28]  System: Your fingers slip!
+[07/13/2023 08:28]  a fen daemon: -252
+[07/13/2023 08:28]  Stink Fist: Warding stance activated.
+[07/13/2023 08:28]  Razor: [-Paralyze (s)]
+[07/13/2023 08:28]  Razor: [+Paralyze (0s)]
+[07/13/2023 08:28]  Stink Fist: Barrier finisher activated.
+[07/13/2023 08:28]  a fen daemon: -47
+[07/13/2023 08:28]  System: You are no longer entangled.
+[07/13/2023 08:28]  Razor: [-Paralyze (s)]
+[07/13/2023 08:28]  a fen daemon: -264
+[07/13/2023 08:28]  System: You absorb their spell.
+[07/13/2023 08:28]  System: You feel cured of poison!
+[07/13/2023 08:28]  Razor: [-Deadly Poison (s)]
+[07/13/2023 08:28]  Stink Fist: -4
+[07/13/2023 08:28]  a fen daemon: -51
+[07/13/2023 08:28]  System: Your fingers slip!
+[07/13/2023 08:28]  [Razor]: New target set.
+[07/13/2023 08:28]  a fen daemon: -95
+[07/13/2023 08:28]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:28]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:28]  a fen daemon: -103
+[07/13/2023 08:28]  System: You finish applying the bandages.
+[07/13/2023 08:28]  Stink Fist: +19
+[07/13/2023 08:28]  a fen daemon: -86
+[07/13/2023 08:28]  a fen daemon: -19
+[07/13/2023 08:28]  a fen daemon: -227
+[07/13/2023 08:29]  a fen daemon: -404
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  Stink Fist: -19
+[07/13/2023 08:29]  Stink Fist: -13
+[07/13/2023 08:29]  a fen daemon: -50
+[07/13/2023 08:29]  System: Wrestling stance adoption expired.
+[07/13/2023 08:29]  a fen daemon: -19
+[07/13/2023 08:29]  Stink Fist: Bulwark stance activated.
+[07/13/2023 08:29]  System: Your strike disarms your target!
+[07/13/2023 08:29]  a fen daemon: -58
+[07/13/2023 08:29]  Stink Fist: Last Stand finisher activated.
+[07/13/2023 08:29]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:29]  Razor: [DISARM]
+[07/13/2023 08:29]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:29]  a fen daemon: -396
+[07/13/2023 08:29]  System: Who will you use the bandages on?
+[07/13/2023 08:29]  System: You begin applying the bandages.
+[07/13/2023 08:29]  Stink Fist: -13
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  a fen daemon: -24
+[07/13/2023 08:29]  a fen daemon: -160
+[07/13/2023 08:29]  a fen daemon: -332
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  a fen daemon: -196
+[07/13/2023 08:29]  a fen daemon: -24
+[07/13/2023 08:29]  Stink Fist: -8
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  a fen daemon: -86
+[07/13/2023 08:29]  Razor: Divine Fury
+[07/13/2023 08:29]  [Razor]: Divine Fury
+[07/13/2023 08:29]  System: Holy symbols remaining: 5/12
+[07/13/2023 08:29]  a fen daemon: -82
+[07/13/2023 08:29]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:29]  a fen daemon: -24
+[07/13/2023 08:29]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:29]  a fen daemon: -466
+[07/13/2023 08:29]  Stink Fist: -7
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  a fen daemon: -69
+[07/13/2023 08:29]  System: Wrestling stance adoption expired.
+[07/13/2023 08:29]  a fen daemon: -16
+[07/13/2023 08:29]  a fen daemon: -93
+[07/13/2023 08:29]  System: You finish applying the bandages.
+[07/13/2023 08:29]  Stink Fist: +48
+[07/13/2023 08:29]  a fen daemon: -82
+[07/13/2023 08:29]  System: Who will you use the bandages on?
+[07/13/2023 08:29]  System: You begin applying the bandages.
+[07/13/2023 08:29]  System: Holy symbols remaining: 5/12
+[07/13/2023 08:29]  a fen daemon: -86
+[07/13/2023 08:29]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:29]  Stink Fist: +9
+[07/13/2023 08:29]  System: some damage has been healed : 9
+[07/13/2023 08:29]  a fen daemon: -264
+[07/13/2023 08:29]  a fen daemon: -16
+[07/13/2023 08:29]  System: Holy symbols remaining: 3/12
+[07/13/2023 08:29]  a fen daemon: -145
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  System: Your attack causes your target to bleed and become susceptible to special attacks! [2]
+[07/13/2023 08:29]  a fen daemon: -93
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  Stink Fist: -12
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  Stink Fist: -4
+[07/13/2023 08:29]  System: Your attack hinders your target!
+[07/13/2023 08:29]  a fen daemon: -98
+[07/13/2023 08:29]  a fen daemon: -17
+[07/13/2023 08:29]  a fen daemon: -16
+[07/13/2023 08:29]  a fen daemon: -39
+[07/13/2023 08:29]  a fen daemon: -93
+[07/13/2023 08:29]  a fen daemon: -120
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  a fen daemon: -17
+[07/13/2023 08:29]  a fen daemon: -16
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  a fen daemon: -61
+[07/13/2023 08:29]  Stink Fist: -12
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  a fen daemon: -93
+[07/13/2023 08:29]  a fen daemon: -231
+[07/13/2023 08:29]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:29]  a fen daemon: -17
+[07/13/2023 08:29]  a fen daemon: -70
+[07/13/2023 08:29]  System: You finish applying the bandages.
+[07/13/2023 08:29]  Stink Fist: +27
+[07/13/2023 08:29]  a fen daemon: -16
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  a fen daemon: -64
+[07/13/2023 08:29]  a fen daemon: -93
+[07/13/2023 08:29]  a fen daemon: -46
+[07/13/2023 08:29]  Stink Fist: Dragon stance activated.
+[07/13/2023 08:29]  a fen daemon: -56
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  a fen daemon: -17
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  a fen daemon: -54
+[07/13/2023 08:29]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:29]  System: Your attack hinders your target!
+[07/13/2023 08:29]  a fen daemon: -146
+[07/13/2023 08:29]  a fen daemon: -46
+[07/13/2023 08:29]  a fen daemon: -67
+[07/13/2023 08:29]  a fen daemon: -17
+[07/13/2023 08:29]  a fen daemon: -46
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  System: Your strike disarms your target!
+[07/13/2023 08:29]  a fen daemon: -81
+[07/13/2023 08:29]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:29]  Razor: [DISARM]
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  Stink Fist: (Earth Aspect 4,684.3/25000 xp)
+[07/13/2023 08:29]  System: -82
+[07/13/2023 08:29]  You see: a fen daemon corpse
+[07/13/2023 08:29]  System: Wrestling stance adoption expired.
+[07/13/2023 08:29]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:29]  System: You carve materials from the corpse.
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  Razor: Target: a tribal shaman
+[07/13/2023 08:29]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:29]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  Razor: Attack: a tribal shaman
+[07/13/2023 08:29]  a tribal shaman: -51
+[07/13/2023 08:29]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:29]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:29]  System: Your target overpowers your hinder effect and instead receives a vicious wound!
+[07/13/2023 08:29]  a tribal shaman: -168
+[07/13/2023 08:29]  a tribal shaman: *rattles bones*
+[07/13/2023 08:29]  Stink Fist: -4
+[07/13/2023 08:29]  Razor: Divine Fury
+[07/13/2023 08:29]  [Razor]: Divine Fury
+[07/13/2023 08:29]  System: Holy symbols remaining: 5/12
+[07/13/2023 08:29]  Stink Fist: -4
+[07/13/2023 08:29]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:29]  a tribal shaman: -158
+[07/13/2023 08:29]  System: Who will you use the bandages on?
+[07/13/2023 08:29]  System: You begin applying the bandages.
+[07/13/2023 08:29]  Stink Fist: -3
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  a tribal shaman: -60
+[07/13/2023 08:29]  Stink Fist: -3
+[07/13/2023 08:29]  Stink Fist: -4
+[07/13/2023 08:29]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:29]  a tribal shaman: -44
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  a tribal shaman: -57
+[07/13/2023 08:29]  System: Your fingers slip! [2]
+[07/13/2023 08:29]  a tribal shaman: -63
+[07/13/2023 08:29]  Stink Fist: -6
+[07/13/2023 08:29]  a tribal shaman: -49
+[07/13/2023 08:29]  a tribal shaman: -50
+[07/13/2023 08:29]  [Razor]: New target set.
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:29]  Stink Fist: -5
+[07/13/2023 08:29]  a tribal shaman: -55
+[07/13/2023 08:29]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:29]  a tribal shaman: -63
+[07/13/2023 08:29]  System: You finish applying the bandages.
+[07/13/2023 08:29]  Stink Fist: +27
+[07/13/2023 08:29]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:29]  a tribal shaman: -160
+[07/13/2023 08:29]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:29]  System: Your fingers slip!
+[07/13/2023 08:30]  a tribal shaman: -50
+[07/13/2023 08:30]  System: Your attack hinders your target!
+[07/13/2023 08:30]  a tribal shaman: -97
+[07/13/2023 08:30]  [Razor]: New target set.
+[07/13/2023 08:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:30]  a tribal shaman: -32
+[07/13/2023 08:30]  a tribal shaman: -269
+[07/13/2023 08:30]  System: You deliver a zen strike to your opponent.
+[07/13/2023 08:30]  Stink Fist: +0
+[07/13/2023 08:30]  Stink Fist: (Earth Aspect 4,693.1/25000 xp)
+[07/13/2023 08:30]  System: -574
+[07/13/2023 08:30]  You see: a tribal shaman corpse
+[07/13/2023 08:30]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:30]  Stink Fist: -7
+[07/13/2023 08:30]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:30]  Razor: [DISARM]
+[07/13/2023 08:30]  System: Who will you use the bandages on?
+[07/13/2023 08:30]  System: You begin applying the bandages.
+[07/13/2023 08:30]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:30]  System: You carve materials from the corpse.
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:30]  a tribal hunter: a tribal hunter
+[07/13/2023 08:30]  [Razor]: New target set.
+[07/13/2023 08:30]  Razor: Target: a tribal hunter
+[07/13/2023 08:30]  System: Camellia has completed the achievement: Distinguished Strategist.
+[07/13/2023 08:30]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[07/13/2023 08:30]  Razor: Attack: a tribal hunter
+[07/13/2023 08:30]  Stink Fist: -7
+[07/13/2023 08:30]  System: Your fingers slip!
+[07/13/2023 08:30]  System: Your strike disarms your target!
+[07/13/2023 08:30]  a tribal hunter: -100
+[07/13/2023 08:30]  a tribal hunter: -70
+[07/13/2023 08:30]  System: You finish applying the bandages.
+[07/13/2023 08:30]  Stink Fist: +11
+[07/13/2023 08:30]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:30]  a tribal hunter: -239
+[07/13/2023 08:30]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[07/13/2023 08:30]  System: Holy symbols remaining: 9/12
+[07/13/2023 08:30]  a tribal hunter: -58
+[07/13/2023 08:30]  a tribal hunter: -82
+[07/13/2023 08:30]  [Razor]: New target set.
+[07/13/2023 08:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:30]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:30]  a tribal hunter: -60
+[07/13/2023 08:30]  a tribal hunter: -65
+[07/13/2023 08:30]  Stink Fist: -6
+[07/13/2023 08:30]  a tribal hunter: -54
+[07/13/2023 08:30]  Razor: Divine Fury
+[07/13/2023 08:30]  [Razor]: Divine Fury
+[07/13/2023 08:30]  System: Holy symbols remaining: 4/12
+[07/13/2023 08:30]  System: Who will you use the bandages on?
+[07/13/2023 08:30]  System: You begin applying the bandages.
+[07/13/2023 08:30]  a tribal hunter: -60
+[07/13/2023 08:30]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:30]  System: Your attack cripples your target, lowering their defense!
+[07/13/2023 08:30]  a tribal hunter: -171
+[07/13/2023 08:30]  Stink Fist: -6
+[07/13/2023 08:30]  System: Your fingers slip!
+[07/13/2023 08:30]  a tribal hunter: -68
+[07/13/2023 08:30]  [Razor]: New target set.
+[07/13/2023 08:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:30]  a tribal hunter: -153
+[07/13/2023 08:30]  a tribal hunter: -48
+[07/13/2023 08:30]  Stink Fist: -1
+[07/13/2023 08:30]  System: Your attack hinders your target!
+[07/13/2023 08:30]  a tribal hunter: -138
+[07/13/2023 08:30]  System: 5 mana consumed for Dragon stance.
+[07/13/2023 08:30]  System: Your fingers slip!
+[07/13/2023 08:30]  a tribal hunter: -61
+[07/13/2023 08:30]  a tribal hunter: -213
+[07/13/2023 08:30]  a tribal hunter: -48
+[07/13/2023 08:30]  a tribal hunter: -73
+[07/13/2023 08:30]  [Razor]: New target set.
+[07/13/2023 08:30]  Razor: ● ▼▼ HERE ▼▼ ●
+[07/13/2023 08:30]  a tribal hunter: -62
+[07/13/2023 08:30]  a tribal hunter: -48
+[07/13/2023 08:30]  a tribal hunter: -75
+[07/13/2023 08:30]  System: You finish applying the bandages.
+[07/13/2023 08:30]  Stink Fist: +11
+[07/13/2023 08:30]  Stink Fist: (Earth Aspect 4,698.0/25000 xp)
+[07/13/2023 08:30]  System: -54
+[07/13/2023 08:30]  You see: a forest ostard corpse
+[07/13/2023 08:30]  You see: a tribal hunter corpse
+[07/13/2023 08:30]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:30]  System: You carve materials from the corpse.
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:30]  System: Plitvicka Jezera has completed the achievement: Guardian of Mount Petram (Intermediate).
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:30]  System: You carve materials from the corpse.
+[07/13/2023 08:30]  System: [GridLoot]: Corpse is empty!
+[07/13/2023 08:30]  System: You dont see anything nearby worth carving or investigating.
+[07/13/2023 08:30]  You see: a tribal hunter corpse
+[07/13/2023 08:30]  You see: a forest ostard corpse
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:30]  You see: a skeleton guardian corpse
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: What do you wish to carve, investigate, or research?
+[07/13/2023 08:30]  Jahi: Cambria
+[07/13/2023 08:30]  Jahi: [xBu]
+[07/13/2023 08:30]  Jahi: Jahi
+[07/13/2023 08:30]  Sutherland: Sutherland the stablemaster
+[07/13/2023 08:30]  System: You may now attempt to disarm your opponent again.
+[07/13/2023 08:30]  Razor: [DISARM]
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: Holy symbols remaining: 8/12
+[07/13/2023 08:30]  a lich magus: a lich magus
+[07/13/2023 08:30]  a skeletal guardian: a skeletal guardian
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:30]  a skeletal mage: a skeletal mage
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: Your skill in Tactics has decreased by 37.0.  It is now 100.0.
+[07/13/2023 08:30]  Stink Fist: Kal Ort Por [Recall]
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: You generate mana for your spell.
+[07/13/2023 08:30]  Rane: Rane the dockmaster
+[07/13/2023 08:30]  Wulf of Wyrd: Wulf of Wyrd
+[07/13/2023 08:30]  System: Your skill in Tactics has increased by 37.0.  It is now 137.0.
+[07/13/2023 08:30]  Razor: found no one
+[07/13/2023 08:30]  System: Opening door...
+[07/13/2023 08:30]  System: Your house and its contents have been refreshed. 16 days 4 hours 49 minutes remaining until owner refresh required.
+[07/13/2023 08:30]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  System: Max holy symbols earned (12/12)
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [3]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [2]
+[07/13/2023 08:31]  Rane: Rane the dockmaster
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  [Razor]: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  [Razor]: Organize Agent queued 2 item(s) to be moved. (This may take a few moments)
+[07/13/2023 08:31]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [3]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  System: Your strength has changed by -20.  It is now 100
+[07/13/2023 08:31]  Razor: [-Strength (s)]
+[07/13/2023 08:31]  Razor: Str: -20 - 100
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  System: Your dexterity has changed by -20.  It is now 100
+[07/13/2023 08:31]  Razor: [-Agility (s)]
+[07/13/2023 08:31]  Razor: Dex: -20 - 100
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen. [4]
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  Razor: found no one
+[07/13/2023 08:31]  [Razor]: No one matching that was found on your screen.
+[07/13/2023 08:31]  System: Which container do you wish to restock this container from? (you may target yourself or a nearby friendly pack animal)
+[07/13/2023 08:31]  System: 22 items were added.
+[07/13/2023 08:31]  System: You deposit 6,587 gold into your bank box.
+[07/13/2023 08:31]  Razor: [You deposit 6,587 gold...]
+[07/13/2023 08:31]  [Razor]: Finished 3 queued actions in 1.2 seconds.
+[07/13/2023 08:32]  System: Partial resupply: Adventurers Rope
+[07/13/2023 08:32]  [Razor]: Set Grab Item HotBag
+[07/13/2023 08:32]  [Razor]: Grab Item HotBag Set
+[07/13/2023 08:32]  Razor: Organize Open Pouches
+[07/13/2023 08:32]  [Razor]: Finished 2 queued actions in 0.6 seconds.
+[07/13/2023 08:32]  Razor: Organize Trapped Pouches
+[07/13/2023 08:32]  Razor: Organize Trapped Pouches
+[07/13/2023 08:32]  Razor: Organize Trapped Pouches
+[07/13/2023 08:32]  Razor: Organize Trapped Pouches
+[07/13/2023 08:32]  Razor: Organize Trapped Pouches
+[07/13/2023 08:32]  Razor: Organize Orange Potions
+[07/13/2023 08:32]  Razor: Organize Red Potions
+[07/13/2023 08:32]  Razor: Organize Yellow Potions
+[07/13/2023 08:32]  Razor: Organize White Potions
+[07/13/2023 08:32]  System: Your magic resist potion has worn off.
+[07/13/2023 08:32]  Razor: [-Magic Resist Potion (s)]
+[07/13/2023 08:32]  Razor: Organize Black Potions
+[07/13/2023 08:32]  Razor: Organize Black Potions
+[07/13/2023 08:32]  Razor: Organize Blue Potions
+[07/13/2023 08:32]  Razor: Organize Aids
+[07/13/2023 08:32]  Razor: Organize Rope
+[07/13/2023 08:32]  Razor: Open Untrapped Pouches
+[07/13/2023 08:32]  Razor: recall scroll : 89
+[07/13/2023 08:32]  System: You add 4 recall charges to the rune tome.
+[07/13/2023 08:32]  System: You pour some of the keg's contents into an empty bottle...
+[07/13/2023 08:32]  System: ...and place it into your backpack.
+[07/13/2023 08:33]  System: ...and place it into your backpack.
+[07/13/2023 08:33]  System: ...and place it into your backpack. [2]
+[07/13/2023 08:33]  System: You pour some of the keg's contents into an empty bottle... [3]
+[07/13/2023 08:33]  System: The world will save in 15 seconds.
+[07/13/2023 08:33]  System: The world is saving, please wait.
+[07/13/2023 08:34]  System: World save complete. The entire process took 4.4 seconds.
+[07/13/2023 08:34]  System: Your food satisfaction effect has expired.
+[07/13/2023 08:34]  Razor: [-Food Satisfaction (s)]
+[07/13/2023 08:36]  System: Indi J. has completed the achievement: Cartographer (Basic).
+[07/13/2023 08:37]  Razor: [Last Target]
+[07/13/2023 08:37]  Stink Fist: Stink Fist
+[07/13/2023 08:38]  System: Suji has completed the achievement: Scientist (Basic).
+[07/13/2023 08:41]  You see: musicianship skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: provocation skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: animal taming skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: lumberjacking skill mastery scroll : 2
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: poisoning skill mastery scroll : 2
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: tinkering skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: inscription skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: lockpicking skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: detect hidden skill mastery scroll
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:41]  You see: mining skill mastery scroll : 2
+[07/13/2023 08:41]  You see: (used to increase a player's skill cap for a skill by 1)
+[07/13/2023 08:42]  [Guild][Booch]: weird i just found a blue magic spell book...
+[07/13/2023 08:42]  [Guild][Booch]: i have not seen that yet, anyone know why it is blue?
+[07/13/2023 08:42]  [Guild][Alison Pill]: Probably pulma slaying
+[07/13/2023 08:42]  System: Devils of Kimone (DoK) guild has reached prestige level 242.
+[07/13/2023 08:43]  System: Khabiba has completed the achievement: Illusionist (Basic).
+[07/13/2023 08:43]  [Guild][Alison Pill]: I have a darkmire slaying spellbook and it's green
+[07/13/2023 08:43]  [Guild][Lanrythe]: almost certainly it. dungeon slaying weapons are the color of their dungeon
+[07/13/2023 08:43]  [Guild][Booch]: oh cool
+[07/13/2023 08:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.

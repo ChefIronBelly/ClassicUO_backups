@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="1" matrix_h="2">
+		<gump type="7" x="981" y="915" serial="1010" name="Mirror Stance" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="981" y="959" serial="1009" name="Holy Light" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="1" matrix_h="4">
+		<gump type="25" x="1325" y="614" serial="0" entryname="Disarm" matrix_x="0" matrix_y="0" />
+		<gump type="25" x="1325" y="646" serial="0" entryname="Bandages" matrix_x="0" matrix_y="1" />
+		<gump type="25" x="1325" y="678" serial="0" entryname="Resist" matrix_x="0" matrix_y="2" />
+		<gump type="25" x="1325" y="710" serial="0" entryname="Heal Pot" matrix_x="0" matrix_y="3" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="7" x="623" y="916" serial="1007" name="ALL NAMES" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="711" y="916" serial="1008" name="Loot Bag" graphicId="0" hideLabel="False" scale="1" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="5" y="918" serial="1000" name="Paperdoll" graphicId="0" hideLabel="False" scale="1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="93" y="918" serial="1005" name="Bow" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="93" y="962" serial="1006" name="Salute" graphicId="0" hideLabel="False" scale="1" matrix_x="2" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="19" x="1324" y="460" serial="0" minimized="False" />
+	<gump type="20" x="1282" y="510" serial="0" minimized="False" />
+	<gump type="9" x="1508" y="-41" serial="149785" isminimized="False" />
+	<gump type="2" x="1455" y="225" serial="1083172291" graphic="60" isminimized="False" />
+	<gump type="2" x="1689" y="252" serial="1521162403" graphic="61" isminimized="False" />
+	<gump type="3" x="675" y="30" serial="0" rows="1" columns="13" rectsize="40">
+		<controls>
+			<control graphic="3617" hue="0" />
+			<control graphic="3852" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="3848" hue="0" />
+			<control graphic="3849" hue="0" />
+			<control graphic="3846" hue="0" />
+			<control graphic="3851" hue="0" />
+			<control graphic="3705" hue="38" />
+			<control graphic="5370" hue="2799" />
+			<control graphic="11552" hue="0" />
+			<control graphic="2545" hue="0" />
+			<control graphic="4225" hue="0" />
+			<control graphic="3821" hue="0" />
+		</controls>
+	</gump>
+	<gump type="5" x="701" y="4" serial="0" />
+	<gump type="16" x="1339" y="794" serial="0" id="14" />
+	<gump type="1" x="1203" y="76" serial="0" graphic="30080" direction="1" />
+	<gump type="12" x="1120" y="851" serial="0" />
+	<gump type="18" x="1520" y="613" serial="0" />
+	<gump type="6" x="1507" y="-30" serial="0" />
+</gumps>

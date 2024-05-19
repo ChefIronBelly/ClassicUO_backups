@@ -1,0 +1,667 @@
+[04/01/2023 10:29]  System: WorldMap loading...
+[04/01/2023 10:29]  System: Loading WorldMap markers..
+[04/01/2023 10:29]  System: ..Banks_and_Healers.xml (20)
+[04/01/2023 10:29]  System: ..Dungeons.xml (12)
+[04/01/2023 10:29]  System: ..Dungeon_Gates.xml (325)
+[04/01/2023 10:29]  System: ..Healer_Caravans.xml (32)
+[04/01/2023 10:29]  System: ..Moongates.xml (9)
+[04/01/2023 10:29]  System: ..POI.xml (176)
+[04/01/2023 10:29]  System: ..PvP_Locations.xml (71)
+[04/01/2023 10:29]  System: ..Shrines.xml (9)
+[04/01/2023 10:29]  System: ..Subterranean.xml (6)
+[04/01/2023 10:29]  System: ..Townships.xml (9)
+[04/01/2023 10:29]  System: WorldMap markers loaded (669)
+[04/01/2023 10:29]  System: Welcome Don Giovanni!
+[04/01/2023 10:29]  Razor: [- (s)]
+[04/01/2023 10:29]  Razor: [+Hidden/Stealthing (0s)]
+[04/01/2023 10:29]  Rane: Rane the dockmaster
+[04/01/2023 10:29]  System: You have rejoined the party.
+[04/01/2023 10:29]  System: WorldMap loaded!
+[04/01/2023 10:29]  System: Your campfire is now secure.
+[04/01/2023 10:29]  Don Giovanni: The food is paltry and is barely satisfying.
+[04/01/2023 10:29]  Don Giovanni: * You begin to feel pain throughout your body! *
+[04/01/2023 10:29]  Razor: [+Food Satisfaction (3600s)]
+[04/01/2023 10:29]  Razor: [+Greater Poison (70s)]
+[04/01/2023 10:29]  Don Giovanni: * You begin to feel pain throughout your body! *
+[04/01/2023 10:29]  Don Giovanni: -15
+[04/01/2023 10:29]  Don Giovanni: * You begin to feel pain throughout your body! *
+[04/01/2023 10:29]  Don Giovanni: -15
+[04/01/2023 10:29]  Razor: [-Hidden/Stealthing (s)]
+[04/01/2023 10:29]  System: Your campfire is now secure.
+[04/01/2023 10:29]  System: You feel cured of poison!
+[04/01/2023 10:29]  System: You receive a free cure potion consumption (next available in 30 seconds).
+[04/01/2023 10:29]  Razor: [-Greater Poison (s)]
+[04/01/2023 10:29]  System: Who will you use the bandages on?
+[04/01/2023 10:29]  Razor: Target: Don Giovanni
+[04/01/2023 10:29]  System: You begin applying the bandages.
+[04/01/2023 10:29]  Razor: Bandage: 10s
+[04/01/2023 10:29]  Razor: Bandage: 9s
+[04/01/2023 10:29]  Razor: Bandage: 8s
+[04/01/2023 10:29]  Razor: Bandage: 7s
+[04/01/2023 10:29]  Razor: Bandage: 6s
+[04/01/2023 10:29]  Razor: Bandage: 5s
+[04/01/2023 10:29]  Razor: Bandage: 4s
+[04/01/2023 10:30]  Razor: Bandage: 3s
+[04/01/2023 10:30]  Razor: Bandage: 2s
+[04/01/2023 10:30]  System: You begin hiking to your destination.
+[04/01/2023 10:30]  Don Giovanni: *hiking to destination*
+[04/01/2023 10:30]  Razor: [+Paralyze (4s)]
+[04/01/2023 10:30]  Razor: [-Paralyze (s)]
+[04/01/2023 10:30]  Razor: [+Paralyze (3s)]
+[04/01/2023 10:30]  Don Giovanni: *hiking to destination*
+[04/01/2023 10:30]  Razor: [-Paralyze (s)]
+[04/01/2023 10:30]  Razor: [+Paralyze (2s)]
+[04/01/2023 10:30]  Razor: [-Paralyze (s)]
+[04/01/2023 10:30]  Razor: [+Paralyze (1s)]
+[04/01/2023 10:30]  Don Giovanni: *hiking to destination*
+[04/01/2023 10:30]  Razor: [-Paralyze (s)]
+[04/01/2023 10:30]  Razor: [+Paralyze (0s)]
+[04/01/2023 10:30]  Razor: [-Paralyze (s)]
+[04/01/2023 10:30]  System: You are no longer hindered.
+[04/01/2023 10:30]  System: You are now under the protection of the town guards.
+[04/01/2023 10:30]  System: You hike to your destination.
+[04/01/2023 10:30]  Don Giovanni: *You have arrived at your destination*
+[04/01/2023 10:30]  Margaret: Margaret the baker
+[04/01/2023 10:30]  Martha: Martha the cook
+[04/01/2023 10:30]  a dog: a dog
+[04/01/2023 10:30]  a horse: (tame)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  Kurt: Kurt the real estate broker
+[04/01/2023 10:30]  Standford: Standford the provisioner
+[04/01/2023 10:30]  Givon: Givon the tailor
+[04/01/2023 10:30]  Aponi: Aponi the cobbler
+[04/01/2023 10:30]  Nevada: Nevada the architect
+[04/01/2023 10:30]  Natasha: Natasha the tinker
+[04/01/2023 10:30]  Nyssa: Nyssa the tanner
+[04/01/2023 10:30]  Astrid: Astrid the tailor
+[04/01/2023 10:30]  Errol: Errol the provisioner
+[04/01/2023 10:30]  Thaddeus: Thaddeus the Necromancer
+[04/01/2023 10:30]  Disharmony: Disharmony
+[04/01/2023 10:30]  You see: a cat corpse
+[04/01/2023 10:30]  a llama: (bonded)
+[04/01/2023 10:30]  a llama: a llama
+[04/01/2023 10:30]  Elloe: [SOF]
+[04/01/2023 10:30]  Elloe: Elloe
+[04/01/2023 10:30]  a water elemental: (summoned)
+[04/01/2023 10:30]  a water elemental: a water elemental
+[04/01/2023 10:30]  Captain Dread: Legendary Mariner
+[04/01/2023 10:30]  Captain Dread: [Ship People, Path]
+[04/01/2023 10:30]  Captain Dread: Captain Dread
+[04/01/2023 10:30]  Damillama: [Homies, FRND]
+[04/01/2023 10:30]  Damillama: Damillama
+[04/01/2023 10:30]  Promethium: Promethium
+[04/01/2023 10:30]  Stupid Timmy: Backstabber
+[04/01/2023 10:30]  Stupid Timmy: Stupid Timmy
+[04/01/2023 10:30]  X-RAY: X-RAY
+[04/01/2023 10:30]  Panda Bear: Panda Bear
+[04/01/2023 10:30]  Jobe Wan Kenobi: Brilliant
+[04/01/2023 10:30]  Jobe Wan Kenobi: [MrBeast of Outlands, gLc]
+[04/01/2023 10:30]  Jobe Wan Kenobi: Jobe Wan Kenobi
+[04/01/2023 10:30]  Ripper: [CFC]
+[04/01/2023 10:30]  Ripper: Ripper
+[04/01/2023 10:30]  Delia Darkmire: Illusionist
+[04/01/2023 10:30]  Delia Darkmire: Delia Darkmire
+[04/01/2023 10:30]  F Gorce: Terran
+[04/01/2023 10:30]  F Gorce: [BoW]
+[04/01/2023 10:30]  F Gorce: F Gorce
+[04/01/2023 10:30]  LLama Ramma: Legendary Backstabber
+[04/01/2023 10:30]  LLama Ramma: [Disciple, Myth]
+[04/01/2023 10:30]  LLama Ramma: LLama Ramma
+[04/01/2023 10:30]  Arbor the tree: Legendary Engineer
+[04/01/2023 10:30]  Arbor the tree: [Ancient, Oak]
+[04/01/2023 10:30]  Arbor the tree: Lord Arbor the tree
+[04/01/2023 10:30]  Gen Dits: Gen Dits
+[04/01/2023 10:30]  Rainz Zniar: Legendary Roll Player
+[04/01/2023 10:30]  Rainz Zniar: [Wanderer, CFC]
+[04/01/2023 10:30]  Rainz Zniar: Rainz Zniar
+[04/01/2023 10:30]  Trag: [Juicy, SQzD]
+[04/01/2023 10:30]  Trag: Trag
+[04/01/2023 10:30]  The Continental: [Loot Fairy, EZ]
+[04/01/2023 10:30]  The Continental: The Continental
+[04/01/2023 10:30]  Jakesh: Jakesh the Prevalian merchant
+[04/01/2023 10:30]  Kal-EL: [Recruit, NEW!]
+[04/01/2023 10:30]  Kal-EL: Kal-EL
+[04/01/2023 10:30]  Imbecilic: [Veteran, -_-]
+[04/01/2023 10:30]  Imbecilic: Imbecilic
+[04/01/2023 10:30]  Shawn Tail: Monster Hunter Associate
+[04/01/2023 10:30]  Shawn Tail: Lord Shawn Tail
+[04/01/2023 10:30]  TimeToSleep: Cambria
+[04/01/2023 10:30]  TimeToSleep: [CoM]
+[04/01/2023 10:30]  TimeToSleep: TimeToSleep
+[04/01/2023 10:30]  Lumbersmith: Legendary Carpenter
+[04/01/2023 10:30]  Lumbersmith: Lumbersmith
+[04/01/2023 10:30]  Boosoof: [Caster of Armageddon, rekt]
+[04/01/2023 10:30]  Boosoof: Lord Boosoof
+[04/01/2023 10:30]  Aureleius: Armorer Luminary
+[04/01/2023 10:30]  Aureleius: [Council, Syn]
+[04/01/2023 10:30]  Aureleius: Aureleius
+[04/01/2023 10:30]  drunkwater: drunkwater
+[04/01/2023 10:30]  Beb Braun: Beb Braun
+[04/01/2023 10:30]  a llama: (bonded)
+[04/01/2023 10:30]  a llama: a llama
+[04/01/2023 10:30]  Jue Viole Grace: [PwN]
+[04/01/2023 10:30]  Jue Viole Grace: Jue Viole Grace
+[04/01/2023 10:30]  Siv-Evert: Seasoned Soldier
+[04/01/2023 10:30]  Siv-Evert: [Veteran, -_-]
+[04/01/2023 10:30]  Siv-Evert: Siv-Evert
+[04/01/2023 10:30]  Gustavo: Gustavo
+[04/01/2023 10:30]  Dourgus: Dourgus
+[04/01/2023 10:30]  A Uo Man: [G.G]
+[04/01/2023 10:30]  A Uo Man: A Uo Man
+[04/01/2023 10:30]  Kirsty Cryotube: Beast Slayer
+[04/01/2023 10:30]  Kirsty Cryotube: [ICON]
+[04/01/2023 10:30]  Kirsty Cryotube: Lady Kirsty Cryotube
+[04/01/2023 10:30]  AhMing: Legendary Weaponmaster
+[04/01/2023 10:30]  AhMing: AhMing
+[04/01/2023 10:30]  F A T E: Connoisseur
+[04/01/2023 10:30]  F A T E: Lord F A T E
+[04/01/2023 10:30]  Trizzy: [Syn]
+[04/01/2023 10:30]  Trizzy: Lady Trizzy
+[04/01/2023 10:30]  Kornpho: Kornpho
+[04/01/2023 10:30]  Sneaky McSneak: Sneaky McSneak
+[04/01/2023 10:30]  a water elemental: (summoned)
+[04/01/2023 10:30]  a water elemental: a water elemental
+[04/01/2023 10:30]  a horse: (tame)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  Zobrats: Zobrats
+[04/01/2023 10:30]  Kirsty Cryotube: Kal Ort Por [Recall]
+[04/01/2023 10:30]  System: You receive a handout, which has been placed in your bank box.
+[04/01/2023 10:30]  Working Class: Working Class
+[04/01/2023 10:30]  Minedanion: [Greenhorn Logger, LOGZ]
+[04/01/2023 10:30]  Minedanion: Minedanion
+[04/01/2023 10:30]  Siv-Evert: Kal Ort Por [Recall]
+[04/01/2023 10:30]  Delmore: Delmore the ranger
+[04/01/2023 10:30]  Tawnie: Tawnie the bowyer
+[04/01/2023 10:30]  TimeToSleep: Vas Ort Flam [Explosion]
+[04/01/2023 10:30]  Kij ci w oko: [AWN]
+[04/01/2023 10:30]  Kij ci w oko: Lord Kij ci w oko
+[04/01/2023 10:30]  Cybernetic: [Disciple, Myth]
+[04/01/2023 10:30]  Cybernetic: Cybernetic
+[04/01/2023 10:30]  You see: the remains of Bombolo
+[04/01/2023 10:30]  Alpha Male: Alpha Male
+[04/01/2023 10:30]  Vulas: [Syn]
+[04/01/2023 10:30]  Vulas: Vulas
+[04/01/2023 10:30]  Aurelia: Aurelia the Town Crier
+[04/01/2023 10:30]  a llama: (bonded)
+[04/01/2023 10:30]  a llama: a llama
+[04/01/2023 10:30]  a horse: (bonded)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  Sneaky McSneak: aw thanks mate
+[04/01/2023 10:30]  a horse: (bonded)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  a horse: (bonded)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  Ingmar: Ingmar the banker
+[04/01/2023 10:30]  a horse: (bonded)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  Minedanion: [Greenhorn Logger, LOGZ]
+[04/01/2023 10:30]  Minedanion: Minedanion
+[04/01/2023 10:30]  a horse: (bonded)
+[04/01/2023 10:30]  a horse: a horse
+[04/01/2023 10:30]  a forest ostard: (bonded)
+[04/01/2023 10:30]  a forest ostard: a forest ostard
+[04/01/2023 10:30]  Gatsby: Gatsby
+[04/01/2023 10:30]  a forest ostard: (bonded)
+[04/01/2023 10:30]  a forest ostard: a forest ostard
+[04/01/2023 10:30]  TOP G: TOP G
+[04/01/2023 10:30]  a frenzied ostard: (bonded)
+[04/01/2023 10:30]  a frenzied ostard: a frenzied ostard
+[04/01/2023 10:30]  a frenzied ostard: (bonded)
+[04/01/2023 10:30]  a frenzied ostard: a frenzied ostard
+[04/01/2023 10:30]  Cheap Ocean Good: Cheap Ocean Good
+[04/01/2023 10:30]  Tai Mai: Tai Mai
+[04/01/2023 10:30]  TimeToSleep: Ort Por Ylem [Telekinesis]
+[04/01/2023 10:30]  a book wyrm: a book wyrm
+[04/01/2023 10:30]  Shela: Shela
+[04/01/2023 10:30]  Garland: [Wanderer, CFC]
+[04/01/2023 10:30]  Garland: Lord Garland
+[04/01/2023 10:30]  LLama Ramma: Legendary Backstabber
+[04/01/2023 10:30]  LLama Ramma: [Disciple, Myth]
+[04/01/2023 10:30]  LLama Ramma: LLama Ramma
+[04/01/2023 10:30]  The Continental: [Loot Fairy, EZ]
+[04/01/2023 10:30]  The Continental: The Continental
+[04/01/2023 10:30]  Kal-EL: [Recruit, NEW!]
+[04/01/2023 10:30]  Kal-EL: Kal-EL
+[04/01/2023 10:30]  Hanger: Hanger
+[04/01/2023 10:30]  Xylobard: [Recruit, AWN]
+[04/01/2023 10:30]  Xylobard: Xylobard
+[04/01/2023 10:30]  Lekzin: Lekzin
+[04/01/2023 10:30]  Olsen: Olsen
+[04/01/2023 10:30]  Calendonia: Calendonia the banker
+[04/01/2023 10:30]  Beb Braun: Beb Braun
+[04/01/2023 10:30]  Shawn Tail: Monster Hunter Associate
+[04/01/2023 10:30]  Shawn Tail: Lord Shawn Tail
+[04/01/2023 10:30]  Arbor the tree: Legendary Engineer
+[04/01/2023 10:30]  Arbor the tree: [Ancient, Oak]
+[04/01/2023 10:30]  Arbor the tree: Lord Arbor the tree
+[04/01/2023 10:30]  F A T E: Connoisseur
+[04/01/2023 10:30]  F A T E: Lord F A T E
+[04/01/2023 10:30]  Cheap Ocean Good: Also find other great NKB vendors with just about everything you need!
+[04/01/2023 10:30]  System: James Jonhson has completed the achievement: Enchanter (Advanced).
+[04/01/2023 10:30]  TimeToSleep: 5
+[04/01/2023 10:30]  F Gorce: *potion stuck*
+[04/01/2023 10:30]  Quan Chi: Transmuter
+[04/01/2023 10:30]  Quan Chi: Quan Chi
+[04/01/2023 10:30]  Hiero: [Guardian, Myth]
+[04/01/2023 10:30]  Hiero: Hiero
+[04/01/2023 10:30]  Greater Explosion potion: 4
+[04/01/2023 10:30]  a lich: (summoned)
+[04/01/2023 10:30]  a lich: a lich
+[04/01/2023 10:30]  an ancient mummy: (summoned)
+[04/01/2023 10:30]  an ancient mummy: an ancient mummy
+[04/01/2023 10:30]  a rotting flesh: (summoned)
+[04/01/2023 10:30]  a rotting flesh: a rotting flesh
+[04/01/2023 10:30]  Alpha Male: BEST MOUNT PRICES IN THE SHARD! Discord: TOPG#0505
+[04/01/2023 10:30]  Greater Explosion potion: 3
+[04/01/2023 10:30]  Pevchikh: Pevchikh
+[04/01/2023 10:30]  Albondiguilla: [Hidalgo, EA]
+[04/01/2023 10:30]  Albondiguilla: Albondiguilla
+[04/01/2023 10:30]  PierLappo: PierLappo
+[04/01/2023 10:30]  NecromYT: NecromYT
+[04/01/2023 10:30]  Beb Braun: Kal Vas Xen An Flam [Water Elemental]
+[04/01/2023 10:30]  Cheap Ocean Good: Big Restock of Event Items, Cores, Links! TreasureRestock 3/25
+[04/01/2023 10:30]  System: No one matching that was found on your screen.
+[04/01/2023 10:30]  X-RAY: X-RAY
+[04/01/2023 10:30]  System: No one matching that was found on your screen.
+[04/01/2023 10:30]  Cheap Ocean Good: NKB VENDOR HOUSE! Big Restock. All sorts of rares. TreasureRestock 3/25
+[04/01/2023 10:30]  Don Giovanni: ba
+[04/01/2023 10:30]  Quan Chi: bank guards
+[04/01/2023 10:30]  Cheap Ocean Good: Also find other great NKB vendors with just about everything you need!
+[04/01/2023 10:30]  Alpha Male: TOP TIER, BONDED MOUNTS! Discord: TOPG#0505
+[04/01/2023 10:30]  System: No one matching that was found on your screen.
+[04/01/2023 10:30]  Beb Braun: Kal Vas Xen An Flam [Water Elemental]
+[04/01/2023 10:30]  Don Giovanni: ba
+[04/01/2023 10:30]  The Continental: [Loot Fairy, EZ]
+[04/01/2023 10:30]  The Continental: The Continental
+[04/01/2023 10:30]  Ramos: [The Tavern], [tT]
+[04/01/2023 10:30]  Ramos: Ramos
+[04/01/2023 10:30]  F A T E: Connoisseur
+[04/01/2023 10:30]  F A T E: Lord F A T E
+[04/01/2023 10:30]  Cheap Ocean Good: NKB VENDOR HOUSE! Big Restock. All sorts of rares. TreasureRestock 3/25
+[04/01/2023 10:30]  an ancient mummy: *regens*
+[04/01/2023 10:30]  NecromYT: NecromYT
+[04/01/2023 10:30]  Cheap Ocean Good: Find other great NKB vendors with just about everything you need!
+[04/01/2023 10:30]  Alpha Male: BEST MOUNT PRICES! Discord: TOPG#0505
+[04/01/2023 10:30]  Beb Braun: Kal Vas Xen An Flam [Water Elemental]
+[04/01/2023 10:30]  Alpha Male: Alpha Male
+[04/01/2023 10:30]  Tattercoats: Lady Tattercoats
+[04/01/2023 10:30]  Glock Holiday: Darkmire Guardian
+[04/01/2023 10:30]  Glock Holiday: Lord Glock Holiday
+[04/01/2023 10:30]  Calendonia: Your gold balance is 400,398.
+[04/01/2023 10:30]  Cheap Ocean Good: Big Restock of Event Items, Cores, Links! TreasureRestock 3/25
+[04/01/2023 10:30]  You see: cavernam robe
+[04/01/2023 10:30]  You see: (hue 2338)
+[04/01/2023 10:30]  You see: [blessed]
+[04/01/2023 10:30]  Thunder Lamjwi: Thunder Lamjwi
+[04/01/2023 10:30]  Cheap Ocean Good: NKB VENDOR HOUSE! Big Restock. All sorts of rares. TreasureRestock 3/25
+[04/01/2023 10:30]  Beb Braun: Kal Vas Xen An Flam [Water Elemental]
+[04/01/2023 10:30]  Alpha Male: TOP G, TOP TIER Prevalia Mounts! Discord: TOPG#0505
+[04/01/2023 10:30]  a water elemental: (summoned)
+[04/01/2023 10:30]  a water elemental: a water elemental
+[04/01/2023 10:30]  Cheap Ocean Good: Also find other great NKB vendors with just about everything you need!
+[04/01/2023 10:30]  Marco Axe: Marco Axe
+[04/01/2023 10:30]  Hydorian: Armorer Initiate
+[04/01/2023 10:30]  Hydorian: [Soldado, BRA]
+[04/01/2023 10:30]  Hydorian: Hydorian
+[04/01/2023 10:30]  Rainz Zniar: Legendary Roll Player
+[04/01/2023 10:30]  Rainz Zniar: [Wanderer, CFC]
+[04/01/2023 10:30]  Rainz Zniar: Rainz Zniar
+[04/01/2023 10:30]  Cokebear: (bonded)
+[04/01/2023 10:30]  Cokebear: Cokebear
+[04/01/2023 10:30]  Colabear: (bonded)
+[04/01/2023 10:30]  Colabear: Colabear
+[04/01/2023 10:30]  Sphixie: (bonded)
+[04/01/2023 10:30]  Sphixie: Sphixie
+[04/01/2023 10:30]  Tostard: (bonded)
+[04/01/2023 10:30]  Tostard: Tostard
+[04/01/2023 10:30]  Hydorian: All Follow Me
+[04/01/2023 10:30]  Cheap Ocean Good: Big Restock of Event Items, Cores, Links! TreasureRestock 3/25
+[04/01/2023 10:30]  TePPoPuCT: Legendary Domesticator
+[04/01/2023 10:30]  TePPoPuCT: [Private, BoS]
+[04/01/2023 10:30]  TePPoPuCT: Lord TePPoPuCT
+[04/01/2023 10:30]  Cheap Ocean Good: NKB VENDOR HOUSE! Big Restock. All sorts of rares. TreasureRestock 3/25
+[04/01/2023 10:30]  Alpha Male: BEST MOUNT PRICES IN THE SHARD! Discord: TOPG#0505
+[04/01/2023 10:30]  Minedanion: [Greenhorn Logger, LOGZ]
+[04/01/2023 10:30]  Minedanion: Minedanion
+[04/01/2023 10:30]  Glock Holiday: Darkmire Guardian
+[04/01/2023 10:30]  Glock Holiday: Lord Glock Holiday
+[04/01/2023 10:30]  F A T E: Connoisseur
+[04/01/2023 10:30]  F A T E: Lord F A T E
+[04/01/2023 10:30]  Bromontana: [Beard Brother, BB]
+[04/01/2023 10:30]  Bromontana: Lord Bromontana
+[04/01/2023 10:30]  Hiero: bank
+[04/01/2023 10:30]  Aurelia: New region bonuses are now available! (double-click nearby banner for details)
+[04/01/2023 10:30]  System: Being perfectly rested, you shove them out of the way.
+[04/01/2023 10:30]  The Continental: [Loot Fairy, EZ]
+[04/01/2023 10:30]  The Continental: The Continental
+[04/01/2023 10:30]  Marco Axe: Marco Axe
+[04/01/2023 10:30]  Cheap Ocean Good: Also find other great NKB vendors with just about everything you need!
+[04/01/2023 10:30]  Trag: [Juicy, SQzD]
+[04/01/2023 10:30]  Trag: Trag
+[04/01/2023 10:30]  V A X I U S: Legendary Scribe
+[04/01/2023 10:30]  V A X I U S: [Jousting Champ, L%C]
+[04/01/2023 10:30]  V A X I U S: V A X I U S
+[04/01/2023 10:30]  Gustavo: Gustavo
+[04/01/2023 10:31]  Hiero: bank
+[04/01/2023 10:31]  Beb Braun: Kal Vas Xen An Flam [Water Elemental]
+[04/01/2023 10:31]  Minedanion: [Greenhorn Logger, LOGZ]
+[04/01/2023 10:31]  Minedanion: Minedanion
+[04/01/2023 10:31]  Old Noodles: Old Noodles
+[04/01/2023 10:31]  System: Hot Keys Disabled (Press F12 to enable)
+[04/01/2023 10:31]  Cheap Ocean Good: Big Restock of Event Items, Cores, Links! TreasureRestock 3/25
+[04/01/2023 10:31]  Alpha Male: TOP TIER, BONDED MOUNTS! Discord: TOPG#0505
+[04/01/2023 10:31]  Trizzy: [Syn]
+[04/01/2023 10:31]  Trizzy: Lady Trizzy
+[04/01/2023 10:31]  Cheap Ocean Good: NKB VENDOR HOUSE! Big Restock. All sorts of rares. TreasureRestock 3/25
+[04/01/2023 10:31]  a lich: (summoned)
+[04/01/2023 10:31]  a lich: a lich
+[04/01/2023 10:31]  an earth elemental: (summoned)
+[04/01/2023 10:31]  an earth elemental: an earth elemental
+[04/01/2023 10:31]  V A X I U S: bank
+[04/01/2023 10:31]  a blood ape: (bonded)
+[04/01/2023 10:31]  a blood ape: a blood ape
+[04/01/2023 10:31]  a blood ape: (bonded)
+[04/01/2023 10:31]  a blood ape: a blood ape
+[04/01/2023 10:31]  a blood ape: (bonded)
+[04/01/2023 10:31]  a blood ape: a blood ape
+[04/01/2023 10:31]  a blood ape: (bonded)
+[04/01/2023 10:31]  a blood ape: a blood ape
+[04/01/2023 10:31]  a blood ape: (bonded)
+[04/01/2023 10:31]  a blood ape: a blood ape
+[04/01/2023 10:31]  a wild horse: [The Tavern], [tT]
+[04/01/2023 10:31]  a wild horse: a wild horse
+[04/01/2023 10:31]  Bromontana: [Beard Brother, BB]
+[04/01/2023 10:31]  Bromontana: Lord Bromontana
+[04/01/2023 10:31]  X-RAY: X-RAY
+[04/01/2023 10:31]  an ancient mummy: *regens*
+[04/01/2023 10:31]  Don Giovanni: bank
+[04/01/2023 10:31]  Don Giovanni: Items: 22/125
+[04/01/2023 10:31]  Don Giovanni: Total Weight: 64
+[04/01/2023 10:31]  Jhonny Ganja: [Soldado, BRA]
+[04/01/2023 10:31]  Jhonny Ganja: Jhonny Ganja
+[04/01/2023 10:31]  F A T E: Connoisseur
+[04/01/2023 10:31]  F A T E: Lord F A T E
+[04/01/2023 10:31]  Cheap Ocean Good: Also find other great NKB vendors with just about everything you need!
+[04/01/2023 10:31]  Beb Braun: Kal Vas Xen An Flam [Water Elemental]
+[04/01/2023 10:31]  TePPoPuCT: BANK
+[04/01/2023 10:31]  The Continental: [Loot Fairy, EZ]
+[04/01/2023 10:31]  The Continental: The Continental
+[04/01/2023 10:31]  Captain Dread: Legendary Mariner
+[04/01/2023 10:31]  Captain Dread: [Ship People, Path]
+[04/01/2023 10:31]  Captain Dread: Captain Dread
+[04/01/2023 10:31]  LLama Ramma: Legendary Backstabber
+[04/01/2023 10:31]  LLama Ramma: [Disciple, Myth]
+[04/01/2023 10:31]  LLama Ramma: LLama Ramma
+[04/01/2023 10:31]  Arbor the tree: Legendary Engineer
+[04/01/2023 10:31]  Arbor the tree: [Ancient, Oak]
+[04/01/2023 10:31]  Arbor the tree: Lord Arbor the tree
+[04/01/2023 10:31]  Alpha Male: BEST MOUNT PRICES! Discord: TOPG#0505
+[04/01/2023 10:31]  Panda Bear: Panda Bear
+[04/01/2023 10:31]  Jobe Wan Kenobi: Brilliant
+[04/01/2023 10:31]  Jobe Wan Kenobi: [MrBeast of Outlands, gLc]
+[04/01/2023 10:31]  Jobe Wan Kenobi: Jobe Wan Kenobi
+[04/01/2023 10:31]  Ripper: [CFC]
+[04/01/2023 10:31]  Ripper: Ripper
+[04/01/2023 10:31]  Delia Darkmire: Illusionist
+[04/01/2023 10:31]  Delia Darkmire: Delia Darkmire
+[04/01/2023 10:31]  Elloe: [SOF]
+[04/01/2023 10:31]  Elloe: Elloe
+[04/01/2023 10:31]  a water elemental: (summoned)
+[04/01/2023 10:31]  a water elemental: a water elemental
+[04/01/2023 10:31]  Cheap Ocean Good: NKB VENDOR HOUSE! Big Restock. All sorts of rares. TreasureRestock 3/25
+[04/01/2023 10:31]  You see: a cat corpse
+[04/01/2023 10:31]  NecromYT: NecromYT
+[04/01/2023 10:31]  F A T E: Connoisseur
+[04/01/2023 10:31]  F A T E: Lord F A T E
+[04/01/2023 10:31]  Minedanion: [Greenhorn Logger, LOGZ]
+[04/01/2023 10:31]  Minedanion: Minedanion
+[04/01/2023 10:31]  a prevalian knight: a prevalian knight
+[04/01/2023 10:31]  a prevalian knight: a prevalian knight
+[04/01/2023 10:31]  Captain Dread: Legendary Mariner
+[04/01/2023 10:31]  Captain Dread: [Ship People, Path]
+[04/01/2023 10:31]  Captain Dread: Captain Dread
+[04/01/2023 10:31]  Basha: Basha
+[04/01/2023 10:31]  a prevalian knight: a prevalian knight
+[04/01/2023 10:31]  a prevalian marksman: a prevalian marksman
+[04/01/2023 10:31]  ...: ...
+[04/01/2023 10:31]  ...: ...
+[04/01/2023 10:31]  ...: ...
+[04/01/2023 10:31]  ...: ...
+[04/01/2023 10:31]  ...: ...
+[04/01/2023 10:31]  Spellbooks 52K: Spellbooks 52K
+[04/01/2023 10:31]  Arcanes/Maps/More: Arcanes/Maps/More
+[04/01/2023 10:31]  Spellbooks/Runebooks: Spellbooks/Runebooks
+[04/01/2023 10:31]  Gold Weps & Prev: Gold Weps & Prev
+[04/01/2023 10:31]  PoisonCore & ID Wand: PoisonCore & ID Wand
+[04/01/2023 10:31]  Good Food: Good Food
+[04/01/2023 10:31]  Prev Coins in Stock!: Prev Coins in Stock!
+[04/01/2023 10:31]  Albondiguilla: [Hidalgo, EA]
+[04/01/2023 10:31]  Albondiguilla: Albondiguilla
+[04/01/2023 10:31]  Mutilates SS/Misc: Mutilates SS/Misc
+[04/01/2023 10:31]  a  WES CORES: a  WES CORES
+[04/01/2023 10:31]  aWes SCROLLS: aWes SCROLLS
+[04/01/2023 10:31]  Ill gotten Gains: Ill gotten Gains
+[04/01/2023 10:31]  PREVS: PREVS
+[04/01/2023 10:31]  MutilatesAspektKits: MutilatesAspektKits
+[04/01/2023 10:31]  Ganthrone: Shadowspire Legend
+[04/01/2023 10:31]  Ganthrone: [G&W Officer, Path]
+[04/01/2023 10:31]  Ganthrone: Lord Ganthrone
+[04/01/2023 10:31]  Crazy Jack: Crazy Jack
+[04/01/2023 10:31]  Bubba Gump Inc: Bubba Gump Inc
+[04/01/2023 10:31]  Shah Jahan: Shah Jahan
+[04/01/2023 10:31]  shimoo: shimoo
+[04/01/2023 10:31]  O Flecha: O Flecha
+[04/01/2023 10:31]  KoT MaTrOsKiN: KoT MaTrOsKiN
+[04/01/2023 10:31]  Jill the Cook: Jill the Cook
+[04/01/2023 10:31]  **SHADOW FURN* 20/3: **SHADOW FURN* 20/3
+[04/01/2023 10:31]  So Fly Fisherman: So Fly Fisherman
+[04/01/2023 10:31]  XTREME LOOT 12/3: XTREME LOOT 12/3
+[04/01/2023 10:31]  FastHands: [Recruit, RK's]
+[04/01/2023 10:31]  FastHands: FastHands
+[04/01/2023 10:31]  Darcassan: Darcassan
+[04/01/2023 10:31]  Sagita: Sagita
+[04/01/2023 10:31]  CarrierMan: CarrierMan
+[04/01/2023 10:31]  Papoto II: Papoto II
+[04/01/2023 10:31]  Trisky: Trisky
+[04/01/2023 10:31]  Frey Alchemina: Frey Alchemina
+[04/01/2023 10:31]  Sir Chopalot: Sir Chopalot
+[04/01/2023 10:31]  Caffeinater: Caffeinater
+[04/01/2023 10:31]  Deaths Hand: Deaths Hand
+[04/01/2023 10:31]  Khe Sanh: Khe Sanh
+[04/01/2023 10:31]  papa josh: [Zor]
+[04/01/2023 10:31]  papa josh: papa josh
+[04/01/2023 10:31]  Akallabeth: Weaponmaster
+[04/01/2023 10:31]  Akallabeth: Lord Akallabeth
+[04/01/2023 10:31]  a horse: (tame)
+[04/01/2023 10:31]  a horse: a horse
+[04/01/2023 10:31]  PVP Mulado: PVP Mulado
+[04/01/2023 10:31]  Dakota Tyler: Dakota Tyler
+[04/01/2023 10:31]  Fruity Pebbles: Fruity Pebbles
+[04/01/2023 10:31]  Narco: Narco
+[04/01/2023 10:31]  NumbNuts: NumbNuts
+[04/01/2023 10:31]  stop this farmer: stop this farmer
+[04/01/2023 10:31]  Shinohe: [Member, DoS]
+[04/01/2023 10:31]  Shinohe: Shinohe
+[04/01/2023 10:31]  Aurangzeb: Aurangzeb
+[04/01/2023 10:31]  Actually Bacco: Actually Bacco
+[04/01/2023 10:31]  INeedAGate: INeedAGate
+[04/01/2023 10:31]  Mio Khalifo: Mio Khalifo
+[04/01/2023 10:31]  Lockislava: Lockislava
+[04/01/2023 10:31]  a lolipop: a lolipop
+[04/01/2023 10:31]  Wurstkopf: Wurstkopf
+[04/01/2023 10:31]  Boyka: Boyka
+[04/01/2023 10:31]  Drexl Spivey: Seasoned Beastmaster
+[04/01/2023 10:31]  Drexl Spivey: [Recruit, NWO]
+[04/01/2023 10:31]  Drexl Spivey: Drexl Spivey
+[04/01/2023 10:31]  Dark Chapel: Legendary Scribe
+[04/01/2023 10:31]  Dark Chapel: Dark Chapel
+[04/01/2023 10:31]  Frank Dux: Frank Dux
+[04/01/2023 10:31]  Sibongile: Sibongile the battle trainer
+[04/01/2023 10:31]  Banana Bardette: Banana Bardette
+[04/01/2023 10:31]  Tea's Scam Vendor: Tea's Scam Vendor
+[04/01/2023 10:31]  System: You have left the protection of the town guards.
+[04/01/2023 10:31]  Woodooo: [Recruit, G.G]
+[04/01/2023 10:31]  Woodooo: Woodooo
+[04/01/2023 10:31]  RESTOCKED RARES 2/23: RESTOCKED RARES 2/23
+[04/01/2023 10:31]  PREV COINS & SHELVES: PREV COINS & SHELVES
+[04/01/2023 10:31]  CHEAPFROZEN FOUNTAIN: CHEAPFROZEN FOUNTAIN
+[04/01/2023 10:31]  FastHands: [Recruit, RK's]
+[04/01/2023 10:31]  FastHands: FastHands
+[04/01/2023 10:31]  Darcassan: Darcassan
+[04/01/2023 10:31]  Sagita: Sagita
+[04/01/2023 10:31]  stop this farmer: stop this farmer
+[04/01/2023 10:31]  Frey Alchemina: Frey Alchemina
+[04/01/2023 10:31]  Aurangzeb: Aurangzeb
+[04/01/2023 10:31]  Actually Bacco: Actually Bacco
+[04/01/2023 10:31]  Sir Chopalot: Sir Chopalot
+[04/01/2023 10:31]  INeedAGate: INeedAGate
+[04/01/2023 10:31]  Caffeinater: Caffeinater
+[04/01/2023 10:31]  Mio Khalifo: Mio Khalifo
+[04/01/2023 10:31]  a lolipop: a lolipop
+[04/01/2023 10:31]  Wurstkopf: Wurstkopf
+[04/01/2023 10:31]  Boyka: Boyka
+[04/01/2023 10:31]  papa josh: [Zor]
+[04/01/2023 10:31]  papa josh: papa josh
+[04/01/2023 10:31]  Banana Bardette: Banana Bardette
+[04/01/2023 10:31]  Akallabeth: Weaponmaster
+[04/01/2023 10:31]  Akallabeth: Lord Akallabeth
+[04/01/2023 10:31]  Drexl Spivey: Seasoned Beastmaster
+[04/01/2023 10:31]  Drexl Spivey: [Recruit, NWO]
+[04/01/2023 10:31]  Drexl Spivey: Drexl Spivey
+[04/01/2023 10:31]  Frank Dux: Frank Dux
+[04/01/2023 10:31]  Crazy Jack: Crazy Jack
+[04/01/2023 10:31]  Prev Coins!!: Prev Coins!!
+[04/01/2023 10:31]  PREV MG - GOOD LINKS: PREV MG - GOOD LINKS
+[04/01/2023 10:31]  NumbNuts: NumbNuts
+[04/01/2023 10:31]  CarrierMan: CarrierMan
+[04/01/2023 10:31]  Shinohe: [Member, DoS]
+[04/01/2023 10:31]  Shinohe: Shinohe
+[04/01/2023 10:31]  Papoto II: Papoto II
+[04/01/2023 10:31]  Trisky: Trisky
+[04/01/2023 10:31]  Lockislava: Lockislava
+[04/01/2023 10:31]  Deaths Hand: Deaths Hand
+[04/01/2023 10:31]  Khe Sanh: Khe Sanh
+[04/01/2023 10:31]  Dakota Tyler: Dakota Tyler
+[04/01/2023 10:31]  Dark Chapel: Legendary Scribe
+[04/01/2023 10:31]  Dark Chapel: Dark Chapel
+[04/01/2023 10:31]  Ugarte: Ugarte
+[04/01/2023 10:31]  stabypoison: stabypoison
+[04/01/2023 10:31]  Fruity Pebbles: Fruity Pebbles
+[04/01/2023 10:31]  Sibongile: Sibongile the battle trainer
+[04/01/2023 10:31]  Bubba Gump Inc: Bubba Gump Inc
+[04/01/2023 10:31]  CORES AND SS CHEAP: CORES AND SS CHEAP
+[04/01/2023 10:31]  PREV MG- CORES XTRAC: PREV MG- CORES XTRAC
+[04/01/2023 10:31]  Sfiuh: [Recruit, NP$]
+[04/01/2023 10:31]  Sfiuh: Sfiuh
+[04/01/2023 10:31]  I Digged Holes: I Digged Holes
+[04/01/2023 10:31]  Mr Baldric: Mr Baldric
+[04/01/2023 10:31]  Arkmutt: Arkmutt
+[04/01/2023 10:31]  MagiCatta: Wilderness Guardian
+[04/01/2023 10:31]  MagiCatta: Lord MagiCatta
+[04/01/2023 10:31]  Armoured Cat: Armoured Cat
+[04/01/2023 10:31]  PVP Mulambinho: PVP Mulambinho
+[04/01/2023 10:31]  a horse: (tame)
+[04/01/2023 10:31]  a horse: a horse
+[04/01/2023 10:31]  Bali: Bali
+[04/01/2023 10:31]  PVP Mulado: PVP Mulado
+[04/01/2023 10:31]  Tank De Guerra: Tank De Guerra
+[04/01/2023 10:31]  shimoo: shimoo
+[04/01/2023 10:31]  Smithy Shop: Smithy Shop
+[04/01/2023 10:31]  Jill the Cook: Jill the Cook
+[04/01/2023 10:31]  Mary Jane's Shop: Mary Jane's Shop
+[04/01/2023 10:31]  **Junk Links**: **Junk Links**
+[04/01/2023 10:31]  INGOTS and Loot: INGOTS and Loot
+[04/01/2023 10:31]  Don Slayote's Wares: Don Slayote's Wares
+[04/01/2023 10:31]  Amish's Shop - 3/22: Amish's Shop - 3/22
+[04/01/2023 10:31]  Chef Boy RD: Chef Boy RD
+[04/01/2023 10:31]  System: You are now under the protection of the town guards.
+[04/01/2023 10:31]  Slayote's Wife: Slayote's Wife
+[04/01/2023 10:31]  ThicChics' RideFree: ThicChics' RideFree
+[04/01/2023 10:31]  Chef Boy RD: Guards!
+[04/01/2023 10:31]  AvarVal Weps IRON: AvarVal Weps IRON
+[04/01/2023 10:31]  System: Being perfectly rested, you shove them out of the way.
+[04/01/2023 10:31]  Crazy Jack: guards
+[04/01/2023 10:31]  Razor: [+Hidden/Stealthing (0s)]
+[04/01/2023 10:31]  ALL XXXxxxXX: ALL XXXxxxXX
+[04/01/2023 10:31]  Cores/Extract/Scroll: Cores/Extract/Scroll
+[04/01/2023 10:31]  CheaperVendor: CheaperVendor
+[04/01/2023 10:31]  MCD/MAPS/RARES/LINKS: MCD/MAPS/RARES/LINKS
+[04/01/2023 10:31]  YOUR BEST CHOICE: YOUR BEST CHOICE
+[04/01/2023 10:31]  irmersuu: irmersuu
+[04/01/2023 10:31]  Core&Extract&Maps: Core&Extract&Maps
+[04/01/2023 10:31]  CHEAP AS FACKS: CHEAP AS FACKS
+[04/01/2023 10:31]  CORES DISTILLS SHIT: CORES DISTILLS SHIT
+[04/01/2023 10:31]  Skill Mastery Scroll: Skill Mastery Scroll
+[04/01/2023 10:31]  CHEAP BOARDS 12.5gp!: CHEAP BOARDS 12.5gp!
+[04/01/2023 10:31]  Aspcts Ingots Booty: Aspcts Ingots Booty
+[04/01/2023 10:31]  Skillscrolls: Skillscrolls
+[04/01/2023 10:31]  CHEAP MAN: CHEAP MAN
+[04/01/2023 10:31]  BestHouse WEAPONS: BestHouse WEAPONS
+[04/01/2023 10:31]  -RS-: -RS-
+[04/01/2023 10:31]  -RS-: -RS-
+[04/01/2023 10:31]  ALCH, LOOT. STOLEN.: ALCH, LOOT. STOLEN.
+[04/01/2023 10:31]  prevalian coins: prevalian coins
+[04/01/2023 10:31]  Orphan Skill Scrolls: Orphan Skill Scrolls
+[04/01/2023 10:31]  EVERYTHING: EVERYTHING
+[04/01/2023 10:31]  SHIP UPGRADES / CREW: SHIP UPGRADES / CREW
+[04/01/2023 10:31]  BULK REGS 3.5GP!: BULK REGS 3.5GP!
+[04/01/2023 10:31]  CORES ETC: CORES ETC
+[04/01/2023 10:31]  Cheapest Chet: Cheapest Chet
+[04/01/2023 10:31]  Cheap-Bits n Pieces: Cheap-Bits n Pieces
+[04/01/2023 10:31]  RARES: RARES
+[04/01/2023 10:31]  Starter Mage/Vet: Starter Mage/Vet
+[04/01/2023 10:31]  Mimmios Merch: Mimmios Merch
+[04/01/2023 10:31]  **ANDARIA GATE BM**: **ANDARIA GATE BM**
+[04/01/2023 10:31]  Ish's Goodies: Ish's Goodies
+[04/01/2023 10:31]  BULK REGS 3.5 GP!: BULK REGS 3.5 GP!
+[04/01/2023 10:31]  Razor: [-Hidden/Stealthing (s)]
+[04/01/2023 10:31]  WTS Ruffled Blouse: WTS Ruffled Blouse
+[04/01/2023 10:31]  Cores/Distills/Xbows: Cores/Distills/Xbows
+[04/01/2023 10:31]  FOOD/INGOTS/LEATHER: FOOD/INGOTS/LEATHER
+[04/01/2023 10:31]  PREV / SHIPS STUFF: PREV / SHIPS STUFF
+[04/01/2023 10:31]  Greek: Greek
+[04/01/2023 10:31]  Cores/Distills: Cores/Distills
+[04/01/2023 10:31]  Skill Skrollz: Skill Skrollz
+[04/01/2023 10:31]  Crossbow&Quiver: Crossbow&Quiver
+[04/01/2023 10:31]  Master Weaponsmith: Master Weaponsmith
+[04/01/2023 10:31]  Urk Vendor itemz: Urk Vendor itemz
+[04/01/2023 10:31]  BULK REGS 3.5GP PER!: BULK REGS 3.5GP PER!
+[04/01/2023 10:31]  Master Armoursmith: Master Armoursmith
+[04/01/2023 10:31]  Top Tinker: Top Tinker
+[04/01/2023 10:31]  Leather Armour: Leather Armour
+[04/01/2023 10:31]  NotYourMothersGoods: NotYourMothersGoods
+[04/01/2023 10:31]  Shimmer Kit Rare: Shimmer Kit Rare
+[04/01/2023 10:31]  DANGEON LOOT: DANGEON LOOT
+[04/01/2023 10:31]  INVULNERABLE ARMOR: INVULNERABLE ARMOR
+[04/01/2023 10:31]  CONTAINER WAND: CONTAINER WAND
+[04/01/2023 10:31]  Coloured Chain/Plate: Coloured Chain/Plate
+[04/01/2023 10:31]  DONKS LUMBER: DONKS LUMBER
+[04/01/2023 10:31]  ALCHEMY ALCHEMY: ALCHEMY ALCHEMY
+[04/01/2023 10:31]  Oil Bundle Foci: Oil Bundle Foci
+[04/01/2023 10:31]  More Plate: More Plate
+[04/01/2023 10:31]  ARROWS BOLTS THINGS: ARROWS BOLTS THINGS
+[04/01/2023 10:31]  a goat: a goat
+[04/01/2023 10:31]  Anissa: Anissa the farmer
+[04/01/2023 10:31]  System: You have left the protection of the town guards.
+[04/01/2023 10:31]  Ravi: Ravi the farmer
+[04/01/2023 10:31]  a sheep: a sheep
+[04/01/2023 10:31]  a sheep: a sheep
+[04/01/2023 10:31]  a sheep: a sheep
+[04/01/2023 10:31]  a cow: a cow
+[04/01/2023 10:31]  a sheep: a sheep
+[04/01/2023 10:31]  System: You are now under the protection of the town guards.
+[04/01/2023 10:31]  Ines: Ines the alchemist
+[04/01/2023 10:31]  Mae: Mae the herbalist
+[04/01/2023 10:31]  Shani: Shani the mage
+[04/01/2023 10:31]  Kelli: Kelli the mage
+[04/01/2023 10:31]  Slevin: Slevin the scribe
+[04/01/2023 10:32]  Old Noodles: Old Noodles
+[04/01/2023 10:32]  Don Giovanni: Kal Ort Por [Recall]
+[04/01/2023 10:32]  System: You have left the protection of the town guards.
+[04/01/2023 10:32]  Rane: Rane the dockmaster
+[04/01/2023 10:32]  a brown bear: a brown bear
+[04/01/2023 10:32]  System: Opening door...
+[04/01/2023 10:32]  System: As the owner, you refresh the house and its contents.
+[04/01/2023 10:32]  System: Your campfire is now secure.
+[04/01/2023 10:32]  System: Your campfire is now secure.
+[04/01/2023 10:34]  Rane: Rane the dockmaster

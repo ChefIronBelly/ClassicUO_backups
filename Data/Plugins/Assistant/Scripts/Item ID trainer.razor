@@ -1,0 +1,8 @@
+while skill "Item Identification" < 100
+    while not targetexists 
+        useskill "itemId"
+        wft 500
+    endwhile
+    targettype "dagger" backpack
+    wait 3000
+endwhile

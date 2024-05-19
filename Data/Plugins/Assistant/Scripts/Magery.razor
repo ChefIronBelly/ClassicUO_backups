@@ -1,0 +1,45 @@
+while skill "magery" < 101
+    if count "black pearl" < 1 or count "blood moss" < 1 or count "mandrake root" < 1 or count "garlic" < 1 or count "ginseng" < 1 or count "nightshade" < 1 or count "spider's silk" < 1 or count "sulfurous ash" < 1
+restock 1
+target 'self'
+pause 2000
+  endif
+  if mana < 50
+    while mana < maxmana
+      if not insysmsg "You enter a meditative trance."
+        skill "meditation"
+      else
+        while mana < maxmana
+           pause 500
+        endwhile
+      endif
+    endwhile
+  endif
+  if hits < maxhits
+    cast "greater heal"
+    waitfortarget 
+    target "self"
+    pause 600
+    cast "greater heal"
+    waitfortarget 
+    target "self"
+    pause 600
+  endif
+  if skill "magery" < 60
+    cast "greater heal"
+    waitfortarget 
+    target "self"
+    pause 600
+  elseif skill "magery" < 80
+    cast "invisibility"
+    waitfortarget 
+    target "self"
+    pause 600
+  else
+      cast "water elemental"
+    pause 5250
+    say "a water elemental release"
+    pause 600
+  endif
+endwhile
+stop

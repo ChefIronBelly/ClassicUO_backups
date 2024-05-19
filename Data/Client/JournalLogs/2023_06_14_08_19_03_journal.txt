@@ -1,0 +1,275 @@
+[06/14/2023 08:19]  System: WorldMap loading...
+[06/14/2023 08:19]  System: Loading WorldMap markers..
+[06/14/2023 08:19]  System: ..Banks_and_Healers.xml (20)
+[06/14/2023 08:19]  System: ..Dungeons.xml (12)
+[06/14/2023 08:19]  System: ..Dungeon_Gates.xml (349)
+[06/14/2023 08:19]  System: ..Healer_Caravans.xml (32)
+[06/14/2023 08:19]  System: ..Moongates.xml (9)
+[06/14/2023 08:19]  System: ..POI.xml (176)
+[06/14/2023 08:19]  System: ..PvP_Locations.xml (71)
+[06/14/2023 08:19]  System: ..Shrines.xml (9)
+[06/14/2023 08:19]  System: ..Subterranean.xml (6)
+[06/14/2023 08:19]  System: ..Townships.xml (9)
+[06/14/2023 08:19]  System: WorldMap markers loaded (693)
+[06/14/2023 08:19]  System: Welcome Schwanzstuker!
+[06/14/2023 08:19]  Schwanzstuker: Schwanzstuker
+[06/14/2023 08:19]  Rane: Rane the dockmaster
+[06/14/2023 08:19]  Rane: Rane the dockmaster
+[06/14/2023 08:19]  a crow: a crow
+[06/14/2023 08:19]  a crow: a crow
+[06/14/2023 08:19]  Wulf of Wyrd: Wulf of Wyrd
+[06/14/2023 08:19]  Wulf of Wyrd: Wulf of Wyrd
+[06/14/2023 08:19]  System: WorldMap loaded!
+[06/14/2023 08:19]  Schwanzstuker: The food is paltry and is barely satisfying.
+[06/14/2023 08:19]  Razor: [+Food Satisfaction (3600s)]
+[06/14/2023 08:19]  Wulf of Wyrd: Rel Sanct [Bless]
+[06/14/2023 08:19]  System: Your strength has changed by 10.  It is now 110
+[06/14/2023 08:19]  System: Your dexterity has changed by 10.  It is now 110
+[06/14/2023 08:19]  System: Your intelligence has changed by 10.  It is now 35
+[06/14/2023 08:19]  Razor: [+Strength (600s)]
+[06/14/2023 08:19]  Razor: Str: +10 - 110
+[06/14/2023 08:19]  Razor: [-Strength (s)]
+[06/14/2023 08:19]  Razor: [+Strength (600s)]
+[06/14/2023 08:19]  Razor: [+Agility (600s)]
+[06/14/2023 08:19]  Razor: Dex: +10 - 110
+[06/14/2023 08:19]  Razor: [-Agility (s)]
+[06/14/2023 08:19]  Razor: [+Agility (600s)]
+[06/14/2023 08:19]  Razor: [+Cunning (600s)]
+[06/14/2023 08:19]  Razor: Int: +10 - 35
+[06/14/2023 08:19]  Razor: [-Cunning (s)]
+[06/14/2023 08:19]  Razor: [+Cunning (600s)]
+[06/14/2023 08:19]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[06/14/2023 08:19]  Razor: [+Protection (600s)]
+[06/14/2023 08:19]  System: Your campfire is now secure.
+[06/14/2023 08:19]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: You are not certain.
+[06/14/2023 08:19]  System: You must wait a few moments to use another skill.
+[06/14/2023 08:19]  System: You identify the magical item.
+[06/14/2023 08:19]  You see: guarding wooden shield
+[06/14/2023 08:19]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:19]  Razor: guarding wooden shield
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:19]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:19]  System: You identify the magical item.
+[06/14/2023 08:19]  You see: potent ruin magic spellbook
+[06/14/2023 08:19]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:19]  Razor: potent ruin magic spellbook
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:19]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:19]  System: You identify the magical item.
+[06/14/2023 08:19]  You see: ruin magic spellbook
+[06/14/2023 08:19]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:19]  Razor: ruin magic spellbook
+[06/14/2023 08:19]  System: ToraK has completed the achievement: Chef (Advanced).
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:19]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:19]  System: You identify the magical item.
+[06/14/2023 08:19]  You see: surpassingly potent magic spellbook
+[06/14/2023 08:19]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:19]  Razor: surpassingly potent magic spellbook
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:19]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:19]  System: You identify the magical item.
+[06/14/2023 08:19]  You see: surpassingly melodious lute
+[06/14/2023 08:19]  You see: (500/500 uses remaining)
+[06/14/2023 08:19]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:19]  Razor: surpassingly melodious lute (500/500 uses remaining)
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:19]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:19]  You see: accurate lesser monstrous slaying bow
+[06/14/2023 08:19]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:19]  System: You identify the magical item.
+[06/14/2023 08:19]  Razor: accurate lesser monstrous slaying bow
+[06/14/2023 08:19]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:19]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  You see: accurate lesser monstrous slaying bow
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: guarding studded skirt
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: guarding studded skirt
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: defense heater shield
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: defense heater shield
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: defense bronze shield
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: defense bronze shield
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: defense ringmail chest
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: defense ringmail chest
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You are not certain.
+[06/14/2023 08:20]  System: You must wait a few moments to use another skill.
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: guarding bone chest
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: guarding bone chest
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: guarding bone chest
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: guarding bone chest
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: guarding platemail leggings
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: guarding platemail leggings
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  You see: guarding platemail leggings
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: defense chainmail coif
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: defense chainmail coif
+[06/14/2023 08:20]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:20]  System: What do you wish to appraise and identify?
+[06/14/2023 08:20]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:20]  System: You identify the magical item.
+[06/14/2023 08:20]  You see: defense chainmail coif
+[06/14/2023 08:20]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:20]  Razor: defense chainmail coif
+[06/14/2023 08:21]  a grizzly bear: a grizzly bear
+[06/14/2023 08:21]  a grizzly bear: a grizzly bear
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: You identify the magical item.
+[06/14/2023 08:21]  You see: ruin large battle axe
+[06/14/2023 08:21]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:21]  Razor: ruin large battle axe
+[06/14/2023 08:21]  a grizzly bear: a grizzly bear
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  Razor: ruin large battle axe
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: You are not certain.
+[06/14/2023 08:21]  System: You must wait a few moments to use another skill.
+[06/14/2023 08:21]  System: You identify the magical item.
+[06/14/2023 08:21]  You see: durable accurate katana
+[06/14/2023 08:21]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:21]  Razor: durable accurate katana
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: You identify the magical item.
+[06/14/2023 08:21]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:21]  Razor: accurate ruin short spear accurate ruin short spear
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: You identify the magical item.
+[06/14/2023 08:21]  You see: ruin gnarled staff
+[06/14/2023 08:21]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:21]  Razor: ruin gnarled staff
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: You identify the magical item.
+[06/14/2023 08:21]  You see: accurate quarter staff
+[06/14/2023 08:21]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:21]  Razor: accurate quarter staff
+[06/14/2023 08:21]  System: Your skill in Tactics has decreased by 5.0.  It is now 0.0.
+[06/14/2023 08:21]  System: Your skill in Tactics has increased by 5.0.  It is now 5.0.
+[06/14/2023 08:21]  You see: ruin greater ocean slaying harpoon
+[06/14/2023 08:21]  System: Your skill in Tactics has decreased by 5.0.  It is now 0.0.
+[06/14/2023 08:21]  You see: unidentified gnarled staff
+[06/14/2023 08:21]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:21]  System: What do you wish to appraise and identify?
+[06/14/2023 08:21]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:21]  System: Your skill in Cartography has decreased by 0.1.  It is now 45.3.
+[06/14/2023 08:21]  System: You identify the magical item.
+[06/14/2023 08:21]  You see: ruin gnarled staff
+[06/14/2023 08:21]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:21]  Razor: [Cartography] -0.1 45.3 (-0.1)
+[06/14/2023 08:21]  Razor: [ItemID] +0.1 86.0 (+0.1)
+[06/14/2023 08:21]  Razor: ruin gnarled staff
+[06/14/2023 08:22]  System: Your skill in Tactics has increased by 5.0.  It is now 5.0.
+[06/14/2023 08:22]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:22]  System: What do you wish to appraise and identify?
+[06/14/2023 08:22]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:22]  System: You identify the magical item.
+[06/14/2023 08:22]  You see: might bow
+[06/14/2023 08:22]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:22]  Razor: might bow
+[06/14/2023 08:22]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:22]  System: What do you wish to appraise and identify?
+[06/14/2023 08:22]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:22]  System: You identify the magical item.
+[06/14/2023 08:22]  You see: durable hardening chainmail gloves
+[06/14/2023 08:22]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:22]  Razor: durable hardening chainmail gloves
+[06/14/2023 08:22]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:22]  System: What do you wish to appraise and identify?
+[06/14/2023 08:22]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:22]  System: You identify the magical item.
+[06/14/2023 08:22]  You see: might scimitar
+[06/14/2023 08:22]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:22]  Razor: might scimitar
+[06/14/2023 08:22]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:22]  System: You are not certain.
+[06/14/2023 08:22]  System: You must wait a few moments to use another skill.
+[06/14/2023 08:22]  System: What do you wish to appraise and identify?
+[06/14/2023 08:22]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:22]  System: You identify the magical item.
+[06/14/2023 08:22]  You see: defense buckler
+[06/14/2023 08:22]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:22]  Razor: defense buckler
+[06/14/2023 08:22]  System: What do you wish to appraise and identify?
+[06/14/2023 08:22]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:22]  [Razor]: Select target for variable 'plz_id_this'
+[06/14/2023 08:22]  System: You identify the magical item.
+[06/14/2023 08:22]  You see: exceedingly melodious tambourine of lesser beastial enticement
+[06/14/2023 08:22]  You see: (500/500 uses remaining)
+[06/14/2023 08:22]  Schwanzstuker: You are uncertain about the worth of the magical item.
+[06/14/2023 08:22]  Razor: exceedingly melodious tambourine of lesser beastial enticement (500/500 uses remaining)
+[06/14/2023 08:22]  System: What do you wish to appraise and identify?
+[06/14/2023 08:22]  System: ItemID skillgain: 2.411%
+[06/14/2023 08:22]  You see: exceedingly melodious tambourine of lesser beastial enticement
+[06/14/2023 08:22]  You see: (500/500 uses remaining)
+[06/14/2023 08:22]  You see: exceedingly melodious tambourine of lesser beastial enticement
+[06/14/2023 08:22]  You see: (500/500 uses remaining)
+[06/14/2023 08:22]  You see: accurate lesser monstrous slaying bow
+[06/14/2023 08:22]  You see: accurate lesser monstrous slaying bow
+[06/14/2023 08:22]  You see: exceedingly melodious tambourine of lesser beastial enticement
+[06/14/2023 08:22]  You see: (500/500 uses remaining)
+[06/14/2023 08:23]  You see: vanquishing lesser monstrous slaying magic spellbook
+[06/14/2023 08:23]  You see: might daemonic slaying magic spellbook
+[06/14/2023 08:24]  a grizzly bear: a grizzly bear
+[06/14/2023 08:24]  a grizzly bear: a grizzly bear
+[06/14/2023 08:25]  You see: accurate lesser monstrous slaying bow
+[06/14/2023 08:25]  You see: exceedingly melodious tambourine of lesser beastial enticement
+[06/14/2023 08:25]  You see: (500/500 uses remaining)
+[06/14/2023 08:26]  System: Annomaly has completed the achievement: Triggered (Advanced).

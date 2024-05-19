@@ -1,0 +1,18 @@
+if poisoned ?? 0
+dclicktype '3847'
+endif
+else
+if hits < {maxhp}
+dclicktype '3617'
+waitfortarget
+hotkey 'Target Self'
+overhead 'Healing Started' 68
+for 11
+wait 1000
+if poisoned ?? 0
+dclicktype '3847'
+endif
+if hits < 50
+dclicktype '3852'
+endif
+endfor

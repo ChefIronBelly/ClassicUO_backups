@@ -1,0 +1,768 @@
+[02/22/2023 08:48]  System: WorldMap loading...
+[02/22/2023 08:48]  System: Loading WorldMap markers..
+[02/22/2023 08:48]  System: ..Banks_and_Healers.xml (20)
+[02/22/2023 08:48]  System: ..Dungeons.xml (12)
+[02/22/2023 08:48]  System: ..Dungeon_Gates.xml (325)
+[02/22/2023 08:48]  System: ..Healer_Caravans.xml (32)
+[02/22/2023 08:48]  System: ..Moongates.xml (9)
+[02/22/2023 08:48]  System: ..POI.xml (176)
+[02/22/2023 08:48]  System: ..PvP_Locations.xml (71)
+[02/22/2023 08:48]  System: ..Shrines.xml (9)
+[02/22/2023 08:48]  System: ..Subterranean.xml (6)
+[02/22/2023 08:48]  System: ..Townships.xml (9)
+[02/22/2023 08:48]  System: WorldMap markers loaded (669)
+[02/22/2023 08:48]  System: Welcome Wulf of Wyrd!
+[02/22/2023 08:48]  Razor: [- (s)]
+[02/22/2023 08:48]  Razor: [+Tracking Hunting (0s)]
+[02/22/2023 08:48]  Razor: [- (s)]
+[02/22/2023 08:48]  Razor: [+Reactive Armor (0s)]
+[02/22/2023 08:48]  Razor: [- (s)]
+[02/22/2023 08:48]  Razor: [+Magic Reflection (0s)]
+[02/22/2023 08:48]  Razor: [-Tracking Hunting (s)]
+[02/22/2023 08:48]  Wulf of Wyrd: Wulf of Wyrd
+[02/22/2023 08:48]  Rane: Rane the dockmaster
+[02/22/2023 08:48]  a gargoyle: a gargoyle
+[02/22/2023 08:48]  a chickadee: a chickadee
+[02/22/2023 08:48]  System: Your food satisfaction effect has expired.
+[02/22/2023 08:48]  System: Finished 2 queued actions in 0.6 seconds.
+[02/22/2023 08:48]  System: WorldMap loaded!
+[02/22/2023 08:48]  System: You cannot pick that up.
+[02/22/2023 08:48]  System: You cannot pick that up.
+[02/22/2023 08:49]  System: You cannot pick that up.
+[02/22/2023 08:49]  System: You cannot pick that up.
+[02/22/2023 08:49]  You see: a rune tome
+[02/22/2023 08:49]  You see: [blessed]
+[02/22/2023 08:49]  You see: [locked down]
+[02/22/2023 08:49]  System: You cannot pick that up.
+[02/22/2023 08:49]  System: Battalion has completed the achievement: Landowner (Epic).
+[02/22/2023 08:50]  Empress Nympho: [Juicy, SQzD]
+[02/22/2023 08:50]  Empress Nympho: Empress Nympho
+[02/22/2023 08:50]  a chickadee: a chickadee
+[02/22/2023 08:50]  System: A contested boss has spawned in Inferno!
+[02/22/2023 08:50]  You see: [no longer locked down]
+[02/22/2023 08:50]  a rune tome: [no longer locked down]
+[02/22/2023 08:50]  You see: [no longer locked down]
+[02/22/2023 08:50]  You see: [secured]
+[02/22/2023 08:51]  Gandv: Gandv
+[02/22/2023 08:52]  System: Your campfire is now secure.
+[02/22/2023 08:52]  System: VeysMage has completed the achievement: Guardian of Inferno (Basic).
+[02/22/2023 08:52]  Razor: [+Food Satisfaction (3600s)]
+[02/22/2023 08:53]  Stink Fist: Stink Fist
+[02/22/2023 08:54]  System: The world will save in 15 seconds.
+[02/22/2023 08:54]  System: The world is saving, please wait.
+[02/22/2023 08:54]  System: World save complete. The entire process took 4.8 seconds.
+[02/22/2023 08:54]  System: Gaksital has completed the achievement: Triggered (Epic).
+[02/22/2023 08:55]  System: Alysa has completed the achievement: Aspect Mastery (Basic).
+[02/22/2023 08:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[02/22/2023 08:55]  You see: exceptional skinning knife
+[02/22/2023 08:55]  You see: (750 uses remaining)
+[02/22/2023 08:55]  You see: exceptional skinning knife
+[02/22/2023 08:55]  You see: (750 uses remaining)
+[02/22/2023 08:57]  Wulf of Wyrd: Kal Ort Por [Recall]
+[02/22/2023 08:57]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 08:57]  Ramon: Ramon the wandering healer
+[02/22/2023 08:57]  Razor: v5.3.0
+[02/22/2023 08:57]  Razor: uorazorscripts.com/mage-bot
+[02/22/2023 08:57]  Wulf of Wyrd: This script was brought to you by youtube.com/Jaseowns
+[02/22/2023 08:57]  a snowdrift: a snowdrift
+[02/22/2023 08:57]  System: What do you wish to track?
+[02/22/2023 08:57]  System: You will now hunt enemy players.
+[02/22/2023 08:57]  System: You will now hunt murderer players.
+[02/22/2023 08:57]  System: You will now hunt criminal players.
+[02/22/2023 08:57]  System: You will now hunt innocent players.
+[02/22/2023 08:57]  System: You will now hunt friendly players.
+[02/22/2023 08:57]  System: You will now hunt aggressive creatures.
+[02/22/2023 08:57]  System: You will now hunt passive creatures.
+[02/22/2023 08:57]  System: You will now hunt townsfolk.
+[02/22/2023 08:57]  System: You will now hunt all players.
+[02/22/2023 08:57]  System: You will now hunt all hostile players.
+[02/22/2023 08:57]  Wulf of Wyrd: You begin hunting.
+[02/22/2023 08:57]  Razor: [+Tracking Hunting (0s)]
+[02/22/2023 08:57]  Wulf of Wyrd: Kal Vas Xen An Flam [Water Elemental]
+[02/22/2023 08:57]  System: You are already casting a spell.
+[02/22/2023 08:57]  System: You are already casting a spell. [6]
+[02/22/2023 08:57]  System: Magery skillgain: 7.500%
+[02/22/2023 08:57]  Razor: Renaming...
+[02/22/2023 08:57]  Razor: Water One Set
+[02/22/2023 08:57]  a water elemental: (summoned 10m)
+[02/22/2023 08:57]  a water elemental: a water elemental
+[02/22/2023 08:57]  Wulf of Wyrd: all guard me
+[02/22/2023 08:57]  Wulf of Wyrd: Kal Vas Xen An Flam [Water Elemental]
+[02/22/2023 08:57]  System: You are already casting a spell. [5]
+[02/22/2023 08:58]  System: Magery skillgain: 7.500%
+[02/22/2023 08:58]  a water elemental: (summoned 10m)
+[02/22/2023 08:58]  a water elemental: a water elemental
+[02/22/2023 08:58]  Razor: Renaming...
+[02/22/2023 08:58]  Razor: Water Two Set
+[02/22/2023 08:58]  Wulf of Wyrd: all guard me
+[02/22/2023 08:58]  System: You are already casting a spell. [6]
+[02/22/2023 08:58]  Razor: waiting for mana
+[02/22/2023 08:58]  System: You enter a meditative trance.
+[02/22/2023 08:58]  Razor: [+Actively Meditating (0s)]
+[02/22/2023 08:58]  Razor: waiting for mana
+[02/22/2023 08:58]  Razor: waiting for mana
+[02/22/2023 08:58]  System: You do not have the required Necromancy and Magery skill for that ability.
+[02/22/2023 08:58]  System: You stop meditating.
+[02/22/2023 08:58]  Razor: [-Actively Meditating (s)]
+[02/22/2023 08:58]  Wulf of Wyrd: Kal Xen [Summ. Creature]
+[02/22/2023 08:58]  System: You are already casting a spell.
+[02/22/2023 08:58]  System: You are already casting a spell. [6]
+[02/22/2023 08:58]  System: You have not yet recovered from casting a spell.
+[02/22/2023 08:58]  a sand crab: (summoned 10m)
+[02/22/2023 08:58]  a sand crab: a sand crab
+[02/22/2023 08:58]  System: New target set.
+[02/22/2023 08:58]  Razor: Target: a frostbane acolyte
+[02/22/2023 08:58]  Wulf of Wyrd: all guard me
+[02/22/2023 08:58]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[02/22/2023 08:58]  Razor: Move closer, more then 8 tiles away
+[02/22/2023 08:58]  System: You are already casting a spell. [2]
+[02/22/2023 08:58]  a snowdrift: a snowdrift
+[02/22/2023 08:58]  a snow elemental: a snow elemental
+[02/22/2023 08:58]  a snow elemental: a snow elemental
+[02/22/2023 08:58]  a snow elemental: -21
+[02/22/2023 08:58]  a snow elemental: -34
+[02/22/2023 08:58]  a snowdrift: a snowdrift
+[02/22/2023 08:58]  a snow elemental: -15
+[02/22/2023 08:58]  a snow elemental: -15
+[02/22/2023 08:58]  a snow elemental: -12
+[02/22/2023 08:58]  a snow elemental: -30
+[02/22/2023 08:58]  a snow elemental: -22
+[02/22/2023 08:58]  a snow elemental: -34
+[02/22/2023 08:58]  jaseyoutube: -22
+[02/22/2023 08:58]  a snow elemental: -33
+[02/22/2023 08:58]  a snow elemental: -33
+[02/22/2023 08:58]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[02/22/2023 08:58]  a snow elemental: -19
+[02/22/2023 08:58]  a snow elemental: -13
+[02/22/2023 08:58]  Razor: Target: a snow elemental
+[02/22/2023 08:58]  a snow elemental: -34
+[02/22/2023 08:58]  a snow elemental: -267
+[02/22/2023 08:58]  a snow elemental: -19
+[02/22/2023 08:58]  a snow elemental: -23
+[02/22/2023 08:58]  jaseyoutube: -28
+[02/22/2023 08:58]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[02/22/2023 08:58]  a snow elemental: -15
+[02/22/2023 08:58]  a sand crab: *chilled*
+[02/22/2023 08:58]  a sand crab: -10
+[02/22/2023 08:58]  a snow elemental: -25
+[02/22/2023 08:58]  a snow elemental: -14
+[02/22/2023 08:58]  a snow elemental: -224
+[02/22/2023 08:58]  a snow elemental: -35
+[02/22/2023 08:58]  a snow elemental: -31
+[02/22/2023 08:58]  a snow elemental: -25
+[02/22/2023 08:58]  a snow elemental: -19
+[02/22/2023 08:58]  a snow elemental: -20
+[02/22/2023 08:58]  a snow elemental: -16
+[02/22/2023 08:58]  jaseyoutube: -29
+[02/22/2023 08:58]  a snow elemental: -16
+[02/22/2023 08:58]  a snow elemental: -18
+[02/22/2023 08:58]  a snow elemental: -32
+[02/22/2023 08:58]  a snow elemental: -13
+[02/22/2023 08:58]  a snow elemental: -20
+[02/22/2023 08:58]  a snow elemental: -21
+[02/22/2023 08:59]  a snow elemental: -16
+[02/22/2023 08:59]  a snow elemental: -24
+[02/22/2023 08:59]  a snow elemental: -16
+[02/22/2023 08:59]  a snow elemental: -18
+[02/22/2023 08:59]  a snow elemental: -9
+[02/22/2023 08:59]  System: You have gained some fame.
+[02/22/2023 08:59]  System: You have gained some karma.
+[02/22/2023 08:59]  Wulf of Wyrd: (Summon Creature 2.4% xp)
+[02/22/2023 08:59]  Wulf of Wyrd: (Water Elemental 36.3% xp)
+[02/22/2023 08:59]  You see: a snow elemental corpse
+[02/22/2023 08:59]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 08:59]  System: What corpse or location do you wish to carve?
+[02/22/2023 08:59]  Razor: Target: Wulf of Wyrd
+[02/22/2023 08:59]  a snowdrift: a snowdrift
+[02/22/2023 08:59]  System: Captcha successful.
+[02/22/2023 08:59]  System: You carve materials from the corpse.
+[02/22/2023 08:59]  a snow elemental: a snow elemental
+[02/22/2023 08:59]  a snowdrift: a snowdrift
+[02/22/2023 08:59]  System: Being perfectly rested, you shove them out of the way.
+[02/22/2023 08:59]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 08:59]  a snow elemental: a snow elemental
+[02/22/2023 08:59]  jaseyoutube: -11
+[02/22/2023 08:59]  a snowdrift: -27
+[02/22/2023 08:59]  a snowdrift: -22
+[02/22/2023 08:59]  jaseyoutube: *chilled*
+[02/22/2023 08:59]  jaseyoutube: -34
+[02/22/2023 08:59]  a snowdrift: -23
+[02/22/2023 08:59]  a snowdrift: -24
+[02/22/2023 08:59]  jaseyoutube: -14
+[02/22/2023 08:59]  a snowdrift: *regens*
+[02/22/2023 08:59]  jaseyoutube: -19
+[02/22/2023 08:59]  a snowdrift: -21
+[02/22/2023 08:59]  a snowdrift: -19
+[02/22/2023 08:59]  a snowdrift: -15
+[02/22/2023 08:59]  jaseyoutube: -16
+[02/22/2023 08:59]  Wulf of Wyrd: The food is paltry and is barely satisfying.
+[02/22/2023 08:59]  Razor: [-Food Satisfaction (s)]
+[02/22/2023 08:59]  Razor: [+Food Satisfaction (3600s)]
+[02/22/2023 08:59]  a snowdrift: -21
+[02/22/2023 08:59]  a snowdrift: -17
+[02/22/2023 08:59]  a snowdrift: -18
+[02/22/2023 08:59]  a snowdrift: -15
+[02/22/2023 08:59]  a snowdrift: -22
+[02/22/2023 08:59]  jaseyoutube: -14
+[02/22/2023 08:59]  a snowdrift: -16
+[02/22/2023 08:59]  a snowdrift: -24
+[02/22/2023 08:59]  jaseyoutube: *chilled*
+[02/22/2023 08:59]  jaseyoutube: -34
+[02/22/2023 08:59]  a snowdrift: *regens*
+[02/22/2023 08:59]  a snowdrift: -18
+[02/22/2023 08:59]  a snowdrift: -14
+[02/22/2023 08:59]  jaseyoutube: -9
+[02/22/2023 08:59]  a snowdrift: -16
+[02/22/2023 08:59]  a snowdrift: -27
+[02/22/2023 08:59]  a snowdrift: -30
+[02/22/2023 08:59]  a snowdrift: -20
+[02/22/2023 09:00]  a snowdrift: -18
+[02/22/2023 09:00]  Razor: [Beneficial Target]
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  a snowdrift: -23
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -30
+[02/22/2023 09:00]  a snowdrift: -18
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -27
+[02/22/2023 09:00]  jaseyoutube: *chilled*
+[02/22/2023 09:00]  jaseyoutube: -36
+[02/22/2023 09:00]  a snowdrift: -6
+[02/22/2023 09:00]  a snowdrift: *regens*
+[02/22/2023 09:00]  jaseyoutube: -11
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -21
+[02/22/2023 09:00]  jaseyoutube: -19
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -28
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -6
+[02/22/2023 09:00]  a snowdrift: -4
+[02/22/2023 09:00]  a snowdrift: -16
+[02/22/2023 09:00]  a snowdrift: -18
+[02/22/2023 09:00]  a snowdrift: -26
+[02/22/2023 09:00]  a snowdrift: -3
+[02/22/2023 09:00]  a snowdrift: -18
+[02/22/2023 09:00]  System: [DF] A Dungeon Flashpoint for Aegis Keep has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[02/22/2023 09:00]  a snowdrift: -21
+[02/22/2023 09:00]  Razor: Attack: a snowdrift
+[02/22/2023 09:00]  a snowdrift: -19
+[02/22/2023 09:00]  a snowdrift: -23
+[02/22/2023 09:00]  a snowdrift: -3
+[02/22/2023 09:00]  jaseyoutube: *chilled*
+[02/22/2023 09:00]  jaseyoutube: -36
+[02/22/2023 09:00]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[02/22/2023 09:00]  a snowdrift: -21
+[02/22/2023 09:00]  a snowdrift: *regens*
+[02/22/2023 09:00]  jaseyoutube: -9
+[02/22/2023 09:00]  Razor: Target: a snowdrift
+[02/22/2023 09:00]  System: You charge your spell with additional energy!
+[02/22/2023 09:00]  a snowdrift: -3
+[02/22/2023 09:00]  a snowdrift: -20
+[02/22/2023 09:00]  System: You have gained a little fame.
+[02/22/2023 09:00]  System: You have gained a little karma.
+[02/22/2023 09:00]  Wulf of Wyrd: (Summon Creature 4.4% xp)
+[02/22/2023 09:00]  Wulf of Wyrd: (Water Elemental 44.3% xp)
+[02/22/2023 09:00]  System: -315
+[02/22/2023 09:00]  You see: a snowdrift corpse
+[02/22/2023 09:00]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 09:00]  System: What corpse or location do you wish to carve?
+[02/22/2023 09:00]  Razor: Target: Wulf of Wyrd
+[02/22/2023 09:00]  System: You carve materials from the corpse.
+[02/22/2023 09:00]  Razor: [Beneficial Target]
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  a snow elemental: a snow elemental
+[02/22/2023 09:00]  a snow elemental: a snow elemental
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  a snowdrift: a snowdrift
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  a snow flurry: a snow flurry
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  System: Being perfectly rested, you shove them out of the way.
+[02/22/2023 09:00]  System: -1
+[02/22/2023 09:00]  System: -5
+[02/22/2023 09:00]  a snow flurry: a snow flurry
+[02/22/2023 09:00]  a sand crab: (summoned 7m 16s)
+[02/22/2023 09:00]  a sand crab: a sand crab
+[02/22/2023 09:00]  jaseyoutube: (summoned 7m 4s)
+[02/22/2023 09:00]  jaseyoutube: jaseyoutube
+[02/22/2023 09:00]  a snow flurry: -19
+[02/22/2023 09:00]  a water elemental: (summoned 6m 59s)
+[02/22/2023 09:00]  a water elemental: a water elemental
+[02/22/2023 09:00]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:00]  a snow flurry: -32
+[02/22/2023 09:00]  jaseyoutube: -2
+[02/22/2023 09:01]  a snow flurry: -20
+[02/22/2023 09:01]  a snow flurry: -21
+[02/22/2023 09:01]  jaseyoutube: -8
+[02/22/2023 09:01]  a snow flurry: -22
+[02/22/2023 09:01]  a snow flurry: -20
+[02/22/2023 09:01]  a snow flurry: -33
+[02/22/2023 09:01]  a snow flurry: -28
+[02/22/2023 09:01]  a water elemental: *chilled*
+[02/22/2023 09:01]  a water elemental: -9
+[02/22/2023 09:01]  jaseyoutube: -6
+[02/22/2023 09:01]  Wulf of Wyrd: Vas Ort Flam [Explosion]
+[02/22/2023 09:01]  Razor: Target: a snow flurry
+[02/22/2023 09:01]  a snow flurry: -21
+[02/22/2023 09:01]  jaseyoutube: -2
+[02/22/2023 09:01]  a snow flurry: -32
+[02/22/2023 09:01]  a snow flurry: -208
+[02/22/2023 09:01]  a snow flurry: -34
+[02/22/2023 09:01]  a snow flurry: -23
+[02/22/2023 09:01]  jaseyoutube: -5
+[02/22/2023 09:01]  jaseyoutube: -26
+[02/22/2023 09:01]  jaseyoutube: *chilled*
+[02/22/2023 09:01]  jaseyoutube: -31
+[02/22/2023 09:01]  System: Lyxi Deadbub has completed the achievement: Treasure Seeker (Epic).
+[02/22/2023 09:01]  a snow flurry: -21
+[02/22/2023 09:01]  a snow flurry: -24
+[02/22/2023 09:01]  a snow flurry: -22
+[02/22/2023 09:01]  a snow flurry: -18
+[02/22/2023 09:01]  a sand crab: *chilled*
+[02/22/2023 09:01]  a sand crab: -5
+[02/22/2023 09:01]  a snow flurry: -4
+[02/22/2023 09:01]  jaseyoutube: -22
+[02/22/2023 09:01]  a snow flurry: -35
+[02/22/2023 09:01]  jaseyoutube: -17
+[02/22/2023 09:01]  a snow flurry: -4
+[02/22/2023 09:01]  Wulf of Wyrd: Des Mani [Weaken]
+[02/22/2023 09:01]  a snow flurry: -21
+[02/22/2023 09:01]  a snow flurry: -4
+[02/22/2023 09:01]  a snow flurry: -25
+[02/22/2023 09:01]  a snow flurry: -23
+[02/22/2023 09:01]  a snow flurry: -16
+[02/22/2023 09:01]  a snow flurry: -24
+[02/22/2023 09:01]  a snow flurry: -4
+[02/22/2023 09:01]  a snow flurry: -30
+[02/22/2023 09:01]  a snow flurry: -27
+[02/22/2023 09:01]  jaseyoutube: -8
+[02/22/2023 09:01]  a snow flurry: -4
+[02/22/2023 09:01]  jaseyoutube: -19
+[02/22/2023 09:01]  a snow flurry: -18
+[02/22/2023 09:01]  a snow flurry: -21
+[02/22/2023 09:01]  jaseyoutube: *chilled*
+[02/22/2023 09:01]  jaseyoutube: -16
+[02/22/2023 09:01]  jaseyoutube: -8
+[02/22/2023 09:01]  a snow flurry: -16
+[02/22/2023 09:01]  a snow flurry: -22
+[02/22/2023 09:01]  a snow flurry: -25
+[02/22/2023 09:01]  jaseyoutube: -19
+[02/22/2023 09:01]  a snow flurry: -7
+[02/22/2023 09:01]  a snow flurry: -23
+[02/22/2023 09:01]  a snow flurry: -16
+[02/22/2023 09:01]  a snow flurry: -21
+[02/22/2023 09:01]  jaseyoutube: -19
+[02/22/2023 09:01]  a snow flurry: -4
+[02/22/2023 09:01]  System: You have gained some fame.
+[02/22/2023 09:01]  System: You have gained some karma.
+[02/22/2023 09:01]  Wulf of Wyrd: (Summon Creature 7.6% xp)
+[02/22/2023 09:01]  Wulf of Wyrd: (Water Elemental 57.1% xp)
+[02/22/2023 09:01]  You see: a snow flurry corpse
+[02/22/2023 09:01]  System: grizzlyball has completed the achievement: Backstabber (Basic).
+[02/22/2023 09:01]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 09:01]  System: What corpse or location do you wish to carve?
+[02/22/2023 09:01]  Razor: Target: Wulf of Wyrd
+[02/22/2023 09:01]  System: You carve materials from the corpse.
+[02/22/2023 09:01]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 09:02]  Wulf of Wyrd: Kal Ort Por [Recall]
+[02/22/2023 09:02]  System: You are now under the protection of the town guards.
+[02/22/2023 09:02]  Astelia: Astelia
+[02/22/2023 09:02]  TameTheseNtz: [Recruit, NWO]
+[02/22/2023 09:02]  TameTheseNtz: TameTheseNtz
+[02/22/2023 09:02]  a dragon: (tame)
+[02/22/2023 09:02]  a dragon: a dragon
+[02/22/2023 09:02]  MaidenG: MaidenG
+[02/22/2023 09:02]  a water elemental: (summoned 5m 49s)
+[02/22/2023 09:02]  a water elemental: a water elemental
+[02/22/2023 09:02]  jaseyoutube: (summoned 5m 55s)
+[02/22/2023 09:02]  jaseyoutube: jaseyoutube
+[02/22/2023 09:02]  a sand crab: (summoned 6m 6s)
+[02/22/2023 09:02]  a sand crab: a sand crab
+[02/22/2023 09:02]  an andarian mage: an andarian mage
+[02/22/2023 09:02]  Candida: Candida the cobbler
+[02/22/2023 09:02]  Stoyan: Stoyan the tinker
+[02/22/2023 09:02]  Leiko: Leiko the tinker
+[02/22/2023 09:02]  Orryn: [Yew]
+[02/22/2023 09:02]  Orryn: Orryn
+[02/22/2023 09:02]  Stoyan: Stoyan the tinker
+[02/22/2023 09:02]  a water elemental: (summoned 5m 39s)
+[02/22/2023 09:02]  a water elemental: a water elemental
+[02/22/2023 09:02]  a water elemental: (summoned 5m 36s)
+[02/22/2023 09:02]  a water elemental: a water elemental
+[02/22/2023 09:02]  jaseyoutube: (summoned 5m 38s)
+[02/22/2023 09:02]  jaseyoutube: jaseyoutube
+[02/22/2023 09:02]  a sand crab: (summoned 5m 46s)
+[02/22/2023 09:02]  a sand crab: a sand crab
+[02/22/2023 09:02]  Machiavellis: Machiavellis
+[02/22/2023 09:02]  Machiavellis: Machiavellis
+[02/22/2023 09:02]  Stoyan: Stoyan the tinker
+[02/22/2023 09:02]  Haldor: Haldor
+[02/22/2023 09:02]  a pack llama: (tame)
+[02/22/2023 09:02]  a pack llama: [0/2000 stones]
+[02/22/2023 09:02]  a pack llama: a pack llama
+[02/22/2023 09:02]  Bart: Bart the Town Crier
+[02/22/2023 09:02]  Ronwe: Ronwe
+[02/22/2023 09:02]  FKA Nemesis: [Ripe, SQzD]
+[02/22/2023 09:02]  FKA Nemesis: FKA Nemesis
+[02/22/2023 09:03]  Roi: Roi the banker
+[02/22/2023 09:03]  Meda: Meda
+[02/22/2023 09:03]  Orlantha: Orlantha the banker
+[02/22/2023 09:03]  Britta: Britta the banker
+[02/22/2023 09:03]  Tokino Sora: Armorer Associate
+[02/22/2023 09:03]  Tokino Sora: Tokino Sora
+[02/22/2023 09:03]  HYOSUNG: HYOSUNG
+[02/22/2023 09:03]  Yagoo: (tame)
+[02/22/2023 09:03]  Yagoo: [229/2000 stones]
+[02/22/2023 09:03]  Yagoo: Yagoo
+[02/22/2023 09:03]  Wulf of Wyrd: bank
+[02/22/2023 09:03]  Wulf of Wyrd: Items: 59/125
+[02/22/2023 09:03]  Wulf of Wyrd: Total Weight: 174
+[02/22/2023 09:03]  Bart: A contested boss has spawned in Inferno!
+[02/22/2023 09:03]  Lettuce Foot: Lettuce Foot
+[02/22/2023 09:03]  Wulf of Wyrd: Kal Ort Por [Recall]
+[02/22/2023 09:03]  System: You have left the protection of the town guards.
+[02/22/2023 09:03]  Rane: Rane the dockmaster
+[02/22/2023 09:03]  a giant spider: a giant spider
+[02/22/2023 09:03]  a great hart: a great hart
+[02/22/2023 09:03]  a giant rat: a giant rat
+[02/22/2023 09:03]  a giant rat: a giant rat
+[02/22/2023 09:03]  a great hart: a great hart
+[02/22/2023 09:03]  an eagle: an eagle
+[02/22/2023 09:03]  System: Opening door...
+[02/22/2023 09:03]  System: Your house and its contents have been refreshed. 25 days 23 hours 15 minutes remaining until owner refresh required.
+[02/22/2023 09:03]  a great hart: a great hart
+[02/22/2023 09:03]  System: Where will you search?
+[02/22/2023 09:03]  System: You search the home and find no one hiding within.
+[02/22/2023 09:03]  a giant rat: a giant rat
+[02/22/2023 09:03]  Rane: Rane the dockmaster
+[02/22/2023 09:03]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[02/22/2023 09:04]  System: Organize Agent did not find any items to move.
+[02/22/2023 09:04]  You see: protection scroll : 7
+[02/22/2023 09:04]  You see: wall of stone scroll : 2
+[02/22/2023 09:05]  You see: strength scroll
+[02/22/2023 09:05]  You see: protection scroll : 7
+[02/22/2023 09:05]  You see: reactive armor scroll : 14
+[02/22/2023 09:05]  You see: magic trap scroll
+[02/22/2023 09:05]  You see: poison scroll
+[02/22/2023 09:05]  You see: magic reflect scroll : 5
+[02/22/2023 09:05]  You see: telekinisis scroll : 2
+[02/22/2023 09:05]  You see: bless scroll : 10
+[02/22/2023 09:05]  You see: explosion scroll : 2
+[02/22/2023 09:05]  You see: blade spirits scroll
+[02/22/2023 09:05]  You see: strength scroll
+[02/22/2023 09:07]  System: Put has completed the achievement: Metalsmith (Basic).
+[02/22/2023 09:07]  You see: Casa
+[02/22/2023 09:07]  You see: Andaria
+[02/22/2023 09:07]  You see: Casa
+[02/22/2023 09:08]  You see: pouch
+[02/22/2023 09:08]  You see: (8 items, 8 stones)
+[02/22/2023 09:08]  You see: pouch
+[02/22/2023 09:08]  You see: (0 items, 0 stones)
+[02/22/2023 09:09]  System: The world will save in 15 seconds.
+[02/22/2023 09:09]  System: The world is saving, please wait.
+[02/22/2023 09:09]  System: World save complete. The entire process took 5.3 seconds.
+[02/22/2023 09:16]  System: Siilox has completed the achievement: Weaponmastery (Advanced).
+[02/22/2023 09:17]  Wulf of Wyrd: Kal Vas Xen Ylem [Earth Elemental]
+[02/22/2023 09:17]  System: You are already casting a spell.
+[02/22/2023 09:17]  System: Magery skillgain: 7.500%
+[02/22/2023 09:17]  System: You are already casting a spell. [2]
+[02/22/2023 09:17]  an earth elemental: (summoned 10m)
+[02/22/2023 09:17]  an earth elemental: an earth elemental
+[02/22/2023 09:17]  Razor: Renaming...
+[02/22/2023 09:17]  Wulf of Wyrd: all guard me
+[02/22/2023 09:18]  Rane: Rane the dockmaster
+[02/22/2023 09:18]  Wulf of Wyrd: Kal Vas Xen An Flam [Water Elemental]
+[02/22/2023 09:18]  System: You are already casting a spell.
+[02/22/2023 09:18]  System: Magery skillgain: 7.500%
+[02/22/2023 09:18]  System: You are already casting a spell. [2]
+[02/22/2023 09:18]  a water elemental: (summoned 10m)
+[02/22/2023 09:18]  a water elemental: a water elemental
+[02/22/2023 09:18]  Razor: Renaming...
+[02/22/2023 09:18]  Razor: Water One Set
+[02/22/2023 09:18]  Wulf of Wyrd: all guard me
+[02/22/2023 09:19]  Wulf of Wyrd: Kal Ort Por [Recall]
+[02/22/2023 09:19]  Razor: [Beneficial Target]
+[02/22/2023 09:19]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:19]  jaseytfollow: (summoned 8m 27s)
+[02/22/2023 09:19]  jaseytfollow: jaseytfollow
+[02/22/2023 09:19]  jaseytfollower: (summoned 9m 46s)
+[02/22/2023 09:19]  jaseytfollower: jaseytfollower
+[02/22/2023 09:19]  Ramon: Ramon the wandering healer
+[02/22/2023 09:19]  a snowdrift: a snowdrift
+[02/22/2023 09:19]  a snow elemental: a snow elemental
+[02/22/2023 09:19]  a snow elemental: a snow elemental
+[02/22/2023 09:19]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:19]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:19]  System: New target set.
+[02/22/2023 09:19]  Razor: Target: a snow elemental
+[02/22/2023 09:19]  a frostbane acolyte: a frostbane acolyte
+[02/22/2023 09:19]  Razor: ● ▼▼ HERE ▼▼ ●
+[02/22/2023 09:19]  jaseytfollower: -28
+[02/22/2023 09:19]  jaseytfollower: *chilled*
+[02/22/2023 09:19]  jaseytfollower: -37
+[02/22/2023 09:19]  Razor: a snow elemental
+[02/22/2023 09:19]  jaseytfollower: *chilled*
+[02/22/2023 09:19]  jaseytfollower: -37
+[02/22/2023 09:19]  a snow elemental: -31
+[02/22/2023 09:19]  Wulf of Wyrd: Rel Sanct [Bless]
+[02/22/2023 09:19]  System: You are already casting a spell.
+[02/22/2023 09:19]  System: Your strength has changed by 10.  It is now 110
+[02/22/2023 09:19]  System: Your dexterity has changed by 10.  It is now 35
+[02/22/2023 09:19]  System: Your intelligence has changed by 10.  It is now 110
+[02/22/2023 09:19]  Razor: [+Strength (600s)]
+[02/22/2023 09:19]  Razor: [-Strength (s)]
+[02/22/2023 09:19]  Razor: [+Strength (600s)]
+[02/22/2023 09:19]  Razor: [+Agility (600s)]
+[02/22/2023 09:19]  Razor: [-Agility (s)]
+[02/22/2023 09:19]  Razor: [+Agility (600s)]
+[02/22/2023 09:19]  Razor: [+Cunning (600s)]
+[02/22/2023 09:19]  Razor: [-Cunning (s)]
+[02/22/2023 09:19]  Razor: [+Cunning (600s)]
+[02/22/2023 09:19]  a snow elemental: -32
+[02/22/2023 09:19]  Wulf of Wyrd: Des Sanct [Curse]
+[02/22/2023 09:19]  System: You are already casting a spell.
+[02/22/2023 09:19]  a snow elemental: -27
+[02/22/2023 09:19]  jaseytfollower: -19
+[02/22/2023 09:19]  a snow elemental: -1
+[02/22/2023 09:19]  jaseytfollow: -20
+[02/22/2023 09:19]  a snow elemental: -12
+[02/22/2023 09:19]  Wulf of Wyrd: all guard
+[02/22/2023 09:19]  a snowdrift: -30
+[02/22/2023 09:19]  a snowdrift: -22
+[02/22/2023 09:19]  jaseytfollow: -16
+[02/22/2023 09:19]  a snow elemental: -13
+[02/22/2023 09:19]  jaseytfollower: *chilled*
+[02/22/2023 09:19]  jaseytfollower: -39
+[02/22/2023 09:19]  a snowdrift: -35
+[02/22/2023 09:19]  a snowdrift: *regens*
+[02/22/2023 09:19]  a snowdrift: -19
+[02/22/2023 09:19]  System: noru has completed the achievement: Skill Mastery (Epic).
+[02/22/2023 09:19]  Wulf of Wyrd: Por Ort Grav [Lightning]
+[02/22/2023 09:19]  System: You are already casting a spell.
+[02/22/2023 09:19]  a snowdrift: -21
+[02/22/2023 09:19]  jaseytfollower: -9
+[02/22/2023 09:19]  a snow elemental: -102
+[02/22/2023 09:19]  a snowdrift: -23
+[02/22/2023 09:19]  a snowdrift: -39
+[02/22/2023 09:19]  jaseytfollow: -20
+[02/22/2023 09:19]  a snow elemental: -13
+[02/22/2023 09:19]  jaseytfollower: -19
+[02/22/2023 09:19]  a snowdrift: -19
+[02/22/2023 09:19]  a snowdrift: -9
+[02/22/2023 09:19]  jaseytfollow: -26
+[02/22/2023 09:19]  a snow elemental: -14
+[02/22/2023 09:19]  jaseytfollower: -17
+[02/22/2023 09:19]  a snowdrift: -22
+[02/22/2023 09:19]  a snowdrift: -38
+[02/22/2023 09:19]  a snowdrift: *regens*
+[02/22/2023 09:19]  Wulf of Wyrd: In Por Ylem [Magic Arrow]
+[02/22/2023 09:19]  jaseytfollower: *chilled*
+[02/22/2023 09:19]  jaseytfollower: -36
+[02/22/2023 09:19]  System: You have not yet recovered from casting a spell.
+[02/22/2023 09:19]  a snowdrift: -32
+[02/22/2023 09:19]  a snow elemental: -43
+[02/22/2023 09:20]  jaseytfollow: -20
+[02/22/2023 09:20]  a snow elemental: -12
+[02/22/2023 09:20]  a snowdrift: -37
+[02/22/2023 09:20]  a snowdrift: -20
+[02/22/2023 09:20]  jaseytfollower: -22
+[02/22/2023 09:20]  jaseytfollow: -19
+[02/22/2023 09:20]  jaseytfollow: *chilled*
+[02/22/2023 09:20]  jaseytfollow: -20
+[02/22/2023 09:20]  a snow elemental: -13
+[02/22/2023 09:20]  a snow elemental: -15
+[02/22/2023 09:20]  a snowdrift: -20
+[02/22/2023 09:20]  a snowdrift: -33
+[02/22/2023 09:20]  jaseytfollow: -22
+[02/22/2023 09:20]  jaseytfollow: *chilled*
+[02/22/2023 09:20]  jaseytfollow: -25
+[02/22/2023 09:20]  a snow elemental: -14
+[02/22/2023 09:20]  a snow elemental: -15
+[02/22/2023 09:20]  a snow elemental: -2
+[02/22/2023 09:20]  Wulf of Wyrd: An Mani [Harm]
+[02/22/2023 09:20]  a snowdrift: -39
+[02/22/2023 09:20]  System: You have not yet recovered from casting a spell.
+[02/22/2023 09:20]  a snowdrift: -24
+[02/22/2023 09:20]  jaseytfollower: -17
+[02/22/2023 09:20]  a snow elemental: -54
+[02/22/2023 09:20]  a snowdrift: *regens*
+[02/22/2023 09:20]  a snowdrift: -29
+[02/22/2023 09:20]  jaseytfollower: *chilled*
+[02/22/2023 09:20]  jaseytfollower: -36
+[02/22/2023 09:20]  a snowdrift: -22
+[02/22/2023 09:20]  jaseytfollow: -6
+[02/22/2023 09:20]  a snow elemental: -10
+[02/22/2023 09:20]  a snowdrift: -41
+[02/22/2023 09:20]  a snow elemental: -1
+[02/22/2023 09:20]  a snowdrift: -21
+[02/22/2023 09:20]  Wulf of Wyrd: Vas Flam [Fireball]
+[02/22/2023 09:20]  a snowdrift: -34
+[02/22/2023 09:20]  System: You are already casting a spell.
+[02/22/2023 09:20]  jaseytfollower: -12
+[02/22/2023 09:20]  a snow elemental: -2
+[02/22/2023 09:20]  a snowdrift: -32
+[02/22/2023 09:20]  a snowdrift: -31
+[02/22/2023 09:20]  a snowdrift: -19
+[02/22/2023 09:20]  a snowdrift: *regens*
+[02/22/2023 09:20]  jaseytfollower: *chilled*
+[02/22/2023 09:20]  jaseytfollower: -39
+[02/22/2023 09:20]  jaseytfollow: -12
+[02/22/2023 09:20]  a snow elemental: -10
+[02/22/2023 09:20]  a snowdrift: -40
+[02/22/2023 09:20]  jaseytfollower: -14
+[02/22/2023 09:20]  a snowdrift: -28
+[02/22/2023 09:20]  a snowdrift: -36
+[02/22/2023 09:20]  jaseytfollow: -11
+[02/22/2023 09:20]  a snow elemental: -12
+[02/22/2023 09:20]  Wulf of Wyrd: Corp Por [Energy Bolt]
+[02/22/2023 09:20]  a snow elemental: -2
+[02/22/2023 09:20]  a snowdrift: -22
+[02/22/2023 09:20]  jaseytfollow: -23
+[02/22/2023 09:20]  a snow elemental: -14
+[02/22/2023 09:20]  System: You are already casting a spell.
+[02/22/2023 09:20]  System: You have not yet recovered from casting a spell.
+[02/22/2023 09:20]  a snow elemental: -2
+[02/22/2023 09:20]  Razor: Target: a snow elemental
+[02/22/2023 09:20]  a snowdrift: -31
+[02/22/2023 09:20]  a snow elemental: -223
+[02/22/2023 09:20]  a snowdrift: -5
+[02/22/2023 09:20]  Wulf of Wyrd: Por Corp Wis [Mind Blast]
+[02/22/2023 09:20]  System: You are already casting a spell.
+[02/22/2023 09:20]  a snowdrift: *regens*
+[02/22/2023 09:20]  System: You charge your spell with additional energy!
+[02/22/2023 09:20]  a snowdrift: -39
+[02/22/2023 09:20]  a snow elemental: -217
+[02/22/2023 09:20]  a snowdrift: -14
+[02/22/2023 09:20]  jaseytfollower: *chilled*
+[02/22/2023 09:20]  jaseytfollower: -34
+[02/22/2023 09:20]  Wulf of Wyrd: Kal Vas Flam [Flamestrike]
+[02/22/2023 09:20]  System: You are already casting a spell.
+[02/22/2023 09:20]  a snowdrift: -38
+[02/22/2023 09:20]  jaseytfollower: -16
+[02/22/2023 09:20]  System: You have gained some fame.
+[02/22/2023 09:20]  System: You have gained some karma.
+[02/22/2023 09:20]  Wulf of Wyrd: (Water Elemental 61.9% xp)
+[02/22/2023 09:20]  Wulf of Wyrd: (Earth Elemental 4.8% xp)
+[02/22/2023 09:20]  System: -344
+[02/22/2023 09:20]  You see: a snow elemental corpse
+[02/22/2023 09:20]  a snowdrift: -36
+[02/22/2023 09:20]  a snowdrift: -27
+[02/22/2023 09:20]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 09:20]  a snowdrift: -41
+[02/22/2023 09:20]  System: What do you wish to carve, investigate, or research?
+[02/22/2023 09:20]  a snowdrift: -26
+[02/22/2023 09:20]  System: You carve materials from the corpse.
+[02/22/2023 09:20]  Wulf of Wyrd: all guard me
+[02/22/2023 09:20]  Wulf of Wyrd: In Mani Ylem [Create Food]
+[02/22/2023 09:20]  System: You create cheese which has been placed in your backpack.
+[02/22/2023 09:20]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 09:20]  Razor: We cleared curse and mana drain targets
+[02/22/2023 09:20]  jaseytfollower: -11
+[02/22/2023 09:20]  a snowdrift: -21
+[02/22/2023 09:20]  a snowdrift: *regens*
+[02/22/2023 09:20]  a snowdrift: -36
+[02/22/2023 09:20]  a snowdrift: -25
+[02/22/2023 09:20]  jaseytfollower: *chilled*
+[02/22/2023 09:20]  jaseytfollower: -39
+[02/22/2023 09:21]  a snowdrift: -32
+[02/22/2023 09:21]  a snowdrift: -22
+[02/22/2023 09:21]  Razor: Attack: a snowdrift
+[02/22/2023 09:21]  a snowdrift: -16
+[02/22/2023 09:21]  a snowdrift: -33
+[02/22/2023 09:21]  jaseytfollower: -20
+[02/22/2023 09:21]  a snowdrift: -2
+[02/22/2023 09:21]  System: You have gained a little fame.
+[02/22/2023 09:21]  System: You have gained a little karma.
+[02/22/2023 09:21]  Wulf of Wyrd: (Water Elemental 65.9% xp)
+[02/22/2023 09:21]  Wulf of Wyrd: (Earth Elemental 8.8% xp)
+[02/22/2023 09:21]  You see: a snowdrift corpse
+[02/22/2023 09:21]  System: [GridLoot]: Corpse is empty!
+[02/22/2023 09:21]  Wulf of Wyrd: Kal Ort Por [Recall]
+[02/22/2023 09:21]  System: You are now under the protection of the town guards.
+[02/22/2023 09:21]  TameTheseNtz: [Recruit, NWO]
+[02/22/2023 09:21]  TameTheseNtz: TameTheseNtz
+[02/22/2023 09:21]  an andarian mage: an andarian mage
+[02/22/2023 09:21]  a dragon: (tame)
+[02/22/2023 09:21]  a dragon: a dragon
+[02/22/2023 09:21]  jaseytfollow: (summoned 6m 6s)
+[02/22/2023 09:21]  jaseytfollow: jaseytfollow
+[02/22/2023 09:21]  jaseytfollower: (summoned 7m 25s)
+[02/22/2023 09:21]  jaseytfollower: jaseytfollower
+[02/22/2023 09:21]  Candida: Candida the cobbler
+[02/22/2023 09:21]  Leiko: Leiko the tinker
+[02/22/2023 09:21]  Orryn: [Yew]
+[02/22/2023 09:21]  Orryn: Orryn
+[02/22/2023 09:21]  jaseytfollow: (summoned 5m 59s)
+[02/22/2023 09:21]  jaseytfollow: jaseytfollow
+[02/22/2023 09:21]  jaseytfollower: (summoned 7m 15s)
+[02/22/2023 09:21]  jaseytfollower: jaseytfollower
+[02/22/2023 09:21]  System: Your campfire is now secure.
+[02/22/2023 09:21]  You see: gold coin : 270
+[02/22/2023 09:21]  Stoyan: Stoyan the tinker
+[02/22/2023 09:21]  Machiavellis: Machiavellis
+[02/22/2023 09:21]  a pack llama: (tame)
+[02/22/2023 09:21]  a pack llama: [0/2000 stones]
+[02/22/2023 09:21]  a pack llama: a pack llama
+[02/22/2023 09:21]  Bart: Bart the Town Crier
+[02/22/2023 09:21]  ShallanDavar: ShallanDavar
+[02/22/2023 09:21]  Shell Steele: Shell Steele
+[02/22/2023 09:21]  Meda: Meda
+[02/22/2023 09:21]  Roi: Roi the banker
+[02/22/2023 09:21]  Britta: Britta the banker
+[02/22/2023 09:21]  Orlantha: Orlantha the banker
+[02/22/2023 09:21]  Magum: Magum
+[02/22/2023 09:21]  a rotting flesh: (summoned)
+[02/22/2023 09:21]  a rotting flesh: a rotting flesh
+[02/22/2023 09:21]  a lich: (summoned)
+[02/22/2023 09:21]  a lich: a lich
+[02/22/2023 09:21]  an earth elemental: (summoned)
+[02/22/2023 09:21]  an earth elemental: an earth elemental
+[02/22/2023 09:21]  Acolte: [Magistrate, T^C]
+[02/22/2023 09:21]  Acolte: Acolte
+[02/22/2023 09:21]  Tokino Sora: Armorer Associate
+[02/22/2023 09:21]  Tokino Sora: Tokino Sora
+[02/22/2023 09:21]  HYOSUNG: HYOSUNG
+[02/22/2023 09:21]  Wulf of Wyrd: bank
+[02/22/2023 09:21]  Wulf of Wyrd: Items: 59/125
+[02/22/2023 09:21]  Wulf of Wyrd: Total Weight: 183
+[02/22/2023 09:21]  Schlingel: Legendary Weaponmaster
+[02/22/2023 09:21]  Schlingel: [Mehr Fleisch, bitte!, DoS]
+[02/22/2023 09:21]  Schlingel: Lord Schlingel
+[02/22/2023 09:22]  You see: gold coin : 2133
+[02/22/2023 09:22]  a lich: (summoned)
+[02/22/2023 09:22]  a lich: a lich
+[02/22/2023 09:22]  an earth elemental: (summoned)
+[02/22/2023 09:22]  an earth elemental: an earth elemental
+[02/22/2023 09:22]  Eroden: [Einherjar, O_R]
+[02/22/2023 09:22]  Eroden: Eroden
+[02/22/2023 09:22]  Wulf of Wyrd: bank
+[02/22/2023 09:22]  Wulf of Wyrd: Items: 59/125
+[02/22/2023 09:22]  Wulf of Wyrd: Total Weight: 188
+[02/22/2023 09:22]  Ptit Vlimeux: Ptit Vlimeux
+[02/22/2023 09:22]  Eroden: bank
+[02/22/2023 09:22]  Ptit Vlimeux: bank
+[02/22/2023 09:22]  You see: lightning scroll : 6
+[02/22/2023 09:22]  You see: invisibility scroll : 2
+[02/22/2023 09:22]  You see: explosion scroll : 2
+[02/22/2023 09:22]  Wulf of Wyrd: Kal Ort Por [Recall]
+[02/22/2023 09:22]  System: yuter has completed the achievement: Tinker (Advanced).
+[02/22/2023 09:22]  System: Your spellbook generates mana for your spell.
+[02/22/2023 09:22]  System: You have left the protection of the town guards.
+[02/22/2023 09:22]  Rane: Rane the dockmaster
+[02/22/2023 09:22]  a giant rat: a giant rat
+[02/22/2023 09:22]  a giant rat: a giant rat
+[02/22/2023 09:22]  an eagle: an eagle
+[02/22/2023 09:22]  a great hart: a great hart
+[02/22/2023 09:23]  System: Opening door...
+[02/22/2023 09:23]  System: Your house and its contents have been refreshed. 25 days 22 hours 55 minutes remaining until owner refresh required.
+[02/22/2023 09:23]  You see: wooden door
+[02/22/2023 09:23]  System: Where will you search?
+[02/22/2023 09:23]  System: You search the home and find no one hiding within.
+[02/22/2023 09:23]  System: The world will save in 15 seconds.
+[02/22/2023 09:24]  System: The world is saving, please wait.
+[02/22/2023 09:24]  System: World save complete. The entire process took 5.1 seconds.
+[02/22/2023 09:24]  System: Harkoth has completed the achievement: Skill Mastery (Basic).
+[02/22/2023 09:25]  System: Maes has completed the achievement: Culinary Savvy (Advanced).

@@ -1,0 +1,2463 @@
+[08/19/2023 08:57]  System: WorldMap loading...
+[08/19/2023 08:57]  System: Loading WorldMap markers..
+[08/19/2023 08:57]  System: ..Banks_and_Healers.xml (20)
+[08/19/2023 08:57]  System: ..Dungeons.xml (12)
+[08/19/2023 08:57]  System: ..Dungeon_Gates.xml (349)
+[08/19/2023 08:57]  System: ..Healer_Caravans.xml (32)
+[08/19/2023 08:57]  System: ..Moongates.xml (9)
+[08/19/2023 08:57]  System: ..POI.xml (176)
+[08/19/2023 08:57]  System: ..PvP_Locations.xml (71)
+[08/19/2023 08:57]  System: ..Shrines.xml (9)
+[08/19/2023 08:57]  System: ..Subterranean.xml (6)
+[08/19/2023 08:57]  System: ..Townships.xml (9)
+[08/19/2023 08:57]  System: WorldMap markers loaded (693)
+[08/19/2023 08:57]  System: Welcome m a n t o o t h!
+[08/19/2023 08:57]  Razor: [- (s)]
+[08/19/2023 08:57]  Razor: [+Hidden/Stealthing (0s)]
+[08/19/2023 08:57]  Rane: Rane the dockmaster
+[08/19/2023 08:57]  System: WorldMap loaded!
+[08/19/2023 08:57]  System: You must wait to perform another action.
+[08/19/2023 08:57]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 08:57]  Razor: [-Hidden/Stealthing (s)]
+[08/19/2023 08:57]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 08:57]  System: You are now under the protection of the town guards.
+[08/19/2023 08:57]  Alula: Alula the Necromancer
+[08/19/2023 08:57]  a book wyrm: a book wyrm
+[08/19/2023 08:57]  Sivan: Sivan the stablemaster
+[08/19/2023 08:57]  Juggs Dukeness: Legend of Aspects
+[08/19/2023 08:57]  Juggs Dukeness: [Praetor, -_-]
+[08/19/2023 08:57]  Juggs Dukeness: Lord Juggs Dukeness
+[08/19/2023 08:57]  Sukatai: Sukatai the animal wrangler
+[08/19/2023 08:57]  Baro: Baro
+[08/19/2023 08:57]  a carrion beetle: (bonded)
+[08/19/2023 08:57]  a carrion beetle: a carrion beetle
+[08/19/2023 08:57]  BobFred: BobFred
+[08/19/2023 08:57]  Duncan: Duncan the mage
+[08/19/2023 08:57]  Ingmar: Ingmar the banker
+[08/19/2023 08:57]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 08:57]  Luisa: Luisa the Librarian
+[08/19/2023 08:57]  System: Opening door...
+[08/19/2023 08:57]  Ichthyosaur: Ichthyosaur
+[08/19/2023 08:57]  Luisa: Libraries store the energy that fuels the imagination. They open up windows to the world and inspire us to explore and achieve, and contribute to improving our quality of life.
+[08/19/2023 08:57]  Norton Juster: Norton Juster
+[08/19/2023 08:57]  System: Opening door...
+[08/19/2023 08:57]  Norton Juster: Norton Juster
+[08/19/2023 08:57]  Bea: Bea
+[08/19/2023 08:57]  PVM Drops: PVM Drops
+[08/19/2023 08:57]  Belina: Belina
+[08/19/2023 08:57]  Rare Wares Upstairs: Rare Wares Upstairs
+[08/19/2023 08:57]  out: out
+[08/19/2023 08:57]  OUT: OUT
+[08/19/2023 08:57]  Closed: Closed
+[08/19/2023 08:57]  GARAGE SALE: GARAGE SALE
+[08/19/2023 08:57]  Balls,Codex,Chain: Balls,Codex,Chain
+[08/19/2023 08:57]  Links: Links
+[08/19/2023 08:57]  Cheap Stolen Goods!: Cheap Stolen Goods!
+[08/19/2023 08:57]  CAKES&COOKIES: CAKES&COOKIES
+[08/19/2023 08:57]  **The Good Stuff**: **The Good Stuff**
+[08/19/2023 08:57]  WHAT YOU WANT: WHAT YOU WANT
+[08/19/2023 08:57]  Dwarf shop: Dwarf shop
+[08/19/2023 08:57]  Lillie: Lillie
+[08/19/2023 08:58]  Core/SS/Links: Core/SS/Links
+[08/19/2023 08:58]  Babiska: [AOG only]
+[08/19/2023 08:58]  Babiska: Babiska
+[08/19/2023 08:58]  Koltukdaroglu Istifa: Koltukdaroglu Istifa
+[08/19/2023 08:58]  Brandeis: Brandeis
+[08/19/2023 08:58]  Carey: Carey
+[08/19/2023 08:58]  Tinker Tools: Tinker Tools
+[08/19/2023 08:58]  Alula: Alula the Necromancer
+[08/19/2023 08:58]  Sivan: Sivan the stablemaster
+[08/19/2023 08:58]  Sukatai: Sukatai the animal wrangler
+[08/19/2023 08:58]  Juggs Dukeness: Legend of Aspects
+[08/19/2023 08:58]  Juggs Dukeness: [Praetor, -_-]
+[08/19/2023 08:58]  Juggs Dukeness: Lord Juggs Dukeness
+[08/19/2023 08:58]  Harwen: Legendary Domesticator
+[08/19/2023 08:58]  Harwen: Harwen
+[08/19/2023 08:58]  a dog: a dog
+[08/19/2023 08:58]  a dog: a dog
+[08/19/2023 08:58]  a dog: a dog
+[08/19/2023 08:58]  a dog: a dog
+[08/19/2023 08:58]  a prevalian marksman: a prevalian marksman
+[08/19/2023 08:58]  Duncan: Duncan the mage
+[08/19/2023 08:58]  Bentley: Bentley the scribe
+[08/19/2023 08:58]  Brandy: Brandy the herbalist
+[08/19/2023 08:58]  Raynor: Raynor the herbalist
+[08/19/2023 08:58]  Lokelani: Lokelani the farmer
+[08/19/2023 08:58]  Garrett: Garrett the mage
+[08/19/2023 08:58]  Liadan: Liadan the scribe
+[08/19/2023 08:58]  EVERY CODEX: EVERY CODEX
+[08/19/2023 08:58]  Leaky Linda: Leaky Linda
+[08/19/2023 08:58]  Ginger: Ginger the mage
+[08/19/2023 08:58]  Jamie Valda: Jamie Valda
+[08/19/2023 08:58]  LEATHER/REAGS/IRON: LEATHER/REAGS/IRON
+[08/19/2023 08:58]  an ancient mummy: (summoned)
+[08/19/2023 08:58]  an ancient mummy: an ancient mummy
+[08/19/2023 08:58]  a rag witch: (summoned)
+[08/19/2023 08:58]  a rag witch: a rag witch
+[08/19/2023 08:58]  SirPsychedelic: [Journeyman, Path]
+[08/19/2023 08:58]  SirPsychedelic: SirPsychedelic
+[08/19/2023 08:58]  a prevalian marksman: a prevalian marksman
+[08/19/2023 08:58]  Agapite Tinker Tools: Agapite Tinker Tools
+[08/19/2023 08:58]  Avarite Tinker Tools: Avarite Tinker Tools
+[08/19/2023 08:58]  Curtis: Curtis
+[08/19/2023 08:58]  Eldritch & Air Cores: Eldritch & Air Cores
+[08/19/2023 08:58]  FOCI - AMMO - OIL: FOCI - AMMO - OIL
+[08/19/2023 08:58]  Reforge|Cores|Skills: Reforge|Cores|Skills
+[08/19/2023 08:58]  Plant Chem: Plant Chem
+[08/19/2023 08:58]  GreenyPink: GreenyPink
+[08/19/2023 08:58]  LINKS&SHIP UPG. UPD.: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:58]  Bulk Regs 3.5GP: Bulk Regs 3.5GP
+[08/19/2023 08:58]  Stuff by Essere: Stuff by Essere
+[08/19/2023 08:58]  WEAPONS & SUCH: WEAPONS & SUCH
+[08/19/2023 08:58]  SHIP BOMBS!: SHIP BOMBS!
+[08/19/2023 08:58]  PEACE LOVE LOOT: PEACE LOVE LOOT
+[08/19/2023 08:59]  [Razor]: New target set.
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: SHIP BOMBS!
+[08/19/2023 08:59]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:59]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 08:59]  Razor: Target: Stuff by Essere
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: SHIP BOMBS!
+[08/19/2023 08:59]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:59]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 08:59]  Razor: Target: Stuff by Essere
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: SHIP BOMBS!
+[08/19/2023 08:59]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:59]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 08:59]  Razor: Target: Stuff by Essere
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: SHIP BOMBS!
+[08/19/2023 08:59]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:59]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 08:59]  Razor: Target: Stuff by Essere
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: SHIP BOMBS!
+[08/19/2023 08:59]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:59]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 08:59]  Razor: Target: Stuff by Essere
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: SHIP BOMBS!
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 08:59]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Alnilam: [Archon, Khan]
+[08/19/2023 08:59]  Alnilam: Lord Alnilam
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  a dog: a dog
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  a prevalian marksman: a prevalian marksman
+[08/19/2023 08:59]  a dog: a dog
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  Razor: Target: Plant Chem
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Brandy: Brandy the herbalist
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: GreenyPink
+[08/19/2023 08:59]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Brandy
+[08/19/2023 08:59]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 08:59]  a dog: a dog
+[08/19/2023 08:59]  Bentley: Bentley the scribe
+[08/19/2023 08:59]  Ginger: Ginger the mage
+[08/19/2023 08:59]  [Razor]: New target set. [117]
+[08/19/2023 08:59]  Razor: Target: Ginger
+[08/19/2023 08:59]  Razor: Target: Curtis
+[08/19/2023 08:59]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 08:59]  a dog: a dog
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: Bentley
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Brandy
+[08/19/2023 08:59]  Duncan: Duncan the mage
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: Ginger
+[08/19/2023 08:59]  Razor: Target: Duncan
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: Bentley
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Brandy
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: Ginger
+[08/19/2023 08:59]  Razor: Target: Duncan
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: Bentley
+[08/19/2023 08:59]  Sivan: Sivan the stablemaster
+[08/19/2023 08:59]  Raynor: Raynor the herbalist
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Harwen: Legendary Domesticator
+[08/19/2023 08:59]  Harwen: Harwen
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Razor: Target: Raynor
+[08/19/2023 08:59]  Alula: Alula the Necromancer
+[08/19/2023 08:59]  Sukatai: Sukatai the animal wrangler
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Juggs Dukeness: Legend of Aspects
+[08/19/2023 08:59]  Juggs Dukeness: [Praetor, -_-]
+[08/19/2023 08:59]  Juggs Dukeness: Lord Juggs Dukeness
+[08/19/2023 08:59]  Razor: Target: Raynor
+[08/19/2023 08:59]  Razor: Target: Lokelani
+[08/19/2023 08:59]  Razor: Target: Sivan
+[08/19/2023 08:59]  Leaky Linda: Leaky Linda
+[08/19/2023 08:59]  LEATHER/REAGS/IRON: LEATHER/REAGS/IRON
+[08/19/2023 08:59]  Razor: Target: Brandy
+[08/19/2023 08:59]  Liadan: Liadan the scribe
+[08/19/2023 08:59]  Garrett: Garrett the mage
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Carey: Carey
+[08/19/2023 08:59]  Tinker Tools: Tinker Tools
+[08/19/2023 08:59]  Armor by Piece: Armor by Piece
+[08/19/2023 08:59]  EVERY CODEX: EVERY CODEX
+[08/19/2023 08:59]  Razor: Target: Ginger
+[08/19/2023 08:59]  Razor: Target: Sukatai
+[08/19/2023 08:59]  Razor: Target: Liadan
+[08/19/2023 08:59]  Razor: Target: Duncan
+[08/19/2023 08:59]  Brandeis: Brandeis
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: Bentley
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Razor: Target: a prevalian marksman
+[08/19/2023 08:59]  Koltukdaroglu Istifa: Koltukdaroglu Istifa
+[08/19/2023 08:59]  Razor: Target: Koltukdaroglu Istifa
+[08/19/2023 08:59]  Babiska: [AOG only]
+[08/19/2023 08:59]  Babiska: Babiska
+[08/19/2023 08:59]  Razor: Target: Brandeis
+[08/19/2023 08:59]  Razor: Target: Sivan
+[08/19/2023 08:59]  Core/SS/Links: Core/SS/Links
+[08/19/2023 08:59]  Razor: Target: Core/SS/Links
+[08/19/2023 08:59]  PVM Drops: PVM Drops
+[08/19/2023 08:59]  Razor: Target: a dog
+[08/19/2023 08:59]  Bea: Bea
+[08/19/2023 08:59]  Razor: Target: Sukatai
+[08/19/2023 08:59]  Razor: Target: Bea
+[08/19/2023 08:59]  Belina: Belina
+[08/19/2023 08:59]  Lillie: Lillie
+[08/19/2023 08:59]  Rare Wares Upstairs: Rare Wares Upstairs
+[08/19/2023 08:59]  Razor: Target: Carey
+[08/19/2023 08:59]  Razor: Target: Bea
+[08/19/2023 08:59]  Razor: Target: Carey
+[08/19/2023 08:59]  Razor: Target: Duncan
+[08/19/2023 08:59]  [Razor]: New target set. [56]
+[08/19/2023 08:59]  Razor: Target: PVM Drops
+[08/19/2023 08:59]  Razor: Target: Babiska
+[08/19/2023 08:59]  Razor: Target: Brandeis
+[08/19/2023 08:59]  Cheap Stolen Goods!: Cheap Stolen Goods!
+[08/19/2023 08:59]  Dwarf shop: Dwarf shop
+[08/19/2023 08:59]  Razor: Target: Tinker Tools
+[08/19/2023 08:59]  CAKES&COOKIES: CAKES&COOKIES
+[08/19/2023 08:59]  Razor: Target: Koltukdaroglu Istifa
+[08/19/2023 08:59]  **The Good Stuff**: **The Good Stuff**
+[08/19/2023 08:59]  Razor: Target: Brandeis
+[08/19/2023 08:59]  WHAT YOU WANT: WHAT YOU WANT
+[08/19/2023 08:59]  Razor: Target: Tinker Tools
+[08/19/2023 08:59]  GARAGE SALE: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: Belina
+[08/19/2023 08:59]  Links: Links
+[08/19/2023 08:59]  Razor: Target: Rare Wares Upstairs
+[08/19/2023 08:59]  Balls,Codex,Chain: Balls,Codex,Chain
+[08/19/2023 08:59]  Razor: Target: Sivan
+[08/19/2023 08:59]  Norton Juster: Norton Juster
+[08/19/2023 08:59]  Razor: Target: Lillie
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: Norton Juster
+[08/19/2023 08:59]  Razor: Target: Balls,Codex,Chain
+[08/19/2023 08:59]  Razor: Target: Bea
+[08/19/2023 08:59]  Razor: Target: Carey
+[08/19/2023 08:59]  Razor: Target: WHAT YOU WANT
+[08/19/2023 08:59]  Razor: Target: Links
+[08/19/2023 08:59]  Razor: Target: Dwarf shop
+[08/19/2023 08:59]  Razor: Target: Alula
+[08/19/2023 08:59]  Razor: Target: PVM Drops
+[08/19/2023 08:59]  Razor: Target: **The Good Stuff**
+[08/19/2023 08:59]  Razor: Target: Cheap Stolen Goods!
+[08/19/2023 08:59]  Razor: Target: CAKES&COOKIES
+[08/19/2023 08:59]  Razor: Target: Babiska
+[08/19/2023 08:59]  Razor: Target: Brandeis
+[08/19/2023 08:59]  Razor: Target: Tinker Tools
+[08/19/2023 08:59]  Closed: Closed
+[08/19/2023 08:59]  Ichthyosaur: Ichthyosaur
+[08/19/2023 08:59]  Razor: Target: Belina
+[08/19/2023 08:59]  Razor: Target: Rare Wares Upstairs
+[08/19/2023 08:59]  Razor: Target: Lillie
+[08/19/2023 08:59]  [Razor]: New target set. [30]
+[08/19/2023 08:59]  Razor: Target: Core/SS/Links
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: Norton Juster
+[08/19/2023 08:59]  Razor: Target: Balls,Codex,Chain
+[08/19/2023 08:59]  Razor: Target: Bea
+[08/19/2023 08:59]  Razor: Target: Carey
+[08/19/2023 08:59]  Razor: Target: WHAT YOU WANT
+[08/19/2023 08:59]  Razor: Target: Links
+[08/19/2023 08:59]  Razor: Target: Dwarf shop
+[08/19/2023 08:59]  Razor: Target: Closed
+[08/19/2023 08:59]  Razor: Target: PVM Drops
+[08/19/2023 08:59]  Razor: Target: **The Good Stuff**
+[08/19/2023 08:59]  Razor: Boogity Boogity
+[08/19/2023 08:59]  System: Where do you wish to traverse to?
+[08/19/2023 08:59]  Razor: [+Paralyze (0s)]
+[08/19/2023 08:59]  Razor: [-Paralyze (s)]
+[08/19/2023 08:59]  System: You are no longer hindered.
+[08/19/2023 08:59]  [Razor]: New target set. [12]
+[08/19/2023 08:59]  System: You have left the protection of the town guards.
+[08/19/2023 08:59]  out: out
+[08/19/2023 08:59]  OUT: OUT
+[08/19/2023 08:59]  [Razor]: No one matching that was found on your screen.
+[08/19/2023 08:59]  Razor: found no one
+[08/19/2023 08:59]  Razor: Loading hotbar
+[08/19/2023 08:59]  Alnilam: [Archon, Khan]
+[08/19/2023 08:59]  Alnilam: Lord Alnilam
+[08/19/2023 08:59]  [Razor]: No one matching that was found on your screen.
+[08/19/2023 08:59]  Razor: found no one
+[08/19/2023 08:59]  [Razor]: New target set.
+[08/19/2023 08:59]  Razor: Target: CAKES&COOKIES
+[08/19/2023 08:59]  Razor: Target: Babiska
+[08/19/2023 08:59]  Razor: Target: OUT
+[08/19/2023 08:59]  Razor: Target: out
+[08/19/2023 08:59]  Razor: Target: Belina
+[08/19/2023 08:59]  Razor: Target: Rare Wares Upstairs
+[08/19/2023 08:59]  Razor: Target: Lillie
+[08/19/2023 08:59]  Razor: Target: Core/SS/Links
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: Norton Juster
+[08/19/2023 08:59]  Razor: Target: Balls,Codex,Chain
+[08/19/2023 08:59]  Razor: Target: Bea
+[08/19/2023 08:59]  Razor: Target: WHAT YOU WANT
+[08/19/2023 08:59]  Razor: Target: Links
+[08/19/2023 08:59]  Razor: Target: Dwarf shop
+[08/19/2023 08:59]  Razor: Target: Closed
+[08/19/2023 08:59]  Razor: Target: PVM Drops
+[08/19/2023 08:59]  Razor: Target: **The Good Stuff**
+[08/19/2023 08:59]  [Razor]: No one matching that was found on your screen. [2]
+[08/19/2023 08:59]  Razor: Target: Cheap Stolen Goods!
+[08/19/2023 08:59]  Razor: Target: CAKES&COOKIES
+[08/19/2023 08:59]  Razor: Target: Babiska
+[08/19/2023 08:59]  Razor: Target: OUT
+[08/19/2023 08:59]  Razor: Target: out
+[08/19/2023 08:59]  Razor: Target: Belina
+[08/19/2023 08:59]  Razor: Target: Rare Wares Upstairs
+[08/19/2023 08:59]  Razor: Target: Lillie
+[08/19/2023 08:59]  Razor: Target: Core/SS/Links
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: Norton Juster
+[08/19/2023 08:59]  Razor: Target: Balls,Codex,Chain
+[08/19/2023 08:59]  Koltukdaroglu Istifa: Koltukdaroglu Istifa
+[08/19/2023 08:59]  Razor: Target: Bea
+[08/19/2023 08:59]  CHEAP ASPECT & SS: CHEAP ASPECT & SS
+[08/19/2023 08:59]  Razor: Target: WHAT YOU WANT
+[08/19/2023 08:59]  Razor: Target: Links
+[08/19/2023 08:59]  ++ B O A R D S ++: ++ B O A R D S ++
+[08/19/2023 08:59]  210 ALCHEMY: 210 ALCHEMY
+[08/19/2023 08:59]  Razor: Target: Dwarf shop
+[08/19/2023 08:59]  Restocked 7/14: Restocked 7/14
+[08/19/2023 08:59]  Razor: Target: Links
+[08/19/2023 08:59]  Razor: Target: Dwarf shop
+[08/19/2023 08:59]  17.5k Skill Balls: 17.5k Skill Balls
+[08/19/2023 08:59]  Razor: Target: Closed
+[08/19/2023 08:59]  Razor: Target: PVM Drops
+[08/19/2023 08:59]  Razor: Target: **The Good Stuff**
+[08/19/2023 08:59]  Razor: Target: Cheap Stolen Goods!
+[08/19/2023 08:59]  Razor: Target: Restocked 7/14
+[08/19/2023 08:59]  Razor: Target: CAKES&COOKIES
+[08/19/2023 08:59]  Razor: Target: 17.5k Skill Balls
+[08/19/2023 08:59]  Razor: Target: OUT
+[08/19/2023 08:59]  Razor: Target: out
+[08/19/2023 08:59]  Razor: Target: Rare Wares Upstairs
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  [Razor]: New target set. [46]
+[08/19/2023 08:59]  Razor: Target: Lillie
+[08/19/2023 08:59]  Razor: Target: Core/SS/Links
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: Norton Juster
+[08/19/2023 08:59]  Razor: Target: Balls,Codex,Chain
+[08/19/2023 08:59]  Restocked 7/14: Restocked 7/14
+[08/19/2023 08:59]  Razor: Target: ++ B O A R D S ++
+[08/19/2023 08:59]  Razor: Target: WHAT YOU WANT
+[08/19/2023 08:59]  17.5k Skill Balls: 17.5k Skill Balls
+[08/19/2023 08:59]  Razor: Target: Links
+[08/19/2023 08:59]  Spenser (BuBu): Spenser (BuBu)
+[08/19/2023 08:59]  SurgeStable: SurgeStable the stablemaster
+[08/19/2023 08:59]  WEAPON AND REFORGE: WEAPON AND REFORGE
+[08/19/2023 08:59]  Dagan: Dagan
+[08/19/2023 08:59]  Bebrito: Bebrito
+[08/19/2023 08:59]  Cores Distills Links: Cores Distills Links
+[08/19/2023 08:59]  Casey: Casey
+[08/19/2023 08:59]  Ingots/Boards SS: Ingots/Boards SS
+[08/19/2023 08:59]  OBLITERATED: OBLITERATED
+[08/19/2023 08:59]  Oh, Balls.: Oh, Balls.
+[08/19/2023 08:59]  PREV COINS: PREV COINS
+[08/19/2023 08:59]  6/10: 6/10
+[08/19/2023 08:59]  Cheap Leather: Cheap Leather
+[08/19/2023 08:59]  SUPAR MARKET: SUPAR MARKET
+[08/19/2023 08:59]  BIG SHOP 8/16: BIG SHOP 8/16
+[08/19/2023 08:59]  Royal McPoyle: Royal McPoyle
+[08/19/2023 08:59]  Jaguar Trophy: Jaguar Trophy
+[08/19/2023 08:59]  SALE HERE: SALE HERE
+[08/19/2023 08:59]  Cheap Invulnerbility: Cheap Invulnerbility
+[08/19/2023 08:59]  10k Supreme Instrum: 10k Supreme Instrum
+[08/19/2023 08:59]  Supremely & Vanq: Supremely & Vanq
+[08/19/2023 08:59]  Razor: Target: Dwarf shop
+[08/19/2023 08:59]  Tinkersnake: [initsu the great, CCC-]
+[08/19/2023 08:59]  Tinkersnake: Tinkersnake
+[08/19/2023 08:59]  Razor: Target: Closed
+[08/19/2023 08:59]  Razor: Target: PVM Drops
+[08/19/2023 08:59]  Cheapest Loot Ever: Cheapest Loot Ever
+[08/19/2023 08:59]  CHICO: CHICO
+[08/19/2023 08:59]  Cores N Mores: Cores N Mores
+[08/19/2023 08:59]  Cheap Leather/ Armor: Cheap Leather/ Armor
+[08/19/2023 08:59]  Maurice: Maurice
+[08/19/2023 08:59]  DeamonShop: DeamonShop
+[08/19/2023 08:59]  ZZAMONG LINK: ZZAMONG LINK
+[08/19/2023 08:59]  Carla ( SS ): Carla ( SS )
+[08/19/2023 08:59]  Johnna ssam: Johnna ssam
+[08/19/2023 08:59]  Pickles Provisions: Pickles Provisions
+[08/19/2023 08:59]  CHEAPEST CORES & SS: CHEAPEST CORES & SS
+[08/19/2023 08:59]  WOOD RARE CORE: WOOD RARE CORE
+[08/19/2023 08:59]  Shimmer Last Stock: Shimmer Last Stock
+[08/19/2023 08:59]  $$$C's D's & SS's$$$: $$$C's D's & SS's$$$
+[08/19/2023 08:59]  SlappinDeals: SlappinDeals
+[08/19/2023 08:59]  BOARD/LOOT: BOARD/LOOT
+[08/19/2023 08:59]  SOFTCORE SCROLLS: SOFTCORE SCROLLS
+[08/19/2023 08:59]  CORE/SS: CORE/SS
+[08/19/2023 08:59]  BestHouse LINKS: BestHouse LINKS
+[08/19/2023 08:59]  12.5k leather comm +: 12.5k leather comm +
+[08/19/2023 08:59]  SHIP ITEMS, WEAPONS: SHIP ITEMS, WEAPONS
+[08/19/2023 08:59]  5k Exced/30kSup Book: 5k Exced/30kSup Book
+[08/19/2023 08:59]  Razor: Target: **The Good Stuff**
+[08/19/2023 08:59]  Razor: Target: Cheap Stolen Goods!
+[08/19/2023 08:59]  Core&Map&More: Core&Map&More
+[08/19/2023 08:59]  stuff!: stuff!
+[08/19/2023 08:59]  $$$Junk$$$: $$$Junk$$$
+[08/19/2023 08:59]  MAP/SS/CORE/MAGIC&+: MAP/SS/CORE/MAGIC&+
+[08/19/2023 08:59]  RARE'S/SS/CORES/MAPS: RARE'S/SS/CORES/MAPS
+[08/19/2023 08:59]  I love outlandmarket: I love outlandmarket
+[08/19/2023 08:59]  Douglass: Douglass
+[08/19/2023 08:59]  Razor: Target: Restocked 7/14
+[08/19/2023 08:59]  Cores & More: Cores & More
+[08/19/2023 08:59]  Razor: Target: CAKES&COOKIES
+[08/19/2023 08:59]  Everything You Want: Everything You Want
+[08/19/2023 08:59]  Razor: Target: SurgeStable
+[08/19/2023 08:59]  Razor: Target: Spenser (BuBu)
+[08/19/2023 08:59]  FROG V: FROG V
+[08/19/2023 08:59]  C O R E: C O R E
+[08/19/2023 08:59]  Discord Prices!!!: [10% discount for SQzD]
+[08/19/2023 08:59]  Discord Prices!!!: Discord Prices!!!
+[08/19/2023 08:59]  Otto: Otto
+[08/19/2023 08:59]  I love outlandmarket: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: OUT
+[08/19/2023 08:59]  FROG IV: FROG IV
+[08/19/2023 08:59]  S S: S S
+[08/19/2023 08:59]  GARAGE SALE: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: out
+[08/19/2023 08:59]  Razor: Target: Belina
+[08/19/2023 08:59]  NICE VENDOR SHOP: NICE VENDOR SHOP
+[08/19/2023 08:59]  Selling: Selling
+[08/19/2023 08:59]  Brennan: Brennan
+[08/19/2023 08:59]  Razor: Target: Dagan
+[08/19/2023 08:59]  Razor: Target: Bebrito
+[08/19/2023 08:59]  Razor: Target: Cores Distills Links
+[08/19/2023 08:59]  Razor: Target: Casey
+[08/19/2023 08:59]  Razor: Target: Ingots/Boards SS
+[08/19/2023 08:59]  Razor: Target: OBLITERATED
+[08/19/2023 08:59]  Razor: Target: Oh, Balls.
+[08/19/2023 08:59]  Razor: Target: PREV COINS
+[08/19/2023 08:59]  Razor: Target: 6/10
+[08/19/2023 08:59]  Razor: Target: Cheap Leather
+[08/19/2023 08:59]  Core/SS/Links: Core/SS/Links
+[08/19/2023 08:59]  Razor: Target: SUPAR MARKET
+[08/19/2023 08:59]  [Razor]: New target set. [31]
+[08/19/2023 08:59]  Razor: Target: BIG SHOP 8/16
+[08/19/2023 08:59]  Babiska: [AOG only]
+[08/19/2023 08:59]  Babiska: Babiska
+[08/19/2023 08:59]  Razor: Target: Royal McPoyle
+[08/19/2023 08:59]  Koltukdaroglu Istifa: Koltukdaroglu Istifa
+[08/19/2023 08:59]  Razor: Target: Jaguar Trophy
+[08/19/2023 08:59]  CHEAP ASPECT & SS: CHEAP ASPECT & SS
+[08/19/2023 08:59]  Razor: Target: SALE HERE
+[08/19/2023 08:59]  SpellBook Store: SpellBook Store
+[08/19/2023 08:59]  Brandeis: Brandeis
+[08/19/2023 08:59]  Razor: Target: 10k Supreme Instrum
+[08/19/2023 08:59]  Ingot Commodities: Ingot Commodities
+[08/19/2023 08:59]  Mastery Chain & Kit: Mastery Chain & Kit
+[08/19/2023 08:59]  I Got You Covered!: I Got You Covered!
+[08/19/2023 08:59]  T-Maps Stocked 4-20: T-Maps Stocked 4-20
+[08/19/2023 08:59]  Carey: Carey
+[08/19/2023 08:59]  Tinker Tools: Tinker Tools
+[08/19/2023 08:59]  Armor by Piece: Armor by Piece
+[08/19/2023 08:59]  EVERY CODEX: EVERY CODEX
+[08/19/2023 08:59]  Razor: Target: Supremely & Vanq
+[08/19/2023 08:59]  Razor: Target: CHICO
+[08/19/2023 08:59]  Razor: Target: Cores N Mores
+[08/19/2023 08:59]  sale%map ed trongbox: sale%map ed trongbox
+[08/19/2023 08:59]  8/15/23: 8/15/23
+[08/19/2023 08:59]  YOOKEDICI: YOOKEDICI
+[08/19/2023 08:59]  RESTOCK CORE, SS: RESTOCK CORE, SS
+[08/19/2023 08:59]  Leaky Linda: Leaky Linda
+[08/19/2023 08:59]  LEATHER/REAGS/IRON: LEATHER/REAGS/IRON
+[08/19/2023 08:59]  Prescot: Prescot
+[08/19/2023 08:59]  Razor: Target: Cheap Leather/ Armor
+[08/19/2023 08:59]  Buck: Buck
+[08/19/2023 08:59]  Razor: Target: DeamonShop
+[08/19/2023 08:59]  Razor: Target: Carla ( SS )
+[08/19/2023 08:59]  Razor: Target: Johnna ssam
+[08/19/2023 08:59]  CORE DISTILL: CORE DISTILL
+[08/19/2023 08:59]  SHKER NUM2: SHKER NUM2
+[08/19/2023 08:59]  SHREK IS LOVE: SHREK IS LOVE
+[08/19/2023 08:59]  balls/mcd/taming/+++: balls/mcd/taming/+++
+[08/19/2023 08:59]  Razor: Target: ZZAMONG LINK
+[08/19/2023 08:59]  Melee Link: Melee Link
+[08/19/2023 08:59]  Razor: Target: Carla ( SS )
+[08/19/2023 08:59]  Razor: Target: Shimmer Last Stock
+[08/19/2023 08:59]  KIN KIN KIN KIN: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: $$$C's D's & SS's$$$
+[08/19/2023 08:59]  Razor: Target: Buck
+[08/19/2023 08:59]  good & cheap: good & cheap
+[08/19/2023 08:59]  Razor: Target: MAP/SS/CORE/MAGIC&+
+[08/19/2023 08:59]  Prevalia Gate N 4: Prevalia Gate N 4
+[08/19/2023 08:59]  Sam staf: Sam staf
+[08/19/2023 08:59]  !!!! NICE PRICE !!!!: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  AAAAAAAA: AAAAAAAA
+[08/19/2023 08:59]  SS CORE BRO: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: $$$Junk$$$
+[08/19/2023 08:59]  Razor: Target: MAP/SS/CORE/MAGIC&+
+[08/19/2023 08:59]  EVERYTHING CHEAP: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: RARE'S/SS/CORES/MAPS
+[08/19/2023 08:59]  Razor: Target: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: Douglass
+[08/19/2023 08:59]  Razor: Target: Cores & More
+[08/19/2023 08:59]  Razor: Target: Everything You Want
+[08/19/2023 08:59]  Razor: Target: SpellBook Store
+[08/19/2023 08:59]  Razor: Target: YOOKEDICI
+[08/19/2023 08:59]  Razor: Target: Discord Prices!!!
+[08/19/2023 08:59]  Razor: Target: CHEAP ASPECT & SS
+[08/19/2023 08:59]  Razor: Target: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: 8/15/23
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Selling
+[08/19/2023 08:59]  Razor: Target: Brennan
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  stuff!: stuff!
+[08/19/2023 08:59]  Cheapest Loot Ever: Cheapest Loot Ever
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  Razor: Target: Mastery Chain & Kit
+[08/19/2023 08:59]  Razor: Target: I Got You Covered!
+[08/19/2023 08:59]  Razor: Target: T-Maps Stocked 4-20
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Core&Map&More: Core&Map&More
+[08/19/2023 08:59]  CHICO: CHICO
+[08/19/2023 08:59]  Dagan: Dagan
+[08/19/2023 08:59]  Cheap Core / Distil: Cheap Core / Distil
+[08/19/2023 08:59]  Llewellyn: Llewellyn
+[08/19/2023 08:59]  supremely/vanq low!!: supremely/vanq low!!
+[08/19/2023 08:59]  SUPER SALE: SUPER SALE
+[08/19/2023 08:59]  Roberto: Roberto
+[08/19/2023 08:59]  RARES & BUNDLES: RARES & BUNDLES
+[08/19/2023 08:59]  Sea-Core-Extr-Misc: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Selling
+[08/19/2023 08:59]  Razor: Target: Brennan
+[08/19/2023 08:59]  *** --TOP-- KEK ***: *** --TOP-- KEK ***
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  NEW DUNGEON LOOT: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  [Razor]: New target set. [47]
+[08/19/2023 08:59]  CHEAPEST: CHEAPEST
+[08/19/2023 08:59]  210 ALCHEMY: 210 ALCHEMY
+[08/19/2023 08:59]  Random Sheez: Random Sheez
+[08/19/2023 08:59]  All U Need is Here!: All U Need is Here!
+[08/19/2023 08:59]  Leather Products: Leather Products
+[08/19/2023 08:59]  Razor: Target: Mastery Chain & Kit
+[08/19/2023 08:59]  SASHA GRAY: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  LEATHER 210: LEATHER 210
+[08/19/2023 08:59]  strange things: strange things
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  **=-Cheap=-**: **=-Cheap=-**
+[08/19/2023 08:59]  Candie: Candie the stablemaster
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Janna: Janna the dockmaster
+[08/19/2023 08:59]  Hakuna: Hakuna
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  **18.5K PREV**: **18.5K PREV**
+[08/19/2023 08:59]  CORES CORES CORES: CORES CORES CORES
+[08/19/2023 08:59]  WAY TOO CHEAP!!!!!!: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  $$$BEST PRICES$$$: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Patrick: Patrick the dockmaster
+[08/19/2023 08:59]  Radcliffe: Radcliffe the fisherman
+[08/19/2023 08:59]  Razor: Target: Cheapest Loot Ever
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: Melee Link
+[08/19/2023 08:59]  Razor: Target: Leather Products
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Random Sheez
+[08/19/2023 08:59]  Mastercrafted Armor: Mastercrafted Armor
+[08/19/2023 08:59]  Gardening & Supplies: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  High End Weapons: High End Weapons
+[08/19/2023 08:59]  Codex & Rares: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SHIP ITEMS, WEAPONS
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Razor: Target: Prescot
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Razor: Target: sale%map ed trongbox
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Razor: Target: balls/mcd/taming/+++
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: SHKER NUM2
+[08/19/2023 08:59]  Razor: Target: SHREK IS LOVE
+[08/19/2023 08:59]  Razor: Target: 5k Exced/30kSup Book
+[08/19/2023 08:59]  Razor: Target: Buck
+[08/19/2023 08:59]  Razor: Target: CORE DISTILL
+[08/19/2023 08:59]  Razor: Target: $$$Junk$$$
+[08/19/2023 08:59]  Razor: Target: MAP/SS/CORE/MAGIC&+
+[08/19/2023 08:59]  Razor: Target: RARE'S/SS/CORES/MAPS
+[08/19/2023 08:59]  Razor: Target: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: Douglass
+[08/19/2023 08:59]  Tinkersnake: [initsu the great, CCC-]
+[08/19/2023 08:59]  Tinkersnake: Tinkersnake
+[08/19/2023 08:59]  Razor: Target: Cores & More
+[08/19/2023 08:59]  Razor: Target: Everything You Want
+[08/19/2023 08:59]  Razor: Target: **=-Cheap=-**
+[08/19/2023 08:59]  Razor: Target: YOOKEDICI
+[08/19/2023 08:59]  Razor: Target: Discord Prices!!!
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: Core&Map&More
+[08/19/2023 08:59]  Razor: Target: 8/15/23
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Selling
+[08/19/2023 08:59]  Razor: Target: Brennan
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  Razor: Target: LEATHER 210
+[08/19/2023 08:59]  Razor: Target: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: stuff!
+[08/19/2023 08:59]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 08:59]  Razor: Target: Melee Link
+[08/19/2023 08:59]  Razor: Target: All U Need is Here!
+[08/19/2023 08:59]  Razor: Target: Leather Products
+[08/19/2023 08:59]  Razor: Target: Candie
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Staff & Crooks: Staff & Crooks
+[08/19/2023 08:59]  [Razor]: New target set. [72]
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: Patrick
+[08/19/2023 08:59]  Razor: Target: Random Sheez
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  Tamers Heaven: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Razor: Target: balls/mcd/taming/+++
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: SHREK IS LOVE
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: CORE DISTILL
+[08/19/2023 08:59]  Razor: Target: Cores & More
+[08/19/2023 08:59]  Razor: Target: Everything You Want
+[08/19/2023 08:59]  Razor: Target: **=-Cheap=-**
+[08/19/2023 08:59]  Razor: Target: Discord Prices!!!
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: GARAGE SALE
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Selling
+[08/19/2023 08:59]  Razor: Target: Brennan
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  Razor: Target: LEATHER 210
+[08/19/2023 08:59]  Razor: Target: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 08:59]  Razor: Target: Melee Link
+[08/19/2023 08:59]  Razor: Target: Candie
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Core&Map&More: Core&Map&More
+[08/19/2023 08:59]  stuff!: stuff!
+[08/19/2023 08:59]  $$$Junk$$$: $$$Junk$$$
+[08/19/2023 08:59]  MAP/SS/CORE/MAGIC&+: MAP/SS/CORE/MAGIC&+
+[08/19/2023 08:59]  RARE'S/SS/CORES/MAPS: RARE'S/SS/CORES/MAPS
+[08/19/2023 08:59]  I love outlandmarket: I love outlandmarket
+[08/19/2023 08:59]  Douglass: Douglass
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: Core&Map&More
+[08/19/2023 08:59]  Razor: Target: Random Sheez
+[08/19/2023 08:59]  C O R E: C O R E
+[08/19/2023 08:59]  S S: S S
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Greater Resist: Greater Resist
+[08/19/2023 08:59]  Greater Agility: Greater Agility
+[08/19/2023 08:59]  Greater Explosion: Greater Explosion
+[08/19/2023 08:59]  GCures: GCures
+[08/19/2023 08:59]  Refresh: Refresh
+[08/19/2023 08:59]  Greater Strength: Greater Strength
+[08/19/2023 08:59]  GHeals: GHeals
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Razor: Target: balls/mcd/taming/+++
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Tamers Heaven: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Greater Agility
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Archery World: Archery World
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: GCures
+[08/19/2023 08:59]  Razor: Target: S S
+[08/19/2023 08:59]  Razor: Target: Cores & More
+[08/19/2023 08:59]  Razor: Target: Everything You Want
+[08/19/2023 08:59]  Razor: Target: Discord Prices!!!
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: I love outlandmarket
+[08/19/2023 08:59]  Razor: Target: GHeals
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Selling
+[08/19/2023 08:59]  Razor: Target: Brennan
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: LEATHER 210
+[08/19/2023 08:59]  [Razor]: New target set. [89]
+[08/19/2023 08:59]  Razor: Target: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 08:59]  Razor: Target: Melee Link
+[08/19/2023 08:59]  Razor: Target: Greater Strength
+[08/19/2023 08:59]  Razor: Target: Greater Resist
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: Greater Explosion
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  CHEAP STUFF U NEED: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: Refresh
+[08/19/2023 08:59]  Razor: Target: Greater Agility
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: GCures
+[08/19/2023 08:59]  Razor: Target: **=-Cheap=-**
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: GHeals
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  Razor: Target: LEATHER 210
+[08/19/2023 08:59]  Razor: Target: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 08:59]  Razor: Target: Greater Strength
+[08/19/2023 08:59]  Razor: Target: Greater Resist
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: Greater Explosion
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Refresh
+[08/19/2023 08:59]  Razor: Target: Greater Agility
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: GCures
+[08/19/2023 08:59]  Razor: Target: **=-Cheap=-**
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: GHeals
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  Razor: Target: LEATHER 210
+[08/19/2023 08:59]  Razor: Target: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  Battle Co.: Battle Co.
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 08:59]  Razor: Target: Greater Strength
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  [Razor]: New target set. [98]
+[08/19/2023 08:59]  COLORED IRON: COLORED IRON
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  Oie Diferente: Oie Diferente
+[08/19/2023 08:59]  Candie: Candie the stablemaster
+[08/19/2023 08:59]  Random Sheez: Random Sheez
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Andrej Babis: Andrej Babis
+[08/19/2023 08:59]  Patrick: Patrick the dockmaster
+[08/19/2023 08:59]  All U Need is Here!: All U Need is Here!
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Jarvinia: Jarvinia
+[08/19/2023 08:59]  Radcliffe: Radcliffe the fisherman
+[08/19/2023 08:59]  Leather Products: Leather Products
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Patrick
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Random Sheez
+[08/19/2023 08:59]  Razor: Target: **=-Cheap=-**
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: Jarvinia
+[08/19/2023 08:59]  Razor: Target: Leather Products
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Radcliffe
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: COLORED IRON
+[08/19/2023 08:59]  Razor: Target: AAAAAAAA
+[08/19/2023 08:59]  Razor: Target: LEATHER 210
+[08/19/2023 08:59]  Razor: Target: NEW DUNGEON LOOT
+[08/19/2023 08:59]  Razor: Target: CHEAPEST
+[08/19/2023 08:59]  Razor: Target: good & cheap
+[08/19/2023 08:59]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 08:59]  Razor: Target: EVERYTHING CHEAP
+[08/19/2023 08:59]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 08:59]  KIN KIN KIN KIN: KIN KIN KIN KIN
+[08/19/2023 08:59]  Razor: Target: Battle Co.
+[08/19/2023 08:59]  Razor: Target: Candie
+[08/19/2023 08:59]  Razor: Target: Oie Diferente
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  Razor: Target: **18.5K PREV**
+[08/19/2023 08:59]  Razor: Target: CORES CORES CORES
+[08/19/2023 08:59]  Razor: Target: WAY TOO CHEAP!!!!!!
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: All U Need is Here!
+[08/19/2023 08:59]  SS/Extracts/Cores: SS/Extracts/Cores
+[08/19/2023 08:59]  Country Store/Plants: Country Store/Plants
+[08/19/2023 08:59]  Razor: Target: !!!! NICE PRICE !!!!
+[08/19/2023 08:59]  Razor: Target: Roberto
+[08/19/2023 08:59]  Razor: Target: SUPER SALE
+[08/19/2023 08:59]  Hands of Black: Hands of Black
+[08/19/2023 08:59]  Razor: Target: 210 ALCHEMY
+[08/19/2023 08:59]  Razor: Target: supremely/vanq low!!
+[08/19/2023 08:59]  Razor: Target: Llewellyn
+[08/19/2023 08:59]  Razor: Target: Sam staf
+[08/19/2023 08:59]  Scribe/Dyes/Tmaps: Scribe/Dyes/Tmaps
+[08/19/2023 08:59]  RARE CLOTH: RARE CLOTH
+[08/19/2023 08:59]  Razor: Target: Sea-Core-Extr-Misc
+[08/19/2023 08:59]  Razor: Target: Cheap Core / Distil
+[08/19/2023 08:59]  Leron: Leron
+[08/19/2023 08:59]  CLOTH & DYES: [-_- only]
+[08/19/2023 08:59]  CLOTH & DYES: CLOTH & DYES
+[08/19/2023 08:59]  Ol' Red: Ol' Red
+[08/19/2023 08:59]  MOIST MAKER RARES: MOIST MAKER RARES
+[08/19/2023 08:59]  THALES SHOP: THALES SHOP
+[08/19/2023 08:59]  Cores Extracts 5 Pak: Cores Extracts 5 Pak
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  POUNDLAND: POUNDLAND
+[08/19/2023 08:59]  Razor: Target: POUNDLAND
+[08/19/2023 08:59]  Vincent: Vincent the barkeeper
+[08/19/2023 08:59]  ScribeLeatherStocked: ScribeLeatherStocked
+[08/19/2023 08:59]  Handys For Homeless: Handys For Homeless
+[08/19/2023 08:59]  Wu Shambino: Wu Shambino
+[08/19/2023 08:59]  imMORBING: imMORBING
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  HARVEST CORES + Loot: HARVEST CORES + Loot
+[08/19/2023 08:59]  MONGOMART: MONGOMART
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  Razor: Target: RARES & BUNDLES
+[08/19/2023 08:59]  Razor: Target: POUNDLAND
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  NORTHofPREVALIA: NORTHofPREVALIA
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  NEWPRICE NEW ISH2/24: NEWPRICE NEW ISH2/24
+[08/19/2023 08:59]  MONGOMART 2: MONGOMART 2
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Dungeon LEE Seven: Dungeon LEE Seven
+[08/19/2023 08:59]  Prevelia North: Prevelia North
+[08/19/2023 08:59]  CHEAP ITEMS: CHEAP ITEMS
+[08/19/2023 08:59]  GOLD LINK RARES: GOLD LINK RARES
+[08/19/2023 08:59]  Tinkersnake: An Lor Xen [Invisibility]
+[08/19/2023 08:59]  Razor: Target: Patrick
+[08/19/2023 08:59]  Churrik: Churrik
+[08/19/2023 08:59]  Saoiricheeks: Saoiricheeks
+[08/19/2023 08:59]  Red John Goods: Red John Goods
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 08:59]  A Real Vendor: A Real Vendor
+[08/19/2023 08:59]  Phillys: Phillys
+[08/19/2023 08:59]  Vendeuse de plaisir: Vendeuse de plaisir
+[08/19/2023 08:59]  Lippy's Loots: Lippy's Loots
+[08/19/2023 08:59]  CREW MAGIC WEAP: CREW MAGIC WEAP
+[08/19/2023 08:59]  Wu Gambino's Stock: Wu Gambino's Stock
+[08/19/2023 08:59]  Juicy Items: Juicy Items
+[08/19/2023 08:59]  DISCOUNTED LINKS: DISCOUNTED LINKS
+[08/19/2023 08:59]  All The Goods: All The Goods
+[08/19/2023 08:59]  Razor: Target: All The Goods
+[08/19/2023 08:59]  Razor: Target: DISCOUNTED LINKS
+[08/19/2023 08:59]  Razor: Target: Juicy Items
+[08/19/2023 08:59]  Razor: Target: Wu Gambino's Stock
+[08/19/2023 08:59]  [Razor]: New target set. [74]
+[08/19/2023 08:59]  Razor: Target: CREW MAGIC WEAP
+[08/19/2023 08:59]  Razor: Target: Lippy's Loots
+[08/19/2023 08:59]  Razor: Target: Vendeuse de plaisir
+[08/19/2023 08:59]  Razor: Target: Phillys
+[08/19/2023 08:59]  Razor: Target: A Real Vendor
+[08/19/2023 08:59]  Razor: Target: Red John Goods
+[08/19/2023 08:59]  Razor: Target: Saoiricheeks
+[08/19/2023 08:59]  Razor: Target: Churrik
+[08/19/2023 08:59]  Razor: Target: GOLD LINK RARES
+[08/19/2023 08:59]  Razor: Target: CHEAP ITEMS
+[08/19/2023 08:59]  Razor: Target: Prevelia North
+[08/19/2023 08:59]  Razor: Target: Dungeon LEE Seven
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Handys For Homeless
+[08/19/2023 08:59]  Razor: Target: ScribeLeatherStocked
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Random Sheez
+[08/19/2023 08:59]  Razor: Target: MONGOMART 2
+[08/19/2023 08:59]  Razor: Target: Cores Extracts 5 Pak
+[08/19/2023 08:59]  Razor: Target: THALES SHOP
+[08/19/2023 08:59]  Razor: Target: MOIST MAKER RARES
+[08/19/2023 08:59]  Razor: Target: RARE CLOTH
+[08/19/2023 08:59]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 08:59]  Razor: Target: **=-Cheap=-**
+[08/19/2023 08:59]  Razor: Target: Vincent
+[08/19/2023 08:59]  Razor: Target: Hands of Black
+[08/19/2023 08:59]  Razor: Target: strange things
+[08/19/2023 08:59]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 08:59]  Razor: Target: Ol' Red
+[08/19/2023 08:59]  Razor: Target: Jarvinia
+[08/19/2023 08:59]  Razor: Target: Leather Products
+[08/19/2023 08:59]  Razor: Target: SS CORE BRO
+[08/19/2023 08:59]  Razor: Target: Radcliffe
+[08/19/2023 08:59]  *Leather Mama*: *Leather Mama*
+[08/19/2023 08:59]  [Razor]: New target set. [33]
+[08/19/2023 08:59]  Razor: Target: NORTHofPREVALIA
+[08/19/2023 08:59]  Bradney: Bradney
+[08/19/2023 08:59]  Razor: Target: Battle Co.
+[08/19/2023 08:59]  Voodoo Goods: Voodoo Goods
+[08/19/2023 08:59]  lowest prices: lowest prices
+[08/19/2023 08:59]  Razor: Target: Oie Diferente
+[08/19/2023 08:59]  Razor: Target: Janna
+[08/19/2023 08:59]  CoreExtraxEtc: CoreExtraxEtc
+[08/19/2023 08:59]  Razor: Target: Hakuna
+[08/19/2023 08:59]  @@@@ 120 SCRIBE @@@@: @@@@ 120 SCRIBE @@@@
+[08/19/2023 08:59]  PREVALIAN LEATHER: PREVALIAN LEATHER
+[08/19/2023 08:59]  Razor: Target: $$$BEST PRICES$$$
+[08/19/2023 08:59]  Chain Reforgers: Chain Reforgers
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  LEATHER DEALS: LEATHER DEALS
+[08/19/2023 08:59]  Razor: Target: All U Need is Here!
+[08/19/2023 08:59]  15 sec: 15 sec
+[08/19/2023 08:59]  Razor: Target: HARVEST CORES + Loot
+[08/19/2023 08:59]  Razor: Target: SASHA GRAY
+[08/19/2023 08:59]  a prevalian mage: a prevalian mage
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Patrick
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 08:59]  Razor: Target: lowest prices
+[08/19/2023 08:59]  Razor: Target: Voodoo Goods
+[08/19/2023 08:59]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 08:59]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 08:59]  Razor: Target: CoreExtraxEtc
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 08:59]  Razor: Target: Vincent
+[08/19/2023 08:59]  Razor: Target: Hands of Black
+[08/19/2023 08:59]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 08:59]  Razor: Target: Jarvinia
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: COLORED IRON
+[08/19/2023 08:59]  Razor: Target: LEATHER DEALS
+[08/19/2023 08:59]  Razor: Target: a prevalian mage
+[08/19/2023 08:59]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 08:59]  Razor: Target: Chain Reforgers
+[08/19/2023 08:59]  Razor: Target: *Leather Mama*
+[08/19/2023 08:59]  Razor: Target: Battle Co.
+[08/19/2023 08:59]  Razor: Target: Leron
+[08/19/2023 08:59]  Razor: Target: Oie Diferente
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: 15 sec
+[08/19/2023 08:59]  Razor: Target: POUNDLAND
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 08:59]  Razor: Target: Bradney
+[08/19/2023 08:59]  Razor: Target: lowest prices
+[08/19/2023 08:59]  Razor: Target: Voodoo Goods
+[08/19/2023 08:59]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 08:59]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 08:59]  Razor: Target: CoreExtraxEtc
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 08:59]  Razor: Target: Vincent
+[08/19/2023 08:59]  Razor: Target: Hands of Black
+[08/19/2023 08:59]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 08:59]  Razor: Target: Jarvinia
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: COLORED IRON
+[08/19/2023 08:59]  Razor: Target: LEATHER DEALS
+[08/19/2023 08:59]  Razor: Target: a prevalian mage
+[08/19/2023 08:59]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 08:59]  Razor: Target: Chain Reforgers
+[08/19/2023 08:59]  [Razor]: New target set. [64]
+[08/19/2023 08:59]  Razor: Target: *Leather Mama*
+[08/19/2023 08:59]  Razor: Target: Battle Co.
+[08/19/2023 08:59]  Razor: Target: Leron
+[08/19/2023 08:59]  Razor: Target: Oie Diferente
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: 15 sec
+[08/19/2023 08:59]  Razor: Target: POUNDLAND
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 08:59]  Razor: Target: Bradney
+[08/19/2023 08:59]  Razor: Target: lowest prices
+[08/19/2023 08:59]  Razor: Target: Voodoo Goods
+[08/19/2023 08:59]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 08:59]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 08:59]  Razor: Target: CoreExtraxEtc
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 08:59]  Razor: Target: Vincent
+[08/19/2023 08:59]  Razor: Target: Hands of Black
+[08/19/2023 08:59]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 08:59]  Razor: Target: Jarvinia
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: COLORED IRON
+[08/19/2023 08:59]  Razor: Target: LEATHER DEALS
+[08/19/2023 08:59]  Razor: Target: a prevalian mage
+[08/19/2023 08:59]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 08:59]  Razor: Target: Chain Reforgers
+[08/19/2023 08:59]  Razor: Target: *Leather Mama*
+[08/19/2023 08:59]  Razor: Target: Battle Co.
+[08/19/2023 08:59]  Razor: Target: Leron
+[08/19/2023 08:59]  Razor: Target: Oie Diferente
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: 15 sec
+[08/19/2023 08:59]  Razor: Target: POUNDLAND
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 08:59]  Razor: Target: Bradney
+[08/19/2023 08:59]  Razor: Target: lowest prices
+[08/19/2023 08:59]  Razor: Target: Voodoo Goods
+[08/19/2023 08:59]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 08:59]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 08:59]  Razor: Target: CoreExtraxEtc
+[08/19/2023 08:59]  Razor: Target: Staff & Crooks
+[08/19/2023 08:59]  Razor: Target: Tamers Heaven
+[08/19/2023 08:59]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 08:59]  Razor: Target: Vincent
+[08/19/2023 08:59]  Razor: Target: Hands of Black
+[08/19/2023 08:59]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 08:59]  Razor: Target: Jarvinia
+[08/19/2023 08:59]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 08:59]  Razor: Target: COLORED IRON
+[08/19/2023 08:59]  Razor: Target: LEATHER DEALS
+[08/19/2023 08:59]  Razor: Target: a prevalian mage
+[08/19/2023 08:59]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 08:59]  Razor: Target: Chain Reforgers
+[08/19/2023 08:59]  Razor: Target: *Leather Mama*
+[08/19/2023 08:59]  Razor: Target: Battle Co.
+[08/19/2023 08:59]  Razor: Target: Leron
+[08/19/2023 08:59]  Razor: Target: Oie Diferente
+[08/19/2023 08:59]  Razor: Target: Archery World
+[08/19/2023 08:59]  Razor: Target: 15 sec
+[08/19/2023 08:59]  Razor: Target: POUNDLAND
+[08/19/2023 08:59]  Razor: Target: Codex & Rares
+[08/19/2023 08:59]  Razor: Target: Gardening & Supplies
+[08/19/2023 08:59]  Razor: Target: Mastercrafted Armor
+[08/19/2023 08:59]  Razor: Target: High End Weapons
+[08/19/2023 08:59]  Razor: Target: Andrej Babis
+[08/19/2023 09:00]  Razor: Target: Bradney
+[08/19/2023 09:00]  Razor: Target: lowest prices
+[08/19/2023 09:00]  Razor: Target: Voodoo Goods
+[08/19/2023 09:00]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 09:00]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 09:00]  Razor: Target: CoreExtraxEtc
+[08/19/2023 09:00]  Razor: Target: Staff & Crooks
+[08/19/2023 09:00]  Razor: Target: Tamers Heaven
+[08/19/2023 09:00]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 09:00]  Razor: Target: Vincent
+[08/19/2023 09:00]  Razor: Target: Hands of Black
+[08/19/2023 09:00]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 09:00]  Razor: Target: COLORED IRON
+[08/19/2023 09:00]  Razor: Target: LEATHER DEALS
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  [Razor]: New target set. [91]
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: Chain Reforgers
+[08/19/2023 09:00]  Razor: Target: *Leather Mama*
+[08/19/2023 09:00]  Razor: Target: Battle Co.
+[08/19/2023 09:00]  Razor: Target: Leron
+[08/19/2023 09:00]  Razor: Target: Oie Diferente
+[08/19/2023 09:00]  Razor: Target: Archery World
+[08/19/2023 09:00]  Razor: Target: 15 sec
+[08/19/2023 09:00]  Razor: Target: POUNDLAND
+[08/19/2023 09:00]  Razor: Target: Codex & Rares
+[08/19/2023 09:00]  Razor: Target: Gardening & Supplies
+[08/19/2023 09:00]  Razor: Target: Mastercrafted Armor
+[08/19/2023 09:00]  Razor: Target: High End Weapons
+[08/19/2023 09:00]  Razor: Target: Andrej Babis
+[08/19/2023 09:00]  Razor: Target: Bradney
+[08/19/2023 09:00]  Razor: Target: lowest prices
+[08/19/2023 09:00]  Razor: Target: Voodoo Goods
+[08/19/2023 09:00]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 09:00]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 09:00]  Razor: Target: CoreExtraxEtc
+[08/19/2023 09:00]  Razor: Target: Staff & Crooks
+[08/19/2023 09:00]  Razor: Target: Tamers Heaven
+[08/19/2023 09:00]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 09:00]  Razor: Target: Vincent
+[08/19/2023 09:00]  Razor: Target: Hands of Black
+[08/19/2023 09:00]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 09:00]  Razor: Target: COLORED IRON
+[08/19/2023 09:00]  Razor: Target: LEATHER DEALS
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: Chain Reforgers
+[08/19/2023 09:00]  Razor: Target: *Leather Mama*
+[08/19/2023 09:00]  Razor: Target: Battle Co.
+[08/19/2023 09:00]  Razor: Target: Leron
+[08/19/2023 09:00]  Razor: Target: Oie Diferente
+[08/19/2023 09:00]  Razor: Target: Archery World
+[08/19/2023 09:00]  Razor: Target: 15 sec
+[08/19/2023 09:00]  Razor: Target: POUNDLAND
+[08/19/2023 09:00]  Razor: Target: Codex & Rares
+[08/19/2023 09:00]  Razor: Target: Gardening & Supplies
+[08/19/2023 09:00]  Razor: Target: Mastercrafted Armor
+[08/19/2023 09:00]  Razor: Target: High End Weapons
+[08/19/2023 09:00]  Razor: Target: Andrej Babis
+[08/19/2023 09:00]  Razor: Target: Bradney
+[08/19/2023 09:00]  Razor: Target: lowest prices
+[08/19/2023 09:00]  Razor: Target: Voodoo Goods
+[08/19/2023 09:00]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 09:00]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 09:00]  Razor: Target: CoreExtraxEtc
+[08/19/2023 09:00]  Razor: Target: Staff & Crooks
+[08/19/2023 09:00]  Razor: Target: Tamers Heaven
+[08/19/2023 09:00]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 09:00]  Razor: Target: Vincent
+[08/19/2023 09:00]  Razor: Target: Hands of Black
+[08/19/2023 09:00]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 09:00]  Razor: Target: COLORED IRON
+[08/19/2023 09:00]  Razor: Target: LEATHER DEALS
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: Chain Reforgers
+[08/19/2023 09:00]  Razor: Target: *Leather Mama*
+[08/19/2023 09:00]  Razor: Target: Battle Co.
+[08/19/2023 09:00]  Razor: Target: Leron
+[08/19/2023 09:00]  Razor: Target: Oie Diferente
+[08/19/2023 09:00]  Razor: Target: Archery World
+[08/19/2023 09:00]  Razor: Target: 15 sec
+[08/19/2023 09:00]  Razor: Target: POUNDLAND
+[08/19/2023 09:00]  Razor: Target: Codex & Rares
+[08/19/2023 09:00]  Razor: Target: Gardening & Supplies
+[08/19/2023 09:00]  Razor: Target: Mastercrafted Armor
+[08/19/2023 09:00]  Razor: Target: High End Weapons
+[08/19/2023 09:00]  Razor: Target: Andrej Babis
+[08/19/2023 09:00]  Razor: Target: Bradney
+[08/19/2023 09:00]  Razor: Target: lowest prices
+[08/19/2023 09:00]  Razor: Target: Voodoo Goods
+[08/19/2023 09:00]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 09:00]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 09:00]  Razor: Target: CoreExtraxEtc
+[08/19/2023 09:00]  Razor: Target: Staff & Crooks
+[08/19/2023 09:00]  Razor: Target: Tamers Heaven
+[08/19/2023 09:00]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 09:00]  Razor: Target: Vincent
+[08/19/2023 09:00]  Razor: Target: Hands of Black
+[08/19/2023 09:00]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 09:00]  Razor: Target: COLORED IRON
+[08/19/2023 09:00]  Razor: Target: LEATHER DEALS
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: Chain Reforgers
+[08/19/2023 09:00]  Razor: Target: *Leather Mama*
+[08/19/2023 09:00]  Razor: Target: Battle Co.
+[08/19/2023 09:00]  Razor: Target: Leron
+[08/19/2023 09:00]  Razor: Target: Oie Diferente
+[08/19/2023 09:00]  Razor: Target: Archery World
+[08/19/2023 09:00]  Razor: Target: 15 sec
+[08/19/2023 09:00]  Razor: Target: POUNDLAND
+[08/19/2023 09:00]  Razor: Target: Codex & Rares
+[08/19/2023 09:00]  Razor: Target: Gardening & Supplies
+[08/19/2023 09:00]  [Razor]: New target set. [104]
+[08/19/2023 09:00]  Razor: Target: Mastercrafted Armor
+[08/19/2023 09:00]  Razor: Target: High End Weapons
+[08/19/2023 09:00]  Razor: Target: Andrej Babis
+[08/19/2023 09:00]  Razor: Target: Bradney
+[08/19/2023 09:00]  Razor: Target: lowest prices
+[08/19/2023 09:00]  Razor: Target: Voodoo Goods
+[08/19/2023 09:00]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 09:00]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 09:00]  Razor: Target: CoreExtraxEtc
+[08/19/2023 09:00]  Razor: Target: Staff & Crooks
+[08/19/2023 09:00]  Razor: Target: Tamers Heaven
+[08/19/2023 09:00]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 09:00]  Razor: Target: Vincent
+[08/19/2023 09:00]  Razor: Target: Hands of Black
+[08/19/2023 09:00]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 09:00]  Dungeon LEE Seven: Dungeon LEE Seven
+[08/19/2023 09:00]  Prevelia North: Prevelia North
+[08/19/2023 09:00]  CHEAP ITEMS: CHEAP ITEMS
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: CHEAP STUFF U NEED
+[08/19/2023 09:00]  Razor: Target: COLORED IRON
+[08/19/2023 09:00]  Razor: Target: LEATHER DEALS
+[08/19/2023 09:00]  Churrik: Churrik
+[08/19/2023 09:00]  Saoiricheeks: Saoiricheeks
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: Chain Reforgers
+[08/19/2023 09:00]  Razor: Target: *Leather Mama*
+[08/19/2023 09:00]  System: Being perfectly rested, you shove something invisible out of the way.
+[08/19/2023 09:00]  Razor: [Stealther]
+[08/19/2023 09:00]  Razor: Target: 
+[08/19/2023 09:00]  A Real Vendor: A Real Vendor
+[08/19/2023 09:00]  Phillys: Phillys
+[08/19/2023 09:00]  Vendeuse de plaisir: Vendeuse de plaisir
+[08/19/2023 09:00]  Lippy's Loots: Lippy's Loots
+[08/19/2023 09:00]  CREW MAGIC WEAP: CREW MAGIC WEAP
+[08/19/2023 09:00]  Wu Gambino's Stock: Wu Gambino's Stock
+[08/19/2023 09:00]  Juicy Items: Juicy Items
+[08/19/2023 09:00]  DISCOUNTED LINKS: DISCOUNTED LINKS
+[08/19/2023 09:00]  All The Goods: All The Goods
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  Syn Boss Loot: Syn Boss Loot
+[08/19/2023 09:00]  Rares/Dyes/Cores/MCD: Rares/Dyes/Cores/MCD
+[08/19/2023 09:00]  BIGLOOTS: BIGLOOTS
+[08/19/2023 09:00]  PRICED TO SELL: PRICED TO SELL
+[08/19/2023 09:00]  Faith: Faith
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: a prevalian mage
+[08/19/2023 09:00]  Razor: Target: Faith
+[08/19/2023 09:00]  Razor: Target: NEWPRICE NEW ISH2/24
+[08/19/2023 09:00]  Razor: Target: Chain Reforgers
+[08/19/2023 09:00]  Razor: Target: *Leather Mama*
+[08/19/2023 09:00]  Razor: Target: PRICED TO SELL
+[08/19/2023 09:00]  Razor: Target: DISCOUNTED LINKS
+[08/19/2023 09:00]  Razor: Target: Battle Co.
+[08/19/2023 09:00]  Razor: Target: Leron
+[08/19/2023 09:00]  Razor: Target: Lippy's Loots
+[08/19/2023 09:00]  Razor: Target: Oie Diferente
+[08/19/2023 09:00]  You see: a prevalian knight corpse
+[08/19/2023 09:00]  Razor: Target: Vendeuse de plaisir
+[08/19/2023 09:00]  Razor: Target: Phillys
+[08/19/2023 09:00]  an uruk: an uruk
+[08/19/2023 09:00]  an uruk: an uruk
+[08/19/2023 09:00]  an uruk: an uruk
+[08/19/2023 09:00]  Razor: Target: Churrik
+[08/19/2023 09:00]  Razor: Target: Vendeuse de plaisir
+[08/19/2023 09:00]  Razor: Target: Phillys
+[08/19/2023 09:00]  Razor: Target: Churrik
+[08/19/2023 09:00]  Razor: Target: CHEAP ITEMS
+[08/19/2023 09:00]  Razor: Target: Prevelia North
+[08/19/2023 09:00]  Razor: Target: Dungeon LEE Seven
+[08/19/2023 09:00]  Razor: Target: Archery World
+[08/19/2023 09:00]  an uruk: an uruk
+[08/19/2023 09:00]  Razor: Target: Rares/Dyes/Cores/MCD
+[08/19/2023 09:00]  Razor: Target: 15 sec
+[08/19/2023 09:00]  Razor: Target: POUNDLAND
+[08/19/2023 09:00]  Razor: Target: A Real Vendor
+[08/19/2023 09:00]  Razor: Target: Andrej Babis
+[08/19/2023 09:00]  Razor: Target: Bradney
+[08/19/2023 09:00]  Razor: Target: lowest prices
+[08/19/2023 09:00]  Razor: Target: Voodoo Goods
+[08/19/2023 09:00]  Razor: Target: PREVALIAN LEATHER
+[08/19/2023 09:00]  Razor: Target: @@@@ 120 SCRIBE @@@@
+[08/19/2023 09:00]  Razor: Target: CoreExtraxEtc
+[08/19/2023 09:00]  Razor: Target: Syn Boss Loot
+[08/19/2023 09:00]  Razor: Target: an uruk
+[08/19/2023 09:00]  [Razor]: New target set. [60]
+[08/19/2023 09:00]  Razor: Target: an uruk
+[08/19/2023 09:00]  Razor: Target: an uruk
+[08/19/2023 09:00]  Razor: Target: Scribe/Dyes/Tmaps
+[08/19/2023 09:00]  Patrick: Patrick the dockmaster
+[08/19/2023 09:00]  Radcliffe: Radcliffe the fisherman
+[08/19/2023 09:00]  Razor: Target: CREW MAGIC WEAP
+[08/19/2023 09:00]  Razor: Target: Juicy Items
+[08/19/2023 09:00]  Candie: Candie the stablemaster
+[08/19/2023 09:00]  Razor: Target: SS/Extracts/Cores
+[08/19/2023 09:00]  CHEAPEST ON SERVER: CHEAPEST ON SERVER
+[08/19/2023 09:00]  *REG REG*LEATHER: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: All The Goods
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: Saoiricheeks
+[08/19/2023 09:00]  CLOTH & DYES: [-_- only]
+[08/19/2023 09:00]  CLOTH & DYES: CLOTH & DYES
+[08/19/2023 09:00]  Ol' Red: Ol' Red
+[08/19/2023 09:00]  ScribeLeatherStocked: ScribeLeatherStocked
+[08/19/2023 09:00]  Razor: Target: CHEAPEST ON SERVER
+[08/19/2023 09:00]  Razor: Target: LEATHER DEALS
+[08/19/2023 09:00]  Razor: Target: Wu Gambino's Stock
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  All U Need is Here!: All U Need is Here!
+[08/19/2023 09:00]  Leather Products: Leather Products
+[08/19/2023 09:00]  Country Store/Plants: Country Store/Plants
+[08/19/2023 09:00]  NORTHofPREVALIA: NORTHofPREVALIA
+[08/19/2023 09:00]  Handys For Homeless: Handys For Homeless
+[08/19/2023 09:00]  THALES SHOP: THALES SHOP
+[08/19/2023 09:00]  GOLD LINK RARES: GOLD LINK RARES
+[08/19/2023 09:00]  Red John Goods: Red John Goods
+[08/19/2023 09:00]  MONGOMART 2: MONGOMART 2
+[08/19/2023 09:00]  Razor: Target: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: All The Goods
+[08/19/2023 09:00]  HARVEST CORES + Loot: HARVEST CORES + Loot
+[08/19/2023 09:00]  Cores Extracts 5 Pak: Cores Extracts 5 Pak
+[08/19/2023 09:00]  Wu Shambino: Wu Shambino
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  MOIST MAKER RARES: MOIST MAKER RARES
+[08/19/2023 09:00]  imMORBING: imMORBING
+[08/19/2023 09:00]  MONGOMART: MONGOMART
+[08/19/2023 09:00]  RARE CLOTH: RARE CLOTH
+[08/19/2023 09:00]  Razor: Target: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: Jarvinia
+[08/19/2023 09:00]  Razor: Target: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: Saoiricheeks
+[08/19/2023 09:00]  Razor: Target: Country Store/Plants
+[08/19/2023 09:00]  Razor: Target: CHEAPEST ON SERVER
+[08/19/2023 09:00]  Razor: Target: Wu Gambino's Stock
+[08/19/2023 09:00]  Razor: Target: All U Need is Here!
+[08/19/2023 09:00]  Razor: Target: Faith
+[08/19/2023 09:00]  Razor: Target: PRICED TO SELL
+[08/19/2023 09:00]  Razor: Target: DISCOUNTED LINKS
+[08/19/2023 09:00]  SALE REGS: SALE REGS
+[08/19/2023 09:00]  +WEPS+ARMORS+: +WEPS+ARMORS+
+[08/19/2023 09:00]  +CHIPPER+: +CHIPPER+
+[08/19/2023 09:00]  Razor: Target: PRICED TO SELL
+[08/19/2023 09:00]  Razor: Target: DISCOUNTED LINKS
+[08/19/2023 09:00]  Razor: Target: RARE CLOTH
+[08/19/2023 09:00]  MY STEALS-YOUR DEALS: MY STEALS-YOUR DEALS
+[08/19/2023 09:00]  Razor: Target: Leron
+[08/19/2023 09:00]  Razor: Target: Lippy's Loots
+[08/19/2023 09:00]  Razor: Target: CLOTH & DYES
+[08/19/2023 09:00]  TopShop: TopShop
+[08/19/2023 09:00]  Razor: Target: Vendeuse de plaisir
+[08/19/2023 09:00]  Razor: Target: Phillys
+[08/19/2023 09:00]  BLANK/REGS/PREV/LEAT: BLANK/REGS/PREV/LEAT
+[08/19/2023 09:00]  Razor: Target: Churrik
+[08/19/2023 09:00]  Razor: Target: CHEAP ITEMS
+[08/19/2023 09:00]  Razor: Target: Prevelia North
+[08/19/2023 09:00]  Razor: Target: Dungeon LEE Seven
+[08/19/2023 09:00]  Razor: Target: Wu Shambino
+[08/19/2023 09:00]  Razor: Target: MONGOMART
+[08/19/2023 09:00]  SHKER NUM2: SHKER NUM2
+[08/19/2023 09:00]  Razor: Target: Cores Extracts 5 Pak
+[08/19/2023 09:00]  Razor: Target: imMORBING
+[08/19/2023 09:00]  Razor: Target: Rares/Dyes/Cores/MCD
+[08/19/2023 09:00]  Buck: Buck
+[08/19/2023 09:00]  Razor: Target: Radcliffe
+[08/19/2023 09:00]  Razor: Target: Patrick
+[08/19/2023 09:00]  Razor: Target: MONGOMART 2
+[08/19/2023 09:00]  Prescot: Prescot
+[08/19/2023 09:00]  Razor: Target: Red John Goods
+[08/19/2023 09:00]  Razor: Target: A Real Vendor
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  sale%map ed trongbox: sale%map ed trongbox
+[08/19/2023 09:00]  PEACE LOVE LOOT: PEACE LOVE LOOT
+[08/19/2023 09:00]  Razor: Target: BLANK/REGS/PREV/LEAT
+[08/19/2023 09:00]  Razor: Target: TopShop
+[08/19/2023 09:00]  Razor: Target: +WEPS+ARMORS+
+[08/19/2023 09:00]  8/15/23: 8/15/23
+[08/19/2023 09:00]  Razor: Target: SALE REGS
+[08/19/2023 09:00]  Razor: Target: MY STEALS-YOUR DEALS
+[08/19/2023 09:00]  Razor: Target: GOLD LINK RARES
+[08/19/2023 09:00]  Razor: Target: MY STEALS-YOUR DEALS
+[08/19/2023 09:00]  RESTOCK CORE, SS: RESTOCK CORE, SS
+[08/19/2023 09:00]  Stuff by Essere: Stuff by Essere
+[08/19/2023 09:00]  WEAPONS & SUCH: WEAPONS & SUCH
+[08/19/2023 09:00]  SHIP BOMBS!: SHIP BOMBS!
+[08/19/2023 09:00]  Razor: Target: GOLD LINK RARES
+[08/19/2023 09:00]  Razor: Target: HARVEST CORES + Loot
+[08/19/2023 09:00]  Razor: Target: Syn Boss Loot
+[08/19/2023 09:00]  YOOKEDICI: YOOKEDICI
+[08/19/2023 09:00]  Razor: Target: THALES SHOP
+[08/19/2023 09:00]  Razor: Target: NORTHofPREVALIA
+[08/19/2023 09:00]  LINKS&SHIP UPG. UPD.: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Bulk Regs 3.5GP: Bulk Regs 3.5GP
+[08/19/2023 09:00]  Razor: Target: Leather Products
+[08/19/2023 09:00]  Razor: Target: MOIST MAKER RARES
+[08/19/2023 09:00]  Razor: Target: ScribeLeatherStocked
+[08/19/2023 09:00]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 09:00]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Razor: Target: 8/15/23
+[08/19/2023 09:00]  Razor: Target: CREW MAGIC WEAP
+[08/19/2023 09:00]  Razor: Target: Vincent
+[08/19/2023 09:00]  Razor: Target: Juicy Items
+[08/19/2023 09:00]  Razor: Target: sale%map ed trongbox
+[08/19/2023 09:00]  Razor: Target: All The Goods
+[08/19/2023 09:00]  Razor: Target: Prescot
+[08/19/2023 09:00]  Razor: Target: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: Saoiricheeks
+[08/19/2023 09:00]  Razor: Target: Country Store/Plants
+[08/19/2023 09:00]  Razor: Target: CHEAPEST ON SERVER
+[08/19/2023 09:00]  Razor: Target: SHIP BOMBS!
+[08/19/2023 09:00]  Razor: Target: Wu Gambino's Stock
+[08/19/2023 09:00]  Razor: Target: +CHIPPER+
+[08/19/2023 09:00]  Razor: Target: Stuff by Essere
+[08/19/2023 09:00]  Razor: Target: PRICED TO SELL
+[08/19/2023 09:00]  Razor: Target: RARE CLOTH
+[08/19/2023 09:00]  Razor: Target: SHKER NUM2
+[08/19/2023 09:00]  Razor: Target: CLOTH & DYES
+[08/19/2023 09:00]  Razor: Target: Vendeuse de plaisir
+[08/19/2023 09:00]  GreenyPink: GreenyPink
+[08/19/2023 09:00]  Razor: Target: CHEAP ITEMS
+[08/19/2023 09:00]  Razor: Target: Wu Shambino
+[08/19/2023 09:00]  Razor: Target: MONGOMART
+[08/19/2023 09:00]  Razor: Target: Cores Extracts 5 Pak
+[08/19/2023 09:00]  [Razor]: New target set. [92]
+[08/19/2023 09:00]  Plant Chem: Plant Chem
+[08/19/2023 09:00]  Razor: Target: imMORBING
+[08/19/2023 09:00]  Razor: Target: Rares/Dyes/Cores/MCD
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  Reforge|Cores|Skills: Reforge|Cores|Skills
+[08/19/2023 09:00]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 09:00]  Razor: Target: Patrick
+[08/19/2023 09:00]  Razor: Target: MONGOMART 2
+[08/19/2023 09:00]  Razor: Target: Red John Goods
+[08/19/2023 09:00]  FOCI - AMMO - OIL: FOCI - AMMO - OIL
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  Razor: Target: BLANK/REGS/PREV/LEAT
+[08/19/2023 09:00]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 09:00]  Razor: Target: TopShop
+[08/19/2023 09:00]  Agapite Tinker Tools: Agapite Tinker Tools
+[08/19/2023 09:00]  Avarite Tinker Tools: Avarite Tinker Tools
+[08/19/2023 09:00]  Curtis: Curtis
+[08/19/2023 09:00]  Eldritch & Air Cores: Eldritch & Air Cores
+[08/19/2023 09:00]  Razor: Target: +WEPS+ARMORS+
+[08/19/2023 09:00]  Razor: Target: SALE REGS
+[08/19/2023 09:00]  Razor: Target: MY STEALS-YOUR DEALS
+[08/19/2023 09:00]  Razor: Target: GOLD LINK RARES
+[08/19/2023 09:00]  Razor: Target: HARVEST CORES + Loot
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: THALES SHOP
+[08/19/2023 09:00]  Razor: Target: NORTHofPREVALIA
+[08/19/2023 09:00]  Razor: Target: Leather Products
+[08/19/2023 09:00]  Razor: Target: MOIST MAKER RARES
+[08/19/2023 09:00]  Razor: Target: ScribeLeatherStocked
+[08/19/2023 09:00]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 09:00]  a prevalian marksman: a prevalian marksman
+[08/19/2023 09:00]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 09:00]  Razor: Target: sale%map ed trongbox
+[08/19/2023 09:00]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: Prescot
+[08/19/2023 09:00]  Razor: Target: *REG REG*LEATHER
+[08/19/2023 09:00]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 09:00]  Razor: Target: Country Store/Plants
+[08/19/2023 09:00]  Razor: Target: SHIP BOMBS!
+[08/19/2023 09:00]  Razor: Target: All U Need is Here!
+[08/19/2023 09:00]  Razor: Target: +CHIPPER+
+[08/19/2023 09:00]  Razor: Target: a prevalian marksman
+[08/19/2023 09:00]  Razor: Target: RARE CLOTH
+[08/19/2023 09:00]  Razor: Target: Ol' Red
+[08/19/2023 09:00]  Razor: Target: Plant Chem
+[08/19/2023 09:00]  Razor: Target: Handys For Homeless
+[08/19/2023 09:00]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 09:00]  Razor: Target: Wu Shambino
+[08/19/2023 09:00]  Razor: Target: MONGOMART
+[08/19/2023 09:00]  Razor: Target: Cores Extracts 5 Pak
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  Razor: Target: BLANK/REGS/PREV/LEAT
+[08/19/2023 09:00]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 09:00]  Razor: Target: TopShop
+[08/19/2023 09:00]  Razor: Target: +WEPS+ARMORS+
+[08/19/2023 09:00]  Razor: Target: SALE REGS
+[08/19/2023 09:00]  Razor: Target: MY STEALS-YOUR DEALS
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: MOIST MAKER RARES
+[08/19/2023 09:00]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 09:00]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Razor: Target: 8/15/23
+[08/19/2023 09:00]  Razor: Target: GreenyPink
+[08/19/2023 09:00]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 09:00]  Razor: Target: sale%map ed trongbox
+[08/19/2023 09:00]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: Prescot
+[08/19/2023 09:00]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 09:00]  Razor: Target: SHIP BOMBS!
+[08/19/2023 09:00]  Razor: Target: +CHIPPER+
+[08/19/2023 09:00]  Razor: Target: Stuff by Essere
+[08/19/2023 09:00]  Razor: Target: a prevalian marksman
+[08/19/2023 09:00]  Razor: Target: RARE CLOTH
+[08/19/2023 09:00]  Razor: Target: SHKER NUM2
+[08/19/2023 09:00]  Razor: Target: Curtis
+[08/19/2023 09:00]  Razor: Target: Plant Chem
+[08/19/2023 09:00]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 09:00]  Razor: Target: MONGOMART
+[08/19/2023 09:00]  Razor: Target: imMORBING
+[08/19/2023 09:00]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  SHREK IS LOVE: SHREK IS LOVE
+[08/19/2023 09:00]  Ingot Commodities: Ingot Commodities
+[08/19/2023 09:00]  Mastery Chain & Kit: Mastery Chain & Kit
+[08/19/2023 09:00]  T-Maps Stocked 4-20: T-Maps Stocked 4-20
+[08/19/2023 09:00]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 09:00]  CORE DISTILL: CORE DISTILL
+[08/19/2023 09:00]  SpellBook Store: SpellBook Store
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  Razor: Target: BLANK/REGS/PREV/LEAT
+[08/19/2023 09:00]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 09:00]  Razor: Target: TopShop
+[08/19/2023 09:00]  balls/mcd/taming/+++: balls/mcd/taming/+++
+[08/19/2023 09:00]  CHEAP ASPECT & SS: CHEAP ASPECT & SS
+[08/19/2023 09:00]  Razor: Target: +WEPS+ARMORS+
+[08/19/2023 09:00]  Razor: Target: SALE REGS
+[08/19/2023 09:00]  Razor: Target: MY STEALS-YOUR DEALS
+[08/19/2023 09:00]  Razor: Target: SHREK IS LOVE
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: CHEAP ASPECT & SS
+[08/19/2023 09:00]  Razor: Target: MOIST MAKER RARES
+[08/19/2023 09:00]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 09:00]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Razor: Target: 8/15/23
+[08/19/2023 09:00]  Razor: Target: GreenyPink
+[08/19/2023 09:00]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 09:00]  Razor: Target: sale%map ed trongbox
+[08/19/2023 09:00]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: Prescot
+[08/19/2023 09:00]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 09:00]  Razor: Target: SpellBook Store
+[08/19/2023 09:00]  Razor: Target: SHIP BOMBS!
+[08/19/2023 09:00]  Razor: Target: CORE DISTILL
+[08/19/2023 09:00]  Razor: Target: +CHIPPER+
+[08/19/2023 09:00]  Razor: Target: Stuff by Essere
+[08/19/2023 09:00]  Razor: Target: balls/mcd/taming/+++
+[08/19/2023 09:00]  Razor: Target: RARE CLOTH
+[08/19/2023 09:00]  Razor: Target: SHKER NUM2
+[08/19/2023 09:00]  Razor: Target: Curtis
+[08/19/2023 09:00]  Razor: Target: Plant Chem
+[08/19/2023 09:00]  Razor: Target: T-Maps Stocked 4-20
+[08/19/2023 09:00]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 09:00]  Razor: Target: Mastery Chain & Kit
+[08/19/2023 09:00]  Razor: Target: MONGOMART
+[08/19/2023 09:00]  Razor: Target: Ingot Commodities
+[08/19/2023 09:00]  Razor: Target: imMORBING
+[08/19/2023 09:00]  [Razor]: New target set. [115]
+[08/19/2023 09:00]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  Supremely & Vanq: Supremely & Vanq
+[08/19/2023 09:00]  I Got You Covered!: I Got You Covered!
+[08/19/2023 09:00]  Razor: Target: BLANK/REGS/PREV/LEAT
+[08/19/2023 09:00]  10k Supreme Instrum: 10k Supreme Instrum
+[08/19/2023 09:00]  LEATHER/REAGS/IRON: LEATHER/REAGS/IRON
+[08/19/2023 09:00]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 09:00]  Razor: Target: TopShop
+[08/19/2023 09:00]  Razor: Target: +WEPS+ARMORS+
+[08/19/2023 09:00]  Razor: Target: SALE REGS
+[08/19/2023 09:00]  12.5k leather comm +: 12.5k leather comm +
+[08/19/2023 09:00]  Armor by Piece: Armor by Piece
+[08/19/2023 09:00]  Leaky Linda: Leaky Linda
+[08/19/2023 09:00]  Razor: Target: Leaky Linda
+[08/19/2023 09:00]  Razor: Target: SHREK IS LOVE
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: I Got You Covered!
+[08/19/2023 09:00]  Razor: Target: Supremely & Vanq
+[08/19/2023 09:00]  17.5k Skill Balls: 17.5k Skill Balls
+[08/19/2023 09:00]  Cheap Invulnerbility: Cheap Invulnerbility
+[08/19/2023 09:00]  5k Exced/30kSup Book: 5k Exced/30kSup Book
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: I Got You Covered!
+[08/19/2023 09:00]  Razor: Target: Supremely & Vanq
+[08/19/2023 09:00]  Razor: Target: CHEAP ASPECT & SS
+[08/19/2023 09:00]  Razor: Target: LEATHER/REAGS/IRON
+[08/19/2023 09:00]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 09:00]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Razor: Target: 8/15/23
+[08/19/2023 09:00]  Razor: Target: GreenyPink
+[08/19/2023 09:00]  Razor: Target: PEACE LOVE LOOT
+[08/19/2023 09:00]  Razor: Target: sale%map ed trongbox
+[08/19/2023 09:00]  Razor: Target: Agapite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: Prescot
+[08/19/2023 09:00]  Razor: Target: Reforge|Cores|Skills
+[08/19/2023 09:00]  MAP/SS/CORE/MAGIC&+: MAP/SS/CORE/MAGIC&+
+[08/19/2023 09:00]  SHIP ITEMS, WEAPONS: SHIP ITEMS, WEAPONS
+[08/19/2023 09:00]  Cheap Leather: Cheap Leather
+[08/19/2023 09:00]  BestHouse LINKS: BestHouse LINKS
+[08/19/2023 09:00]  Razor: Target: SpellBook Store
+[08/19/2023 09:00]  Razor: Target: SHIP BOMBS!
+[08/19/2023 09:00]  Razor: Target: CORE DISTILL
+[08/19/2023 09:00]  Razor: Target: +CHIPPER+
+[08/19/2023 09:00]  Razor: Target: Stuff by Essere
+[08/19/2023 09:00]  Alnilam: [Archon, Khan]
+[08/19/2023 09:00]  Alnilam: Lord Alnilam
+[08/19/2023 09:00]  Razor: Target: balls/mcd/taming/+++
+[08/19/2023 09:00]  Prevalia Gate N 4: Prevalia Gate N 4
+[08/19/2023 09:00]  CORE/SS: CORE/SS
+[08/19/2023 09:00]  BIG SHOP 8/16: BIG SHOP 8/16
+[08/19/2023 09:00]  Razor: Target: 10k Supreme Instrum
+[08/19/2023 09:00]  Razor: Target: BestHouse LINKS
+[08/19/2023 09:00]  Razor: Target: SHKER NUM2
+[08/19/2023 09:00]  Razor: Target: Cheap Leather
+[08/19/2023 09:00]  Razor: Target: SHKER NUM2
+[08/19/2023 09:00]  Razor: Target: Cheap Leather
+[08/19/2023 09:00]  SS CORE BRO: SS CORE BRO
+[08/19/2023 09:00]  I love outlandmarket: I love outlandmarket
+[08/19/2023 09:00]  Shimmer Last Stock: Shimmer Last Stock
+[08/19/2023 09:00]  SALE HERE: SALE HERE
+[08/19/2023 09:00]  Razor: Target: Curtis
+[08/19/2023 09:00]  Razor: Target: Plant Chem
+[08/19/2023 09:00]  Razor: Target: T-Maps Stocked 4-20
+[08/19/2023 09:00]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 09:00]  Razor: Target: Plant Chem
+[08/19/2023 09:00]  Razor: Target: T-Maps Stocked 4-20
+[08/19/2023 09:00]  AAAAAAAA: AAAAAAAA
+[08/19/2023 09:00]  $$$Junk$$$: $$$Junk$$$
+[08/19/2023 09:00]  $$$C's D's & SS's$$$: $$$C's D's & SS's$$$
+[08/19/2023 09:00]  6/10: 6/10
+[08/19/2023 09:00]  Razor: Target: FOCI - AMMO - OIL
+[08/19/2023 09:00]  Razor: Target: Mastery Chain & Kit
+[08/19/2023 09:00]  Razor: Target: Armor by Piece
+[08/19/2023 09:00]  Razor: Target: Ingot Commodities
+[08/19/2023 09:00]  Razor: Target: 12.5k leather comm +
+[08/19/2023 09:00]  !!!! NICE PRICE !!!!: !!!! NICE PRICE !!!!
+[08/19/2023 09:00]  I love outlandmarket: I love outlandmarket
+[08/19/2023 09:00]  Cores & More: Cores & More
+[08/19/2023 09:00]  Everything You Want: Everything You Want
+[08/19/2023 09:00]  Brennan: Brennan
+[08/19/2023 09:00]  Discord Prices!!!: [10% discount for SQzD]
+[08/19/2023 09:00]  Discord Prices!!!: Discord Prices!!!
+[08/19/2023 09:00]  Douglass: Douglass
+[08/19/2023 09:00]  GARAGE SALE: GARAGE SALE
+[08/19/2023 09:00]  BOARD/LOOT: BOARD/LOOT
+[08/19/2023 09:00]  SUPAR MARKET: SUPAR MARKET
+[08/19/2023 09:00]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  Sam staf: Sam staf
+[08/19/2023 09:00]  RARE'S/SS/CORES/MAPS: RARE'S/SS/CORES/MAPS
+[08/19/2023 09:00]  SlappinDeals: SlappinDeals
+[08/19/2023 09:00]  Jaguar Trophy: Jaguar Trophy
+[08/19/2023 09:00]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 09:00]  Razor: Target: Shimmer Last Stock
+[08/19/2023 09:00]  Razor: Target: Eldritch & Air Cores
+[08/19/2023 09:00]  Razor: Target: YOOKEDICI
+[08/19/2023 09:00]  Razor: Target: RESTOCK CORE, SS
+[08/19/2023 09:00]  SOFTCORE SCROLLS: SOFTCORE SCROLLS
+[08/19/2023 09:00]  Royal McPoyle: Royal McPoyle
+[08/19/2023 09:00]  Razor: Target: Shimmer Last Stock
+[08/19/2023 09:00]  Razor: Target: I love outlandmarket
+[08/19/2023 09:00]  Razor: Target: SHIP ITEMS, WEAPONS
+[08/19/2023 09:00]  Razor: Target: MAP/SS/CORE/MAGIC&+
+[08/19/2023 09:00]  Razor: Target: Everything You Want
+[08/19/2023 09:00]  Selling: Selling
+[08/19/2023 09:00]  Pickles Provisions: Pickles Provisions
+[08/19/2023 09:00]  PREV COINS: PREV COINS
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  Razor: Target: 5k Exced/30kSup Book
+[08/19/2023 09:00]  Razor: Target: Buck
+[08/19/2023 09:00]  Razor: Target: 5k Exced/30kSup Book
+[08/19/2023 09:00]  Johnna ssam: Johnna ssam
+[08/19/2023 09:00]  Oh, Balls.: Oh, Balls.
+[08/19/2023 09:00]  Razor: Target: WEAPONS & SUCH
+[08/19/2023 09:00]  Razor: Target: Cheap Invulnerbility
+[08/19/2023 09:00]  Razor: Target: AAAAAAAA
+[08/19/2023 09:00]  Razor: Target: Oh, Balls.
+[08/19/2023 09:00]  Razor: Target: AAAAAAAA
+[08/19/2023 09:00]  Razor: Target: SOFTCORE SCROLLS
+[08/19/2023 09:00]  Razor: Target: 17.5k Skill Balls
+[08/19/2023 09:00]  OBLITERATED: OBLITERATED
+[08/19/2023 09:00]  Restocked 7/14: Restocked 7/14
+[08/19/2023 09:00]  210 ALCHEMY: 210 ALCHEMY
+[08/19/2023 09:00]  WOOD RARE CORE: WOOD RARE CORE
+[08/19/2023 09:00]  Razor: Target: Leaky Linda
+[08/19/2023 09:00]  Razor: Target: SHREK IS LOVE
+[08/19/2023 09:00]  Razor: Target: 17.5k Skill Balls
+[08/19/2023 09:00]  Razor: Target: SHREK IS LOVE
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: I Got You Covered!
+[08/19/2023 09:00]  Razor: Target: Supremely & Vanq
+[08/19/2023 09:00]  Razor: Target: CHEAP ASPECT & SS
+[08/19/2023 09:00]  Cheap Core / Distil: Cheap Core / Distil
+[08/19/2023 09:00]  Llewellyn: Llewellyn
+[08/19/2023 09:00]  supremely/vanq low!!: supremely/vanq low!!
+[08/19/2023 09:00]  SUPER SALE: SUPER SALE
+[08/19/2023 09:00]  Roberto: Roberto
+[08/19/2023 09:00]  RARES & BUNDLES: RARES & BUNDLES
+[08/19/2023 09:00]  Sea-Core-Extr-Misc: Sea-Core-Extr-Misc
+[08/19/2023 09:00]  Razor: Target: LEATHER/REAGS/IRON
+[08/19/2023 09:00]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 09:00]  Razor: Target: Avarite Tinker Tools
+[08/19/2023 09:00]  Razor: Target: I Got You Covered!
+[08/19/2023 09:00]  Razor: Target: Supremely & Vanq
+[08/19/2023 09:00]  *** --TOP-- KEK ***: *** --TOP-- KEK ***
+[08/19/2023 09:00]  MOIST MAKER RARES: MOIST MAKER RARES
+[08/19/2023 09:00]  imMORBING: imMORBING
+[08/19/2023 09:00]  MONGOMART: MONGOMART
+[08/19/2023 09:00]  RARE CLOTH: RARE CLOTH
+[08/19/2023 09:00]  Razor: Target: CHEAP ASPECT & SS
+[08/19/2023 09:00]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 09:00]  Razor: Target: Supremely & Vanq
+[08/19/2023 09:00]  Razor: Target: CHEAP ASPECT & SS
+[08/19/2023 09:00]  Razor: Target: *** --TOP-- KEK ***
+[08/19/2023 09:00]  [Razor]: New target set. [92]
+[08/19/2023 09:00]  Razor: Target: Prevalia Gate N 4
+[08/19/2023 09:00]  Casey: Casey
+[08/19/2023 09:00]  ++ B O A R D S ++: ++ B O A R D S ++
+[08/19/2023 09:00]  Razor: Target: Bulk Regs 3.5GP
+[08/19/2023 09:00]  Razor: Target: LINKS&SHIP UPG. UPD.
+[08/19/2023 09:00]  Razor: Target: 8/15/23
+[08/19/2023 09:00]  Razor: Target: GreenyPink
+[08/19/2023 09:00]  Bebrito: Bebrito
+[08/19/2023 09:00]  Razor: Target: 6/10
+[08/19/2023 09:00]  ZZAMONG LINK: ZZAMONG LINK
+[08/19/2023 09:00]  Ingots/Boards SS: Ingots/Boards SS
+[08/19/2023 09:00]  Razor: Target: Cheap Core / Distil
+[08/19/2023 09:00]  Razor: Target: $$$Junk$$$
+[08/19/2023 09:00]  Cores Distills Links: Cores Distills Links
+[08/19/2023 09:00]  Carla ( SS ): Carla ( SS )
+[08/19/2023 09:00]  Razor: Target: Cheap Core / Distil
+[08/19/2023 09:00]  good & cheap: good & cheap
+[08/19/2023 09:00]  EVERYTHING CHEAP: EVERYTHING CHEAP
+[08/19/2023 09:00]  KIN KIN KIN KIN: KIN KIN KIN KIN
+[08/19/2023 09:00]  CHEAPEST CORES & SS: CHEAPEST CORES & SS
+[08/19/2023 09:00]  Razor: Target: 6/10
+[08/19/2023 09:00]  Razor: Target: Cheap Core / Distil
+[08/19/2023 09:00]  DeamonShop: DeamonShop
+[08/19/2023 09:00]  Razor: Target: sale%map ed trongbox
+[08/19/2023 09:00]  Spenser (BuBu): Spenser (BuBu)
+[08/19/2023 09:00]  Cores N Mores: Cores N Mores
+[08/19/2023 09:00]  Razor: Target: BIG SHOP 8/16
+[08/19/2023 09:00]  Melee Link: Melee Link
+[08/19/2023 09:00]  SurgeStable: SurgeStable the stablemaster
+[08/19/2023 09:00]  Maurice: Maurice
+[08/19/2023 09:00]  Razor: Target: Pickles Provisions
+[08/19/2023 09:00]  Cheap Leather/ Armor: Cheap Leather/ Armor
+[08/19/2023 09:00]  Pickles Provisions: Take a look at my goods.
+[08/19/2023 09:00]  stuff!: stuff!
+[08/19/2023 09:00]  Cheapest Loot Ever: Cheapest Loot Ever
+[08/19/2023 09:00]  Core&Map&More: Core&Map&More
+[08/19/2023 09:00]  CHICO: CHICO
+[08/19/2023 09:00]  Dagan: Dagan
+[08/19/2023 09:00]  [Razor]: New target set. [14]
+[08/19/2023 09:00]  [Razor]: New target set.
+[08/19/2023 09:00]  Razor: Target: Prescot
+[08/19/2023 09:00]  Razor: Target: BIG SHOP 8/16
+[08/19/2023 09:00]  Razor: Target: Pickles Provisions
+[08/19/2023 09:00]  Pickles Provisions: Take a look at my goods.
+[08/19/2023 09:00]  [Razor]: New target set. [2]
+[08/19/2023 09:00]  You see: Price: 5000
+[08/19/2023 09:00]  You see: leather : 2
+[08/19/2023 09:00]  You see: Price: 11999
+[08/19/2023 09:00]  You see: leather commodity
+[08/19/2023 09:00]  You see: (5,000 total)
+[08/19/2023 09:00]  You see: Price: 5000
+[08/19/2023 09:00]  You see: leather : 2
+[08/19/2023 09:00]  You see: Price: 14999
+[08/19/2023 09:00]  You see: dyeable carpet tile
+[08/19/2023 09:00]  SOFTCORE SCROLLS: Take a look at my goods.
+[08/19/2023 09:00]  Johnna ssam: Take a look at my goods.
+[08/19/2023 09:00]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:00]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:00]  System: You generate mana for your spell.
+[08/19/2023 09:00]  Rane: Rane the dockmaster
+[08/19/2023 09:00]  a great hart: a great hart
+[08/19/2023 09:00]  a hind: a hind
+[08/19/2023 09:00]  a wisp: a wisp
+[08/19/2023 09:00]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:00]  System: Opening door...
+[08/19/2023 09:00]  System: Your house and its contents have been refreshed. 29 days 3 hours 43 minutes remaining until owner refresh required.
+[08/19/2023 09:01]  Razor:  Scanning for rat 
+[08/19/2023 09:01]  System: Where will you search?
+[08/19/2023 09:01]  System: You reveal what was hidden.
+[08/19/2023 09:01]  Duluth Trading: Duluth Trading
+[08/19/2023 09:01]  [Razor]: No one matching that was found on your screen.
+[08/19/2023 09:01]  System: Target the individual to ban from this house.
+[08/19/2023 09:01]  m a n t o o t h: I ban thee
+[08/19/2023 09:01]  System: You cannot eject a friend of the house!
+[08/19/2023 09:01]  [Razor]: No one matching that was found on your screen. [4]
+[08/19/2023 09:01]  System: BobArno has completed the achievement: Skill Proficiency (Basic).
+[08/19/2023 09:01]  a hind: a hind
+[08/19/2023 09:01]  Rane: Rane the dockmaster
+[08/19/2023 09:02]  System: 63° 59'S, 30° 39'E
+[08/19/2023 09:02]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:02]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:02]  STOLEN PKed GOODS: STOLEN PKed GOODS
+[08/19/2023 09:02]  Nalachi&Amazonn Mall: Nalachi&Amazonn Mall
+[08/19/2023 09:02]  SUPER SAIYAN SHOP: SUPER SAIYAN SHOP
+[08/19/2023 09:02]  Cores & Supreme: [-_- only]
+[08/19/2023 09:02]  Cores & Supreme: Cores & Supreme
+[08/19/2023 09:02]  SCROLLS ONLY: SCROLLS ONLY
+[08/19/2023 09:02]  _LINKS_BULK_DISTILLS: _LINKS_BULK_DISTILLS
+[08/19/2023 09:02]  ***Brant's Shop***: ***Brant's Shop***
+[08/19/2023 09:02]  OCEAN &DELECT,OTHERS: OCEAN &DELECT,OTHERS
+[08/19/2023 09:02]  Full of garbage: Full of garbage
+[08/19/2023 09:02]  links-cores-distils: links-cores-distils
+[08/19/2023 09:02]  CORES DISTS SCROLLS: CORES DISTS SCROLLS
+[08/19/2023 09:02]  Victoria's Secret: Victoria's Secret
+[08/19/2023 09:02]  Fridex: [Veteran, NWO]
+[08/19/2023 09:02]  Fridex: Fridex
+[08/19/2023 09:02]  Indra: Indra
+[08/19/2023 09:02]  Cheep Cores/SS/More: Cheep Cores/SS/More
+[08/19/2023 09:02]  MOSTLY BOARDS etc.: MOSTLY BOARDS etc.
+[08/19/2023 09:02]  Tools Overlord: Tools Overlord
+[08/19/2023 09:02]  Best Market: Best Market
+[08/19/2023 09:02]  Ingot Overlord: Ingot Overlord
+[08/19/2023 09:02]  777/Rare & Deco/777: 777/Rare & Deco/777
+[08/19/2023 09:02]  THINGS YOU WANT-RARE: THINGS YOU WANT-RARE
+[08/19/2023 09:02]  Agapite-Gold Tinker: Agapite-Gold Tinker
+[08/19/2023 09:02]  Avar-Val-Ver Tinker: Avar-Val-Ver Tinker
+[08/19/2023 09:02]  Low Hanging Fruit: Low Hanging Fruit
+[08/19/2023 09:02]  STOLEN GOODS: STOLEN GOODS
+[08/19/2023 09:02]  Tory: Tory
+[08/19/2023 09:02]  Ingot Outlet [][]: Ingot Outlet [][]
+[08/19/2023 09:02]  Keep it Shopped: Keep it Shopped
+[08/19/2023 09:02]  Slob's Best Stuff: Slob's Best Stuff
+[08/19/2023 09:02]  !CODEXES,KITS,TOMES!: !CODEXES,KITS,TOMES!
+[08/19/2023 09:02]  COSMIC PAINTING: COSMIC PAINTING
+[08/19/2023 09:02]  Rubao MISC: Rubao MISC
+[08/19/2023 09:02]  Vader's Vape: Vader's Vape
+[08/19/2023 09:02]  Cores / Ship / Rando: Cores / Ship / Rando
+[08/19/2023 09:02]  Loots / Commodoties: Loots / Commodoties
+[08/19/2023 09:02]  SLOW's Dungeon Loots: SLOW's Dungeon Loots
+[08/19/2023 09:02]  Random/Leather 7/9: Random/Leather 7/9
+[08/19/2023 09:02]  Third Breakfast: Third Breakfast
+[08/19/2023 09:02]  Drevorubec bob: [Veteran, NWO]
+[08/19/2023 09:02]  Drevorubec bob: Drevorubec bob
+[08/19/2023 09:02]  Philip: Philip
+[08/19/2023 09:02]  Rogue Tower Rogue: Rogue Tower Rogue
+[08/19/2023 09:02]  the Pirate Armory: the Pirate Armory
+[08/19/2023 09:02]  Blank Scrolls: Blank Scrolls
+[08/19/2023 09:02]  Iron or wood etc: Iron or wood etc
+[08/19/2023 09:02]  Theoretical Wendy: Theoretical Wendy
+[08/19/2023 09:02]  -----Behrlythere----: -----Behrlythere----
+[08/19/2023 09:02]  Spaggiari: Spaggiari the battle trainer
+[08/19/2023 09:02]  PAYASOS STOLEN GOODS: PAYASOS STOLEN GOODS
+[08/19/2023 09:02]  Thierry: Thierry the barkeeper
+[08/19/2023 09:02]  PAU E PEDRA: PAU E PEDRA
+[08/19/2023 09:02]  mrbigbizzness: mrbigbizzness
+[08/19/2023 09:02]  *STUFF*: *STUFF*
+[08/19/2023 09:02]  BEST DEALS SS/CORES: BEST DEALS SS/CORES
+[08/19/2023 09:02]  CORE SCROLL: CORE SCROLL
+[08/19/2023 09:02]  Mixed Dungeon Loot: Mixed Dungeon Loot
+[08/19/2023 09:02]  Purloiner: Purloiner
+[08/19/2023 09:02]  NEARLY FREE SATCH/QV: NEARLY FREE SATCH/QV
+[08/19/2023 09:02]  AR,BOOKS,MUSIC,WEPS: AR,BOOKS,MUSIC,WEPS
+[08/19/2023 09:02]  WeStSiDe's Loot: WeStSiDe's Loot
+[08/19/2023 09:02]  ANOTHER TMAP LOOTER: ANOTHER TMAP LOOTER
+[08/19/2023 09:02]  CORES DISTILLS: CORES DISTILLS
+[08/19/2023 09:02]  Cores & Rares: Cores & Rares
+[08/19/2023 09:02]  smoke bombs and stuf: smoke bombs and stuf
+[08/19/2023 09:02]  Betty Blue: Betty Blue
+[08/19/2023 09:02]  Rumors' Everything: Rumors' Everything
+[08/19/2023 09:02]  Sillk: Sillk the dockmaster
+[08/19/2023 09:02]  CORS/SCRLS/MAPS/STUF: CORS/SCRLS/MAPS/STUF
+[08/19/2023 09:02]  a walrus: a walrus
+[08/19/2023 09:02]  m a n t o o t h: You fail to hide.
+[08/19/2023 09:02]  System: You must wait a few moments to use another skill.
+[08/19/2023 09:02]  m a n t o o t h: Your mount finds a quiet place to rest safely.
+[08/19/2023 09:02]  System: Opening door...
+[08/19/2023 09:02]  shallow water: shallow water
+[08/19/2023 09:02]  System: Geoff Speldrong has completed the achievement: Savant (Basic).
+[08/19/2023 09:02]  [Razor]: New target set.
+[08/19/2023 09:02]  Razor: Target: shallow water
+[08/19/2023 09:02]  Razor: Target: CORS/SCRLS/MAPS/STUF
+[08/19/2023 09:02]  Razor: Target: Sillk
+[08/19/2023 09:02]  Razor: Target: Rumors' Everything
+[08/19/2023 09:02]  Razor: Target: Betty Blue
+[08/19/2023 09:02]  Razor: Target: smoke bombs and stuf
+[08/19/2023 09:02]  Razor: Target: Cores & Rares
+[08/19/2023 09:02]  Razor: Target: CORES DISTILLS
+[08/19/2023 09:02]  Razor: Target: ANOTHER TMAP LOOTER
+[08/19/2023 09:02]  Razor: Target: WeStSiDe's Loot
+[08/19/2023 09:02]  Razor: Target: AR,BOOKS,MUSIC,WEPS
+[08/19/2023 09:02]  Razor: Target: NEARLY FREE SATCH/QV
+[08/19/2023 09:02]  Razor: Target: Purloiner
+[08/19/2023 09:02]  Razor: Target: Mixed Dungeon Loot
+[08/19/2023 09:02]  Razor: Target: CORE SCROLL
+[08/19/2023 09:02]  Razor: Target: BEST DEALS SS/CORES
+[08/19/2023 09:02]  Razor: Target: *STUFF*
+[08/19/2023 09:02]  Razor: Target: mrbigbizzness
+[08/19/2023 09:02]  Razor: Target: PAU E PEDRA
+[08/19/2023 09:02]  Razor: Target: Thierry
+[08/19/2023 09:02]  Razor: Target: PAYASOS STOLEN GOODS
+[08/19/2023 09:02]  Razor: Target: Spaggiari
+[08/19/2023 09:02]  Razor: Target: -----Behrlythere----
+[08/19/2023 09:02]  Razor: Target: Theoretical Wendy
+[08/19/2023 09:02]  Razor: Target: Iron or wood etc
+[08/19/2023 09:02]  Razor: Target: Blank Scrolls
+[08/19/2023 09:02]  Razor: Target: the Pirate Armory
+[08/19/2023 09:02]  Razor: Target: Rogue Tower Rogue
+[08/19/2023 09:02]  Razor: Target: Philip
+[08/19/2023 09:02]  Razor: Target: Third Breakfast
+[08/19/2023 09:02]  Razor: Target: Random/Leather 7/9
+[08/19/2023 09:02]  Razor: Target: SLOW's Dungeon Loots
+[08/19/2023 09:02]  Razor: Target: Loots / Commodoties
+[08/19/2023 09:02]  Razor: Target: Cores / Ship / Rando
+[08/19/2023 09:02]  Razor: Target: Vader's Vape
+[08/19/2023 09:02]  Razor: Target: Rubao MISC
+[08/19/2023 09:02]  Razor: Target: COSMIC PAINTING
+[08/19/2023 09:02]  Razor: Target: !CODEXES,KITS,TOMES!
+[08/19/2023 09:02]  Razor: Target: Slob's Best Stuff
+[08/19/2023 09:02]  Razor: Target: Keep it Shopped
+[08/19/2023 09:02]  Razor: Target: Ingot Outlet [][]
+[08/19/2023 09:02]  Razor: Target: Tory
+[08/19/2023 09:02]  Razor: Target: STOLEN GOODS
+[08/19/2023 09:02]  Razor: Target: Low Hanging Fruit
+[08/19/2023 09:02]  Razor: Target: Avar-Val-Ver Tinker
+[08/19/2023 09:02]  Razor: Target: Agapite-Gold Tinker
+[08/19/2023 09:02]  Razor: Target: THINGS YOU WANT-RARE
+[08/19/2023 09:02]  Razor: Target: 777/Rare & Deco/777
+[08/19/2023 09:02]  Razor: Target: Ingot Overlord
+[08/19/2023 09:02]  Razor: Target: Best Market
+[08/19/2023 09:02]  Razor: Target: Tools Overlord
+[08/19/2023 09:02]  Razor: Target: MOSTLY BOARDS etc.
+[08/19/2023 09:02]  Razor: Target: Cheep Cores/SS/More
+[08/19/2023 09:02]  Razor: Target: Indra
+[08/19/2023 09:02]  Razor: Target: Victoria's Secret
+[08/19/2023 09:02]  Razor: Target: CORES DISTS SCROLLS
+[08/19/2023 09:02]  Razor: Target: links-cores-distils
+[08/19/2023 09:02]  Razor: Target: Full of garbage
+[08/19/2023 09:02]  Razor: Target: OCEAN &DELECT,OTHERS
+[08/19/2023 09:02]  Razor: Target: ***Brant's Shop***
+[08/19/2023 09:02]  Razor: Target: _LINKS_BULK_DISTILLS
+[08/19/2023 09:02]  Razor: Target: SCROLLS ONLY
+[08/19/2023 09:02]  Razor: Target: SUPER SAIYAN SHOP
+[08/19/2023 09:02]  SUPER SAIYAN SHOP: Take a look at my goods.
+[08/19/2023 09:02]  [Razor]: New target set. [62]
+[08/19/2023 09:02]  m a n t o o t h: You fail to hide.
+[08/19/2023 09:02]  You see: Price: 13000
+[08/19/2023 09:02]  You see: rare cloth
+[08/19/2023 09:02]  You see: (hue 2928: metallic chalk)
+[08/19/2023 09:02]  You see: Price: 40000
+[08/19/2023 09:02]  You see: copperhide commodity
+[08/19/2023 09:02]  You see: (2,500 total)
+[08/19/2023 09:02]  You see: Price: 380000
+[08/19/2023 09:02]  You see: verehide commodity
+[08/19/2023 09:02]  You see: (2,500 total)
+[08/19/2023 09:02]  You see: Price: 13000
+[08/19/2023 09:02]  You see: dullhide commodity
+[08/19/2023 09:02]  You see: (2,500 total)
+[08/19/2023 09:02]  m a n t o o t h: You fail to hide.
+[08/19/2023 09:03]  You see: Price: 40000
+[08/19/2023 09:03]  You see: copperhide commodity
+[08/19/2023 09:03]  You see: (2,500 total)
+[08/19/2023 09:03]  You see: Price: 13000
+[08/19/2023 09:03]  You see: dullhide commodity
+[08/19/2023 09:03]  You see: (2,500 total)
+[08/19/2023 09:03]  System: You must wait a few moments to use another skill.
+[08/19/2023 09:03]  m a n t o o t h: You fail to hide.
+[08/19/2023 09:03]  System: Our guild now has the opportunity to spawn the mini-boss for Pulma.
+[08/19/2023 09:03]  System: You purchase the item.
+[08/19/2023 09:03]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:03]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:03]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:03]  System: You generate mana for your spell.
+[08/19/2023 09:03]  m a n t o o t h: Your mount returns.
+[08/19/2023 09:03]  Rane: Rane the dockmaster
+[08/19/2023 09:03]  a hind: a hind
+[08/19/2023 09:03]  Duluth Trading: Duluth Trading
+[08/19/2023 09:03]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:03]  System: Opening door...
+[08/19/2023 09:03]  System: Your house and its contents have been refreshed. 29 days 3 hours 40 minutes remaining until owner refresh required.
+[08/19/2023 09:03]  Razor:  Scanning for rat 
+[08/19/2023 09:03]  System: Where will you search?
+[08/19/2023 09:03]  System: You search the home and find no one hiding within.
+[08/19/2023 09:03]  [Razor]: No one matching that was found on your screen.
+[08/19/2023 09:03]  System: Target the individual to ban from this house.
+[08/19/2023 09:03]  m a n t o o t h: I ban thee
+[08/19/2023 09:03]  System: You cannot eject a friend of the house!
+[08/19/2023 09:03]  Rane: Rane the dockmaster
+[08/19/2023 09:03]  a hind: a hind
+[08/19/2023 09:03]  [Razor]: No one matching that was found on your screen. [4]
+[08/19/2023 09:07]  System: The world will save in 15 seconds.
+[08/19/2023 09:07]  System: The world is saving, please wait.
+[08/19/2023 09:07]  System: World save complete. The entire process took 4.5 seconds.
+[08/19/2023 09:09]  System: Thruan has completed the achievement: Order of Armorers Associate.
+[08/19/2023 09:10]  Rane: Rane the dockmaster
+[08/19/2023 09:10]  System: Teguz has completed the achievement: Domestication (Basic).
+[08/19/2023 09:10]  System: 63° 59'S, 30° 39'E
+[08/19/2023 09:10]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:10]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:10]  Razor: [Harmful Target]
+[08/19/2023 09:10]  Razor: [Beneficial Target]
+[08/19/2023 09:10]  STOLEN PKed GOODS: STOLEN PKed GOODS
+[08/19/2023 09:10]  Nalachi&Amazonn Mall: Nalachi&Amazonn Mall
+[08/19/2023 09:10]  SUPER SAIYAN SHOP: SUPER SAIYAN SHOP
+[08/19/2023 09:10]  Cores & Supreme: [-_- only]
+[08/19/2023 09:10]  Cores & Supreme: Cores & Supreme
+[08/19/2023 09:10]  SCROLLS ONLY: SCROLLS ONLY
+[08/19/2023 09:10]  _LINKS_BULK_DISTILLS: _LINKS_BULK_DISTILLS
+[08/19/2023 09:10]  ***Brant's Shop***: ***Brant's Shop***
+[08/19/2023 09:10]  OCEAN &DELECT,OTHERS: OCEAN &DELECT,OTHERS
+[08/19/2023 09:10]  Full of garbage: Full of garbage
+[08/19/2023 09:10]  links-cores-distils: links-cores-distils
+[08/19/2023 09:10]  CORES DISTS SCROLLS: CORES DISTS SCROLLS
+[08/19/2023 09:10]  Victoria's Secret: Victoria's Secret
+[08/19/2023 09:10]  shallow water: shallow water
+[08/19/2023 09:10]  Fridex: [Veteran, NWO]
+[08/19/2023 09:10]  Fridex: Fridex
+[08/19/2023 09:10]  Indra: Indra
+[08/19/2023 09:10]  Cheep Cores/SS/More: Cheep Cores/SS/More
+[08/19/2023 09:10]  MOSTLY BOARDS etc.: MOSTLY BOARDS etc.
+[08/19/2023 09:10]  Tools Overlord: Tools Overlord
+[08/19/2023 09:10]  Best Market: Best Market
+[08/19/2023 09:10]  Ingot Overlord: Ingot Overlord
+[08/19/2023 09:10]  777/Rare & Deco/777: 777/Rare & Deco/777
+[08/19/2023 09:10]  THINGS YOU WANT-RARE: THINGS YOU WANT-RARE
+[08/19/2023 09:10]  Agapite-Gold Tinker: Agapite-Gold Tinker
+[08/19/2023 09:10]  Avar-Val-Ver Tinker: Avar-Val-Ver Tinker
+[08/19/2023 09:10]  Low Hanging Fruit: Low Hanging Fruit
+[08/19/2023 09:10]  STOLEN GOODS: STOLEN GOODS
+[08/19/2023 09:10]  Tory: Tory
+[08/19/2023 09:10]  Ingot Outlet [][]: Ingot Outlet [][]
+[08/19/2023 09:10]  Keep it Shopped: Keep it Shopped
+[08/19/2023 09:10]  Slob's Best Stuff: Slob's Best Stuff
+[08/19/2023 09:10]  !CODEXES,KITS,TOMES!: !CODEXES,KITS,TOMES!
+[08/19/2023 09:10]  COSMIC PAINTING: COSMIC PAINTING
+[08/19/2023 09:10]  Rubao MISC: Rubao MISC
+[08/19/2023 09:10]  Vader's Vape: Vader's Vape
+[08/19/2023 09:10]  Cores / Ship / Rando: Cores / Ship / Rando
+[08/19/2023 09:10]  Loots / Commodoties: Loots / Commodoties
+[08/19/2023 09:10]  SLOW's Dungeon Loots: SLOW's Dungeon Loots
+[08/19/2023 09:10]  Random/Leather 7/9: Random/Leather 7/9
+[08/19/2023 09:10]  Third Breakfast: Third Breakfast
+[08/19/2023 09:10]  Drevorubec bob: [Veteran, NWO]
+[08/19/2023 09:10]  Drevorubec bob: Drevorubec bob
+[08/19/2023 09:10]  Philip: Philip
+[08/19/2023 09:10]  Rogue Tower Rogue: Rogue Tower Rogue
+[08/19/2023 09:10]  the Pirate Armory: the Pirate Armory
+[08/19/2023 09:10]  Blank Scrolls: Blank Scrolls
+[08/19/2023 09:10]  Iron or wood etc: Iron or wood etc
+[08/19/2023 09:10]  Theoretical Wendy: Theoretical Wendy
+[08/19/2023 09:10]  -----Behrlythere----: -----Behrlythere----
+[08/19/2023 09:10]  Spaggiari: Spaggiari the battle trainer
+[08/19/2023 09:10]  PAYASOS STOLEN GOODS: PAYASOS STOLEN GOODS
+[08/19/2023 09:10]  Thierry: Thierry the barkeeper
+[08/19/2023 09:10]  PAU E PEDRA: PAU E PEDRA
+[08/19/2023 09:10]  mrbigbizzness: mrbigbizzness
+[08/19/2023 09:10]  *STUFF*: *STUFF*
+[08/19/2023 09:10]  BEST DEALS SS/CORES: BEST DEALS SS/CORES
+[08/19/2023 09:10]  CORE SCROLL: CORE SCROLL
+[08/19/2023 09:10]  Mixed Dungeon Loot: Mixed Dungeon Loot
+[08/19/2023 09:10]  Purloiner: Purloiner
+[08/19/2023 09:10]  NEARLY FREE SATCH/QV: NEARLY FREE SATCH/QV
+[08/19/2023 09:10]  AR,BOOKS,MUSIC,WEPS: AR,BOOKS,MUSIC,WEPS
+[08/19/2023 09:10]  WeStSiDe's Loot: WeStSiDe's Loot
+[08/19/2023 09:10]  ANOTHER TMAP LOOTER: ANOTHER TMAP LOOTER
+[08/19/2023 09:10]  CORES DISTILLS: CORES DISTILLS
+[08/19/2023 09:10]  Cores & Rares: Cores & Rares
+[08/19/2023 09:10]  smoke bombs and stuf: smoke bombs and stuf
+[08/19/2023 09:10]  Betty Blue: Betty Blue
+[08/19/2023 09:10]  Rumors' Everything: Rumors' Everything
+[08/19/2023 09:10]  Sillk: Sillk the dockmaster
+[08/19/2023 09:10]  CORS/SCRLS/MAPS/STUF: CORS/SCRLS/MAPS/STUF
+[08/19/2023 09:10]  a walrus: a walrus
+[08/19/2023 09:10]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:10]  System: Being perfectly rested, you shove them out of the way.
+[08/19/2023 09:10]  m a n t o o t h: Your mount finds a quiet place to rest safely.
+[08/19/2023 09:10]  shallow water: shallow water
+[08/19/2023 09:10]  System: Opening door...
+[08/19/2023 09:10]  Vendors Available: Vendors Available
+[08/19/2023 09:11]  m a n t o o t h: You fail to hide.
+[08/19/2023 09:11]  System: DorianX has completed the achievement: Savant (Advanced).
+[08/19/2023 09:11]  System: Johnny Burnside has completed the achievement: Guardian of The Mausoleum (Basic).
+[08/19/2023 09:11]  [Razor]: New target set.
+[08/19/2023 09:11]  Razor: Target: Cores & Supreme
+[08/19/2023 09:11]  Razor: Target: Nalachi&Amazonn Mall
+[08/19/2023 09:11]  Razor: Target: SUPER SAIYAN SHOP
+[08/19/2023 09:11]  SUPER SAIYAN SHOP: Take a look at my goods.
+[08/19/2023 09:11]  [Razor]: New target set. [2]
+[08/19/2023 09:11]  You see: Price: 40000
+[08/19/2023 09:11]  You see: copperhide commodity
+[08/19/2023 09:11]  You see: (2,500 total)
+[08/19/2023 09:11]  You see: Price: 380000
+[08/19/2023 09:11]  You see: verehide commodity
+[08/19/2023 09:11]  You see: (2,500 total)
+[08/19/2023 09:11]  You see: Price: 40000
+[08/19/2023 09:11]  You see: copperhide commodity
+[08/19/2023 09:11]  You see: (2,500 total)
+[08/19/2023 09:11]  You see: Price: 40000
+[08/19/2023 09:11]  You see: copperhide commodity
+[08/19/2023 09:11]  You see: (2,500 total)
+[08/19/2023 09:11]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:11]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:11]  m a n t o o t h: Your mount returns.
+[08/19/2023 09:11]  Rane: Rane the dockmaster
+[08/19/2023 09:11]  Duluth Trading: Duluth Trading
+[08/19/2023 09:11]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:11]  System: Opening door...
+[08/19/2023 09:11]  System: Your house and its contents have been refreshed. 29 days 3 hours 32 minutes remaining until owner refresh required.
+[08/19/2023 09:11]  Razor:  Scanning for rat 
+[08/19/2023 09:11]  System: Where will you search?
+[08/19/2023 09:11]  System: You search the home and find no one hiding within.
+[08/19/2023 09:11]  [Razor]: No one matching that was found on your screen.
+[08/19/2023 09:11]  System: Target the individual to ban from this house.
+[08/19/2023 09:11]  m a n t o o t h: I ban thee
+[08/19/2023 09:11]  System: You cannot eject a friend of the house!
+[08/19/2023 09:11]  Rane: Rane the dockmaster
+[08/19/2023 09:11]  [Razor]: No one matching that was found on your screen. [4]
+[08/19/2023 09:11]  System: 106° 5'N, 142° 56'E
+[08/19/2023 09:11]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:11]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:11]  Cheapest Prev Coins: Cheapest Prev Coins
+[08/19/2023 09:11]  SpellBooks/Manuals: SpellBooks/Manuals
+[08/19/2023 09:11]  Wood Whittling Women: Wood Whittling Women
+[08/19/2023 09:11]  Iron Weapons: Iron Weapons
+[08/19/2023 09:11]  High Times: High Times
+[08/19/2023 09:11]  Flowers/Melloweed: Flowers/Melloweed
+[08/19/2023 09:11]  Casta: Casta
+[08/19/2023 09:11]  Dollar Store ChainAR: Dollar Store ChainAR
+[08/19/2023 09:11]  Society Leather: Society Leather
+[08/19/2023 09:11]  Adventuring Goods: Adventuring Goods
+[08/19/2023 09:11]  Tlnker: Tlnker
+[08/19/2023 09:11]  DelectableFoodNrope: DelectableFoodNrope
+[08/19/2023 09:11]  Dollar Store Plate: Dollar Store Plate
+[08/19/2023 09:11]  Skill Scrolls: Skill Scrolls
+[08/19/2023 09:11]  CoresAndDistills: CoresAndDistills
+[08/19/2023 09:11]  Exceed/Vanq/Invuln: Exceed/Vanq/Invuln
+[08/19/2023 09:11]  Elixer-Mixer: Elixer-Mixer
+[08/19/2023 09:11]  MageAr/Satchels: MageAr/Satchels
+[08/19/2023 09:11]  CodexWeapOilFoci: CodexWeapOilFoci
+[08/19/2023 09:11]  Edna: Edna
+[08/19/2023 09:11]  Leila: Leila
+[08/19/2023 09:11]  CheapFarmimgAR: CheapFarmimgAR
+[08/19/2023 09:11]  BarFly: BarFly the battle trainer
+[08/19/2023 09:11]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:11]  m a n t o o t h: You fail to hide.
+[08/19/2023 09:11]  Allan A'Dayle: Connoisseur
+[08/19/2023 09:11]  Allan A'Dayle: [Rock&Roll Party, NDA]
+[08/19/2023 09:11]  Allan A'Dayle: Lord Allan A'Dayle
+[08/19/2023 09:11]  System: Opening door...
+[08/19/2023 09:11]  System: You must wait a few moments to use another skill.
+[08/19/2023 09:11]  Allan A'Dayle: Connoisseur
+[08/19/2023 09:11]  Allan A'Dayle: [Rock&Roll Party, NDA]
+[08/19/2023 09:11]  Allan A'Dayle: Lord Allan A'Dayle
+[08/19/2023 09:12]  m a n t o o t h: You have hidden yourself well.
+[08/19/2023 09:12]  Razor: [+Hidden/Stealthing (0s)]
+[08/19/2023 09:12]  High Times: Take a look at my goods.
+[08/19/2023 09:12]  You see: Price: 15000
+[08/19/2023 09:12]  You see: copperhide : 500
+[08/19/2023 09:12]  You see: Price: 19500
+[08/19/2023 09:12]  You see: verehide : 100
+[08/19/2023 09:12]  System: Drake Ramoray has completed the achievement: Monstrous Slayer (Advanced).
+[08/19/2023 09:12]  You see: Price: 27000
+[08/19/2023 09:12]  You see: valehide : 100
+[08/19/2023 09:12]  Leila: Take a look at my goods.
+[08/19/2023 09:12]  Dollar Store Plate: Take a look at my goods.
+[08/19/2023 09:12]  You see: Price: 17000
+[08/19/2023 09:12]  You see: bag
+[08/19/2023 09:12]  You see: Price: 7000
+[08/19/2023 09:12]  You see: exceptional bronzewood container identification wand
+[08/19/2023 09:12]  You see: (30 uses remaining)
+[08/19/2023 09:12]  You see: [mastercrafted by Exeptional Hands]
+[08/19/2023 09:12]  You see: Price: 8000
+[08/19/2023 09:12]  You see: exceptional rosewood container identification wand
+[08/19/2023 09:12]  You see: (35 uses remaining)
+[08/19/2023 09:12]  You see: [mastercrafted by Exeptional Hands]
+[08/19/2023 09:12]  You see: Price: 8500
+[08/19/2023 09:12]  You see: exceptional verewood container identification wand
+[08/19/2023 09:12]  You see: (38 uses remaining)
+[08/19/2023 09:12]  You see: [mastercrafted by Exeptional Hands]
+[08/19/2023 09:12]  You see: Price: 7000
+[08/19/2023 09:12]  You see: exceptional verewood item identification wand
+[08/19/2023 09:12]  You see: (188 uses remaining)
+[08/19/2023 09:12]  You see: [mastercrafted by Exeptional Hands]
+[08/19/2023 09:12]  You see: Price: 8000
+[08/19/2023 09:12]  You see: exceptional rosewood container identification wand
+[08/19/2023 09:12]  You see: (35 uses remaining)
+[08/19/2023 09:12]  You see: [mastercrafted by Exeptional Hands]
+[08/19/2023 09:13]  Dollar Store Plate: Take a look at my goods.
+[08/19/2023 09:13]  Dollar Store ChainAR: Take a look at my goods.
+[08/19/2023 09:13]  Edna: Take a look at my goods.
+[08/19/2023 09:13]  Adventuring Goods: Take a look at my goods.
+[08/19/2023 09:13]  You see: Price: 15000
+[08/19/2023 09:13]  You see: dullhide commodity
+[08/19/2023 09:13]  You see: (2,500 total)
+[08/19/2023 09:13]  You see: Price: 12000
+[08/19/2023 09:13]  You see: leather commodity
+[08/19/2023 09:13]  You see: (5,000 total)
+[08/19/2023 09:13]  You see: Price: 1500
+[08/19/2023 09:13]  You see: feather commodity
+[08/19/2023 09:13]  You see: (2,500 total)
+[08/19/2023 09:13]  System: Ashmodeus has completed the achievement: Wizard (Basic).
+[08/19/2023 09:13]  Adventuring Goods: Take a look at my goods.
+[08/19/2023 09:13]  Elixer-Mixer: Take a look at my goods.
+[08/19/2023 09:14]  MageAr/Satchels: Take a look at my goods.
+[08/19/2023 09:14]  Elixer-Mixer: Take a look at my goods.
+[08/19/2023 09:14]  You see: Price: 2700
+[08/19/2023 09:14]  You see: a potion keg: greater strength
+[08/19/2023 09:14]  You see: The keg is completely full.
+[08/19/2023 09:14]  System: You purchase the item.
+[08/19/2023 09:14]  You see: Price: 2500
+[08/19/2023 09:14]  You see: a potion keg: total refresh
+[08/19/2023 09:14]  You see: The keg is completely full.
+[08/19/2023 09:14]  System: You purchase the item.
+[08/19/2023 09:14]  CheapFarmimgAR: Take a look at my goods.
+[08/19/2023 09:14]  DelectableFoodNrope: Take a look at my goods.
+[08/19/2023 09:14]  You see: Price: 16000
+[08/19/2023 09:14]  You see: ham feast : 100
+[08/19/2023 09:14]  You see: (delectable)
+[08/19/2023 09:15]  System: You purchase the item.
+[08/19/2023 09:15]  DelectableFoodNrope: Take a look at my goods.
+[08/19/2023 09:15]  Tlnker: Take a look at my goods.
+[08/19/2023 09:15]  Skill Scrolls: Take a look at my goods.
+[08/19/2023 09:15]  Skill Scrolls: Take a look at my goods.
+[08/19/2023 09:15]  CodexWeapOilFoci: Take a look at my goods.
+[08/19/2023 09:15]  You see: Price: 38000
+[08/19/2023 09:15]  You see: artisan aspect spell foci
+[08/19/2023 09:15]  You see: (500 charges remaining)
+[08/19/2023 09:15]  You see: Price: 10000
+[08/19/2023 09:15]  You see: fire aspect spell foci
+[08/19/2023 09:15]  You see: (500 charges remaining)
+[08/19/2023 09:15]  You see: Price: 16000
+[08/19/2023 09:15]  You see: fortune aspect spell foci
+[08/19/2023 09:15]  You see: (500 charges remaining)
+[08/19/2023 09:15]  You see: Price: 15000
+[08/19/2023 09:15]  You see: death aspect spell foci
+[08/19/2023 09:15]  You see: (500 charges remaining)
+[08/19/2023 09:15]  You see: Price: 80000
+[08/19/2023 09:15]  You see: thieves codex
+[08/19/2023 09:15]  You see: [blessed]
+[08/19/2023 09:15]  You see: Price: 80000
+[08/19/2023 09:15]  You see: a blessed codex of macing
+[08/19/2023 09:15]  You see: (Aggressive)
+[08/19/2023 09:15]  Flowers/Melloweed: Take a look at my goods.
+[08/19/2023 09:15]  Casta: Take a look at my goods.
+[08/19/2023 09:15]  Cheapest Prev Coins: Take a look at my goods.
+[08/19/2023 09:15]  Iron Weapons: Take a look at my goods.
+[08/19/2023 09:16]  SpellBooks/Manuals: Take a look at my goods.
+[08/19/2023 09:16]  You see: Price: 34000
+[08/19/2023 09:16]  You see: exceptional avarwood martial manual
+[08/19/2023 09:16]  You see: [mastercrafted by Luxar]
+[08/19/2023 09:16]  You see: Price: 34000
+[08/19/2023 09:16]  You see: exceptional avarwood martial manual
+[08/19/2023 09:16]  You see: [mastercrafted by Luxar]
+[08/19/2023 09:16]  You see: Price: 1000
+[08/19/2023 09:16]  You see: exceptional shadowwood martial manual
+[08/19/2023 09:16]  You see: [mastercrafted by Luxar]
+[08/19/2023 09:16]  System: Only the owner of this house may change it's guild affiliation.
+[08/19/2023 09:16]  System: Only the owner of this house may change it's guild affiliation.
+[08/19/2023 09:16]  System: Your skill in Tactics has decreased by 42.0.  It is now 100.0.
+[08/19/2023 09:16]  Razor: [-Hidden/Stealthing (s)]
+[08/19/2023 09:16]  m a n t o o t h: Kal Ort Por [Recall]
+[08/19/2023 09:16]  Rane: Rane the dockmaster
+[08/19/2023 09:16]  Duluth Trading: Duluth Trading
+[08/19/2023 09:16]  System: Your skill in Tactics has increased by 42.0.  It is now 142.0.
+[08/19/2023 09:16]  a giant rat: a giant rat
+[08/19/2023 09:16]  System: Opening door...
+[08/19/2023 09:16]  System: Your house and its contents have been refreshed. 29 days 3 hours 27 minutes remaining until owner refresh required.
+[08/19/2023 09:16]  Razor:  Scanning for rat 
+[08/19/2023 09:16]  System: Where will you search?
+[08/19/2023 09:16]  System: You search the home and find no one hiding within.
+[08/19/2023 09:16]  [Razor]: No one matching that was found on your screen.
+[08/19/2023 09:16]  Rane: Rane the dockmaster
+[08/19/2023 09:16]  [Razor]: No one matching that was found on your screen. [4]
+[08/19/2023 09:17]  System: 1 items were added.
+[08/19/2023 09:17]  System: 1 items were added.
+[08/19/2023 09:17]  System: 1 items were added.

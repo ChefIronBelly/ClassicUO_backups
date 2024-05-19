@@ -1,0 +1,336 @@
+[05/11/2023 09:17]  System: WorldMap loading...
+[05/11/2023 09:17]  System: Loading WorldMap markers..
+[05/11/2023 09:17]  System: ..Banks_and_Healers.xml (20)
+[05/11/2023 09:17]  System: ..Dungeons.xml (12)
+[05/11/2023 09:17]  System: ..Dungeon_Gates.xml (325)
+[05/11/2023 09:17]  System: ..Healer_Caravans.xml (32)
+[05/11/2023 09:17]  System: ..Moongates.xml (9)
+[05/11/2023 09:17]  System: ..POI.xml (176)
+[05/11/2023 09:17]  System: ..PvP_Locations.xml (71)
+[05/11/2023 09:17]  System: ..Shrines.xml (9)
+[05/11/2023 09:17]  System: ..Subterranean.xml (6)
+[05/11/2023 09:17]  System: ..Townships.xml (9)
+[05/11/2023 09:17]  System: WorldMap markers loaded (669)
+[05/11/2023 09:17]  System: Welcome Stink Fist!
+[05/11/2023 09:17]  Stink Fist: Stink Fist
+[05/11/2023 09:17]  Germain: Germain the wandering healer
+[05/11/2023 09:17]  System: WorldMap loaded!
+[05/11/2023 09:17]  a skeleton: a skeleton
+[05/11/2023 09:17]  a skeletal archer: a skeletal archer
+[05/11/2023 09:17]  a skeletal archer: a skeletal archer
+[05/11/2023 09:17]  Stink Fist: Your mount finds a quiet place to rest safely.
+[05/11/2023 09:17]  a fire ant: a fire ant
+[05/11/2023 09:17]  a skeleton: a skeleton
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  a skeleton: a skeleton
+[05/11/2023 09:17]  a skeletal archer: a skeletal archer
+[05/11/2023 09:17]  Razor: Move closer!
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  a ghoul: a ghoul
+[05/11/2023 09:17]  Razor: Move closer!
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  System: Holy symbols remaining: 9/10
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  System: Holy symbols remaining: 7/10
+[05/11/2023 09:17]  System: PK Getaway Script engaged
+[05/11/2023 09:17]  Stink Fist: -7
+[05/11/2023 09:17]  System: Script Error: Cannot convert argument to uint (Line: 273)
+[05/11/2023 09:17]  Stink Fist: +7
+[05/11/2023 09:17]  System: some damage has been healed : 7
+[05/11/2023 09:17]  a fire ant: a fire ant
+[05/11/2023 09:17]  a skeletal knight: a skeletal knight
+[05/11/2023 09:17]  a skeletal archer: a skeletal archer
+[05/11/2023 09:17]  a mummy: a mummy
+[05/11/2023 09:17]  a skeletal knight: a skeletal knight
+[05/11/2023 09:17]  a necromancer: a necromancer
+[05/11/2023 09:17]  System: Max holy symbols earned (10/10)
+[05/11/2023 09:17]  Stink Fist: *cursed*
+[05/11/2023 09:17]  System: Your body begins to decay under a horrific curse!
+[05/11/2023 09:17]  Stink Fist: *looks violently ill*
+[05/11/2023 09:17]  Razor: [+Diseased (30s)]
+[05/11/2023 09:17]  System: New target set.
+[05/11/2023 09:17]  Razor: Target: a mummy
+[05/11/2023 09:17]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:17]  Razor: Attack: a mummy
+[05/11/2023 09:17]  System: Your strike disarms your target!
+[05/11/2023 09:17]  a mummy: -4
+[05/11/2023 09:17]  Stink Fist: -4
+[05/11/2023 09:17]  Razor: chug
+[05/11/2023 09:17]  Razor: chug
+[05/11/2023 09:17]  a mummy: -4
+[05/11/2023 09:17]  Razor: Loading hotbar
+[05/11/2023 09:17]  System: Your dexterity has changed by 20.  It is now 120
+[05/11/2023 09:17]  System: You must wait to perform another action.
+[05/11/2023 09:17]  Razor: [+Agility (120s)]
+[05/11/2023 09:17]  Razor: Dex: +20 - 120
+[05/11/2023 09:17]  Razor: [-Agility (s)]
+[05/11/2023 09:17]  Razor: [+Agility (120s)]
+[05/11/2023 09:17]  System: Finished 2 queued actions in 0.6 seconds.
+[05/11/2023 09:17]  Stink Fist: -5
+[05/11/2023 09:17]  Stink Fist: Warding stance activated.
+[05/11/2023 09:17]  System: Your skill in Tactics has increased by 30.0.  It is now 130.0.
+[05/11/2023 09:17]  Stink Fist: Barrier finisher activated.
+[05/11/2023 09:17]  a mummy: -79
+[05/11/2023 09:17]  a mummy: -235
+[05/11/2023 09:17]  Razor: Close Wounds
+[05/11/2023 09:17]  System: Close Wounds
+[05/11/2023 09:17]  System: Holy symbols remaining: 7/10
+[05/11/2023 09:17]  System: Who will you use the bandages on?
+[05/11/2023 09:17]  System: You begin applying the bandages.
+[05/11/2023 09:17]  Razor: Bandage: 10s
+[05/11/2023 09:17]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/11/2023 09:17]  a mummy: -219
+[05/11/2023 09:17]  System: New target set.
+[05/11/2023 09:17]  Stink Fist: -2
+[05/11/2023 09:17]  Stink Fist: -11
+[05/11/2023 09:17]  System: Your fingers slip!
+[05/11/2023 09:17]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:17]  a mummy: -61
+[05/11/2023 09:17]  Razor: Bandage: 9s
+[05/11/2023 09:17]  Razor: Bandage: 8s
+[05/11/2023 09:17]  Razor: chug refresh
+[05/11/2023 09:17]  a mummy: -305
+[05/11/2023 09:17]  Razor: chug
+[05/11/2023 09:17]  Razor: Bandage: 7s
+[05/11/2023 09:17]  System: Your strength has changed by 20.  It is now 120
+[05/11/2023 09:17]  Razor: [+Strength (120s)]
+[05/11/2023 09:17]  Razor: Str: +20 - 120
+[05/11/2023 09:17]  Razor: Bandage: 6s
+[05/11/2023 09:17]  Razor: [-Strength (s)]
+[05/11/2023 09:17]  Razor: [+Strength (120s)]
+[05/11/2023 09:17]  System: Finished 2 queued actions in 0.6 seconds.
+[05/11/2023 09:17]  a mummy: -112
+[05/11/2023 09:17]  Razor: Divine Fury
+[05/11/2023 09:17]  System: Holy symbols remaining: 7/10
+[05/11/2023 09:17]  System: Divine Fury
+[05/11/2023 09:17]  System: You must wait a moment before attempting to use another Chivalry ability.
+[05/11/2023 09:17]  Stink Fist: -12
+[05/11/2023 09:17]  System: Holy symbols remaining: 5/10
+[05/11/2023 09:17]  Razor: Bandage: 5s
+[05/11/2023 09:17]  System: Your attack cripples your target, lowering their defense!
+[05/11/2023 09:17]  a mummy: -124
+[05/11/2023 09:17]  Stink Fist: -2
+[05/11/2023 09:17]  System: New target set.
+[05/11/2023 09:17]  Razor: Bandage: 4s
+[05/11/2023 09:17]  System: Wrestling stance adoption expired.
+[05/11/2023 09:17]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:17]  Razor: Bandage: 3s
+[05/11/2023 09:17]  Stink Fist: +22
+[05/11/2023 09:17]  System: some damage has been healed : 22
+[05/11/2023 09:17]  Stink Fist: *cursed*
+[05/11/2023 09:17]  System: Your body begins to decay under a horrific curse!
+[05/11/2023 09:17]  Stink Fist: *looks violently ill*
+[05/11/2023 09:17]  Razor: [-Diseased (s)]
+[05/11/2023 09:17]  Razor: [+Diseased (30s)]
+[05/11/2023 09:17]  Razor: Bandage: 2s
+[05/11/2023 09:17]  a mummy: -26
+[05/11/2023 09:17]  System: New target set.
+[05/11/2023 09:17]  Razor: Bandage: 1s
+[05/11/2023 09:17]  System: You finish applying the bandages.
+[05/11/2023 09:17]  Stink Fist: +31
+[05/11/2023 09:17]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:17]  a mummy: -53
+[05/11/2023 09:17]  Stink Fist: -2
+[05/11/2023 09:17]  System: Who will you use the bandages on?
+[05/11/2023 09:17]  System: You begin applying the bandages.
+[05/11/2023 09:17]  Razor: Bandage: 10s
+[05/11/2023 09:18]  System: Your attack hinders your target!
+[05/11/2023 09:18]  a mummy: -131
+[05/11/2023 09:18]  Razor: Bandage: 9s
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  a mummy: -51
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  Razor: Bandage: 8s
+[05/11/2023 09:18]  Razor: Bandage: 7s
+[05/11/2023 09:18]  a mummy: -49
+[05/11/2023 09:18]  Razor: Bandage: 6s
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: Your fingers slip!
+[05/11/2023 09:18]  Razor: Bandage: 5s
+[05/11/2023 09:18]  Stink Fist: -15
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: Bandage: 4s
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  a mummy: -58
+[05/11/2023 09:18]  Stink Fist: -5
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  Razor: Bandage: 3s
+[05/11/2023 09:18]  Razor: Bandage: 2s
+[05/11/2023 09:18]  System: Your fingers slip! [3]
+[05/11/2023 09:18]  Razor: Bandage: 1s
+[05/11/2023 09:18]  System: Click again to confirm.
+[05/11/2023 09:18]  a mummy: -191
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: You finish applying the bandages.
+[05/11/2023 09:18]  Stink Fist: +28
+[05/11/2023 09:18]  System: That weapon is already of that aspect.
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  a mummy: -49
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: You evade an attack (Dispel Evil).
+[05/11/2023 09:18]  Stink Fist: -1
+[05/11/2023 09:18]  System: You may now attempt to disarm your opponent again.
+[05/11/2023 09:18]  Razor: [DISARM]
+[05/11/2023 09:18]  System: Your armor is already of that aspect.
+[05/11/2023 09:18]  System: Your strike disarms your target!
+[05/11/2023 09:18]  a mummy: -82
+[05/11/2023 09:18]  System: Click again to confirm.
+[05/11/2023 09:18]  System: Who will you use the bandages on?
+[05/11/2023 09:18]  System: You begin applying the bandages.
+[05/11/2023 09:18]  Razor: Bandage: 10s
+[05/11/2023 09:18]  Stink Fist: *cursed*
+[05/11/2023 09:18]  System: Your body begins to decay under a horrific curse!
+[05/11/2023 09:18]  Stink Fist: *looks violently ill*
+[05/11/2023 09:18]  Razor: [-Diseased (s)]
+[05/11/2023 09:18]  Razor: [+Diseased (30s)]
+[05/11/2023 09:18]  a mummy: -42
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: Bandage: 9s
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/11/2023 09:18]  a mummy: -108
+[05/11/2023 09:18]  Razor: Bandage: 8s
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  Stink Fist: -15
+[05/11/2023 09:18]  a mummy: -106
+[05/11/2023 09:18]  Razor: Bandage: 7s
+[05/11/2023 09:18]  System: Max holy symbols earned (10/10)
+[05/11/2023 09:18]  Razor: Bandage: 6s
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  a mummy: -106
+[05/11/2023 09:18]  System: You deliver a zen strike to your opponent.
+[05/11/2023 09:18]  Stink Fist: +19
+[05/11/2023 09:18]  System: some damage has been healed : 19
+[05/11/2023 09:18]  a mummy: -464
+[05/11/2023 09:18]  Stink Fist: -3
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  Razor: Bandage: 5s
+[05/11/2023 09:18]  a mummy: -65
+[05/11/2023 09:18]  Razor: Bandage: 4s
+[05/11/2023 09:18]  Razor: Close Wounds
+[05/11/2023 09:18]  System: Close Wounds
+[05/11/2023 09:18]  System: Holy symbols remaining: 7/10
+[05/11/2023 09:18]  Razor: Bandage: 2s
+[05/11/2023 09:18]  a mummy: -148
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: Your fingers slip!
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: Bandage: 1s
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  a mummy: -60
+[05/11/2023 09:18]  System: Holy symbols remaining: 6/10
+[05/11/2023 09:18]  System: You finish applying the bandages.
+[05/11/2023 09:18]  Stink Fist: +4
+[05/11/2023 09:18]  System: You evade an attack (Dispel Evil).
+[05/11/2023 09:18]  Stink Fist: -1
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: Holy symbols remaining: 4/10
+[05/11/2023 09:18]  System: Who will you use the bandages on?
+[05/11/2023 09:18]  System: You begin applying the bandages.
+[05/11/2023 09:18]  Razor: Bandage: 10s
+[05/11/2023 09:18]  a mummy: -52
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  System: Your attack cripples your target, lowering their defense!
+[05/11/2023 09:18]  System: You have gained a good amount of fame.
+[05/11/2023 09:18]  Stink Fist: (Earth Aspect 2,918.1/4000 xp)
+[05/11/2023 09:18]  System: -16
+[05/11/2023 09:18]  You see: a mummy corpse
+[05/11/2023 09:18]  Razor: Bandage: 9s
+[05/11/2023 09:18]  Stink Fist: -8
+[05/11/2023 09:18]  System: Your fingers slip!
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  Razor: Bandage: 8s
+[05/11/2023 09:18]  Razor: Divine Fury
+[05/11/2023 09:18]  System: Divine Fury
+[05/11/2023 09:18]  System: Holy symbols remaining: 1/10
+[05/11/2023 09:18]  Razor: Bandage: 7s
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  Razor: Bandage: 6s
+[05/11/2023 09:18]  System: What do you wish to carve, investigate, or research?
+[05/11/2023 09:18]  Razor: Bandage: 5s
+[05/11/2023 09:18]  System: You carve materials from the corpse.
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: Target: a skeleton
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  Razor: Attack: a skeleton
+[05/11/2023 09:18]  a skeleton: -75
+[05/11/2023 09:18]  Razor: Bandage: 4s
+[05/11/2023 09:18]  Razor: Bandage: 3s
+[05/11/2023 09:18]  a skeleton: -47
+[05/11/2023 09:18]  Razor: Bandage: 2s
+[05/11/2023 09:18]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/11/2023 09:18]  a skeleton: -106
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  Razor: Bandage: 1s
+[05/11/2023 09:18]  System: You finish applying the bandages.
+[05/11/2023 09:18]  Stink Fist: +15
+[05/11/2023 09:18]  System: New target set.
+[05/11/2023 09:18]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/11/2023 09:18]  a skeleton: -68
+[05/11/2023 09:18]  System: You deliver a zen strike to your opponent.
+[05/11/2023 09:18]  Stink Fist: +0
+[05/11/2023 09:18]  System: You have gained a little fame.
+[05/11/2023 09:18]  Stink Fist: (Earth Aspect 2,918.9/4000 xp)
+[05/11/2023 09:18]  System: -104
+[05/11/2023 09:18]  You see: a skeletal corpse
+[05/11/2023 09:18]  System: Who will you use the bandages on?
+[05/11/2023 09:18]  System: You begin applying the bandages.
+[05/11/2023 09:18]  Razor: Bandage: 10s
+[05/11/2023 09:18]  a ghoul: a ghoul
+[05/11/2023 09:18]  System: What do you wish to carve, investigate, or research?
+[05/11/2023 09:18]  Razor: Bandage: 9s
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: No one matching that was found on your screen.
+[05/11/2023 09:18]  Razor: found no one
+[05/11/2023 09:18]  Razor: Bandage: 8s
+[05/11/2023 09:18]  a necromancer: a necromancer
+[05/11/2023 09:18]  Razor: Bandage: 7s
+[05/11/2023 09:18]  Razor: Target: Stink Fist
+[05/11/2023 09:18]  System: You dont see anything nearby worth carving or investigating.
+[05/11/2023 09:18]  Razor: Bandage: 6s
+[05/11/2023 09:18]  Razor: Bandage: 5s
+[05/11/2023 09:18]  System: You may now attempt to disarm your opponent again.
+[05/11/2023 09:18]  Razor: [DISARM]
+[05/11/2023 09:18]  System: No one matching that was found on your screen.
+[05/11/2023 09:18]  Razor: Bandage: 4s
+[05/11/2023 09:18]  Razor: found no one
+[05/11/2023 09:18]  Stink Fist: -2
+[05/11/2023 09:18]  System: Your fingers slip!
+[05/11/2023 09:18]  System: You are no longer diseased.
+[05/11/2023 09:18]  Razor: [-Diseased (s)]
+[05/11/2023 09:18]  a necromancer: a necromancer
+[05/11/2023 09:18]  Razor: Bandage: 3s
+[05/11/2023 09:18]  Stink Fist: Bulwark stance activated.
+[05/11/2023 09:18]  Stink Fist: Last Stand finisher activated.
+[05/11/2023 09:18]  System: What do you wish to carve, investigate, or research?
+[05/11/2023 09:18]  a necromancer: a necromancer
+[05/11/2023 09:18]  System: PK Getaway Script engaged
+[05/11/2023 09:18]  Razor: Bandage: 2s
+[05/11/2023 09:18]  System: Script Error: Cannot convert argument to uint (Line: 273)
+[05/11/2023 09:18]  Stink Fist: +3
+[05/11/2023 09:18]  System: some damage has been healed : 3
+[05/11/2023 09:18]  Razor: Bandage: 1s
+[05/11/2023 09:18]  System: You heal what little damage you had.
+[05/11/2023 09:18]  System: Holy symbols remaining: 5/10
+[05/11/2023 09:18]  System: Holy symbols remaining: 3/10
+[05/11/2023 09:18]  System: Wrestling stance adoption expired.
+[05/11/2023 09:18]  System: You are now under the protection of the town guards.
+[05/11/2023 09:18]  Razor: [+Hidden/Stealthing (0s)]
+[05/11/2023 09:18]  a dog: a dog
+[05/11/2023 09:18]  an andarian knight: an andarian knight
+[05/11/2023 09:18]  a cat: a cat
+[05/11/2023 09:18]  a cat: a cat
+[05/11/2023 09:18]  an andarian marksman: an andarian marksman
+[05/11/2023 09:18]  a dog: a dog
+[05/11/2023 09:18]  Avasa: Avasa the healer
+[05/11/2023 09:18]  Gerry: Gerry the healer
+[05/11/2023 09:18]  a dog: a dog
+[05/11/2023 09:18]  a dog: a dog
+[05/11/2023 09:18]  a dog: a dog
+[05/11/2023 09:18]  a cat: a cat
+[05/11/2023 09:18]  Stink Fist: Your mount returns.

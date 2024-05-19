@@ -1,0 +1,965 @@
+[02/01/2023 07:46]  System: WorldMap loading...
+[02/01/2023 07:46]  System: Loading WorldMap markers..
+[02/01/2023 07:46]  System: ..Banks_and_Healers.xml (20)
+[02/01/2023 07:46]  System: ..Dungeons.xml (12)
+[02/01/2023 07:46]  System: ..Dungeon_Gates.xml (325)
+[02/01/2023 07:46]  System: ..Healer_Caravans.xml (32)
+[02/01/2023 07:46]  System: ..Moongates.xml (9)
+[02/01/2023 07:46]  System: ..POI.xml (176)
+[02/01/2023 07:46]  System: ..PvP_Locations.xml (71)
+[02/01/2023 07:46]  System: ..Shrines.xml (9)
+[02/01/2023 07:46]  System: ..Subterranean.xml (6)
+[02/01/2023 07:46]  System: ..Townships.xml (9)
+[02/01/2023 07:46]  System: WorldMap markers loaded (669)
+[02/01/2023 07:46]  System: Welcome Stink Fist!
+[02/01/2023 07:46]  Stink Fist: Stink Fist
+[02/01/2023 07:46]  Rane: Rane the dockmaster
+[02/01/2023 07:46]  System: WorldMap loaded!
+[02/01/2023 07:46]  System: You must wait to perform another action.
+[02/01/2023 07:47]  Wulf of Wyrd: Wulf of Wyrd
+[02/01/2023 07:47]  System: Virgo Shaka has completed the achievement: Elemental Slayer (Basic).
+[02/01/2023 07:48]  System: Your campfire is now secure.
+[02/01/2023 07:48]  System: No one matching that was found on your screen.
+[02/01/2023 07:48]  Razor: found no one
+[02/01/2023 07:48]  Stink Fist: The food is delectable and is intensely satisfying.
+[02/01/2023 07:48]  Razor: [+Food Satisfaction (3600s)]
+[02/01/2023 07:48]  Razor: Loading hotbar
+[02/01/2023 07:48]  System: No one matching that was found on your screen.
+[02/01/2023 07:48]  Razor: found no one
+[02/01/2023 07:48]  System: No one matching that was found on your screen.
+[02/01/2023 07:48]  Razor: found no one
+[02/01/2023 07:48]  System: Playing Macro 'Escape'...
+[02/01/2023 07:48]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:48]  System: You are now under the protection of the town guards.
+[02/01/2023 07:48]  an andarian mage: an andarian mage
+[02/01/2023 07:48]  Candida: Candida the cobbler
+[02/01/2023 07:48]  Leiko: Leiko the tinker
+[02/01/2023 07:48]  a pack llama: (tame)
+[02/01/2023 07:48]  a pack llama: [125/2000 stones]
+[02/01/2023 07:48]  a pack llama: a pack llama
+[02/01/2023 07:48]  KokodeKisuShite: Legendary Animal Bond
+[02/01/2023 07:48]  KokodeKisuShite: KokodeKisuShite
+[02/01/2023 07:48]  System: No item of type halberd (143E) found!
+[02/01/2023 07:48]  System: Macro 'Escape' finished.
+[02/01/2023 07:48]  RenarinKholin: [Recruit, ICON]
+[02/01/2023 07:48]  RenarinKholin: RenarinKholin
+[02/01/2023 07:48]  Yerixus: [Private, Wiz]
+[02/01/2023 07:48]  Yerixus: Yerixus
+[02/01/2023 07:48]  a fire elemental: (summoned)
+[02/01/2023 07:48]  a fire elemental: a fire elemental
+[02/01/2023 07:48]  an earth elemental: (summoned)
+[02/01/2023 07:48]  an earth elemental: an earth elemental
+[02/01/2023 07:48]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:48]  System: Your spellbook generates mana for your spell.
+[02/01/2023 07:48]  System: You have left the protection of the town guards.
+[02/01/2023 07:48]  Rane: Rane the dockmaster
+[02/01/2023 07:48]  Wulf of Wyrd: Wulf of Wyrd
+[02/01/2023 07:48]  a cougar: a cougar
+[02/01/2023 07:48]  a cougar: a cougar
+[02/01/2023 07:48]  System: Opening door...
+[02/01/2023 07:48]  System: Your house and its contents have been refreshed. 25 days 1 hour 1 minute remaining until owner refresh required.
+[02/01/2023 07:48]  Razor:  Scanning for rat 
+[02/01/2023 07:48]  System: Where will you search?
+[02/01/2023 07:48]  System: You search the home and find no one hiding within.
+[02/01/2023 07:48]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[02/01/2023 07:48]  Rane: Rane the dockmaster
+[02/01/2023 07:49]  System: Playing Macro 'Healing'...
+[02/01/2023 07:49]  Wulf of Wyrd: Rel Sanct [Bless]
+[02/01/2023 07:49]  System: Your strength has changed by 10.  It is now 110
+[02/01/2023 07:49]  System: Your dexterity has changed by 10.  It is now 110
+[02/01/2023 07:49]  System: Your intelligence has changed by 10.  It is now 35
+[02/01/2023 07:49]  Razor: [+Strength (600s)]
+[02/01/2023 07:49]  Razor: Str: +10 - 110
+[02/01/2023 07:49]  Razor: [-Strength (s)]
+[02/01/2023 07:49]  Razor: [+Strength (600s)]
+[02/01/2023 07:49]  Razor: [+Agility (600s)]
+[02/01/2023 07:49]  Razor: Dex: +10 - 110
+[02/01/2023 07:49]  Razor: [-Agility (s)]
+[02/01/2023 07:49]  Razor: [+Agility (600s)]
+[02/01/2023 07:49]  Razor: [+Cunning (600s)]
+[02/01/2023 07:49]  Razor: Int: +10 - 35
+[02/01/2023 07:49]  Razor: [-Cunning (s)]
+[02/01/2023 07:49]  Razor: [+Cunning (600s)]
+[02/01/2023 07:49]  System: Who will you use the bandages on?
+[02/01/2023 07:49]  Razor: Healing Started
+[02/01/2023 07:49]  System: You begin applying the bandages.
+[02/01/2023 07:49]  Razor: Bandage: 10s
+[02/01/2023 07:49]  a cougar: a cougar
+[02/01/2023 07:49]  Razor: Bandage: 9s
+[02/01/2023 07:49]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[02/01/2023 07:49]  Razor: Bandage: 8s
+[02/01/2023 07:49]  Razor: [+Protection (600s)]
+[02/01/2023 07:49]  Razor: Bandage: 7s
+[02/01/2023 07:49]  Razor: Bandage: 6s
+[02/01/2023 07:49]  Razor: Bandage: 5s
+[02/01/2023 07:49]  Razor: Bandage: 4s
+[02/01/2023 07:49]  Razor: Bandage: 3s
+[02/01/2023 07:49]  Razor: Bandage: 2s
+[02/01/2023 07:49]  Razor: Bandage: 1s
+[02/01/2023 07:49]  Stink Fist: Flam Sanct [Reactive Armor]
+[02/01/2023 07:49]  System: You finish applying the bandages.
+[02/01/2023 07:49]  Stink Fist: +8
+[02/01/2023 07:49]  Razor: [+Reactive Armor (0s)]
+[02/01/2023 07:49]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/01/2023 07:49]  System: Holy symbols remaining: 5/10
+[02/01/2023 07:49]  Razor: [+Paralyze (0s)]
+[02/01/2023 07:49]  Razor: [-Paralyze (s)]
+[02/01/2023 07:49]  System: You are no longer hindered.
+[02/01/2023 07:49]  System: Your campfire is now secure.
+[02/01/2023 07:49]  System: You receive a Sacred Journey damage bonus of 5.0% for the next 30 minutes.
+[02/01/2023 07:49]  a snow flurry: a snow flurry
+[02/01/2023 07:49]  System: Your strength has changed by 10.  It is now 120
+[02/01/2023 07:49]  Razor: [-Strength (s)]
+[02/01/2023 07:49]  Razor: [+Strength (216s)]
+[02/01/2023 07:49]  Razor: [-Strength (s)]
+[02/01/2023 07:49]  Razor: Str: +10 - 120
+[02/01/2023 07:49]  Razor: [+Strength (216s)]
+[02/01/2023 07:49]  System: Who will you use the bandages on?
+[02/01/2023 07:49]  Razor: Healing Started
+[02/01/2023 07:49]  System: You begin applying the bandages.
+[02/01/2023 07:49]  Razor: Bandage: 10s
+[02/01/2023 07:49]  System: Finished 2 queued actions in 0.6 seconds.
+[02/01/2023 07:49]  Razor: Bandage: 9s
+[02/01/2023 07:49]  Razor: Bandage: 8s
+[02/01/2023 07:49]  System: Your dexterity has changed by 10.  It is now 120
+[02/01/2023 07:49]  Razor: [-Agility (s)]
+[02/01/2023 07:49]  Razor: [+Agility (216s)]
+[02/01/2023 07:49]  Razor: [-Agility (s)]
+[02/01/2023 07:49]  Razor: Dex: +10 - 120
+[02/01/2023 07:49]  Razor: [+Agility (216s)]
+[02/01/2023 07:49]  Razor: Bandage: 7s
+[02/01/2023 07:49]  Razor: Bandage: 6s
+[02/01/2023 07:49]  Razor: Bandage: 5s
+[02/01/2023 07:50]  Razor: Bandage: 4s
+[02/01/2023 07:50]  Razor: Bandage: 3s
+[02/01/2023 07:50]  a frostbane acolyte: a frostbane acolyte
+[02/01/2023 07:50]  Razor: Bandage: 2s
+[02/01/2023 07:50]  Razor: Bandage: 1s
+[02/01/2023 07:50]  System: You finish applying the bandages.
+[02/01/2023 07:50]  Stink Fist: +8
+[02/01/2023 07:50]  System: Your strike disarms your target!
+[02/01/2023 07:50]  a snow flurry: -80
+[02/01/2023 07:50]  Razor: Attack: a snow flurry
+[02/01/2023 07:50]  System: Holy symbols remaining: 5/10
+[02/01/2023 07:50]  a snow flurry: -76
+[02/01/2023 07:50]  Stink Fist: -6
+[02/01/2023 07:50]  System: Who will you use the bandages on?
+[02/01/2023 07:50]  Razor: Healing Started
+[02/01/2023 07:50]  System: You begin applying the bandages.
+[02/01/2023 07:50]  Razor: Bandage: 10s
+[02/01/2023 07:50]  a snow flurry: -66
+[02/01/2023 07:50]  Razor: Bandage: 9s
+[02/01/2023 07:50]  a snow flurry: -59
+[02/01/2023 07:50]  Razor: Bandage: 8s
+[02/01/2023 07:50]  Stink Fist: -10
+[02/01/2023 07:50]  a snow flurry: -75
+[02/01/2023 07:50]  System: You feel chilled and your metabolism slowed!
+[02/01/2023 07:50]  System: Your reactive armor spell has expired.
+[02/01/2023 07:50]  System: Your reactive armor spell has been nullified.
+[02/01/2023 07:50]  Stink Fist: -2
+[02/01/2023 07:50]  Razor: [-Reactive Armor (s)]
+[02/01/2023 07:50]  Razor: Bandage: 7s
+[02/01/2023 07:50]  a snow flurry: -22
+[02/01/2023 07:50]  Stink Fist: -2
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  Razor: Bandage: 6s
+[02/01/2023 07:50]  a snow flurry: -48
+[02/01/2023 07:50]  Razor: Bandage: 5s
+[02/01/2023 07:50]  Stink Fist: -11
+[02/01/2023 07:50]  a snow flurry: -69
+[02/01/2023 07:50]  System: You feel chilled and your metabolism slowed!
+[02/01/2023 07:50]  Stink Fist: -3
+[02/01/2023 07:50]  Razor: Bandage: 4s
+[02/01/2023 07:50]  Razor: Bandage: 3s
+[02/01/2023 07:50]  a snow flurry: -20
+[02/01/2023 07:50]  System: You parry the spell.
+[02/01/2023 07:50]  Stink Fist: -3
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  Razor: Bandage: 2s
+[02/01/2023 07:50]  Razor: Bandage: 1s
+[02/01/2023 07:50]  System: Spell siphon max bonus reached (20.0%).
+[02/01/2023 07:50]  a snow flurry: -88
+[02/01/2023 07:50]  System: You finish applying the bandages.
+[02/01/2023 07:50]  Stink Fist: +35
+[02/01/2023 07:50]  Stink Fist: -11
+[02/01/2023 07:50]  Stink Fist: -13
+[02/01/2023 07:50]  System: You feel chilled and your metabolism slowed!
+[02/01/2023 07:50]  Stink Fist: -15
+[02/01/2023 07:50]  a snow flurry: -73
+[02/01/2023 07:50]  System: You have gained some fame.
+[02/01/2023 07:50]  System: You have gained some karma.
+[02/01/2023 07:50]  Stink Fist: (Earth Aspect 933.5/3500 xp)
+[02/01/2023 07:50]  System: -324
+[02/01/2023 07:50]  You see: a snow flurry corpse
+[02/01/2023 07:50]  Stink Fist: -10
+[02/01/2023 07:50]  System: You must wait to perform another action.
+[02/01/2023 07:50]  System: Who will you use the bandages on?
+[02/01/2023 07:50]  Razor: Healing Started
+[02/01/2023 07:50]  System: You begin applying the bandages.
+[02/01/2023 07:50]  Razor: Bandage: 10s
+[02/01/2023 07:50]  Razor: Bandage: 9s
+[02/01/2023 07:50]  System: You must wait to perform another action.
+[02/01/2023 07:50]  Razor: Bandage: 8s
+[02/01/2023 07:50]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:50]  Razor: Bandage: 7s
+[02/01/2023 07:50]  Stink Fist: -12
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  System: You absorb their spell.
+[02/01/2023 07:50]  Razor: Bandage: 6s
+[02/01/2023 07:50]  Stink Fist: -3
+[02/01/2023 07:50]  Razor: Bandage: 5s
+[02/01/2023 07:50]  System: What corpse or location do you wish to carve?
+[02/01/2023 07:50]  Razor: Bandage: 4s
+[02/01/2023 07:50]  Razor: Target: Stink Fist
+[02/01/2023 07:50]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:50]  Razor: Bandage: 3s
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  System: You make a last stand.
+[02/01/2023 07:50]  Stink Fist: -1
+[02/01/2023 07:50]  Razor: Bandage: 2s
+[02/01/2023 07:50]  Razor: Bandage: 1s
+[02/01/2023 07:50]  System: You finish applying the bandages.
+[02/01/2023 07:50]  Stink Fist: +47
+[02/01/2023 07:50]  Stink Fist: -7
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  System: Who will you use the bandages on?
+[02/01/2023 07:50]  Razor: Healing Started
+[02/01/2023 07:50]  System: You begin applying the bandages.
+[02/01/2023 07:50]  Razor: Bandage: 10s
+[02/01/2023 07:50]  System: Captcha successful.
+[02/01/2023 07:50]  System: You carve materials from the corpse.
+[02/01/2023 07:50]  Razor: Bandage: 9s
+[02/01/2023 07:50]  System: You may now attempt to disarm your opponent again.
+[02/01/2023 07:50]  Razor: [DISARM]
+[02/01/2023 07:50]  System: Holy symbols remaining: 6/10
+[02/01/2023 07:50]  Razor: Bandage: 8s
+[02/01/2023 07:50]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:50]  Razor: Bandage: 7s
+[02/01/2023 07:50]  Razor: Bandage: 6s
+[02/01/2023 07:50]  Stink Fist: -6
+[02/01/2023 07:50]  Razor: Bandage: 5s
+[02/01/2023 07:50]  Stink Fist: -10
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  Razor: Bandage: 4s
+[02/01/2023 07:50]  Razor: Bandage: 3s
+[02/01/2023 07:50]  Razor: Bandage: 2s
+[02/01/2023 07:50]  Razor: Bandage: 1s
+[02/01/2023 07:50]  System: You finish applying the bandages.
+[02/01/2023 07:50]  Stink Fist: +36
+[02/01/2023 07:50]  a snow elemental: a snow elemental
+[02/01/2023 07:50]  a frostbane acolyte: a frostbane acolyte
+[02/01/2023 07:50]  a frostbane acolyte: a frostbane acolyte
+[02/01/2023 07:50]  Stink Fist: -7
+[02/01/2023 07:50]  System: Who will you use the bandages on?
+[02/01/2023 07:50]  Razor: Healing Started
+[02/01/2023 07:50]  System: You begin applying the bandages.
+[02/01/2023 07:50]  Razor: Bandage: 10s
+[02/01/2023 07:50]  Razor: Attack: a frostbane acolyte
+[02/01/2023 07:50]  System: Your strike disarms your target!
+[02/01/2023 07:50]  a frostbane acolyte: -31
+[02/01/2023 07:50]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:50]  Razor: Bandage: 9s
+[02/01/2023 07:50]  a frostbane acolyte: -28
+[02/01/2023 07:50]  Razor: Bandage: 8s
+[02/01/2023 07:50]  a frostbane acolyte: -40
+[02/01/2023 07:50]  Razor: Bandage: 7s
+[02/01/2023 07:50]  Razor: Bandage: 6s
+[02/01/2023 07:50]  a frostbane acolyte: -49
+[02/01/2023 07:50]  Stink Fist: -2
+[02/01/2023 07:50]  System: Your fingers slip!
+[02/01/2023 07:50]  System: You feel chilled and your metabolism slowed!
+[02/01/2023 07:50]  Stink Fist: -17
+[02/01/2023 07:50]  a frostbane acolyte: *raises the frozen dead*
+[02/01/2023 07:51]  Razor: Bandage: 5s
+[02/01/2023 07:51]  a frostbane acolyte: -56
+[02/01/2023 07:51]  Razor: Bandage: 4s
+[02/01/2023 07:51]  a frostbane acolyte: -56
+[02/01/2023 07:51]  a skeleton: a skeleton
+[02/01/2023 07:51]  Razor: Bandage: 3s
+[02/01/2023 07:51]  a frostbane acolyte: -98
+[02/01/2023 07:51]  System: Your fingers slip!
+[02/01/2023 07:51]  Razor: Bandage: 2s
+[02/01/2023 07:51]  a frostbane acolyte: -50
+[02/01/2023 07:51]  Razor: Bandage: 1s
+[02/01/2023 07:51]  System: You parry the spell.
+[02/01/2023 07:51]  Stink Fist: -2
+[02/01/2023 07:51]  System: You finish applying the bandages.
+[02/01/2023 07:51]  Stink Fist: +26
+[02/01/2023 07:51]  a frostbane acolyte: -38
+[02/01/2023 07:51]  System: Holy symbols remaining: 6/10
+[02/01/2023 07:51]  System: Your attack hinders your target!
+[02/01/2023 07:51]  a frostbane acolyte: -64
+[02/01/2023 07:51]  System: Your fingers slip!
+[02/01/2023 07:51]  a frostbane acolyte: -63
+[02/01/2023 07:51]  a frostbane acolyte: -53
+[02/01/2023 07:51]  Stink Fist: -7
+[02/01/2023 07:51]  System: Who will you use the bandages on?
+[02/01/2023 07:51]  Razor: Healing Started
+[02/01/2023 07:51]  System: You begin applying the bandages.
+[02/01/2023 07:51]  Razor: Bandage: 10s
+[02/01/2023 07:51]  a frostbane acolyte: -37
+[02/01/2023 07:51]  System: Kormir has completed the achievement: Order of Armorers Associate.
+[02/01/2023 07:51]  Razor: Bandage: 9s
+[02/01/2023 07:51]  a frostbane acolyte: -39
+[02/01/2023 07:51]  Stink Fist: -4
+[02/01/2023 07:51]  Razor: Bandage: 8s
+[02/01/2023 07:51]  a frostbane acolyte: -38
+[02/01/2023 07:51]  Razor: Bandage: 7s
+[02/01/2023 07:51]  Stink Fist: -8
+[02/01/2023 07:51]  a frostbane acolyte: -36
+[02/01/2023 07:51]  Razor: Bandage: 6s
+[02/01/2023 07:51]  a frostbane acolyte: -128
+[02/01/2023 07:51]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[02/01/2023 07:51]  Razor: Bandage: 5s
+[02/01/2023 07:51]  a frostbane acolyte: -168
+[02/01/2023 07:51]  Razor: Bandage: 4s
+[02/01/2023 07:51]  Stink Fist: -11
+[02/01/2023 07:51]  System: Your fingers slip!
+[02/01/2023 07:51]  a frostbane acolyte: -61
+[02/01/2023 07:51]  System: You deliver a zen strike to your opponent.
+[02/01/2023 07:51]  Stink Fist: +25
+[02/01/2023 07:51]  System: some damage has been healed : 25
+[02/01/2023 07:51]  a frostbane acolyte: -156
+[02/01/2023 07:51]  Razor: Bandage: 3s
+[02/01/2023 07:51]  Stink Fist: -13
+[02/01/2023 07:51]  a frostbane acolyte: -26
+[02/01/2023 07:51]  Razor: Bandage: 2s
+[02/01/2023 07:51]  Stink Fist: -6
+[02/01/2023 07:51]  Razor: Bandage: 1s
+[02/01/2023 07:51]  a frostbane acolyte: -97
+[02/01/2023 07:51]  Stink Fist: -3
+[02/01/2023 07:51]  System: You finish applying the bandages.
+[02/01/2023 07:51]  Stink Fist: +25
+[02/01/2023 07:51]  System: Your fingers slip! [2]
+[02/01/2023 07:51]  System: Your attack cripples your target, lowering their defense!
+[02/01/2023 07:51]  System: You have gained some fame.
+[02/01/2023 07:51]  System: You have gained some karma.
+[02/01/2023 07:51]  Stink Fist: (Earth Aspect 938.5/3500 xp)
+[02/01/2023 07:51]  System: -88
+[02/01/2023 07:51]  You see: a frostbane acolyte corpse
+[02/01/2023 07:51]  Razor: Attack: a snow elemental
+[02/01/2023 07:51]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[02/01/2023 07:51]  a snow elemental: -45
+[02/01/2023 07:51]  Stink Fist: -5
+[02/01/2023 07:51]  System: Who will you use the bandages on?
+[02/01/2023 07:51]  Razor: Healing Started
+[02/01/2023 07:51]  System: You begin applying the bandages.
+[02/01/2023 07:51]  Razor: Bandage: 10s
+[02/01/2023 07:51]  Stink Fist: -10
+[02/01/2023 07:51]  a snow elemental: -131
+[02/01/2023 07:51]  System: You feel chilled and your metabolism slowed!
+[02/01/2023 07:51]  Stink Fist: -3
+[02/01/2023 07:51]  Stink Fist: -3
+[02/01/2023 07:51]  System: Your fingers slip! [3]
+[02/01/2023 07:51]  Razor: Bandage: 9s
+[02/01/2023 07:51]  a snow elemental: -47
+[02/01/2023 07:51]  Razor: Bandage: 8s
+[02/01/2023 07:51]  a snow elemental: -47
+[02/01/2023 07:51]  Stink Fist: -8
+[02/01/2023 07:51]  a frostbane acolyte: a frostbane acolyte
+[02/01/2023 07:51]  System: You may now attempt to disarm your opponent again.
+[02/01/2023 07:51]  Razor: [DISARM]
+[02/01/2023 07:51]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:51]  Razor: Bandage: 7s
+[02/01/2023 07:51]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:51]  Stink Fist: -2
+[02/01/2023 07:51]  System: Your strike disarms your target!
+[02/01/2023 07:51]  a snow elemental: -30
+[02/01/2023 07:51]  System: Your fingers slip! [2]
+[02/01/2023 07:51]  Razor: Bandage: 6s
+[02/01/2023 07:51]  System: Your attack cripples your target, lowering their defense!
+[02/01/2023 07:51]  System: Your attack crushes their armor!
+[02/01/2023 07:51]  a snow elemental: -122
+[02/01/2023 07:51]  Razor: Bandage: 5s
+[02/01/2023 07:51]  a snow elemental: -205
+[02/01/2023 07:51]  Razor: Bandage: 4s
+[02/01/2023 07:51]  Stink Fist: -2
+[02/01/2023 07:51]  Razor: Bandage: 3s
+[02/01/2023 07:51]  a snow elemental: -86
+[02/01/2023 07:51]  Razor: Bandage: 2s
+[02/01/2023 07:51]  a snow elemental: -105
+[02/01/2023 07:51]  Stink Fist: -1
+[02/01/2023 07:51]  System: Your fingers slip!
+[02/01/2023 07:51]  Razor: Bandage: 1s
+[02/01/2023 07:51]  a snow elemental: -81
+[02/01/2023 07:51]  System: You finish applying the bandages.
+[02/01/2023 07:51]  Stink Fist: +32
+[02/01/2023 07:51]  a snow elemental: -76
+[02/01/2023 07:51]  System: Your attack cripples your target, lowering their defense!
+[02/01/2023 07:51]  a snow elemental: -248
+[02/01/2023 07:51]  Stink Fist: -2
+[02/01/2023 07:51]  System: Who will you use the bandages on?
+[02/01/2023 07:51]  Razor: Healing Started
+[02/01/2023 07:51]  System: You begin applying the bandages.
+[02/01/2023 07:51]  Razor: Bandage: 10s
+[02/01/2023 07:51]  System: You have gained some fame.
+[02/01/2023 07:51]  System: You have gained some karma.
+[02/01/2023 07:51]  Stink Fist: (Earth Aspect 940.9/3500 xp)
+[02/01/2023 07:51]  System: -27
+[02/01/2023 07:51]  System: Holy symbols remaining: 6/10
+[02/01/2023 07:51]  You see: a snow elemental corpse
+[02/01/2023 07:51]  Razor: Bandage: 9s
+[02/01/2023 07:51]  Razor: Bandage: 8s
+[02/01/2023 07:51]  Razor: Bandage: 7s
+[02/01/2023 07:51]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:51]  Razor: Bandage: 6s
+[02/01/2023 07:51]  Razor: Bandage: 5s
+[02/01/2023 07:51]  System: What corpse or location do you wish to carve?
+[02/01/2023 07:51]  Razor: Bandage: 4s
+[02/01/2023 07:51]  System: You carve materials from the corpse.
+[02/01/2023 07:51]  Razor: Bandage: 3s
+[02/01/2023 07:51]  Razor: Bandage: 2s
+[02/01/2023 07:51]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:51]  Razor: Bandage: 1s
+[02/01/2023 07:51]  System: You heal what little damage you had.
+[02/01/2023 07:51]  System: You carve materials from the corpse.
+[02/01/2023 07:51]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:51]  Stink Fist: -6
+[02/01/2023 07:51]  System: Who will you use the bandages on?
+[02/01/2023 07:51]  Razor: Healing Started
+[02/01/2023 07:51]  System: You begin applying the bandages.
+[02/01/2023 07:51]  Razor: Bandage: 10s
+[02/01/2023 07:51]  Razor: Bandage: 9s
+[02/01/2023 07:51]  Razor: Bandage: 8s
+[02/01/2023 07:51]  Razor: Attack: a skeleton
+[02/01/2023 07:51]  a skeleton: -63
+[02/01/2023 07:51]  Razor: Bandage: 7s
+[02/01/2023 07:51]  a skeleton: -76
+[02/01/2023 07:51]  System: You may now use a strength potion.
+[02/01/2023 07:51]  Razor: Bandage: 6s
+[02/01/2023 07:51]  a skeleton: -38
+[02/01/2023 07:51]  Razor: Bandage: 5s
+[02/01/2023 07:51]  a skeleton: -55
+[02/01/2023 07:51]  Razor: Bandage: 4s
+[02/01/2023 07:51]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:51]  Razor: Bandage: 3s
+[02/01/2023 07:51]  a skeleton: -110
+[02/01/2023 07:51]  System: You may now use an agility potion.
+[02/01/2023 07:51]  System: You may now attempt to disarm your opponent again.
+[02/01/2023 07:51]  Razor: [DISARM]
+[02/01/2023 07:51]  Razor: Bandage: 2s
+[02/01/2023 07:51]  System: Your strike disarms your target!
+[02/01/2023 07:51]  a skeleton: -44
+[02/01/2023 07:51]  Razor: Bandage: 1s
+[02/01/2023 07:51]  System: You have gained a little fame.
+[02/01/2023 07:51]  System: You have gained a little karma.
+[02/01/2023 07:51]  Stink Fist: (Earth Aspect 941.5/3500 xp)
+[02/01/2023 07:51]  System: -14
+[02/01/2023 07:51]  You see: a skeletal corpse
+[02/01/2023 07:51]  System: You finish applying the bandages.
+[02/01/2023 07:51]  Stink Fist: +4
+[02/01/2023 07:52]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:52]  System: What corpse or location do you wish to carve?
+[02/01/2023 07:52]  System: You carve materials from the corpse.
+[02/01/2023 07:52]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:52]  System: Holy symbols remaining: 6/10
+[02/01/2023 07:52]  a frostbane acolyte: a frostbane acolyte
+[02/01/2023 07:52]  a frostbane acolyte: a frostbane acolyte
+[02/01/2023 07:52]  You see: a snow flurry corpse
+[02/01/2023 07:52]  a snowdrift: a snowdrift
+[02/01/2023 07:52]  a snow elemental: a snow elemental
+[02/01/2023 07:52]  a snowdrift: a snowdrift
+[02/01/2023 07:52]  Razor: Attack: a frostbane acolyte
+[02/01/2023 07:52]  Razor: Attack: a frostbane acolyte
+[02/01/2023 07:52]  System: Being perfectly rested, you shove them out of the way.
+[02/01/2023 07:52]  an ice elemental: an ice elemental
+[02/01/2023 07:52]  System: You parry the spell.
+[02/01/2023 07:52]  Stink Fist: -3
+[02/01/2023 07:52]  System: Who will you use the bandages on?
+[02/01/2023 07:52]  Razor: Healing Started
+[02/01/2023 07:52]  System: You begin applying the bandages.
+[02/01/2023 07:52]  Razor: Bandage: 10s
+[02/01/2023 07:52]  Razor: Bandage: 9s
+[02/01/2023 07:52]  a frostbane acolyte: -209
+[02/01/2023 07:52]  a frostbane acolyte: *raises the frozen dead*
+[02/01/2023 07:52]  Razor: Bandage: 8s
+[02/01/2023 07:52]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:52]  Razor: Bandage: 7s
+[02/01/2023 07:52]  System: You parry the spell.
+[02/01/2023 07:52]  Stink Fist: -3
+[02/01/2023 07:52]  System: Your fingers slip!
+[02/01/2023 07:52]  a frostbane acolyte: -35
+[02/01/2023 07:52]  Razor: Bandage: 6s
+[02/01/2023 07:52]  a zombie: a zombie
+[02/01/2023 07:52]  Razor: Bandage: 5s
+[02/01/2023 07:52]  System: You may now attempt to disarm your opponent again.
+[02/01/2023 07:52]  Razor: [DISARM]
+[02/01/2023 07:52]  System: Your strike disarms your target!
+[02/01/2023 07:52]  System: Your attack crushes their armor!
+[02/01/2023 07:52]  a frostbane acolyte: -122
+[02/01/2023 07:52]  Razor: Bandage: 4s
+[02/01/2023 07:52]  a frostbane acolyte: -101
+[02/01/2023 07:52]  System: You absorb their spell.
+[02/01/2023 07:52]  Razor: Bandage: 3s
+[02/01/2023 07:52]  Stink Fist: -2
+[02/01/2023 07:52]  System: Your fingers slip!
+[02/01/2023 07:52]  a frostbane acolyte: -275
+[02/01/2023 07:52]  Razor: Bandage: 2s
+[02/01/2023 07:52]  a frostbane acolyte: -62
+[02/01/2023 07:52]  Razor: Bandage: 1s
+[02/01/2023 07:52]  System: You finish applying the bandages.
+[02/01/2023 07:52]  Stink Fist: +6
+[02/01/2023 07:52]  a frostbane acolyte: -96
+[02/01/2023 07:52]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[02/01/2023 07:52]  System: You parry the spell.
+[02/01/2023 07:52]  Stink Fist: -2
+[02/01/2023 07:52]  a frostbane acolyte: -52
+[02/01/2023 07:52]  System: Who will you use the bandages on?
+[02/01/2023 07:52]  Razor: Healing Started
+[02/01/2023 07:52]  System: You begin applying the bandages.
+[02/01/2023 07:52]  Razor: Bandage: 10s
+[02/01/2023 07:52]  a frostbane acolyte: -34
+[02/01/2023 07:52]  a frostbane acolyte: -24
+[02/01/2023 07:52]  System: Holy symbols remaining: 6/10
+[02/01/2023 07:52]  Razor: Bandage: 9s
+[02/01/2023 07:52]  Stink Fist: -6
+[02/01/2023 07:52]  a frostbane acolyte: -68
+[02/01/2023 07:52]  Razor: Bandage: 8s
+[02/01/2023 07:52]  a frostbane acolyte: -12
+[02/01/2023 07:52]  a frostbane acolyte: -96
+[02/01/2023 07:52]  Razor: Bandage: 7s
+[02/01/2023 07:52]  a snow elemental: a snow elemental
+[02/01/2023 07:52]  a frostbane acolyte: -48
+[02/01/2023 07:52]  a frostbane acolyte: -19
+[02/01/2023 07:52]  Razor: Bandage: 6s
+[02/01/2023 07:52]  System: Your attack causes your target to bleed and become susceptible to special attacks!
+[02/01/2023 07:52]  Razor: Bandage: 5s
+[02/01/2023 07:52]  a frostbane acolyte: -48
+[02/01/2023 07:52]  a frostbane acolyte: -10
+[02/01/2023 07:52]  Stink Fist: -5
+[02/01/2023 07:52]  System: Your fingers slip!
+[02/01/2023 07:52]  Razor: Bandage: 4s
+[02/01/2023 07:52]  System: Your attack hinders your target!
+[02/01/2023 07:52]  a frostbane acolyte: -43
+[02/01/2023 07:52]  a frostbane acolyte: -19
+[02/01/2023 07:52]  Razor: Bandage: 3s
+[02/01/2023 07:52]  a frostbane acolyte: -64
+[02/01/2023 07:52]  Razor: Bandage: 2s
+[02/01/2023 07:52]  a frostbane acolyte: -10
+[02/01/2023 07:52]  Stink Fist: -12
+[02/01/2023 07:52]  System: You have gained some fame.
+[02/01/2023 07:52]  System: You have gained some karma.
+[02/01/2023 07:52]  Stink Fist: (Earth Aspect 946.5/3500 xp)
+[02/01/2023 07:52]  System: -53
+[02/01/2023 07:52]  You see: a frostbane acolyte corpse
+[02/01/2023 07:52]  Razor: Bandage: 1s
+[02/01/2023 07:52]  System: Your fingers slip!
+[02/01/2023 07:52]  System: You finish applying the bandages.
+[02/01/2023 07:52]  Stink Fist: +23
+[02/01/2023 07:52]  Stink Fist: -8
+[02/01/2023 07:52]  System: Who will you use the bandages on?
+[02/01/2023 07:52]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:52]  Razor: Healing Started
+[02/01/2023 07:52]  System: You must wait to perform another action.
+[02/01/2023 07:52]  System: You begin applying the bandages.
+[02/01/2023 07:52]  Razor: Bandage: 10s
+[02/01/2023 07:52]  Razor: Bandage: 9s
+[02/01/2023 07:52]  System: What corpse or location do you wish to carve?
+[02/01/2023 07:52]  Razor: Bandage: 8s
+[02/01/2023 07:52]  System: You carve materials from the corpse.
+[02/01/2023 07:52]  Stink Fist: -8
+[02/01/2023 07:52]  System: Your fingers slip!
+[02/01/2023 07:52]  Razor: Bandage: 7s
+[02/01/2023 07:52]  Razor: Bandage: 6s
+[02/01/2023 07:52]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:52]  Razor: Bandage: 5s
+[02/01/2023 07:52]  Razor: Bandage: 4s
+[02/01/2023 07:52]  Razor: Attack: a zombie
+[02/01/2023 07:52]  Razor: Bandage: 3s
+[02/01/2023 07:52]  a zombie: -50
+[02/01/2023 07:52]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:52]  Razor: Bandage: 2s
+[02/01/2023 07:52]  a zombie: -80
+[02/01/2023 07:52]  Razor: Bandage: 1s
+[02/01/2023 07:52]  a zombie: -59
+[02/01/2023 07:52]  Stink Fist: -2
+[02/01/2023 07:52]  System: You finish applying the bandages.
+[02/01/2023 07:52]  Stink Fist: +16
+[02/01/2023 07:52]  System: Holy symbols remaining: 9/10
+[02/01/2023 07:52]  System: Your strike disarms your target!
+[02/01/2023 07:52]  System: You smash through the remainder of their armor, dealing grevious damage!
+[02/01/2023 07:52]  a zombie: -101
+[02/01/2023 07:52]  System: You may now attempt to disarm your opponent again.
+[02/01/2023 07:52]  Razor: [DISARM]
+[02/01/2023 07:53]  a zombie: -81
+[02/01/2023 07:53]  System: You evade an attack (Dispel Evil).
+[02/01/2023 07:53]  Stink Fist: -1
+[02/01/2023 07:53]  a zombie: -68
+[02/01/2023 07:53]  System: Who will you use the bandages on?
+[02/01/2023 07:53]  Razor: Healing Started
+[02/01/2023 07:53]  System: You begin applying the bandages.
+[02/01/2023 07:53]  Razor: Bandage: 10s
+[02/01/2023 07:53]  a zombie: -58
+[02/01/2023 07:53]  Razor: Bandage: 9s
+[02/01/2023 07:53]  System: Your attack hinders your target!
+[02/01/2023 07:53]  System: You have gained a little fame.
+[02/01/2023 07:53]  System: You have gained a little karma.
+[02/01/2023 07:53]  Stink Fist: (Earth Aspect 946.9/3500 xp)
+[02/01/2023 07:53]  System: -103
+[02/01/2023 07:53]  You see: a rotting corpse
+[02/01/2023 07:53]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:53]  Razor: Bandage: 8s
+[02/01/2023 07:53]  Razor: Bandage: 7s
+[02/01/2023 07:53]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:53]  System: Holy symbols remaining: 6/10
+[02/01/2023 07:53]  Razor: Bandage: 6s
+[02/01/2023 07:53]  Razor: Bandage: 5s
+[02/01/2023 07:53]  System: What corpse or location do you wish to carve?
+[02/01/2023 07:53]  Razor: Bandage: 4s
+[02/01/2023 07:53]  System: You carve materials from the corpse.
+[02/01/2023 07:53]  Razor: Bandage: 3s
+[02/01/2023 07:53]  Razor: Bandage: 2s
+[02/01/2023 07:53]  System: [GridLoot]: Corpse is empty!
+[02/01/2023 07:53]  Razor: Bandage: 1s
+[02/01/2023 07:53]  System: You heal what little damage you had.
+[02/01/2023 07:53]  System: Playing Macro 'Escape'...
+[02/01/2023 07:53]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/01/2023 07:53]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:53]  System: a minax peon has completed the achievement: Metalsmith (Basic).
+[02/01/2023 07:53]  System: Your sacred journey bonus has ended (expires with Recall/Gate/Hiking).
+[02/01/2023 07:53]  System: You are now under the protection of the town guards.
+[02/01/2023 07:53]  an andarian mage: an andarian mage
+[02/01/2023 07:53]  Candida: Candida the cobbler
+[02/01/2023 07:53]  Leiko: Leiko the tinker
+[02/01/2023 07:53]  a pack llama: (tame)
+[02/01/2023 07:53]  a pack llama: [125/2000 stones]
+[02/01/2023 07:53]  a pack llama: a pack llama
+[02/01/2023 07:53]  KokodeKisuShite: Legendary Animal Bond
+[02/01/2023 07:53]  KokodeKisuShite: KokodeKisuShite
+[02/01/2023 07:53]  System: No item of type halberd (143E) found!
+[02/01/2023 07:53]  System: Macro 'Escape' finished.
+[02/01/2023 07:53]  Stoyan: Stoyan the tinker
+[02/01/2023 07:53]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:53]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/01/2023 07:53]  System: Your strength has changed by -20.  It is now 100
+[02/01/2023 07:53]  Razor: [-Strength (s)]
+[02/01/2023 07:53]  Razor: Str: -20 - 100
+[02/01/2023 07:53]  System: You may now attempt to disarm your opponent again.
+[02/01/2023 07:53]  Razor: [DISARM]
+[02/01/2023 07:53]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/01/2023 07:53]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:53]  System: Your dexterity has changed by -20.  It is now 100
+[02/01/2023 07:53]  Razor: [-Agility (s)]
+[02/01/2023 07:53]  Razor: Dex: -20 - 100
+[02/01/2023 07:53]  System: You have left the protection of the town guards.
+[02/01/2023 07:53]  Rane: Rane the dockmaster
+[02/01/2023 07:53]  a cougar: a cougar
+[02/01/2023 07:53]  System: Opening door...
+[02/01/2023 07:53]  System: Your house and its contents have been refreshed. 25 days 57 minutes remaining until owner refresh required.
+[02/01/2023 07:53]  a cougar: a cougar
+[02/01/2023 07:53]  Razor:  Scanning for rat 
+[02/01/2023 07:53]  System: Where will you search?
+[02/01/2023 07:53]  System: You search the home and find no one hiding within.
+[02/01/2023 07:53]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[02/01/2023 07:53]  Rane: Rane the dockmaster
+[02/01/2023 07:54]  System: Organize Agent queued 3 item(s) to be moved. (This may take a few moments)
+[02/01/2023 07:54]  System: You must wait another moment before you may pick up an item from here.
+[02/01/2023 07:54]  System: Finished 3 queued actions in 1.3 seconds.
+[02/01/2023 07:54]  System: Organize Agent queued 1 item(s) to be moved. (This may take a few moments)
+[02/01/2023 07:54]  You see: remove trap scroll
+[02/01/2023 07:54]  You see: poison scroll : 2
+[02/01/2023 07:54]  System: Your campfire is now secure.
+[02/01/2023 07:54]  System: Warning: ribs amount is now 0!
+[02/01/2023 07:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[02/01/2023 07:55]  You see: winter cracker
+[02/01/2023 07:55]  You see: [blessed]
+[02/01/2023 07:55]  You see: (hue 1465: dark blood)
+[02/01/2023 07:55]  You see: [double-click to open and receive prize]
+[02/01/2023 07:55]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:56]  System: You are now under the protection of the town guards.
+[02/01/2023 07:56]  Alula: Alula the Necromancer
+[02/01/2023 07:56]  a book wyrm: a book wyrm
+[02/01/2023 07:56]  Cheap Ocean Good: Cheap Ocean Good
+[02/01/2023 07:56]  Sivan: Sivan the stablemaster
+[02/01/2023 07:56]  Sukatai: Sukatai the animal wrangler
+[02/01/2023 07:56]  Hydes: Hydes
+[02/01/2023 07:56]  Vorishka: Vorishka
+[02/01/2023 07:56]  a pack horse: (tame)
+[02/01/2023 07:56]  a pack horse: [0/2000 stones]
+[02/01/2023 07:56]  a pack horse: a pack horse
+[02/01/2023 07:56]  RagnarxLothbrok: [Veteran, NWO]
+[02/01/2023 07:56]  RagnarxLothbrok: RagnarxLothbrok
+[02/01/2023 07:56]  Valkhalla Khal: Valkhalla Khal
+[02/01/2023 07:56]  a dog: a dog
+[02/01/2023 07:56]  Duncan: Duncan the mage
+[02/01/2023 07:56]  Ingmar: Ingmar the banker
+[02/01/2023 07:56]  a prevalian marksman: a prevalian marksman
+[02/01/2023 07:56]  a dog: a dog
+[02/01/2023 07:56]  Calendonia: Calendonia the banker
+[02/01/2023 07:56]  Prox Noxious: Prox Noxious
+[02/01/2023 07:56]  Final Fantasy XX: Final Fantasy XX
+[02/01/2023 07:56]  Raynor: Raynor the herbalist
+[02/01/2023 07:56]  Fantasy IV: Fantasy IV
+[02/01/2023 07:56]  Liadan: Liadan the scribe
+[02/01/2023 07:56]  Garrett: Garrett the mage
+[02/01/2023 07:56]  Kothar-we-Khasis: Kothar-we-Khasis
+[02/01/2023 07:56]  Turmoner: Turmoner
+[02/01/2023 07:56]  AyyBra: AyyBra
+[02/01/2023 07:56]  Barry Mcokner: Barry Mcokner
+[02/01/2023 07:56]  A Sasquatch: A Sasquatch
+[02/01/2023 07:56]  Wooden: Wooden
+[02/01/2023 07:56]  Tamma: Tamma the banker
+[02/01/2023 07:56]  a corpse eater: (bonded)
+[02/01/2023 07:56]  a corpse eater: a corpse eater
+[02/01/2023 07:56]  an adder: (bonded)
+[02/01/2023 07:56]  an adder: an adder
+[02/01/2023 07:56]  a corpse eater: (bonded)
+[02/01/2023 07:56]  a corpse eater: a corpse eater
+[02/01/2023 07:56]  a corpse eater: (bonded)
+[02/01/2023 07:56]  a corpse eater: a corpse eater
+[02/01/2023 07:56]  Kevlar North: [Einherjar, O_R]
+[02/01/2023 07:56]  Kevlar North: Kevlar North
+[02/01/2023 07:56]  a dog: a dog
+[02/01/2023 07:56]  a cat: a cat
+[02/01/2023 07:56]  Alexandrina: Alexandrina
+[02/01/2023 07:56]  Bill Sikes: [Rookie, NKB]
+[02/01/2023 07:56]  Bill Sikes: Bill Sikes
+[02/01/2023 07:56]  AMYR: [Gatekeeper, Amyr]
+[02/01/2023 07:56]  AMYR: AMYR
+[02/01/2023 07:56]  Brugger: Brugger
+[02/01/2023 07:56]  FRND VENDOR MALL: [Friends, FRND]
+[02/01/2023 07:56]  FRND VENDOR MALL: FRND VENDOR MALL
+[02/01/2023 07:56]  Edwin: Edwin the scribe
+[02/01/2023 07:56]  Xicohtencatl: Seasoned Veteran
+[02/01/2023 07:56]  Xicohtencatl: [F4CK TRAMMIES, DPS]
+[02/01/2023 07:56]  Xicohtencatl: Xicohtencatl
+[02/01/2023 07:56]  four: (bonded)
+[02/01/2023 07:56]  four: four
+[02/01/2023 07:56]  Azina: Azina the alchemist
+[02/01/2023 07:56]  Turmoner: Kal Vas Xen An Flam [Water Elemental]
+[02/01/2023 07:56]  FRND VENDOR MALL: WE HAVE OVER 58+ VENDORS!
+[02/01/2023 07:56]  Pushkin: Pushkin
+[02/01/2023 07:56]  a pack horse: (tame)
+[02/01/2023 07:56]  a pack horse: [400/2000 stones]
+[02/01/2023 07:56]  a pack horse: a pack horse
+[02/01/2023 07:56]  a pack horse: (tame)
+[02/01/2023 07:56]  a pack horse: [0/2000 stones]
+[02/01/2023 07:56]  a pack horse: a pack horse
+[02/01/2023 07:56]  FRND VENDOR MALL: SECURE YOUR VENDOR TODAY!
+[02/01/2023 07:56]  Kremel: Kremel
+[02/01/2023 07:56]  Alodie: Alodie the banker
+[02/01/2023 07:56]  Wurka: Wurka
+[02/01/2023 07:56]  Astera: Astera the miner
+[02/01/2023 07:56]  Teddie Ruxpin: Teddie Ruxpin
+[02/01/2023 07:56]  Duane: Duane the blacksmith
+[02/01/2023 07:56]  Getorix: Monstrous Slayer
+[02/01/2023 07:56]  Getorix: [Guts n Glory, GnG]
+[02/01/2023 07:56]  Getorix: Lord Getorix
+[02/01/2023 07:56]  Valdors: Valdors
+[02/01/2023 07:56]  Megas: Megas
+[02/01/2023 07:56]  TheHidden: TheHidden
+[02/01/2023 07:56]  Coach Yard: Coach Yard
+[02/01/2023 07:56]  AMYR: Gating to South Side Treasury! The newest shop in South Prev! Spots are full and vendors stocked!
+[02/01/2023 07:56]  Zantil Iceblood: Zantil Iceblood
+[02/01/2023 07:56]  a horse: (bonded)
+[02/01/2023 07:56]  a horse: a horse
+[02/01/2023 07:56]  Jalabasterr: Jalabasterr
+[02/01/2023 07:56]  Cloak n Dagger: [Shop Gate, TRT]
+[02/01/2023 07:56]  Cloak n Dagger: Cloak n Dagger
+[02/01/2023 07:56]  Bill Sikes: [Rookie, NKB]
+[02/01/2023 07:56]  Bill Sikes: Bill Sikes
+[02/01/2023 07:56]  Venenin: Enlistee [Cambria]
+[02/01/2023 07:56]  Venenin: [1st Sargento, BRA]
+[02/01/2023 07:56]  Venenin: Lord Venenin
+[02/01/2023 07:56]  Zantil Iceblood: Zantil Iceblood
+[02/01/2023 07:56]  Werner Hesenberg: Werner Hesenberg
+[02/01/2023 07:56]  Standford: Standford the provisioner
+[02/01/2023 07:56]  Kurt: Kurt the real estate broker
+[02/01/2023 07:56]  Cerulean Pluot: Cerulean Pluot
+[02/01/2023 07:56]  Aponi: Aponi the cobbler
+[02/01/2023 07:56]  Givon: Givon the tailor
+[02/01/2023 07:56]  Archnight: Archnight
+[02/01/2023 07:56]  Nyssa: Nyssa the tanner
+[02/01/2023 07:56]  a horse: (tame)
+[02/01/2023 07:56]  a horse: a horse
+[02/01/2023 07:56]  Nevada: Nevada the architect
+[02/01/2023 07:56]  Qamra: Qamra the blacksmith
+[02/01/2023 07:56]  Natasha: Natasha the tinker
+[02/01/2023 07:56]  Astrid: Astrid the tailor
+[02/01/2023 07:56]  Errol: Errol the provisioner
+[02/01/2023 07:56]  Thaddeus: Thaddeus the Necromancer
+[02/01/2023 07:56]  a prevalian marksman: a prevalian marksman
+[02/01/2023 07:56]  Lighthouse: [Rookie, NKB]
+[02/01/2023 07:56]  Lighthouse: Lighthouse
+[02/01/2023 07:56]  Martha: Martha the cook
+[02/01/2023 07:56]  Margaret: Margaret the baker
+[02/01/2023 07:56]  Aponi: Aponi the cobbler
+[02/01/2023 07:56]  Givon: Givon the tailor
+[02/01/2023 07:56]  Kurt: Kurt the real estate broker
+[02/01/2023 07:56]  AhMing: Legendary Weaponmaster
+[02/01/2023 07:56]  AhMing: [The Tavern], [tT]
+[02/01/2023 07:56]  AhMing: AhMing
+[02/01/2023 07:56]  Tawnie: Tawnie the bowyer
+[02/01/2023 07:56]  Louis: Louis the carpenter
+[02/01/2023 07:56]  a prevalian knight: a prevalian knight
+[02/01/2023 07:56]  Thane: Thane the jeweler
+[02/01/2023 07:56]  Craftan Koel: Craftan Koel
+[02/01/2023 07:56]  Chancellor Xibald: Chancellor Xibald  
+[02/01/2023 07:56]  Lord Woofington III: Lord Woofington III
+[02/01/2023 07:56]  Tawnie: Tawnie the bowyer
+[02/01/2023 07:56]  Kaikara: Kaikara the jeweler
+[02/01/2023 07:56]  a prevalian knight: a prevalian knight
+[02/01/2023 07:56]  a prevalian knight: a prevalian knight
+[02/01/2023 07:56]  a prevalian marksman: a prevalian marksman
+[02/01/2023 07:56]  MiniGoldan: (bonded)
+[02/01/2023 07:56]  MiniGoldan: MiniGoldan
+[02/01/2023 07:56]  Goldan: (bonded)
+[02/01/2023 07:56]  Goldan: Goldan
+[02/01/2023 07:57]  Craftan Koel: Craftan Koel
+[02/01/2023 07:57]  System: Holy symbols remaining: 5/10
+[02/01/2023 07:57]  Razor: [+Paralyze (0s)]
+[02/01/2023 07:57]  System: You are no longer hindered.
+[02/01/2023 07:57]  Razor: [-Paralyze (s)]
+[02/01/2023 07:57]  Tawnie: Tawnie the bowyer
+[02/01/2023 07:57]  System: Max holy symbols earned (10/10)
+[02/01/2023 07:57]  Tawnie: Tawnie the bowyer
+[02/01/2023 07:57]  Moolly: Cavernam Legend
+[02/01/2023 07:57]  Moolly: [Syn]
+[02/01/2023 07:57]  Moolly: Lady Moolly
+[02/01/2023 07:57]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:57]  an andarian mage: an andarian mage
+[02/01/2023 07:57]  Candida: Candida the cobbler
+[02/01/2023 07:57]  Stoyan: Stoyan the tinker
+[02/01/2023 07:57]  Leiko: Leiko the tinker
+[02/01/2023 07:57]  a pack llama: (tame)
+[02/01/2023 07:57]  a pack llama: [125/2000 stones]
+[02/01/2023 07:57]  a pack llama: a pack llama
+[02/01/2023 07:57]  KokodeKisuShite: Legendary Animal Bond
+[02/01/2023 07:57]  KokodeKisuShite: KokodeKisuShite
+[02/01/2023 07:57]  Bart: Bart the Town Crier
+[02/01/2023 07:57]  Darkeye: Darkeye
+[02/01/2023 07:57]  Killian: Killian the jeweler
+[02/01/2023 07:57]  Valorite Miner: Valorite Miner
+[02/01/2023 07:57]  Piano Man: Piano Man
+[02/01/2023 07:57]  an andarian mage: an andarian mage
+[02/01/2023 07:57]  System: Opening door...
+[02/01/2023 07:57]  Merkator: Legendary Treasure Hunter
+[02/01/2023 07:57]  Merkator: [Private, RED]
+[02/01/2023 07:57]  Merkator: Merkator
+[02/01/2023 07:57]  Piano Man: Piano Man
+[02/01/2023 07:57]  a pack llama: (tame)
+[02/01/2023 07:57]  a pack llama: [125/2000 stones]
+[02/01/2023 07:57]  a pack llama: a pack llama
+[02/01/2023 07:57]  KokodeKisuShite: Legendary Animal Bond
+[02/01/2023 07:57]  KokodeKisuShite: KokodeKisuShite
+[02/01/2023 07:58]  Piano Man: Piano Man
+[02/01/2023 07:58]  Valorite Miner: Valorite Miner
+[02/01/2023 07:58]  an andarian mage: an andarian mage
+[02/01/2023 07:58]  Darkeye: Darkeye
+[02/01/2023 07:58]  I am Your Mamma: I am Your Mamma
+[02/01/2023 07:58]  System: Opening door...
+[02/01/2023 07:58]  an andarian mage: an andarian mage
+[02/01/2023 07:58]  Stoyan: Stoyan the tinker
+[02/01/2023 07:58]  a pack llama: (tame)
+[02/01/2023 07:58]  a pack llama: [125/2000 stones]
+[02/01/2023 07:58]  a pack llama: a pack llama
+[02/01/2023 07:58]  KokodeKisuShite: Legendary Animal Bond
+[02/01/2023 07:58]  KokodeKisuShite: KokodeKisuShite
+[02/01/2023 07:58]  System: Opening door...
+[02/01/2023 07:58]  System: Sukebe na Ojisan has completed the achievement: Fortune Hunter (Basic).
+[02/01/2023 07:58]  Wretched World: Nusero Guardian
+[02/01/2023 07:58]  Wretched World: [Knight, C-C]
+[02/01/2023 07:58]  Wretched World: Wretched World
+[02/01/2023 07:58]  Killian: Killian the jeweler
+[02/01/2023 07:58]  System: No one matching that was found on your screen.
+[02/01/2023 07:58]  System: No one matching that was found on your screen.
+[02/01/2023 07:58]  System: No one matching that was found on your screen.
+[02/01/2023 07:58]  System: No one matching that was found on your screen.
+[02/01/2023 07:58]  System: No one matching that was found on your screen.
+[02/01/2023 07:58]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/01/2023 07:58]  System: Opening door...
+[02/01/2023 07:58]  Leiko: Leiko the tinker
+[02/01/2023 07:58]  a pack llama: (tame)
+[02/01/2023 07:58]  a pack llama: [125/2000 stones]
+[02/01/2023 07:58]  a pack llama: a pack llama
+[02/01/2023 07:58]  KokodeKisuShite: Legendary Animal Bond
+[02/01/2023 07:58]  KokodeKisuShite: KokodeKisuShite
+[02/01/2023 07:58]  Valorite Miner: Valorite Miner
+[02/01/2023 07:58]  an andarian mage: an andarian mage
+[02/01/2023 07:58]  Darkeye: Darkeye
+[02/01/2023 07:58]  Bart: Bart the Town Crier
+[02/01/2023 07:58]  Piano Man: Piano Man
+[02/01/2023 07:58]  I am Your Mamma: I am Your Mamma
+[02/01/2023 07:58]  Roi: Roi the banker
+[02/01/2023 07:58]  System: Opening door...
+[02/01/2023 07:58]  Collier: Collier
+[02/01/2023 07:58]  MimnerTk: MimnerTk
+[02/01/2023 07:58]  Britta: Britta the banker
+[02/01/2023 07:58]  Orlantha: Orlantha the banker
+[02/01/2023 07:58]  Ronwe: Ronwe
+[02/01/2023 07:58]  Ashal: Ashal
+[02/01/2023 07:58]  GUCCI STAR: GUCCI STAR
+[02/01/2023 07:58]  Wretched World: Nusero Guardian
+[02/01/2023 07:58]  Wretched World: [Knight, C-C]
+[02/01/2023 07:58]  Wretched World: Wretched World
+[02/01/2023 07:58]  Apwel: [Recruit, Wiz]
+[02/01/2023 07:58]  Apwel: Apwel
+[02/01/2023 07:58]  System: Playing Macro 'bank'...
+[02/01/2023 07:58]  System: Macro 'bank' finished.
+[02/01/2023 07:58]  Stink Fist: Bank Guards Vendor I ban thee
+[02/01/2023 07:58]  Stink Fist: Items: 14/125
+[02/01/2023 07:58]  Stink Fist: Total Weight: 2,742
+[02/01/2023 07:58]  Miss World: Miss World
+[02/01/2023 07:58]  a dog: a dog
+[02/01/2023 07:58]  You see: jar of spicy hots
+[02/01/2023 07:58]  You see: a slice of Owyn's birthday cake 2022
+[02/01/2023 07:58]  You see: [blessed]
+[02/01/2023 07:58]  System: The world will save in 15 seconds.
+[02/01/2023 07:59]  Darkara: [Rekrut, DoS]
+[02/01/2023 07:59]  Darkara: Darkara
+[02/01/2023 07:59]  Jarvis Knight: [Veteran, Wiz]
+[02/01/2023 07:59]  Jarvis Knight: Jarvis Knight
+[02/01/2023 07:59]  System: Your skill in Tactics has decreased by 12.0.  It is now 100.0.
+[02/01/2023 07:59]  Stink Fist: Kal Ort Por [Recall]
+[02/01/2023 07:59]  System: You have left the protection of the town guards.
+[02/01/2023 07:59]  Rane: Rane the dockmaster
+[02/01/2023 07:59]  System: Opening door...
+[02/01/2023 07:59]  System: Your house and its contents have been refreshed. 25 days 51 minutes remaining until owner refresh required.
+[02/01/2023 07:59]  System: The world is saving, please wait.
+[02/01/2023 07:59]  System: World save complete. The entire process took 6.3 seconds.
+[02/01/2023 07:59]  System: You must wait to perform another action.
+[02/01/2023 07:59]  Razor: [-Cunning (s)]
+[02/01/2023 07:59]  Razor: [-Protection (s)]
+[02/01/2023 07:59]  System: Your house and its contents have been refreshed. 25 days 51 minutes remaining until owner refresh required.
+[02/01/2023 07:59]  Rane: Rane the dockmaster
+[02/01/2023 07:59]  System: Your intelligence has changed by -10.  It is now 25
+[02/01/2023 07:59]  Razor: Int: -10 - 25
+[02/01/2023 07:59]  Razor:  Scanning for rat 
+[02/01/2023 07:59]  System: Where will you search?
+[02/01/2023 07:59]  System: You search the home and find no one hiding within.
+[02/01/2023 07:59]  System: Script Error: hotkey - Hotkey 'Next Non-Friendly Humanoid Target' not found (Line: 7)
+[02/01/2023 07:59]  System: Your skill in Tactics has increased by 12.0.  It is now 112.0.
+[02/01/2023 08:00]  System: [SR] A Stygian Rifts event has begun!
+[02/01/2023 08:00]  System: You pour some of the keg's contents into an empty bottle...
+[02/01/2023 08:00]  System: ...and place it into your backpack.
+[02/01/2023 08:00]  System: ...and place it into your backpack.
+[02/01/2023 08:01]  System: You pour some of the keg's contents into an empty bottle...
+[02/01/2023 08:01]  System: ...and place it into your backpack.
+[02/01/2023 08:01]  Rane: Rane the dockmaster
+[02/01/2023 08:01]  System: You pour some of the keg's contents into an empty bottle...
+[02/01/2023 08:02]  System: ProtoType- has completed the achievement: Monster Hunter Patrician.
+[02/01/2023 08:02]  Crowley: Legendary Alchemist
+[02/01/2023 08:02]  Crowley: [sssS, Ssss]
+[02/01/2023 08:02]  Crowley: Crowley
+[02/01/2023 08:03]  System: A r r o w has completed the achievement: Guardian of Darkmire Temple (Intermediate).
+[02/01/2023 08:04]  Rane: Rane the dockmaster
+[02/01/2023 08:04]  Rane: Rane the dockmaster
+[02/01/2023 08:04]  Razor: [Last Target]
+[02/01/2023 08:04]  Stink Fist: Stink Fist
+[02/01/2023 08:04]  Razor: [Last Target]
+[02/01/2023 08:04]  Stink Fist: Stink Fist
+[02/01/2023 08:08]  System: Virgo Shaka has completed the achievement: Guardian of Mount Petram (Basic).
+[02/01/2023 08:10]  Stink Fist: You have hidden yourself well.
+[02/01/2023 08:10]  Razor: [+Hidden/Stealthing (0s)]
+[02/01/2023 08:10]  System: BeardedManiac has completed the achievement: Skill Proficiency (Advanced).
+[02/01/2023 08:11]  System: Bestialis has registered an antiquity: Elder Dragon Figurine
+[02/01/2023 08:13]  System: MemphisWade has completed the achievement: Versatility (Basic).
+[02/01/2023 08:13]  System: The world will save in 15 seconds.
+[02/01/2023 08:14]  System: The world is saving, please wait.
+[02/01/2023 08:14]  System: World save complete. The entire process took 5.5 seconds.
+[02/01/2023 08:15]  System: A Terrible Host has completed the achievement: Connoisseur (Advanced).
+[02/01/2023 08:17]  System: Phalanx has completed the achievement: Beastial Slayer (Basic).
+[02/01/2023 08:20]  System: Simmencoe has completed the achievement: Woodworker (Basic).
+[02/01/2023 08:20]  System: Pirtik has completed the achievement: Guardian of Ossuary (Basic).
+[02/01/2023 08:22]  System: Oldhim has completed the achievement: Artificers Enclave Associate.
+[02/01/2023 08:25]  System: Stephan has completed the achievement: Savant (Basic).

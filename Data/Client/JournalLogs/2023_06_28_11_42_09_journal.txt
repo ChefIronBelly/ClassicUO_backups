@@ -1,0 +1,796 @@
+[06/28/2023 11:42]  System: WorldMap loading...
+[06/28/2023 11:42]  System: Loading WorldMap markers..
+[06/28/2023 11:42]  System: ..Banks_and_Healers.xml (20)
+[06/28/2023 11:42]  System: ..Dungeons.xml (12)
+[06/28/2023 11:42]  System: ..Dungeon_Gates.xml (349)
+[06/28/2023 11:42]  System: ..Healer_Caravans.xml (32)
+[06/28/2023 11:42]  System: ..Moongates.xml (9)
+[06/28/2023 11:42]  System: ..POI.xml (176)
+[06/28/2023 11:42]  System: ..PvP_Locations.xml (71)
+[06/28/2023 11:42]  System: ..Shrines.xml (9)
+[06/28/2023 11:42]  System: ..Subterranean.xml (6)
+[06/28/2023 11:42]  System: ..Townships.xml (9)
+[06/28/2023 11:42]  System: WorldMap markers loaded (693)
+[06/28/2023 11:42]  System: Welcome Schwanzstuker!
+[06/28/2023 11:42]  Razor: [+Food Satisfaction (2236s)]
+[06/28/2023 11:42]  Schwanzstuker: Schwanzstuker
+[06/28/2023 11:42]  a deep crawler: a deep crawler
+[06/28/2023 11:42]  a deep crawler: a deep crawler
+[06/28/2023 11:42]  You see: the remains of Schwanzstuker
+[06/28/2023 11:42]  System: WorldMap loaded!
+[06/28/2023 11:42]  Schwanzstuker: I am dead and cannot do that.
+[06/28/2023 11:42]  System: You are now under the protection of the town guards.
+[06/28/2023 11:42]  Jake: Jake the barkeep
+[06/28/2023 11:42]  Jake: Jake the barkeep
+[06/28/2023 11:42]  Armon: Armon the sailor
+[06/28/2023 11:42]  Armon: Armon the sailor
+[06/28/2023 11:42]  Colon: Colon the Town Crier
+[06/28/2023 11:42]  Colon: Colon the Town Crier
+[06/28/2023 11:42]  Alicia: Alicia the tavern keeper
+[06/28/2023 11:42]  Alicia: Alicia the tavern keeper
+[06/28/2023 11:42]  Len: Len the banker
+[06/28/2023 11:42]  Len: Len the banker
+[06/28/2023 11:42]  Amadis: Amadis the armorer
+[06/28/2023 11:42]  Amadis: Amadis the armorer
+[06/28/2023 11:42]  Meg: Meg the bowyer
+[06/28/2023 11:42]  Meg: Meg the bowyer
+[06/28/2023 11:42]  Chane: Chane the carpenter
+[06/28/2023 11:42]  Chane: Chane the carpenter
+[06/28/2023 11:42]  Wijdan: Wijdan the mapmaker
+[06/28/2023 11:42]  Wijdan: Wijdan the mapmaker
+[06/28/2023 11:42]  Madelyn: Madelyn the shipwright
+[06/28/2023 11:42]  Madelyn: Madelyn the shipwright
+[06/28/2023 11:42]  Kenelm: Kenelm the tavern keeper
+[06/28/2023 11:42]  Kenelm: Kenelm the tavern keeper
+[06/28/2023 11:42]  Noelani: Noelani the sailor
+[06/28/2023 11:42]  Noelani: Noelani the sailor
+[06/28/2023 11:42]  Carlton: Carlton the stablemaster
+[06/28/2023 11:42]  Carlton: Carlton the stablemaster
+[06/28/2023 11:42]  Rosaline: Rosaline the waiter
+[06/28/2023 11:42]  Rosaline: Rosaline the waiter
+[06/28/2023 11:42]  Jayne: Jayne the innkeeper
+[06/28/2023 11:42]  Jayne: Jayne the innkeeper
+[06/28/2023 11:42]  Tai: Tai the fisherman
+[06/28/2023 11:42]  Tai: Tai the fisherman
+[06/28/2023 11:42]  Jordan: Jordan the beggar
+[06/28/2023 11:42]  Jordan: Jordan the beggar
+[06/28/2023 11:42]  Celandine: Celandine the sailor
+[06/28/2023 11:42]  Celandine: Celandine the sailor
+[06/28/2023 11:42]  Bly: Bly the fisherman
+[06/28/2023 11:42]  Bly: Bly the fisherman
+[06/28/2023 11:42]  Razor: [Last Target]
+[06/28/2023 11:42]  Lene: Lene the salvage foreman
+[06/28/2023 11:42]  Lene: Lene the salvage foreman
+[06/28/2023 11:42]  Zann: Zann the Necromancer
+[06/28/2023 11:42]  Zann: Zann the Necromancer
+[06/28/2023 11:42]  Sherwin: Sherwin the mage
+[06/28/2023 11:42]  Sherwin: Sherwin the mage
+[06/28/2023 11:42]  Zara: Zara the scribe
+[06/28/2023 11:42]  Zara: Zara the scribe
+[06/28/2023 11:42]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:42]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:42]  Fuller: Fuller the barkeep
+[06/28/2023 11:42]  Fuller: Fuller the barkeep
+[06/28/2023 11:42]  Giles: Giles the thief
+[06/28/2023 11:42]  Giles: Giles the thief
+[06/28/2023 11:42]  Marti: Marti the healer
+[06/28/2023 11:42]  Marti: Marti the healer
+[06/28/2023 11:42]  Dusty: Dusty the cook
+[06/28/2023 11:42]  Dusty: Dusty the cook
+[06/28/2023 11:42]  Flindo: Flindo the guard
+[06/28/2023 11:42]  Flindo: Flindo the guard
+[06/28/2023 11:42]  Jayne: Jayne the innkeeper
+[06/28/2023 11:42]  Jayne: Jayne the innkeeper
+[06/28/2023 11:42]  Fuller: Fuller the barkeep
+[06/28/2023 11:42]  Fuller: Fuller the barkeep
+[06/28/2023 11:42]  System: Thou cannot be resurrected there!
+[06/28/2023 11:42]  System: Thou cannot be resurrected there!
+[06/28/2023 11:42]  Jayne: Jayne the innkeeper
+[06/28/2023 11:42]  Jayne: Jayne the innkeeper
+[06/28/2023 11:42]  Giles: Giles the thief
+[06/28/2023 11:42]  Giles: Giles the thief
+[06/28/2023 11:42]  Carlton: Carlton the stablemaster
+[06/28/2023 11:42]  Carlton: Carlton the stablemaster
+[06/28/2023 11:42]  Dusty: Dusty the cook
+[06/28/2023 11:42]  Dusty: Dusty the cook
+[06/28/2023 11:43]  Sherwin: Sherwin the mage
+[06/28/2023 11:43]  Sherwin: Sherwin the mage
+[06/28/2023 11:43]  Zara: Zara the scribe
+[06/28/2023 11:43]  Zara: Zara the scribe
+[06/28/2023 11:43]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:43]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:43]  Kenelm: Kenelm the tavern keeper
+[06/28/2023 11:43]  Kenelm: Kenelm the tavern keeper
+[06/28/2023 11:43]  Noelani: Noelani the sailor
+[06/28/2023 11:43]  Noelani: Noelani the sailor
+[06/28/2023 11:43]  Zann: Zann the Necromancer
+[06/28/2023 11:43]  Zann: Zann the Necromancer
+[06/28/2023 11:43]  Rosaline: Rosaline the waiter
+[06/28/2023 11:43]  Rosaline: Rosaline the waiter
+[06/28/2023 11:43]  Celandine: Celandine the sailor
+[06/28/2023 11:43]  Celandine: Celandine the sailor
+[06/28/2023 11:43]  Jordan: Jordan the beggar
+[06/28/2023 11:43]  Jordan: Jordan the beggar
+[06/28/2023 11:43]  Bly: Bly the fisherman
+[06/28/2023 11:43]  Bly: Bly the fisherman
+[06/28/2023 11:43]  Razor: [Last Target]
+[06/28/2023 11:43]  Lene: Lene the salvage foreman
+[06/28/2023 11:43]  Lene: Lene the salvage foreman
+[06/28/2023 11:43]  Tai: Tai the fisherman
+[06/28/2023 11:43]  Tai: Tai the fisherman
+[06/28/2023 11:43]  Stacy: Stacy the salvage foreman
+[06/28/2023 11:43]  Stacy: Stacy the salvage foreman
+[06/28/2023 11:43]  Wijdan: Wijdan the mapmaker
+[06/28/2023 11:43]  Wijdan: Wijdan the mapmaker
+[06/28/2023 11:43]  a seagull: a seagull
+[06/28/2023 11:43]  a seagull: a seagull
+[06/28/2023 11:43]  Uriah: Uriah the dockmaster
+[06/28/2023 11:43]  Uriah: Uriah the dockmaster
+[06/28/2023 11:43]  Kira: Kira the dockmaster
+[06/28/2023 11:43]  Kira: Kira the dockmaster
+[06/28/2023 11:43]  Kirsten: [Crewmember]
+[06/28/2023 11:43]  Kirsten: Kirsten
+[06/28/2023 11:43]  Kirsten: [Crewmember]
+[06/28/2023 11:43]  Kirsten: Kirsten
+[06/28/2023 11:43]  Polly: [Crewmember]
+[06/28/2023 11:43]  Polly: Polly
+[06/28/2023 11:43]  Polly: [Crewmember]
+[06/28/2023 11:43]  Polly: Polly
+[06/28/2023 11:43]  Stacy: Stacy the salvage foreman
+[06/28/2023 11:43]  Uriah: Uriah the dockmaster
+[06/28/2023 11:43]  Bly: Bly the fisherman
+[06/28/2023 11:43]  Carlton: Carlton the stablemaster
+[06/28/2023 11:43]  Carlton: Carlton the stablemaster
+[06/28/2023 11:43]  Zann: Zann the Necromancer
+[06/28/2023 11:43]  Zann: Zann the Necromancer
+[06/28/2023 11:43]  Sherwin: Sherwin the mage
+[06/28/2023 11:43]  Sherwin: Sherwin the mage
+[06/28/2023 11:43]  Zara: Zara the scribe
+[06/28/2023 11:43]  Zara: Zara the scribe
+[06/28/2023 11:43]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:43]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:43]  Fuller: Fuller the barkeep
+[06/28/2023 11:43]  Fuller: Fuller the barkeep
+[06/28/2023 11:43]  Jayne: Jayne the innkeeper
+[06/28/2023 11:43]  Jayne: Jayne the innkeeper
+[06/28/2023 11:43]  Giles: Giles the thief
+[06/28/2023 11:43]  Giles: Giles the thief
+[06/28/2023 11:43]  Marti: Marti the healer
+[06/28/2023 11:43]  Marti: Marti the healer
+[06/28/2023 11:43]  Dusty: Dusty the cook
+[06/28/2023 11:43]  Dusty: Dusty the cook
+[06/28/2023 11:43]  Flindo: Flindo the guard
+[06/28/2023 11:43]  Flindo: Flindo the guard
+[06/28/2023 11:43]  Razor: [-Food Satisfaction (s)]
+[06/28/2023 11:43]  Razor: [+Food Satisfaction (2138s)]
+[06/28/2023 11:43]  System: Opening door...
+[06/28/2023 11:43]  Jayne: Jayne the innkeeper
+[06/28/2023 11:43]  Jayne: Jayne the innkeeper
+[06/28/2023 11:43]  Carlton: Carlton the stablemaster
+[06/28/2023 11:43]  Carlton: Carlton the stablemaster
+[06/28/2023 11:43]  Dusty: Dusty the cook
+[06/28/2023 11:43]  Dusty: Dusty the cook
+[06/28/2023 11:43]  Giles: Giles the thief
+[06/28/2023 11:43]  Giles: Giles the thief
+[06/28/2023 11:43]  Sherwin: Sherwin the mage
+[06/28/2023 11:43]  Sherwin: Sherwin the mage
+[06/28/2023 11:43]  Zara: Zara the scribe
+[06/28/2023 11:43]  Zara: Zara the scribe
+[06/28/2023 11:43]  Noelani: Noelani the sailor
+[06/28/2023 11:43]  Noelani: Noelani the sailor
+[06/28/2023 11:43]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:43]  Kasinda: Kasinda the alchemist
+[06/28/2023 11:43]  Kenelm: Kenelm the tavern keeper
+[06/28/2023 11:43]  Kenelm: Kenelm the tavern keeper
+[06/28/2023 11:43]  Zann: Zann the Necromancer
+[06/28/2023 11:43]  Zann: Zann the Necromancer
+[06/28/2023 11:43]  Rosaline: Rosaline the waiter
+[06/28/2023 11:43]  Rosaline: Rosaline the waiter
+[06/28/2023 11:44]  Celandine: Celandine the sailor
+[06/28/2023 11:44]  Celandine: Celandine the sailor
+[06/28/2023 11:44]  Jordan: Jordan the beggar
+[06/28/2023 11:44]  Jordan: Jordan the beggar
+[06/28/2023 11:44]  Bly: Bly the fisherman
+[06/28/2023 11:44]  Bly: Bly the fisherman
+[06/28/2023 11:44]  Razor: [Last Target]
+[06/28/2023 11:44]  Lene: Lene the salvage foreman
+[06/28/2023 11:44]  Lene: Lene the salvage foreman
+[06/28/2023 11:44]  Tai: Tai the fisherman
+[06/28/2023 11:44]  Tai: Tai the fisherman
+[06/28/2023 11:44]  Wijdan: Wijdan the mapmaker
+[06/28/2023 11:44]  Wijdan: Wijdan the mapmaker
+[06/28/2023 11:44]  Meg: Meg the bowyer
+[06/28/2023 11:44]  Meg: Meg the bowyer
+[06/28/2023 11:44]  You see: a ship rune for: an unnamed small ship
+[06/28/2023 11:44]  You see: (located at 1964, 2691, -5)
+[06/28/2023 11:44]  You see: [captained by Schwanzstuker]
+[06/28/2023 11:44]  System: Cast the recall spell onto this rune to travel to this ship's location.
+[06/28/2023 11:44]  Jamie: Jamie the butcher
+[06/28/2023 11:44]  Jamie: Jamie the butcher
+[06/28/2023 11:44]  Nelson: Nelson the baker
+[06/28/2023 11:44]  Nelson: Nelson the baker
+[06/28/2023 11:44]  Orlantha: Orlantha the banker
+[06/28/2023 11:44]  Orlantha: Orlantha the banker
+[06/28/2023 11:44]  Britta: Britta the banker
+[06/28/2023 11:44]  Britta: Britta the banker
+[06/28/2023 11:44]  Roi: Roi the banker
+[06/28/2023 11:44]  Roi: Roi the banker
+[06/28/2023 11:44]  Bart: Bart the Town Crier
+[06/28/2023 11:44]  Bart: Bart the Town Crier
+[06/28/2023 11:44]  Stoyan: Stoyan the tinker
+[06/28/2023 11:44]  Stoyan: Stoyan the tinker
+[06/28/2023 11:44]  a cat: a cat
+[06/28/2023 11:44]  a cat: a cat
+[06/28/2023 11:44]  an andarian mage: an andarian mage
+[06/28/2023 11:44]  an andarian mage: an andarian mage
+[06/28/2023 11:44]  Peyton: Peyton the mage
+[06/28/2023 11:44]  Peyton: Peyton the mage
+[06/28/2023 11:44]  a dog: a dog
+[06/28/2023 11:44]  a dog: a dog
+[06/28/2023 11:44]  Adrian: Adrian the alchemist
+[06/28/2023 11:44]  Adrian: Adrian the alchemist
+[06/28/2023 11:44]  Rudyard: Rudyard the mage
+[06/28/2023 11:44]  Rudyard: Rudyard the mage
+[06/28/2023 11:44]  Abira: Abira the scribe
+[06/28/2023 11:44]  Abira: Abira the scribe
+[06/28/2023 11:44]  Shunnar: Shunnar the alchemist
+[06/28/2023 11:44]  Shunnar: Shunnar the alchemist
+[06/28/2023 11:44]  Amadis: Amadis the scribe
+[06/28/2023 11:44]  Amadis: Amadis the scribe
+[06/28/2023 11:44]  Dane: Dane the mage
+[06/28/2023 11:44]  Dane: Dane the mage
+[06/28/2023 11:44]  a dog: a dog
+[06/28/2023 11:44]  a dog: a dog
+[06/28/2023 11:44]  a dog: a dog
+[06/28/2023 11:44]  a dog: a dog
+[06/28/2023 11:44]  Peyton: Peyton the mage
+[06/28/2023 11:44]  Peyton: Greetings.  Have a look around.
+[06/28/2023 11:45]  Peyton: Begging thy pardon, but thy bank account lacks these funds.
+[06/28/2023 11:45]  Abira: Abira the scribe
+[06/28/2023 11:45]  a pack llama: (tame)
+[06/28/2023 11:45]  a pack llama: [0/2000 stones]
+[06/28/2023 11:45]  a pack llama: a pack llama
+[06/28/2023 11:45]  a pack llama: (tame)
+[06/28/2023 11:45]  a pack llama: [0/2000 stones]
+[06/28/2023 11:45]  a pack llama: a pack llama
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  Deathmask: [Recruit, SC]
+[06/28/2023 11:45]  Deathmask: Deathmask
+[06/28/2023 11:45]  Deathmask: [Recruit, SC]
+[06/28/2023 11:45]  Deathmask: Deathmask
+[06/28/2023 11:45]  Jakesh: Jakesh the Prevalian merchant
+[06/28/2023 11:45]  Jakesh: Jakesh the Prevalian merchant
+[06/28/2023 11:45]  Konrad: Konrad the Prevalian Exchange Officer
+[06/28/2023 11:45]  Konrad: Konrad the Prevalian Exchange Officer
+[06/28/2023 11:45]  Ingmar: Ingmar the banker
+[06/28/2023 11:45]  Ingmar: Ingmar the banker
+[06/28/2023 11:45]  Aurelia: Aurelia the Town Crier
+[06/28/2023 11:45]  Aurelia: Aurelia the Town Crier
+[06/28/2023 11:45]  Amedeus: Legendary Treasure Seeker
+[06/28/2023 11:45]  Amedeus: [L%C]
+[06/28/2023 11:45]  Amedeus: Amedeus
+[06/28/2023 11:45]  Amedeus: Legendary Treasure Seeker
+[06/28/2023 11:45]  Amedeus: [L%C]
+[06/28/2023 11:45]  Amedeus: Amedeus
+[06/28/2023 11:45]  K'thunhas: Lady K'thunhas
+[06/28/2023 11:45]  K'thunhas: Lady K'thunhas
+[06/28/2023 11:45]  a gravebug: (bonded)
+[06/28/2023 11:45]  a gravebug: a gravebug
+[06/28/2023 11:45]  a gravebug: (bonded)
+[06/28/2023 11:45]  a gravebug: a gravebug
+[06/28/2023 11:45]  Gwenno: Legendary Domesticator
+[06/28/2023 11:45]  Gwenno: [Queen of Moms, SOF]
+[06/28/2023 11:45]  Gwenno: Lady Gwenno
+[06/28/2023 11:45]  Gwenno: Legendary Domesticator
+[06/28/2023 11:45]  Gwenno: [Queen of Moms, SOF]
+[06/28/2023 11:45]  Gwenno: Lady Gwenno
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  a pack horse: (tame)
+[06/28/2023 11:45]  a pack horse: [0/2000 stones]
+[06/28/2023 11:45]  a pack horse: a pack horse
+[06/28/2023 11:45]  Boosoof: [Caster of Armageddon, rekt]
+[06/28/2023 11:45]  Boosoof: Lord Boosoof
+[06/28/2023 11:45]  Boosoof: [Caster of Armageddon, rekt]
+[06/28/2023 11:45]  Boosoof: Lord Boosoof
+[06/28/2023 11:45]  Gru'ug: Legendary Engineer
+[06/28/2023 11:45]  Gru'ug: [Wargoth, Warg]
+[06/28/2023 11:45]  Gru'ug: Lord Gru'ug
+[06/28/2023 11:45]  Gru'ug: Legendary Engineer
+[06/28/2023 11:45]  Gru'ug: [Wargoth, Warg]
+[06/28/2023 11:45]  Gru'ug: Lord Gru'ug
+[06/28/2023 11:45]  Linnea: Linnea the Prevalian stylist
+[06/28/2023 11:45]  Linnea: Linnea the Prevalian stylist
+[06/28/2023 11:45]  ChivasRegal: [RED]
+[06/28/2023 11:45]  ChivasRegal: Lord ChivasRegal
+[06/28/2023 11:45]  ChivasRegal: [RED]
+[06/28/2023 11:45]  ChivasRegal: Lord ChivasRegal
+[06/28/2023 11:45]  Rumplet: Legendary Expression
+[06/28/2023 11:45]  Rumplet: [Praetor, -_-]
+[06/28/2023 11:45]  Rumplet: Lady Rumplet
+[06/28/2023 11:45]  Rumplet: Legendary Expression
+[06/28/2023 11:45]  Rumplet: [Praetor, -_-]
+[06/28/2023 11:45]  Rumplet: Lady Rumplet
+[06/28/2023 11:45]  Tierney: Tierney
+[06/28/2023 11:45]  Tierney: Tierney
+[06/28/2023 11:45]  Devil-Twins: Devil-Twins
+[06/28/2023 11:45]  Devil-Twins: Devil-Twins
+[06/28/2023 11:45]  Gloria: Gloria the Guild Fortress Raffle Official
+[06/28/2023 11:45]  Gloria: Gloria the Guild Fortress Raffle Official
+[06/28/2023 11:45]  Aponi: Aponi the cobbler
+[06/28/2023 11:45]  Aponi: Aponi the cobbler
+[06/28/2023 11:45]  Kurt: Kurt the real estate broker
+[06/28/2023 11:45]  Kurt: Kurt the real estate broker
+[06/28/2023 11:45]  Standford: Standford the provisioner
+[06/28/2023 11:45]  Standford: Standford the provisioner
+[06/28/2023 11:45]  Givon: Givon the tailor
+[06/28/2023 11:45]  Givon: Givon the tailor
+[06/28/2023 11:45]  You see: a storage shelf
+[06/28/2023 11:45]  : Emptying trash barrel!
+[06/28/2023 11:45]  System: 50,000,000 gold has been added to your bank box.
+[06/28/2023 11:45]  System: 50,000,000 doubloons have been added to your bank box.
+[06/28/2023 11:45]  Ingmar: Ingmar the banker
+[06/28/2023 11:45]  Ingmar: Ingmar the banker
+[06/28/2023 11:45]  Nyssa: Nyssa the tanner
+[06/28/2023 11:45]  Nyssa: Nyssa the tanner
+[06/28/2023 11:45]  Nevada: Nevada the architect
+[06/28/2023 11:45]  Nevada: Nevada the architect
+[06/28/2023 11:45]  Gloria: Buy your tickets for the Guild Fortress raffle here!
+[06/28/2023 11:45]  Margaret: Margaret the baker
+[06/28/2023 11:45]  Margaret: Margaret the baker
+[06/28/2023 11:45]  Kurt: Kurt the real estate broker
+[06/28/2023 11:45]  Kurt: Kurt the real estate broker
+[06/28/2023 11:45]  Natasha: Natasha the tinker
+[06/28/2023 11:45]  Natasha: Natasha the tinker
+[06/28/2023 11:46]  Alodie: Alodie the banker
+[06/28/2023 11:46]  Alodie: Alodie the banker
+[06/28/2023 11:46]  Ingmar: Ingmar the banker
+[06/28/2023 11:46]  Ingmar: Ingmar the banker
+[06/28/2023 11:46]  Duane: Duane the blacksmith
+[06/28/2023 11:46]  Duane: Duane the blacksmith
+[06/28/2023 11:46]  Astera: Astera the miner
+[06/28/2023 11:46]  Astera: Astera the miner
+[06/28/2023 11:46]  Ingmar: Ingmar the banker
+[06/28/2023 11:46]  Ingmar: Ingmar the banker
+[06/28/2023 11:46]  ChivasRegal: [RED]
+[06/28/2023 11:46]  ChivasRegal: Lord ChivasRegal
+[06/28/2023 11:46]  ChivasRegal: [RED]
+[06/28/2023 11:46]  ChivasRegal: Lord ChivasRegal
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  Boosoof: [Caster of Armageddon, rekt]
+[06/28/2023 11:46]  Boosoof: Lord Boosoof
+[06/28/2023 11:46]  Boosoof: [Caster of Armageddon, rekt]
+[06/28/2023 11:46]  Boosoof: Lord Boosoof
+[06/28/2023 11:46]  Calendonia: Calendonia the banker
+[06/28/2023 11:46]  Calendonia: Calendonia the banker
+[06/28/2023 11:46]  Amedeus: Legendary Treasure Seeker
+[06/28/2023 11:46]  Amedeus: [L%C]
+[06/28/2023 11:46]  Amedeus: Amedeus
+[06/28/2023 11:46]  Amedeus: Legendary Treasure Seeker
+[06/28/2023 11:46]  Amedeus: [L%C]
+[06/28/2023 11:46]  Amedeus: Amedeus
+[06/28/2023 11:46]  Gru'ug: Legendary Engineer
+[06/28/2023 11:46]  Gru'ug: [Wargoth, Warg]
+[06/28/2023 11:46]  Gru'ug: Lord Gru'ug
+[06/28/2023 11:46]  Gru'ug: Legendary Engineer
+[06/28/2023 11:46]  Gru'ug: [Wargoth, Warg]
+[06/28/2023 11:46]  Gru'ug: Lord Gru'ug
+[06/28/2023 11:46]  Aurelia: Aurelia the Town Crier
+[06/28/2023 11:46]  Aurelia: Aurelia the Town Crier
+[06/28/2023 11:46]  Tamma: Tamma the banker
+[06/28/2023 11:46]  Tamma: Tamma the banker
+[06/28/2023 11:46]  K'thunhas: Lady K'thunhas
+[06/28/2023 11:46]  K'thunhas: Lady K'thunhas
+[06/28/2023 11:46]  a gravebug: (bonded)
+[06/28/2023 11:46]  a gravebug: a gravebug
+[06/28/2023 11:46]  a gravebug: (bonded)
+[06/28/2023 11:46]  a gravebug: a gravebug
+[06/28/2023 11:46]  Gwenno: Legendary Domesticator
+[06/28/2023 11:46]  Gwenno: [Queen of Moms, SOF]
+[06/28/2023 11:46]  Gwenno: Lady Gwenno
+[06/28/2023 11:46]  Gwenno: Legendary Domesticator
+[06/28/2023 11:46]  Gwenno: [Queen of Moms, SOF]
+[06/28/2023 11:46]  Gwenno: Lady Gwenno
+[06/28/2023 11:46]  Linnea: Linnea the Prevalian stylist
+[06/28/2023 11:46]  Linnea: Linnea the Prevalian stylist
+[06/28/2023 11:46]  a pack llama: (tame)
+[06/28/2023 11:46]  a pack llama: [0/2000 stones]
+[06/28/2023 11:46]  a pack llama: a pack llama
+[06/28/2023 11:46]  a pack llama: (tame)
+[06/28/2023 11:46]  a pack llama: [0/2000 stones]
+[06/28/2023 11:46]  a pack llama: a pack llama
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  a pack horse: (tame)
+[06/28/2023 11:46]  a pack horse: [0/2000 stones]
+[06/28/2023 11:46]  a pack horse: a pack horse
+[06/28/2023 11:46]  Deathmask: [Recruit, SC]
+[06/28/2023 11:46]  Deathmask: Deathmask
+[06/28/2023 11:46]  Deathmask: [Recruit, SC]
+[06/28/2023 11:46]  Deathmask: Deathmask
+[06/28/2023 11:46]  Konrad: Konrad the Prevalian Exchange Officer
+[06/28/2023 11:46]  Konrad: Konrad the Prevalian Exchange Officer
+[06/28/2023 11:46]  Jakesh: Jakesh the Prevalian merchant
+[06/28/2023 11:46]  Jakesh: Jakesh the Prevalian merchant
+[06/28/2023 11:46]  Standford: Standford the provisioner
+[06/28/2023 11:46]  Standford: Standford the provisioner
+[06/28/2023 11:46]  You see: a storage shelf
+[06/28/2023 11:46]  Aurelia: Ahoy mateys!
+[06/28/2023 11:46]  System: You are too far away to continue accessing that container.
+[06/28/2023 11:46]  Alodie: Alodie the banker
+[06/28/2023 11:46]  Alodie: Alodie the banker
+[06/28/2023 11:46]  Captain Baguette: [SUPER COOL, Inn]
+[06/28/2023 11:46]  Captain Baguette: Captain Baguette
+[06/28/2023 11:46]  Captain Baguette: [SUPER COOL, Inn]
+[06/28/2023 11:46]  Captain Baguette: Captain Baguette
+[06/28/2023 11:46]  Standford: Standford the provisioner
+[06/28/2023 11:46]  Standford: Standford the provisioner
+[06/28/2023 11:46]  System: You are too far away to continue accessing that container.
+[06/28/2023 11:46]  Aponi: Aponi the cobbler
+[06/28/2023 11:46]  Aponi: Aponi the cobbler
+[06/28/2023 11:46]  Kurt: Kurt the real estate broker
+[06/28/2023 11:46]  Kurt: Kurt the real estate broker
+[06/28/2023 11:46]  Givon: Givon the tailor
+[06/28/2023 11:46]  Givon: Givon the tailor
+[06/28/2023 11:46]  Ingmar: Ingmar the banker
+[06/28/2023 11:46]  Ingmar: Ingmar the banker
+[06/28/2023 11:46]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[06/28/2023 11:46]  Alodie: Alodie the banker
+[06/28/2023 11:46]  Alodie: Alodie the banker
+[06/28/2023 11:46]  Calendonia: Calendonia the banker
+[06/28/2023 11:46]  Calendonia: Calendonia the banker
+[06/28/2023 11:46]  Tamma: Tamma the banker
+[06/28/2023 11:46]  Tamma: Tamma the banker
+[06/28/2023 11:46]  Astera: Astera the miner
+[06/28/2023 11:46]  Astera: Astera the miner
+[06/28/2023 11:46]  Duane: Duane the blacksmith
+[06/28/2023 11:46]  Duane: Duane the blacksmith
+[06/28/2023 11:46]  a cat: a cat
+[06/28/2023 11:46]  a cat: a cat
+[06/28/2023 11:46]  a cat: a cat
+[06/28/2023 11:46]  a cat: a cat
+[06/28/2023 11:47]  Garrett: Garrett the mage
+[06/28/2023 11:47]  Garrett: Garrett the mage
+[06/28/2023 11:47]  Raynor: Raynor the herbalist
+[06/28/2023 11:47]  Raynor: Raynor the herbalist
+[06/28/2023 11:47]  Azina: Azina the alchemist
+[06/28/2023 11:47]  Azina: Azina the alchemist
+[06/28/2023 11:47]  Edwin: Edwin the scribe
+[06/28/2023 11:47]  Edwin: Edwin the scribe
+[06/28/2023 11:47]  Marden: Marden the alchemist
+[06/28/2023 11:47]  Marden: Marden the alchemist
+[06/28/2023 11:47]  Liadan: Liadan the scribe
+[06/28/2023 11:47]  Liadan: Liadan the scribe
+[06/28/2023 11:47]  Calendonia: Calendonia the banker
+[06/28/2023 11:47]  Calendonia: Calendonia the banker
+[06/28/2023 11:47]  Ingmar: Ingmar the banker
+[06/28/2023 11:47]  Ingmar: Ingmar the banker
+[06/28/2023 11:47]  Duncan: Duncan the mage
+[06/28/2023 11:47]  Duncan: Duncan the mage
+[06/28/2023 11:47]  Sivan: Sivan the stablemaster
+[06/28/2023 11:47]  Sivan: Sivan the stablemaster
+[06/28/2023 11:47]  Sukatai: Sukatai the animal wrangler
+[06/28/2023 11:47]  Sukatai: Sukatai the animal wrangler
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  a cat: a cat
+[06/28/2023 11:47]  a cat: a cat
+[06/28/2023 11:47]  a prevalian marksman: a prevalian marksman
+[06/28/2023 11:47]  a prevalian marksman: a prevalian marksman
+[06/28/2023 11:47]  Ginger: Ginger the mage
+[06/28/2023 11:47]  Ginger: Ginger the mage
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  Bentley: Bentley the scribe
+[06/28/2023 11:47]  Bentley: Bentley the scribe
+[06/28/2023 11:47]  System: Opening door...
+[06/28/2023 11:47]  Brandy: Brandy the herbalist
+[06/28/2023 11:47]  Brandy: Brandy the herbalist
+[06/28/2023 11:47]  a cat: a cat
+[06/28/2023 11:47]  a cat: a cat
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  a dog: a dog
+[06/28/2023 11:47]  Raynor: Hail adventurer! Do you wish to take a look at my wares?
+[06/28/2023 11:47]  Raynor: Raynor the herbalist
+[06/28/2023 11:47]  Raynor: Greetings.  Have a look around.
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  Lokelani: Lokelani the farmer
+[06/28/2023 11:47]  Lokelani: Lokelani the farmer
+[06/28/2023 11:47]  Ginger: Ginger the mage
+[06/28/2023 11:47]  Ginger: Greetings.  Have a look around.
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  Edwin: Edwin the scribe
+[06/28/2023 11:47]  Edwin: Edwin the scribe
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a cat
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:47]  [Razor]: New target set.
+[06/28/2023 11:47]  Razor: Target: a dog
+[06/28/2023 11:48]  Ginger: The total of thy purchase is 400 gold, which has been withdrawn from your bank account.  My thanks for the patronage.
+[06/28/2023 11:48]  You see: recall scroll : 2
+[06/28/2023 11:48]  Schwanzstuker: Kal Ort Por [Recall]
+[06/28/2023 11:48]  Schwanzstuker: Select Marked item.
+[06/28/2023 11:48]  System: A magery skill of 20 is required to cast that spell.
+[06/28/2023 11:48]  Schwanzstuker: The spell fizzles.
+[06/28/2023 11:48]  Schwanzstuker: Kal Ort Por [Recall]
+[06/28/2023 11:48]  Schwanzstuker: Select Marked item.
+[06/28/2023 11:48]  Schwanzstuker: The spell fizzles.
+[06/28/2023 11:48]  System: A magery skill of 20 is required to cast that spell.
+[06/28/2023 11:48]  System: Opening door...
+[06/28/2023 11:48]  Azina: Azina the alchemist
+[06/28/2023 11:48]  Azina: Azina the alchemist
+[06/28/2023 11:48]  Miles: Miles the innkeeper
+[06/28/2023 11:48]  Miles: Miles the innkeeper
+[06/28/2023 11:48]  Aricin: Aricin the stablemaster
+[06/28/2023 11:48]  Aricin: Aricin the stablemaster
+[06/28/2023 11:48]  Marden: Marden the alchemist
+[06/28/2023 11:48]  Marden: Marden the alchemist
+[06/28/2023 11:48]  a cat: a cat
+[06/28/2023 11:48]  a cat: a cat
+[06/28/2023 11:48]  a cat: a cat
+[06/28/2023 11:48]  a cat: a cat
+[06/28/2023 11:48]  Tamma: Tamma the banker
+[06/28/2023 11:48]  Tamma: Tamma the banker
+[06/28/2023 11:48]  Calendonia: Calendonia the banker
+[06/28/2023 11:48]  Calendonia: Calendonia the banker
+[06/28/2023 11:49]  Empress Nympho: Empress Nympho
+[06/28/2023 11:49]  Empress Nympho: Empress Nympho

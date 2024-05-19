@@ -1,0 +1,25 @@
+# Keep using item id until success by Jaseowns
+# UO Outlands
+# Description:
+#   This just keeps trying to id
+#   the item you selected
+@setvar! plz_id_this 0
+@setvar! plz_id_this 
+
+if plz_id_this = 0
+    overhead "Target cancelled" 77
+    stop
+endif
+
+while not dead
+    getlabel plz_id_this desc
+    if "unidentified" in desc
+        useskill "itemId"
+        wft 500
+        target plz_id_this
+        wait 200
+    else
+        overhead desc 88
+        stop
+    endif
+endwhile

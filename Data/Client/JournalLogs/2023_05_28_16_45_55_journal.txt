@@ -1,0 +1,583 @@
+[05/28/2023 16:45]  System: WorldMap loading...
+[05/28/2023 16:45]  System: Loading WorldMap markers..
+[05/28/2023 16:45]  System: ..Banks_and_Healers.xml (20)
+[05/28/2023 16:45]  System: ..Dungeons.xml (12)
+[05/28/2023 16:45]  System: ..Dungeon_Gates.xml (325)
+[05/28/2023 16:45]  System: ..Healer_Caravans.xml (32)
+[05/28/2023 16:45]  System: ..Moongates.xml (9)
+[05/28/2023 16:45]  System: ..POI.xml (176)
+[05/28/2023 16:45]  System: ..PvP_Locations.xml (71)
+[05/28/2023 16:45]  System: ..Shrines.xml (9)
+[05/28/2023 16:45]  System: ..Subterranean.xml (6)
+[05/28/2023 16:45]  System: ..Townships.xml (9)
+[05/28/2023 16:45]  System: WorldMap markers loaded (669)
+[05/28/2023 16:45]  System: Welcome Stink Fist!
+[05/28/2023 16:45]  Razor: [- (s)]
+[05/28/2023 16:45]  Razor: [+Hidden/Stealthing (0s)]
+[05/28/2023 16:45]  Jamie: Jamie the butcher
+[05/28/2023 16:45]  Greger: Greger the cook
+[05/28/2023 16:45]  Nelson: Nelson the baker
+[05/28/2023 16:45]  Budo: Budo the stablemaster
+[05/28/2023 16:45]  an andarian mage: an andarian mage
+[05/28/2023 16:45]  Candida: Candida the cobbler
+[05/28/2023 16:45]  System: WorldMap loaded!
+[05/28/2023 16:46]  Razor: [-Hidden/Stealthing (s)]
+[05/28/2023 16:46]  System: Your skill in Tactics has decreased by 31.0.  It is now 100.0.
+[05/28/2023 16:46]  Stink Fist: Kal Ort Por [Recall]
+[05/28/2023 16:46]  System: You have left the protection of the town guards.
+[05/28/2023 16:46]  Stink Fist: Your mount finds a quiet place to rest safely.
+[05/28/2023 16:46]  a goblin: a goblin
+[05/28/2023 16:46]  a gremlin: a gremlin
+[05/28/2023 16:46]  a goblin: a goblin
+[05/28/2023 16:46]  System: Holy symbols remaining: 9/10
+[05/28/2023 16:46]  System: Chivalry skillgain: 0.617 %
+[05/28/2023 16:46]  System: Your strike disarms your target!
+[05/28/2023 16:46]  a gremlin: -4
+[05/28/2023 16:46]  System: Your skill in Tactics has increased by 31.0.  It is now 131.0.
+[05/28/2023 16:46]  a gremlin: *readies smoke bomb*
+[05/28/2023 16:46]  System: You are disoriented by smoke, making it difficult to strike accurately and defend yourself!
+[05/28/2023 16:46]  a gremlin: -41
+[05/28/2023 16:46]  a gremlin: -26
+[05/28/2023 16:46]  System: Chivalry skillgain: 0.617 % [2]
+[05/28/2023 16:46]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:46]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/28/2023 16:46]  a gremlin: -110
+[05/28/2023 16:46]  System: New target set.
+[05/28/2023 16:46]  Razor: Target: a gremlin
+[05/28/2023 16:46]  Stink Fist: -6
+[05/28/2023 16:46]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:46]  Razor: Attack: a gremlin
+[05/28/2023 16:46]  Razor: chug
+[05/28/2023 16:46]  System: Your dexterity has changed by 20.  It is now 120
+[05/28/2023 16:46]  Razor: [+Agility (312s)]
+[05/28/2023 16:46]  Razor: Dex: +20 - 120
+[05/28/2023 16:46]  Razor: [-Agility (s)]
+[05/28/2023 16:46]  Razor: [+Agility (312s)]
+[05/28/2023 16:46]  Razor: chug refresh
+[05/28/2023 16:46]  System: Chivalry skillgain: 0.620 %
+[05/28/2023 16:46]  a gremlin: -44
+[05/28/2023 16:46]  Razor: chug
+[05/28/2023 16:46]  Razor: Loading hotbar
+[05/28/2023 16:46]  Razor: Loading hotbar
+[05/28/2023 16:46]  System: Your strength has changed by 20.  It is now 120
+[05/28/2023 16:46]  Razor: [+Strength (312s)]
+[05/28/2023 16:46]  Razor: Str: +20 - 120
+[05/28/2023 16:46]  Razor: [-Strength (s)]
+[05/28/2023 16:46]  Razor: [+Strength (312s)]
+[05/28/2023 16:46]  Stink Fist: -1
+[05/28/2023 16:46]  System: Chivalry skillgain: 0.617 %
+[05/28/2023 16:46]  System: Finished 3 queued actions in 1.2 seconds.
+[05/28/2023 16:46]  Stink Fist: -1
+[05/28/2023 16:46]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:46]  a gremlin: -214
+[05/28/2023 16:46]  System: You deliver a zen strike to your opponent.
+[05/28/2023 16:46]  Stink Fist: +25
+[05/28/2023 16:46]  System: some damage has been healed : 25
+[05/28/2023 16:46]  Stink Fist: (Earth Aspect 1,696.4/4500 xp)
+[05/28/2023 16:46]  System: -161
+[05/28/2023 16:46]  You see: a gremlin corpse
+[05/28/2023 16:46]  Razor: Divine Fury
+[05/28/2023 16:46]  System: Divine Fury
+[05/28/2023 16:46]  System: Holy symbols remaining: 6/10
+[05/28/2023 16:46]  System: Who will you use the bandages on?
+[05/28/2023 16:46]  System: You begin applying the bandages.
+[05/28/2023 16:46]  Stink Fist: -1
+[05/28/2023 16:46]  System: Your fingers slip!
+[05/28/2023 16:46]  System: What do you wish to carve, investigate, or research?
+[05/28/2023 16:46]  System: You carve materials from the corpse.
+[05/28/2023 16:46]  System: New target set.
+[05/28/2023 16:46]  Razor: Target: a goblin
+[05/28/2023 16:46]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:46]  Razor: Attack: a goblin
+[05/28/2023 16:46]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:46]  a goblin: -74
+[05/28/2023 16:46]  a goblin: -157
+[05/28/2023 16:46]  System: New target set.
+[05/28/2023 16:47]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:47]  System: Chivalry skillgain: 0.561 % [2]
+[05/28/2023 16:47]  a goblin: -55
+[05/28/2023 16:47]  System: Your attack cripples your target, lowering their defense!
+[05/28/2023 16:47]  a goblin: -85
+[05/28/2023 16:47]  System: New target set.
+[05/28/2023 16:47]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:47]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/28/2023 16:47]  a goblin: -105
+[05/28/2023 16:47]  System: Chivalry skillgain: 0.561 % [3]
+[05/28/2023 16:47]  System: New target set.
+[05/28/2023 16:47]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:47]  System: You finish applying the bandages.
+[05/28/2023 16:47]  Stink Fist: +1
+[05/28/2023 16:47]  System: Healing skillgain: 15.083 %
+[05/28/2023 16:47]  Stink Fist: -6
+[05/28/2023 16:47]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:47]  a goblin: -67
+[05/28/2023 16:47]  System: Who will you use the bandages on?
+[05/28/2023 16:47]  System: You begin applying the bandages.
+[05/28/2023 16:47]  a goblin: -49
+[05/28/2023 16:47]  System: You deliver a zen strike to your opponent.
+[05/28/2023 16:47]  Stink Fist: +6
+[05/28/2023 16:47]  System: some damage has been healed : 6
+[05/28/2023 16:47]  Stink Fist: (Earth Aspect 1,697.8/4500 xp)
+[05/28/2023 16:47]  System: -8
+[05/28/2023 16:47]  You see: a goblin corpse
+[05/28/2023 16:47]  System: New target set.
+[05/28/2023 16:47]  Razor: Target: a goblin
+[05/28/2023 16:47]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:47]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:47]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:47]  System: What do you wish to carve, investigate, or research?
+[05/28/2023 16:47]  System: You carve materials from the corpse.
+[05/28/2023 16:47]  System: No one matching that was found on your screen.
+[05/28/2023 16:47]  Razor: found no one
+[05/28/2023 16:47]  System: Holy symbols remaining: 8/10
+[05/28/2023 16:47]  System: No one matching that was found on your screen.
+[05/28/2023 16:47]  Razor: found no one
+[05/28/2023 16:47]  System: You may now attempt to disarm your opponent again.
+[05/28/2023 16:47]  Razor: [DISARM]
+[05/28/2023 16:47]  an aegis mongbat: an aegis mongbat
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: You heal what little damage you had.
+[05/28/2023 16:47]  System: Healing skillgain: 15.083 %
+[05/28/2023 16:47]  System: Your skill in Anatomy has decreased by 0.1.  It is now 48.0.
+[05/28/2023 16:47]  System: Your skill in Healing has increased by 0.1.  It is now 81.9.
+[05/28/2023 16:47]  Razor: [Anatomy] -0.1 48.0 (-0.1)
+[05/28/2023 16:47]  Razor: [Healing] +0.1 81.9 (+0.1)
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  an aegis slime: an aegis slime
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a chaos footman: a chaos footman
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: Being perfectly rested, you shove them out of the way.
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  an aegis minion: an aegis minion
+[05/28/2023 16:47]  Razor: drink a red pot
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  an aegis rat: an aegis rat
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  an aegis slime: an aegis slime
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  a chaos footman: a chaos footman
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a wolfhound: a wolfhound
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  a wolfhound: *charges*
+[05/28/2023 16:47]  System: You evade an attack (Dispel Evil).
+[05/28/2023 16:47]  Stink Fist: -1
+[05/28/2023 16:47]  an aegis imp: an aegis imp
+[05/28/2023 16:47]  System: PK Getaway Script engaged
+[05/28/2023 16:47]  System: Script Error: Cannot convert argument to uint (Line: 273)
+[05/28/2023 16:47]  System: Who will you use the bandages on?
+[05/28/2023 16:47]  Stink Fist: +1
+[05/28/2023 16:47]  System: some damage has been healed : 1
+[05/28/2023 16:47]  System: Holy symbols remaining: 9/10
+[05/28/2023 16:47]  System: Being perfectly rested, you shove them out of the way.
+[05/28/2023 16:47]  Razor: Target: Stink Fist
+[05/28/2023 16:47]  System: You absorb their spell.
+[05/28/2023 16:47]  System: You parry the spell.
+[05/28/2023 16:47]  Stink Fist: -1
+[05/28/2023 16:47]  System: You begin applying the bandages.
+[05/28/2023 16:47]  an aegis imp: an aegis imp
+[05/28/2023 16:47]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:47]  Stink Fist: -7
+[05/28/2023 16:47]  an aegis imp: an aegis imp
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  a blood ape: a blood ape
+[05/28/2023 16:47]  an aegis minion: an aegis minion
+[05/28/2023 16:47]  a chaos footman: a chaos footman
+[05/28/2023 16:47]  a blood harpy: a blood harpy
+[05/28/2023 16:47]  a blood troll: a blood troll
+[05/28/2023 16:47]  a blood troll: a blood troll
+[05/28/2023 16:47]  a blood hellion: a blood hellion
+[05/28/2023 16:47]  a blood ogre mage: a blood ogre mage
+[05/28/2023 16:47]  a blood hellion: a blood hellion
+[05/28/2023 16:47]  a blood hellion: a blood hellion
+[05/28/2023 16:47]  System: You finish applying the bandages.
+[05/28/2023 16:47]  Stink Fist: +6
+[05/28/2023 16:47]  System: Healing skillgain: 15.083 %
+[05/28/2023 16:47]  a blood orc: a blood orc
+[05/28/2023 16:47]  a blood orc: a blood orc
+[05/28/2023 16:47]  a blood hellion: a blood hellion
+[05/28/2023 16:48]  an aegis whelp: an aegis whelp
+[05/28/2023 16:48]  a blood harpy: a blood harpy
+[05/28/2023 16:48]  a blood troll: a blood troll
+[05/28/2023 16:48]  a clay man: a clay man
+[05/28/2023 16:48]  an aegis lich: an aegis lich
+[05/28/2023 16:48]  an aegis lich: an aegis lich
+[05/28/2023 16:48]  a clay man: a clay man
+[05/28/2023 16:48]  a blood ogre mage: a blood ogre mage
+[05/28/2023 16:48]  an aegis noble: an aegis noble
+[05/28/2023 16:48]  a blood ogre mage: a blood ogre mage
+[05/28/2023 16:48]  Razor: Rope a dope
+[05/28/2023 16:48]  System: Where do you wish to traverse to?
+[05/28/2023 16:48]  a clay man: a clay man
+[05/28/2023 16:48]  System: You are no longer hindered.
+[05/28/2023 16:48]  Razor: [+Paralyze (0s)]
+[05/28/2023 16:48]  Razor: [-Paralyze (s)]
+[05/28/2023 16:48]  an aegis scorpion: an aegis scorpion
+[05/28/2023 16:48]  a coagulator: a coagulator
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Razor: Target: a clay man
+[05/28/2023 16:48]  an entombed: an entombed
+[05/28/2023 16:48]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:48]  Razor: Attack: a clay man
+[05/28/2023 16:48]  a blood troll: a blood troll
+[05/28/2023 16:48]  a bloodrat: a bloodrat
+[05/28/2023 16:48]  a coagulator: a coagulator
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Razor: Target: a coagulator
+[05/28/2023 16:48]  a twilight guardian: a twilight guardian
+[05/28/2023 16:48]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:48]  Razor: Attack: a coagulator
+[05/28/2023 16:48]  Razor: Rope a dope
+[05/28/2023 16:48]  System: Where do you wish to traverse to?
+[05/28/2023 16:48]  Razor: [+Paralyze (0s)]
+[05/28/2023 16:48]  an aegis cultist: an aegis cultist
+[05/28/2023 16:48]  System: You are no longer hindered.
+[05/28/2023 16:48]  Razor: [-Paralyze (s)]
+[05/28/2023 16:48]  an aegis scorpion: an aegis scorpion
+[05/28/2023 16:48]  an aegis leech: an aegis leech
+[05/28/2023 16:48]  an aegis leech: an aegis leech
+[05/28/2023 16:48]  a bloodrat: *blood expertise*
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Razor: Target: a bloodrat
+[05/28/2023 16:48]  System: Holy symbols remaining: 9/10
+[05/28/2023 16:48]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:48]  Razor: Attack: a bloodrat
+[05/28/2023 16:48]  an aegis asp: an aegis asp
+[05/28/2023 16:48]  an aegis leech: an aegis leech
+[05/28/2023 16:48]  an aegis scorpion: an aegis scorpion
+[05/28/2023 16:48]  an aegis asp: an aegis asp
+[05/28/2023 16:48]  a blood cyclops: a blood cyclops
+[05/28/2023 16:48]  a bloodwolf: a bloodwolf
+[05/28/2023 16:48]  a bloodwolf: a bloodwolf
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Razor: Target: an aegis leech
+[05/28/2023 16:48]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:48]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:48]  Razor: Attack: an aegis leech
+[05/28/2023 16:48]  System: Chivalry skillgain: 0.566 %
+[05/28/2023 16:48]  System: You fail to disarm your opponent.
+[05/28/2023 16:48]  a coagulator: a coagulator
+[05/28/2023 16:48]  a bloodrat: a bloodrat
+[05/28/2023 16:48]  Razor: Rope a dope
+[05/28/2023 16:48]  System: Where do you wish to traverse to?
+[05/28/2023 16:48]  Razor: [+Paralyze (0s)]
+[05/28/2023 16:48]  Razor: [-Paralyze (s)]
+[05/28/2023 16:48]  Razor: [+Paralyze (0s)]
+[05/28/2023 16:48]  Razor: [-Paralyze (s)]
+[05/28/2023 16:48]  System: You are no longer hindered.
+[05/28/2023 16:48]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:48]  an aegis leech: -113
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Razor: Target: an aegis leech
+[05/28/2023 16:48]  Stink Fist: -6
+[05/28/2023 16:48]  You see: a lesser blood daemon corpse
+[05/28/2023 16:48]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:48]  Razor: Attack: an aegis leech
+[05/28/2023 16:48]  an aegis leech: -59
+[05/28/2023 16:48]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:48]  You see: a blood sorcerer corpse
+[05/28/2023 16:48]  You see: a blood sorcerer corpse
+[05/28/2023 16:48]  You see: a lesser blood daemon corpse
+[05/28/2023 16:48]  Razor: Divine Fury
+[05/28/2023 16:48]  System: Divine Fury
+[05/28/2023 16:48]  System: Holy symbols remaining: 6/10
+[05/28/2023 16:48]  System: Who will you use the bandages on?
+[05/28/2023 16:48]  System: You begin applying the bandages.
+[05/28/2023 16:48]  System: MagicResist skillgain: 71.429 %
+[05/28/2023 16:48]  System: Your skill in Anatomy has decreased by 0.1.  It is now 47.9.
+[05/28/2023 16:48]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 84.1.
+[05/28/2023 16:48]  Razor: [Anatomy] -0.1 47.9 (-0.2)
+[05/28/2023 16:48]  Razor: [MagicResist] +0.1 84.1 (+0.1)
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Stink Fist: -13
+[05/28/2023 16:48]  System: Your fingers slip!
+[05/28/2023 16:48]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:48]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:48]  an aegis leech: -46
+[05/28/2023 16:48]  Stink Fist: -10
+[05/28/2023 16:48]  Stink Fist: -1
+[05/28/2023 16:48]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:48]  an aegis leech: -65
+[05/28/2023 16:48]  System: You are now under the protection of the town guards.
+[05/28/2023 16:48]  Razor: [+Hidden/Stealthing (0s)]
+[05/28/2023 16:48]  Stink Fist: Your mount returns.
+[05/28/2023 16:48]  a dog: a dog
+[05/28/2023 16:48]  a cat: a cat
+[05/28/2023 16:48]  Zia: Zia the provisioner
+[05/28/2023 16:48]  a dog: a dog
+[05/28/2023 16:48]  Adiran: Adiran the dockmaster
+[05/28/2023 16:48]  Amarante: Amarante the salvage foreman
+[05/28/2023 16:48]  Belinda: Belinda the provisioner
+[05/28/2023 16:48]  Lindsay: Lindsay the fisherman
+[05/28/2023 16:48]  a seagull: a seagull
+[05/28/2023 16:48]  Gretchen: Gretchen the baker
+[05/28/2023 16:48]  Nori: Nori the dockmaster
+[05/28/2023 16:48]  a dog: a dog
+[05/28/2023 16:48]  System: New target set.
+[05/28/2023 16:48]  Razor: Target: a seagull
+[05/28/2023 16:48]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:48]  Razor: Attack: a seagull
+[05/28/2023 16:48]  System: You finish applying the bandages.
+[05/28/2023 16:48]  Stink Fist: +27
+[05/28/2023 16:48]  System: Healing skillgain: 15.083 %
+[05/28/2023 16:48]  Captain Praxito: [x_-]
+[05/28/2023 16:48]  Captain Praxito: Captain Praxito
+[05/28/2023 16:48]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:48]  System: Your strike disarms your target!
+[05/28/2023 16:48]  Stink Fist: (Earth Aspect 1,698.5/4500 xp)
+[05/28/2023 16:48]  System: -75
+[05/28/2023 16:48]  Razor: [-Hidden/Stealthing (s)]
+[05/28/2023 16:48]  You see: a seagull corpse
+[05/28/2023 16:48]  System: What do you wish to carve, investigate, or research?
+[05/28/2023 16:48]  System: No one matching that was found on your screen.
+[05/28/2023 16:48]  Razor: found no one
+[05/28/2023 16:48]  System: Holy symbols remaining: 8/10
+[05/28/2023 16:48]  System: No one matching that was found on your screen.
+[05/28/2023 16:48]  Amarante: Next stop Shelter Island! Mind yer step!
+[05/28/2023 16:48]  Razor: found no one
+[05/28/2023 16:48]  Captain Praxito: [x_-]
+[05/28/2023 16:48]  Captain Praxito: Captain Praxito
+[05/28/2023 16:48]  System: You may now use an agility potion.
+[05/28/2023 16:48]  Captain Praxito: [x_-]
+[05/28/2023 16:48]  Captain Praxito: Captain Praxito
+[05/28/2023 16:48]  System: You may now use a strength potion.
+[05/28/2023 16:48]  System: No one matching that was found on your screen.
+[05/28/2023 16:48]  Razor: found no one
+[05/28/2023 16:48]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:48]  System: No one matching that was found on your screen.
+[05/28/2023 16:48]  Razor: found no one
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: You may now attempt to disarm your opponent again.
+[05/28/2023 16:49]  Razor: [DISARM]
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: Your skill in Tactics has decreased by 31.0.  It is now 100.0.
+[05/28/2023 16:49]  Stink Fist: Kal Ort Por [Recall]
+[05/28/2023 16:49]  System: You have left the protection of the town guards.
+[05/28/2023 16:49]  an ogre: an ogre
+[05/28/2023 16:49]  a towhee: a towhee
+[05/28/2023 16:49]  knotted roots: knotted roots
+[05/28/2023 16:49]  a magpie: a magpie
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  a wolf: a wolf
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Razor: Target: a wolf
+[05/28/2023 16:49]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:49]  a headless: a headless
+[05/28/2023 16:49]  knotted roots: knotted roots
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:49]  Razor: Attack: a wolf
+[05/28/2023 16:49]  System: Holy symbols remaining: 9/10
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  System: PK Getaway Script engaged
+[05/28/2023 16:49]  System: PK Getaway Script engaged
+[05/28/2023 16:49]  You see: a blessed codex of parrying
+[05/28/2023 16:49]  You see: (Bulwark and Last Stand)
+[05/28/2023 16:49]  System: PK Getaway Script engaged
+[05/28/2023 16:49]  Stink Fist: -7
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:49]  System: Your strike disarms your target!
+[05/28/2023 16:49]  a wolf: -4
+[05/28/2023 16:49]  System: Script Error: Cannot convert argument to uint (Line: 273)
+[05/28/2023 16:49]  Stink Fist: +7
+[05/28/2023 16:49]  System: some damage has been healed : 7
+[05/28/2023 16:49]  a wolf: -4
+[05/28/2023 16:49]  Stink Fist: -11
+[05/28/2023 16:49]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:49]  a wolf: -4
+[05/28/2023 16:49]  Stink Fist: -3
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:49]  You see: exceptional earth aspect goldenwood martial manual
+[05/28/2023 16:49]  You see: [mastercrafted by Cornucopia]
+[05/28/2023 16:49]  System: Your skill in Tactics has increased by 31.0.  It is now 131.0.
+[05/28/2023 16:49]  System: You smash through the remainder of their armor, dealing grevious damage!
+[05/28/2023 16:49]  a wolf: -115
+[05/28/2023 16:49]  System: MagicResist skillgain: 71.429 %
+[05/28/2023 16:49]  System: Your skill in Anatomy has decreased by 0.1.  It is now 47.8.
+[05/28/2023 16:49]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 84.2.
+[05/28/2023 16:49]  Razor: [Anatomy] -0.1 47.8 (-0.3)
+[05/28/2023 16:49]  Razor: [MagicResist] +0.1 84.2 (+0.2)
+[05/28/2023 16:49]  Stink Fist: -11
+[05/28/2023 16:49]  Stink Fist: (Earth Aspect 1,699.4/4500 xp)
+[05/28/2023 16:49]  System: -273
+[05/28/2023 16:49]  You see: a wolf corpse
+[05/28/2023 16:49]  System: What do you wish to carve, investigate, or research?
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:49]  Stink Fist: -3
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Razor: Target: a headless
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.564 %
+[05/28/2023 16:49]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:49]  Razor: Attack: a headless
+[05/28/2023 16:49]  a headless: -83
+[05/28/2023 16:49]  Razor: Divine Fury
+[05/28/2023 16:49]  System: Divine Fury
+[05/28/2023 16:49]  System: Holy symbols remaining: 6/10
+[05/28/2023 16:49]  System: Your skill in Anatomy has decreased by 0.1.  It is now 47.7.
+[05/28/2023 16:49]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 84.3.
+[05/28/2023 16:49]  System: Spell siphon max bonus reached (21.1 %).
+[05/28/2023 16:49]  System: Who will you use the bandages on?
+[05/28/2023 16:49]  Razor: [Anatomy] -0.1 47.7 (-0.4)
+[05/28/2023 16:49]  Razor: [MagicResist] +0.1 84.3 (+0.3)
+[05/28/2023 16:49]  System: You begin applying the bandages.
+[05/28/2023 16:49]  System: MagicResist skillgain: 71.429 %
+[05/28/2023 16:49]  a headless: -238
+[05/28/2023 16:49]  Stink Fist: -11
+[05/28/2023 16:49]  System: Your fingers slip!
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.561 %
+[05/28/2023 16:49]  System: Your attack cripples your target, lowering their defense!
+[05/28/2023 16:49]  Stink Fist: (Earth Aspect 1,700.1/4500 xp)
+[05/28/2023 16:49]  System: -79
+[05/28/2023 16:49]  You see: a headless corpse
+[05/28/2023 16:49]  System: Chivalry skillgain: 0.564 % [2]
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Razor: Target: knotted roots
+[05/28/2023 16:49]  System: Your skill in Anatomy has decreased by 0.1.  It is now 47.6.
+[05/28/2023 16:49]  System: Your skill in Resisting Spells has increased by 0.1.  It is now 84.4.
+[05/28/2023 16:49]  Razor: [Anatomy] -0.1 47.6 (-0.5)
+[05/28/2023 16:49]  Razor: [MagicResist] +0.1 84.4 (+0.4)
+[05/28/2023 16:49]  System: Spell siphon max bonus reached (21.1 %).
+[05/28/2023 16:49]  System: MagicResist skillgain: 71.429 %
+[05/28/2023 16:49]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:49]  Stink Fist: -10
+[05/28/2023 16:49]  System: Your fingers slip!
+[05/28/2023 16:49]  System: What do you wish to carve, investigate, or research? [2]
+[05/28/2023 16:49]  System: New target set.
+[05/28/2023 16:49]  Stink Fist: -12
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  System: Your fingers slip!
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  a wolf: a wolf
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: You finish applying the bandages.
+[05/28/2023 16:49]  Stink Fist: +44
+[05/28/2023 16:49]  System: Healing skillgain: 15.083 %
+[05/28/2023 16:49]  You see: a blessed codex of parrying
+[05/28/2023 16:49]  You see: (Bulwark and Last Stand)
+[05/28/2023 16:49]  System: You deactivate your stance.
+[05/28/2023 16:49]  System: You deactivate your finisher.
+[05/28/2023 16:49]  System: No one matching that was found on your screen.
+[05/28/2023 16:49]  Razor: found no one
+[05/28/2023 16:49]  System: Who will you use the bandages on?
+[05/28/2023 16:49]  System: You begin applying the bandages.
+[05/28/2023 16:50]  System: New target set.
+[05/28/2023 16:50]  Razor: Target: a wolf
+[05/28/2023 16:50]  System: Holy symbols remaining: 8/10
+[05/28/2023 16:50]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:50]  Razor: Attack: a wolf
+[05/28/2023 16:50]  System: You may now attempt to disarm your opponent again.
+[05/28/2023 16:50]  Razor: [DISARM]
+[05/28/2023 16:50]  System: New target set.
+[05/28/2023 16:50]  a headless: a headless
+[05/28/2023 16:50]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:50]  System: New target set.
+[05/28/2023 16:50]  Razor: Target: a headless
+[05/28/2023 16:50]  Stink Fist: Bulwark stance activated.
+[05/28/2023 16:50]  Stink Fist: Last Stand finisher activated.
+[05/28/2023 16:50]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:50]  a wolf: a wolf
+[05/28/2023 16:50]  System: New target set.
+[05/28/2023 16:50]  Razor: Target: a wolf
+[05/28/2023 16:50]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:50]  System: You finish applying the bandages.
+[05/28/2023 16:50]  Stink Fist: +9
+[05/28/2023 16:50]  System: Healing skillgain: 15.083 %
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: Wrestling stance adoption expired.
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: Your skill in Tactics has decreased by 31.0.  It is now 100.0.
+[05/28/2023 16:50]  Stink Fist: Kal Ort Por [Recall]
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  a gargoyle: a gargoyle
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: New target set.
+[05/28/2023 16:50]  Razor: Target: a gargoyle
+[05/28/2023 16:50]  Razor: ● ▼ OUT OF RANGE ▼ ●
+[05/28/2023 16:50]  System: Holy symbols remaining: 9/10
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: Max holy symbols earned (10/10)
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: No one matching that was found on your screen.
+[05/28/2023 16:50]  Razor: found no one
+[05/28/2023 16:50]  System: Your skill in Tactics has increased by 31.0.  It is now 131.0.

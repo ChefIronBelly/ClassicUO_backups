@@ -1,0 +1,520 @@
+[05/31/2023 05:37]  System: WorldMap loading...
+[05/31/2023 05:37]  System: Loading WorldMap markers..
+[05/31/2023 05:37]  System: ..Banks_and_Healers.xml (20)
+[05/31/2023 05:37]  System: ..Dungeons.xml (12)
+[05/31/2023 05:37]  System: ..Dungeon_Gates.xml (325)
+[05/31/2023 05:37]  System: ..Healer_Caravans.xml (32)
+[05/31/2023 05:37]  System: ..Moongates.xml (9)
+[05/31/2023 05:37]  System: ..POI.xml (176)
+[05/31/2023 05:37]  System: ..PvP_Locations.xml (71)
+[05/31/2023 05:37]  System: ..Shrines.xml (9)
+[05/31/2023 05:37]  System: ..Subterranean.xml (6)
+[05/31/2023 05:37]  System: ..Townships.xml (9)
+[05/31/2023 05:37]  System: WorldMap markers loaded (669)
+[05/31/2023 05:37]  System: Welcome Wulf of Wyrd!
+[05/31/2023 05:37]  Wulf of Wyrd: Wulf of Wyrd
+[05/31/2023 05:37]  a headless: a headless
+[05/31/2023 05:37]  Stink Fist: Stink Fist
+[05/31/2023 05:37]  a harpy: a harpy
+[05/31/2023 05:37]  System: You must wait to perform another action.
+[05/31/2023 05:37]  System: Finished 2 queued actions in 0.6 seconds.
+[05/31/2023 05:37]  System: WorldMap loaded!
+[05/31/2023 05:37]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 05:37]  Razor: Target: Stink Fist
+[05/31/2023 05:37]  System: You generate mana for your spell.
+[05/31/2023 05:37]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 05:37]  Razor: [+Protection (600s)]
+[05/31/2023 05:37]  Razor: [Beneficial Target]
+[05/31/2023 05:37]  Razor: [Last Target]
+[05/31/2023 05:37]  Stink Fist: Stink Fist
+[05/31/2023 05:37]  Razor: v8.1.1
+[05/31/2023 05:37]  Razor: uorazorscripts.com/mage-bot
+[05/31/2023 05:37]  Wulf of Wyrd: This script was brought to you by youtube.com/Jaseowns
+[05/31/2023 05:37]  System: What do you wish to track?
+[05/31/2023 05:37]  System: You will only be able to track individuals and creatures currently within this house.
+[05/31/2023 05:37]  System: You will now hunt enemy players.
+[05/31/2023 05:37]  System: You will now hunt murderer players.
+[05/31/2023 05:37]  System: You will now hunt criminal players.
+[05/31/2023 05:37]  System: You will now hunt innocent players.
+[05/31/2023 05:37]  System: You will now hunt friendly players.
+[05/31/2023 05:37]  System: You will now hunt aggressive creatures.
+[05/31/2023 05:37]  System: You will now hunt passive creatures.
+[05/31/2023 05:37]  System: You will now hunt townsfolk.
+[05/31/2023 05:37]  System: You will now hunt all players.
+[05/31/2023 05:37]  System: You will now hunt all hostile players.
+[05/31/2023 05:37]  Wulf of Wyrd: You begin hunting.
+[05/31/2023 05:37]  Razor: [+Tracking Hunting (0s)]
+[05/31/2023 05:38]  Razor: Casting Summon: Earth Elemental
+[05/31/2023 05:38]  Wulf of Wyrd: Kal Vas Xen Ylem [Earth Elemental]
+[05/31/2023 05:38]  System: You are already casting a spell.
+[05/31/2023 05:38]  System: You are already casting a spell. [6]
+[05/31/2023 05:38]  System: Magery skillgain: 7.500%
+[05/31/2023 05:38]  an earth elemental: (summoned 10m)
+[05/31/2023 05:38]  an earth elemental: an earth elemental
+[05/31/2023 05:38]  Razor: Renaming...
+[05/31/2023 05:38]  Razor: Rename to jaseneccy...
+[05/31/2023 05:38]  Razor: New Pet: Earth Elemental
+[05/31/2023 05:38]  Razor: Casting Summon: Summon Daemon
+[05/31/2023 05:38]  Wulf of Wyrd: Kal Vas Xen Corp [Summon Daemon]
+[05/31/2023 05:38]  System: You are already casting a spell. [4]
+[05/31/2023 05:38]  System: You are already casting a spell. [6]
+[05/31/2023 05:38]  System: Magery skillgain: 7.500%
+[05/31/2023 05:38]  a daemon: (summoned 10m)
+[05/31/2023 05:38]  a daemon: a daemon
+[05/31/2023 05:38]  Razor: Renaming...
+[05/31/2023 05:38]  Razor: Rename to jaseyoutube...
+[05/31/2023 05:38]  Razor: New Pet: Summon Daemon
+[05/31/2023 05:38]  Razor: Casting Summon: Summ. Creature
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You enter a meditative trance.
+[05/31/2023 05:38]  Razor: [+Actively Meditating (0s)]
+[05/31/2023 05:38]  System: You are already casting a spell.
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You stop meditating.
+[05/31/2023 05:38]  Wulf of Wyrd: all guard
+[05/31/2023 05:38]  Razor: [-Actively Meditating (s)]
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill.
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill. [14]
+[05/31/2023 05:38]  System: You enter a meditative trance.
+[05/31/2023 05:38]  Razor: [+Actively Meditating (0s)]
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill. [2]
+[05/31/2023 05:38]  System: You stop meditating.
+[05/31/2023 05:38]  Razor: [-Actively Meditating (s)]
+[05/31/2023 05:38]  Rane: Rane the dockmaster
+[05/31/2023 05:38]  a forest ostard: a forest ostard
+[05/31/2023 05:38]  a hind: a hind
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill. [14]
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill. [14]
+[05/31/2023 05:38]  System: You enter a meditative trance.
+[05/31/2023 05:38]  Razor: [+Actively Meditating (0s)]
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: Opening door...
+[05/31/2023 05:38]  System: Your house and its contents have been refreshed. 28 days 7 hours 42 minutes remaining until owner refresh required.
+[05/31/2023 05:38]  System: You stop meditating.
+[05/31/2023 05:38]  Razor: [-Actively Meditating (s)]
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill.
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill. [14]
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  jaseyoutube: (summoned 9m 31s)
+[05/31/2023 05:38]  jaseyoutube: jaseyoutube
+[05/31/2023 05:38]  a headless: -37
+[05/31/2023 05:38]  a harpy: -38
+[05/31/2023 05:38]  Razor: waiting for mana
+[05/31/2023 05:38]  System: You enter a meditative trance.
+[05/31/2023 05:38]  Razor: [+Actively Meditating (0s)]
+[05/31/2023 05:38]  a hind: a hind
+[05/31/2023 05:38]  a headless: -33
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill. [9]
+[05/31/2023 05:38]  a harpy: -32
+[05/31/2023 05:38]  System: You stop meditating.
+[05/31/2023 05:38]  Razor: [-Actively Meditating (s)]
+[05/31/2023 05:38]  Wulf of Wyrd: Kal Xen [Summ. Creature]
+[05/31/2023 05:38]  System: You are already casting a spell.
+[05/31/2023 05:38]  a headless: -41
+[05/31/2023 05:38]  a harpy: -36
+[05/31/2023 05:38]  jaseneccy: -13
+[05/31/2023 05:38]  a harpy: -7
+[05/31/2023 05:38]  System: You are already casting a spell. [6]
+[05/31/2023 05:38]  a headless: -41
+[05/31/2023 05:38]  a harpy: -34
+[05/31/2023 05:38]  a grizzly bear: (summoned 10m)
+[05/31/2023 05:38]  a grizzly bear: a grizzly bear
+[05/31/2023 05:38]  Razor: Creature summoned!
+[05/31/2023 05:38]  Razor: ● ▼▼ HERE ▼▼ ●
+[05/31/2023 05:38]  Razor: Found: a harpy
+[05/31/2023 05:38]  Razor: Gray
+[05/31/2023 05:38]  Razor: a harpy
+[05/31/2023 05:38]  jaseneccy: -3
+[05/31/2023 05:38]  a headless: -3
+[05/31/2023 05:38]  Wulf of Wyrd: all guard
+[05/31/2023 05:38]  a headless: -37
+[05/31/2023 05:38]  System: You are already casting a spell. [2]
+[05/31/2023 05:38]  Wulf of Wyrd: all guard me
+[05/31/2023 05:38]  System: You must wait a few moments to use another skill.
+[05/31/2023 05:38]  a harpy: -37
+[05/31/2023 05:38]  jaseneccy: -7
+[05/31/2023 05:38]  a headless: -4
+[05/31/2023 05:38]  a headless: -40
+[05/31/2023 05:38]  a harpy: -21
+[05/31/2023 05:38]  jaseneccy: -10
+[05/31/2023 05:38]  a harpy: -6
+[05/31/2023 05:38]  a harpy: -24
+[05/31/2023 05:38]  a harpy: -33
+[05/31/2023 05:38]  a headless: -36
+[05/31/2023 05:38]  Wulf of Wyrd: In Jux Sanct [Magic Reflection]
+[05/31/2023 05:38]  jaseneccy: -12
+[05/31/2023 05:38]  a harpy: -6
+[05/31/2023 05:38]  System: You are already casting a spell.
+[05/31/2023 05:39]  System: You generate mana for your spell.
+[05/31/2023 05:39]  Razor: [+Magic Reflection (0s)]
+[05/31/2023 05:39]  System: You have not yet recovered from casting a spell.
+[05/31/2023 05:39]  Wulf of Wyrd: Por Ort Grav [Lightning]
+[05/31/2023 05:39]  a harpy: -20
+[05/31/2023 05:39]  a headless: -36
+[05/31/2023 05:39]  System: You charge your spell with additional energy!
+[05/31/2023 05:39]  a harpy: -120
+[05/31/2023 05:39]  System: You are already casting a spell. [7]
+[05/31/2023 05:39]  a harpy: -20
+[05/31/2023 05:39]  a harpy: -37
+[05/31/2023 05:39]  a headless: -38
+[05/31/2023 05:39]  System: You have not yet recovered from casting a spell.
+[05/31/2023 05:39]  Wulf of Wyrd: all guard me
+[05/31/2023 05:39]  System: You enter a meditative trance.
+[05/31/2023 05:39]  Razor: [+Actively Meditating (0s)]
+[05/31/2023 05:39]  a harpy: -38
+[05/31/2023 05:39]  a headless: -34
+[05/31/2023 05:39]  a harpy: -34
+[05/31/2023 05:39]  System: You stop meditating.
+[05/31/2023 05:39]  Razor: [-Actively Meditating (s)]
+[05/31/2023 05:39]  Wulf of Wyrd: Flam Sanct [Reactive Armor]
+[05/31/2023 05:39]  System: You are already casting a spell.
+[05/31/2023 05:39]  Razor: [+Reactive Armor (0s)]
+[05/31/2023 05:39]  jaseneccy: -12
+[05/31/2023 05:39]  a headless: -21
+[05/31/2023 05:39]  System: You have gained a little fame.
+[05/31/2023 05:39]  System: You have gained a little karma.
+[05/31/2023 05:39]  Wulf of Wyrd: (Void Aspect 0.3/500 xp)
+[05/31/2023 05:39]  You see: a headless corpse
+[05/31/2023 05:39]  a harpy: -10
+[05/31/2023 05:39]  a harpy: -33
+[05/31/2023 05:39]  Wulf of Wyrd: Corp Por [Energy Bolt]
+[05/31/2023 05:39]  System: You are already casting a spell. [4]
+[05/31/2023 05:39]  a harpy: -36
+[05/31/2023 05:39]  a harpy: -190
+[05/31/2023 05:39]  Wulf of Wyrd: all guard me
+[05/31/2023 05:39]  System: You enter a meditative trance.
+[05/31/2023 05:39]  Razor: [+Actively Meditating (0s)]
+[05/31/2023 05:39]  System: You are already casting a spell. [3]
+[05/31/2023 05:39]  a harpy: -40
+[05/31/2023 05:39]  a harpy: -23
+[05/31/2023 05:39]  jaseneccy: -8
+[05/31/2023 05:39]  a harpy: -8
+[05/31/2023 05:39]  a harpy: -36
+[05/31/2023 05:39]  a harpy: -33
+[05/31/2023 05:39]  System: You stop meditating.
+[05/31/2023 05:39]  Razor: [-Actively Meditating (s)]
+[05/31/2023 05:39]  Wulf of Wyrd: In Por Ylem [Magic Arrow]
+[05/31/2023 05:39]  System: You are already casting a spell.
+[05/31/2023 05:39]  System: You have not yet recovered from casting a spell.
+[05/31/2023 05:39]  System: You charge your spell with additional energy!
+[05/31/2023 05:39]  System: You have gained some fame.
+[05/31/2023 05:39]  System: You have gained some karma.
+[05/31/2023 05:39]  Wulf of Wyrd: (Void Aspect 1.3/500 xp)
+[05/31/2023 05:39]  System: -48
+[05/31/2023 05:39]  You see: a harpy corpse
+[05/31/2023 05:39]  Razor: Out of range
+[05/31/2023 05:39]  Razor: We cleared curse and mana drain targets
+[05/31/2023 05:39]  Wulf of Wyrd: all guard me
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  a forest ostard: a forest ostard
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Rane: Rane the dockmaster
+[05/31/2023 05:39]  System: What do you wish to carve, investigate, or research?
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  System: What corpse or location do you wish to carve?
+[05/31/2023 05:39]  Razor: Target: Wulf of Wyrd
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  System: What do you wish to carve, investigate, or research?
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  System: Captcha successful.
+[05/31/2023 05:39]  System: You carve materials from the corpse.
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  System: You carve materials from the corpse.
+[05/31/2023 05:39]  Razor: Found type found no one
+[05/31/2023 05:39]  System: [GridLoot]: Corpse is empty!
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  System: Opening door...
+[05/31/2023 05:40]  System: Your house and its contents have been refreshed. 28 days 7 hours 41 minutes remaining until owner refresh required.
+[05/31/2023 05:40]  Rane: Rane the dockmaster
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  a grizzly bear: (summoned 8m 40s)
+[05/31/2023 05:40]  a grizzly bear: a grizzly bear
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  Razor: Casting Summon: Summ. Creature
+[05/31/2023 05:40]  Wulf of Wyrd: Kal Xen [Summ. Creature]
+[05/31/2023 05:40]  System: You are already casting a spell.
+[05/31/2023 05:40]  jaseneccy: (summoned 7m 50s)
+[05/31/2023 05:40]  jaseneccy: jaseneccy
+[05/31/2023 05:40]  Razor: Creature summoned!
+[05/31/2023 05:40]  Razor: Found type found no one
+[05/31/2023 05:40]  System: You are already casting a spell. [4]
+[05/31/2023 05:40]  jaseyoutube: (summoned 7m 54s)
+[05/31/2023 05:40]  jaseyoutube: jaseyoutube
+[05/31/2023 05:40]  a brown bear: (summoned 10m)
+[05/31/2023 05:40]  a brown bear: a brown bear
+[05/31/2023 05:40]  Razor: Casting Summon: Earth Elemental
+[05/31/2023 05:40]  Wulf of Wyrd: Kal Vas Xen Ylem [Earth Elemental]
+[05/31/2023 05:40]  Razor: Not found
+[05/31/2023 05:40]  Razor: Casting Summon: Summ. Creature
+[05/31/2023 05:40]  System: You are already casting a spell. [2]
+[05/31/2023 05:40]  Razor: Done for now
+[05/31/2023 05:40]  System: Magery skillgain: 7.500%
+[05/31/2023 05:40]  an earth elemental: (summoned 10m)
+[05/31/2023 05:40]  an earth elemental: an earth elemental
+[05/31/2023 05:40]  System: You are already casting a spell.
+[05/31/2023 05:40]  an earth elemental: (summoned 9m 57s)
+[05/31/2023 05:40]  an earth elemental: an earth elemental
+[05/31/2023 05:40]  a brown bear: (summoned 9m 48s)
+[05/31/2023 05:40]  a brown bear: a brown bear
+[05/31/2023 05:40]  a forest ostard: a forest ostard
+[05/31/2023 05:41]  Razor: [Beneficial Target]
+[05/31/2023 05:41]  Stink Fist: Stink Fist
+[05/31/2023 05:43]  a forest ostard: a forest ostard
+[05/31/2023 05:45]  System: [DF] A Dungeon Flashpoint will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[05/31/2023 05:46]  a forest ostard: a forest ostard
+[05/31/2023 05:46]  System: Chef Ramesses has completed the achievement: Chef (Advanced).
+[05/31/2023 05:47]  Aeri: Legendary Animal Bond
+[05/31/2023 05:47]  Aeri: [Ripe, SQzD]
+[05/31/2023 05:47]  Aeri: Aeri
+[05/31/2023 05:47]  a forest ostard: a forest ostard
+[05/31/2023 05:47]  Aeri: Legendary Animal Bond
+[05/31/2023 05:47]  Aeri: [Ripe, SQzD]
+[05/31/2023 05:47]  Aeri: Aeri
+[05/31/2023 05:47]  Aeri: Don't be afraid.
+[05/31/2023 05:47]  Razor: [-Protection (s)]
+[05/31/2023 05:47]  Aeri: Will you be my friend?
+[05/31/2023 05:48]  a llama: *released*
+[05/31/2023 05:48]  a llama: a llama
+[05/31/2023 05:49]  a horse: (tame)
+[05/31/2023 05:49]  a horse: a horse
+[05/31/2023 05:49]  System: Being perfectly rested, you shove them out of the way.
+[05/31/2023 05:50]  a horse: (tame)
+[05/31/2023 05:50]  a horse: a horse
+[05/31/2023 05:50]  System: Click on the person to transfer ownership to.
+[05/31/2023 05:50]  Razor: Target: Stink Fist
+[05/31/2023 05:50]  System: You have transferred your pet to Stink Fist.
+[05/31/2023 05:50]  System: The world will save in 15 seconds.
+[05/31/2023 05:51]  System: The world is saving, please wait.
+[05/31/2023 05:51]  System: World save complete. The entire process took 4.1 seconds.
+[05/31/2023 05:52]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 05:52]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 05:52]  Razor: [+Protection (600s)]
+[05/31/2023 05:52]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 05:52]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 05:55]  System: [DF] A Dungeon Flashpoint will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[05/31/2023 05:55]  Razor: [Beneficial Target]
+[05/31/2023 05:55]  Razor: [Last Target]
+[05/31/2023 05:55]  Stink Fist: [SQzD]
+[05/31/2023 05:55]  Stink Fist: Stink Fist
+[05/31/2023 05:55]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 05:55]  a horse: (tame)
+[05/31/2023 05:55]  a horse: a horse
+[05/31/2023 05:55]  System: Stink Fist has transferred the allegiance of a horse to you.
+[05/31/2023 05:56]  Stink Fist: Kal Ort Por [Recall]
+[05/31/2023 05:56]  System: Nagashovka has completed the achievement: Wilderness Hunter (Basic).
+[05/31/2023 05:57]  Razor: [Beneficial Target]
+[05/31/2023 05:57]  Razor: [Last Target]
+[05/31/2023 05:57]  Stink Fist: [SQzD]
+[05/31/2023 05:57]  Stink Fist: Stink Fist
+[05/31/2023 06:00]  System: [DF] A Dungeon Flashpoint for Aegis Keep has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[05/31/2023 06:02]  System: TeaLover has completed the achievement: Construct Slayer (Basic).
+[05/31/2023 06:02]  Razor: [-Protection (s)]
+[05/31/2023 06:02]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 06:02]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 06:02]  Razor: [+Protection (600s)]
+[05/31/2023 06:02]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 06:02]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 06:04]  System: Vandelay Ind. has completed the achievement: Adventurer Initiate.
+[05/31/2023 06:05]  System: The world will save in 15 seconds.
+[05/31/2023 06:05]  System: The world is saving, please wait.
+[05/31/2023 06:05]  System: World save complete. The entire process took 4.3 seconds.
+[05/31/2023 06:11]  Razor: [Beneficial Target]
+[05/31/2023 06:11]  Razor: [Last Target]
+[05/31/2023 06:11]  Stink Fist: Stink Fist
+[05/31/2023 06:11]  System: You have been revealed!
+[05/31/2023 06:11]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 06:11]  Stink Fist: I ban thee
+[05/31/2023 06:12]  Razor: [-Protection (s)]
+[05/31/2023 06:14]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 06:14]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 06:14]  Razor: [+Protection (600s)]
+[05/31/2023 06:14]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 06:14]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 06:15]  Stink Fist: Kal Ort Por [Recall]
+[05/31/2023 06:18]  System: the Englishman has completed the achievement: Boss Slayer (Basic).
+[05/31/2023 06:20]  System: The world will save in 15 seconds.
+[05/31/2023 06:20]  System: The world is saving, please wait.
+[05/31/2023 06:20]  System: World save complete. The entire process took 4.2 seconds.
+[05/31/2023 06:21]  System: Chef Alchy has completed the achievement: Alchemist (Advanced).
+[05/31/2023 06:23]  System: King Vitamine has completed the achievement: Mugger (Basic).
+[05/31/2023 06:24]  System: Argon Stahlhaut has completed the achievement: Nobility (Basic).
+[05/31/2023 06:24]  Razor: [-Protection (s)]
+[05/31/2023 06:25]  System: Sevage Jozo has completed the achievement: Affluent (Advanced).
+[05/31/2023 06:31]  System: Kuiui has completed the achievement: Skill Proficiency (Basic).
+[05/31/2023 06:31]  System: Tanked has completed the achievement: Alchemist (Basic).
+[05/31/2023 06:31]  Razor: [Beneficial Target]
+[05/31/2023 06:31]  Razor: [Last Target]
+[05/31/2023 06:31]  Stink Fist: Stink Fist
+[05/31/2023 06:31]  System: You have been revealed!
+[05/31/2023 06:31]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 06:31]  Stink Fist: I ban thee
+[05/31/2023 06:33]  Stink Fist: Kal Ort Por [Recall]
+[05/31/2023 06:35]  Razor: [Beneficial Target]
+[05/31/2023 06:35]  Razor: [Last Target]
+[05/31/2023 06:35]  Stink Fist: Stink Fist
+[05/31/2023 06:35]  System: The world will save in 15 seconds.
+[05/31/2023 06:35]  Stink Fist: I ban thee
+[05/31/2023 06:35]  System: The world is saving, please wait.
+[05/31/2023 06:35]  System: World save complete. The entire process took 4.2 seconds.
+[05/31/2023 06:36]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 06:36]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 06:36]  Razor: [+Protection (600s)]
+[05/31/2023 06:37]  System: Cambrian Free Company (CFC) guild has reached prestige level 438.
+[05/31/2023 06:38]  System: The Minoc Syndicate (Syn) guild has reached prestige level 2107.
+[05/31/2023 06:38]  System: Daisy Domergue has completed the achievement: Black Marketeer (Basic).
+[05/31/2023 06:45]  System: [TS] A Town Struggle (mounts allowed) will begin in 15 minutes. Town struggles may be accessed via green moongates near each town bank. Type [TownStruggle to view more details.
+[05/31/2023 06:46]  Razor: [-Protection (s)]
+[05/31/2023 06:48]  Razor: [Beneficial Target]
+[05/31/2023 06:48]  Razor: [Last Target]
+[05/31/2023 06:48]  Stink Fist: Stink Fist
+[05/31/2023 06:48]  Stink Fist: I ban thee
+[05/31/2023 06:48]  System: Relaja La Raja has completed the achievement: Wizard (Advanced).
+[05/31/2023 06:50]  System: The world will save in 15 seconds.
+[05/31/2023 06:50]  System: The world is saving, please wait.
+[05/31/2023 06:50]  System: World save complete. The entire process took 4.2 seconds.
+[05/31/2023 06:52]  System: Gianluigi has completed the achievement: Artificer (Advanced).
+[05/31/2023 06:55]  Rane: Rane the dockmaster
+[05/31/2023 06:55]  System: Being perfectly rested, you shove them out of the way.
+[05/31/2023 06:55]  System: PikaRetta has completed the achievement: Blacksmith (Advanced).
+[05/31/2023 07:00]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 07:00]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 07:00]  Razor: [+Protection (600s)]
+[05/31/2023 07:00]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 07:00]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 07:03]  System: Kaizer Sozeeee has completed the achievement: Colorful (Basic).
+[05/31/2023 07:04]  System: The world will save in 15 seconds.
+[05/31/2023 07:05]  System: The world is saving, please wait.
+[05/31/2023 07:05]  System: World save complete. The entire process took 4.3 seconds.
+[05/31/2023 07:10]  Razor: [-Protection (s)]
+[05/31/2023 07:11]  Razor: [Beneficial Target]
+[05/31/2023 07:11]  Razor: [Last Target]
+[05/31/2023 07:11]  Stink Fist: Stink Fist
+[05/31/2023 07:11]  System: You have been revealed!
+[05/31/2023 07:11]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 07:11]  Stink Fist: I ban thee
+[05/31/2023 07:11]  System: Astigo has completed the achievement: Triggered (Basic).
+[05/31/2023 07:12]  StankFist: (bonded)
+[05/31/2023 07:12]  StankFist: StankFist
+[05/31/2023 07:13]  Stink Fist: Kal Ort Por [Recall]
+[05/31/2023 07:13]  System: Alix Lynx has completed the achievement: Guardian of Pulma (Basic).
+[05/31/2023 07:15]  System: Fun Gus has registered an antiquity: Judgment
+[05/31/2023 07:17]  System: Livaro has completed the achievement: Humanoid Slayer (Basic).
+[05/31/2023 07:18]  System: Nanauee has completed the achievement: Wilderness Hunter (Intermediate).
+[05/31/2023 07:19]  System: The world will save in 15 seconds.
+[05/31/2023 07:20]  System: The world is saving, please wait.
+[05/31/2023 07:20]  System: World save complete. The entire process took 4.2 seconds.
+[05/31/2023 07:20]  Razor: [Beneficial Target]
+[05/31/2023 07:20]  Razor: [Last Target]
+[05/31/2023 07:20]  Stink Fist: Stink Fist
+[05/31/2023 07:20]  Stink Fist: I ban thee
+[05/31/2023 07:21]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 07:21]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 07:21]  Razor: [+Protection (600s)]
+[05/31/2023 07:21]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 07:21]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 07:22]  Razor: [Beneficial Target]
+[05/31/2023 07:22]  Razor: [Last Target]
+[05/31/2023 07:22]  Stink Fist: Stink Fist
+[05/31/2023 07:22]  System: Fire Sauce has completed the achievement: Nature Slayer (Basic).
+[05/31/2023 07:24]  System: Ms Piggy has completed the achievement: Metalsmith (Advanced).
+[05/31/2023 07:24]  System: Argon Stahlhaut has completed the achievement: Connoisseur (Basic).
+[05/31/2023 07:31]  Razor: [-Protection (s)]
+[05/31/2023 07:34]  System: The world will save in 15 seconds.
+[05/31/2023 07:34]  System: The world is saving, please wait.
+[05/31/2023 07:34]  System: World save complete. The entire process took 4.1 seconds.
+[05/31/2023 07:35]  System: Lagy has completed the achievement: Domestication (Master).
+[05/31/2023 07:37]  Razor: [Beneficial Target]
+[05/31/2023 07:37]  Razor: [Last Target]
+[05/31/2023 07:37]  Stink Fist: Stink Fist
+[05/31/2023 07:37]  System: You have been revealed!
+[05/31/2023 07:37]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 07:37]  Stink Fist: I ban thee
+[05/31/2023 07:39]  Stink Fist: Kal Ort Por [Recall]
+[05/31/2023 07:39]  Razor: [Beneficial Target]
+[05/31/2023 07:39]  Razor: [Last Target]
+[05/31/2023 07:39]  Stink Fist: Stink Fist
+[05/31/2023 07:42]  System: Brion Farmen has completed the achievement: Wilderness Hunter (Basic).
+[05/31/2023 07:43]  System: Makbule has completed the achievement: Trapper (Basic).
+[05/31/2023 07:44]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 07:44]  System: You generate mana for your spell.
+[05/31/2023 07:44]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 07:44]  Razor: [+Protection (600s)]
+[05/31/2023 07:44]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 07:44]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 07:44]  Stink Fist: Kal Ort Por [Recall]
+[05/31/2023 07:45]  System: [CCC] A Corpse Creek Contest will begin in 15 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[05/31/2023 07:49]  System: The world will save in 15 seconds.
+[05/31/2023 07:49]  System: The world is saving, please wait.
+[05/31/2023 07:49]  System: World save complete. The entire process took 4.3 seconds.
+[05/31/2023 07:50]  Razor: [Beneficial Target]
+[05/31/2023 07:50]  Razor: [Last Target]
+[05/31/2023 07:50]  Stink Fist: Stink Fist
+[05/31/2023 07:50]  System: You have been revealed!
+[05/31/2023 07:50]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 07:50]  Stink Fist: I ban thee
+[05/31/2023 07:51]  System: Ulukai has completed the achievement: Wilderness Hunter (Basic).
+[05/31/2023 07:51]  System: Death Uther has completed the achievement: Guardian of The Mausoleum (Basic).
+[05/31/2023 07:54]  Razor: [-Protection (s)]
+[05/31/2023 07:54]  Schwanzstuker: Schwanzstuker
+[05/31/2023 07:54]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 07:54]  Razor: Target: Schwanzstuker
+[05/31/2023 07:54]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 07:55]  System: You generate mana for your spell.
+[05/31/2023 07:55]  Razor: [+Protection (600s)]
+[05/31/2023 07:55]  System: [CCC] A Corpse Creek Contest will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[05/31/2023 07:55]  System: Your campfire is now secure.
+[05/31/2023 08:00]  System: GetErDug has completed the achievement: Adventurer Associate.
+[05/31/2023 08:00]  System: [CCC] The Corpse Creek Contest has begun! Type [BattleHotbar to view the Battle Hotbar for this event.
+[05/31/2023 08:00]  System: A contested ocean boss will spawn shortly at (2704, 2161, -5)
+[05/31/2023 08:03]  Stink Fist: Stink Fist
+[05/31/2023 08:03]  Empress Nympho: Empress Nympho
+[05/31/2023 08:04]  System: The world will save in 15 seconds.
+[05/31/2023 08:04]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 08:04]  Razor: Target: Empress Nympho
+[05/31/2023 08:04]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 08:04]  Razor: [-Protection (s)]
+[05/31/2023 08:04]  Razor: [+Protection (600s)]
+[05/31/2023 08:04]  Wulf of Wyrd: You have hidden yourself well.
+[05/31/2023 08:04]  Razor: [+Hidden/Stealthing (0s)]
+[05/31/2023 08:04]  System: The world is saving, please wait.
+[05/31/2023 08:04]  System: World save complete. The entire process took 4.6 seconds.
+[05/31/2023 08:05]  Empress Nympho: Kal Ort Por [Recall]
+[05/31/2023 08:08]  Razor: [Beneficial Target]
+[05/31/2023 08:08]  Razor: [Last Target]
+[05/31/2023 08:08]  Empress Nympho: Empress Nympho
+[05/31/2023 08:09]  Schwanzstuker: Schwanzstuker
+[05/31/2023 08:10]  System: CupOfTea has completed the achievement: Scribe (Advanced).
+[05/31/2023 08:10]  Empress Nympho: Kal Ort Por [Recall]
+[05/31/2023 08:11]  Razor: [Beneficial Target]
+[05/31/2023 08:11]  Razor: [Last Target]
+[05/31/2023 08:11]  Empress Nympho: Empress Nympho
+[05/31/2023 08:11]  System: You have been revealed!
+[05/31/2023 08:11]  Razor: [-Hidden/Stealthing (s)]
+[05/31/2023 08:11]  System: sTCKy fINGaz has completed the achievement: Guardian of Darkmire Temple (Basic).
+[05/31/2023 08:12]  System: Flanno has completed the achievement: Connoisseur (Basic).
+[05/31/2023 08:13]  Stink Fist: Stink Fist
+[05/31/2023 08:14]  Wulf of Wyrd: Rel Sanct [Bless]
+[05/31/2023 08:14]  Razor: Target: Stink Fist
+[05/31/2023 08:14]  Wulf of Wyrd: Vas Uus Sanct [Arch Protection]
+[05/31/2023 08:14]  Razor: [-Protection (s)]
+[05/31/2023 08:14]  Razor: [+Protection (600s)]

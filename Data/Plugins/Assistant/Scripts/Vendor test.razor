@@ -1,0 +1,12 @@
+removelist 'vendorId'
+createlist 'vendorId'
+pushlist 'vendorId' 1979317
+
+while not dead
+    hotkey 'Next Monster Target'
+    setvar! myLittleStinkyVar lasttarget 
+    if inlist 'vendorId' myLittleStinkyVar
+        dclick lasttarget
+        break
+    endif
+endwhile

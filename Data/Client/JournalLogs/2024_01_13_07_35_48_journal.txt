@@ -1,0 +1,924 @@
+[01/13/2024 07:35]  System: WorldMap loading...
+[01/13/2024 07:35]  System: Loading WorldMap markers..
+[01/13/2024 07:35]  System: ..Banks_and_Healers.xml (20)
+[01/13/2024 07:35]  System: ..Dungeons.xml (15)
+[01/13/2024 07:35]  System: ..Dungeon_Gates.xml (353)
+[01/13/2024 07:35]  System: ..Healer_Caravans.xml (32)
+[01/13/2024 07:35]  System: ..Kings_Faire.xml (43)
+[01/13/2024 07:35]  System: ..Moongates.xml (9)
+[01/13/2024 07:35]  System: ..POI.xml (176)
+[01/13/2024 07:35]  System: ..PvP_Locations.xml (71)
+[01/13/2024 07:35]  System: ..Shrines.xml (9)
+[01/13/2024 07:35]  System: ..Townships.xml (9)
+[01/13/2024 07:35]  System: WorldMap markers loaded (737)
+[01/13/2024 07:35]  System: Welcome Duluth Trading!
+[01/13/2024 07:35]  System: Your food satisfaction effect has expired.
+[01/13/2024 07:35]  Duluth Trading: Duluth Trading
+[01/13/2024 07:35]  a wolf: a wolf
+[01/13/2024 07:35]  a wolf: a wolf
+[01/13/2024 07:35]  a brown bear: a brown bear
+[01/13/2024 07:35]  a brown bear: a brown bear
+[01/13/2024 07:35]  m a n t o o t h: [SQzD]
+[01/13/2024 07:35]  m a n t o o t h: m a n t o o t h
+[01/13/2024 07:35]  m a n t o o t h: [SQzD]
+[01/13/2024 07:35]  m a n t o o t h: m a n t o o t h
+[01/13/2024 07:35]  a swift: a swift
+[01/13/2024 07:35]  a swift: a swift
+[01/13/2024 07:35]  System: WorldMap loaded!
+[01/13/2024 07:35]  Donato: Donato the dockmaster
+[01/13/2024 07:35]  Donato: Donato the dockmaster
+[01/13/2024 07:36]  Duluth Trading: Kal Ort Por [Recall]
+[01/13/2024 07:36]  System: You are now under the protection of the town guards.
+[01/13/2024 07:36]  a book wyrm: a book wyrm
+[01/13/2024 07:36]  a book wyrm: a book wyrm
+[01/13/2024 07:36]  AAM: (bonded)
+[01/13/2024 07:36]  AAM: AAM
+[01/13/2024 07:36]  AAM: (bonded)
+[01/13/2024 07:36]  AAM: AAM
+[01/13/2024 07:36]  TTANK: (bonded)
+[01/13/2024 07:36]  TTANK: TTANK
+[01/13/2024 07:36]  TTANK: (bonded)
+[01/13/2024 07:36]  TTANK: TTANK
+[01/13/2024 07:36]  AKK: (bonded)
+[01/13/2024 07:36]  AKK: AKK
+[01/13/2024 07:36]  AKK: (bonded)
+[01/13/2024 07:36]  AKK: AKK
+[01/13/2024 07:36]  b: (bonded)
+[01/13/2024 07:36]  b: b
+[01/13/2024 07:36]  b: (bonded)
+[01/13/2024 07:36]  b: b
+[01/13/2024 07:36]  Hellno: (bonded)
+[01/13/2024 07:36]  Hellno: Hellno
+[01/13/2024 07:36]  Hellno: (bonded)
+[01/13/2024 07:36]  Hellno: Hellno
+[01/13/2024 07:36]  a fire salamander: (bonded)
+[01/13/2024 07:36]  a fire salamander: a fire salamander
+[01/13/2024 07:36]  a fire salamander: (bonded)
+[01/13/2024 07:36]  a fire salamander: a fire salamander
+[01/13/2024 07:36]  Jaxxon: Jaxxon
+[01/13/2024 07:36]  Jaxxon: Jaxxon
+[01/13/2024 07:36]  an embear: (bonded)
+[01/13/2024 07:36]  an embear: an embear
+[01/13/2024 07:36]  an embear: (bonded)
+[01/13/2024 07:36]  an embear: an embear
+[01/13/2024 07:36]  RedStone: RedStone
+[01/13/2024 07:36]  RedStone: RedStone
+[01/13/2024 07:36]  Aj Stone: Aj Stone
+[01/13/2024 07:36]  Aj Stone: Aj Stone
+[01/13/2024 07:36]  Angeline: Angeline the creature broker
+[01/13/2024 07:36]  Angeline: Angeline the creature broker
+[01/13/2024 07:36]  Sivan: Sivan the stablemaster
+[01/13/2024 07:36]  Sivan: Sivan the stablemaster
+[01/13/2024 07:36]  Sukatai: Sukatai the animal wrangler
+[01/13/2024 07:36]  Sukatai: Sukatai the animal wrangler
+[01/13/2024 07:36]  Black McBane: Black McBane
+[01/13/2024 07:36]  Black McBane: Black McBane
+[01/13/2024 07:36]  Blackboard: Blackboard
+[01/13/2024 07:36]  Blackboard: Blackboard
+[01/13/2024 07:36]  ilhnnn: Affluent
+[01/13/2024 07:36]  ilhnnn: [Veteran Logger, LOGZ]
+[01/13/2024 07:36]  ilhnnn: Lord ilhnnn
+[01/13/2024 07:36]  ilhnnn: Affluent
+[01/13/2024 07:36]  ilhnnn: [Veteran Logger, LOGZ]
+[01/13/2024 07:36]  ilhnnn: Lord ilhnnn
+[01/13/2024 07:36]  kenneth Grant: kenneth Grant
+[01/13/2024 07:36]  kenneth Grant: kenneth Grant
+[01/13/2024 07:36]  Duncan: Duncan the mage
+[01/13/2024 07:36]  Duncan: Duncan the mage
+[01/13/2024 07:36]  SeverusSnape: [Legionary, -_-]
+[01/13/2024 07:36]  SeverusSnape: SeverusSnape
+[01/13/2024 07:36]  SeverusSnape: [Legionary, -_-]
+[01/13/2024 07:36]  SeverusSnape: SeverusSnape
+[01/13/2024 07:36]  Big-Daddy: Big-Daddy
+[01/13/2024 07:36]  Big-Daddy: Big-Daddy
+[01/13/2024 07:36]  Ingmar: Ingmar the banker
+[01/13/2024 07:36]  Ingmar: Ingmar the banker
+[01/13/2024 07:36]  Clanka: Clanka
+[01/13/2024 07:36]  Clanka: Clanka
+[01/13/2024 07:36]  Calendonia: Calendonia the banker
+[01/13/2024 07:36]  Calendonia: Calendonia the banker
+[01/13/2024 07:36]  Mustard de Craft: Mustard de Craft
+[01/13/2024 07:36]  Mustard de Craft: Mustard de Craft
+[01/13/2024 07:36]  Bucks Rubbish: Bucks Rubbish
+[01/13/2024 07:36]  Bucks Rubbish: Bucks Rubbish
+[01/13/2024 07:36]  DP In Me: DP In Me
+[01/13/2024 07:36]  DP In Me: DP In Me
+[01/13/2024 07:36]  Mister Belvedere: Triggered
+[01/13/2024 07:36]  Mister Belvedere: Lord Mister Belvedere
+[01/13/2024 07:36]  Mister Belvedere: Triggered
+[01/13/2024 07:36]  Mister Belvedere: Lord Mister Belvedere
+[01/13/2024 07:36]  a prevalian marksman: a prevalian marksman
+[01/13/2024 07:36]  a prevalian marksman: a prevalian marksman
+[01/13/2024 07:36]  Bentley: Bentley the scribe
+[01/13/2024 07:36]  Bentley: Bentley the scribe
+[01/13/2024 07:36]  Morning Hood: Morning Hood
+[01/13/2024 07:36]  Morning Hood: Morning Hood
+[01/13/2024 07:36]  Raynor: Raynor the herbalist
+[01/13/2024 07:36]  Raynor: Raynor the herbalist
+[01/13/2024 07:36]  Liadan: Liadan the scribe
+[01/13/2024 07:36]  Liadan: Liadan the scribe
+[01/13/2024 07:36]  a pack horse: (tame)
+[01/13/2024 07:36]  a pack horse: [0/2000 stones]
+[01/13/2024 07:36]  a pack horse: a pack horse
+[01/13/2024 07:36]  a pack horse: (tame)
+[01/13/2024 07:36]  a pack horse: [0/2000 stones]
+[01/13/2024 07:36]  a pack horse: a pack horse
+[01/13/2024 07:36]  Kirua: Kirua
+[01/13/2024 07:36]  Kirua: Kirua
+[01/13/2024 07:36]  Garrett: Garrett the mage
+[01/13/2024 07:36]  Garrett: Garrett the mage
+[01/13/2024 07:36]  Slan: [Soldier, SOF]
+[01/13/2024 07:36]  Slan: Slan
+[01/13/2024 07:36]  Slan: [Soldier, SOF]
+[01/13/2024 07:36]  Slan: Slan
+[01/13/2024 07:36]  a cat: a cat
+[01/13/2024 07:36]  a cat: a cat
+[01/13/2024 07:36]  Thundertaker: Thundertaker
+[01/13/2024 07:36]  Thundertaker: Thundertaker
+[01/13/2024 07:36]  Yo Yo: [Recruit, G.G]
+[01/13/2024 07:36]  Yo Yo: Yo Yo
+[01/13/2024 07:36]  Yo Yo: [Recruit, G.G]
+[01/13/2024 07:36]  Yo Yo: Yo Yo
+[01/13/2024 07:36]  Sweaty-Palms: Sweaty-Palms
+[01/13/2024 07:36]  Sweaty-Palms: Sweaty-Palms
+[01/13/2024 07:36]  cheeky the cat: cheeky the cat
+[01/13/2024 07:36]  cheeky the cat: cheeky the cat
+[01/13/2024 07:36]  Expell: [Henchman, Syn]
+[01/13/2024 07:36]  Expell: Expell
+[01/13/2024 07:36]  Expell: [Henchman, Syn]
+[01/13/2024 07:36]  Expell: Expell
+[01/13/2024 07:36]  CaurumS: [Soldier, DKR]
+[01/13/2024 07:36]  CaurumS: CaurumS
+[01/13/2024 07:36]  CaurumS: [Soldier, DKR]
+[01/13/2024 07:36]  CaurumS: CaurumS
+[01/13/2024 07:36]  itemmmmmmm: itemmmmmmm
+[01/13/2024 07:36]  itemmmmmmm: itemmmmmmm
+[01/13/2024 07:36]  Tamma: Tamma the banker
+[01/13/2024 07:36]  Tamma: Tamma the banker
+[01/13/2024 07:36]  a dog: a dog
+[01/13/2024 07:36]  a dog: a dog
+[01/13/2024 07:36]  Sassy Lumberjack: Sassy Lumberjack
+[01/13/2024 07:36]  Sassy Lumberjack: Sassy Lumberjack
+[01/13/2024 07:36]  Umadusux: [The Tavern], [tT]
+[01/13/2024 07:36]  Umadusux: Umadusux
+[01/13/2024 07:36]  Umadusux: [The Tavern], [tT]
+[01/13/2024 07:36]  Umadusux: Umadusux
+[01/13/2024 07:36]  Der Schatten: Der Schatten
+[01/13/2024 07:36]  Der Schatten: Der Schatten
+[01/13/2024 07:36]  South Side Gnome: [Recruit, 1CE]
+[01/13/2024 07:36]  South Side Gnome: South Side Gnome
+[01/13/2024 07:36]  South Side Gnome: [Recruit, 1CE]
+[01/13/2024 07:36]  South Side Gnome: South Side Gnome
+[01/13/2024 07:36]  a cat: a cat
+[01/13/2024 07:36]  a cat: a cat
+[01/13/2024 07:36]  a dog: a dog
+[01/13/2024 07:36]  a dog: a dog
+[01/13/2024 07:36]  FRND VENDOR MALL: [Friends, FRND]
+[01/13/2024 07:36]  FRND VENDOR MALL: FRND VENDOR MALL
+[01/13/2024 07:36]  FRND VENDOR MALL: [Friends, FRND]
+[01/13/2024 07:36]  FRND VENDOR MALL: FRND VENDOR MALL
+[01/13/2024 07:36]  s: (bonded)
+[01/13/2024 07:36]  s: s
+[01/13/2024 07:36]  s: (bonded)
+[01/13/2024 07:36]  s: s
+[01/13/2024 07:36]  k: (bonded)
+[01/13/2024 07:36]  k: k
+[01/13/2024 07:36]  k: (bonded)
+[01/13/2024 07:36]  k: k
+[01/13/2024 07:36]  Bernard Arnault: Armorer Associate
+[01/13/2024 07:36]  Bernard Arnault: [NWO]
+[01/13/2024 07:36]  Bernard Arnault: Bernard Arnault
+[01/13/2024 07:36]  Bernard Arnault: Armorer Associate
+[01/13/2024 07:36]  Bernard Arnault: [NWO]
+[01/13/2024 07:36]  Bernard Arnault: Bernard Arnault
+[01/13/2024 07:36]  Alodie: Alodie the banker
+[01/13/2024 07:36]  Alodie: Alodie the banker
+[01/13/2024 07:36]  FRND VENDOR MALL: 5k A WEEK WITH 4 WEEK MIN!
+[01/13/2024 07:36]  Bejolt: [Legionary, -_-]
+[01/13/2024 07:36]  Bejolt: Bejolt
+[01/13/2024 07:36]  Bejolt: [Legionary, -_-]
+[01/13/2024 07:36]  Bejolt: Bejolt
+[01/13/2024 07:36]  Fizzling Star: Fizzling Star
+[01/13/2024 07:36]  Fizzling Star: Fizzling Star
+[01/13/2024 07:36]  Fizzling Star: Gating to Riverrun Lodge Vendors!
+[01/13/2024 07:36]  Azina: Azina the alchemist
+[01/13/2024 07:36]  Azina: Azina the alchemist
+[01/13/2024 07:36]  Marden: Marden the alchemist
+[01/13/2024 07:36]  Marden: Marden the alchemist
+[01/13/2024 07:36]  South Side Gnome: Gating to 1CE Vendor Mall & Krish's Museum
+[01/13/2024 07:36]  Linnea: Linnea the Prevalian stylist
+[01/13/2024 07:36]  Linnea: Linnea the Prevalian stylist
+[01/13/2024 07:36]  Bess: Bess the miner
+[01/13/2024 07:36]  Bess: Bess the miner
+[01/13/2024 07:36]  Fulton: Fulton the blacksmith
+[01/13/2024 07:36]  Fulton: Fulton the blacksmith
+[01/13/2024 07:36]  HauntedQuiver: Legendary Pirate
+[01/13/2024 07:36]  HauntedQuiver: [x_-]
+[01/13/2024 07:36]  HauntedQuiver: Lord HauntedQuiver
+[01/13/2024 07:36]  HauntedQuiver: Legendary Pirate
+[01/13/2024 07:36]  HauntedQuiver: [x_-]
+[01/13/2024 07:36]  HauntedQuiver: Lord HauntedQuiver
+[01/13/2024 07:36]  Marden: Marden the alchemist
+[01/13/2024 07:36]  Marden: Marden the alchemist
+[01/13/2024 07:36]  a snowdrift: (bonded)
+[01/13/2024 07:36]  a snowdrift: a snowdrift
+[01/13/2024 07:36]  a snowdrift: (bonded)
+[01/13/2024 07:36]  a snowdrift: a snowdrift
+[01/13/2024 07:36]  a snowdrift: (bonded)
+[01/13/2024 07:36]  a snowdrift: a snowdrift
+[01/13/2024 07:36]  a snowdrift: (bonded)
+[01/13/2024 07:36]  a snowdrift: a snowdrift
+[01/13/2024 07:36]  a gravebug: (bonded)
+[01/13/2024 07:36]  a gravebug: a gravebug
+[01/13/2024 07:36]  a gravebug: (bonded)
+[01/13/2024 07:36]  a gravebug: a gravebug
+[01/13/2024 07:36]  Itadori: Itadori
+[01/13/2024 07:36]  Itadori: Itadori
+[01/13/2024 07:36]  Edwin: Edwin the scribe
+[01/13/2024 07:36]  Edwin: Edwin the scribe
+[01/13/2024 07:36]  Konrad: Konrad the Prevalian Exchange Officer
+[01/13/2024 07:36]  Konrad: Konrad the Prevalian Exchange Officer
+[01/13/2024 07:36]  Barnett: Barnett the tinker
+[01/13/2024 07:36]  Barnett: Barnett the tinker
+[01/13/2024 07:36]  Monroe: Monroe the creature broker
+[01/13/2024 07:36]  Monroe: Monroe the creature broker
+[01/13/2024 07:36]  Beth Dutton: Beth Dutton
+[01/13/2024 07:36]  Beth Dutton: Beth Dutton
+[01/13/2024 07:36]  Aricin: Aricin the stablemaster
+[01/13/2024 07:36]  Aricin: Aricin the stablemaster
+[01/13/2024 07:36]  a molten mongbat: (tame)
+[01/13/2024 07:36]  a molten mongbat: a molten mongbat
+[01/13/2024 07:36]  a molten mongbat: (tame)
+[01/13/2024 07:36]  a molten mongbat: a molten mongbat
+[01/13/2024 07:36]  an aegis scorpion: (bonded)
+[01/13/2024 07:36]  an aegis scorpion: an aegis scorpion
+[01/13/2024 07:36]  an aegis scorpion: (bonded)
+[01/13/2024 07:36]  an aegis scorpion: an aegis scorpion
+[01/13/2024 07:36]  a komodo: (bonded)
+[01/13/2024 07:36]  a komodo: a komodo
+[01/13/2024 07:36]  a komodo: (bonded)
+[01/13/2024 07:36]  a komodo: a komodo
+[01/13/2024 07:36]  a komodo: (bonded)
+[01/13/2024 07:36]  a komodo: a komodo
+[01/13/2024 07:36]  a komodo: (bonded)
+[01/13/2024 07:36]  a komodo: a komodo
+[01/13/2024 07:36]  Eva Elfie: [Vice President, ICON]
+[01/13/2024 07:36]  Eva Elfie: Eva Elfie
+[01/13/2024 07:36]  Eva Elfie: [Vice President, ICON]
+[01/13/2024 07:36]  Eva Elfie: Eva Elfie
+[01/13/2024 07:36]  Merrick: Merrick the barkeep
+[01/13/2024 07:36]  Merrick: Merrick the barkeep
+[01/13/2024 07:36]  Terrill: Terrill the cook
+[01/13/2024 07:36]  Terrill: Terrill the cook
+[01/13/2024 07:36]  Gwenyth: Gwenyth the Lottery Official
+[01/13/2024 07:36]  Gwenyth: Gwenyth the Lottery Official
+[01/13/2024 07:36]  Miles: Miles the innkeeper
+[01/13/2024 07:36]  Miles: Miles the innkeeper
+[01/13/2024 07:36]  Old Vescio: Old Vescio the Seafarer League Master
+[01/13/2024 07:36]  Old Vescio: Old Vescio the Seafarer League Master
+[01/13/2024 07:36]  Kaliya: Kaliya the Artificer Enclave Master
+[01/13/2024 07:36]  Kaliya: Kaliya the Artificer Enclave Master
+[01/13/2024 07:36]  Final Fantasy IX: Final Fantasy IX
+[01/13/2024 07:36]  Final Fantasy IX: Final Fantasy IX
+[01/13/2024 07:36]  Galvin: Galvin the Tradesman Union Master
+[01/13/2024 07:36]  Galvin: Galvin the Tradesman Union Master
+[01/13/2024 07:36]  Cherrybomb: [Officer, NME.]
+[01/13/2024 07:36]  Cherrybomb: Cherrybomb
+[01/13/2024 07:36]  Cherrybomb: [Officer, NME.]
+[01/13/2024 07:36]  Cherrybomb: Cherrybomb
+[01/13/2024 07:36]  Beradine: Beradine the Order of Armorers Master
+[01/13/2024 07:36]  Beradine: Beradine the Order of Armorers Master
+[01/13/2024 07:36]  a blood dragon: (bonded)
+[01/13/2024 07:36]  a blood dragon: a blood dragon
+[01/13/2024 07:36]  a blood dragon: (bonded)
+[01/13/2024 07:36]  a blood dragon: a blood dragon
+[01/13/2024 07:36]  a harvestman: (bonded)
+[01/13/2024 07:36]  a harvestman: a harvestman
+[01/13/2024 07:36]  a harvestman: (bonded)
+[01/13/2024 07:36]  a harvestman: a harvestman
+[01/13/2024 07:36]  Miller: Notorious
+[01/13/2024 07:36]  Miller: Lord Miller
+[01/13/2024 07:36]  Miller: Notorious
+[01/13/2024 07:36]  Miller: Lord Miller
+[01/13/2024 07:36]  Corrine: Corrine the Monster Hunter Society Master
+[01/13/2024 07:36]  Corrine: Corrine the Monster Hunter Society Master
+[01/13/2024 07:36]  Osgood: Osgood the Adventurer Lodge Master
+[01/13/2024 07:36]  Osgood: Osgood the Adventurer Lodge Master
+[01/13/2024 07:36]  a husk crab: (bonded)
+[01/13/2024 07:36]  a husk crab: a husk crab
+[01/13/2024 07:36]  a husk crab: (bonded)
+[01/13/2024 07:36]  a husk crab: a husk crab
+[01/13/2024 07:36]  Beradine: Beradine the Order of Armorers Master
+[01/13/2024 07:36]  Beradine: The Order of Armorers has the following jobs available this week.
+[01/13/2024 07:36]  Beradine: The Order of Armorers has the following jobs available this week.
+[01/13/2024 07:36]  System: You accept the job.
+[01/13/2024 07:36]  System: 9 remaining jobs available for account.
+[01/13/2024 07:36]  System: You accept the job.
+[01/13/2024 07:36]  System: 8 remaining jobs available for account.
+[01/13/2024 07:36]  [Guild][Jay-Renai Nyleve]: There are thieves around
+[01/13/2024 07:36]  Ozmond Ozborne: [Syn]
+[01/13/2024 07:36]  Ozmond Ozborne: Lord Ozmond Ozborne
+[01/13/2024 07:36]  Ozmond Ozborne: [Syn]
+[01/13/2024 07:36]  Ozmond Ozborne: Lord Ozmond Ozborne
+[01/13/2024 07:36]  System: 7 remaining jobs available for account.
+[01/13/2024 07:36]  System: You accept the job.
+[01/13/2024 07:36]  [Guild][Jay-Renai Nyleve]: stay invis'd
+[01/13/2024 07:36]  System: 6 remaining jobs available for account.
+[01/13/2024 07:36]  Corrine: The Monster Hunter Society has the following jobs available this week.
+[01/13/2024 07:36]  System: You accept the job.
+[01/13/2024 07:37]  System: 5 remaining jobs available for account.
+[01/13/2024 07:37]  System: You accept the job.
+[01/13/2024 07:37]  Kaliya: The Artificer Enclave has the following jobs available this week.
+[01/13/2024 07:37]  Duluth Trading: Kal Ort Por [Recall]
+[01/13/2024 07:37]  System: You have left the protection of the town guards.
+[01/13/2024 07:37]  Razor: [Harmful Target]
+[01/13/2024 07:37]  Razor: [Beneficial Target]
+[01/13/2024 07:37]  Razor: [Last Target]
+[01/13/2024 07:37]  a brown bear: a brown bear
+[01/13/2024 07:37]  a brown bear: a brown bear
+[01/13/2024 07:37]  a wolf: a wolf
+[01/13/2024 07:37]  a wolf: a wolf
+[01/13/2024 07:37]  m a n t o o t h: [SQzD]
+[01/13/2024 07:37]  m a n t o o t h: m a n t o o t h
+[01/13/2024 07:37]  m a n t o o t h: [SQzD]
+[01/13/2024 07:37]  m a n t o o t h: m a n t o o t h
+[01/13/2024 07:37]  a swift: a swift
+[01/13/2024 07:37]  a swift: a swift
+[01/13/2024 07:37]  Donato: Donato the dockmaster
+[01/13/2024 07:37]  Donato: Donato the dockmaster
+[01/13/2024 07:37]  System: Opening door...
+[01/13/2024 07:37]  System: Your house and its contents have been refreshed. 15 days 5 minutes remaining until owner refresh required.
+[01/13/2024 07:37]  Razor:  Scanning for rat 
+[01/13/2024 07:37]  System: Where will you search?
+[01/13/2024 07:37]  System: You search the home and find no one hiding within.
+[01/13/2024 07:37]  [Razor]: No one matching that was found on your screen.
+[01/13/2024 07:37]  System: Target the individual to ban from this house.
+[01/13/2024 07:37]  Duluth Trading: I ban thee
+[01/13/2024 07:37]  System: You cannot eject a friend of the house!
+[01/13/2024 07:37]  [Razor]: No one matching that was found on your screen.
+[01/13/2024 07:37]  [Razor]: No one matching that was found on your screen.
+[01/13/2024 07:37]  [Razor]: No one matching that was found on your screen.
+[01/13/2024 07:37]  [Razor]: No one matching that was found on your screen.
+[01/13/2024 07:37]  System: Item added to queue.
+[01/13/2024 07:37]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[01/13/2024 07:37]  System: Source container set: Resource Stockpile.
+[01/13/2024 07:37]  System: Crafting queue begun.
+[01/13/2024 07:38]  System: Society Job Progress: 1/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (1/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (2/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 2/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (3/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 3/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (4/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (5/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 4/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (6/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 5/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (7/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 6/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (8/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 7/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (9/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 8/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (10/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (11/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 9/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (12/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (13/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 10/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (14/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (15/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 11/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (16/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (17/60 made): You create the item.
+[01/13/2024 07:38]  System: Leather Gloves (18/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 12/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (19/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (20/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 13/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (21/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 14/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (22/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 15/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (23/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 16/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (24/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 17/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (25/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (26/60 made): You create the item.
+[01/13/2024 07:38]  System: Society Job Progress: 18/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (27/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Society Job Progress: 19/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:38]  System: Leather Gloves (28/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:38]  System: Leather Gloves (29/60 made): You create the item.
+[01/13/2024 07:38]  System: Leather Gloves (30/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 20/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (31/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (32/60 made): You create the item.
+[01/13/2024 07:39]  System: Leather Gloves (33/60 made): You create the item.
+[01/13/2024 07:39]  System: Leather Gloves (34/60 made): You create the item.
+[01/13/2024 07:39]  System: Leather Gloves (35/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 21/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (36/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 22/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (37/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (38/60 made): You create the item.
+[01/13/2024 07:39]  System: Leather Gloves (39/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 23/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (40/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (41/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 24/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (42/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 25/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (43/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 26/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (44/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 27/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (45/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 28/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (46/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (47/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 29/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (48/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 30/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (49/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 31/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (50/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (51/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 32/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (52/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (53/60 made): You create the item.
+[01/13/2024 07:39]  System: Leather Gloves (54/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 33/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (55/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (56/60 made): You create the item.
+[01/13/2024 07:39]  System: Society Job Progress: 34/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (57/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Society Job Progress: 35/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:39]  System: Leather Gloves (58/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:39]  System: Leather Gloves (59/60 made): You create the item.
+[01/13/2024 07:39]  System: Leather Gloves (60/60 made): You create the item.
+[01/13/2024 07:40]  System: Leather Gloves: 60 crafted complete.
+[01/13/2024 07:40]  System: Crafting queue complete.
+[01/13/2024 07:40]  System: Crafting queue begun.
+[01/13/2024 07:40]  System: Society Job Progress: 36/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (1/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Society Job Progress: 37/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (2/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Society Job Progress: 38/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (3/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Zulina has completed the achievement: Enhanced (Basic).
+[01/13/2024 07:40]  System: Society Job Progress: 39/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (4/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Society Job Progress: 40/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (5/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Society Job Progress: 41/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (6/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Leather Gloves (7/60 made): You create the item.
+[01/13/2024 07:40]  System: Society Job Progress: 42/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (8/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Society Job Progress: 43/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (9/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Society Job Progress: 44/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:40]  System: Leather Gloves (10/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:40]  System: Leather Gloves (11/60 made): You create the item.
+[01/13/2024 07:40]  System: Leather Gloves (12/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (13/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 45/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (14/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 46/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (15/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 47/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (16/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Leather Gloves (17/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (18/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 48/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (19/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 49/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (20/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 50/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (21/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Leather Gloves (22/60 made): You create the item.
+[01/13/2024 07:41]  System: Zulina has completed the achievement: Enhanced (Advanced).
+[01/13/2024 07:41]  System: Society Job Progress: 51/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (23/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Leather Gloves (24/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 52/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (25/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 53/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (26/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 54/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (27/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Leather Gloves (28/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 55/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (29/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Leather Gloves (30/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 56/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (31/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Leather Gloves (32/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (33/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (34/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (35/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 57/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (36/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Society Job Progress: 58/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (37/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:41]  System: Stephanius has completed the achievement: Animal Bond (Advanced).
+[01/13/2024 07:41]  System: Leather Gloves (38/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (39/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (40/60 made): You create the item.
+[01/13/2024 07:41]  System: Leather Gloves (41/60 made): You create the item.
+[01/13/2024 07:41]  System: Society Job Progress: 59/60 [Craft 60 Exceptional Leather Gloves].
+[01/13/2024 07:41]  System: Leather Gloves (42/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: You have completed a society job [Craft 60 Exceptional Leather Gloves] and have earned 8 points within the Order of Armorers!
+[01/13/2024 07:42]  System: Leather Gloves (43/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (44/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (45/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (46/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (47/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (48/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (49/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (50/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (51/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (52/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (53/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (54/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (55/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (56/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (57/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (58/60 made): You create the item.
+[01/13/2024 07:42]  System: Leather Gloves (59/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves (60/60 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:42]  System: Leather Gloves: 60 crafted complete.
+[01/13/2024 07:42]  System: Crafting queue complete.
+[01/13/2024 07:43]  System: The world will save in 15 seconds.
+[01/13/2024 07:43]  System: The world is saving, please wait.
+[01/13/2024 07:43]  System: World save complete. The entire process took 2.1 seconds.
+[01/13/2024 07:45]  System: [SR] A Stygian Rifts event will begin in 15 minutes. Players may sign up in the Arena at the Stygian Rift section of the region. Type [BattleHotbar to view the Battle Hotbar for this event.
+[01/13/2024 07:46]  System: Crafting queue begun.
+[01/13/2024 07:46]  System: Crafting queue stopped.
+[01/13/2024 07:46]  System: Syscall has completed the achievement: Expressive (Advanced).
+[01/13/2024 07:52]  System: Khelbenn has completed the achievement: Wizard (Advanced).
+[01/13/2024 07:52]  System: Item added to queue.
+[01/13/2024 07:52]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[01/13/2024 07:52]  System: Source container set: Resource Stockpile.
+[01/13/2024 07:52]  System: Crafting queue begun.
+[01/13/2024 07:52]  System: Society Job Progress: 1/3 [Craft 3 Bronzehide Quiver].
+[01/13/2024 07:52]  System: Bronzehide Quiver (1/3 made): You create the item.
+[01/13/2024 07:52]  System: Society Job Progress: 2/3 [Craft 3 Bronzehide Quiver].
+[01/13/2024 07:52]  System: Bronzehide Quiver (2/3 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:52]  System: You have completed a society job [Craft 3 Bronzehide Quiver] and have earned 3 points within the Order of Armorers!
+[01/13/2024 07:52]  System: Bronzehide Quiver (3/3 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:52]  System: Bronzehide Quiver: 3 crafted complete.
+[01/13/2024 07:52]  System: Crafting queue stopped.
+[01/13/2024 07:53]  System: Item added to queue.
+[01/13/2024 07:53]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[01/13/2024 07:53]  System: Source container set: Resource Stockpile.
+[01/13/2024 07:53]  System: Crafting queue begun.
+[01/13/2024 07:53]  System: Society Job Progress: 1/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (1/14 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:53]  System: Society Job Progress: 2/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (2/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 3/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (3/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 4/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (4/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 5/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (5/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 6/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (6/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 7/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (7/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 8/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (8/14 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:53]  System: Society Job Progress: 9/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (9/14 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:53]  System: Society Job Progress: 10/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (10/14 made): You create the item.
+[01/13/2024 07:53]  System: Society Job Progress: 11/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:53]  System: Shadowhide Quiver (11/14 made): You create the item.
+[01/13/2024 07:53]  System: Shadowhide Quiver: You don't have the resources required to make that item.
+[01/13/2024 07:53]  System: Crafting queue complete.
+[01/13/2024 07:53]  System: Shadowhide Quiver: You don't have the resources required to make that item.
+[01/13/2024 07:54]  m a n t o o t h: Kal Ort Por [Recall]
+[01/13/2024 07:55]  System: [SR] A Stygian Rifts event will begin in 5 minutes. Type [BattleHotbar to view the Battle Hotbar for this event.
+[01/13/2024 07:55]  Razor: [Harmful Target]
+[01/13/2024 07:55]  Razor: [Beneficial Target]
+[01/13/2024 07:55]  m a n t o o t h: [SQzD]
+[01/13/2024 07:55]  m a n t o o t h: m a n t o o t h
+[01/13/2024 07:55]  m a n t o o t h: [SQzD]
+[01/13/2024 07:55]  m a n t o o t h: m a n t o o t h
+[01/13/2024 07:55]  System: Crafting queue begun.
+[01/13/2024 07:55]  System: Society Job Progress: 12/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:55]  System: Shadowhide Quiver (1/14 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:55]  System: Society Job Progress: 13/14 [Craft 14 Shadowhide Quiver].
+[01/13/2024 07:55]  System: Shadowhide Quiver (2/14 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:55]  System: You have completed a society job [Craft 14 Shadowhide Quiver] and have earned 7 points within the Order of Armorers!
+[01/13/2024 07:55]  System: Shadowhide Quiver (3/14 made): You create the item.
+[01/13/2024 07:55]  System: Crafting queue stopped.
+[01/13/2024 07:56]  You see: exceptional leather gloves
+[01/13/2024 07:56]  You see: [mastercrafted by Duluth Trading]
+[01/13/2024 07:56]  System: Target an individual item to recycle.
+[01/13/2024 07:56]  System: Target the type of item you wish to recycle. All regular items of that type found in your pack will be recycled.
+[01/13/2024 07:56]  System: Target the type of item you wish to recycle. All items of that type found in your pack will be recycled.
+[01/13/2024 07:56]  System: Target the type of item you wish to recycle. All items of that type found in your pack will be recycled.
+[01/13/2024 07:57]  System: Target an item or container of items you wish to add to this Resource Stockpile. Target yourself to add all valid items in your backpack.
+[01/13/2024 07:57]  System: You add 1 item(s) to the Resource Stockpile.
+[01/13/2024 07:57]  System: You add 1 item(s) to the Resource Stockpile.
+[01/13/2024 07:57]  System: Target an item or container of items you wish to add to this Resource Stockpile. Target yourself to add all valid items in your backpack.
+[01/13/2024 07:57]  System: Item added to queue.
+[01/13/2024 07:57]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[01/13/2024 07:57]  System: Source container set: Resource Stockpile.
+[01/13/2024 07:57]  System: Crafting queue begun.
+[01/13/2024 07:57]  System: Society Job Progress: 1/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:57]  System: Leather Leggings (1/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:57]  System: Leather Leggings (2/55 made): You create the item.
+[01/13/2024 07:57]  System: Society Job Progress: 2/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:57]  System: Leather Leggings (3/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:57]  System: Leather Leggings (4/55 made): You create the item.
+[01/13/2024 07:57]  System: Society Job Progress: 3/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:57]  System: Leather Leggings (5/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:57]  System: Leather Leggings (6/55 made): You create the item.
+[01/13/2024 07:57]  System: Society Job Progress: 4/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:57]  System: Leather Leggings (7/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:57]  System: Leather Leggings (8/55 made): You create the item.
+[01/13/2024 07:57]  System: Society Job Progress: 5/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:57]  System: Leather Leggings (9/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:57]  System: Leather Leggings (10/55 made): You create the item.
+[01/13/2024 07:57]  System: Society Job Progress: 6/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:57]  System: Leather Leggings (11/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Leather Leggings (12/55 made): You create the item.
+[01/13/2024 07:58]  System: Society Job Progress: 7/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (13/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 8/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (14/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Leather Leggings (15/55 made): You create the item.
+[01/13/2024 07:58]  System: Leather Leggings (16/55 made): You create the item.
+[01/13/2024 07:58]  System: Society Job Progress: 9/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (17/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Leather Leggings (18/55 made): You create the item.
+[01/13/2024 07:58]  System: Leather Leggings (19/55 made): You create the item.
+[01/13/2024 07:58]  System: Society Job Progress: 10/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (20/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 11/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (21/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 12/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (22/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 13/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (23/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 14/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (24/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Leather Leggings (25/55 made): You create the item.
+[01/13/2024 07:58]  System: Leather Leggings (26/55 made): You create the item.
+[01/13/2024 07:58]  System: The world will save in 15 seconds.
+[01/13/2024 07:58]  System: Leather Leggings (27/55 made): You create the item.
+[01/13/2024 07:58]  System: Leather Leggings (28/55 made): You create the item.
+[01/13/2024 07:58]  System: Society Job Progress: 15/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (29/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 16/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (30/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 17/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (31/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 18/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (32/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Leather Leggings (33/55 made): You create the item.
+[01/13/2024 07:58]  System: Society Job Progress: 19/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (34/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: The world is saving, please wait.
+[01/13/2024 07:58]  System: World save complete. The entire process took 2.1 seconds.
+[01/13/2024 07:58]  System: Leather Leggings: You must wait to perform another action.
+[01/13/2024 07:58]  System: Leather Leggings (35/55 made): You create the item.
+[01/13/2024 07:58]  System: Leather Leggings (36/55 made): You create the item.
+[01/13/2024 07:58]  System: Society Job Progress: 20/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (37/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 21/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (38/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:58]  System: Society Job Progress: 22/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:58]  System: Leather Leggings (39/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Society Job Progress: 23/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (40/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Society Job Progress: 24/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (41/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Leather Leggings (42/55 made): You create the item.
+[01/13/2024 07:59]  System: Society Job Progress: 25/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (43/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Society Job Progress: 26/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (44/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Leather Leggings (45/55 made): You create the item.
+[01/13/2024 07:59]  System: Society Job Progress: 27/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (46/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Society Job Progress: 28/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (47/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Society Job Progress: 29/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (48/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Society Job Progress: 30/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (49/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Leather Leggings (50/55 made): You create the item.
+[01/13/2024 07:59]  System: Society Job Progress: 31/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (51/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Leather Leggings (52/55 made): You create the item.
+[01/13/2024 07:59]  System: Society Job Progress: 32/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (53/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 07:59]  System: Leather Leggings (54/55 made): You create the item.
+[01/13/2024 07:59]  System: Leather Leggings (55/55 made): You create the item.
+[01/13/2024 07:59]  System: Leather Leggings: 55 crafted complete.
+[01/13/2024 07:59]  System: Crafting queue complete.
+[01/13/2024 07:59]  System: Crafting queue begun.
+[01/13/2024 07:59]  System: Leather Leggings (1/55 made): You create the item.
+[01/13/2024 07:59]  System: Society Job Progress: 33/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 07:59]  System: Leather Leggings (2/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (3/55 made): You create the item.
+[01/13/2024 08:00]  System: [SR] A Stygian Rifts event has begun!
+[01/13/2024 08:00]  System: Leather Leggings (4/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 34/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (5/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Society Job Progress: 35/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (6/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (7/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (8/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 36/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (9/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (10/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (11/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 37/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (12/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (13/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (14/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 38/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (15/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (16/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (17/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 39/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (18/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (19/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (20/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (21/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (22/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 40/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (23/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (24/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (25/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 41/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (26/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (27/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (28/55 made): You create the item.
+[01/13/2024 08:00]  System: Society Job Progress: 42/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (29/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Society Job Progress: 43/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:00]  System: Leather Leggings (30/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:00]  System: Leather Leggings (31/55 made): You create the item.
+[01/13/2024 08:00]  System: Leather Leggings (32/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (33/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (34/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (35/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (36/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (37/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (38/55 made): You create the item.
+[01/13/2024 08:01]  System: Society Job Progress: 44/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (39/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Society Job Progress: 45/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (40/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Leather Leggings (41/55 made): You create the item.
+[01/13/2024 08:01]  System: Society Job Progress: 46/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (42/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Leather Leggings (43/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (44/55 made): You create the item.
+[01/13/2024 08:01]  System: Society Job Progress: 47/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (45/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Leather Leggings (46/55 made): You create the item.
+[01/13/2024 08:01]  System: Society Job Progress: 48/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (47/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Leather Leggings (48/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (49/55 made): You create the item.
+[01/13/2024 08:01]  System: Society Job Progress: 49/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (50/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Society Job Progress: 50/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:01]  System: Leather Leggings (51/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:01]  System: Leather Leggings (52/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (53/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (54/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings (55/55 made): You create the item.
+[01/13/2024 08:01]  System: Leather Leggings: 55 crafted complete.
+[01/13/2024 08:01]  System: Crafting queue complete.
+[01/13/2024 08:02]  System: Cherrybomb has completed the achievement: Order of Armorers Patrician.
+[01/13/2024 08:06]  System: Blackhawer has completed the achievement: Remodeler (Basic).
+[01/13/2024 08:08]  System: Crafting queue begun.
+[01/13/2024 08:08]  System: Leather Leggings (1/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (2/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (3/55 made): You create the item.
+[01/13/2024 08:08]  System: Society Job Progress: 51/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:08]  System: Leather Leggings (4/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:08]  System: Leather Leggings (5/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (6/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (7/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (8/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (9/55 made): You create the item.
+[01/13/2024 08:08]  System: Society Job Progress: 52/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:08]  System: Leather Leggings (10/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:08]  System: Leather Leggings (11/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (12/55 made): You create the item.
+[01/13/2024 08:08]  System: Society Job Progress: 53/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:08]  System: Leather Leggings (13/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:08]  System: Leather Leggings (14/55 made): You create the item.
+[01/13/2024 08:08]  System: Society Job Progress: 54/55 [Craft 55 Exceptional Leather Leggings].
+[01/13/2024 08:08]  System: Leather Leggings (15/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:08]  System: Leather Leggings (16/55 made): You create the item.
+[01/13/2024 08:08]  System: Leather Leggings (17/55 made): You create the item.
+[01/13/2024 08:08]  System: You have completed a society job [Craft 55 Exceptional Leather Leggings] and have earned 11 points within the Order of Armorers!
+[01/13/2024 08:08]  System: Leather Leggings (18/55 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:08]  System: Leather Leggings (19/55 made): You create the item.
+[01/13/2024 08:08]  System: Crafting queue stopped.
+[01/13/2024 08:09]  m a n t o o t h: Kal Ort Por [Recall]
+[01/13/2024 08:10]  Razor: [Harmful Target]
+[01/13/2024 08:10]  Razor: [Beneficial Target]
+[01/13/2024 08:10]  m a n t o o t h: [SQzD]
+[01/13/2024 08:10]  m a n t o o t h: m a n t o o t h
+[01/13/2024 08:10]  m a n t o o t h: [SQzD]
+[01/13/2024 08:10]  m a n t o o t h: m a n t o o t h
+[01/13/2024 08:10]  Donato: Donato the dockmaster
+[01/13/2024 08:10]  Donato: Donato the dockmaster
+[01/13/2024 08:10]  System: Item added to queue.
+[01/13/2024 08:10]  a swift: a swift
+[01/13/2024 08:10]  a swift: a swift
+[01/13/2024 08:11]  System: Which container do you wish to use as the source container for this item? Target yourself for your backpack.
+[01/13/2024 08:11]  System: Source container set: Resource Stockpile.
+[01/13/2024 08:11]  System: Crafting queue begun.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (1/24 made): You create the item.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (2/24 made): You create the item.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (3/24 made): You create the item.
+[01/13/2024 08:11]  System: Nick Daicos has completed the achievement: Domestication (Intermediate).
+[01/13/2024 08:11]  System: Dullhide Leather Arms (4/24 made): You create the item.
+[01/13/2024 08:11]  System: Society Job Progress: 1/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (5/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (6/24 made): You create the item.
+[01/13/2024 08:11]  System: Society Job Progress: 2/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (7/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (8/24 made): You create the item.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (9/24 made): You create the item.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (10/24 made): You create the item.
+[01/13/2024 08:11]  System: Society Job Progress: 3/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (11/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Society Job Progress: 4/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (12/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Society Job Progress: 5/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (13/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (14/24 made): You create the item.
+[01/13/2024 08:11]  System: Society Job Progress: 6/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (15/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (16/24 made): You create the item.
+[01/13/2024 08:11]  System: MaistuDePannu has completed the achievement: Artificers Enclave Dignitary.
+[01/13/2024 08:11]  System: Society Job Progress: 7/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (17/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Society Job Progress: 8/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (18/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Society Job Progress: 9/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (19/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Society Job Progress: 10/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (20/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (21/24 made): You create the item.
+[01/13/2024 08:11]  System: Society Job Progress: 11/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:11]  System: Dullhide Leather Arms (22/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (23/24 made): You create the item.
+[01/13/2024 08:11]  System: Dullhide Leather Arms (24/24 made): You create the item.
+[01/13/2024 08:11]  System: Dullhide Leather Arms: 24 crafted complete.
+[01/13/2024 08:11]  System: Crafting queue complete.
+[01/13/2024 08:12]  System: Crafting queue begun.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (1/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 12/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (2/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (3/24 made): You create the item.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (4/24 made): You create the item.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (5/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 13/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (6/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (7/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 14/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (8/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Society Job Progress: 15/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (9/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (10/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 16/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (11/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Society Job Progress: 17/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (12/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Society Job Progress: 18/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (13/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (14/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 19/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (15/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Society Job Progress: 20/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (16/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (17/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 21/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (18/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (19/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 22/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (20/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (21/24 made): You create the item.
+[01/13/2024 08:12]  System: Society Job Progress: 23/24 [Craft 24 Exceptional Dullhide Leather Arms].
+[01/13/2024 08:12]  System: Dullhide Leather Arms (22/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms (23/24 made): You create the item.
+[01/13/2024 08:12]  System: You have completed a society job [Craft 24 Exceptional Dullhide Leather Arms] and have earned 12 points within the Order of Armorers!
+[01/13/2024 08:12]  System: Dullhide Leather Arms (24/24 made): You create an exceptional quality item and affix your maker's mark.
+[01/13/2024 08:12]  System: Dullhide Leather Arms: 24 crafted complete.
+[01/13/2024 08:12]  System: Crafting queue stopped.

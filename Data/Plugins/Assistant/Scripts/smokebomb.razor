@@ -1,0 +1,10 @@
+if not findtype "bombs" self
+    overhead 'Out of smoke bombs' 34
+endif
+if cooldown "Smoke Bomb"
+     // there are other things that could be checked
+    elseif findtype "bombs" self
+        say '[smokebomb' 
+        overhead 'Ninja Poof' 68
+    endif
+endif
