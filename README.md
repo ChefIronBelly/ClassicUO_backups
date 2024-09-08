@@ -1,9 +1,9 @@
 # UO Outlands
 
-ClassicUO & Razor Profile backups
+ClassicUO & Razor Data backups
 
 Razor ver Razor Outlands Edition
 
-ClassicUO - 1.0.1.44
+ClassicUO - 1.0.1.83
 
-ClassicUO/Data/Profiles
+ClassicUO/Data
