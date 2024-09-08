@@ -5,9 +5,20 @@
 # https://youtube.com/jaseowns/live
 #######
 #####
-##  Verison 4.0.0
-##  Last Edit: 5/18/2024
-##    - fixing gump for codex, add taunt, remove pot hand check
+##  Verison 4.4.0
+##  8/23/2024
+##     - adding explosion potions
+##
+##  8/16/2024
+##     - fix potion check for satchel equipped or not
+##
+##  7/22/2024
+##     - updated the codex bar to be an option
+##
+##  7/1/2024
+##     - add weapon abilities + fixed timer (after stream)
+##  5/28/2024
+##    - add preference for taunt jaseowns_AutoTaunting and skinning default off
 ###
 
 
@@ -26,7 +37,18 @@
 ###### Random abilities
 ################
 @setvar! automaticallySkinCorpses 1
-@setvar! automaticallyPoisonWeaponThatIsEquipped 1
+@setvar! automaticallyPoisonWeaponThatIsEquipped 0
+
+###
+## Alchemy Throw Pot (will disable automatically if less than 80 alchemy)
+###
+@setvar! jaseowns_AutoExplodePot 0
+
+
+###
+## Auto Taunt
+###
+@setvar! jaseowns_AutoTaunting 0
 
 
 ################################
@@ -34,10 +56,10 @@
 ################
 @setvar! automaticallyDrinkStrPot 1
 @setvar! automaticallyDrinkAgiPot 1
-@setvar! automaticallyDrinkMagicPot 1
+@setvar! automaticallyDrinkMagicPot 0
 @setvar! automaticallyDrinkHealPot 1
 @setvar! automaticallyDrinkCurePot 1
-@setvar! automaticallyDrinkRefreshPot 1
+@setvar! automaticallyDrinkRefreshPot 0
 
 @setvar! hpCheckToTriggerHealPotion 45
 @setvar! hpCheckToTriggerCurePotion 45
@@ -54,6 +76,18 @@
 @setvar! useDivineFuryAutomatically 1
 @setvar! hpTriggerForHolyLight 35
 @setvar! lowHealthTriggerForNobleSacrifice 40
+
+################################
+###### Weapon abilities
+################
+@setvar! jaseowns_LoadFullCodexBar 1
+@setvar! jaseowns_LoadWeaponAbilityBar 0
+
+@setvar! jaseowns_UseAbilityTimerCD 5000
+
+@setvar! jaseowns_UseAbility1 0
+@setvar! jaseowns_UseAbility2 0
+@setvar! jaseowns_UseAbility3 0
 
 @setvar! myRangeCheckForTarget 1
 
@@ -192,10 +226,10 @@ endif
 ###### Codex Stance Switch
 ################
 @setvar! lowHealthSwitchToWarding 60
-@setvar! switchShieldCodexAutomatically 1
-@setvar! switchToWardingStanceDuringBleed 1
-@setvar! switchToWardingStanceDuringDisease 1
-@setvar! switchToWardingStanceDuringPoison 1
+@setvar! switchShieldCodexAutomatically 0
+@setvar! switchToWardingStanceDuringBleed 0
+@setvar! switchToWardingStanceDuringDisease 0
+@setvar! switchToWardingStanceDuringPoison 0
 @setvar! switchToShieldBash 0
 @setvar! switchToBulwark 1
 @setvar! cdSwitchStance 10000
@@ -208,24 +242,60 @@ endif
 @setvar! cdPreventChivAbilitySpam 750
 @setvar! cdSkinningCheck 3000
 
+# This only checks for my specific character and changes stuff for me
+if name = "Jase Rents"
+    @setvar! jaseowns_AutoTaunting 0
+    @setvar! switchShieldCodexAutomatically 0
+    @setvar! switchToShieldBash 1
+    @setvar! switchToBulwark 0
+endif
+
 ##############################################
 ###########  DO NOT EDIT BELOW THIS
 #######
         
-@setvar! jaseowns_TauntingTimerCD 15000
 
-if not timerexists jaseowns_TauntingTimer
-    settimer jaseowns_TauntingTimer jaseowns_TauntingTimerCD
+@setvar! jaseowns_AutoExplodePotTimerCD 15000
+if not timerexists jaseowns_AutoExplodePotTimer
+    settimer jaseowns_AutoExplodePotTimer jaseowns_AutoExplodePotTimerCD
 endif
-
-@setvar! cdWorldSaveOver 15000
 
 if not findtype "runebook" backpack and not findtype "runetome" backpack
     overhead "Hey old timer you forget something" 34
     stop
 endif
 
+if skill "Alchemy" < 80
+    @setvar! jaseowns_AutoExplodePot 0
+endif
+
+@setvar! jaseowns_TauntingTimerCD 15000
+
+if not timerexists jaseowns_TauntingTimer
+    settimer jaseowns_TauntingTimer jaseowns_TauntingTimerCD
+endif
+
+if not timerexists jaseowns_UseAbility1Timer
+    settimer jaseowns_UseAbility1Timer 30000
+endif
+
+if not timerexists jaseowns_UseAbility2Timer
+    settimer jaseowns_UseAbility2Timer 30000
+endif
+
+if not timerexists jaseowns_UseAbility3Timer
+    settimer jaseowns_UseAbility3Timer 30000
+endif
+
+
+@setvar! cdWorldSaveOver 15000
+
 while not dead
+
+    if not gumpexists 3954121934 and jaseowns_LoadWeaponAbilityBar = 1
+        say '[abilitieshotbar'
+        waitforgump 3954121934 5000
+    endif
 
     if skill "Animal Taming" > 100
         while dead myDexxerTankPet
@@ -361,28 +431,28 @@ while not dead
             overhead "We are overweight and cannot drop anything" 34
         endif
     endif
-
-    if not varexist jaseCrimHealCheck
-        gumpclose 3587807212
-        while not gumpexists 3587807212
-            say '[commands'
-            wait 200
-        endwhile
-        gumpresponse 11 3587807212
-        waitforgump 3587807212 5000
-        gumpresponse 3 3587807212
-        waitforgump 3587807212 5000
-        if ingump "[PreventCriminalHealing" 3587807212
-            if ingump "Prevented"
-                gumpclose 3587807212
-            else
-                gumpresponse 29 3587807212
-                waitforgump 3587807212 5000
-                gumpclose 3587807212
-            endif
-        endif
-        @setvar! jaseCrimHealCheck 1
-    endif
+#
+#    if not varexist jaseCrimHealCheck
+#        gumpclose 3587807212
+#        while not gumpexists 3587807212
+#            say '[commands'
+#            wait 200
+#        endwhile
+#        gumpresponse 11 3587807212
+#        waitforgump 3587807212 5000
+#        gumpresponse 3 3587807212
+#        waitforgump 3587807212 5000
+#        if ingump "[PreventCriminalHealing" 3587807212
+#            if ingump "Prevented"
+#                gumpclose 3587807212
+#            else
+#                gumpresponse 29 3587807212
+#                waitforgump 3587807212 5000
+#                gumpclose 3587807212
+#            endif
+#        endif
+#        @setvar! jaseCrimHealCheck 1
+#    endif
 
     if not timerexists worldSaveTimer
         settimer worldSaveTimer cdWorldSaveOver
@@ -426,15 +496,15 @@ while not dead
         endif
     endif
 
-    if not findtype "White Potion" backpack
+    if not findtype "White Potion" self
         @setvar! automaticallyDrinkStrPot 0
     endif
 
-    if not findtype "Blue Potion" backpack
+    if not findtype "Blue Potion" self
         @setvar! automaticallyDrinkAgiPot 0
     endif
 
-    if not findtype "Black Potion" backpack
+    if not findtype "Black Potion" self
         @setvar! automaticallyDrinkMagicPot 0
     endif
 
@@ -514,6 +584,71 @@ while not dead
                 settimer preventOverheadSpamTimer 0
             endif
             attack lasttarget 
+
+            # Purple Potion
+            if jaseowns_AutoExplodePot = 1 and timer jaseowns_AutoExplodePotTimer >= jaseowns_AutoExplodePotTimerCD and findtype 3853 self 0 as jaseowns_Pot
+                
+                dclick jaseowns_Pot
+
+                if findtype 3853 self 0 as jaseowns_Pot2
+                    getlabel jaseowns_Pot2 jaseowns_PotDesc    
+                    if "next" in jaseowns_PotDesc
+                        if "12 seconds" in jaseowns_PotDesc
+                            @setvar! jaseowns_AutoExplodePotTimerCD 12000
+                        elseif "13 seconds" in jaseowns_PotDesc
+                            @setvar! jaseowns_AutoExplodePotTimerCD 13000
+                        elseif "14 seconds" in jaseowns_PotDesc
+                            @setvar! jaseowns_AutoExplodePotTimerCD 14000
+                        elseif "15 seconds" in jaseowns_PotDesc
+                            @setvar! jaseowns_AutoExplodePotTimerCD 15000
+                        endif
+                        settimer jaseowns_AutoExplodePotTimer 0
+                        cooldown "Purple Pot" jaseowns_AutoExplodePotTimerCD
+                    endif
+                endif
+                
+                wft 500
+                target lasttarget
+            endif
+            
+
+            if jaseowns_UseAbility1 = 1 and timer jaseowns_UseAbility1Timer >= jaseowns_UseAbilityTimerCD
+                say "[WeaponAbility1"
+                getlabel backpack jaseowns_PingCheck 
+                if insysmsg "You do cannot perform that ability yet."
+                    settimer jaseowns_UseAbility1Timer 0
+                elseif insysmsg "You have not yet unlocked that weapon ability."
+                    @setvar! jaseowns_UseAbility1 0
+                else
+                    settimer jaseowns_UseAbility1Timer 0 
+                endif
+            endif 
+
+            if jaseowns_UseAbility2 = 1 and timer jaseowns_UseAbility2Timer >= jaseowns_UseAbilityTimerCD
+                say "[WeaponAbility2"
+                getlabel backpack jaseowns_PingCheck 
+                if insysmsg "You do cannot perform that ability yet."
+                    settimer jaseowns_UseAbility2Timer 0
+                elseif insysmsg "You have not yet unlocked that weapon ability."
+                    @setvar! jaseowns_UseAbility2 0
+                else
+                    settimer jaseowns_UseAbility2Timer 0 
+                endif
+            endif   
+            
+            if jaseowns_UseAbility3 = 1 and timer jaseowns_UseAbility3Timer >= jaseowns_UseAbilityTimerCD
+                say "[WeaponAbility3"
+                getlabel backpack jaseowns_PingCheck 
+                if insysmsg "You do cannot perform that ability yet."
+                    settimer jaseowns_UseAbility3Timer 0
+                elseif insysmsg "You have not yet unlocked that weapon ability."
+                    @setvar! jaseowns_UseAbility3 0
+                else
+                    settimer jaseowns_UseAbility3Timer 0 
+                endif
+            endif   
+
+            
         endif
     endif
 
@@ -562,21 +697,21 @@ while not dead
         @setvar! needRefreshPot 1 
     endif
 
-    if needStrBuff = 1 and not findtype "White Potion" backpack
+    if needStrBuff = 1 and not findtype "White Potion" self
         @setvar! needStrBuff 0
     endif
 
-    if needDexBuff = 1 and not findtype "Blue Potion" backpack
+    if needDexBuff = 1 and not findtype "Blue Potion" self
         @setvar! needDexBuff 0
     endif
 
-    if needMagicBuff = 1 and not findtype "Black Potion" backpack
+    if needMagicBuff = 1 and not findtype "Black Potion" self
         @setvar! needMagicBuff 0
     endif
 
-    if needHealPot = 1 and not findtype "Yellow Potion" backpack
+    if needHealPot = 1 and not findtype "Yellow Potion" self
         @setvar! needHealPot 0
-    elseif needHealPot = 1 and findtype "Yellow Potion" backpack as item
+    elseif needHealPot = 1 and findtype "Yellow Potion" self as item
         getlabel item healPotDesc
         if "next usable" in healPotDesc
             @setvar! needHealPot 0
@@ -585,11 +720,11 @@ while not dead
         endif
     endif
 
-    if needCurePot = 1 and not findtype "Orange Potion" backpack
+    if needCurePot = 1 and not findtype "Orange Potion" self
         @setvar! needCurePot 0
     endif
 
-    if needRefreshPot = 1 and not findtype "Red Potion" backpack
+    if needRefreshPot = 1 and not findtype "Red Potion" self
         @setvar! needRefreshPot 0
     endif
 
@@ -597,7 +732,7 @@ while not dead
     if needStrBuff = 1 or needDexBuff = 1 or needMagicBuff = 1 or needHealPot = 1 or needCurePot = 1 or needRefreshPot = 1
 
             if needHealPot = 1
-                if findtype "Yellow Potion" backpack as jotion
+                if findtype "Yellow Potion" self as jotion
                     overhead "chug heal"
                     dclick jotion
                     wait minimumWaitForPing
@@ -608,7 +743,7 @@ while not dead
             endif
             
             if needCurePot = 1
-                if findtype "Orange Potion" backpack as jotion
+                if findtype "Orange Potion" self as jotion
                     overhead "chug cure"
                     dclick jotion
                     wait minimumWaitForPing
@@ -619,7 +754,7 @@ while not dead
             
                         
             if needDexBuff = 1
-                if findtype "Blue Potion" backpack as jotion
+                if findtype "Blue Potion" self as jotion
                     overhead "chug"
                     dclick jotion
                     wait minimumWaitForPing
@@ -633,7 +768,7 @@ while not dead
             endif
         
             if needRefreshPot = 1
-                if findtype "Red Potion" backpack as jotion
+                if findtype "Red Potion" self as jotion
                     overhead "chug refresh"
                     dclick jotion
                     wait minimumWaitForPing
@@ -643,7 +778,7 @@ while not dead
             endif
         
             if needStrBuff = 1
-                if findtype "White Potion" backpack as jotion
+                if findtype "White Potion" self as jotion
                     overhead "chug"
                     dclick jotion
                     wait minimumWaitForPing
@@ -653,7 +788,7 @@ while not dead
             endif
             
             if needMagicBuff = 1
-                if findtype "Black Potion" backpack as jotion
+                if findtype "Black Potion" self as jotion
                     overhead "chug"
                     dclick jotion
                     wait minimumWaitForPing
@@ -676,8 +811,8 @@ while not dead
         if not varexist canUseShieldFinisher
             @setvar! canUseShieldFinisher 1
         endif
-        
-        if not gumpexists 2016719803
+
+        if not gumpexists 2016719803 and jaseowns_LoadFullCodexBar = 1
             while not gumpexists 1066647553
                 overhead "Loading hotbar"
                 yell "[CodexHotBar"
@@ -1073,7 +1208,7 @@ while not dead
         endif
     endif
 
-    if skill "Healing" > 0
+    if not targetexists and skill "Healing" > 0
             
         @setvar! cdAids 15000
         if dex >= 100
@@ -1109,7 +1244,7 @@ while not dead
         settimer sCheck 11000
     endif
     
-    if find myKillTarget ground -1 -1 2 and findlayer self righthand and findlayer self lefthand
+    if jaseowns_AutoTaunting = 1 and find myKillTarget ground -1 -1 2 and skill "Parry" >= 80
         if not cooldown "Taunting" and timer jaseowns_TauntingTimer >= jaseowns_TauntingTimerCD
             say "[Taunt"
             wft 500
@@ -1126,7 +1261,6 @@ while not dead
                 endif
             endif
         endif
-    
     endif
 
        
