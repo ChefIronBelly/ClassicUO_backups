@@ -10,11 +10,19 @@
 #####
 @setvar! globalTimeout 650
 @setvar! tomeChest 0x411EDE22
-@setvar! myRecallScrollsChest 0x45C01032
+@setvar! myRecallScrollsChest 0x49EDE482
 @setvar! bandagesToMoveIntoTrappedPouches 0
 @setvar! putPotsInUnTrappedLootPouch 0
-@setvar! myHouseSign 0x48F67513
+@setvar! myHouseSign 0x503DB41E
 @setvar! prettyItemOrganizer 1
+@setvar! moveOnlyUnidentifiedItems 0
+
+if name = "Jaseowns" or name = "Jase Owns"
+    if not position 4082 731
+        overhead "Not at home" 34
+        stop
+    endif
+endif
 
 if not varexist lootdropoff or not find lootdropoff ground -1 -1 2
     overhead "Where should items go?"
@@ -27,15 +35,9 @@ if not findlayer self righthand and varexist jase_righthand and jase_righthand !
     wait globalTimeout
 endif
 
-if name = "Jaseowns" or name = "Jase Owns"
-    if not position 4082 731
-        overhead "Not at home" 34
-        stop
-    endif
-endif
 
-if name = "Jase Owns"
-    @setvar! prettyItemOrganizer 1
+if name = "Jase Owns" or name = "Jaseowns"
+    @setvar! prettyItemOrganizer 0
     @setvar! bandagesToMoveIntoTrappedPouches 0
 endif
 
@@ -43,12 +45,44 @@ if find myHouseSign ground -1 -1 20
     dclick myHouseSign
     waitforgump 2490201206 500
     gumpclose 2490201206
+    wait globalTimeout
 endif 
 
-if findtype "repair bench" ground -1 -1 2 as bench
-    dclick bench
-    wait globalTimeout
+if skill "Mining" >= 50 and findtype "forge" ground -1 -1 2
+    while findtype 6585 backpack as item
+        dclick item
+        wait 650
+        @ignore item
+    endwhile
 endif
+
+
+if findtype "repair bench" ground -1 -1 2 as bench
+    clearsysmsg 
+    dclick bench
+    getlabel backpack jaseowns_PingCheck
+    if insysmsg "You do not have any items equipped or in your backpack in need of repairs."
+        // continue
+    else
+        settimer lilJaseTimer 0
+        while timer lilJaseTimer <= 5000 
+            if insysmsg "Repair"
+                break
+            endif
+        endwhile
+        overhead "Repair took: {{lilJaseTimer}}"
+        removetimer lilJaseTimer
+    endif
+endif
+
+
+if findtype "magic item chest" ground -1 -1 2 as jaseowns_WildlandsMagicChest
+    menu jaseowns_WildlandsMagicChest 0
+    wft 500
+    target self
+    wait 200
+endif
+
 
 if findtype "storage shelf" ground -1 -1 2 as shelf
     menu shelf 0
@@ -86,6 +120,11 @@ if findtype "bank deposit safe" ground -1 -1 2 as safe
         drop safe -1 -1 -1
         wait globalTimeout
     endwhile
+    while findtype 2539 backpack 2125 as joubloons
+        lift joubloons 60000
+        drop safe -1 -1 -1
+        wait globalTimeout
+    endwhile
 endif
 
 if findtype "resource container" ground -1 -1 2 as resource
@@ -105,10 +144,24 @@ if findtype "spellbook" self 0 as mySpellBook
     ignore mySpellBook
 endif
 
-while findtype 24434|43206|29363|43166|22336|29348|17087|3985|8826|3827|29030|3836|5981|4248|5359|3839|3838|3843|2597|29036|48407|3834|3865|3859|3885|3856|3878|3877|3873|3861|3862|576|5123|7177|7027|3920|5131|5179|5075|3980|5060|5076|5042|10245|3938|3913|7169|3909|5063|5089|3981|7170|7033|3976|3762|5040|5103|5117|7181|7029|3568|6264|3742|5139|6263|7026|5125|3740|5121|3973|3974|5204|5105|5185|5078|5115|7175|5059|7034|3915|5112|5070|5049|5119|5205|5046|3962|3934|7035|3911|7179|5106|5143|3573|3719|5177|7610|5181|3917|5132|3963|7031|5207|5056|5085|3763|5129|5187|3721|3972|5138|3570|5101|5061|5074|5142|5182|5146|6265|5090|5203|5044|5144|3932|5201|5127|3572|7173|5135|3937|3571|22326|27611|9917|3821|5356|8455|5362|45315|8454|22187|5901|7163|3617|3903|12686 backpack as item
+if varexist jase_MyInny and find jase_MyInny backpack
+    getlabel jase_MyInny innyDesc
+    overhead "Ignoring: {{innyDesc}}" 77
+    @ignore jase_MyInny
+    wait 200
+endif
+
+#while findtype 12686 backpack as item
+#    lift item 60000
+#    drop ddd -1 -1 -1
+#    wait globalTimeout 
+#    @ignore item  
+#endwhile
+
+while findtype 3568|3570|3571|3572|3573|3713|3719|3721|3740|3742|3762|3763|3834|3909|3911|3913|3915|3917|3920|3922|3932|3934|3937|3938|5040|5042|5044|5046|5049|5112|5115|5117|5119|5121|5123|5125|5127|5177|5179|5181|5182|5185|5187|7026|7027|7029|7031|7033|7034|7035|7107|7109|10245|20006|20008|20010|20012|20014|20016|22187|30988|30989|30990|30991|30992|30993|30994|30995|30996|30997|30998|30999|31000|31001|31002|31014|31017|31019|31021|31023|31025|31027|31029|31031|31033|31035|31037|31038|31041|31043|31045|31047|31049|31051|31053|31055|31128|31130|31141|31142|31176|31178|31180|31182|31184|31186|31188|31190|576|2472|2475|2594|2597|2744|2750|2760|2771|2778|2799|3648|3649|3650|3651|3708|3712|3735|3736|3737|3738|3827|3836|3838|3839|3842|3843|3985|4248|5356|5359|5981|8826|12686|15297|17087|17686|19717|22244|22336|23996|23997|24343|24434|29025|29036|29040|29832|29833|43166|43179|43206|48405|48407|3834|6238|8786|8787|8901|11881|11882|11883|11884|11885|11886|11887|11888|11889|11890|11891|11893|11895|29103|29104|29105|41471|42516|45340|45823|5056|5059|5060|5061|5063|5070|5074|5075|5076|5078|5085|5089|5090|5101|5103|5105|5106|5129|5131|5132|5135|5138|5139|5142|5143|5144|5146|5201|5203|5204|5205|5207|7169|7170|7173|7175|7177|7179|7181|7610|7947|31003|31004|31005|31006|31007|31008|31009|31010|31011|31012|31015|31191|4025|4026|24434|43206|29363|43166|22336|29348|17087|3985|8826|3827|29030|3836|5981|4248|5359|3839|3838|3843|2597|29036|48407|3834|3865|3859|3885|3856|3878|3877|3873|3861|3862|576|5123|7177|7027|3920|5131|5179|5075|3980|5060|5076|5042|10245|3938|3913|7169|3909|5063|5089|3981|7170|7033|3976|3762|5040|5103|5117|7181|7029|3568|6264|3742|5139|6263|7026|5125|3740|5121|3973|3974|5204|5105|5185|5078|5115|7175|5059|7034|3915|5112|5070|5049|5119|5205|5046|3962|3934|7035|3911|7179|5106|5143|3573|3719|5177|7610|5181|3917|5132|3963|7031|5207|5056|5085|3763|5129|5187|3721|3972|5138|3570|5101|5061|5074|5142|5182|5146|6265|5090|5203|5044|5144|3932|5201|5127|3572|7173|5135|3937|3571|22326|27611|9917|3821|5356|8455|5362|45315|8454|22187|5901|7163|3617|3903|12686 backpack as item
     getlabel item checkForBlessed
     if "blessed" in checkForBlessed or "aspect" in checkForBlessed
-        overhead "Ignoring {{checkForBlessed}}" 34
+        # overhead "Ignoring {{checkForBlessed}}" 34
         @ignore item
     else
         getlabel lootdropoff desc    
@@ -116,9 +169,18 @@ while findtype 24434|43206|29363|43166|22336|29348|17087|3985|8826|3827|29030|38
             overhead "Our box is full!" 34
             break
         endif
-        lift item 60000
-        drop lootdropoff -1 -1 -1
-        wait globalTimeout
+        if moveOnlyUnidentifiedItems = 1
+            if "unidentified" in checkForBlessed
+                lift item 60000
+                drop lootdropoff -1 -1 -1
+                wait globalTimeout
+            endif 
+        else
+            lift item 60000
+            drop lootdropoff -1 -1 -1
+            wait globalTimeout 
+        endif
+        @ignore item
     endif
 endwhile
 
@@ -472,28 +534,72 @@ endif
 if not varexist jase_lefthand
     @setvar! jase_lefthand 0
 endif
-@setvar! jase_shoes 0
-@setvar! jase_pants 0
-@setvar! jase_shirt 0
-@setvar! jase_head 0
-@setvar! jase_gloves 0
-@setvar! jase_ring 0
-@setvar! jase_talisman 0
-@setvar! jase_neck 0
-@setvar! jase_waist 0
-@setvar! jase_innertorso 0
-@setvar! jase_bracelet 0
-@setvar! jase_face 0
-@setvar! jase_middletorso 0
-@setvar! jase_earrings 0
-@setvar! jase_arms 0
-@setvar! jase_cloak 0
-@setvar! jase_outertorso 0
-@setvar! jase_outerlegs 0
-@setvar! jase_innerlegs 0
-@setvar! jase_onehandedsecondary 0
-@setvar! jase_quiver 0
-@setvar! jase_outerbody 0
+if not varexist jase_shoes
+    @setvar! jase_shoes 0
+endif
+if not varexist jase_pants
+    @setvar! jase_pants 0
+endif
+if not varexist jase_shirt
+    @setvar! jase_shirt 0
+endif
+if not varexist jase_head
+    @setvar! jase_head 0
+endif
+if not varexist jase_gloves
+    @setvar! jase_gloves 0
+endif
+if not varexist jase_ring
+    @setvar! jase_ring 0
+endif
+if not varexist jase_talisman
+    @setvar! jase_talisman 0
+endif
+if not varexist jase_neck
+    @setvar! jase_neck 0
+endif
+if not varexist jase_waist
+    @setvar! jase_waist 0
+endif
+if not varexist jase_innertorso
+    @setvar! jase_innertorso 0
+endif
+if not varexist jase_bracelet
+    @setvar! jase_bracelet 0
+endif
+if not varexist jase_face
+    @setvar! jase_face 0
+endif
+if not varexist jase_middletorso
+    @setvar! jase_middletorso 0
+endif
+if not varexist jase_earrings
+    @setvar! jase_earrings 0
+endif
+if not varexist jase_arms
+    @setvar! jase_arms 0
+endif
+if not varexist jase_cloak
+    @setvar! jase_cloak 0
+endif
+if not varexist jase_outertorso
+    @setvar! jase_outertorso 0
+endif
+if not varexist jase_outerlegs
+    @setvar! jase_outerlegs 0
+endif
+if not varexist jase_innerlegs
+    @setvar! jase_innerlegs 0
+endif
+if not varexist jase_onehandedsecondary
+    @setvar! jase_onehandedsecondary 0
+endif
+if not varexist jase_quiver
+    @setvar! jase_quiver 0
+endif
+if not varexist jase_outerbody
+    @setvar! jase_outerbody 0
+endif
 
 if findtype "mushroom" backpack as mushy
     @setvar! jase_shrooms mushy
@@ -575,4 +681,95 @@ if jase_righthand = 0
     overhead "We do not see your weapon!" 34
 elseif find jase_righthand backpack
     dclick jase_righthand
+endif
+
+if followers > 0
+    say "all follow me" 88
+endif
+
+@clearignore 
+
+# Set an Instrument by Jaseowns
+# UO Outlands
+if not varexist jase_MyInny or not find jase_MyInny backpack
+
+    @setvar! innySelectionRequired 0
+
+    removelist innnies
+    createlist innnies
+    
+    if counttype "bamboo flute" backpack as innyCount
+        pushlist innnies "bamboo flute"
+        if innyCount > 1
+            @setvar! innySelectionRequired 1
+        endif
+    endif    
+    
+    if counttype "tambourine" backpack as innyCount
+        pushlist innnies "tambourine"
+        if innyCount > 1
+            @setvar! innySelectionRequired 1
+        endif
+    endif  
+  
+    if counttype "drum" backpack as innyCount
+        pushlist innnies "drum"
+        if innyCount > 1
+            @setvar! innySelectionRequired 1
+        endif
+    endif    
+    
+    if counttype "lute" backpack as innyCount
+        pushlist innnies "lute"
+        if innyCount > 1
+            @setvar! innySelectionRequired 1
+        endif
+    endif    
+    
+    if counttype "flute" backpack as innyCount
+        pushlist innnies "flute"
+        if innyCount > 1
+            @setvar! innySelectionRequired 1
+        endif
+    endif  
+  
+    if counttype "lap harp" backpack as innyCount
+        pushlist innnies "lap harp"
+        if innyCount > 1
+            @setvar! innySelectionRequired 1
+        endif
+    endif    
+    
+    if list innnies <= 0
+        // do nothing
+    elseif innySelectionRequired = 1
+        overhead "Please select your instrunment"
+        setvar jase_MyInny
+    elseif list innnies = 1
+        foreach goodies in innnies
+            if findtype goodies backpack as setInny
+                setvar jase_MyInny setInny
+            endif
+        endfor
+    elseif list innnies > 1
+        overhead "You got a bunch bro" 34
+        overhead "Please select your instrunment"
+        setvar jase_MyInny
+    endif
+    
+    if find jase_MyInny backpack
+        dclick jase_MyInny
+        wait 650
+    endif
+endif
+
+
+if varexist jootbag and find jootbag backpack
+    hotkey "Set Grab Item Hotbag"
+    wft 500
+    target jootbag
+endif
+
+if name = "Jase Owns"
+    hotkey "Play Script: Tamer\PutAwayCrook"
 endif
